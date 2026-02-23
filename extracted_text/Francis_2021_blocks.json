@@ -1,0 +1,5662 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      186.85980224609375,
+      61.90913391113281,
+      576.1199951171875,
+      131.67788696289062
+    ],
+    "text": "The effect of an integrated reading and\nanxiety intervention for poor readers with\nanxiety"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      186.85980224609375,
+      144.16958618164062,
+      528.3252563476562,
+      170.5284881591797
+    ],
+    "text": "Deanna Francis1, Jennifer L. Hudson2, Saskia Kohnen1, Lynn Mobach2,3\nand Genevieve M. McArthur1"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      180.51019287109375,
+      174.71583557128906,
+      502.7210998535156,
+      187.48052978515625
+    ],
+    "text": "1 Macquarie University Centre for Reading, Department of Cognitive Science, Macquarie"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      180.51019287109375,
+      189.45582580566406,
+      528.3041381835938,
+      220.3624267578125
+    ],
+    "text": "University, NSW, Australia\n2 Centre for Emotional Health, Department of Psychology, Macquarie University, NSW, Australia\n3 Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, Netherlands"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      198.82200622558594,
+      239.60787963867188,
+      274.5198059082031,
+      253.55548095703125
+    ],
+    "text": "ABSTRACT"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      198.82200622558594,
+      260.728759765625,
+      566.2050170898438,
+      383.2591552734375
+    ],
+    "text": "A recent systematic review has reported that poor reading is reliably associated with\nanxiety. However, we currently lack evidence-based intervention for children who\nhave both poor reading and anxiety (PRAX). In this study, we tested a new PRAX\nintervention in 8- to 12-year-old children using a double-baseline intervention case\nseries design. Analyses of both group and individual data revealed that 12 weeks of\nPRAX intervention signiﬁcantly improved children’s reading and spelling accuracy,\nand signiﬁcantly reduced both anxiety disorders and symptoms. These results\nsupport PRAX intervention as a treatment for comorbid reading and anxiety\nproblems in children and pave the way to a randomised controlled trial."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      186.85980224609375,
+      407.4450988769531,
+      465.3367004394531,
+      430.3337097167969
+    ],
+    "text": "Subjects Cognitive Disorders, Pediatrics, Psychiatry and Psychology\nKeywords Poor reading, Anxiety, Intervention case series, Treatment"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      186.85980224609375,
+      441.8313903808594,
+      578.1127319335938,
+      710.5419311523438
+    ],
+    "text": "INTRODUCTION\nAround 16% of children ﬁnd it difﬁcult to learn to read compared to children who are\nthe same age or in the same grade (Shaywitz et al., 1992). Some of these children\nhave a persistent difﬁculty learning to read while other children fail to learn to read\nbecause of inadequate reading instruction. There are also some children with both a\npersistent reading difﬁculty and poor instruction. The reading problems that a child\nexperiences may include a speciﬁc problem learning to read words accurately using the\ngrapheme-phoneme correspondence (GPCs) rules (i.e. poor phonological recoding),\nwhile some struggle to learn to recognise whole words from memory (i.e. poor visual\nword recognition; Castles & Coltheart, 1996; Kohnen et al., 2018; Stuart & Stainthorp,\n2016; Temple & Marshall, 1983). Others learn to read words accurately but struggle to\nread ﬂuently (Lovett, 1984; Morris et al., 1998) or struggle to understand the meaning\nof what they read (poor comprehenders; Nation et al., 2010; Nation & Snowling, 1997;\nOakhill, 1984). While many children have these speciﬁc reading problems, an even\ngreater number have two or more of these difﬁculties (Castles & Coltheart, 1996;\nGoulandris & Snowling, 1991; McArthur et al., 2013; Peterson, Pennington & Olson, 2013).\nIn addition, many of these children also struggle with their spelling (Landerl & Moll, 2010;\nMoll et al., 2014)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      186.8031005859375,
+      752.496826171875,
+      576.3213500976562,
+      768.6776733398438
+    ],
+    "text": "How to cite this article Francis D, Hudson JL, Kohnen S, Mobach L, McArthur GM. 2021. The effect of an integrated reading and anxiety\nintervention for poor readers with anxiety. PeerJ 9:e10987 DOI 10.7717/peerj.10987"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.850399017333984,
+      485.37506103515625,
+      142.5881805419922,
+      516.5444946289062
+    ],
+    "text": "Submitted 27 October 2020\nAccepted 1 February 2021\nPublished 24 February 2021"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.850399017333984,
+      523.5086059570312,
+      132.82566833496094,
+      554.73583984375
+    ],
+    "text": "Corresponding author\nDeanna Francis,\ndeanna.francis@mq.edu.au"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.850399017333984,
+      561.378662109375,
+      100.68775939941406,
+      581.6078491210938
+    ],
+    "text": "Academic editor\nAnna Borghi"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.850399017333984,
+      588.2506713867188,
+      153.33251953125,
+      619.1566162109375
+    ],
+    "text": "Additional Information and\nDeclarations can be found on\npage 24"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.850399017333984,
+      626.1207275390625,
+      130.58676147460938,
+      635.3405151367188
+    ],
+    "text": "DOI 10.7717/peerj.10987"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.85055160522461,
+      642.0542602539062,
+      103.8243179321289,
+      661.755126953125
+    ],
+    "text": "Copyright\n2021 Francis et al."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      36.85055160522461,
+      668.9827270507812,
+      157.90818786621094,
+      688.890625
+    ],
+    "text": "Distributed under\nCreative Commons CC-BY 4.0"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      186.85916137695312,
+      87.24859619140625,
+      578.2183227539062,
+      382.1760559082031
+    ],
+    "text": "Another common childhood problem is anxiety, which affects around 10% of\nchildren (Copeland et al., 2014). Like poor reading, children have different types of anxiety.\nOne of the most prevalent types of anxiety is social anxiety, which includes worries\nabout performance situations such as reading aloud, meeting new children, or joining\nconversations (Lawrence et al., 2015). Other types of anxiety include generalised anxiety\n(i.e. numerous and persistent worries about school performance, friendships, family\nmatters, or daily activities), separation anxiety (i.e. worry about separation from parents or\nhome, distress before school, difﬁculty spending time alone), and speciﬁc phobias (i.e. fear\nof speciﬁc situations, objects, or animals such as dogs, as well as heights, doctors, or\nthunderstorms). Related anxiety problems include obsessive-compulsive disorder\n(i.e. repetitive or intrusive thoughts or behaviours) and panic disorder with or without\nagoraphobia (i.e. sudden and intense onset of fear with or without the fear of being\nunable to escape; Diagnostic and Statistical Manual 5th edition; DSM-5; American\nPsychiatric Association, 2013). Each type of anxiety falls along a continuum. Some\nchildren experience symptoms that meet diagnostic criteria for a disorder, while others\nexperience symptoms that do not meet these criteria. There is high comorbidity between the\nanxiety disorders, with social, separation, and generalised anxiety often co-occurring in\nchildren (Kendall et al., 2010; Kendall, Brady & Verduin, 2001). Anxiety also shares a\nclose comorbidity with depression particularly in adolescents and adulthood (Garber &\nWeersing, 2010)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      186.85916137695312,
+      386.1268005371094,
+      578.1688842773438,
+      651.1209106445312
+    ],
+    "text": "Traditionally, poor reading and anxiety in children have been studied independently.\nHowever, in recent years, there has been growing concern that children with poor reading\nare at increased risk for anxiety (Carroll et al., 2005; Maughan & Carroll, 2006; Willcutt\net al., 2013). This concern inspired a recent systematic review and meta-analysis of the\nassociation between poor reading and anxiety (Francis et al., 2019), which was found to be\nmoderate and statistically reliable (d = 0.41), while the relationship between poor reading\nand depression was weak yet reliable (d = 0.23). This outcome raised the question of\nhow comorbid problems in reading and anxiety might be reduced in children. While there\nare effective interventions for poor reading, and effective interventions for anxiety, there\nare no interventions that address both reading and anxiety at the same time. Indeed,\nno study has tested the efﬁcacy of an intervention that combines treatment for both poor\nreading and anxiety. In fact, we can ﬁnd only one peer-reviewed study that has tested\nan intervention for children with poor reading and anxiety, and this study provided\nintervention for just reading—not anxiety (Grills et al., 2014). Thus, the current study\ndevelops the ﬁrst schema (e.g. an approach) to integrate reading and anxiety interventions\nfor children with comorbid reading and anxiety difﬁculties. In the sections that follow,\nwe review the existing evidence for available reading and available anxiety interventions\nfor children."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      186.86354064941406,
+      655.1286010742188,
+      578.1632690429688,
+      725.8404541015625
+    ],
+    "text": "The weight of existing evidence suggests that an intervention programme for reading or\nanxiety should cater for the heterogeneous needs of individuals by providing targeted\ntreatment for each of those needs (Chorpita, Becker & Daleiden, 2007; Coyne, Kame’enui &\nSimmons, 2004). Thus, a PRAX intervention schema should include a suite of ‘modules’\nthat target this range of needs. For reading, the evidence suggests that these modules aim to"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n2/30"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      186.85980224609375,
+      86.53382873535156,
+      578.1190795898438,
+      172.92713928222656
+    ],
+    "text": "improve phonological decoding, visual word recognition, reading ﬂuency, and reading\ncomprehension. For anxiety, the evidence suggests that these modules should include\ncognitive behavioural therapy (CBT) techniques that target the cognitive distortions and\nunhelpful behaviours underpinning the child’s anxiety. Below, we consider the evidence\nfor each of these modules in turn. We also outline the evidence-based interventions that we\nselected to represent each module in the PRAX intervention used in this study."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      186.85870361328125,
+      176.934814453125,
+      578.2186889648438,
+      337.33294677734375
+    ],
+    "text": "Phonological decoding is the ability to read words using GPCs. Current evidence suggests\nthat phonological decoding responds reliably to ‘phonics’ training, which teaches readers\nhow to apply GPC rules during reading and/or phoneme-grapheme correspondence (PGC)\nrules during spelling. Meta-analyses have reported that phonics training has statistically\nsigniﬁcant moderate-to-large effects on word reading accuracy in poor readers for real\nwords (d = 0.51–0.67) and for nonsense words (nonwords; d = 0.60–0.76; Ehri et al., 2001;\nMcArthur et al., 2018). In the PRAX intervention used in this study, we use the Macquarie\nUniversity Reading Clinic (MURC) Reading Gaps and Spelling Gaps programmes for\nthe phonological decoding module of the PRAX schema (see “Methods” below; Kohnen &\nBanales, 2015a, 2015b; Kohnen, Banales & McArthur, 2020), as this intervention adopts an\nindividualised and tailored approach to teaching children phonics."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      186.85760498046875,
+      340.5688781738281,
+      578.103759765625,
+      516.6484985351562
+    ],
+    "text": "Visual word recognition is the ability to recognise a whole written word from ‘orthographic\nmemory’ (i.e. the written-word lexicon). This ability is often trained by reading and\nspelling whole words (Colenbrander et al., 2020). The success of this approach, which\nwas initially demonstrated in case intervention studies (Broom & Doctor, 1995;\nBrunsdon, Coltheart & Nickels, 2005; Rowse & Wilshire, 2007), is also supported by\ngroup-controlled trials that have reported large training effects in groups of children\nwith poor word reading ability (d = 1.05–1.60; McArthur et al., 2015a, 2015b). In the\nPRAX intervention used in this study, we used the MURC Sight Word Reading and\nSight Word Spelling programmes for the visual word recognition module of the\nPRAX intervention schema (Kohnen & Banales, 2015c; Kohnen, Banales & McArthur,\n2020), as this intervention uses a tailored and individualised ﬂashcard approach to\nincreasing children’s sight word knowledge."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      186.8575439453125,
+      519.94140625,
+      578.1552734375,
+      710.9415893554688
+    ],
+    "text": "Reading ﬂuency is the ability read with the appropriate level of accuracy, and at the\nappropriate rate, for a reader’s age or grade (Wolf & Katzir-Cohen, 2001). The evidence\nbase for reading ﬂuency is more limited than phonological recoding or visual word\nrecognition, nevertheless, a review by Begeny et al. (2010) of four meta-analyses and two\nsystematic reviews identiﬁed eight potentially effective strategies for improving reading\nﬂuency. These were: reading silently whilst a skilled reader reads aloud; systematic error\ncorrection; practising a particular text; combined performance and graphical feedback;\nsystematic praise and reward; explicit instruction to read for ﬂuency; explicit instruction to\nread for comprehension; and repeated reading aloud of level-appropriate texts. Another\npromising technique for improving ﬂuency is ‘wide reading’, which provides children\nwith a variety of texts to improve the ﬂuency of their phonological decoding and visual\nword recognition skills (Ardoin et al., 2016). In the PRAX intervention used in this\nstudy, we used the MURC Text Reading programme, which combines wide reading and"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n3/30"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      186.85980224609375,
+      86.53382873535156,
+      578.1145629882812,
+      113.17427062988281
+    ],
+    "text": "systematic error correction, to represent the reading ﬂuency module of the PRAX schema\n(Kohnen & Banales, 2015d; Kohnen, Banales & McArthur, 2020)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      186.85760498046875,
+      116.41023254394531,
+      578.1553344726562,
+      277.5230712890625
+    ],
+    "text": "Once a child can read ﬂuently, one would hope that they could understand the meaning\nof a text—the ultimate goal of reading. However, some children need speciﬁc help for their\nreading comprehension. Randomised controlled trials and meta-analyses suggest that\nreading comprehension intervention should include strategy instruction to allow a deep\nand rich interaction with text, such as question generation, activating background\nknowledge, and visualisation (Clarke et al., 2010; Elleman, 2017; Johnson-Glenberg, 2000).\nThe explicit teaching of vocabulary within a text has also been effective in improving\nreading (Wright & Cervetti, 2017). In the PRAX intervention used in this study, we use the\nMURC Comprehension programme, which combines strategy instruction with vocabulary\ntraining, to represent the reading comprehension module of the PRAX intervention\nschema (Macquarie University Reading Clinic, 2016)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      186.8554229736328,
+      281.53082275390625,
+      578.137939453125,
+      516.6484985351562
+    ],
+    "text": "Shifting our focus to anxiety interventions, multiple systematic reviews and\nmeta-analyses have reported that Cognitive Behavioural Therapy (CBT) is an effective\npsychological treatment for childhood anxiety (Kendall, 2000), with statistically signiﬁcant\neffects for self-reported (Cohen’s d = 0.21–2.53), parent-reported (d = 0.15–3.98), and\nclinician-reported anxiety symptoms (d = 0.38–1.46). High anxiety remission rates have\nalso been found (Cartwright-Hatton et al., 2004; Compton et al., 2002; Ginsburg et al.,\n2011; Ishikawa et al., 2007; James et al., 2013). In Australia, one of the most widely\nused CBT programmes for childhood anxiety is the Cool Kids for Anxiety programme\n(Lyneham et al., 2003). This programme is designed for children aged from 7 to 17 years\nand includes 10 weekly or fortnightly sessions of 60–90 min. Sessions can be\nconducted with individuals or small groups and includes parent participation. Cool Kids\nprovides a suite of core modules (i.e. psychoeducation, cognitive restructuring, gradual\nexposures, parent management strategies) that are tailored to children’s anxiety, and\nadditional modules (i.e. dealing with bullying, problem solving, social anxiety training,\nprogressive muscle relaxation, social skills and assertiveness training) that focus on\nmore speciﬁc needs."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      186.85650634765625,
+      519.94140625,
+      578.1529541015625,
+      651.1312255859375
+    ],
+    "text": "Numerous randomised controlled trials support the efﬁcacy of Cool Kids, reporting\nsigniﬁcantly higher remission rates for primary anxiety disorders than control treatment in\nvarious clinical, school, and research settings (Hudson et al., 2009; Chavira et al., 2014;\nMifsud & Rapee, 2006; Rapee, Abbott & Lyneham, 2006). This evidence suggests that Cool\nKids is an effective treatment for childhood anxiety, and hence should be incorporated into\nPRAX intervention. However, Cool Kids delivers its modules via written workbooks,\nwhich children with poor reading struggle to read. Thus, the anxiety modules in the PRAX\nintervention used Cool Kids modules that were modiﬁed for poor readers (see “Appendix\nA” for a detailed description of these modiﬁcations)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      186.8618927001953,
+      654.4241943359375,
+      578.1189575195312,
+      725.8507690429688
+    ],
+    "text": "In summary, there is evidence that some children experience difﬁculties with both\nreading and anxiety. However, we lack an integrated intervention for children with reading\nand anxiety problems. Aim 1 of this study was to develop an evidence-based schema for a\nPRAX intervention. For reasons outlined above, this schema included four modules for\nreading (i.e. phonological decoding, visual word recognition, reading ﬂuency, reading"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n4/30"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      186.85980224609375,
+      86.53382873535156,
+      578.15966796875,
+      337.33294677734375
+    ],
+    "text": "comprehension) and ﬁve modules for anxiety (i.e. social anxiety, generalised anxiety,\nseparation anxiety, speciﬁc phobias, obsessive-compulsive symptoms). Aim 2 was to use\nthis schema to build our own PRAX intervention. For the reading modules, we selected\nthe MURC Reading Gaps and Spelling Gaps programmes (phonological decoding),\nthe MURC Sight Word Reading and Sight Word Spelling programmes (visual word\nrecognition), the MURC Text Reading programme (reading ﬂuency) and the MURC\nComprehension Scaffolding Programme (reading comprehension). For the anxiety\nmodules, we used a modiﬁed version of Cool Kids for poor readers, which we called ‘Cool\nReading’ (see “Appendix A”). Aim 3 of this study was to test the efﬁcacy of our PRAX\nintervention using a methodology that was sensitive to intervention effects in individuals\nand the group. We therefore used WEST analyses (Howard, Best & Nickels, 2015) to assess\nthe reading/spelling and anxiety outcomes of a double-baseline intervention case series\nconducted with children with comorbid reading and anxiety problems. From the existing\nevidence, we predicted larger gains across the intervention period than the double-baseline\ncontrol period for the reading/spelling and anxiety outcomes that were directly targeted\nby the PRAX intervention. Given the unique nature of the PRAX intervention, we could not\npredict if these gains would reach statistical signiﬁcance (i.e. reliability) in a 12-week period."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      186.85980224609375,
+      351.5762939453125,
+      256.095703125,
+      365.5238952636719
+    ],
+    "text": "METHODS"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      186.85980224609375,
+      372.0472412109375,
+      578.2230834960938,
+      594.3795166015625
+    ],
+    "text": "Research design\nThe methods for this study were approved by the Macquarie University Human Ethics\ncommittee (Reference: 5201500286). This study comprised ﬁve stages for each participant.\nAt Test 1 (T1), children and their parents were administered screening measures and\noutcome measures. After a 12-week period of no training, children completed the outcome\nmeasures again at Test 2 (T2). After a 12-week PRAX intervention period, children\ncompleted the outcome measures again at Test 3 (T3). The difference in outcome\nscores from T1 to T2 (i.e. the double-baseline control period) was used represent\nnon-intervention effects such as maturation and test-retest effects. The difference in\noutcome scores from T2 to T3 (intervention period) represented intervention effects in\naddition to these effects. DF (the ﬁrst author) administered all tests at all time points,\nexcept for the ADIS-C/P which was administered by LM (fourth author) at T3 to reduce\nresponse bias on the more subjective anxiety outcome measure. Both clinicians received\nclinical supervision from JH, the second author, who is a professor of clinical psychology and\nan expert in childhood anxiety."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      186.85980224609375,
+      610.1573486328125,
+      578.1529541015625,
+      712.927001953125
+    ],
+    "text": "Participants\nChildren were recruited from the Macquarie University Reading Clinic (MURC) and a\nresearch participant pool. No participant was receiving treatment for their reading or\nanxiety at T1, or between T1 and T2. Information and consent forms were sent to\n11 families. Parents and children provided written and verbal consent, respectively.\nEleven children and their parents were assessed at T1. Two children did not meet inclusion\ncriteria (see below), and one parent withdrew from the study prior to T2. One participant"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n5/30"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      546.5011596679688,
+      113.17427062988281
+    ],
+    "text": "withdrew from the study after T2. Thus, seven children completed all testing and\ntreatment components of the study."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      186.85980224609375,
+      117.125,
+      578.1574096679688,
+      247.6466827392578
+    ],
+    "text": "Children were aged between 8 and 12 years. To be included in the study, they had\n(1) poor reading accuracy as deﬁned by a score at least one standard deviation (1 SD)\nbelow the age mean on the nonword reading list or irregular word reading list of the\nCastles and Coltheart Reading Test, 2nd Edition (CC2; Castles et al., 2009); (2) poor\nnonword spelling as deﬁned by a score at least 1 SD below the age mean on the Queensland\nInventory of Literacy (QUIL; Dodd et al., 1996), and (3) anxiety, as deﬁned by a clinician\nseverity rating of at least 4 for one or more anxiety disorders on the Anxiety Disorders\nInterview Schedule for Children and Parents (ADIS-C/P; Silverman & Albano, 1996;\nsee ‘Screening measures’ for these assessments)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      186.86090087890625,
+      251.6544189453125,
+      578.1539916992188,
+      426.96221923828125
+    ],
+    "text": "There was no evidence of severe behavioural issues, poor hearing, poor vision,\nneurological impairment, sensory impairment, or comorbid diagnoses in our sample\n(e.g. autism spectrum disorder, oppositional deﬁance disorder)—as indexed by a\nbackground questionnaire that parents completed, which was designed for the purposes of\nthis study. There were also no signiﬁcant or severe emotional problems other than anxiety\n(e.g. depression), as measured using the ADIS-C/P (Silverman & Albano, 1996).\nAll children’s non-verbal IQs were within the average range (Kaufman Brief Intelligence\nTest 2nd Edition [KBIT-2]; Kaufman & Kaufman, 2004), as was their performance on an\nexpressive vocabulary test of language (Assessment of Comprehension and Expression\n6-11; ACE; Adams et al., 2001) for all bar three children (see “Appendix B”). The latter\noutcome was expected since one-third of children with poor reading struggle with various\naspects of language acquisition (McArthur et al., 2000)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      186.85870361328125,
+      439.79522705078125,
+      578.1289672851562,
+      648.1821899414062
+    ],
+    "text": "Screening measures (T1)\nNonword and irregular word reading accuracy\nThe CC2 comprises three lists of 40 words that are either irregular (e.g. yacht), regular\n(e.g. ship), or nonwords (e.g. gop; Castles et al., 2009). Words are presented on cards in\npseudo-random order of increasing difﬁculty. A word list is discontinued after ﬁve\nconsecutive errors in that list. The total number of correct responses for each list can be\nconverted into z-scores (M = 0, SD = 1). Z-scores that fall below −1, between −1 and 1, and\nabove 1 represent performance below, within, or above the average range, respectively.\nWe identiﬁed poor reading performance using scores one or more standard deviations\nbelow the mean (for age or grade) because we not only wanted to identify children who\nalready had severe reading problems, but also children who were at risk of developing\nsuch problems if they were not provided with immediate support. The CC2 has sound\ninternal consistency for irregular word and nonwords (a = 0.86 and 0.94) and good\ntest-retest reliability irregular words and nonwords (r = 0.94 and 0.80; Moore et al., 2012)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      186.85760498046875,
+      661.7183837890625,
+      578.139892578125,
+      703.9678344726562
+    ],
+    "text": "Nonword spelling\nThe QUIL Nonword Spelling subtest includes 24 nonwords of increasing difﬁculty\n(e.g. dorf). Children in Grades K to 2 are administered items 1 to 12, while children above"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n6/30"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      578.1179809570312,
+      114.98866271972656
+    ],
+    "text": "Grade 2 complete all items. Correct responses are tallied to produce a raw score out of 24.\nThe test-retest reliability is moderately strong (rs = 0.63; Dodd et al., 1996)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.8590545654297,
+      123.76268005371094,
+      578.1468505859375,
+      255.64149475097656
+    ],
+    "text": "Anxiety disorders\nWe used the ADIS-C/P for the 4th edition of the DSM (DSM-IV) to ascertain whether a\nchild met diagnostic criteria for one or more anxiety disorders (Silverman & Albano, 1996).\nIn separate interviews, a child and their parent respond to a series of anxiety questions\nasked by a clinician. The interview per se did not increase signs of anxiety in children.\nIf responses meet criteria for an anxiety disorder, then children and parents provide an\ninterference rating of the anxiety. The clinician then assigned a severity rating (CSR; 0–8)\nto that disorder. The ADIS-C/P has sound inter-rater agreement across the major anxiety\ndisorders (kappa = 0.68–0.93; Lyneham, Abbott & Rapee, 2007)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.8590545654297,
+      266.2296447753906,
+      578.1445922851562,
+      383.1417541503906
+    ],
+    "text": "Nonverbal IQ\nWe used the matrices subtest of the KBIT-2 (Kaufman & Kaufman, 2004) to measure\nnonverbal IQ. Children pointed to the matching picture in a pattern until they made four\nconsecutive errors. Correct responses are tallied out of a total of 46, and these scores are\nconverted into standard scores (M = 100, SD = 15). Standard scores that fall below 85,\nbetween 85 and 100, or above 115 are interpreted as below, within, or above the average\nrange, respectively. This test has good concurrent validity with the Wechsler Abbreviated\nScale of Intelligence (r = 0.91; Kaufman & Kaufman, 2004)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.8601531982422,
+      393.7299499511719,
+      578.1513061523438,
+      510.69903564453125
+    ],
+    "text": "Expressive language\nWe used the picture naming subtest from the Assessment of Comprehension and\nExpression 6-11 (ACE; Adams et al., 2001). Children are presented with 25 pictures and\ninstructed to name the object in each picture. Correct responses are tallied and converted\ninto scaled scores (M = 10, SD = 3). Scaled scores that fall below 7, between 8 and 12,\nor above 13 are interpreted as below, within, or above the average range. The psychometric\nproperties of this test are sound, with reliable test-retest correlations reported (r = 0.83;\nAdams et al., 2001)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.85870361328125,
+      523.4739379882812,
+      578.1376342773438,
+      628.2293090820312
+    ],
+    "text": "Reading and spelling outcomes (T1, T2, and T3)\nAccuracy\nIndividual GPCs\nThe Letter-Sound Test (LeST; Larsen et al., 2015) measures knowledge for individual\nGPCs, with norms available for children in Grades K to 3. Children are asked to pronounce\nthe sounds of 51 individual graphemes. Correct responses are tallied to produce a raw\nscore out of 51. The test-retest reliability for this test is sound (r = 0.84; Larsen et al., 2015)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.85870361328125,
+      639.210205078125,
+      578.1309204101562,
+      725.8531494140625
+    ],
+    "text": "GPCs in nonwords\nThe Diagnostic Reading Test (DiRT; Colenbrander, Kohnen & Nickels, 2011) was designed\nto assess the development of individual GPCs when read within nonwords. The shortened\nversion used in this study includes 61 nonwords (e.g. coom) that are presented on\nﬂashcards that children read aloud. Correct responses are tallied to produce a raw score out\nof 61."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n7/30"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      578.1564331054688,
+      158.98182678222656
+    ],
+    "text": "PGCs in nonwords\nThe Diagnostic Spelling Test for Nonwords (DiSTn; Kohnen et al., 2015) was designed to\nassess the development of individual PGCs. The shortened version used in this study\nincludes 46 nonwords (e.g. mip) that children are asked to spell. Correct responses are\ntallied to produce a raw score out of 46."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.85980224609375,
+      170.529296875,
+      578.1148071289062,
+      272.19482421875
+    ],
+    "text": "Sight word reading\nThe Sight Word Reading Accuracy Test (Kohnen & Banales, 2015c) was used in this study\nto test reading accuracy of the most commonly occurring irregular words presented in\norder of increasing written frequency. Children are asked to read aloud words that are\nprinted on ﬂashcards. Testing is discontinued after 30 incorrect irregular word responses.\nThese 30 incorrect irregular words were used in the Sight Word Reading intervention\nmodule and were used as the Sight Word Reading outcome at T2 and T3."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.86090087890625,
+      283.7434387207031,
+      578.1101684570312,
+      385.35308837890625
+    ],
+    "text": "Sight word spelling\nThe Sight Word Spelling Test (Kohnen & Banales, 2015c) was used in this study to test\nspelling accuracy of the most commonly occurring irregular words that are presented in\norder in spelling frequency. Children are asked to spell each word that the examiner reads\naloud. Testing is discontinued after a child makes 30 incorrect irregular word responses.\nThese 30 incorrect irregular words were used in the Sight Word Spelling intervention\nmodule, and the Sight Word Spelling outcome at T2 and T3."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.86090087890625,
+      396.50787353515625,
+      578.1520385742188,
+      544.374755859375
+    ],
+    "text": "Fluency\nNonword reading ﬂuency\nThe Phonemic Decoding subtest of the Test of Word Reading Efﬁciency (TOWRE;\nTorgesen, Wagner & Rashotte, 1999) comprises 63 nonwords (e.g. pim) that children are\nasked to read as quickly and accurately as possible within 45 seconds. Responses are\nmarked as correct ‘1’ or incorrect ‘0’, tallied, and converted into standard scores (M = 100,\nSD = 15), which indicate below (<85), within (85–115) or above (>115) average\nperformance. This test has Australian normative data (Marinus, Kohnen & McArthur,\n2013), and has sound construct and criterion validity (a = > 0.90; Torgesen, Wagner &\nRashotte, 1999)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.8630828857422,
+      555.2074584960938,
+      563.0,
+      627.6554565429688
+    ],
+    "text": "Word reading ﬂuency\nWe measured word reading ﬂuency using the Sight Word subtest of the TOWRE\n(Torgesen, Wagner & Rashotte, 1999). This subtest includes 104 regular and irregular\nwords (e.g. book) that are administered and scored using the same procedure as the\nPhonemic Decoding subtest (see above)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.8630828857422,
+      638.8114013671875,
+      577.6259155273438,
+      725.8469848632812
+    ],
+    "text": "Comprehension\nThe Neale Analysis of Reading Ability 3rd edition (NARA-3; Neale, 1999) measures text\nreading accuracy and comprehension. It includes six increasingly complex passages that\nchildren are asked to read aloud. Their word reading errors are corrected during their\nreading, and they are asked to answer a series of comprehension questions at the end of\neach passage. Basal and ceiling passages are those in which a child makes 0–2 and 16+"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n8/30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.85870361328125,
+      270.0264892578125,
+      578.1100463867188,
+      310.86187744140625
+    ],
+    "text": "word reading accuracy errors, respectively. Correctly answered questions for each passage\nare tallied out of a maximum score of 44. The test-retest estimate is sound (r = 0.93;\nNeale, 1999)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.85980224609375,
+      323.6881408691406,
+      578.1322631835938,
+      427.422119140625
+    ],
+    "text": "Anxiety outcomes (T1, T2, and T3)\nDisorders\nAnxiety disorders were assessed using the ADIS-C/P (Silverman & Albano, 1996), which is\noutlined above under ‘Screening measures’. Unlike the objective outcome measure for\nreading and spelling, the ADIS-C/P required a degree of ‘subjective’ clinical interpretation.\nThus, different clinicians were used to administer and interpret the ADIS-C/P outcomes\nbefore (DF) and after (LM) the PRAX intervention."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.86090087890625,
+      441.0152587890625,
+      578.1572265625,
+      617.7371826171875
+    ],
+    "text": "Symptoms\nThe Spence Children’s Anxiety Scale (SCAS-P; Nauta et al., 2004) comprises 38 items,\ndivided into six subscales, which assess generalised anxiety, separation anxiety, social\nanxiety, panic/agoraphobia, physical injury fears, and obsessive-compulsive symptoms.\nParents are asked to rate how often their child experiences the symptom expressed by each\nitem (0 = never, 1 = sometimes, 2 = often, 3 = always). Scores are tallied to produce\nraw score for each subscale, which are converted into T-scores (M = 50, SD = 10).\nT-scores above 60 are considered ‘elevated’ based on normative data from large Australian\nand Dutch community sample (N = 745; children aged 6–18 years: M = 10.80 years,\nSD = 2.40 years; n = 389 boys, n = 356 girls; Nauta et al., 2004). The internal consistency\nfor the subscales is sound (a = 0.61–0.81), as is the discriminant validity (Wilks lambda\n0.65, p < 0.001), and test-retest reliability (r = 0.53 to 0.85)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.85980224609375,
+      633.5148315429688,
+      566.7918701171875,
+      691.4412841796875
+    ],
+    "text": "Intervention\nThe intervention modules used in the PRAX intervention are summarised in Tables 1\nand 2. These tables also include the selection criteria and tests we used to decide if a\nmodule should be included in the PRAX intervention."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.85980224609375,
+      695.448974609375,
+      563.997314453125,
+      721.3746948242188
+    ],
+    "text": "The reading modules were administered in the order that follow how the skills are\ntypically mastered; that is accuracy followed by ﬂuency and then comprehension"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.83770751953125,
+      92.03978729248047,
+      568.1600341796875,
+      112.4645767211914
+    ],
+    "text": "Table 1 The reading modules (ﬁrst column), selected interventions (second column), and selection\ncriteria (third column) used in the PRAX intervention in the current study."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      119.42869567871094,
+      502.2110900878906,
+      128.39498901367188
+    ],
+    "text": "Reading modules\nSelected interventions\nSelection criteria"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      134.9168243408203,
+      226.68023681640625,
+      143.88311767578125
+    ],
+    "text": "Accuracy"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      149.03334045410156,
+      526.5115966796875,
+      157.9996337890625
+    ],
+    "text": "GPCs\nMURC Reading Gaps\n< -1 SD CC2 Nonwords"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      163.14991760253906,
+      491.0086364746094,
+      172.1162109375
+    ],
+    "text": "PGCs\nMURC Spelling Gaps\n< -1 SD QUIL"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      177.2099151611328,
+      547.345703125,
+      186.17620849609375
+    ],
+    "text": "Sight Word Reading\nMURC Sight Word Reading\n< -1 SD CC2 Irregular Words"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      191.3264923095703,
+      490.998779296875,
+      200.29278564453125
+    ],
+    "text": "Sight Word Spelling\nMURC Sight Word Spelling\n< -1 SD DiSTi"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      205.44300842285156,
+      549.3298950195312,
+      214.4093017578125
+    ],
+    "text": "Fluency\nMURC Text Reading\n< -1 SD TOWRE Sight Words"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      193.37939453125,
+      219.50306701660156,
+      502.0192565917969,
+      228.4693603515625
+    ],
+    "text": "Comprehension\nMURC Comprehension\n< -1 SD NARA-3"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.85980224609375,
+      232.8173828125,
+      204.94419860839844,
+      240.78758239746094
+    ],
+    "text": "Note:"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      198.822265625,
+      241.32525634765625,
+      504.7522888183594,
+      249.2954559326172
+    ],
+    "text": "< -1 SD indicates more than one standard deviation below the mean expected for age or grade."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      33.84563064575195,
+      749.657470703125,
+      578.1350708007812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n9/30"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      186.85980224609375,
+      445.66107177734375,
+      578.1135864257812,
+      501.46319580078125
+    ],
+    "text": "(Adams, 1990; Golinkoff, 1975; Laberge & Samuels, 1974). If a child had a problem with all\nthese skills, they started with modules for accuracy then move to ﬂuency and then to\ncomprehension. All children were administered accuracy and ﬂuency modules (see\ndescriptions below) but did not graduate to comprehension modules."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      186.85980224609375,
+      504.756103515625,
+      578.1146240234375,
+      576.1827392578125
+    ],
+    "text": "For anxiety, each child was administered the core Cool Reading modules—carefully\ntailored to their individual anxiety—in the order outlined in Table 2. Children with\nrelated anxiety problems were administered relevant additional Cool Reading modules.\nCore and additional anxiety modules that were administered to children in this study are\noutlined below."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      186.86090087890625,
+      580.1334838867188,
+      578.14111328125,
+      710.6551513671875
+    ],
+    "text": "The PRAX intervention was administered in three 1-h sessions per week for 12 weeks\n(36 h of training in total). It comprised 21.75 h of reading modules and 14.25 h of anxiety\nmodules. The time spent on each module in each session for each child are shown in\nTable 3. The total treatment was equivalent to 10 weeks of reading and spelling treatment\nat the MURC (i.e. three 45-min sessions per week for 10 weeks) and 10 weeks of\nanxiety treatment in Cool Kids (i.e. one 60-to-90-min session per week for 10 weeks).\nTreatment was delivered to children in person at the MURC or online using Zoom.\nResearch suggests that in-person and online interventions for reading/spelling and anxiety\nare similarly effective (Bouchard et al., 2004; Kohnen, Banales & McArthur, 2020)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      43.82360076904297,
+      92.03978729248047,
+      568.12353515625,
+      112.4645767211914
+    ],
+    "text": "Table 2 The core and additional anxiety modules (ﬁrst column), brief module descriptions (fourth column), and selection criteria (ﬁnal\ncolumn) used in the PRAX intervention in the current study."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      119.42869567871094,
+      465.5329284667969,
+      128.39498901367188
+    ],
+    "text": "Anxiety modules\nCore Additional Description\nSelection criteria"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      134.9168243408203,
+      395.248779296875,
+      143.88311767578125
+    ],
+    "text": "Psychoeducation\nX\nTeach children about the experience of anxiety, as well as"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      192.70094299316406,
+      145.9148712158203,
+      388.49627685546875,
+      154.88116455078125
+    ],
+    "text": "prognosis, and outcomes associated with intervention."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      402.2953796386719,
+      134.33203125,
+      546.1363525390625,
+      143.88311767578125
+    ],
+    "text": "Clinician Severity Rating ≥4 ADIS-C/P"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.367088317871094,
+      159.9749298095703,
+      74.89631652832031,
+      168.94122314453125
+    ],
+    "text": "Cognitive"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.319820404052734,
+      170.9729766845703,
+      95.10546112060547,
+      179.93927001953125
+    ],
+    "text": "Restructuring"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      116.27937316894531,
+      159.9749298095703,
+      378.9776306152344,
+      168.94122314453125
+    ],
+    "text": "X\nTeach children strategies to challenge maladaptive or"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      192.70184326171875,
+      170.9729766845703,
+      291.7337646484375,
+      179.93927001953125
+    ],
+    "text": "unhelpful anxious thoughts"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.367088317871094,
+      185.0330352783203,
+      390.81402587890625,
+      193.99932861328125
+    ],
+    "text": "Gradual Exposure\nX\nTeach children strategies to face their fears through new"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      192.70184326171875,
+      195.4462890625,
+      384.7662658691406,
+      215.93896484375
+    ],
+    "text": "learning experiences that are tailored to their speciﬁc\nworries"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.367088317871094,
+      221.08924865722656,
+      109.30448913574219,
+      230.0555419921875
+    ],
+    "text": "Child management"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.319820404052734,
+      232.03077697753906,
+      92.44963836669922,
+      251.93865966796875
+    ],
+    "text": "strategies for\nparents"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      116.27937316894531,
+      221.08924865722656,
+      390.8974304199219,
+      230.0555419921875
+    ],
+    "text": "X\nTeach parents strategies to help their children cope with"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      192.70184326171875,
+      232.03077697753906,
+      218.542724609375,
+      240.9970703125
+    ],
+    "text": "anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.367088317871094,
+      257.08892822265625,
+      97.84915161132812,
+      266.05523681640625
+    ],
+    "text": "Social skills and"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.319820404052734,
+      267.4456787109375,
+      84.88118743896484,
+      276.99676513671875
+    ],
+    "text": "conﬁdence"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      140.31712341308594,
+      256.504150390625,
+      570.8609008789062,
+      266.05523681640625
+    ],
+    "text": "X\nTeach children basic social skills\nParent/child/clinician report: social difﬁculties,"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.24810791015625,
+      268.03045654296875,
+      550.9683227539062,
+      276.99676513671875
+    ],
+    "text": "passive behaviour, aggressive behaviour"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      282.14703369140625,
+      110.30960083007812,
+      291.11334228515625
+    ],
+    "text": "Structured problem"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.31892013549805,
+      293.088623046875,
+      71.7025146484375,
+      302.0549011230469
+    ],
+    "text": "solving"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      140.31622314453125,
+      282.14703369140625,
+      506.47039794921875,
+      291.11334228515625
+    ],
+    "text": "X\nTeach children strategies to identify and solve problems\nParent/child/clinician report:"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.24810791015625,
+      292.5038146972656,
+      569.3106689453125,
+      312.9964904785156
+    ],
+    "text": "Difﬁculty deﬁning worries, or brainstorming\nsolutions, or selecting solutions."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      318.146728515625,
+      86.62422943115234,
+      327.1130065917969
+    ],
+    "text": "Dealing with"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.31892013549805,
+      329.08831787109375,
+      75.34283447265625,
+      338.0545959472656
+    ],
+    "text": "bullying"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      140.31622314453125,
+      318.146728515625,
+      506.4694519042969,
+      327.1130065917969
+    ],
+    "text": "X\nTeach children strategies to cope with bullies\nParent/child/clinician report:"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.24810791015625,
+      329.08831787109375,
+      571.6285400390625,
+      349.05267333984375
+    ],
+    "text": "Child is being bullied which is contributing to\ntheir anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      354.14642333984375,
+      108.58808898925781,
+      363.11273193359375
+    ],
+    "text": "Progressive muscle"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.31892013549805,
+      365.14447021484375,
+      81.9599609375,
+      374.11077880859375
+    ],
+    "text": "relaxation"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      140.31622314453125,
+      354.14642333984375,
+      539.2987060546875,
+      363.11273193359375
+    ],
+    "text": "X\nTeach children relaxation strategies\nParent/child/clinician report: Elevated"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.24810791015625,
+      365.14447021484375,
+      567.6052856445312,
+      385.0523376464844
+    ],
+    "text": "physiological symptoms, such as inability to\nsleep or rapid breathing during treatment"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      40.36619186401367,
+      390.20263671875,
+      89.79113006591797,
+      399.1689147949219
+    ],
+    "text": "Social anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      46.31892013549805,
+      401.1441650390625,
+      74.67932891845703,
+      410.1104736328125
+    ],
+    "text": "training"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      140.31622314453125,
+      389.6178283691406,
+      392.9300842285156,
+      399.1689147949219
+    ],
+    "text": "X\nTeach children speciﬁc strategies to reduce social anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      192.70004272460938,
+      401.1441650390625,
+      382.6941833496094,
+      421.05206298828125
+    ],
+    "text": "(e.g., attention training and safety behaviour gradual\nexposures)"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      402.29449462890625,
+      390.20263671875,
+      554.58447265625,
+      399.1689147949219
+    ],
+    "text": "Parent/child/clinician report: Severe social"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.2472229003906,
+      401.1441650390625,
+      434.0881042480469,
+      410.1104736328125
+    ],
+    "text": "anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n10/30"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      186.85980224609375,
+      663.5359497070312,
+      578.1453857421875,
+      721.716552734375
+    ],
+    "text": "Reading accuracy modules\nMURC Reading Gaps (Kohnen & Banales, 2015a)\nThis module trained each child to read the GPCs that they failed to read correctly during\nthe DiRT and LeST assessments at T1. GPCs were introduced in order of frequency of"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      43.82360076904297,
+      92.55674743652344,
+      568.1084594726562,
+      112.4645767211914
+    ],
+    "text": "Table 3 Interventions administered in each session of our PRAX intervention. Shaded cells indicate a 1-h in-session gradual exposure\ncompleted with the clinician, parent, and child."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.365299224853516,
+      118.92405700683594,
+      344.3630065917969,
+      125.8978500366211
+    ],
+    "text": "Week\nSession\nReading Modules\nAnxiety modules"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      94.28044891357422,
+      135.3647918701172,
+      118.15873718261719,
+      151.29641723632812
+    ],
+    "text": "Reading\ngaps"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      128.693359375,
+      135.3647918701172,
+      152.12461853027344,
+      151.29641723632812
+    ],
+    "text": "Spelling\ngaps"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      163.1627655029297,
+      135.3647918701172,
+      185.2209014892578,
+      160.25430297851562
+    ],
+    "text": "Sight\nword\nreading"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      195.19412231445312,
+      135.36546325683594,
+      217.76272583007812,
+      160.25497436523438
+    ],
+    "text": "Sight\nword\nspelling"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      227.2826690673828,
+      135.36619567871094,
+      249.34080505371094,
+      151.29782104492188
+    ],
+    "text": "Text\nreading"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      258.12359619140625,
+      135.36619567871094,
+      286.4302978515625,
+      151.29782104492188
+    ],
+    "text": "Duration\n(minutes)"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      294.9738464355469,
+      135.36619567871094,
+      383.5564880371094,
+      151.29782104492188
+    ],
+    "text": "Psychoeducation\nControlled\nbreathing"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      392.4857177734375,
+      135.36619567871094,
+      431.02081298828125,
+      151.29782104492188
+    ],
+    "text": "Cognitive\nrestructuring"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      440.1076965332031,
+      135.36619567871094,
+      466.1032409667969,
+      151.29782104492188
+    ],
+    "text": "Gradual\nexposure"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      474.57708740234375,
+      135.36619567871094,
+      501.7958068847656,
+      151.29782104492188
+    ],
+    "text": "Parent\nstrategies"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      510.1804504394531,
+      135.36619567871094,
+      534.1012573242188,
+      151.29782104492188
+    ],
+    "text": "Parent\ncheck in"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      542.268310546875,
+      135.36619567871094,
+      570.574951171875,
+      151.29782104492188
+    ],
+    "text": "Duration\n(minutes)"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.365299224853516,
+      166.31549072265625,
+      548.948486328125,
+      173.744140625
+    ],
+    "text": "1\n1\n0\n✓\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79940032958984,
+      178.44781494140625,
+      548.9478149414062,
+      185.87646484375
+    ],
+    "text": "2\n0\n✓\n✓\n✓\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      190.523681640625,
+      548.9478149414062,
+      197.95233154296875
+    ],
+    "text": "3\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36391067504883,
+      202.656005859375,
+      548.9478149414062,
+      210.08465576171875
+    ],
+    "text": "2\n4\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      214.7318115234375,
+      548.9478149414062,
+      222.16046142578125
+    ],
+    "text": "5\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      226.8641357421875,
+      548.9478149414062,
+      234.29278564453125
+    ],
+    "text": "6\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36391067504883,
+      238.93994140625,
+      548.9478149414062,
+      246.36859130859375
+    ],
+    "text": "3\n7\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      251.072265625,
+      548.9478149414062,
+      258.50091552734375
+    ],
+    "text": "8\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      263.14813232421875,
+      548.9478149414062,
+      270.5767822265625
+    ],
+    "text": "9\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36391067504883,
+      275.2804260253906,
+      548.9478149414062,
+      282.7090759277344
+    ],
+    "text": "4\n10\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      287.4127502441406,
+      548.9478149414062,
+      294.8414001464844
+    ],
+    "text": "11\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      299.48858642578125,
+      548.9478149414062,
+      306.917236328125
+    ],
+    "text": "12\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36391067504883,
+      311.62091064453125,
+      548.9478149414062,
+      319.049560546875
+    ],
+    "text": "5\n13\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      323.6967468261719,
+      548.9478149414062,
+      331.1253967285156
+    ],
+    "text": "14\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79871368408203,
+      335.82904052734375,
+      548.9478149414062,
+      343.2576904296875
+    ],
+    "text": "15\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36391067504883,
+      347.9048767089844,
+      548.9478149414062,
+      355.3335266113281
+    ],
+    "text": "6\n16\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      360.0336608886719,
+      548.9490966796875,
+      367.4623107910156
+    ],
+    "text": "17\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      372.1094970703125,
+      548.9490966796875,
+      379.53814697265625
+    ],
+    "text": "18\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      384.2418212890625,
+      548.9490966796875,
+      391.67047119140625
+    ],
+    "text": "7\n19\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      396.317626953125,
+      548.9490966796875,
+      403.74627685546875
+    ],
+    "text": "20\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      408.449951171875,
+      548.9490966796875,
+      415.87860107421875
+    ],
+    "text": "21\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      420.5257873535156,
+      548.9490966796875,
+      427.9544372558594
+    ],
+    "text": "8\n22\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      432.6581115722656,
+      548.9490966796875,
+      440.0867614746094
+    ],
+    "text": "23\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      444.73394775390625,
+      548.9490966796875,
+      452.16259765625
+    ],
+    "text": "24\n0\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      456.86627197265625,
+      548.9490966796875,
+      464.294921875
+    ],
+    "text": "9\n25\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      468.9421081542969,
+      548.9490966796875,
+      476.3707580566406
+    ],
+    "text": "26\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      481.0744323730469,
+      548.9490966796875,
+      488.5030822753906
+    ],
+    "text": "27\n0\n✓\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      493.1502380371094,
+      548.9490966796875,
+      500.5788879394531
+    ],
+    "text": "10\n28\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      505.2825622558594,
+      548.9490966796875,
+      512.711181640625
+    ],
+    "text": "29\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      517.3583984375,
+      548.9490966796875,
+      524.7870483398438
+    ],
+    "text": "30\n0\n✓\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      529.49072265625,
+      548.9490966796875,
+      536.9193725585938
+    ],
+    "text": "11\n31\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      541.5665893554688,
+      548.9490966796875,
+      548.9952392578125
+    ],
+    "text": "32\n✓\n✓\n✓\n✓\n✓\n45\n✓\n✓\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      553.6989135742188,
+      548.9490966796875,
+      561.1275634765625
+    ],
+    "text": "33\n0\n✓\n✓\n60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      40.36520004272461,
+      565.7747192382812,
+      548.9490966796875,
+      573.203369140625
+    ],
+    "text": "12\n34\n✓\n✓\n✓\n✓\n✓\n45\n✓\n–Coping\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      577.9070434570312,
+      548.9490966796875,
+      585.335693359375
+    ],
+    "text": "35\n✓\n✓\n✓\n✓\n✓\n45\n✓\n–Helping\n✓\n15"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.80000305175781,
+      589.9828491210938,
+      370.0201110839844,
+      615.3829956054688
+    ],
+    "text": "36\n0\n–Goal and progress review\n–Plan for the future\n–Certiﬁcate"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      542.267822265625,
+      590.4351196289062,
+      548.94873046875,
+      597.408935546875
+    ],
+    "text": "60"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.79960632324219,
+      620.482421875,
+      557.1526489257812,
+      627.4562377929688
+    ],
+    "text": "Reading treatment time\n21.75\nAnxiety treatment time\n14.25"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.1349487304688,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n11/30"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      87.24859619140625,
+      578.1255493164062,
+      158.0174102783203
+    ],
+    "text": "occurrence in English. Two GPCs were introduced per session, which were typically\nmastered (100% accuracy in two consecutive sessions) in one to six sessions. For each GPC,\nthe child was shown the grapheme and told the sound. The child pronounced and blended\neach GPC within 10–12 words and/or nonwords that comprise already-acquired GPCs.\nImmediate feedback was provided for all attempts."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      169.56597900390625,
+      578.1113891601562,
+      256.20892333984375
+    ],
+    "text": "MURC Spelling Gaps (Kohnen & Banales, 2015b)\nThis module used spelling to train PGCs, which is an effective intervention for word\nreading accuracy in poor readers (Ouellette, Martin-Chang & Rossi, 2017). Target PGCs for\neach child were identiﬁed from their errors in the DiSTn at T1. Each PGC was trained\nusing the same procedure as the MURC Reading Gaps (see above) except words were\nspelled rather than read."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      267.81341552734375,
+      578.1366577148438,
+      369.4230651855469
+    ],
+    "text": "MURC Sight Word Reading (Kohnen & Banales, 2015c)\nThis module trained the ﬁrst 30 incorrect words read by each child during the Sight Word\nReading Accuracy Test at T1. Four to eight words were trained per session. Children were\nasked to read each word, copy the word, say the letter names, visualise the spellings,\nspell the word, focus on the irregular parts of the spelling, and silently rehearse the letters\nin the word in their mind. Children were given immediate feedback on their performance.\nTypically, children mastered a word in one to six sessions."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      380.9705810546875,
+      578.1355590820312,
+      437.7370910644531
+    ],
+    "text": "MURC Sight Word Spelling (Kohnen & Banales, 2015c)\nThis module trained the ﬁrst 30 words spelled incorrectly by a child on the Sight Word\nSpelling Accuracy Test at Test 1. The procedure was the same as the MURC Sight Word\nReading (see above) except that children spelled rather than read the words."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      448.8918762207031,
+      578.1290283203125,
+      611.724365234375
+    ],
+    "text": "Reading fluency modules\nMURC Text Reading.\nIn this module, children read phonics readers focussing on the GPCs practiced in Reading\nGaps, or ‘real’ books which have been selected so children read with 90% accuracy.\nChildren read aloud while the clinician follows along silently and corrects any incorrect\nwords. Correction procedures differ depending on the child’s mistake. Clinicians may\nprompt their phonics knowledge, ask the children to slightly adjust a sounding-out\nattempt to pronounce an irregular word correctly (Savage et al., 2018), or prompt to break\nup longer words. Children are taught ‘careful reading’ techniques, which encourages them\nto self-correct their reading errors and teaches them to use their ﬁnger to track letters and\nwords in the sentences."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      186.85870361328125,
+      622.8792114257812,
+      578.1267700195312,
+      725.845947265625
+    ],
+    "text": "Core anxiety modules\nPsychoeducation\nThis module educated parents and children about anxiety and explained the rationale for\nCBT. Through a series of cartoon videos, children learned about the experience of anxiety,\nhow it might impact their body (e.g. physical symptoms), their thoughts (e.g. unhelpful\nthinking), and their behaviour (e.g. avoidance). They also learned about the potential\ncauses of anxiety, and how treatment may help over time. Children learned to evaluate the"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n12/30"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      560.0291137695312,
+      113.17427062988281
+    ],
+    "text": "intensity of their anxiety using a worry rating scale and completed activity sheets on\nthoughts and feelings."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85980224609375,
+      127.1031494140625,
+      578.1092529296875,
+      213.80311584472656
+    ],
+    "text": "Controlled breathing\nControlled breathing is a strategy to help children lower their physiological arousal and\ntolerate feelings of distress when anxious. Children watched a cartoon of a child practising\ncontrolled breathing and practiced breathing in session. They practiced controlled\nbreathing at the start of every session, and immediately before reading, to reduce\nreading-related anxiety and increase engagement in reading intervention."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85980224609375,
+      227.73199462890625,
+      578.1597290039062,
+      314.4319152832031
+    ],
+    "text": "Cognitive restructuring\nThis module taught children to modify their unrealistic thoughts, expectations, and beliefs\nassociated with anxiety. Cartoon videos and worksheets were used to teach children how to\nidentify and modify anxious thoughts and use realistic thoughts to lower anxiety. Children\nwere also taught how to use visual worksheets outside sessions to help with anxious\nthoughts."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85980224609375,
+      328.3608093261719,
+      578.1332397460938,
+      415.06072998046875
+    ],
+    "text": "Gradual exposure\nThis module gradually exposed children to the source of their anxiety to encourage new\nlearning. They watched cartoon videos of other children completing gradual exposures and\nlearned to develop their own gradual exposure activities in session. Gradual exposure\nwas introduced in Week 5, once children had acquired skills in controlled breathing,\ncognitive restructuring, and gained conﬁdence reading."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85980224609375,
+      428.9896545410156,
+      578.154052734375,
+      500.7228698730469
+    ],
+    "text": "Child management strategies for parents\nThis module provides parents with strategies to help their child cope with anxiety. Parents\nwere provided with information about their child’s anxiety, factors that maintained their\nchild’s anxiety, and suggestions on how to support their child to independently cope. This\ntraining was provided fortnightly without the child."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85870361328125,
+      514.2590942382812,
+      578.1376953125,
+      602.3161010742188
+    ],
+    "text": "Additional anxiety modules\nSocial skills and conﬁdence\nThis module was selected when children had difﬁculties with their peers and social skills\n(e.g. extremely shy or exhibiting behavioural outbursts). Role plays were used in session\nto teach children how to improve their social interactions with their peers, as well as boost\ntheir conﬁdence. These activities were integrated into each session as required."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      186.85870361328125,
+      616.3019409179688,
+      578.111572265625,
+      702.9448852539062
+    ],
+    "text": "Structured problem solving\nThis module was selected for children who sought excessive reassurance (e.g. relied\nexcessively on parents to solve problems). It taught them problem-solving skills via activity\nsheets that focused on identifying problems, brainstorming solutions, and planning\nactions. Structured problem solving was integrated into sessions when difﬁculties were\nidentiﬁed."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n13/30"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      578.1661376953125,
+      144.0720977783203
+    ],
+    "text": "Dealing with bullying.\nThis module was selected for children being bullied. It taught children how to cope with\nbullying using strategies (i.e. clever comebacks to say to bullies) and role play exercises that\nbuilt assertiveness skills."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85980224609375,
+      155.5067138671875,
+      578.1616821289062,
+      212.27320861816406
+    ],
+    "text": "Progressive muscle relaxation.\nThis module was selected for children who experienced elevated arousal that reduced their\ncapacity to complete the core anxiety modules. It used a relaxation script to instruct\nchildren how to progressively tense and relax their muscles."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85980224609375,
+      223.76483154296875,
+      578.133544921875,
+      325.3744812011719
+    ],
+    "text": "Social anxiety training\nThis module was selected for children with social anxiety. It taught children strategies\nto overcome anxiety related to performance or social embarrassment. It included attention\ntraining exercises (i.e. learning to focus attention), safety behaviour experiments\n(i.e. practice task without avoidant behaviour such as speaking with head down), and video\nfeedback experiments (i.e. watching a video of the gradual exposure attempt to gain\nmore evidence about the actual experience)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85980224609375,
+      337.1195983886719,
+      250.3241729736328,
+      351.06719970703125
+    ],
+    "text": "RESULTS"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85870361328125,
+      357.5905456542969,
+      578.153076171875,
+      520.1699829101562
+    ],
+    "text": "Profiles of participants\nThree girls (S1, S2, S3) and four boys (S4, S5, S6, S7), aged between 8 and 12 years\n(M = 8.94, SD = 0.82; Range: 8 to 12 years), met inclusion criteria for this study. Children\npresented with various reading and spelling difﬁculties (see Table 4 for reading screening\noutcomes). All children performed at least 1 SD below the age mean for nonword\nreading accuracy, irregular word reading accuracy, and nonword spelling accuracy.\nFour children met criteria for a primary diagnosis of social anxiety disorder (S1, S4, S5, S7),\ntwo children for generalised anxiety disorder (S3, S6), and one child for separation anxiety\ndisorder (S2). Three children were diagnosed with separation anxiety disorder (S2, S4, S5),\nand six children with one or more speciﬁc phobias (S1, S2, S3, S4, S5, S7). Six children\nreported signiﬁcant and interfering worries related to reading (S1, S2, S4, S5, S6, S7)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85980224609375,
+      533.451904296875,
+      578.12353515625,
+      651.188232421875
+    ],
+    "text": "Reading and spelling outcomes\nWe evaluated the effectiveness of PRAX intervention on reading and spelling outcomes\nusing weighted statistics (WEST; Howard, Best & Nickels, 2015). There are two key\nstatistics of interest: WEST-Trend, which is calculated to evaluate change over the entire\nstudy period (i.e. the change in scores from T1 to T2 to T3), and WEST-ROC, which is\ncalculated to evaluate change speciﬁc to the intervention period (i.e. T2 to T3). In this\nstudy, a PRAX intervention effect was only considered signiﬁcant if both WEST-Trend\n(overall) and WEST-ROC (speciﬁc to the intervention) were statistically signiﬁcant."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      186.85870361328125,
+      655.1389770507812,
+      578.140869140625,
+      725.8507690429688
+    ],
+    "text": "We conducted a group analysis using West-Trend and WEST-ROC to evaluate if there\nwas a change in the raw scores at the group level for each reading outcome. We also\nconducted an analysis using WEST-Trend and WEST-ROC to analyse individual\ntreatment responses for each outcome. For the individual analysis, each item on a test was\nassigned a dichotomous rating of correct (e.g. score of 1) or incorrect (e.g. score of 0)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.1340942382812,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n14/30"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      186.85980224609375,
+      391.2013854980469,
+      578.1224975585938,
+      432.7515869140625
+    ],
+    "text": "The child’s response on each item was compared against the same item at each time point\n(i.e. item 1 score at T1, T2, T3; item 2 score at T1, T2, T3 etc.). The raw score was then\nmultiplied by a weight and subjected to a one-sample t-test."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      186.86090087890625,
+      436.70233154296875,
+      578.1542358398438,
+      477.5947265625
+    ],
+    "text": "The raw scores and WEST-Trend and WEST-ROC values for the reading/spelling\noutcome measures are shown in Table 5. This table also indicates which intervention each\nchild received."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      186.8619842529297,
+      491.1308898925781,
+      578.1420288085938,
+      564.2212524414062
+    ],
+    "text": "Accuracy\nIndividual GPCs\nAll children were administered the MURC Reading Gaps programme. At the group level,\nthere was a statistically signiﬁcant effect of PRAX intervention on this outcome, which was\nalso the case for four individual children (S2, S4, S6, S7)."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      186.86090087890625,
+      578.2070922851562,
+      578.1475830078125,
+      634.9736328125
+    ],
+    "text": "GPCs in nonwords\nAll children received the MURC Reading Gaps program. At the group level, there was a\nstatistically signiﬁcant effect of PRAX intervention on this outcome, which was also seen in\nfour individual children (S1, S2, S4, S7)."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      186.86090087890625,
+      648.9595336914062,
+      578.1541137695312,
+      705.7260131835938
+    ],
+    "text": "PGCs in nonwords\nAll children were administered the MURC Spelling Gaps programme. There was a\nstatistically signiﬁcant PRAX intervention effect on this outcome at the group level, as well\nas at the individual level for ﬁve children (S1, S2, S4, S5, S7)."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      43.82360076904297,
+      92.03978729248047,
+      267.033447265625,
+      101.5230484008789
+    ],
+    "text": "Table 4 Children’s scores at T1 on the screening measures."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      163.162353515625,
+      108.48716735839844,
+      543.9217529296875,
+      117.4534683227539
+    ],
+    "text": "S1\nS2\nS3\nS4\nS5\nS6\nS7"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      121.937255859375,
+      111.95905303955078,
+      132.87368774414062
+    ],
+    "text": "Reading (z scores)a"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      137.5074462890625,
+      554.9564819335938,
+      147.05853271484375
+    ],
+    "text": "Nonword reading accuracy\n−2.31\n−1.06\n−1.93\n−2.37\n−1.25\n−2.29\n−1.20"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.367088317871094,
+      151.5675048828125,
+      554.9583129882812,
+      161.11859130859375
+    ],
+    "text": "Irregular reading accuracy\n−2.12\n−2.51\n−2.16\n−1.87\n−2.00\n−1.63\n−2.08"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.36888885498047,
+      164.23016357421875,
+      129.70394897460938,
+      175.16732788085938
+    ],
+    "text": "Spelling (scaled scores)a"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      180.38514709472656,
+      539.2503051757812,
+      189.3514404296875
+    ],
+    "text": "Nonword spelling accuracy\n3\n5\n5\n3\n4\n4\n6"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      192.40643310546875,
+      135.4001007080078,
+      203.34365844726562
+    ],
+    "text": "Anxiety disorders (CSR)b"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      208.56153869628906,
+      539.2503051757812,
+      217.52783203125
+    ],
+    "text": "Social anxiety\n6\n6\nND\n5\n6\nND\n5"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      222.67811584472656,
+      539.2503051757812,
+      231.6444091796875
+    ],
+    "text": "Generalised anxiety\n5\nND\n4\n4\n4\n4\n4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      236.73817443847656,
+      548.118896484375,
+      245.7044677734375
+    ],
+    "text": "Separation anxiety\nND\n6\nND\n4\n5\nND\nND"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      40.365299224853516,
+      250.2698974609375,
+      198.92178344726562,
+      292.70220947265625
+    ],
+    "text": "Speciﬁc phobias\nSpiders: 4\nDark: 4\nClowns: 4\nDoctor: 4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      223.3701629638672,
+      250.85377502441406,
+      275.51458740234375,
+      303.64288330078125
+    ],
+    "text": "Wasps: 5\nLoud noises: 5\nSpiders: 4\nLifts: 4\nToilets: 4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      299.9630126953125,
+      250.85292053222656,
+      335.0427551269531,
+      325.5816345214844
+    ],
+    "text": "Dogs: 4\nLifts: 4\nInsects: 4\nDentist:4\nDark: 4\nBlood: 4\nSpiders: 4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      359.49114990234375,
+      250.85108947753906,
+      396.157958984375,
+      270.75897216796875
+    ],
+    "text": "Heights: 4\nPlanes: 4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      439.0312194824219,
+      250.85108947753906,
+      571.6231079101562,
+      270.75897216796875
+    ],
+    "text": "Dark: 4\nND\nSpiders: 4\nHeights: 4"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      33.84560012817383,
+      329.8755798339844,
+      54.91880798339844,
+      337.84576416015625
+    ],
+    "text": "Notes:"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      45.807899475097656,
+      334.8681640625,
+      167.90896606445312,
+      371.80908203125
+    ],
+    "text": "a Low scores = poor performance.\nb High scores = poor performance.\nND, not diagnosed.\nGrey cells = primary anxiety disorder."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n15/30"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      43.82360076904297,
+      92.55674743652344,
+      568.1693115234375,
+      112.4645767211914
+    ],
+    "text": "Table 5 Raw scores and WEST-ROC and WEST-TREND results for reading/spelling outcomes, with an indication of whether each skill was\ntrained during treatment."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.365299224853516,
+      119.03239440917969,
+      515.8966674804688,
+      127.99869537353516
+    ],
+    "text": "Outcome\nTest\nS1\nS2\nS3\nS4\nS5\nS6\nS7\nM (SD)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.365299224853516,
+      134.12416076660156,
+      100.35702514648438,
+      143.0904541015625
+    ],
+    "text": "Individual GPCs"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      46.31801986694336,
+      144.72596740722656,
+      77.19795989990234,
+      153.6922607421875
+    ],
+    "text": "(raw/51)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4834442138672,
+      134.12416076660156,
+      530.6058959960938,
+      143.0904541015625
+    ],
+    "text": "T1\n38\n34\n27\n28\n36\n26\n31\n31.43 (4.69)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4834442138672,
+      147.84352111816406,
+      530.6058959960938,
+      156.809814453125
+    ],
+    "text": "T2\n42\n35\n29\n29\n39\n25\n34\n33.29 (6.02)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4834442138672,
+      161.5628204345703,
+      530.6058959960938,
+      170.52911376953125
+    ],
+    "text": "T3\n46\n50\n33\n43\n46\n37\n45\n42.86 (5.87)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4834442138672,
+      174.53448486328125,
+      567.353515625,
+      184.19232177734375
+    ],
+    "text": "WEST-Trend\n*\n*\nns\n*\n*\n*\n*\nt (6) = 8.09, p < 0.001"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      188.2542724609375,
+      563.0586547851562,
+      197.91204833984375
+    ],
+    "text": "WEST-ROC\nns\n*\nns\n*\nns\n*\n*\nt (6) = 3.52, p < 0.01"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      202.080322265625,
+      461.3145751953125,
+      211.63140869140625
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.362850189208984,
+      216.3279571533203,
+      109.39977264404297,
+      225.29425048828125
+    ],
+    "text": "GPCs in nonwords"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      46.31557083129883,
+      226.87318420410156,
+      77.19551086425781,
+      235.8394775390625
+    ],
+    "text": "(raw/61)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      216.3279571533203,
+      530.6034545898438,
+      225.29425048828125
+    ],
+    "text": "T1\n10\n18\n11\n0\n15\n1\n20\n10.71 (7.83)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      230.04725646972656,
+      530.6026000976562,
+      239.0135498046875
+    ],
+    "text": "T2\n13\n16\n11\n1\n16\n4\n9\n10.00 (5.77)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      243.71009826660156,
+      534.8983154296875,
+      252.6763916015625
+    ],
+    "text": "T3\n37\n40\n12\n9\n24\n7\n27\n22.29 (13.36)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      256.7391357421875,
+      563.0586547851562,
+      266.39703369140625
+    ],
+    "text": "WEST-Trend\n*\n*\nns\n*\n*\n*\n*\nt (6) = 3.28, p < 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      270.4588623046875,
+      563.0586547851562,
+      280.11676025390625
+    ],
+    "text": "WEST-ROC\n*\n*\nns\n*\nns\nns\n*\nt (6) = 2.85, p < 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      284.228515625,
+      461.3145751953125,
+      293.77960205078125
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.362850189208984,
+      298.53265380859375,
+      109.39977264404297,
+      307.4989318847656
+    ],
+    "text": "PGCs in nonwords"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      46.31557083129883,
+      309.077880859375,
+      77.19551086425781,
+      318.044189453125
+    ],
+    "text": "(raw/46)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      298.53265380859375,
+      526.3507690429688,
+      307.4989318847656
+    ],
+    "text": "T1\n7\n13\n7\n1\n18\n3\n16\n9.29 (6.50)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      312.251953125,
+      526.3507690429688,
+      321.21826171875
+    ],
+    "text": "T2\n3\n4\n1\n2\n16\n1\n16\n6.15 (6.82)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      325.91485595703125,
+      534.8983154296875,
+      334.8811340332031
+    ],
+    "text": "T3\n31\n34\n6\n11\n28\n6\n21\n19.57 (11.93)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.4810028076172,
+      338.94384765625,
+      563.0586547851562,
+      348.6018371582031
+    ],
+    "text": "WEST-Trend\n*\n*\nns\n*\n*\nns\n*\nt (6) = 2.95, p < 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      352.66357421875,
+      563.0586547851562,
+      362.2647399902344
+    ],
+    "text": "WEST-ROC\n*\n*\n*\n*\n*\n*\n*\nt (6) = 3.27, p < 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      366.4330139160156,
+      461.3145751953125,
+      375.9841003417969
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.362850189208984,
+      380.73712158203125,
+      526.3507080078125,
+      389.70343017578125
+    ],
+    "text": "Sight word spelling (raw/30)\nT1\n0\n0\n0\n0\n0\n0\n0\n0.00 (0.00)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      394.39996337890625,
+      530.6026000976562,
+      403.36627197265625
+    ],
+    "text": "T2\n6\n7\n0\n6\n6\n3\n5\n22.14 (6.34)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      408.11932373046875,
+      526.3525390625,
+      417.0856018066406
+    ],
+    "text": "T3\n25\n25\n10\n25\n25\n17\n28\n6.57 (3.31)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      421.1486511230469,
+      567.353515625,
+      430.80645751953125
+    ],
+    "text": "WEST-Trend\n*\n*\n*\n*\n*\n*\n*\nt (6) = 9.25, p < 0.001"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      434.8115539550781,
+      571.6636962890625,
+      444.4694519042969
+    ],
+    "text": "WEST-ROC\n*\n*\n*\n*\n*\n*\n*\nt (6) = 12.80, p < 0.001"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      448.6376953125,
+      461.3145751953125,
+      458.18878173828125
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.362850189208984,
+      462.9427490234375,
+      526.3516235351562,
+      471.9090270996094
+    ],
+    "text": "Sight word reading (raw/30)\nT1\n0\n0\n0\n0\n0\n0\n0\n0.00 (0.00)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      476.6055908203125,
+      530.6043701171875,
+      485.5718688964844
+    ],
+    "text": "T2\n17\n2\n7\n14\n14\n10\n15\n11.29 (5.28)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      490.32489013671875,
+      530.6043701171875,
+      499.29119873046875
+    ],
+    "text": "T3\n27\n28\n24\n25\n27\n26\n28\n26.43 (1.51)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      503.353271484375,
+      571.6636962890625,
+      512.9544677734375
+    ],
+    "text": "WEST-Trend\n*\n*\n*\n*\n*\n*\n*\nt (6) = 46.25, p < 0.001"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48190307617188,
+      517.016357421875,
+      563.0587158203125,
+      526.6741943359375
+    ],
+    "text": "WEST-ROC\nns\n*\n*\nns\nns\nns\nns\nt (6) = 0.97, p > 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48193359375,
+      530.8424072265625,
+      461.3146057128906,
+      540.3934936523438
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.36288833618164,
+      544.5052490234375,
+      526.3507690429688,
+      554.0563354492188
+    ],
+    "text": "Nonword reading ﬂuency(raw/63)\nT1\n4\n11\n9\n4\n7\n2\n9\n6.57 (3.31)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48193359375,
+      558.809326171875,
+      526.3516845703125,
+      567.775634765625
+    ],
+    "text": "T2\n8\n5\n10\n3\n13\n5\n11\n7.86 (3.67)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48193359375,
+      572.5286865234375,
+      526.3516845703125,
+      581.4949951171875
+    ],
+    "text": "T3\n13\n10\n8\n11\n11\n3\n7\n9.00 (3.32)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48193359375,
+      585.5013427734375,
+      563.5132446289062,
+      595.1592407226562
+    ],
+    "text": "WEST-Trend\n*\nns\nns\n*\n*\nns\nns\nt (6) = 1.49, p > 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48187255859375,
+      599.220947265625,
+      568.6737060546875,
+      608.8789672851562
+    ],
+    "text": "WEST-ROC\nns\n*\nns\n*\nns\nns\nns\nt (6) = −0.05, p > 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48313903808594,
+      613.5755004882812,
+      461.0288391113281,
+      622.5418090820312
+    ],
+    "text": "Trained\nX\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      40.36408996582031,
+      626.7100219726562,
+      530.6055908203125,
+      636.2611083984375
+    ],
+    "text": "Word reading ﬂuency(raw/104)\nT1\n34\n20\n14\n33\n37\n37\n29\n29.14 (8.90)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48313903808594,
+      641.01416015625,
+      530.6055908203125,
+      649.98046875
+    ],
+    "text": "T2\n35\n25\n16\n37\n42\n36\n31\n31.71 (8.71)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48313903808594,
+      654.677001953125,
+      530.6055908203125,
+      663.643310546875
+    ],
+    "text": "T3\n46\n29\n20\n40\n45\n43\n34\n36.71 (9.59)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48313903808594,
+      667.7060546875,
+      560.3696899414062,
+      677.3639526367188
+    ],
+    "text": "WEST-Trend\n*\n*\n*\n*\n*\nns\nns\nt (6) = 8.45, p <.001"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48187255859375,
+      681.4256591796875,
+      563.5140991210938,
+      691.0835571289062
+    ],
+    "text": "WEST-ROC\n*\nns\nns\nns\nns\nns\nns\nt (6) = 1.36, p > 0.05"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      187.48269653320312,
+      695.1953125,
+      461.3153381347656,
+      704.7463989257812
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n16/30"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.85980224609375,
+      241.79339599609375,
+      578.1442260742188,
+      298.55987548828125
+    ],
+    "text": "Sight word spelling\nAll children received the MURC Sight Word Spelling programme. At the group level, there\nwas a statistically signiﬁcant effect of PRAX intervention on this outcome, which was also\nthe case for all seven children."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.85980224609375,
+      311.6953430175781,
+      578.135498046875,
+      368.51885986328125
+    ],
+    "text": "Sight word reading\nAll children were administered the MURC Sight Word Reading programme. At the group\nlevel, there was a statistically signiﬁcant effect of PRAX intervention on this outcome,\nwhich was also the case for two individual children (S2, S3)."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.85980224609375,
+      381.2615966796875,
+      578.1399536132812,
+      453.3875427246094
+    ],
+    "text": "Reading fluency\nAll children received the MURC Text Reading programme. At the group level, there was\nno signiﬁcant intervention effect for word or nonword reading ﬂuency. Signiﬁcant\ntreatment effects were shown by one child for nonword reading ﬂuency (S4), and one child\nfor word reading ﬂuency (S1)."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.86090087890625,
+      466.07330322265625,
+      578.1409301757812,
+      523.2883911132812
+    ],
+    "text": "Reading comprehension\nAs outlined above, no child received intervention for this skill. At the group level, there was\nno signiﬁcant treatment effect for reading comprehension. At the individual level,\nsigniﬁcant treatment effects were observed for just one child (S5)."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.85870361328125,
+      538.214111328125,
+      578.1455688476562,
+      670.916748046875
+    ],
+    "text": "Anxiety outcomes\nWe evaluated the effect of PRAX intervention on anxiety disorders and symptoms at the\ngroup level using repeated-measures ANOVAs to compare anxiety outcomes at T1, T2,\nand T3. Paired samples t-tests were used to identify if there were signiﬁcant reductions in\nanxiety from T2 to T3 compared to T1 to T2. It is important to note that the data is not\nlikely to be normally distributed, which means the Type I error rate may be inﬂated\n(Oberfeld & Franke, 2013). For completeness, we also analysed the data using a\nnon-parametric Friedman’s test and report the Q statistic alongside the traditional\nparametric tests."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      186.85870361328125,
+      683.6594848632812,
+      578.1475830078125,
+      725.8519897460938
+    ],
+    "text": "Disorders\nThe raw scores on the anxiety disorder outcome measures are shown in Table 6. Children\nwere administered core and additional treatment modules for social anxiety (N = 6),"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      43.82360076904297,
+      92.15983581542969,
+      121.16690826416016,
+      101.12613677978516
+    ],
+    "text": "Table 5 (continued)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      40.365299224853516,
+      107.69395446777344,
+      515.8966674804688,
+      116.6602554321289
+    ],
+    "text": "Outcome\nTest\nS1\nS2\nS3\nS4\nS5\nS6\nS7\nM (SD)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      40.365299224853516,
+      122.78572082519531,
+      127.59125518798828,
+      131.75201416015625
+    ],
+    "text": "Reading comprehension"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      46.31801986694336,
+      133.33094787597656,
+      77.19795989990234,
+      142.2972412109375
+    ],
+    "text": "(raw/44)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.4834442138672,
+      122.78572082519531,
+      526.3532104492188,
+      131.75201416015625
+    ],
+    "text": "T1\n12\n2\n4\n12\n10\n6\n6\n7.43 (3.95)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.4834442138672,
+      136.50502014160156,
+      526.3540649414062,
+      145.4713134765625
+    ],
+    "text": "T2\n12\n9\n4\n10\n10\n9\n10\n9.14 (2.48)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.4834442138672,
+      150.16786193847656,
+      530.6058959960938,
+      159.1341552734375
+    ],
+    "text": "T3\n11\n10\n4\n12\n18\n10\n13\n11.14 (4.18)"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.4834442138672,
+      163.19598388671875,
+      563.0586547851562,
+      172.8538818359375
+    ],
+    "text": "WEST-Trend\nns\n*\nns\nns\n*\n*\n*\nt (6) = 2.44, p < 0.05"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.48190307617188,
+      176.91558837890625,
+      563.5132446289062,
+      186.57342529296875
+    ],
+    "text": "WEST-ROC\nns\nns\nns\nns\n*\nns\nns\nt (6) = 0.17, p > 0.05"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.48187255859375,
+      191.27003479003906,
+      461.027587890625,
+      200.236328125
+    ],
+    "text": "Trained\nX\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      33.84560012817383,
+      204.5843505859375,
+      51.92998123168945,
+      212.55455017089844
+    ],
+    "text": "Note:"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      45.80807113647461,
+      212.57244873046875,
+      426.5406799316406,
+      221.06248474121094
+    ],
+    "text": "✓and X indicate that a child was or was not (respectively) trained in skills that are indexed by that outcome measure."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n17/30"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      186.85870361328125,
+      601.3052978515625,
+      578.1223754882812,
+      642.85546875
+    ],
+    "text": "generalised anxiety (N = 5), separation anxiety (N = 3), and speciﬁc phobias (N = 7). As a\ngroup, there was a signiﬁcant reduction in the clinical severity of social anxiety disorder\nacross intervention period but not the baseline period."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      186.85870361328125,
+      646.8062133789062,
+      578.1541748046875,
+      717.5750122070312
+    ],
+    "text": "We also examined remission rates (i.e. no longer meeting diagnostic criteria) by\ncomparing anxiety disorder scores at T1, T2, and T3 to a clinical cut-off score (CSR ≤4) to\nidentify the percentage of children who shifted from above cut-off at T1 and T2 to below\ncut-off at T3 (see Table 7). Overall, 57% of children did not meet diagnostic criteria for\ntheir primary diagnosis after the intervention, and 42% of children were free from all"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      43.82360076904297,
+      92.55674743652344,
+      568.142578125,
+      112.4645767211914
+    ],
+    "text": "Table 6 Raw scores, repeated measures ANOVA, and Friedman statistics for anxiety disorder outcomes, with an indication of whether each\ndisorder was trained during treatment."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      129.09042358398438,
+      119.42869567871094,
+      511.068359375,
+      128.39498901367188
+    ],
+    "text": "S1\nS2\nS3\nS4\nS5\nS6\nS7\nMean (SD)\nStatistic"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      40.365299224853516,
+      134.9168243408203,
+      188.69210815429688,
+      143.88311767578125
+    ],
+    "text": "Disorders (ADIS-C/P; CSR raw scores/8)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      40.365299224853516,
+      149.03334045410156,
+      571.6221313476562,
+      157.9996337890625
+    ],
+    "text": "Social\nT1\n6\n6\nND\n5\n6\nND\n5\n4.67 (2.34)\nF (2, 8) = 18.96, p < 0.01"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61666870117188,
+      159.9749298095703,
+      561.8013305664062,
+      172.1162109375
+    ],
+    "text": "Q = 10.00, p = 0.007\nT2\n6\n6\nND\n5\n6\n4\n5\n5.33 (0.82)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61666870117188,
+      177.14207458496094,
+      469.4906311035156,
+      186.17620849609375
+    ],
+    "text": "T3\n4\n0\nND\n3\n3\n3\n2\n2.50 (1.38)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61756896972656,
+      190.74169921875,
+      391.0166931152344,
+      200.29278564453125
+    ],
+    "text": "Trained\n✓\n✓\nX\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      40.36619186401367,
+      205.44300842285156,
+      567.3712768554688,
+      214.4093017578125
+    ],
+    "text": "Generalised\nT1\n5\nND\n4\n4\n4\n5\n4\n4.33 (0.52)\nF (2, 8) = 5.16, p < 0.05"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61576843261719,
+      216.3845977783203,
+      553.1973266601562,
+      228.4693603515625
+    ],
+    "text": "Q = 5.20, p = 0.07\nT2\n5\nND\n4\n4\nND\n4\n4\n3.50 (1.76)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61576843261719,
+      233.5518035888672,
+      469.48883056640625,
+      242.5859375
+    ],
+    "text": "T3\n3\nND\n3\n3\nND\n5\n2\n2.67 (1.63)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61576843261719,
+      247.1513671875,
+      391.014892578125,
+      256.70245361328125
+    ],
+    "text": "Trained\n✓\nX\n✓\n✓\nX\n✓\n✓"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      40.36439895629883,
+      261.79620361328125,
+      567.3694458007812,
+      270.76251220703125
+    ],
+    "text": "Separation\nT1\nND\n6\nND\n4\n5\nND\nND\n5.00 (1.00)\nF (2, 4) = 2.00, p > 0.05"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61398315429688,
+      272.79425048828125,
+      552.9112548828125,
+      284.8790588378906
+    ],
+    "text": "Q = 2.00, p > 0.05\nT2\nND\n6\nND\n5\n5\nND\nND\n5.33 (0.58)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61398315429688,
+      289.96148681640625,
+      469.4870910644531,
+      298.99560546875
+    ],
+    "text": "T3\nND\n4\nND\n5\n2\nND\nND\n3.67 (1.53)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61398315429688,
+      303.50457763671875,
+      390.7270812988281,
+      313.0556640625
+    ],
+    "text": "Trained\nX\n✓\nX\n✓\n✓\nX\nX"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      40.36349868774414,
+      318.2059326171875,
+      164.84803771972656,
+      360.05340576171875
+    ],
+    "text": "Phobias\nT1\nSpiders: 4\nDark: 4\nClowns: 4\nDoctor: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      174.15953063964844,
+      318.20501708984375,
+      226.36044311523438,
+      360.0525207519531
+    ],
+    "text": "Wasps: 5\nLoud noises: 5\nSpiders: 4\nLifts: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      235.72842407226562,
+      318.2041015625,
+      270.80816650390625,
+      392.9328308105469
+    ],
+    "text": "Dogs: 4\nLifts: 4\nInsects: 4\nDentist:4\nDark: 4\nBlood: 4\nSpiders: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      280.1187744140625,
+      318.20233154296875,
+      316.8420715332031,
+      338.1101989746094
+    ],
+    "text": "Heights: 4\nPlanes: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      326.153564453125,
+      318.20233154296875,
+      421.61151123046875,
+      338.1101989746094
+    ],
+    "text": "Dark: 4\nND\nSpiders: 4\nHeights: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61488342285156,
+      398.08306884765625,
+      164.84803771972656,
+      439.8741149902344
+    ],
+    "text": "T2\nSpiders: 4\nDark: 4\nClowns: 4\nDoctor: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      174.15953063964844,
+      398.08221435546875,
+      226.36044311523438,
+      439.8731994628906
+    ],
+    "text": "Wasps: 5\nLoud noises: 5\nSpiders: 4\nLifts: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      235.72842407226562,
+      398.081298828125,
+      270.80816650390625,
+      472.7535400390625
+    ],
+    "text": "Dogs: 4\nLifts: 4\nInsects: 4\nDentist:4\nDark: 4\nBlood: 4\nSpiders: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      280.1187744140625,
+      398.07952880859375,
+      316.8420715332031,
+      417.98736572265625
+    ],
+    "text": "Heights: 4\nPlanes: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      326.153564453125,
+      398.07952880859375,
+      421.61151123046875,
+      417.98736572265625
+    ],
+    "text": "Dark: 4\nND\nSpiders: 4\nHeights: 4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      91.61488342285156,
+      477.8350524902344,
+      165.0372314453125,
+      519.7576904296875
+    ],
+    "text": "T3\nSpiders: 0\nDark: 0\nClowns: 0\nDoctor: 2"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      174.1605987548828,
+      477.8414306640625,
+      226.54978942871094,
+      519.7567138671875
+    ],
+    "text": "Wasps: 2\nLoud noises: 0\nSpiders: 4\nLifts: 2"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      235.7294921875,
+      477.84051513671875,
+      270.99664306640625,
+      552.637939453125
+    ],
+    "text": "Dogs: 3\nLifts: 0\nInsects: 3\nDentist: 4\nDark: 0\nBlood: 4\nSpiders: 2"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      280.1198425292969,
+      477.8396301269531,
+      317.03143310546875,
+      497.8153076171875
+    ],
+    "text": "Heights: 0\nPlanes: 0"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      326.1546325683594,
+      477.8396301269531,
+      421.80084228515625,
+      497.8153076171875
+    ],
+    "text": "Dark: 3\nND\nSpiders: 0\nHeights: 0"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      33.84560012817383,
+      556.9306640625,
+      51.92998123168945,
+      564.90087890625
+    ],
+    "text": "Note:"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      45.80807113647461,
+      564.975341796875,
+      578.1730346679688,
+      581.9130249023438
+    ],
+    "text": "Scores falling below the clinical threshold at T3 are bolded. ✓and X indicate that a child was or was not (respectively) trained in skills that are indexed by that outcome\nmeasure."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n18/30"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      186.85980224609375,
+      287.11328125,
+      578.1651000976562,
+      343.63018798828125
+    ],
+    "text": "anxiety disorders after the intervention. More speciﬁcally, social anxiety disorder remitted\nfor ﬁve of six children (83%), generalised anxiety remitted for four of ﬁve children (80%),\nseparation anxiety remitted for one of three children (33%), and at least one speciﬁc phobia\nremitted for six of six children (85%)."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      186.85980224609375,
+      357.1663513183594,
+      578.1104736328125,
+      444.2590026855469
+    ],
+    "text": "Symptoms\nAt the individual level, we conducted a baseline adjusted change (BAC) score\n([T3-T2]–[T2-T1]) and compared this score to a critical value—calculated from the\ntest-retest reliability estimate and the SD of the normative sample—to determine if there\nwas a signiﬁcant intervention effect using one-tailed t-tests with an alpha level of 0.05\n(see “Appendix C” for details of this approach)."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      186.8619842529297,
+      448.2097473144531,
+      578.1661987304688,
+      578.7314453125
+    ],
+    "text": "Raw scores, statistics, and intervention details for anxiety symptom outcomes are shown\nin Table 8. As a group, there were signiﬁcant reductions for total, social, generalised, and\nseparation anxiety symptoms over the intervention period. There was also a signiﬁcant\nreduction for panic/agoraphobia symptoms. Individually, ﬁve children showed signiﬁcant\nreductions for total anxiety (S1, S2, S4, S5, S6), four children showed signiﬁcant\nreductions for social (S1, S4, S5, S6) and generalised anxiety (S2, S4, S5, S6), three children\nshowed signiﬁcant reductions for separation anxiety (S1, S2, S6), and single showed\nreductions for children for physical injury fears (S3), obsessive compulsive symptoms (S1),\nand panic/agoraphobia symptoms (S4)."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      186.85980224609375,
+      592.9746704101562,
+      578.1455688476562,
+      697.2797241210938
+    ],
+    "text": "DISCUSSION\nThe aims of the current study were to measure the effects of the ﬁrst PRAX intervention in\nchildren with comorbid reading and anxiety problems. We predicted larger gains across\nthe intervention period than the double baseline control period for outcomes that were\ndirectly targeted by the PRAX intervention. The unique nature of the intervention\nproscribed predictions of whether such gains would reach statistical signiﬁcance in a\n12-week period."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      196.83770751953125,
+      92.55674743652344,
+      568.1072387695312,
+      112.4645767211914
+    ],
+    "text": "Table 7 Diagnostic remission rates for all participants on the outcome measure for all anxiety\ndisorders."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      119.42869567871094,
+      477.8155517578125,
+      128.39498901367188
+    ],
+    "text": "Disorder\nFree from diagnosis"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      402.69049072265625,
+      137.33660888671875,
+      552.8814086914062,
+      146.81985473632812
+    ],
+    "text": "n\n%"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      153.39906311035156,
+      554.65673828125,
+      162.3653564453125
+    ],
+    "text": "All diagnoses\n3/7\n42"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      167.4590606689453,
+      554.65673828125,
+      176.42535400390625
+    ],
+    "text": "Primary diagnoses\n4/7\n57"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      181.5756378173828,
+      554.65673828125,
+      190.54193115234375
+    ],
+    "text": "Social anxiety disorder\n5/6\n83"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      195.69215393066406,
+      554.6576538085938,
+      204.658447265625
+    ],
+    "text": "Generalised anxiety disorder\n4/5\n80"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      209.75221252441406,
+      554.65771484375,
+      218.718505859375
+    ],
+    "text": "Separation anxiety disorder\n1/3\n33"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.37939453125,
+      223.28399658203125,
+      554.6567993164062,
+      232.8350830078125
+    ],
+    "text": "Speciﬁc phobia\n17/20\n85"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      193.3784942626953,
+      237.9853057861328,
+      554.65673828125,
+      246.95159912109375
+    ],
+    "text": "Total\n27/34\n79"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      186.85980224609375,
+      251.2425537109375,
+      204.94419860839844,
+      259.2127380371094
+    ],
+    "text": "Note:"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      198.822265625,
+      259.23065185546875,
+      387.0035705566406,
+      267.7206726074219
+    ],
+    "text": "Some children received multiple speciﬁc phobia diagnoses."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.135009765625,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n19/30"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      43.82360076904297,
+      92.55674743652344,
+      568.1460571289062,
+      112.4645767211914
+    ],
+    "text": "Table 8 Raw scores and repeated measures ANOVA statistics for parent-reported anxiety symptom outcomes, with an indication of whether\neach symptom was trained during treatment."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      209.59434509277344,
+      119.42869567871094,
+      502.4508361816406,
+      128.39498901367188
+    ],
+    "text": "S1\nS2\nS3\nS4\nS5\nS6\nS7\nMean (SD)\nStatistic"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.365299224853516,
+      134.9168243408203,
+      89.79023742675781,
+      143.88311767578125
+    ],
+    "text": "Social anxiety"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.31801986694336,
+      145.9148712158203,
+      123.51248168945312,
+      154.88116455078125
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.16073608398438,
+      132.83094787597656,
+      449.0262756347656,
+      143.88311767578125
+    ],
+    "text": "T1\n16\n11\n5\n11\n7\n7\n8\n9.28 (3.68)a"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      405.69439697265625,
+      143.7726593017578,
+      453.5049743652344,
+      154.81430053710938
+    ],
+    "text": "10.14 (4.84)a"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      405.69439697265625,
+      154.7710723876953,
+      449.5171813964844,
+      165.75601196289062
+    ],
+    "text": "5.00 (2.71)b"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      472.5920104980469,
+      134.9174346923828,
+      563.0592651367188,
+      143.88372802734375
+    ],
+    "text": "F (2, 12) = 8.97, p < 0.01"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      149.0340118408203,
+      542.9200439453125,
+      158.00030517578125
+    ],
+    "text": "T2\n17\n7\n2\n13\n10\n13\n9\nQ = 7.63, p = 0.022"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      163.15052795410156,
+      385.8941345214844,
+      172.1168212890625
+    ],
+    "text": "T3\n8\n4\n1\n5\n4\n4\n3"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      176.62579345703125,
+      391.05517578125,
+      186.1768798828125
+    ],
+    "text": "BAC (+/−5.1)\n−10\n1\n2\n−10\n−9\n−15\n−1"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.365230560302734,
+      190.74237060546875,
+      387.6712341308594,
+      200.29345703125
+    ],
+    "text": "Trained\n✓\n✓\nX\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.365230560302734,
+      205.4436798095703,
+      110.99368286132812,
+      214.40997314453125
+    ],
+    "text": "Generalised anxiety"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.31795883178711,
+      216.38526916503906,
+      123.51242065429688,
+      225.3515625
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.16067504882812,
+      203.3002471923828,
+      563.0592651367188,
+      214.40997314453125
+    ],
+    "text": "T1\n7\n5\n7\n11\n6\n5\n3\n6.28 (2.49)a\nF (2, 12) = 9.89, p < 0.05"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      217.41676330566406,
+      542.9200439453125,
+      228.4697265625
+    ],
+    "text": "T2\n7\n11\n6\n13\n8\n8\n2\n7.85 (3.53)a\nQ = 7.15, p = 0.028"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      231.5332794189453,
+      449.5171813964844,
+      242.58612060546875
+    ],
+    "text": "T3\n5\n3\n3\n7\n4\n2\n3\n3.85 (1.67)b"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1605987548828,
+      247.1514892578125,
+      385.89678955078125,
+      256.70257568359375
+    ],
+    "text": "BAC (+/- 5.0)\n−2\n−14\n−2\n−8\n−6\n−9\n2"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.366058349609375,
+      261.2115478515625,
+      387.6720886230469,
+      270.76263427734375
+    ],
+    "text": "Trained\n✓\nX\n✓\n✓\nX\n✓\n✓"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.366058349609375,
+      275.912841796875,
+      106.96953582763672,
+      284.879150390625
+    ],
+    "text": "Separation anxiety"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.318790435791016,
+      286.85443115234375,
+      123.51325225830078,
+      295.8207092285156
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1614990234375,
+      273.826171875,
+      571.6633911132812,
+      284.879150390625
+    ],
+    "text": "T1\n8\n13\n9\n14\n8\n11\n6\n9.85 (2.91)a\nF (2, 12) = 24.43, p < 0.001"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      287.88604736328125,
+      547.229248046875,
+      298.99554443359375
+    ],
+    "text": "T2\n10\n16\n7\n12\n10\n12\n5\n10.28 (3.59)a\nQ = 10.57, p = 0.005"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15977478027344,
+      302.0025634765625,
+      449.5171813964844,
+      313.05560302734375
+    ],
+    "text": "T3\n4\n9\n1\n7\n7\n5\n3\n5.14 (2.73)b"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1605987548828,
+      317.6207580566406,
+      391.056884765625,
+      327.1718444824219
+    ],
+    "text": "BAC (+/−5.6)\n−8\n−10\n−4\n−3\n−5\n−8\n−1"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.36695861816406,
+      331.7373046875,
+      387.3860778808594,
+      341.28839111328125
+    ],
+    "text": "Trained\nX\n✓\nX\n✓\n✓\nX\nX"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.36695861816406,
+      346.38214111328125,
+      113.39208984375,
+      355.34844970703125
+    ],
+    "text": "Physical injury fears"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.3196907043457,
+      357.38018798828125,
+      123.51415252685547,
+      366.34649658203125
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.16238403320312,
+      346.38214111328125,
+      563.5173950195312,
+      355.34844970703125
+    ],
+    "text": "T1\n8\n4\n14\n2\n4\n3\n3\n5.42 (4.23)\nF (2, 12) = 2.04, p > 0.05"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1632843017578,
+      360.49871826171875,
+      538.3453979492188,
+      369.4649963378906
+    ],
+    "text": "T2\n7\n4\n14\n2\n4\n4\n3\n5.42 (4.07)\nQ = 0.63, p > 0.05"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1632843017578,
+      374.615234375,
+      444.2064514160156,
+      383.58154296875
+    ],
+    "text": "T3\n4\n2\n8\n3\n1\n4\n5\n3.85 (2.26)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1632843017578,
+      388.09051513671875,
+      385.9003601074219,
+      397.6416015625
+    ],
+    "text": "BAC (+/−4.4)\n−2\n−2\n−6\n1\n−3\n−1\n2"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.369651794433594,
+      402.79180908203125,
+      387.3887939453125,
+      411.75811767578125
+    ],
+    "text": "Trained\nX\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.369651794433594,
+      416.90838623046875,
+      118.39259338378906,
+      425.8746643066406
+    ],
+    "text": "Obsessive compulsive"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.32238006591797,
+      427.8499755859375,
+      123.51683807373047,
+      436.8162536621094
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1650848388672,
+      416.90838623046875,
+      563.0654907226562,
+      425.8746643066406
+    ],
+    "text": "T1\n5\n0\n1\n4\n1\n0\n2\n1.85 (1.95)\nF (2, 12) = 3.78, p > 0.05"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1650848388672,
+      430.96844482421875,
+      542.92626953125,
+      439.9347229003906
+    ],
+    "text": "T2\n6\n0\n1\n2\n2\n1\n2\n2.00 (1.91)\nQ = 7.90, p = 0.019"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1650848388672,
+      445.0849609375,
+      444.2082824707031,
+      454.05126953125
+    ],
+    "text": "T3\n0\n0\n0\n2\n0\n0\n1\n0.42 (0.78)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1650848388672,
+      458.6167297363281,
+      391.0613708496094,
+      468.1678161621094
+    ],
+    "text": "BAC (+/−4.1)\n−7\n0\n−1\n2\n−3\n−2\n−1"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.37144088745117,
+      473.2615966796875,
+      387.39056396484375,
+      482.2278747558594
+    ],
+    "text": "Trained\nX\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.37144088745117,
+      487.37811279296875,
+      107.4572982788086,
+      496.34442138671875
+    ],
+    "text": "Panic/agoraphobia"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.32416915893555,
+      498.3197021484375,
+      123.51863098144531,
+      507.2859802246094
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.16688537597656,
+      485.2906494140625,
+      563.0592651367188,
+      496.34442138671875
+    ],
+    "text": "T1\n3\n2\n3\n4\n0\n3\n0\n2.14 (1.57)a\nF (2, 12) = 4.58, p < 0.05"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      499.3505554199219,
+      542.9200439453125,
+      510.4600830078125
+    ],
+    "text": "T2\n3\n1\n3\n7\n0\n2\n0\n2.28 (2.42)a\nQ = 6.12, p = 0.047"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      513.4671020507812,
+      449.0262756347656,
+      524.5201416015625
+    ],
+    "text": "T3\n0\n1\n1\n4\n0\n0\n0\n0.85 (1.46)a"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1605987548828,
+      529.0852661132812,
+      385.8967590332031,
+      538.6363525390625
+    ],
+    "text": "BAC (+/−4.4)\n−3\n1\n−2\n−6\n0\n−1\n0"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.366058349609375,
+      543.78662109375,
+      387.38519287109375,
+      552.7529296875
+    ],
+    "text": "Trained\nX\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.366058349609375,
+      557.8466796875,
+      87.7502670288086,
+      566.81298828125
+    ],
+    "text": "Total anxiety"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      46.318790435791016,
+      568.8447265625,
+      123.51325225830078,
+      577.81103515625
+    ],
+    "text": "(SCAS-P; raw scores)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1614990234375,
+      555.7599487304688,
+      571.5503540039062,
+      566.81298828125
+    ],
+    "text": "T1\n47\n35\n39\n46\n26\n29\n22\n34.85 (9.71)a\nF (2, 12) = 22.58, p < 0.001"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      569.87646484375,
+      542.9200439453125,
+      580.9293212890625
+    ],
+    "text": "T2\n50\n39\n33\n49\n34\n40\n21\n38.00 (10.00)a\nQ = 9.85, p = 0.007"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.15887451171875,
+      583.9363403320312,
+      453.9958801269531,
+      595.0457763671875
+    ],
+    "text": "T3\n21\n19\n14\n28\n16\n15\n21\n19.14 (4.81)b"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      138.1605987548828,
+      599.5545654296875,
+      385.8976745605469,
+      609.1056518554688
+    ],
+    "text": "BAC (+/−20.4)\n−32\n−24\n−13\n−24\n−26\n−36\n1"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      40.36695861816406,
+      613.6710815429688,
+      387.6729736328125,
+      623.22216796875
+    ],
+    "text": "Trained\n✓\n✓\n✓\n✓\n✓\n✓\n✓"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      33.84560012817383,
+      627.5133666992188,
+      54.91880798339844,
+      635.4835815429688
+    ],
+    "text": "Notes:"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      45.80807113647461,
+      635.5580444335938,
+      426.5414733886719,
+      669.447509765625
+    ],
+    "text": "Signiﬁcant effects (p < 0.05) are bolded.\nNon-matching superscripts indicate signiﬁcant differences.\n✓and X indicate that a child was or was not (respectively) trained in skills that are indexed by that outcome measure.\nGrey cells indicate the symptom measure associated with the primary diagnosis for each child."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n20/30"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      186.85980224609375,
+      86.76856994628906,
+      578.126953125,
+      234.38099670410156
+    ],
+    "text": "Reading outcomes\nIn this study, all children received programmes that aimed to improve their reading\naccuracy by training their GPCs, PGCs, sight word reading, or sight word spelling. At the\ngroup level, all these skills showed reliable intervention effects except sight word reading,\nwhich showed a signiﬁcant WEST-Trend but not WEST-ROC. The same pattern of\nresults was seen at the individual level: the majority of children made signiﬁcant\nimprovements in all these skills except sight word reading. Considered together, these\ngroup and individual outcomes suggest that the PRAX intervention had a signiﬁcant\nimpact on most of the skills that were targeted by programmes to improve reading\naccuracy."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      186.85870361328125,
+      238.388671875,
+      578.1585693359375,
+      383.820068359375
+    ],
+    "text": "The limited effect of PRAX intervention at the individual level for sight word reading\n(i.e. only two children) was somewhat puzzling given that we have found large and\nsigniﬁcant effects of reading intervention on these skills in at least two previous studies\nwith children with developmental dyslexia (McArthur et al., 2015a; 2015b). This could be\nexplained by the large test-retest effects on the sight word reading test, which were\none-third of the size of the (large) gains over the intervention period (T2 to T3). It is\npossible that the orthographic representations for a large proportion of the 30 words\nselected for sight word training at T1 were ‘teetering’ at a threshold that allowed them to be\nread correctly at T2. Although PRAX intervention period doubled those gains again, this\nratio was not great enough to satisfy the algorithm generating the WEST-ROC statistic."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      186.8554229736328,
+      387.8277893066406,
+      578.1376953125,
+      622.9454345703125
+    ],
+    "text": "Our PRAX intervention programme also delivered all children with an intervention\naimed to increase reading ﬂuency. However, reliable intervention effects were only\nobserved in two of the seven children, one who improved in nonword reading ﬂuency, and\none in word reading ﬂuency. There are a number of possible explanations for these limited\neffects. First, the reading ﬂuency outcome, which asked children to read lists of words,\nwas not well matched to the intervention, which asked children to read words in texts.\nSecond, while the reading accuracy of children improved signiﬁcantly in this study, the\nseverity of their reading difﬁculties meant that their reading abilities remained poor. It was\nalso observed during the reading ﬂuency intervention module that children continued\nto read slowly and accurately, rather than gain speed and conﬁdence. This observation\nrelates to third intriguing explanation. The ﬁrst author has noted, when working with\nnumerous children with PRAX, that many adopt an unusual speed-accuracy trade-off.\nSpeciﬁcally, they tend to read ahead before reading aloud to minimise their chance of\nmaking mistakes in front of other people. This observation, which we aim to investigate\nempirically as soon as is feasible, offers another explanation for why children did not\nbeneﬁt from the PRAX reading ﬂuency module in this study."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      186.8554229736328,
+      626.181396484375,
+      578.1267700195312,
+      712.5747680664062
+    ],
+    "text": "Regarding reading comprehension, no child mastered the reading accuracy and ﬂuency\nmodules and hence none received speciﬁc reading comprehension intervention. This is\none explanation for why there was no signiﬁcant effect of PRAX intervention at the group\nlevel, and why only one child showed signiﬁcant improvements at the individual level.\nA second explanation is that poor reading comprehension is quite difﬁcult to improve.\nPrevious studies that have administered reading comprehension interventions to children"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.20849609375,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n21/30"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      186.85980224609375,
+      87.24859619140625,
+      578.1541748046875,
+      158.0174102783203
+    ],
+    "text": "with poor reading have met with mixed or limited success, especially when using\nstandardised rather than bespoke outcome measures (Rogde et al., 2019; Wright & Cervetti,\n2017). At this point in time, it would appear that poor reading comprehension is a highly\ncomplex cognitive problem that we do not fully understand, and hence do not yet\nknow how to treat in a reliable way."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      186.85980224609375,
+      173.79212951660156,
+      578.1397705078125,
+      306.4381408691406
+    ],
+    "text": "Anxiety outcomes\nThe effect of the PRAX intervention on anxiety was also encouraging. The results showed\nthat 79% of children’s anxiety disorders were no longer present after intervention, and\nthere was a promising remission rate of 57% for primary anxiety disorders. In addition,\nthere were statistically signiﬁcant reductions for social anxiety disorder, as well as\nnumerous anxiety symptoms (social anxiety, generalised anxiety, separation anxiety,\npanic/agoraphobia) over the intervention period. These results suggest that the PRAX\nintervention had a positive and signiﬁcant effect to reduce anxiety disorders and symptoms\nin poor readers with anxiety."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      186.85980224609375,
+      310.44586181640625,
+      578.1693725585938,
+      485.7536926269531
+    ],
+    "text": "It is important to acknowledge the slightly lower (i.e. 57%) remission rate compared to\nother Cool Kids studies (68%; Hudson et al., 2009), particularly given the frequency and\nintensity of sessions (i.e. 3 sessions per week) and dose of gradual exposures (i.e. six\nsessions). One explanation may be the complex nature the children’s presenting problems.\nSix children had severe reading anxiety, and pervasive perfectionistic tendencies, fear of\nembarrassment, and school avoidance. Thus, it is possible that a larger ‘dose’ of anxiety\nintervention may be required to further improve overall remission rates for children with\ncomorbid reading and anxiety difﬁculties. In addition, the youngest child also had\ncomorbid language difﬁculties and did not remit from their primary diagnosis. Thus, being\nyounger and experiencing language difﬁculties may contribute to poorer outcomes in\nthe current PRAX intervention, which necessitates further modiﬁcations to optimise\noutcomes for all children."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      186.85980224609375,
+      501.5337219238281,
+      578.12353515625,
+      664.1131591796875
+    ],
+    "text": "Clinical implications\nThis study found that PRAX intervention had a signiﬁcant and positive effect on children’s\npoor reading and spelling accuracy, as well as their anxiety disorders and symptoms.\nThis is an important ﬁnding and provides the ﬁrst evidence for an intervention to\nconcurrently improve reading and anxiety for children with these comorbid difﬁculties.\nThis is a crucial ﬁrst step in supporting children with these difﬁculties given the huge\nburden that poor reading and anxiety place on a child’s life. These ﬁndings justify a\nrandomised controlled trial to further assess the size and reliability of PRAX intervention\neffect (NHMRC, 2000). Such a trial will take time to conduct and publish. We therefore\nprovide the following recommendations for clinicians who wish to administer their own\nPRAX intervention to children with poor reading and anxiety."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      186.86090087890625,
+      667.34912109375,
+      578.1256713867188,
+      723.8660278320312
+    ],
+    "text": "The ﬁrst recommendation is to provide a comprehensive assessment of children’s\nreading and anxiety problems, and then identify effective interventions that match their\nexact needs. This requires the identiﬁcation of evidence-based assessments and\ninterventions for reading/spelling accuracy, reading ﬂuency, and reading comprehension,"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n22/30"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      186.85870361328125,
+      86.53382873535156,
+      571.6664428710938,
+      113.17427062988281
+    ],
+    "text": "as well social anxiety, separation anxiety, speciﬁc phobias, generalised anxiety. Tables 1\nand 2 provide some options for appropriate assessments and intervention modules."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      186.85870361328125,
+      116.41023254394531,
+      578.157470703125,
+      367.2093505859375
+    ],
+    "text": "Once a suite of evidence-based intervention modules has been identiﬁed, we suggest\nthat they are integrated into intervention sessions in the following way. First, sessions 1\nand 2 should focus on anxiety. Session 1 should provide introductions, goal setting, and\npsychoeducation, and Session 2 should introduce cognitive restructuring and a relaxation\nstrategy. In Sessions 3 to 7, reading and anxiety interventions should be combined by\nstarting with a relaxation strategy immediately before reading instruction (5-min), then\nfocusing on reading instruction (45-min), and then considering cognitive restructuring\nwith a parent check-in (15-min). When a child develops skills in cognitive structuring\n(usually after session 7), gradual exposures replace the cognitive restructuring activities.\nThe gradual exposures should focus on reading anxiety and integrate social anxiety\nmodules into the programme if appropriate. This session structure (relaxation strategy −\nreading instruction −gradual exposures + parent check in) continues until the child\nbecomes conﬁdent independently creating and completing gradual exposure activities, or\nthe child reaches the end of the intervention period. It is important to note that while\nthe current study administered 3-sessions per week, the anxiety intervention tailored for\npoor readers could be administered in 1-session per week, which is in line with other\nevidence-based cognitive behavioural interventions (Lyneham et al., 2003)."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      186.85980224609375,
+      382.9889221191406,
+      578.1354370117188,
+      560.4780883789062
+    ],
+    "text": "Limitations and future research\nThe outcomes of this research must be considered within the context of strengths and\nlimitations. One consideration is sample size. This study was designed to provide a close\nexamination of PRAX intervention effects in individuals. It was the equivalent of a Phase 1\nclinical trial. The positive outcomes encourage the equivalent of a Phase 2 trial that will\ninclude a larger group of participants to increase statistical power. Ideally, this would\ninclude three large groups of children with comorbid problems with reading and anxiety\nwho are randomly allocated to one of three groups: one that receives intervention for\nreading and anxiety PRAX modules, one for reading modules only, and one for anxiety\nmodules only. Comparing the outcomes of these groups will reveal if integrated PRAX\nintervention has a larger effect than reading intervention alone or anxiety intervention\nalone on reading and anxiety, respectively."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      186.85870361328125,
+      564.4857788085938,
+      578.1508178710938,
+      709.9171752929688
+    ],
+    "text": "A second consideration is that the WEST (Howard, Best & Nickels, 2015) use a by-item\nanalysis to evaluate the effect of an intervention on an outcome. This approach presumes\nthat all items in an outcome measure are administered at each test point. This was not the\ncase for three standardised outcome measures that used discontinue rules (nonword and\nword reading ﬂuency, reading comprehension). After consultation with a WEST author,\nwe made the decision to assume that children would have failed all items beyond the\ndiscontinue point. This risked misrepresenting PRAX intervention effects. The outcomes\nof this risk appear minimal since (1) these standardised tests are carefully designed so that\nvery few items presented after a discontinue point should be correct, and (2) three (of the\nfour) relevant outcomes were not speciﬁcally trained and did not show statistically"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n23/30"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85870361328125,
+      86.53382873535156,
+      566.2208862304688,
+      113.17427062988281
+    ],
+    "text": "signiﬁcant treatment gains. The fourth outcome was speciﬁcally trained and did show\nsigniﬁcant treatment gains."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85870361328125,
+      117.125,
+      578.139892578125,
+      232.73695373535156
+    ],
+    "text": "A third consideration is that the analyses in this study involved multiple comparisons,\nwhich increases the risk of Type I errors. The fact that the PRAX intervention effects on\nreading and spelling were limited to skills that were speciﬁcally trained (i.e. were not\nrandomly distributed throughout outcome measures), paired with the fact that the PRAX\nintervention had a similar effect on anxiety as previous studies (Hudson et al., 2009),\nargues against undue inﬂuence of Type 1 errors in this study. Nevertheless, future studies\ncould reduce the risk of Type 1 errors by restricting outcome measures of PRAX\ninterventions to those that assess skills that are speciﬁcally targeted by training modules."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85870361328125,
+      235.97291564941406,
+      578.1399536132812,
+      352.2426452636719
+    ],
+    "text": "A ﬁnal limitation of this study is that it was not designed to shed light on the theoretical\nmechanisms underpinning the association between poor reading and anxiety. Speciﬁcally,\nit did not test if poor reading causes later anxiety, or if anxiety interferes with the\nability to learn to read. A recent series of analyses of four large longitudinal databases\nsuggests that reading is more likely to have a causal effect on anxiety than vice versa\n(McArthur, Badcock, Castles, & Robidoux, under ﬁnal revision with Reading Research\nQuarterly). It would be very useful if future intervention studies could tackle this issue\ndirectly."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      366.32122802734375,
+      578.1290893554688,
+      454.1241149902344
+    ],
+    "text": "Summary\nThis study aimed to evaluate the efﬁcacy of the ﬁrst PRAX intervention in seven children\nwith poor reading and anxiety. We found that the PRAX intervention signiﬁcantly\nimproved several skills related to reading accuracy, and signiﬁcantly reduced anxiety\ndisorders and symptoms. This justiﬁes further testing of PRAX intervention for children\nwith concurrent poor reading and anxiety in a larger randomised controlled trial."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      191.5653076171875,
+      469.61090087890625,
+      524.4637451171875,
+      483.5585021972656
+    ],
+    "text": "ADDITIONAL INFORMATION AND DECLARATIONS"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      499.5495300292969,
+      394.8428955078125,
+      526.6357421875
+    ],
+    "text": "Funding\nThe authors received no funding for this work."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      539.4046630859375,
+      440.97161865234375,
+      566.4908447265625
+    ],
+    "text": "Competing Interests\nGenevieve M. McArthur is an Academic Editor for PeerJ."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      579.259765625,
+      574.4312133789062,
+      606.3460693359375
+    ],
+    "text": "Author Contributions\n\u0001 Deanna Francis conceived and designed the experiments, performed the experiments,"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      609.58203125,
+      578.122314453125,
+      651.1891479492188
+    ],
+    "text": "analysed the data, prepared ﬁgures and/or tables, authored or reviewed drafts of the\npaper, and approved the ﬁnal draft.\n\u0001 Jennifer L. Hudson conceived and designed the experiments, authored or reviewed drafts"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.85980224609375,
+      654.4251708984375,
+      578.1572265625,
+      681.0656127929688
+    ],
+    "text": "of the paper, and approved the ﬁnal draft.\n\u0001 Saskia Kohnen analysed the data, authored or reviewed drafts of the paper, and approved"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      186.86090087890625,
+      684.3015747070312,
+      578.1331176757812,
+      710.9420166015625
+    ],
+    "text": "the ﬁnal draft.\n\u0001 Lynn Mobach performed the experiments, authored or reviewed drafts of the paper, and"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      195.9886474609375,
+      714.177978515625,
+      303.0887756347656,
+      725.8517456054688
+    ],
+    "text": "approved the ﬁnal draft."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.20849609375,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n24/30"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      86.53382873535156,
+      578.1454467773438,
+      98.20759582519531
+    ],
+    "text": "\u0001 Genevieve M. McArthur conceived and designed the experiments, authored or reviewed"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      195.987548828125,
+      101.50050354003906,
+      410.406982421875,
+      113.17427062988281
+    ],
+    "text": "drafts of the paper, and approved the ﬁnal draft."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      125.94337463378906,
+      578.1212158203125,
+      167.9392852783203
+    ],
+    "text": "Human Ethics\nThe following information was supplied relating to ethical approvals (i.e. approving body\nand any reference numbers):"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      171.947021484375,
+      558.623046875,
+      197.87269592285156
+    ],
+    "text": "Macquarie University Human Research Ethics Committee approved this research\n(approval number: 5201500286)."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      210.6425323486328,
+      483.65582275390625,
+      237.6720733642578
+    ],
+    "text": "Data Availability\nThe following information was supplied regarding data availability:"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82154846191406,
+      241.6798095703125,
+      397.8775329589844,
+      252.63880920410156
+    ],
+    "text": "Raw data are available in Supplemental Files."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      265.4078369140625,
+      578.124755859375,
+      307.46075439453125
+    ],
+    "text": "Supplemental Information\nSupplemental information for this article can be found online at http://dx.doi.org/10.7717/\npeerj.10987#supplemental-information."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      327.6518859863281,
+      571.1823120117188,
+      354.9888916015625
+    ],
+    "text": "REFERENCES\nAdams MJ. 1990. Beginning to read: thinking and learning about print. Cambridge: MIT Press."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      359.917724609375,
+      576.059814453125,
+      369.9557189941406
+    ],
+    "text": "Adams C, Coke R, Crutchley A, Hesketh A, Reeves D. 2001. Assessment of comprehension and"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82188415527344,
+      372.268798828125,
+      366.6507263183594,
+      382.8811950683594
+    ],
+    "text": "expression 6–11. London: GL Assessment."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      387.8100280761719,
+      572.8976440429688,
+      397.8480224609375
+    ],
+    "text": "American Psychiatric Association. 2013. Diagnostic and statistical manual of mental disorders."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82188415527344,
+      400.8108825683594,
+      468.5391540527344,
+      410.77349853515625
+    ],
+    "text": "Fifth Editiion. Washington, DC: American Psychiatric Association."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      415.7023010253906,
+      548.8866577148438,
+      425.74029541015625
+    ],
+    "text": "Ardoin SP, Binder KS, Foster TE, Zawoyski AM. 2016. Repeated versus wide reading: a"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      428.0533752441406,
+      578.1239624023438,
+      466.5580749511719
+    ],
+    "text": "randomized control design study examining the impact of ﬂuency interventions on underlying\nreading behaviour. Journal of School Psychology 59(4):13–38 DOI 10.1016/j.jsp.2016.09.002.\nBegeny JC, Laugle KM, Krouse HE, Lynn AE, Tayrose MP, Stage SA. 2010. A control-group"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      468.9279479980469,
+      578.1451416015625,
+      520.28271484375
+    ],
+    "text": "comparison of two reading ﬂuency programs: the helping early literacy with practice strategies\n(HELPS) program and the great leaps K-2 reading program. School Psychology Review\n39(1):137–155 DOI 10.1080/02796015.2010.12087795.\nBouchard S, Paquin B, Payeur R, Allard M, Rivard V, Fournier T, Renaud P, Lapierre J. 2004."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82188415527344,
+      523.3777465820312,
+      578.1170043945312,
+      546.2658081054688
+    ],
+    "text": "Delivering cognitive-behavior therapy for panic disorder with agoraphobia in videoconference.\nTelemedicine Journal and E-Health 10(1):13–25 DOI 10.1089/153056204773644535."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      550.6202392578125,
+      572.5280151367188,
+      561.2326049804688
+    ],
+    "text": "Broom YM, Doctor EA. 1995. Developmental surface dyslexia: a case study of the efﬁcacy of a"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      563.5457153320312,
+      578.086181640625,
+      602.0504150390625
+    ],
+    "text": "remediation programme. Cognitive Neuropsychology 12(1):69–110\nDOI 10.1080/02643299508251992.\nBrunsdon R, Coltheart M, Nickels L. 2005. Treatment of irregular word spelling in developmental"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82188415527344,
+      604.4202880859375,
+      445.52178955078125,
+      627.9581298828125
+    ],
+    "text": "surface dysgraphia. Cognitive Neuropsychology 22(2):213–251\nDOI 10.1080/02643290442000077."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85980224609375,
+      632.3126220703125,
+      561.9119262695312,
+      642.9249877929688
+    ],
+    "text": "Carroll JM, Maughan B, Goodman R, Meltzer H. 2005. Literacy difﬁculties and psychiatric"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      186.85879516601562,
+      645.238037109375,
+      578.0682373046875,
+      683.7427368164062
+    ],
+    "text": "disorders: evidence for comorbidity. Journal of Child Psychology and Psychiatry 46(5):524–532\nDOI 10.1111/j.1469-7610.2004.00366.x.\nCartwright-Hatton S, Roberts C, Chitsabesan P, Fothergill C, Harrington R. 2004. Systematic"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      198.82090759277344,
+      686.1126098632812,
+      578.112060546875,
+      709.6504516601562
+    ],
+    "text": "review of the efﬁcacy of cognitive behaviour therapies for childhood and adolescent anxiety\ndisorders. British Journal of Clinical Psychology 43(4):421–436 DOI 10.1348/0144665042388928."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n25/30"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85980224609375,
+      87.22492980957031,
+      578.0930786132812,
+      97.26290130615234
+    ],
+    "text": "Castles A, Coltheart M. 1996. Cognitive correlates of developmental surface dyslexia: a single case"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85980224609375,
+      99.63276672363281,
+      577.3819580078125,
+      125.1551742553711
+    ],
+    "text": "study. Cognitive Neuropsychology 13(1):25–50 DOI 10.1080/026432996382051.\nCastles A, Coltheart M, Larsen L, Jones P, Saunders S, McArthur G. 2009. Assessing the basic"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.82188415527344,
+      128.1748809814453,
+      578.0263671875,
+      151.06295776367188
+    ],
+    "text": "components of reading: a revision of the Castles and Coltheart test with new norms. Australian\nJournal of Learning Difﬁculties 14(1):67–88 DOI 10.1080/19404150902783435."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85980224609375,
+      155.9917755126953,
+      568.56494140625,
+      166.02975463867188
+    ],
+    "text": "Chavira DA, Drahota A, Garland A, Roesch S, Garcia M, Stein MB. 2014. Feasibility of two"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85980224609375,
+      168.9926300048828,
+      578.0552978515625,
+      206.84750366210938
+    ],
+    "text": "modes of treatment delivery for child anxiety in primary care. Behaviour, Research, and Theory\n60(3):60–66 DOI 10.1016/j.brat.2014.06.010.\nChorpita B, Becker K, Daleiden E. 2007. Understanding the common elements of evidence-based"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.82188415527344,
+      209.86720275878906,
+      578.0999755859375,
+      232.75625610351562
+    ],
+    "text": "practice: misconceptions and clinical examples. Journal of the American Academy of Child and\nAdolescent Psychiatry 46(5):647–652 DOI 10.1097/chi.0b013e318033ff71."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85879516601562,
+      237.1106719970703,
+      506.5466613769531,
+      247.72305297851562
+    ],
+    "text": "Clarke PJ, Snowling MJ, Truelove E, Hulme C. 2010. Ameliorating children’s"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85879516601562,
+      250.03614807128906,
+      560.601806640625,
+      288.54083251953125
+    ],
+    "text": "reading-comprehension difﬁculties: a randomized controlled trial. Psychological Science\n21(8):1106–1116 DOI 10.1177/0956797610375449.\nColenbrander D, Kohnen S, Nickels L. 2011. Diagnostic reading test for nonwords (DiRT)."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85879516601562,
+      291.56048583984375,
+      578.04541015625,
+      316.4331359863281
+    ],
+    "text": "Available at http://www.motif.org.au.\nColenbrander D, Wang HC, Arrow T, Castles A. 2020. Teaching irregular words: what we know,"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.8199005126953,
+      318.8030090332031,
+      546.5565185546875,
+      342.34088134765625
+    ],
+    "text": "what we don’t know, and where we can go from here. Educational and Developmental\nPsychologist 37(1):1–8 DOI 10.1017/edp.2020.11."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85780334472656,
+      347.2696838378906,
+      557.0499877929688,
+      357.30767822265625
+    ],
+    "text": "Dodd B, Holm A, Oerlemanns M, McCormick M. 1996. Queensland Inventory of Literacy"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.8199005126953,
+      360.2705383300781,
+      377.98419189453125,
+      370.233154296875
+    ],
+    "text": "(QUIL). Brisbane: University of Queensland."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85780334472656,
+      375.1619873046875,
+      578.032470703125,
+      385.1999816894531
+    ],
+    "text": "Compton SN, Burns BJ, Egger HL, Robertson E. 2002. Review of the evidence base for treatment"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.8568115234375,
+      388.162841796875,
+      556.826904296875,
+      426.0177307128906
+    ],
+    "text": "of childhood psychopathology: internalising disorders. Journal of Consulting and Clinical\nPsychology 70(6):1240–1266 DOI 10.1037/0022-006X.70.6.1240.\nCoyne M, Kame’enui E, Simmons D. 2004. Improving beginning reading instruction and"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.8199005126953,
+      428.3876037597656,
+      578.08984375,
+      451.9331970214844
+    ],
+    "text": "intervention for students with LD reconciling “All” with “Each”. Journal of Learning Disabilities\n37(3):231–239 DOI 10.1177/00222194040370030801."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.86155700683594,
+      456.86199951171875,
+      578.077880859375,
+      466.8999938964844
+    ],
+    "text": "Copeland WE, Angold A, Shanahan L, Costello EJ. 2014. Longitudinal patterns of anxiety from"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.86056518554688,
+      469.86285400390625,
+      578.079833984375,
+      507.7177734375
+    ],
+    "text": "childhood to adulthood: the great smoky mountains study. Journal of the American Academy of\nChild and Adolescent Psychiatry 53(1):21–33 DOI 10.1016/j.jaac.2013.09.017.\nElleman AM. 2017. Examining the impact of inference instruction on the literal and inferential"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.82266235351562,
+      510.7374267578125,
+      578.0658569335938,
+      533.62646484375
+    ],
+    "text": "comprehension of skilled and less-skilled readers: a meta-analytic review. Journal of Educational\nPsychology 109(6):761–781 DOI 10.1037/edu0000180."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.8585662841797,
+      538.5552978515625,
+      578.0371704101562,
+      548.59326171875
+    ],
+    "text": "Ehri LC, Nunes SR, Stahl SA, Willows DM. 2001. Systematic phonics instruction helps students"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85757446289062,
+      550.9063720703125,
+      578.1068725585938,
+      589.4110717773438
+    ],
+    "text": "learn to reading: evidence from the national reading panel’s meta-analysis. Review of\nEducational Research 71(3):393–447 DOI 10.3102/00346543071003393.\nFrancis DA, Caruana N, Hudson JL, McArthur GM. 2019. The association between poor reading"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.81967163085938,
+      592.4307250976562,
+      576.2238159179688,
+      615.3187866210938
+    ],
+    "text": "and internalising problems: a systematic review and meta-analysis. Clinical Psychology Review\n67:45–70 DOI 10.1016/j.cpr.2018.09.002."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85658264160156,
+      620.2476196289062,
+      578.0878295898438,
+      630.2855834960938
+    ],
+    "text": "Garber J, Weersing RV. 2010. Comorbidity of anxiety and depression in youth: implications for"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      186.85757446289062,
+      632.5987548828125,
+      558.8889770507812,
+      671.1033935546875
+    ],
+    "text": "treatment and prevention. Clinical Psychology 17:293–306\nDOI 10.1111/j.1468-2850.2010.01221.x.\nGrills AE, Fletcher JM, Vaughn S, Barth A, Denton CA, Stuebing KK. 2014. Anxiety and"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      198.81866455078125,
+      673.4732666015625,
+      544.7091674804688,
+      697.0111083984375
+    ],
+    "text": "response to reading intervention among ﬁrst grade students. Child Youth Care Forum\n43(4):417–431 DOI 10.1007/s10566-014-9244-3."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n26/30"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85980224609375,
+      87.22492980957031,
+      569.9226684570312,
+      97.1875228881836
+    ],
+    "text": "Ginsburg GS, Kendall PC, Sakolsky D, Compton SN, Piacentini J, Albano AM, Walkup JT,"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82188415527344,
+      100.20716857910156,
+      578.1259155273438,
+      149.07839965820312
+    ],
+    "text": "Sherrill J, Coffey KA, Rynn MA, Keeton CP, McCracken JT, Bergman L, Lyengar S,\nBirmaher JM. 2011. Remission after acute treatment in children and adolescents with anxiety\ndisorders: ﬁndings from the CAMS. Journal of Consulting and Clinical Psychology 79(6):806–813\nDOI 10.1037/a0025933."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85980224609375,
+      153.4328155517578,
+      578.09423828125,
+      164.04519653320312
+    ],
+    "text": "Goulandris NK, Snowling MJ. 1991. Visual memory deﬁcits: a plausible cause of developmental"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82289123535156,
+      166.35829162597656,
+      540.142578125,
+      189.89614868164062
+    ],
+    "text": "dyslexia? Evidence from a single case study. Cognitive Neuropsychology 8(2):127–154\nDOI 10.1080/02643299108253369."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.8607940673828,
+      194.82496643066406,
+      555.7627563476562,
+      204.86294555664062
+    ],
+    "text": "Golinkoff RM. 1975. A comparison of reading comprehension processes in good and poor"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82289123535156,
+      207.1770782470703,
+      521.1947021484375,
+      217.78945922851562
+    ],
+    "text": "comprehenders. Reading Research Quarterly 4(4):624–659 DOI 10.2307/747459."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.8607940673828,
+      222.71827697753906,
+      578.037353515625,
+      232.75625610351562
+    ],
+    "text": "Hudson JL, Rapee RM, Deveney C, Schniering CA, Lyneham H, Bovopoulos N. 2009. Cognitive-"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82289123535156,
+      235.71913146972656,
+      553.5891723632812,
+      271.5894470214844
+    ],
+    "text": "behavioral treatment versus an active control for children and adolescents with anxiety\ndisorders: a randomized trial. Journal of the American Academy of Child and Adolescent\nPsychiatry 46(5):533–544 DOI 10.1097/CHI.0b013e31819c2401."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.8607940673828,
+      276.518310546875,
+      578.05224609375,
+      286.5563049316406
+    ],
+    "text": "Howard D, Best W, Nickels L. 2015. Optimising the design of intervention studies: critiques and"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82289123535156,
+      288.8693542480469,
+      516.9436645507812,
+      299.48175048828125
+    ],
+    "text": "ways forward. Aphasiology 29(5):526–562 DOI 10.1080/02687038.2014.985884."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      304.41058349609375,
+      578.1278686523438,
+      314.4485778808594
+    ],
+    "text": "Ishikawa SI, Okajima I, Matsuoka H, Sakano Y. 2007. Cognitive behavioural therapy for anxiety"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      317.41143798828125,
+      566.1171264648438,
+      340.3563232421875
+    ],
+    "text": "disorders in children and adolescents: a meta-analysis. Child and Adolescent Mental Health\n12(4):164–172 DOI 10.1111/j.1475-3588.2006.00433.x."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      345.2851257324219,
+      571.4052734375,
+      355.3231201171875
+    ],
+    "text": "James AC, James G, Cowdrey FA, Soler A, Choke A. 2013. Cognitive behavioural therapy for"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      358.2860107421875,
+      551.3853149414062,
+      381.1741027832031
+    ],
+    "text": "anxiety disorders in children and adolescents. Cochrane Database of Systematic Reviews\n6(2):CD004690 DOI 10.1002/14651858.CD004690.pub3."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      386.1029052734375,
+      554.3323364257812,
+      396.1408996582031
+    ],
+    "text": "Johnson-Glenberg MC. 2000. Training reading comprehension in adequate decoders/poor"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      398.4539794921875,
+      570.4169311523438,
+      422.04864501953125
+    ],
+    "text": "comprehenders: verbal vs. visual strategies. Journal of Educational Psychology 92(4):772–782\nDOI 10.1037/0022-0663.92.4.772."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      426.97747802734375,
+      561.05322265625,
+      437.0154724121094
+    ],
+    "text": "Kaufman A, Kaufman N. 2004. Manual for the Kaufman brief intelligence test. Circle Pines:"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      439.97833251953125,
+      312.407470703125,
+      449.9409484863281
+    ],
+    "text": "American Guidance Service."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      454.8697509765625,
+      578.1111450195312,
+      464.9077453613281
+    ],
+    "text": "Kendall PC. 2000. Child and adolescent therapy: cognitive-behavioural procedures. Second Edition."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      467.87060546875,
+      304.95635986328125,
+      477.8332214355469
+    ],
+    "text": "New York: Guilford Press."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.86178588867188,
+      482.7620544433594,
+      556.0458984375,
+      492.72467041015625
+    ],
+    "text": "Kendall PC, Compton SN, Walkup JT, Birmaher B, Albano AM, Sherrill J, Ginsburg G,"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82388305664062,
+      495.6875305175781,
+      569.5223388671875,
+      531.6438598632812
+    ],
+    "text": "Rynn M, McCracken J, Gosch E, Keeton C, Bergman L, Sakolsky D, Suveg C, Lyengar S,\nMarch J, Piacentini J. 2010. Clinical characteristics of anxiety disordered youth. Journal of\nAnxiety Disorders 24(3):360–365 DOI 10.1016/j.janxdis.2010.01.009."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      536.5726928710938,
+      561.667724609375,
+      546.6106567382812
+    ],
+    "text": "Kendall PC, Brady EU, Verduin TL. 2001. Comorbidity in childhood anxiety disorders and"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82093811035156,
+      549.5736083984375,
+      557.5591430664062,
+      572.4616088867188
+    ],
+    "text": "treatment outcome. Journal of the American Academy of Child and Adolescent Psychiatry\n40(7):787–794 DOI 10.1097/00004583-200107000-00013."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      577.3905029296875,
+      569.8202514648438,
+      587.428466796875
+    ],
+    "text": "Kohnen S, Banales E. 2015a. The Macquarie University reading clinic reading gap intervention"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.82093811035156,
+      590.391357421875,
+      360.4261169433594,
+      600.3539428710938
+    ],
+    "text": "program. Sydney: Macquarie University."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      605.2827758789062,
+      569.930908203125,
+      615.3207397460938
+    ],
+    "text": "Kohnen S, Banales E. 2015b. The Macquarie University reading clinic spelling gap intervention"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      618.3404541015625,
+      567.606689453125,
+      643.2130126953125
+    ],
+    "text": "program. Sydney: Macquarie University.\nKohnen S, Banales E. 2015c. The Macquarie University reading clinic sight words intervention"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      646.2327270507812,
+      571.57177734375,
+      671.1053466796875
+    ],
+    "text": "program. Sydney: Macquarie University.\nKohnen S, Banales E. 2015d. The Macquarie University reading clinic text reading intervention"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      186.85885620117188,
+      674.125,
+      545.45263671875,
+      698.9976196289062
+    ],
+    "text": "program. Sydney: Macquarie University.\nKohnen S, Colenbrander D, Krajenbrink T, Nickels L. 2015. Assessment of lexical and"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      198.8199462890625,
+      701.3674926757812,
+      555.1144409179688,
+      724.9063720703125
+    ],
+    "text": "non-lexical spelling in students in Grades 1-7. Australian Journal of Learning Difﬁculties\n20(1):15–38 DOI 10.1080/19404158.2015.1023209."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n27/30"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85980224609375,
+      87.22492980957031,
+      578.0831909179688,
+      97.26290130615234
+    ],
+    "text": "Kohnen S, Nickels L, Geigis L, Coltheart M, McArthur G, Castles A. 2018. Variations within a"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.82188415527344,
+      99.63276672363281,
+      508.28021240234375,
+      123.17061614990234
+    ],
+    "text": "subtype: developmental surface dyslexias in English. Cortex 106(01):151–163\nDOI 10.1016/j.cortex.2018.04.008."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85980224609375,
+      128.09950256347656,
+      564.8308715820312,
+      138.13748168945312
+    ],
+    "text": "Kohnen S, Banales E, McArthur G. 2020. Videoconferencing interventions for children with"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85879516601562,
+      140.45057678222656,
+      575.1779174804688,
+      178.95523071289062
+    ],
+    "text": "reading and spelling difﬁculties: a pilot study. Epub ahead of print 15 September 2020.\nTelemedicine and E-Health DOI 10.1089/tmj.2020.0061.\nLaberge D, Samuels SJ. 1974. Toward a theory of automatic information processing in reading."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85780334472656,
+      181.32508850097656,
+      578.1030883789062,
+      206.84750366210938
+    ],
+    "text": "Cognitive Psychology 6(2):293–323 DOI 10.1016/0010-0285(74)90015-2.\nLanderl K, Moll K. 2010. Comorbidity of learning disorders: prevalence and familial transmission."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.8199005126953,
+      209.21742248535156,
+      430.8359375,
+      232.75625610351562
+    ],
+    "text": "Journal of Child Psychology and Psychiatry 51(3):287–294\nDOI 10.1111/j.1469-7610.2009.02164.x."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85780334472656,
+      237.68507385253906,
+      575.4998779296875,
+      247.72305297851562
+    ],
+    "text": "Larsen L, Kohnen S, Nickels L, McArthur G. 2015. The letter-sound test (LeST): a reliable and"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.8568115234375,
+      250.68592834472656,
+      578.1170654296875,
+      288.54083251953125
+    ],
+    "text": "valid comprehensive measure of grapheme-phoneme knowledge. Australian Journal of Learning\nDifﬁculties 20(2):129–142 DOI 10.1080/19404158.2015.1037323.\nLawrence D, Johnson S, Hafekost J, De Haan KB, Sawyer M, Ainley J, Zubrick SR. 2015. The"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.81890869140625,
+      291.56048583984375,
+      578.0672607421875,
+      314.4485778808594
+    ],
+    "text": "mental health of children and adolescents: report on the second Australian Child and Adolescent\nSurvey of Mental Health and Wellbeing. Canberra: Department of Health."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.8568115234375,
+      319.3774108886719,
+      578.058349609375,
+      329.4154052734375
+    ],
+    "text": "Lyneham HJ, Abbott MJ, Rapee RM. 2007. Interrater reliability of the anxiety disorders interview"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85580444335938,
+      332.3782653808594,
+      578.1090698242188,
+      370.233154296875
+    ],
+    "text": "schedule for DSM-IV: child and parent version. Journal of the American Academy of Child and\nAdolescent Psychiatry 46(6):731–736 DOI 10.1097/chi.0b013e3180465a09.\nLyneham HJ, Abbott MJ, Wignall A, Rapee RM. 2003. The cool kids anxiety treatment program."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85580444335938,
+      373.2528076171875,
+      578.0601196289062,
+      398.1254577636719
+    ],
+    "text": "Sydney: MUARU, Macquarie University.\nLovett MW. 1984. A developmental perspective on reading dysfunction: accuracy and rate in the"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.81690979003906,
+      400.4953308105469,
+      457.1282043457031,
+      424.033203125
+    ],
+    "text": "subtyping of dyslexic children. Brain and Language 22(1):67–91\nDOI 10.1016/0093-934X(84)90080-4."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.8548126220703,
+      428.9620056152344,
+      578.1080932617188,
+      439.0
+    ],
+    "text": "Macquarie University Reading Clinic. 2016. MURC reading comprehension intervention program."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.81690979003906,
+      441.9628601074219,
+      321.6397399902344,
+      451.92547607421875
+    ],
+    "text": "Sydney: Macquarie University."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.8548126220703,
+      456.85430908203125,
+      578.1039428710938,
+      466.8923034667969
+    ],
+    "text": "Marinus E, Kohnen S, McArthur G. 2013. Australian comparison data for the test of word reading"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85382080078125,
+      469.20538330078125,
+      554.7177734375,
+      507.7100524902344
+    ],
+    "text": "efﬁciency (TOWRE). Australian Journal of Learning Difﬁculties 18(2):199–212\nDOI 10.1080/19404158.2013.852981.\nMaughan B, Carroll J. 2006. Literacy and mental disorders. Current Opinion in Psychiatry"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85946655273438,
+      510.08984375,
+      578.0838012695312,
+      535.6122436523438
+    ],
+    "text": "19(4):350–354 DOI 10.1097/01.yco.0000228752.79990.41.\nMcArthur G, Castles A, Kohnen S, Larsen L, Jones K, Anandakumar T, Banales E. 2015a. Sight"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.82154846191406,
+      538.6318969726562,
+      538.0082397460938,
+      561.5199584960938
+    ],
+    "text": "word and phonics training in children with dyslexia. Journal of Learning Disabilities\n48(4):391–407 DOI 10.1177/0022219413504996."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.86045837402344,
+      565.8743896484375,
+      576.2247924804688,
+      576.4867553710938
+    ],
+    "text": "McArthur GM, Hogben JH, Edwards VT, Heath SM, Mengler ED. 2000. On the “speciﬁcs” of"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85845947265625,
+      578.7998657226562,
+      578.1088256835938,
+      617.3045043945312
+    ],
+    "text": "speciﬁc reading disability and speciﬁc language impairment. Journal of Child Psychology and\nPsychiatry and Allied Disciplines 41(7):869–874 DOI 10.1111/1469-7610.00674.\nMcArthur G, Kohnen S, Larsen L, Jones K, Anandakumar T, Banales E, Castles A. 2013. Getting"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.82154846191406,
+      619.6744384765625,
+      578.1156616210938,
+      643.2122802734375
+    ],
+    "text": "to grips with the heterogeneity of developmental dyslexia. Cognitive Neuropsychology 30(1):1–24\nDOI 10.1080/02643294.2013.784192."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85946655273438,
+      648.14111328125,
+      578.0949096679688,
+      658.1790771484375
+    ],
+    "text": "McArthur G, Kohnen S, Jones K, Eve P, Banales E, Larsen L, Castles A. 2015b. Replicability of"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      186.85946655273438,
+      661.1429443359375,
+      575.3530883789062,
+      698.9224853515625
+    ],
+    "text": "sight word training and phonics training in poor readers: a randomised controlled trial. PeerJ\n3:e922 DOI 10.7717/peerj.922.\nMcArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H-C, Kohnen S, Banales E,"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      198.82154846191406,
+      701.942138671875,
+      565.22900390625,
+      711.9801025390625
+    ],
+    "text": "Anandakumar T, Marinus E, Castles A. 2018. Phonics training for english-speaking poor"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n28/30"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.86090087890625,
+      87.22492980957031,
+      578.04052734375,
+      125.1551742553711
+    ],
+    "text": "readers. Cochrane Database of Systematic Reviews 11(1):CD009115\nDOI 10.1002/14651858.CD009115.pub3.\nMifsud C, Rapee M. 2006. Early intervention for childhood anxiety in a school setting: outcomes"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.822998046875,
+      128.1748809814453,
+      578.1040649414062,
+      151.06295776367188
+    ],
+    "text": "for an economically disadvantaged population. Journal of the American Academy of Child and\nAdolescent Psychiatry 44(10):996–1004 DOI 10.1097/01.chi.0000173294.13441.87."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85891723632812,
+      155.41737365722656,
+      558.4430541992188,
+      166.02975463867188
+    ],
+    "text": "Moll K, Kunze S, Neuhoff N, Bruder J, Schulte-Körne G. 2014. Speciﬁc learning disorder:"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85691833496094,
+      168.91725158691406,
+      578.0803833007812,
+      206.84750366210938
+    ],
+    "text": "prevalence and gender differences. PLOS ONE 9(7):e103537\nDOI 10.1371/journal.pone.0103537.\nMoore D, Porter M, Kohnen S, Castles A. 2012. Detecting different types of reading difﬁculties: a"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.81800842285156,
+      209.21742248535156,
+      509.2965087890625,
+      232.75625610351562
+    ],
+    "text": "comparison of tests. Australasian Journal of Special Education 36(2):112–133\nDOI 10.1017/jse.2012.11."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85592651367188,
+      237.68507385253906,
+      553.5404663085938,
+      247.64767456054688
+    ],
+    "text": "Morris RD, Stuebing KK, Fletcher JM, Shaywitz SE, Lyon GR, Shankweiler DP, Katz L,"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85491943359375,
+      250.6105499267578,
+      578.105224609375,
+      288.54083251953125
+    ],
+    "text": "Francis DJ, Bennet SA. 1998. Subtypes of reading disability: variability around a phonological\ncore. Journal of Educational Psychology 90(3):347–373 DOI 10.1037/0022-0663.90.3.347.\nNation K, Cocksey J, Taylor JSH, Bishop VM. 2010. A longitudinal investigation of early reading"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.8170166015625,
+      291.56048583984375,
+      576.3406982421875,
+      314.4485778808594
+    ],
+    "text": "and language skills in children with poor reading comprehension. Journal of Child Psychology\nand Psychiatry 51(9):1031–1039 DOI 10.1111/j.1469-7610.2010.02254.x."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85491943359375,
+      318.8030090332031,
+      565.6558837890625,
+      329.4154052734375
+    ],
+    "text": "Nation K, Snowling M. 1997. Assessing reading difﬁculties: the validity and utility of current"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85592651367188,
+      331.7284851074219,
+      568.4375610351562,
+      370.233154296875
+    ],
+    "text": "measures of reading skill. British Journal of Educational Psychology 67(3):359–379\nDOI 10.1111/j.2044-8279.1997.tb01250.x.\nNauta MH, Scholing A, Rapee RM, Abbott M, Spence SH, Waters A. 2004. A parent-report"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.8170166015625,
+      372.60302734375,
+      576.4900512695312,
+      409.0663757324219
+    ],
+    "text": "measure of children’s anxiety: psychometric properties and comparison with child-report in a\nclinic and normal sample. Behaviour Research and Therapy 42(7):813–839\nDOI 10.1016/S0005-7967(03)00200-6."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85592651367188,
+      413.9952087402344,
+      578.088134765625,
+      424.033203125
+    ],
+    "text": "Neale M. 1999. Neale analysis of reading ability. Third Edition. Melbourne: Australian Council for"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85691833496094,
+      427.0528564453125,
+      578.0952758789062,
+      451.92547607421875
+    ],
+    "text": "Educational Research.\nNHMRC. 2000. How to use the evidence: assessment and application of scientiﬁc evidence. Canberra:"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85791015625,
+      454.94512939453125,
+      562.6521606445312,
+      479.8177795410156
+    ],
+    "text": "National Health and Medical Research Council.\nOakhill J. 1984. Inferential and memory skills in children’s comprehension of stories. British"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85891723632812,
+      482.1968994140625,
+      578.0942993164062,
+      507.7193298339844
+    ],
+    "text": "Journal of Educational Psychology 54(1):31–39 DOI 10.1111/j.2044-8279.1984.tb00842.x.\nOberfeld D, Franke T. 2013. Evaluating the robustness of repeated measures analyses: the case of"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.8209991455078,
+      510.0892333984375,
+      533.0543212890625,
+      533.6279907226562
+    ],
+    "text": "small sample sizes and nonnormal data. Behavior Research Methods 45(3):792–812\nDOI 10.3758/s13428-012-0281-2."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85891723632812,
+      538.556884765625,
+      574.548583984375,
+      548.5948486328125
+    ],
+    "text": "Peterson RL, Pennington BF, Olson RK. 2013. Subtypes of developmental dyslexia: testing the"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85891723632812,
+      550.907958984375,
+      565.3232421875,
+      589.4126586914062
+    ],
+    "text": "predictions of the dual-route and connectionist frameworks. Cognition 126(1):20–38\nDOI 10.1016/j.cognition.2012.08.007.\nOuellette G, Martin-Chang S, Rossi M. 2017. Learning from our mistakes: Improvements in"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.8209991455078,
+      591.7825317382812,
+      529.4827270507812,
+      615.3203735351562
+    ],
+    "text": "spelling lead to gains in reading speed. Scientiﬁc Studies of Reading 21(4):350–357\nDOI 10.1080/10888438.2017.1306064."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85891723632812,
+      620.2492065429688,
+      578.0682983398438,
+      630.2871704101562
+    ],
+    "text": "Rapee RM, Abbott MJ, Lyneham HJ. 2006. Bibliotherapy for children with anxiety disorders using"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.85791015625,
+      633.2500610351562,
+      578.0303955078125,
+      671.1049194335938
+    ],
+    "text": "written materials for parents: a randomized controlled trial. Journal of Consulting and Clinical\nPsychology 74(3):436–444 DOI 10.1037/0022-006X.74.3.436.\nRogde K, Hagen ÅM, Melby-Lervåg M, Lervåg A. 2019. The effect of linguistic comprehension"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      198.82000732421875,
+      674.1246337890625,
+      565.168701171875,
+      697.0126953125
+    ],
+    "text": "instruction on generalized language and reading comprehension skills: a systematic review.\nCampbell Systematic Reviews 15(4):e1059 DOI 10.1002/cl2.1059."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n29/30"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.85980224609375,
+      87.22492980957031,
+      576.6715698242188,
+      97.26290130615234
+    ],
+    "text": "Rowse HJ, Wilshire CE. 2007. Comparison of phonological and whole-word treatments for two"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      198.82090759277344,
+      99.63276672363281,
+      545.6967163085938,
+      123.17061614990234
+    ],
+    "text": "contrasting cases of developmental dyslexia. Cognitive Neuropsychology 24(8):817–842\nDOI 10.1080/02643290701764207."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.85879516601562,
+      128.09950256347656,
+      578.108154296875,
+      138.13748168945312
+    ],
+    "text": "Savage R, Georgiou G, Parrila R, Maiorino K. 2018. Preventative reading interventions teaching"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.8568115234375,
+      140.45057678222656,
+      578.0443115234375,
+      178.95523071289062
+    ],
+    "text": "direct mapping of graphemes in texts and set-for-variability aid at-risk learners. Scientiﬁc Studies\nof Reading 22(3):225–247 DOI 10.1080/10888438.2018.1427753.\nShaywitz SE, Escobar MD, Shaywitz BA, Fletcher JM, Makuch R. 1992. Evidence that dyslexia"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      198.81890869140625,
+      181.97486877441406,
+      578.07421875,
+      204.86294555664062
+    ],
+    "text": "may represent the lower tail of a normal distribution of reading ability. New England Journal of\nMedicine 326(3):145–150 DOI 10.1056/NEJM199201163260301."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.8568115234375,
+      209.7918243408203,
+      578.1200561523438,
+      219.82980346679688
+    ],
+    "text": "Silverman WK, Albano AM. 1996. The Anxiety disorders interview schedule for children for DSM-"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      198.81890869140625,
+      222.7936553955078,
+      482.9402160644531,
+      232.75625610351562
+    ],
+    "text": "IV: child and parent versions. San Antonia: Psychological Corporation."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.8568115234375,
+      237.68507385253906,
+      578.1060791015625,
+      262.6330871582031
+    ],
+    "text": "Stuart M, Stainthorp R. 2016. Reading development and teaching. London: SAGE.\nTemple C, Marshall J. 1983. A case study of developmental phonological dyslexia. British Journal"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.85580444335938,
+      265.00299072265625,
+      578.04833984375,
+      290.525390625
+    ],
+    "text": "of Psychology 74(4):517–533 DOI 10.1111/j.2044-8295.1983.tb01883.x.\nTorgesen JK, Wagner RK, Rashotte CA. 1999. Test of word reading efﬁciency (TOWRE). Austin:"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.8568115234375,
+      293.5450439453125,
+      548.1217041015625,
+      318.3423156738281
+    ],
+    "text": "ProEd.\nWillcutt EG, Petrill SA, Wu S, Boada R, DeFries JC, Olson RK, Pennington BF. 2013."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.85780334472656,
+      321.43731689453125,
+      578.0733032226562,
+      372.21771240234375
+    ],
+    "text": "Comorbidity between reading disability and math disability: concurrent psychopathology,\nfunctional impairment, and neuropsychological functioning. Journal of Learning Disabilities\n46(6):500–516 DOI 10.1177/0022219413477476.\nWolf M, Katzir-Cohen T. 2001. Reading ﬂuency and its intervention. Scientiﬁc Studies of Reading"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      186.8568115234375,
+      374.58758544921875,
+      578.1070556640625,
+      400.1100158691406
+    ],
+    "text": "5(3):211–239 DOI 10.1207/S1532799XSSR0503_2.\nWright TS, Cervetti GN. 2017. A systematic review of the research on vocabulary instruction that"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      198.81890869140625,
+      402.4798583984375,
+      578.1100463867188,
+      413.0922546386719
+    ],
+    "text": "impacts text comprehension. Reading Research Quarterly 52(2):203–226 DOI 10.1002/rrq.163."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      33.84560012817383,
+      749.657470703125,
+      578.0946655273438,
+      758.623779296875
+    ],
+    "text": "Francis et al. (2021), PeerJ, DOI 10.7717/peerj.10987\n30/30"
+  }
+]

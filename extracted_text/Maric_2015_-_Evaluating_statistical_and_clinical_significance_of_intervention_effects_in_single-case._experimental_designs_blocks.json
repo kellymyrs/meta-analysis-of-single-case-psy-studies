@@ -1,0 +1,1182 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      66.95457458496094,
+      152.798828125,
+      535.3576049804688,
+      214.61322021484375
+    ],
+    "text": "Evaluating Statistical and Clinical Significance of Intervention\nEffects in Single-Case Experimental Designs: An SPSS Method to\nAnalyze Univariate Data"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      102.10435485839844,
+      231.03128051757812,
+      500.12799072265625,
+      258.91656494140625
+    ],
+    "text": "Marija Maric\nUniversity of Amsterdam and Research Priority Area Yield, University of Amsterdam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.52615356445312,
+      268.9014587402344,
+      531.7061157226562,
+      296.7867431640625
+    ],
+    "text": "Else de Haan\nAcademic Medical Center and Academic Center for Child and Adolescent Psychiatry, Amsterdam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      143.7164764404297,
+      306.7154541015625,
+      458.5133972167969,
+      334.6581115722656
+    ],
+    "text": "Sanne M. Hogendoorn\nAcademic Center for Child and Adolescent Psychiatry, Amsterdam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.52616882324219,
+      344.5868225097656,
+      531.7061767578125,
+      372.47210693359375
+    ],
+    "text": "Lidewij H. Wolters\nAcademic Medical Center and Academic Center for Child and Adolescent Psychiatry, Amsterdam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.12925720214844,
+      382.4570007324219,
+      532.1593017578125,
+      426.2724609375
+    ],
+    "text": "Hilde M. Huizenga\nUniversity of Amsterdam, Cognitive Science Center Amsterdam, and Research Priority Area Yield,\nUniversity of Amsterdam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      62.07870101928711,
+      471.8662109375,
+      289.2892761230469,
+      624.3193359375
+    ],
+    "text": "Single-case experimental designs are useful methods in clinical\nresearch practice to investigate individual client progress.\nTheir proliferation might have been hampered by methodo-\nlogical challenges such as the difficulty applying existing\nstatistical procedures. In this article, we describe a data-\nanalytic method to analyze univariate (i.e., one symptom)\nsingle-case data using the common package SPSS. This\nmethod can help the clinical researcher to investigate whether\nan intervention works as compared with a baseline period or\nanother intervention type, and to determinewhether symptom\nimprovement is clinically significant. First, we describe the\nstatistical method in a conceptual way and show how it can be\nimplemented in SPSS. Simulation studies were performed to"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      313.1153869628906,
+      461.7146301269531,
+      540.3735961914062,
+      566.3199462890625
+    ],
+    "text": "determine the number of observation points required per\nintervention phase. Second, to illustrate this method and its\nimplications, we present a case study of an adolescent with\nanxiety disorders treated with cognitive-behavioral therapy\ntechniques in an outpatient psychotherapy clinic, whose\nsymptoms were regularly assessed before each session. We\nprovide a description of the data analyses and results of this\ncase study. Finally, we discuss the advantages and shortcom-\nings of the proposed method."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      313.115234375,
+      597.9813232421875,
+      540.271484375,
+      615.929443359375
+    ],
+    "text": "Keywords: single-case experimental designs; univariate data\nanalysis; treatment efficacy; reliable change; clinical research"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      313.11444091796875,
+      637.9027099609375,
+      540.3930053710938,
+      732.03955078125
+    ],
+    "text": "Determining the efficacy of interventions for adult\nand youth problems has been one of the most critical\nareas of research inthe contemporary psychology and\nsocial sciences. A generally recommended strategy\n(the so-called golden standard) for conducting this\ntype of research is to use group comparison designs—\nrandomized controlled trials (RCTs)—in which\noutcomes for a group that received a target treatment"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      206.81570434570312,
+      33.66687774658203,
+      375.8646240234375,
+      42.6331787109375
+    ],
+    "text": "Available online at www.sciencedirect.com"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      241.73849487304688,
+      56.411659240722656,
+      340.97052001953125,
+      72.85005950927734
+    ],
+    "text": "ScienceDirect"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      224.843994140625,
+      84.10595703125,
+      357.9486999511719,
+      92.31398010253906
+    ],
+    "text": "Behavior Therapy 46 (2015) 230–241"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      447.0810852050781,
+      95.79617309570312,
+      540.27099609375,
+      103.76637268066406
+    ],
+    "text": "www.elsevier.com/locate/bt"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      62.07817840576172,
+      650.7085571289062,
+      289.2496032714844,
+      712.4816284179688
+    ],
+    "text": "The authors wish to thank Marthe Keijman for help with\ncollecting data for this study, the anonymous reviewers, and the\neditor for their very valuable suggestions, and Joost Agelink van\nRentergem for his careful reading of the manuscript.\nAddress correspondence to Marija Maric, Department of\nDevelopmental Psychology, University of Amsterdam, Weesperplein\n4, 1018 XA, Amsterdam, the Netherlands; e-mail: m.maric@uva.nl."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      62.07870101928711,
+      716.2164306640625,
+      289.1914978027344,
+      732.1473999023438
+    ],
+    "text": "0005-7894/© 2014 Association for Behavioral and Cognitive Therapies.\nPublished by Elsevier Ltd. All rights reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      71.71647644042969,
+      64.96420288085938,
+      299.00653076171875,
+      732.9290161132812
+    ],
+    "text": "are compared with outcomes for others who received\neither an alternative treatment or were placed on\na waiting list (Task Force on Promotion and\nDissemination of Psychological Procedures, 1995).\nSome authors (e.g., Barlow & Hersen, 1984) and the\nTask Force on Promotion and Dissemination of\nPsychological Procedures (1995) have long noted\nthat single-case designs could also qualify as either a\nstand-alone experiment or as a research method\ncomplementary to RCTs. Currently, single-case\nexperimental designs (SCEDs) are increasingly rec-\nognized as useful methods in clinical research\npractice to investigate individual clients’ progress\nand to determine whether an intervention works\n(e.g., Barlow, Nock & Hersen, 2009).\nIn SCEDs, a single participant is repeatedly\nassessed on one or multiple indices (e.g., symptoms)\nduring various phases, for example, during baseline,\ntreatment, and follow-up. An important advantage\nof this method is that it can be used to test novel\ninterventions prior to investigations in demanding\nand costly RCTs (e.g., Norell-Clarke, Nyander &\nJansson-Fröjmark, 2011; Robey & Schultz, 1998).\nFurther, in certain heterogeneous populations of\nclients, SCEDs may be the only way to investigate\ntreatment outcomes, either because group analyses\ncould lead to a loss of valuable information or\nbecause the condition is so rare that the group study\nwould be impossible to conduct within a limited\nstudy period (Gaynor & Harris, 2008; Maric, Wiers\n& Prins, 2012). Finally, SCEDs offer the possibility\nto systematically document knowledge of researchers\nand clinicians, thereby preventing loss of informa-\ntion, and also offering the possibility to perform\nanalyses at an aggregate level, combining data from\nseveral clients (Kazdin, 2008).\nDespite these advantages of SCEDs, methodo-\nlogical challenges may preclude the proliferation of\nSCEDs in clinical intervention research. One\nchallenge appears to be the analysis of SCED data\n(Barlow et al., 2009; Smith, 2012). Although visual\nanalysis of such data is common, statistical analysis\nof such data may be preferred as it is less susceptible\nto biases (for a review, see Brossart, Parker, Olson\n& Mahadevan, 2006). Currently, several statistical\ntechniques of single-subject data exist, including\nnonparametric (e.g., Edgington, 1992)andparametric\n(e.g., Beeson, & Robey, 2006) procedures. However,\nmost of them may not be easily applied by clinical\nresearchers, which may hamper the proliferation of\nSCEDs in clinical intervention research (e.g., Barlow\net al., 2009; Borckardt et al., 2008; Smith, 2012).\nTherefore, the purpose of the current paper is to\ndemonstrate how univariate data (i.e., one symptom)\nobtained from SCEDs can be analyzed in a straight-\nforward manner. Specifically, we illustrate how to"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      322.80987548828125,
+      64.94320678710938,
+      550.0369262695312,
+      290.603271484375
+    ],
+    "text": "analyze SCEDs using the common software package\nSPSS version 20 to yield information on treatment\nefficacy (e.g., Is the change in anxious symptoms\nmore pronounced during treatment than during\nbaseline?) and reliable change (e.g., When compared\nwith a normative sample, is there a clinically\nsignificant change in anxious symptoms following\ntreatment?).\nBelow, we first provide a description of our\napproach to the SCEDs analyses. Second, we\noutline the results of simulation studies performed\nto determine the number of observation points\nrequired for each phase in a SCED analysis. Third,\nwe provide a detailed description of a single case of\nan adolescent diagnosed with anxiety disorders\ntreated with cognitive-behavioral therapy (CBT)\ntechniques in an outpatient psychotherapy clinic.\nFinally, we illustrate how to apply the SCED\nanalytic methods to the data from the single case."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      322.80938720703125,
+      300.1966857910156,
+      550.0491943359375,
+      731.9730224609375
+    ],
+    "text": "Method\nThe most frequently used SCED in clinical research\nis the AB design (Barlow et al., 2009). It consists of\ntwo phases (i.e., a baseline and a treatment), and can\nbe conceptualized as an interrupted time series\n(Campbell & Stanley, 1966). To obtain an adequate\nanalysis of differences between baseline and treat-\nment in such an interrupted time series, two\nrequirements should be fulfilled. First, the overall\npattern in the time series has to be modeled\nadequately. A common assumption is that an\nadequate model consists of two linear functions:\none for baseline and one for the treatment phase\n(e.g., Center, Skiba & Casey, 1985; Jones, Vaught &\nWeinrott, 1977; Kelly, McNeil & Newman, 1973).\nEach of these linear functions is described by an\nintercept (the symptom score if time_in_phase [time\npoints within each phase] is zero), and a slope (the\nchange of symptom score in a phase). If the overall\npattern in the data is not modeled adequately, for\nexample, if it is assumed that slopes of the two phases\nare equal whereas they actually differ, estimators of\nintercepts and slopes will be biased and thus cannot\nbe given a meaningful interpretation. Therefore,\nadequate modeling of the overall pattern is a first\nrequirement for an adequate analysis of phase\ndifferences.\nA second requirement is adequate modeling of\npotential correlations between residuals. That is,\nadequate modeling of that which remains after the\noverall pattern has been accounted for (Huitema &\nMcKean, 1998). This correlation between residuals\nof the observations (e.g., anxiety symptoms) has\nbeen termed “autocorrelation,” and it implies that\nthe residuals are not independent. For example, a\nlag 1 correlation refers to the degree in which the"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "231\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.07870101928711,
+      64.96420288085938,
+      289.3123474121094,
+      242.77706909179688
+    ],
+    "text": "residual of anxiety ratings at time points 1 and 2 or\ntime points 3 and 4 are correlated; as another\nexample, a lag 3 correlation refers to the degree in\nwhich residuals of anxiety ratings at time points 1\nand 4 are correlated. If residuals are correlated, the\ncorrelations are likely to decrease with increasing\nseparation between time points, as described, for\nexample, by the commonly used first-order autore-\ngressive model (Levin, Ferron & Kratochwill, 2012).\nIn more statistical terms, if correlations between\nresiduals decrease with the increasing lag between\nobservations, the residual correlation matrix might\nbe modeled adequately by an AR(1) correlation\nmatrix. Suppose that there are three observations;\nthe correlation matrix then will be"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.64076232910156,
+      252.89808654785156,
+      152.1966552734375,
+      266.6214294433594
+    ],
+    "text": "rho0\nrho1\nrho2"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.63929748535156,
+      265.42730712890625,
+      152.1966552734375,
+      279.2072448730469
+    ],
+    "text": "rho1\nrho0\nrho1"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.63929748535156,
+      278.0130920410156,
+      152.1966552734375,
+      291.736328125
+    ],
+    "text": "rho2\nrho1\nrho0"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.07870101928711,
+      247.31661987304688,
+      68.94091796875,
+      257.7773132324219
+    ],
+    "text": "2"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.07870101928711,
+      265.5715637207031,
+      68.94091796875,
+      276.0322570800781
+    ],
+    "text": "4"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      154.43203735351562,
+      247.31661987304688,
+      161.29425048828125,
+      257.7773132324219
+    ],
+    "text": "3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      154.43203735351562,
+      265.5715637207031,
+      164.11654663085938,
+      278.5271301269531
+    ],
+    "text": "5;"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.078704833984375,
+      307.0998840332031,
+      289.2966003417969,
+      520.798583984375
+    ],
+    "text": "where rho equals the AR(1) parameter, ranging\nbetween –1 and +1. If time points are separated by\none (lag 1), rho is raised to the power of 1; if they\nare separated by two (lag 2), rho is raised to the\npower of 2, and so on, thus generating correlations\nthat decrease with increasing lag. If correlations\nbetween residuals are not adequately modeled, for\nexample, if it is incorrectly assumed that they are\nuncorrelated, tests on intercepts and slopes will be\nunreliable. Importantly, if positively correlated\nresiduals are assumed to be uncorrelated, chances\nof finding significant results will be too high (Brossart\net al., 2006). This may have important implications,\nfor example, it might then be erroneously concluded\nthat treatment is beneficial, whereas this actually is\nnot the case. In the following, while describing the\nanalyses in a more conceptual way, we turn to several\nof these issues in more detail."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.07870101928711,
+      530.5856323242188,
+      289.24212646484375,
+      665.2545776367188
+    ],
+    "text": "analyses investigating treatment efficacy\nIf the overall pattern is modeled by an intercept and\nslope for each phase, this does not yield a direct test\nof intercept and slope differences between phases.\nTherefore, it is convenient to re-parameterize the\nmodel in terms of an intercept and slope for the\nbaseline phase and baseline-treatment differences in\nintercepts and slopes. The model is described by the\nfollowing function (e.g., Center, Skiba & Casey,\n1985; Jones, Vaught & Weinrott, 1977; Kelly,\nMcNeil & Newman, 1973):"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.078697204589844,
+      673.2559204101562,
+      289.192626953125,
+      699.92529296875
+    ],
+    "text": "y ið Þ ¼ b0 þ b1 \u0002 phase ið Þ þ b2 \u0002 time in phase ið Þ\nþ b3 \u0002 phase ið Þ \u0002 time in phase ið Þ þ e ið Þ\nð1Þ"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.079315185546875,
+      710.2990112304688,
+      289.2428283691406,
+      732.7215576171875
+    ],
+    "text": "In Equation (1), y(i) denotes the outcome variable\nscore at time point i, phase(i) denotes the phase in"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      313.1141357421875,
+      64.96273803710938,
+      540.3790283203125,
+      732.937255859375
+    ],
+    "text": "which time point i is contained (coded as 0 for\nbaseline and 1 for treatment), and time_in_phase\ndenotes time points within each phase. The term e(i)\ndenotes the residual at time point i. The parameter\nb0 is interpreted as the baseline intercept, b1 as the\ntreatment–baseline difference in intercepts, b2 as the\nbaseline slope, and b3 as the treatment–baseline\ndifference in slopes. Consequently, intercept differ-\nences between phases can be directly assessed by\ntesting whether b1 differs significantly from 0;\nanalogously, slope differences can be assessed by\ntesting b3. Note that these parameter estimates can\nalso be interpreted as an effect size (Cumming, 2014).\nThe baseline intercept b0 and the baseline–\ntreatment difference in intercept b1 refer to symptom\nscores when time_in_phase is zero. Therefore,\ninterpretation of b0 and b1 depends on the coding\nof time_in_phase. For example, if time_in_phase is\ncoded such that it is zero at the start of each phase, b1\nindexes symptom score differences between the start\nof baseline and start of treatment. However, it may\nbe more convenient to code time_in_phase such that\nit is zero at the end of each phase. A test on b1 then\nindicates whether symptom scores differ between the\nend of baseline and the end of treatment, thereby\nproviding a convincing test of treatment efficacy.\nNote that this parameterization yields a test of\nchange in the first phase and a test of the difference in\nchange between the first and second phases. Revers-\ning the coding of the phase variable (1 = exposure\n[EXP], 0 = EXP + cognitive therapy [CT]; see\nTable 1) and computing a new interaction term\naccordingly, yields a test of change in the second\nphase in addition to a test of the difference in change\nbetween phases.\nSome controversy was raised by the question of\nwhether residuals in interrupted time series designs\nare correlated, and thus whether it is necessary to\nmodel them (see Levin et al., 2012, for a review of\nthis controversy). On the one hand, it has been\nargued that some studies have reported inflated\ncorrelations as the overall pattern was not modeled\nadequately (cf. Center et al., 1985; Huitema &\nMcKean, 1998), for example, by incorrectly assum-\ning that baseline and treatment slopes were zero. On\nthe other hand, it has been argued that studies may\nhave incorrectly concluded that correlations are\nnonsignificant, as tests of correlations are under-\npowered for short time series (Busk & Marascuilo,\n1992). For these reasons, the best approach seems\nto be to both describe the general trend adequately\nand to account for remaining correlations, even\nif tests on these correlations indicate that they are\nnonsignificant.\nThese correlations can be quantified by the AR(1)\nparameter rho incorporated in the commonly used"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      340.18621826171875,
+      45.662174224853516
+    ],
+    "text": "232\nma r i c et a l ."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      71.71439361572266,
+      303.0743713378906,
+      298.9814453125,
+      552.6585693359375
+    ],
+    "text": "first-order autoregressive model. This parameter\nmay be underestimated for short time series\n(Marriott & Pope, 1954) and therefore, tests on the\nparameters in model Equation (1) may remain too\nliberal (Crosbie, 1993). Three solutions might be\nadopted to alleviate this potential problem. The first\nsolution is to apply a small sample correction to the\nestimated AR(1) parameter (Crosbie, 1993; cf.\nMarriott & Pope, 1954). A second solution is to\ntest parameters by implementing a permutation-\nbased procedure (Edgington, 1967). The third, in\nshort time series, is that tests may be carried out at\nmore stringent levels, thereby reducing the likelihood\nof finding spurious results.\nAs will be illustrated in the Results section, the\nanalysis described above, fitting Equation (1) to the\ndata while accounting for autocorrelation, can easily\nbe performed in the SPSS mixed-models module\n(SPSS Inc., 2011). However, before that, we now\nturn to describing the analyses that can be used to test\nreliable change."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      71.71592712402344,
+      562.447021484375,
+      298.93798828125,
+      732.9466552734375
+    ],
+    "text": "analyses investigating reliable change\nNote that due to the specific coding of the phase\nand the session_in_phase variables, the intercept b0\ngives an estimator of the end point of the “baseline”\nphase, whereas b0 + b1 gives an estimator of the\nend of the “treatment” phase. Therefore, b0 and\nb0 + b1 can be used to estimate reliable change. If\nthe linear change model is correct, these estimators\nare likely to be more precise estimators of final\noutcomes than observed final outcomes, as they are\nless contaminated by error (see Figure 2, the difference\nbetween observations and regression lines), just as a\nmean is less contaminated by error than individual\nobservations."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      322.8093566894531,
+      303.0715026855469,
+      549.9383544921875,
+      325.4940185546875
+    ],
+    "text": "Jacobson and Truax (1991) define the Reliable\nChange Index (RCI) as follows:"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      322.8093566894531,
+      332.4144287109375,
+      549.922607421875,
+      344.9672546386719
+    ],
+    "text": "RCI ¼ X2–X1=Sdiff;\nð2Þ"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      322.80828857421875,
+      353.5555114746094,
+      550.050048828125,
+      448.010498046875
+    ],
+    "text": "in which X1 and X2 represent a participant’s pre-\nand posttreatment scores, respectively, and where\nSdiff denotes the standard deviation of the difference\nbetween the two test scores (Jacobson & Truax,\n1991). Instead of using the observed end points of\nphases, we suggest including the estimated end points\nas defined by b0 and b0 + b1; therefore, the RCI is\ndefined by:"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      322.8089904785156,
+      457.93621826171875,
+      549.9236450195312,
+      472.0764465332031
+    ],
+    "text": "RCI ¼\nb0 þ b1\nð\nÞ–b0\n½\n\u0003=Sdiff ¼ b1=Sdiff\nð3Þ"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      322.81036376953125,
+      482.9042053222656,
+      550.041748046875,
+      732.431640625
+    ],
+    "text": "To determine how much an individual has\nbenefited from treatment, it would be useful to\nknow the magnitude of the pre- to posttreatment\neffect (i.e., an effect size). However, there have been,\nto our knowledge, no proposals for effect sizes for\nreliable change indices, and therefore, also no\nguidelines exist on what constitutes a small, medium,\nor large effect.\nIn sum, we propose a procedure that combines the\nstrengths of several approaches that have previously\nbeen described in the literature on single-subject\nanalysis. First, within one integrated model, we\nmodel the general trend in the data adequately by\nmeans of two separate regression lines. Second, we\nformulate the regression model in such a manner that\ndifferences between the ends of phases can be tested\ndirectly. Third, we account for correlated residuals,\nthereby increasing the reliability of test results.\nFourth, we provide an RCI. Finally, and most\nimportant, we show that this procedure can be\ncarried out straightforwardly in the common"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      71.71649932861328,
+      64.93551635742188,
+      192.2384796142578,
+      83.9642333984375
+    ],
+    "text": "Table 1\nStructure of Data Array in SPSS"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      71.71649932861328,
+      90.33395385742188,
+      310.6304016113281,
+      108.28206634521484
+    ],
+    "text": "Participant Time (weekly\nsessions)\nPhase (0 = EXP,\n1 = EXP + CT)\nTime in\nphase\nPhase × Time\nin phase a"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68646240234375,
+      90.33395385742188,
+      343.9923400878906,
+      118.25997161865234
+    ],
+    "text": "ASICA\nanxious\nfeelings"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.0792236328125,
+      90.33395385742188,
+      380.255126953125,
+      118.25997161865234
+    ],
+    "text": "ASICA\nanxious\nthoughts"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      386.4193420410156,
+      90.33395385742188,
+      462.0381774902344,
+      128.18128967285156
+    ],
+    "text": "ASICA\navoidance\nCATS\nnegative\nautomatic\nthoughts"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      468.1138916015625,
+      90.33401489257812,
+      502.2900695800781,
+      128.1813507080078
+    ],
+    "text": "CATS\npositive\nautomatic\nthoughts"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      508.36578369140625,
+      90.33407592773438,
+      550.0021362304688,
+      108.28218841552734
+    ],
+    "text": "SEQ-C\nself-efficacy"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      86.96690368652344,
+      135.30706787109375,
+      533.8134155273438,
+      220.4810791015625
+    ],
+    "text": "1\n1\n0\n3\n0\n12\n14\n4\n8\n2\n1\n1\n2\n0\n2\n0\n7\n13\n7\n6\n4\n3\n1\n3\n0\n1\n0\n10\n12\n9\n4\n4\n3\n1\n4\n0\n0\n0\n7\n10\n0\n2\n6\n5\n1\n5\n1\n3\n3\n11\n11\n0\n5\n5\n5\n1\n6\n1\n2\n2\n2\n8\n0\n3\n6\n9\n1\n7\n1\n1\n1\n6\n8\n0\n5\n8\n11\n1\n8\n1\n0\n0\n6\n4\n0\n3\n9\n14"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      71.71609497070312,
+      223.27871704101562,
+      549.9583129882812,
+      254.71986389160156
+    ],
+    "text": "a This variable can be omitted from the data array in SPSS as it is automatically calculated. EXP = exposure; CT = cognitive therapy;\nASICA = Anxiety Severity Interview for Children and Adolescents; CATS = Children’s Automatic Thoughts Scale; SEQ-C = Self-Efficacy\nQuestionnaire for Children."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "233\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      62.07867431640625,
+      64.96420288085938,
+      289.3174743652344,
+      290.624267578125
+    ],
+    "text": "statistical package SPSS, which is often available to\nresearchers in clinical settings.\nThe two main assumptions of this analysis are\nthat the overall pattern in the data is modeled\ncorrectly and that the error correlation structure is\nmodeled adequately. For example, if time effects are\ncurvilinear instead of linear, the analysis will yield\nbiased results. In addition, if the correlation structure\nis not modeled adequately, that is, if correlations do\nnot follow an AR(1) structure but another pattern,\ntest results may become less reliable. An additional\nassumption, which will not be discussed any further,\nis that if data are missing, they should be missing at\nrandom (Schafer & Graham, 2002). Another as-\nsumption is that the number of time points is sufficient\nto estimate the AR(1) parameter adequately. We\ntherefore performed simulation studies to determine\nthe number of observation points required per\nintervention phase."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      62.07870101928711,
+      299.39202880859375,
+      289.3226623535156,
+      732.9368286132812
+    ],
+    "text": "simulation study\nSimulation studies were performed to investigate\nthe number of time points required to arrive at an\nacceptable Type 1 error rate for these analyses.\nThat is, we simulated data with no effects present\n(all b’s zero) and added noise that was generated by\nan AR(1) process. From these simulated data we\nestimated the four parameters and tested whether\nthey differed significantly from zero using a nominal\nalpha of 5%. We repeated this procedure 10,000\ntimes, and scored for each parameter the number of\nsignificant outcomes, which should occur only in 5%\nof the cases. We varied the number of time points per\nphase (5, 10, 15, 20, or 100) and the degree of\nautocorrelation (rho of .1, or .3). The simulation\nstudy was carried out in R Statistical Package (R\n3.0.2), parameter estimates were derived by using\nREML implemented in the gls function of the nlme\npackage, which yields equivalent estimates as the\nproposed SPSS procedure.\nIn Figure 1a, it can be seen that Type 1 errors\ndecrease with an increasing number of time points.\nThey are reasonably accurate if the number of time\npoints per phase is 10 or more, but Type 1 errors\nare about 10% if there are only 5 time points per\nphase. In addition, it can be seen that Type 1 error\nslightly increases with increasing autocorrelation.\nWe therefore conclude that the procedure is reliable\nif the number of time points per phase is 10 or\nmore, but too liberal if the number of time points is\nonly 5. If there are only 5 time points per phase, it is\nbetter to test against a more stringent nominal alpha\nof 1%, which will yield a satisfactory percentage of\nfalse positives (see Figure 1b).\nIn the following section we present a detailed\ndescription of a single adolescent treated with CBT"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      313.11279296875,
+      64.95101928710938,
+      540.3885498046875,
+      609.4063720703125
+    ],
+    "text": "techniques. Thereafter, we apply the proposed\nSCED analytic methods to these data.\nCase Example\nThe participant was a 17-year-old girl who met\ninclusion and exclusion criteria1 for a broader study\ninvestigating the additional value of CT over and\nabove EXP therapy for youth anxiety. The SCED\nincluded multiple pretreatment assessments (A\nphase = baseline) followed by four sessions of\nbehavioral interventions (B phase = EXP) and four\nsessions of behavioral interventions and CT (C\nphase = EXP + CT). The study was conducted\njointly by the University of Amsterdam, Develop-\nmental Psychology, and de Bascule in Amsterdam,\nAcademic Centre for Child and Adolescent\nPsychiatry. Both youth and parents provided written\ninformed consent allowing their data to be used for\nthe purposes of scientific research. At pretreatment,\nthe participant met criteria for social phobia (Clinical\nSeverity Rating [CSR]2 = 6), generalized anxiety\ndisorder (CSR = 6), and specific phobia for vomiting\nand doctors (CSR = 5), assessed via administration\nof the Anxiety Disorders Interview Schedule for\nChildren/Parents (ADIS-C/P; Silverman & Albano,\n1996).\nIn order to assess weekly levels of anxiety\nsymptoms, the Anxiety Severity Interview for\nChildren and Adolescents (ASICA; Hogendoorn,\nDe Haan, et al., 2013) was administered. The ASICA\nis a 15-question semistructured clinical interview\ndeveloped to assess anxious feelings, anxious\nthoughts, and avoidance on a regular basis. Previous\nevaluations of the ASICA showed that internal\nconsistency (Cronbach’s α) was good for the\ntotal score (.86), and was moderate to good for the\nthree subscales: Feelings (.64), Avoidance (.80), and\nThoughts (.78). The interview has moderate to good\ntest–retest reliability (ICC’s ranging from .66 to .85),\nand it has been shown to be sensitive to treatment\nchange (Hogendoorn, De Haan, et al., 2013). In\naddition, negative and positive automatic thoughts\nwere measured using the Children’s Automatic\nThoughts Scale–Negative/Positive (CATS-N/P;\nHogendoorn et al., 2010). In a previous study,\nsound psychometric properties were observed for the"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      313.11456298828125,
+      621.2821655273438,
+      540.3370361328125,
+      732.3766479492188
+    ],
+    "text": "1 Inclusion criteria: ages between 8 and 18, primary anxiety\ndisorder (except posttraumatic stress disorder or obsessive–\ncompulsive disorder), had not received protocolized evidence-based\nCBT in the past half year, no use of selective serotonin reuptake\ninhibitors (SSRIs) at the moment of intake and treatment.\nExclusion criteria: suicidal ideation, psychosis, selective mutism,\nIQ below 80, problems with drugs or alcohol.\n2 The CSR scale consists of a 9-point Likert scale (0–8) and\nallows the clinician to evaluate the severity of each diagnosed\ncondition. A score of 4 or above indicates the presence of a\nclinically significant disorder."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      340.18621826171875,
+      45.662174224853516
+    ],
+    "text": "234\nma r i c et a l ."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      71.54493713378906,
+      231.81149291992188,
+      298.97723388671875,
+      732.4241333007812
+    ],
+    "text": "CATS-N/P in youth ages 8 to 18 years. Good internal\nreliability (Cronbach’s α.83–.94) and factorial\nvalidity, and moderate test–retest reliability (Pearson’s\nr .61–.77 for the total score) were reported. The\nquestionnaire appeared to be sensitive to treatment\nchange (Hogendoorn, Prins, et al., 2013). Self-efficacy\nwas assessed using the Self-Efficacy Questionnaire for\nChildren (SEQ-C; Muris, 2001), which measures\nsocial, academic and emotional self-efficacy. Internal\nconsistency of the SEQ-C is good (Cronbach’s\nα.85–.88).\nThe ASICA, CATS-N/P, and the SEQ-C were\nadministered in full at pre-, mid-, and posttreatment.\nFurthermore, prior to each treatment session, the\nASICA (first three items from each subscale) was\nadministered, as well as the top three to four items\n(i.e., highest or lowest scores of the participant at\npretreatment) from each questionnaire (CATS-N/P,\nSEQ-C). For this case, items 20, 26, and 41 were\nadministered from the CATS-Negative subscale;\nitems 3, 19, and 21 from the CATS-Positive subscale;\nand items 5, 9, 21, and 24 from the SEQ-C\nquestionnaire. We utilized this client-guided, idio-\ngraphic approach for two reasons. The more\npractical one concerns the fact that the amount of\nassessment that can be administered frequently on a\nsession basis is limited, as frequent assessments may\nbe demanding for (young) clients (Stice, Rohde,\nSeeley & Gau, 2010). The more conceptual reason\nfor choosing top items concerns that we aimed to\nfocus attention on problems that youth considered\nmost important to be working on during treatment\n(Weisz et al., 2011). In this way, specific evidence can\nbe generated on trajectories of change in those\nproblems during treatment. A trained research\nassistant conducted all assessments.\nAt the end of each treatment session, the therapist\nregistered the in-session activities using a checklist. To\nensure adherence to therapy protocol, the first (Maric)\nand second (Haan) authors scored the content of each\nsession using the session reports. The interrater\nreliability was good (Kappa = .81, p b 0.001)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      322.8046569824219,
+      231.79592895507812,
+      549.9649047851562,
+      290.10382080078125
+    ],
+    "text": "The participant completed the entire eight-session\ntreatment and all pre-, during, and posttreatment\nassessments. There were no missing data. To\nillustrate our method, the data from the two\ntreatment phases were used: EXP and EXP + CT."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      322.80938720703125,
+      298.6659851074219,
+      550.0826416015625,
+      539.1663818359375
+    ],
+    "text": "Results\nTable 1 illustrates the structure of the data array.\nThe SPSS file used for the actual data analysis\nshould be organized in the same manner. The first\ncolumn containsthe participantidentifier. The second\ncolumn contains session number. The third column\nindicates whether the session consisted of EXP\n(Weeks 1–4, coded as 0) or whether CT was added\n(coded as 1). The fourth column shows the session\nnumber within each phase; note that this index runs\nbackward (i.e., 3 at the beginning of a phase, and 0 at\nthe end of a phase). The fifth column contains the\ninteraction term of phase and session number within\neach phase. These values are automatically calculated\nby SPSS and can be omitted from the data array.\nColumns 6–11 record the symptom scores (ASICA-\nanxious feelings, ASICA- anxious thoughts, ASICA-\navoidance, CATS-negative automatic thoughts,\nCATS-positive automatic thoughts, SEQ-C) regis-\ntered prior to each session."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      322.80889892578125,
+      548.9541015625,
+      550.0262451171875,
+      731.4747924804688
+    ],
+    "text": "treatment efficacy\nTo give an answer to the question of treatment\nefficacy (i.e., Is the change in anxious symptoms\nmore pronounced during EXP + CT than during the\nEXP?), the analysis described in the Method section,\nfitting Equation (1) to the data while accounting for\nautocorrelation, has been performed in the SPSS\nmixed-models module (S.P.S.S. Inc., 2011) and is\nillustrated in the following video: http://youtu.be/\nsYGOynx-J8M.\nThe results for our case example can be found in\nTable 2 and in Figure 2. Using SEQ-C results as an\nexample, the interpretation of each parameter is as\nfollows: The parameter b0 is the self-efficacy score\nat the end of EXP. As the EXP phase was coded 0"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      378.4371032714844,
+      189.47781372070312,
+      459.037109375,
+      197.47781372070312
+    ],
+    "text": "Number of observations"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      90.48190307617188,
+      210.81134033203125,
+      531.2228393554688,
+      220.23825073242188
+    ],
+    "text": "FIGURE 1\nSimulation study results: False positives using a nominal alpha of 5% (1a) and 1% (1b). rho = autcorrelation parameter."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "235\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07823944091797,
+      662.223876953125,
+      289.2208557128906,
+      732.4953002929688
+    ],
+    "text": "and the EXP + CT phase was coded 1, b1 is the\ndifference in self-efficacy between end of EXP + CT\nand end of EXP, with positive values indicating\nhigher levels of self-efficacy during EXP + CT. The\ninterpretation of b2 is the rate of change in the EXP\nphase. As time runs backward from the end of each"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      313.1141052246094,
+      662.2234497070312,
+      540.2786865234375,
+      734.1964111328125
+    ],
+    "text": "phase, negative values indicate an increase in self-\nefficacy during the EXP phase. The interpretation\nof b3 is the difference in rates of change in self-\nefficacy between EXP + CT and EXP. This param-\neter should be interpreted in combination with\nparameter b2. That is, if both b3 and b2 estimates"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07870101928711,
+      64.93551635742188,
+      241.41407775878906,
+      83.9642333984375
+    ],
+    "text": "Table 2\nTreatment Efficacy Results Using Mixed Models"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07870101928711,
+      90.33395385742188,
+      234.0979461669922,
+      98.30416107177734
+    ],
+    "text": "a. Results Concerning Anxious Feelings (ASICA)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.0842742919922,
+      104.51580810546875,
+      513.6342163085938,
+      112.76131439208984
+    ],
+    "text": "Estimate\nSE\np\n95% Confidence Interval"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      400.650390625,
+      119.24826049804688,
+      538.8095703125,
+      127.21846771240234
+    ],
+    "text": "Lower bound\nUpper bound"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07844924926758,
+      133.99411010742188,
+      528.6915283203125,
+      186.57843017578125
+    ],
+    "text": "Intercept (b0)\n7.96\n2.17\n.287\n-141.76\n157.68\nPhase (b1)\n-3.28\n2.99\n.572\n-377.35\n370.80\nTime_in_phase (b2)\n0.76\n1.21\n.666\n-31.96\n33.49\nTime_in_phase * phase (b3)\n0.11\n1.62\n.963\n-140.95\n141.16\nASICA = Anxiety Severity Interview for Children and Adolescents."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.078941345214844,
+      200.05047607421875,
+      248.49203491210938,
+      208.5186767578125
+    ],
+    "text": "b. Results Concerning Anxious Thoughts (ASICA)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.08349609375,
+      215.17855834960938,
+      516.3765869140625,
+      223.93927001953125
+    ],
+    "text": "Estimate\nSE\np\n95% Confidence Interval"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      400.6485900878906,
+      230.94842529296875,
+      540.2374267578125,
+      239.4166259765625
+    ],
+    "text": "Lower bound\nUpper bound"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07781982421875,
+      246.07595825195312,
+      526.3433837890625,
+      298.6603088378906
+    ],
+    "text": "Intercept (b0)\n10.47\n0.19\n.000\n9.71\n11.23\nPhase (b1)\n-5.32\n0.27\n.001\n-6.34\n-4.29\nTime_in_phase (b2)\n1.24\n0.12\n.005\n0.80\n1.68\nTime_in_phase * phase (b3)\n0.54\n0.15\n.054\n-0.02\n1.10\nASICA = Anxiety Severity Interview for Children and Adolescents."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.078941345214844,
+      312.1323547363281,
+      288.3111877441406,
+      320.6005554199219
+    ],
+    "text": "c. Results Concerning Negative Automatic Thoughts (CATS)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.08349609375,
+      327.26043701171875,
+      516.3765869140625,
+      336.0211486816406
+    ],
+    "text": "Estimate\nSE\np\n95% Confidence Interval"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      400.6485900878906,
+      343.0302734375,
+      540.2374267578125,
+      351.49847412109375
+    ],
+    "text": "Lower bound\nUpper bound"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07781982421875,
+      358.1583557128906,
+      525.41650390625,
+      410.7422180175781
+    ],
+    "text": "Intercept (b0)\n2.19\n0.26\n.013\n1.09\n3.29\nPhase (b1)\n1.62\n0.36\n.042\n0.14\n3.09\nTime_in_phase (b2)\n1.9\n0.15\n.005\n1.29\n2.51\nTime_in_phase * phase (b3)\n-1.75\n0.20\n.010\n-2.55\n-0.96\nCATS = Children’s Automatic Thoughts Scale."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07898712158203,
+      424.2142639160156,
+      285.0230712890625,
+      432.6824645996094
+    ],
+    "text": "d. Results Concerning Positive Automatic Thoughts (CATS)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.08355712890625,
+      439.34234619140625,
+      516.3766479492188,
+      448.1030578613281
+    ],
+    "text": "Estimate\nSE\np\n95% Confidence Interval"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      400.6486511230469,
+      455.1121826171875,
+      540.2374877929688,
+      463.58038330078125
+    ],
+    "text": "Lower bound\nUpper bound"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07844924926758,
+      470.23974609375,
+      525.4144287109375,
+      522.8240356445312
+    ],
+    "text": "Intercept (b0)\n5.7\n0.21\n.004\n4.51\n6.88\nPhase (b1)\n3.45\n0.29\n.016\n1.82\n5.08\nTime_in_phase (b2)\n-1.12\n0.12\n.017\n-1.71\n-0.53\nTime_in_phase * phase (b3)\n-0.29\n0.16\n.231\n-1.14\n0.56\nCATS = Children’s Automatic Thoughts Scale."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.078941345214844,
+      536.2960815429688,
+      228.9499053955078,
+      544.7642822265625
+    ],
+    "text": "e. Results Concerning Self-Efficacy (SEQ-C)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.08349609375,
+      551.4241943359375,
+      516.3765869140625,
+      560.1848754882812
+    ],
+    "text": "Estimate\nSE\np\n95% Confidence Interval"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      400.6485900878906,
+      567.1939697265625,
+      540.2374267578125,
+      575.6621704101562
+    ],
+    "text": "Lower bound\nUpper bound"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.0784912109375,
+      582.321533203125,
+      526.34326171875,
+      624.7996215820312
+    ],
+    "text": "Intercept (b0)\n4.47\n0.14\n.000\n3.96\n4.99\nPhase (b1)\n9.51\n0.19\n.000\n8.81\n10.21\nTime_in_phase (b2)\n-0.99\n0.08\n.003\n-1.29\n-0.70\nTime_in_phase * phase (b3)\n-1.78\n0.11\n.001\n-2.17\n-1.40"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.078697204589844,
+      630.0585327148438,
+      316.2314758300781,
+      648.1878662109375
+    ],
+    "text": "Note. SEQ-C = Self-Efficacy Questionnaire for Children.\nNote. p values in bold indicate significant estimates. Nominal alpha = .01."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      340.18621826171875,
+      45.662174224853516
+    ],
+    "text": "236\nma r i c et a l ."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      71.71498107910156,
+      458.6963806152344,
+      298.9778137207031,
+      732.1499633789062
+    ],
+    "text": "are negative (as in our self-efficacy example), this\nindicates that there is a higher increase in self-\nefficacy during the EXP + CT phase than in the\nEXP phase. If b2 is negative and b3 is positive, this\nindicates that there is a lower increase (in case the\nabsolute value of b3 is lower than that of b2) or even\na decrease (in case the absolute value of b3 exceeds\nthat of b2) in self-efficacy during the EXP + CT\nphase. As our simulation study indicated that for\napproximately 5 time points or less per phase it is\nbetter to use a nominal alpha of .01 instead of .05,\nwe use this criterion for significance in the analyses\nreported below.\nThe results of the weekly assessments indicated\nthat after the EXP + CT, as compared with EXP, the\nend point of anxious thoughts (ASICA) was lower\n(p b .01), and the end point of self-efficacy was\nhigher (p b .01). There were no significant phase\ndifferences in end points of anxious feelings and\nnegative automatic thoughts and positive automatic\nthoughts (Table 2).\nRegarding differences in slopes between the two\nphases, self-efficacy (p b .01) increased at a higher"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      322.8083801269531,
+      458.69049072265625,
+      550.0491333007812,
+      552.8274536132812
+    ],
+    "text": "rate during EXP + CT, as compared with EXP.\nThere were no significant phase differences in rates of\nchanges in anxious feelings, anxious thoughts,\nnegative automatic thoughts, and positive automatic\nthoughts. However, negative automatic thoughts\nshowed a trend toward significance (p = .01),\nsuggesting a higher decrease in this symptom during\nEXP, as compared with the EXP + CT phase."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      322.80938720703125,
+      562.6171264648438,
+      549.9718017578125,
+      685.3241577148438
+    ],
+    "text": "reliable change\nAs indicated in the Method section, we used\nestimated instead of observed phase end points to\nassess reliable change. Based on an alpha = 0.05\n(two-tailed significance testing), an RCI N+1.96 or\nb–1.96 indicates a statistically significant reliable\nchange (Jacobson & Truax, 1991). As shown in\nTable 3, two RCIs indicated a clinically significant\ndecrease in anxious feelings and thoughts from the\nend of EXP to the end of EXP + CT."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      322.80938720703125,
+      694.892578125,
+      549.9467163085938,
+      732.1550903320312
+    ],
+    "text": "Discussion and Conclusion\nIn the current study we presented an SPSS method\nto investigate treatment efficacy and reliable change"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      331.0902099609375,
+      306.1229248046875,
+      505.3219299316406,
+      321.19378662109375
+    ],
+    "text": "Note. ASICA-avoidance data/model are not presented, end of \neach phase equals zero."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      71.71649932861328,
+      415.75616455078125,
+      549.9637451171875,
+      436.1246643066406
+    ],
+    "text": "FIGURE 2\nVisual representation of the models of the differences between the phases (exposure = sessions 1–4, and exposure + CT =\nsessions 5–8) on symptoms scores."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "237\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.078697204589844,
+      256.2460632324219,
+      289.3330993652344,
+      732.9351196289062
+    ],
+    "text": "in SCEDs. The results from the treatment efficacy\nanalyses can provideinformation regarding difference\nin within-client symptom changes between two\ndifferent phases in SCEDs (e.g., changes in anxiety\nlevels between baseline and treatment phases).\nAdditionally, results from the reliable change analyses\ncan provide valuable information about whether\nthis change in anxious symptoms within the client is\nsignificant in comparison to the scores of a norm\ngroup. Some additional information regarding the\nimplications and optimal implementation of the\nmethod might be helpful for clinical researchers. In\nthis section, this information is presented followed by\na short discussion of the results based on the analyses\nof the case example data used in this study. In\nconcluding paragraphs, several benefits of the SCEDs\nfor clinical research practice are highlighted.\nWith regard to utilization of the current method,\nthe method can be generalized in various ways. First,\nit can be generalized to more than two phases such\nas ABAC (baseline–treatment B–baseline–treatment\nC) designs. In this case, additional phase variables\nand their interaction with time_in_phase should be\nadded. Second, as the method is also valid if some\nsession data are missing at random (Schafer &\nGraham, 2002), the method can also be used if\nsymptoms are probed at irregular time intervals.\nThird, longer-term follow-up data can be seen as an\nadditional phase. Finally, using meta-analytic tech-\nniques, results across participants can be combined,\nthat is, by weighting intercept or slope differences by\ntheir respective standard errors (Huizenga, Visser &\nDolan, 2011; Van den Noortgate & Onghena, 2008).\nSeveral points regarding this method merit further\nconsideration. First, the methodology requires as-\nsumptions. The two main assumptions are that the\noverall pattern in the data as well as the correlation\nstructure are modeled adequately. A third assump-\ntion is that if data are missing, they should be missing\nat random. These assumptions also hold for other"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      313.1156005859375,
+      256.2315979003906,
+      540.3950805664062,
+      732.920654296875
+    ],
+    "text": "methods proposed for SCED analysis and therefore\nare not unnecessarily restrictive. Second, the results\nof our simulation study indicate that the method is\nmost reliable in the case of 10 or more time points per\nphase. Note, however, that these simulations only\nconsidered a few circumstances, that is, an autocor-\nrelation parameter of .1 and .3, equal number of time\npoints per phase, and no missing values. Therefore,\nthese results should be treated as tentative rules of\nthumb instead of fixed guidelines. Third, and based\non the results from the simulation study, if there are\napproximately 5 time points or less per phase, it is\nnecessary to choose a more stringent nominal alpha\nto arrive at reliable results. Alternative approaches\nare applying a correction (Crosbie, 1993; Marriott &\nPope, 1954) or resampling techniques (Edgington,\n1992). One approach to resampling has been\ndescribed by Borckardt et al. (2008). However, the\nlatter method is based on very specific hypotheses\nsuch as “during treatment the symptom score in every\nsubsequent session will be decreased by 2 (a slope of\n–2).” We believe that it is more likely that clinical\nresearchers will specify more general hypotheses such\nas “during treatment the symptom score in every\nsubsequent session will be decreased,” as is being\ntested in the current methodology. Fourth, the\nanalytic procedure for single-subject data described\nin the current paper provides indicators of baseline–\ntreatment differences in univariate, but not multivar-\niate, outcome variables. Therefore, it does not allow\nto test whether treatment-induced change in one\noutcome variable is preceded by that in another. In\norder to answer such questions, more sophisticated\nstructural equation modeling-based techniques, like\ndynamic factor analysis (Gayles & Molenaar, 2013;\nMolenaar, 1985), are required. Fifth, our results\n(especially with regard to reliable change) seem to\nconfirm the importance of selecting assessment tools\nthat are specifically designed to assess clinical\nsymptoms on a regular basis (such as ASICA) and/"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.07870101928711,
+      64.93551635742188,
+      443.64385986328125,
+      83.9642333984375
+    ],
+    "text": "Table 3\nReliable Change Index (RCI) Results for Differences Between the Phases in Self-Report of Symptoms"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      155.22528076171875,
+      90.33395385742188,
+      540.364501953125,
+      108.28206634521484
+    ],
+    "text": "ASICA\nanxious feelings\nASICA\nanxious thoughts\nCATS\nnegative automatic thoughts\nCATS\npositive automatic thoughts\nSEQ-C\nself-efficacy"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.07870101928711,
+      113.50827026367188,
+      515.0342407226562,
+      146.59500122070312
+    ],
+    "text": "Reliability information a\n.68\n.71\n.61\n.56\n.88\nSD b\n1.52\n1.41\n2.54\n2.53\n11.2\nb1"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.079132080078125,
+      135.39157104492188,
+      515.0346069335938,
+      156.7012939453125
+    ],
+    "text": "c\n-3.28\n-5.32\n1.62\n3.45\n9.51\nRCI\n-2.69\n-4.97\n0.72\n1.46\n1.73"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.0782470703125,
+      159.49935913085938,
+      540.3419189453125,
+      222.17811584472656
+    ],
+    "text": "a For the Anxiety Severity Interview for Children and Adolescents (ASICA) scales test–retest reliability (ICC) of the first three items of each\nscale is used. For the Children’s Automatic Thoughts Scale (CATS) negative and positive subscale test–retest reliability (Pearson’s r) of the\nthree items from each subscale was used. For the Self-Efficacy Questionnaire for Children (SEQ-C) Chronbach’s alpha of the whole\nquestionnaire was used (test–retest reliability information of four selected items was unavailable).\nb Based on information from nonclinical samples.\nc (b1) = ([b0 + b1] – [b0])."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      340.18621826171875,
+      45.662174224853516
+    ],
+    "text": "238\nma r i c et a l ."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      71.71546936035156,
+      64.96420288085938,
+      298.99188232421875,
+      732.9290161132812
+    ],
+    "text": "or instruments that have sound psychometric prop-\nerties concerning sensitivity to treatment change. In\nthe absence of significant results, one may incorrectly\nconclude that no clinically significant change has\nhappened following treatment; the actual explana-\ntion could be that the questionnaire had low levels of\nsensitivity to treatment change. Finally, specifically\nrelated to the RCI, reliability information of the\nmeasures should ideally be selected from norm\ngroups that are as similar as to the client groups\nevaluated in the study. For example, in the case of our\ndata, it would have been better if reliability informa-\ntion was available from norm groups concerning\nadolescents diagnosed with anxiety disorders.\nAlthough the present methodology is user-friendly,\nas it uses the common package SPSS, two factors may\nhamper its routine application in clinical practice.\nFirst, data collection may be too time consuming\ngiven the high workload of many clinicians. Note,\nhowever, that modern data collection methods using\ntablets or smartphones may be very facilitative in this\nrespect (e.g., Lambert, Harmon, Slade, Whipple &\nHawkings, 2005). Second, in some settings with an\nacademic affiliation,cliniciansmay not have access to\nSPSS due to cost considerations, whereas in others\nwhere SPSS is available, clinicians may not use it\nbecause of time constraints. SPSS may furthermore\nnot be available within institutions without academic\naffiliations. Therefore, future work may focus on the\ndevelopment of Web applications that incorporate\nsingle-case data analytic techniques that may even\nfurther increase application of these methods.\nIn the current study, we illustrated the application\nof this method using real-life data of an anxious\nadolescent treated with CBT techniques. The results\nsuggest that, for this client, CT showed an additive\neffect over and above EXP, which was evidenced by\nan enhanced change and an enhanced end point in\nself-efficacy. In addition, the end point of anxious\nthoughts was lower after EXP + CT. In comparison\nwith the norm group of children and adolescents,\nanxious feelings and thoughts showed a clinically\nsignificant decrease from end of EXP to the end of the\nEXP + CT phase. However, it should be noted that\nthe effects found in this study at the EXP + CT phase\nmight also be due to prolonged exposure. Future\nstudies should consider reversing the order of CBT\ncomponents, that is, providing “CT only” to the\nclients followed by additional “EXP therapy” tech-\nniques or using a design less confounded by the\nprolonged effects of the first intervention phase, that\nis, the “interaction element design” (Hayes, Barlow &\nNelson-Gray, 1999). In this design, different treat-\nment components are systematically added or\nsubtracted after the baseline phase (e.g., baseline/\nEXP/EXP + CT/EXP or baseline/CT/CT + EXP/CT)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      322.80889892578125,
+      64.94320678710938,
+      550.0653686523438,
+      673.155517578125
+    ],
+    "text": "In the context of CBT treatment component\nanalyses, SCEDs may be beneficial in several\nrespects. First, after 50 years of research into CBT\nfor youth anxiety, we know that CBT as a whole\ntreatment package is efficacious, but little is known\nabout the relative efficacy of various components of\nCBT (Maric et al., 2012). Testing such innovative\nresearch questions in RCTs can be challenging, given\nthe number of participants, and properly trained\ntherapists needed for such a study (Ougrin, 2011).\nSmall-scale research such as SCEDs may be a useful\nalternative in this case, either as a stand-alone\nmethod or as a first step in generating a specific\nhypothesis to be tested in RCTs. Second, the extent of\nindividual benefit from specific CBT components\nmay vary from client to client. Some may respond\nbetter to EXP or CT, and some may do better with a\ncombination. An additional merit of SCEDs is thus\nthe ability to discover substantially diverse treatment\neffects in different individuals. This information\nmight be lost if analyses are done on a group level\nonly (Gaynor & Harris, 2008).\nMore generally, the SCEDs can be used to bridge\nthe gap between science and practice (Borckardt\net al., 2008; Kazdin, 2008; Task Force on Promotion\nand Dissemination of Psychological Procedures,\n1995). The so-called top-down approach would\ninvolve laboratory studies informing clinical prac-\ntice. Laboratory researchers could evaluate treat-\nment protocols using SCEDs, and could inform\nclinicians about the most efficacious techniques\nto be used with certain clients (as a hypothetical\nexample, EXP may be sufficient to alleviate anxiety\nin children, but adolescents need an additional CT\ncomponent). Similar studies conducted by clinicians\ncould inform laboratory researchers (the so-called\nbottom-up approach), for example, when the clini-\ncian uses Internet-based assessment systems and\ntracks symptoms before, during, and after interven-\ntions with clients characterized by heterogeneity that\nare often excluded from RCTs (e.g., concurrent\nanxiety, attention deficit/hyperactivity disorder\n[ADHD], and conduct disorders). Researchers\ncould then further evaluate this evidence on effec-\ntiveness of treatment in comorbid conditions, for\nexample, they can evaluate the efficacy of different\ninterventions for these clients. The findings might\nguide future RCTs, for example, they may offer\nsuggestions for the type, ordering, and duration of\ndifferent treatment techniques needed to alleviate\nADHD, anxiety, and conduct disorder symptoms."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      322.80938720703125,
+      683.72412109375,
+      550.0470581054688,
+      732.9484252929688
+    ],
+    "text": "Conclusion\nIn this article we presented a user-friendly method to\nanalyze univariate data from Single-Case Experi-\nmental Designs using SPSS. The method can be used"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "239\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.07870101928711,
+      64.96420288085938,
+      289.3049011230469,
+      183.02456665039062
+    ],
+    "text": "to evaluate both statistical as well as clinical\nsignificance of treatment effects. The development\nof such methods seems a necessary path to be taken\nnot only to assist science-practitioners in their\nevaluations of treatment progress, but also to improve\ncurrent SCED guidelines and reporting standards.\nSCEDs offer an excellent opportunity to gain\ninformation from therapy about what works and\nhow it works for specific clients, and what might\nwork in future similar cases."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.07870101928711,
+      191.08041381835938,
+      271.0916748046875,
+      212.44723510742188
+    ],
+    "text": "Conflict of Interest Statement\nThe authors declare that there are no conflicts of interest."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.07870101928711,
+      232.91983032226562,
+      106.23095703125,
+      242.88243103027344
+    ],
+    "text": "References"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.07789611816406,
+      253.81210327148438,
+      289.30157470703125,
+      730.5073852539062
+    ],
+    "text": "Barlow, D. H., & Hersen, M. (1984). Single case experimental\ndesigns: Strategies for studying behavioral change (2nd ed.).\nNew York, NY: Pergamon Press.\nBarlow, D. H., Nock, M. K., & Hersen, M. (2009). Single case\nexperimentaldesigns. Strategies for studying behaviour change\n(3rd ed.). Boston, MA: Allyn and Bacon.\nBeeson, P. M., & Robey, R. R. (2006). Evaluating single-subject\ntreatment research: Lessons learned from the Aphasia literature.\nNeuropsychology Review, 16, 161–169.\nBorckardt, J. J., Nash, M. R., Murphy, M. D., Moore, M.,\nShaw, D., & O’Neil, P. (2008). Clinical practice as natural\nlaboratoryfor psychotherapyresearch. American Psychologist,\n63, 77–95. http://dx.doi.org/10.1037/0003-066X.63.2.77\nBrossart, D. F., Parker, R. I., Olson, E. A., & Mahadevan, L.\n(2006). The relationship between visual analysis and five\nstatistical analyses in a simple AB single-case research design.\nBehavior Modification, 30, 531–563. http://dx.doi.org/\n10.1177/0145445503261167\nBusk, P. L., & Marascuilo, R. (1992). Statistical analysis in single-\ncase research: Issues, procedures, and recommendations, with\napplications to multiple behaviors. In T. R. Kratochwill & J.R.\nLevin (Eds.), Single-case research design and analysis: New\ndirections for psychology and education Hillsdale, NJ:\nErlbaum.\nCampbell, D. T., & Stanley, J. C. (1966). Experimental and quasi-\nexperimental designs for research. Chicago, IL: Rand McNally.\nCenter, B., Skiba, R., & Casey, A. (1985). A methodology for\nthe quantitative synthesis of intra-subject design research.\nJournal of Special Education, 19, 387–400. Retrieved from\nhttp://sed.sagepub.com/content/19/4/387\nCrosbie, J. (1993). Interrupted time-series analysis with brief\nsingle-subject data. Journal of Consulting and Clinical\nPsychology, 61, 966–974. Retrieved from\nhttp://psycnet.\napa.org/journals/ccp/61/6/966/\nCumming, G. (2014). The new statistics: Why and how.\nPsychological Science, 25, 7–29.\nEdgington, E. (1967). Statistical inference from N = 1 experiments.\nJournal of Psychology, 65, 195–199. Retrieved from http://\nwww.tandfonline.com/doi/abs/10.1080/00223980.1967.\n10544864\nEdgington, E. (1992). Nonparametric tests for single-case experi-\nments. In T. R. Kratochwill & J.R. Levin (Eds.), Single-case\nresearch design and analysis: New directions for psychology\nand education (pp. 133–157). Hillsdale, NJ: Erlbaum. Retrieved\nfrom http://psycnet.apa.org/psycinfo/1992-98100-004\nGayles, J. G., & Molenaar, P. C. M. (2013). The utility of\nperson-specific analyses for investigating developmental\nprocesses: An analytic primer on studying the individual."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      313.1138610839844,
+      64.51644897460938,
+      540.3696899414062,
+      730.509521484375
+    ],
+    "text": "International Journal of Behavioral Development, 37,\n549–562. http://dx.doi.org/10.1177/0165025413504857\nGaynor, S. T., & Harris, A. (2008). Single-participant assessment\nof treatment mediators: Strategy description and examples\nfrom a behavioral activation intervention for depressed\nadolescents. Behavior Modification, 32, 372–402.\nHayes, S. C., Barlow, D. H., & Nelson-Gray, R. O. (1999). The\nscientist practitioner: Research and accountability in the\nage of managed care (2nd ed.). Boston, MA: Allyn and\nBacon.\nHogendoorn, S. M., de Haan, E., Wolters, L. H., Vervoort, L.,\nPrins, P. J. M., De Bourgraaf, A., . . . Goodman, W. K. (2013).\nThe Anxiety Severity Interview for Children and Adolescents:\nAn individualized repeated measure of anxiety severity.\nClinical Psychology and Psychotherapy. Published online\nahead of print. http://dx.doi.org/10.1002/cpp.1863\nHogendoorn, S. M., Prins, P. J. M., Boer, F., Vervoort, L.,\nWolters, L. H., Moorlag, H., . . . de Haan, E. (2013).\nMediators of cognitive behavioral therapy for anxiety\ndisordered children and adolescents. Journal of Clinical\nChild and Adolescent Psychology, published online ahead of\nprint. http://dx.doi.org/10.1080/15374416.2013.807736\nHogendoorn, S. M., Wolters, L. H., Vervoort, L., Prins, P. J. M.,\nBoer, F., Kooij, E., & de Haan, E. (2010). Measuring negative\nand positive thoughts in children: An adaption of the\nChildren’s Automatic Thoughts Scale (CATS). Cognitive\nTherapy and Research, 34, 467–478.\nHuitema, B. E., & McKean, J. W. (1998). Irrelevant autocor-\nrelation in least-squares intervention models. Psychological\nMethods, 3, 104–116. http://dx.doi.org/10.1037//1082-\n989X.3.1.104\nHuizenga, H. M., Visser, I., & Dolan, C. V. (2011). Hypothesis\ntesting in random effects meta-regression. British Journal of\nMathematical and Statistical Psychology, 64, 1–19.\nJacobson, N. S., & Truax, P. (1991). Clinical significance: A\nstatistical approach to defining meaningful change in\npsychotherapy research. Journal of Consulting and Clinical\nPsychology, 59, 12–19.\nJones, R., Vaught, R. S., & Weinrott, M. (1977). Time-series\nanalysis in operant research. Journal of Applied Behavior\nAnalysis, 10, 151–166. Retrieved from http://onlinelibrary.\nwiley.com/doi/10.1901/jaba.1977.10-151/abstract\nKazdin, A. E. (2008). Evidence-based treatment and practice:\nNew opportunities to bridge clinical research and practice,\nenhance the knowledge base, and improve patient care.\nAmerican Psychologist, 63, 146–159.\nKelly, F., McNeil, K., & Newman, I. (1973). Suggested inferential\nstatistical models for research in behavior modification.\nJournal of Experimental Education, 41, 54–63. Retrieved\nfrom http://www.jstor.org/stable/10.2307/20150891\nLambert, M. J., Harmon, C., Slade, K., Whipple, J. L., &\nHawkings, E. J. (2005). Providing feedback to psychothera-\npists on their patients’ progress: Clinical results and practice\nsuggestions. Journal of Clinical Psychology, 61, 165–174.\nLevin, J. R., Ferron, J. M., & Kratochwill, T. R. (2012).\nNonparametric statistical tests for single-case systematic and\nrandomized ABAB … AB and alternating treatment\nintervention designs: New developments, new directions.\nJournal ofSchool Psychology, 50, 599–624. http://dx.doi.org/\n10.1016/j.jsp.2012.05.001\nMaric, M., Wiers, R. W., & Prins, P. J. M. (2012). Ten ways to\nimprove the use of statistical mediation analysis in the\npractice of child and adolescent treatment research. Clinical\nChild and Family Psychology Review, 15, 177–191.\nMarriott, F., & Pope, J. (1954). Bias in the estimation of\nautocorrelations. Biometrika, 41(3), 390–402. Retrieved\nfrom http://www.jstor.org/stable/10.2307/2332719"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      340.18621826171875,
+      45.662174224853516
+    ],
+    "text": "240\nma r i c et a l ."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      71.7156753540039,
+      64.51449584960938,
+      298.86578369140625,
+      142.71578979492188
+    ],
+    "text": "Molenaar, P. (1985). A dynamic factor model for the analysis\nof multivariate time series. Psychometrika, 50, 181–202.\nRetrieved from\nhttp://link.springer.com/article/10.1007/\nBF02294246\nMuris, P. (2001). A brief questionnaire for measuring self-\nefficacy in youths. Journal of Psychopathology and Behavioral\nAssessment, 23, 145–149.\nNorell-Clarke, A., Nyander, E., & Jansson-Fröjmark, M. (2011)."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      71.71485137939453,
+      144.22567749023438,
+      299.0359191894531,
+      341.9938049316406
+    ],
+    "text": "Sleepless in Sweden: A single subject studyof effects of cognitive\ntherapy for insomnia on three adolescents. Behavioral and\nCognitive Psychotherapy, 39, 367–374.\nOugrin, D. (2011). Efficacy of exposure versus cognitive therapy\nin anxiety disorders: Systematic review and meta-analysis.\nBMC Psychiatry, 11, 200.\nR Statistical Package (version 3.0.2). Retrieved February 10,\n2014, from http://www.r-project.org/\nRobey, R. R., & Schultz, M. C. (1998). A model for conducting\nclinical-outcome research: An adaptation of the standard\nprotocol for use in aphasiology. Aphasiology, 12, 787–810.\nhttp://dx.doi.org/10.1080/02687039808249573\nSchafer, J. L., & Graham, J. W. (2002). Missing data: Our view\nof the state of the art. Psychological Methods, 7, 147–177.\nSilverman, W. K., & Albano, A. M. (1996). Anxiety Disorders\nInterview Schedule for DSM-IV, Child and Parent Versions.\nSan Antonio, TX: Psychological Corporation.\nSmith, J. D. (2012). Single-case experimental designs: A\nsystematicreview of published researchand current standards.\nPsychological Methods. http://dx.doi.org/10.1037/a0029312"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      322.8072509765625,
+      64.2653579711914,
+      550.02001953125,
+      282.18023681640625
+    ],
+    "text": "SPSS Inc. (2011). SPSS base version 20 for Windows User’s\nGuide. Chicago, IL: Author.\nStice, E., Rohde, P., Seeley, J. R., & Gau, J. M. (2010). Testing\nmediators of intervention effects in randomized controlled\ntrials: An evaluation of three depression prevention programs.\nJournal of Consulting and Clinical Psychology, 78, 273–280.\nTask Force on Promotion and Dissemination of Psychological\nProcedures, Division of Clinical Psychology, American\nPsychological Association (1995). Training in and dissem-\nination of empirically validated psychological treatments:\nReport and recommendations. The Clinical Psychologist,\n48, 3–23.\nVan den Noortgate, W., & Onghena, P. (2008). A multilevel meta-\nanalysis of single-subject experimental design studies. Evi-\ndence-Based Communication Assessment and Intervention, 2,\n142–151.\nWeisz, J. R., Chorpita, B. F., Frye, A., Ng, M. Y., Lau, N.,\nBearman, S. K., . . . Hoagwood, K. E. (2011). Youth top\nproblems: Using idiographic, consumer-guided assessment\nto identify treatment needs and to track change during\npsychotherapy. Journal of Consulting and ClinicalPsychology,\n79, 369–380."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      334.771240234375,
+      303.5885314941406,
+      468.1551513671875,
+      332.0126953125
+    ],
+    "text": "RECEIVED: July 25, 2013\nACCEPTED: September 8, 2014\nAvailable online 19 September 2014"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      146.83551025390625,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "241\na n s p s s m e t h o d t o a n al yz e un i v a ri at e s c e d s da t a"
+  }
+]

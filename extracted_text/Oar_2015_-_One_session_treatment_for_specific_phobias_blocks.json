@@ -1,0 +1,2852 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      106.59728240966797,
+      467.575439453125,
+      140.45286560058594
+    ],
+    "text": "One Session Treatment for Speciﬁc Phobias: An Adaptation\nfor Paediatric Blood–Injection–Injury Phobia in Youth"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      156.45327758789062,
+      288.4476013183594,
+      168.59852600097656
+    ],
+    "text": "Ella L. Oar1 • Lara J. Farrell1 • Thomas H. Ollendick2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      244.43972778320312,
+      237.1884765625,
+      262.8292541503906
+    ],
+    "text": "Published online: 15 September 2015\n\u0002 Springer Science+Business Media New York 2015"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      282.7367248535156,
+      289.12261962890625,
+      579.1890258789062
+    ],
+    "text": "Abstract\nBlood–injection–injury\n(BII)\nphobia\nis\na\nchronic and debilitating disorder, which has largely been\nneglected in the child literature. The present paper brieﬂy\nreviews the aetiology of speciﬁc phobias with particular\nattention to BII and provides an integrated developmental\nmodel of this disorder in youth. Evidence-based treatments\nfor child-speciﬁc phobias are discussed, and the develop-\nment of a modiﬁed one session treatment (OST) approach\nto enhance treatment outcomes for BII phobia in children\nand adolescents is described. This approach is illustrated in\ntwo children with a primary diagnosis of BII phobia. The\ncases illustrate the unique challenges associated with\ntreating BII in youth and the need for a modiﬁed inter-\nvention. Modiﬁcations included addressing the role of pain\n(e.g., psychoeducation, more graduated exposure steps) and\ndisgust (e.g., disgust eliciting exposure tasks) in the\nexpression of the phobia and fainting in the maintenance of\nthis phobia. Moreover, it is recommended that parents be\nmore actively involved throughout treatment (e.g., educa-\ntion session prior to OST, contingency management\ntraining, guidance regarding planning exposure tasks fol-\nlowing treatment) and for families to participate in a\nstructured\ne-therapy\nmaintenance\nprogramme\npost-\ntreatment."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.140869140625,
+      282.7307434082031,
+      518.59326171875,
+      305.27374267578125
+    ],
+    "text": "Keywords\nBlood phobia \u0002 Injection phobia \u0002 BII \u0002\nChildren \u0002 Intensive treatment"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1416931152344,
+      343.7107849121094,
+      365.69293212890625,
+      354.6697692871094
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.14068603515625,
+      369.44732666015625,
+      544.2418823242188,
+      715.6476440429688
+    ],
+    "text": "Speciﬁc phobia are one of the most common psychological\ndisorders in children and adolescents, and they tend to have\nan early onset and are highly heterogeneous including\nanimal (e.g., dogs, spider), natural environment (e.g.,\ndarkness, heights, water), blood–injection–injury (BII)\n(e.g., seeing blood, injections, being injured), situations\n(e.g., ﬂying, elevators, enclosed spaces), and other (e.g.,\ncostume characters, illness, loud noises) subtypes. BII\nphobia is a particularly chronic and debilitating speciﬁc\nphobia that affects children, adolescents, and adults; how-\never, it is one of the least well-understood subtypes. The\ndisorder is characterised by fear and avoidance of seeing\nblood or an injury, or receiving an injection, or other\ninvasive medical procedure (American Psychiatric Asso-\nciation (APA) 2013). Phobic avoidance of situations rela-\nted to blood, injections, and injury is often associated with\nserious health consequences and impairment due to\navoidance of seeing a doctor when ill, having immunisa-\ntions, receiving medical treatment for diagnosed illnesses,\nand having operations and dental treatment (Marks 1988;\nO¨ st 1992; O¨ st and Hellstro¨m 1997). Moreover, individuals\nwith BII phobia may also avoid certain career paths (e.g.,\nnursing, medicine) and travel for fear of receiving neces-\nsary vaccinations (O¨ st and Hellstro¨m 1997; O¨ st et al.\n1992). The disorder is associated with a complex clinical\npresentation and is thought to be distinct from other phobia\ntypes in that individuals often present with a unique\nphysiological response (e.g., fainting). Moreover, the role"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.51340103149414,
+      622.2332763671875,
+      104.58455657958984,
+      631.049560546875
+    ],
+    "text": "& Ella L. Oar"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.1964111328125,
+      632.5027465820312,
+      137.74346923828125,
+      640.970947265625
+    ],
+    "text": "e.oar@grifﬁth.edu.au"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      650.6560668945312,
+      274.9278564453125,
+      680.9395141601562
+    ],
+    "text": "1\nSchool of Applied Psychology, Behavioural Basis of Health\nand Menzies Health Institute, Grifﬁth University, Gold Coast\nCampus, Southport, QLD 4222, Australia"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      685.6922607421875,
+      262.717529296875,
+      715.9757080078125
+    ],
+    "text": "2\nChild Study Centre, Department of Psychology, Virginia\nPolytechnic Institute and State University, Blacksburg,\nVA 24060, USA"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      33.372100830078125,
+      220.1470947265625,
+      53.291839599609375
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\nDOI 10.1007/s10567-015-0189-3"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023590087890625,
+      58.713600158691406,
+      289.1257019042969,
+      330.19439697265625
+    ],
+    "text": "of disgust is implicated in BII phobia, a correlate shared\nonly with small animal phobias, such as spider phobia.\nTo date, the clinical phenomenology, assessment, and\ntreatment of BII phobia have largely been neglected in the\nchild literature despite the fact that the disorder is not\nuncommon—affecting between 0.8 and 1.5 % of children\nand adolescents, and as many as 3–4.5 % of adults. Ret-\nrospective reports of adolescents and adults suggest that\nBII phobia typically has its onset prior to 10 years of age\n(Bienvenu and Eaton 1998; Burstein et al. 2012; Essau\net al. 2000; O¨ st and Hellstro¨m 1997), highlighting the\npersistent nature of the disorder and the need for inter-\nventions during childhood. Surprisingly, however, there are\nno evidence-based treatments for youth with BII phobia at\nthis time. Therefore, the present paper aims to brieﬂy\nreview the aetiology of speciﬁc phobia with a focus on BII\nphobia and to propose an integrated developmental model\nof BII phobia in children and adolescents. The current\nstatus of treatments for youth is discussed, and case illus-\ntrations are used to describe the development of a case\nformulation-driven, intensive cognitive behavioural treat-\nment for BII phobic youth."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023590087890625,
+      345.03546142578125,
+      250.72389221191406,
+      367.4702453613281
+    ],
+    "text": "Vulnerability Factors Associated with Speciﬁc\nPhobia"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023590087890625,
+      382.4790954589844,
+      289.12762451171875,
+      541.8806762695312
+    ],
+    "text": "Speciﬁc phobias have a complex aetiology that is multi-\ndetermined (King et al. 2004). Genetic inﬂuences, aberrant\nbrain processes, temperament, parenting, learning experi-\nences, evolutionary preparedness, cognitive biases, and\navoidance are all factors thought to be involved in the\ndevelopment and maintenance of a speciﬁc phobia (Cowart\nand Ollendick 2013; Ollendick and Muris 2015). In addi-\ntion to the above, BII phobia is proposed to have a number\nof unique factors, in comparison with other phobia sub-\ntypes, that are implicated in its onset and course. Vulner-\nability factors associated with speciﬁc phobia in childhood\nare reviewed, highlighting the degree to which these factors\nmay be implicated in BII phobia."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.025604248046875,
+      556.7045288085938,
+      161.55665588378906,
+      566.6671142578125
+    ],
+    "text": "Evolutionary Preparedness"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.025604248046875,
+      581.7510375976562,
+      289.12066650390625,
+      716.208251953125
+    ],
+    "text": "The non-associative model of fear acquisition proposes that\nsome fears, such as a fear of heights, snakes, spiders, and\nblood, are biologically prepared for through evolution\n(Menzies and Clarke 1995). According to this model, these\nfears do not require critical learning experiences because\nthey have been passed on to us from our ancestors (e.g.,\ngenetically encoded) in as much as they were evolution-\narily adaptive and necessary for survival. For example, a\nfear of blood may be characterised as an evolutionarily\nadaptive fear. The model, however, has been criticised\n(Muris et al. 2002), as it cannot on its own account for the"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.14288330078125,
+      58.701576232910156,
+      544.2451171875,
+      143.3836669921875
+    ],
+    "text": "development of a speciﬁc phobia. Rather it has been sug-\ngested that we inherit a vulnerability to be vigilant towards\nthese objects and stimuli (e.g., blood, spiders, heights);\nhowever, in some children and adults, this vigilance and\nfear becomes pathological in nature through a complex\ninteraction of biological vulnerability, temperament, and\nsocial learning experiences (Muris et al. 2002)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1429138183594,
+      158.2064666748047,
+      341.07177734375,
+      168.1690673828125
+    ],
+    "text": "Genetics"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1429138183594,
+      183.1962127685547,
+      544.2430419921875,
+      467.149169921875
+    ],
+    "text": "Family and twin studies have found a genetic contribution\nto the development of speciﬁc phobia. First-degree rela-\ntives of adults with a speciﬁc phobia are at signiﬁcantly\nhigher risk of developing their own speciﬁc phobia (31 %)\nin comparison with the ﬁrst-degree relatives of controls\nwith no psychiatric diagnoses (11 %; Fyer et al. 1990).\nMoreover, children of parents with a speciﬁc phobia have\nbeen found to be at increased risk for the development of a\nspeciﬁc phobia but only for the phobia displayed by their\nparent (Fredrikson et al. 1997; Fyer et al. 1995). In relation\nto BII phobia speciﬁcally, O¨ st (1992) reported that 61 % of\nblood injury phobic adults and 29 % of injection phobic\nadults reported having a ﬁrst-degree relative with the same\nfear, which was signiﬁcantly higher than other phobia types\n(e.g., animal, dental, and claustrophobics). Moreover, Van\nHoutem et al. (2013) recently conducted a review and\nmeta-analysis of 10 adult twin studies to examine differ-\nences in the heritability of the varying phobia subtypes.\nThe highest heritability rates were found for BII phobia\nranging from 28 to 63 %, followed by animal phobia at 22\nto 44 %. Thus, BII phobia is often present in parents as\nwell as their children, perhaps more so than in other phobia\nsubtypes."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1439208984375,
+      481.9719543457031,
+      361.1085510253906,
+      491.9345703125
+    ],
+    "text": "Neurobiology"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      507.0184631347656,
+      544.2717895507812,
+      716.2186279296875
+    ],
+    "text": "Neuroimaging studies over the past 20 years have exam-\nined area-speciﬁc changes in metabolic activity in the brain\nwhich underlie aberrations in the processing of fear. In a\nrecent review, Del Casale et al. (2012) concluded that\nphobic individuals show abnormal activation of brain\nareas, such as the amygdala, anterior cingulate cortex,\nthalamus, and insula—all of which are associated with the\nemotional perception and early ampliﬁcation of fear.\nMoreover, they found that following exposure to phobic\nstimuli, brain areas in the prefrontal cortex, which regulate\nfear, are less activated in individuals with a speciﬁc phobia\nin comparison with healthy controls. Hence, in terms of\nbrain structure, sufferers of speciﬁc phobia appear to be\nmore easily and strongly aroused when confronted with\nphobic stimuli and are less able to regulate their arousal.\nAcross the phobia types there appear to be shared neural\ncorrelates and also some distinct neural substrates relevant"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n371"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023590087890625,
+      58.713600158691406,
+      289.11865234375,
+      243.00274658203125
+    ],
+    "text": "to the different phobia types. Caseras et al. (2010) com-\npared the neural responses of BII phobic adults (n = 12),\nspider\nphobic\nadults\n(n = 14),\nand\nhealthy\ncontrols\n(n = 14) during the presentation of phobia-relevant stimuli\nusing functional magnetic resonance imaging (fMRI). BII\nadults showed increased activation in the thalamus and\nvisual/attention areas (occipito-temporo-parietal cortex) in\ncomparison with the spider phobic adults and healthy\ncontrols. While providing interesting ﬁndings in relation to\nthe brain circuits involved in speciﬁc phobia, neuroimaging\nstudies have predominantly been carried out with animal\nphobic adults (particularly spider subtype); therefore, fur-\nther research is needed in order to investigate fear pro-\ncessing\nacross\nthe\ndifferent\nphobia\nsubtypes\nand,\nparticularly so, in youth."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.025611877441406,
+      257.8265075683594,
+      105.84980773925781,
+      267.78912353515625
+    ],
+    "text": "Temperament"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02558898925781,
+      282.873046875,
+      289.1346435546875,
+      641.48876953125
+    ],
+    "text": "Existing research suggests that temperament is associated\nwith the development of a speciﬁc phobia (Ollendick and\nMuris 2015). Behavioural inhibition is a temperamental\ncharacteristic,\nwhich\nis\ndescribed\nas\na tendency\nto\ndemonstrate distress, fear, and avoidance when confronted\nwith unfamiliar situations, persons, and objects. It is\nbelieved to be inherited, is observed in 10–15 % of chil-\ndren (Kagan et al. 1984), and appears to be a risk factor for\nthe development of both phobic and anxiety disorders\n(Kagan et al. 1984). Biederman et al. (1990, 1993) found\nthat behaviourally inhibited young children (2–8 years)\nwere more likely to have anxiety disorder, including\nspeciﬁc phobia, in comparison with uninhibited children.\nMoreover, Muris et al. (1999) examined the relationship\nbetween self-reported behavioural inhibition in a commu-\nnity sample of older children (N = 152; 12–14 years) and\nanxiety and depressive symptoms. Youth were provided\nwith a deﬁnition of behavioural inhibition and were asked\nto classify themselves as low, medium, or high in this\ntemperamental characteristic. Following this, they com-\npleted a range of self-report measures including scales\nassessing symptoms of speciﬁc phobia (e.g., animal,\nenvironmental, BII and situational). In comparison with the\nlow- and middle-behavioural-inhibition groups, children in\nthe high-behavioural inhibition group endorsed speciﬁc\nphobia symptoms more frequently. The degree to which\nbehavioural inhibition is associated with BII phobia in\nchildren and adolescents, relative to the other phobia sub-\ntypes, has not yet been explored."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02558898925781,
+      656.368408203125,
+      91.05632019042969,
+      666.3309936523438
+    ],
+    "text": "Parenting"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02558898925781,
+      681.359130859375,
+      289.1017150878906,
+      716.2092895507812
+    ],
+    "text": "Parenting practices and parental psychopathology are also\nbelieved to be involved in the development and mainte-\nnance of childhood anxiety disorders including samples of"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1421813964844,
+      58.702613830566406,
+      544.2732543945312,
+      429.8081970214844
+    ],
+    "text": "youth with speciﬁc phobias. Parents of anxious youth have\nbeen found to have a more intrusive and overprotective\nparenting style (Breinholst et al. 2012; Gar and Hudson\n2009). Parents with this style may prevent their child from\nengaging in age-appropriate activities and responsibilities.\nThey are also more likely to intervene and attempt to\nprotect their child from new, difﬁcult, or anxiety-provoking\nsituations. In regards to phobic youth, this may involve\naccommodating\nand\nreinforcing\ntheir\nchild’s\nphobic\navoidance. Hence, children do not have the opportunity to\ndevelop coping skills in fear-inducing situations, and also\ndo not gather evidence that disconﬁrms their threat\nexpectancies and low self-efﬁcacy in dealing with their\nfears (Bo¨gels and Brechman-Toussaint 2006; Breinholst\net al. 2012; Hudson and Rapee 2001, 2002). Parental\nanxiety and other psychopathology can also inﬂuence the\ndevelopment and maintenance of childhood-speciﬁc phobia\nthrough modelling and reinforcement of anxious and\navoidant behaviour, which can be accounted for by social\nlearning experiences. The actions and instructions given by\nan anxious parent in anxiety-provoking situations may also\nconvey to the child that the situation is threatening and\ntherefore needs to be avoided (Bo¨gels and Brechman-\nToussaint 2006). Existing research has found that anxious\nchildren, in comparison with non-anxious children, tend to\nhave parents who encourage avoidance (Dadds et al. 1996;\nGinsburg et al. 2004). Unfortunately, these studies have\nbeen conducted with transdiagnostic anxious samples with\nno studies to date speciﬁcally examining parental rearing\nfactors in youth with speciﬁc phobia or BII."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1432189941406,
+      444.6319885253906,
+      342.7507629394531,
+      454.5946044921875
+    ],
+    "text": "Learning"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1432189941406,
+      469.67852783203125,
+      544.24951171875,
+      716.2150268554688
+    ],
+    "text": "According to Rachman (1976, 1977), there are three\nlearning pathways associated with the development of a\nspeciﬁc phobia: direct/classical conditioning, vicarious\nconditioning (modelling), and negative information trans-\nmission. Classically conditioned phobias are acquired\nthrough a direct negative experience with the phobic\nobject/situation. Fear develops when a neutral stimulus\nbecomes associated with an aversive outcome (uncondi-\ntioned stimulus), such that the neutral stimulus takes on its\naversive properties (becoming a conditioned stimulus). The\nlikelihood of a conditioned fear developing is dependent\nupon the intensity of fear/pain experienced in the presence\nof the stimuli and/or the frequency and repetition of the\nassociation between the conditioned stimulus and fear/pain.\nAn example of a direct/classically conditioned phobia\nwould be a child who has a painful vaccination and goes on\nto develop an injection phobia. Consistent with this, many\nBII phobic adults report that a painful experience preceded\nthe onset of their fear (O¨ st 1991, 1992). The direct/classical\nconditioning pathway to phobia acquisition assumes that a"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "372\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.1357421875,
+      317.72222900390625
+    ],
+    "text": "person has had a direct negative experience with the phobic\nstimulus; however, this is not always the case and indi-\nviduals can develop a phobia despite having no direct\ncontact with the phobic object. In these individuals, indi-\nrect pathways play a crucial role in fear acquisition. A\nphobia may be acquired vicariously through modelling and\nobservation of other’s anxious behaviour. An example of\nthis type of phobia acquisition would include a child who\ndevelops a blood phobia after watching their mother dis-\nplay a fearful reaction while having a blood test. Negative\ninformation transmission is the third learning pathway\nproposed to be associated with speciﬁc phobia acquisition.\nA child may acquire a phobia through hearing or reading\nnegative information about an object/situation. For exam-\nple, a child might develop an injection phobia after hearing\na peer talking about being held down and forcibly given an\ninjection. Evidence for these pathways has been established\nin children with speciﬁc phobia (King et al. 1997; Mer-\nckelbach et al. 1996), as well as adults with BII phobia (O¨ st\n1991); however, this pathway has not been directly asses-\nsed among youth with BII."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02461242675781,
+      332.5450134277344,
+      119.43281555175781,
+      342.50762939453125
+    ],
+    "text": "Cognitive Biases"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02461242675781,
+      357.591552734375,
+      289.12567138671875,
+      716.207275390625
+    ],
+    "text": "A large body of research has found that various cognitive\nbiases are associated with the development and mainte-\nnance of speciﬁc phobias. Experimental studies with chil-\ndren and adults have demonstrated that phobic and anxious\nindividuals are hypervigilant to threatening stimuli and\nallocate their attention towards threatening stimuli relative\nto neutral stimuli (Bar-Haim et al. 2007; Cisler and Koster\n2010). Furthermore, these individuals may have more dif-\nﬁculty disengaging their attention away from threatening\nstimuli (Fox et al. 2001). This phenomenon is known as\nattentional bias. These biases are activated when initially\nconfronted with a feared object or situation, and as such,\nhave a distorting effect on further information processing\n(Muris and Field 2008). Attentional biases have been\nobserved in both anxious adults (Armstrong et al. 2013;\nMogg and Bradley 2006) and anxious children (Waters\net al. 2014a, b). In regards to adults with BII phobias,\nﬁndings relating to attentional biases have been mixed\n(Armstrong et al. 2013; Haberkamp and Schmidt 2014).\nThere is some evidence to suggest that BII phobia may be\nassociated with a vigilance avoidance pattern whereby\nindividuals are initially vigilant and then rapidly disengage\nfrom the stimuli. Hence, individuals with BII phobias may\nexhibit shorter ﬁxations or glances towards threat (Mogg\net al. 2004). In a recent study, Armstrong et al. (2013)\nfound that high injection fearful (n = 33) adults oriented to\ninjection-related images more often than low injection\nfearful (n = 32) adults. However, they did not orient to\ninjection images more frequently than other emotional"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1399230957031,
+      58.700599670410156,
+      544.2500610351562,
+      716.21337890625
+    ],
+    "text": "images (e.g., attack, appetitive and neutral). Consistent\nwith a vigilance avoidance pattern, high injection fearful\nadults rapidly disengaged from injection images after ini-\ntially seeing them. Overall, they also looked at the injection\nimages signiﬁcantly less frequently than the other emotive\nimages. This pattern was not observed in the low injection\nfearful group. Finally, attentional avoidance of injection\nthreat was found to predict avoidance during an injection\nbehavioural avoidance task (BAT). A weakness of existing\nliterature in the area is that studies have predominantly\nused BII fearful samples, determined by the use of self-\nreport data only. Few studies have examined attentional\nbias in BII phobic adults who have been diagnosed using\nstructured clinical interviews.\nOnly a few studies exist that have examined attentional\nbias in children with speciﬁc phobia. Waters et al. (2014a)\ninvestigated differences in attentional biases in 435 chil-\ndren (5–13 years) who had either a principal fear disorder,\nincluding speciﬁc phobia, social phobia and separation\nanxiety disorder (n = 158) or a principal distress disorder\nwhich included generalised anxiety disorder (n = 75), as\nwell as a healthy control group (n = 202). Youth with a\nprincipal fear diagnosis (e.g., speciﬁc phobia) were found\nto have a signiﬁcant bias away from threat faces relative to\nneutral faces when compared to those in the principal\ndistress disorder and healthy control groups. Attentional\nbiases in youth with BII speciﬁcally have not yet been\nexamined.\nOther cognitive biases, such as interpretation biases,\nhave also been implicated in the development and main-\ntenance of speciﬁc phobias. Children and adults with\nspeciﬁc phobia have been found to overestimate or inﬂate\nthe association between phobia-related stimuli and nega-\ntive outcomes. Jones and Menzies (2000) examined per-\nceptions of danger in 15 spider phobic adults and 15\ncontrols before, during, and after a spider avoidance task.\nSpider phobic adults rated higher estimates of being bitten\nby the spider and more severe consequences resulting from\na spider bite in comparison with controls. Harm beliefs\nwere found to predict avoidance during the spider avoid-\nance task. Similar cognitive distortions have been reported\nacross other phobia subtypes (de Jongh et al. 1995; Mar-\nshall et al. 1992; Menzies et al. 1998; Rachman and Cuk\n1992).\nLimited knowledge exists regarding the role of cogni-\ntion in children with speciﬁc phobia. Ollendick et al.\n(2010) reported no differences in danger expectancies\nbetween animal and natural environment phobic youth,\nwith both phobia types reporting similarly high levels of\nthe probability of harm associated with feared stimuli and\nlow expectancies for coping with negative phobia-related\noutcomes. Byrne et al. (2014) investigated whether harm\nbeliefs\nin\ndog\nphobic\nchildren\n(N = 27)\npredicted"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n373"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.124755859375,
+      193.17083740234375
+    ],
+    "text": "avoidance and distress before and after exposure therapy.\nChildren were shown a live dog and asked to rate how\nmuch they believed the dog would harm them (e.g., the dog\nwould bite them or jump on them). Harm beliefs predicted\ndistress during a pre-treatment BAT and avoidance during\nthe post-treatment BAT. In a recent study, Oar et al.\n(submitted) found that youth with BII phobia (n = 27)\nreported more exaggerated danger expectancies and more\noften had a focus of fear on physical symptoms (e.g.,\nfaintness and nausea) in comparison with youth with ani-\nmal phobia (n = 25)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023597717285156,
+      208.05039978027344,
+      125.51995086669922,
+      218.01300048828125
+    ],
+    "text": "Perceived Control"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.021583557128906,
+      233.04014587402344,
+      289.1495056152344,
+      716.207275390625
+    ],
+    "text": "Perceived control, which is deﬁned as the belief one has\nabout the nature of control over situations and events, has\nbeen found to play a role in the manifestation of childhood\nanxiety and phobic disorders (Weems and Silverman\n2006). It consists of two dimensions (1) the location of the\ncontrol (e.g., internal, external) and (2) the situation or\nobject the control is over (e.g., health, emotional reactions,\nbodily sensations, threatening stimuli and interpersonal\nrelationships). Weems et al. (2003) examined the role of\ncontrol beliefs in anxious youth (n = 86) with a primary\ndiagnosis of generalised anxiety, social phobia, separation\nanxiety disorder, or speciﬁc phobia in comparison with\nnon-clinical controls (n = 31). Perceived control over\nfeared events was signiﬁcantly and negatively correlated\nwith self-reported anxiety symptoms in both the anxious\nand non-clinical samples. Of note, however, children with\nanxiety disorder diagnoses endorsed signiﬁcantly lower\nperceived control than the non-clinical controls. In a recent\nstudy, Kane et al. (2014) investigated the relationship\nbetween fearfulness, anxiety sensitivity, maternal over\nprotection, and perceived control in a sample of 126\n(7–13 year old) youth with a primary diagnosis of speciﬁc\nphobia, excluding BII phobia. Control beliefs were found\nto be a signiﬁcant predictor of children’s fearfulness, with\nheightened levels of fear associated with lower perceived\ncontrol. Subsequent analysis revealed that control beliefs\nwere a signiﬁcant predictor of lower perceived control in\nyounger children, however not older youth, and for girls\nbut not boys. Kane et al. (2014) suggested that younger\nchildren may have less-developed cognitive capacities,\nwhich limit their ability to understand anxiety-provoking\nsituations and their control over such situations. Addi-\ntionally, the authors commented on the socialisation of\nboys in society who are taught that they should be able to\nmanage and suppress fear, hence encouraging them to\nexpress control over anxiety-inducing events. Finally, this\nstudy revealed that lower perceived control in anxiety-re-\nlated situations was signiﬁcantly predictive of greater\nlevels of fear in children with a speciﬁc phobia and"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.13885498046875,
+      58.700599670410156,
+      544.2479858398438,
+      292.8216552734375
+    ],
+    "text": "comorbid anxiety disorders; however, it was not a predictor\nof youth with a phobia diagnosis alone. It was suggested\nthat youth with multiple anxiety disorder diagnoses would\nexperience lower feelings of control in their day-to-day life\nin comparison with the phobia-alone youth, who may\nexperience this lack of control only in relation to their\nspeciﬁc feared object or stimuli. Given that for many youth\nwith injection fears, the feared outcome (i.e., pain) is under\nexternal control (i.e., medical professional), and inﬂuenced\nby health conditions also outside the child’s control; it is\nlikely that perceived control may be particularly relevant to\nBII phobia in children and youth. While the role of per-\nceived control has not been empirical examined in youth\nwith BII, is it noteworthy that clinically, children with\ninjection fears (in our experience) report a preference for\nwatching the injection, or for giving themselves a ﬁnger\nprick rather than the therapist doing this to the child, which\nhighlights the child’s need for increased control during the\nexperience."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.13885498046875,
+      307.6627197265625,
+      520.6614990234375,
+      317.6253356933594
+    ],
+    "text": "Vulnerability Factors Associated with BII Phobia"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.13885498046875,
+      332.6341857910156,
+      544.2479248046875,
+      467.148193359375
+    ],
+    "text": "It is evident from the literature reviewed that there are a\nhost of vulnerability factors (e.g., evolutionary prepared-\nness,\ngenetics,\nneurobiology,\ntemperament,\nparenting,\nlearning experiences, and cognitive bias) that increase a\nchild or adolescent’s risk of developing an anxiety or\nphobic disorder. A growing body of research with adults\nsuggests that in addition to the above, BII phobia may have\na number of unique factors (e.g., fainting, disgust, physi-\nological symptoms, and pain), in comparison with other\nphobia subtypes, that are implicated in its onset and\nmaintenance."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.13885498046875,
+      481.9709777832031,
+      340.6562805175781,
+      491.93359375
+    ],
+    "text": "Fainting"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1388244628906,
+      507.0174865722656,
+      544.2420043945312,
+      716.219482421875
+    ],
+    "text": "An important feature distinguishing BII phobia from other\nphobia types is its relatively unique physiological response\n(O¨ st 1991), with many BII phobic adults (56–100 %)\nreporting a history of fainting when confronted with their\nphobic stimuli (Ayala et al. 2009). Comparatively, only\n0.02 % of adults with other phobia subtypes (Connolly\net al. 1976; O¨ st 1992; Thyer et al. 1985) and 2 % with other\nanxiety disorders (Connolly et al. 1976) report fainting in\nthe presence of their feared stimuli. In the literature, this\nfainting response has been described as diphasic, with an\ninitial phase involving a rapid acceleration of heart rate and\nblood pressure, as is typical of the ﬁght or ﬂight anxiety\nresponse, followed by a second phase which is charac-\nterised by a sharp decrease in heart rate and blood pressure\n(Thyer et al. 1985). This rapid decline in heart rate and\nblood pressure leads to reduced cerebral blood ﬂow, and\nultimately can result in fainting (Ayala et al. 2009). More"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "374\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023590087890625,
+      58.713600158691406,
+      289.1275634765625,
+      716.207275390625
+    ],
+    "text": "recently, researchers have begun to look beyond the car-\ndiovascular changes associated with BII fainting (Ritz et al.\n2010) and have examined additional physiological param-\neters, such as changes to respiration including hyperven-\ntilation, that may also have a role in this response pattern\n(Lumley and Melamed 1992). Recently, Oar et al. (sub-\nmitted) compared the phobic response of youth with BII\nphobia (n = 27) to those with dog phobia (n = 25). Five\nyouth in the BII phobia group reported a history of fainting\nin the presence of their feared stimuli, with a further ﬁve\nreporting a history of vomiting in the presence of feared\nstimuli. Comparatively, no youth in the dog phobia group\nreported a history of either fainting or vomiting.\nThe precise relationship between BII phobia and a\nfainting response is not yet fully understood. Consistent\nwith the non-associative fear model, some researchers have\nsuggested that fainting is an adaptive response to threat.\nSlowing of heart rate and blood pressure in response to\nblood or injury produces immobility and this may be an\nadaptive reﬂex with predators losing interest in a prey if it\nis immobile (i.e., playing dead; Marks 1988). Alternatively,\nBarlow (2004) suggested that our ancestors responded with\na signiﬁcant drop in blood pressure to minimise blood loss\nand the danger of shock, helping us to be more likely to\nsurvive an attack or injury. However, evolutionary theories\nof BII fainting have received criticism and cannot fully\naccount for all aspects of the response (Page 1994). Early\nresearch conducted by Page and Martin (1998) suggested\nthat individuals with BII phobias may inherit a tendency to\nfaint in non-blood-related situations as well. In a multi-\nvariate genetic analysis involving 659 twin pairs, they\nfound that BII fainting was explained by additive genetic\nvariance predictive of fainting in non-blood situations, and\nalso unique environmental experiences related to fainting\nin the presence of blood. Page and Tan (2009) proposed\nthat the development of BII phobia may involve a process\nwhereby aversive experiences associated with fainting\ndirectly condition fear to BII situations. Moreover, they\nhypothesise that disgust plays a key role in BII-related\nfainting, and that when disgust and fear are elicited by the\nsame stimuli (e.g., BII stimuli), this may increase the\nlikelihood of fainting. However, the fainting response\ncannot be completely explained by the co-occurrence of the\ntwo emotions. Page and Tan (2009) hypothesise that the\ntype of stimuli, disgust response involved (state versus trait\ndisgust), a predisposition to faint, and appraisal of the\nstimuli are all involved in the complex interaction that\nresults in fainting.\nInterestingly perceived control may also be associated\nwith fainting in BII phobia. Little is known about the role\nof control cognitions in the vasovagal response. However,\nin a recent study, Gilchrist et al. (2015) examined the\neffects of experimentally manipulated perceived control"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.142822265625,
+      58.700599670410156,
+      544.3414306640625,
+      392.4287109375
+    ],
+    "text": "during a task (e.g., watching a surgery video) demonstrated\nto induce a vasovagal responding in non-medical person-\nnel. Eighty-two university students (18–30 years) watched\na 10-min video of an open heart mitral valve surgery and\nwere randomly assigned to either (1) being able to take a\n2-min break whenever they requested during the video\n(e.g., perceived control group) or (2) were informed that\nthe experimenter would assign them a 2-min break during\nthe task. Those in the no-perceived control group reported\nsigniﬁcantly greater vasovagal symptoms and anxiety. The\nﬁndings were corroborated with physiological data show-\ning lower stroke volume, cardiac output, and diastolic\nblood pressure. Moreover, for participants who indicated\nthey were fearful of blood, enhancing their sense of per-\nceived control reduced their vasovagal symptoms. It appears\nthat perceived control may indeed be implicated in the\nfainting response and may be an important target for\nenhancing treatment outcomes in BII phobia. Further\nresearch is needed to better understand the role of fainting in\nBII phobia and the interplay between fear and disgust, as\nwell as perceived control especially in children. To date,\nstudies examining the fainting response associated with BII\nphobia have almost been exclusively carried out with adult\nsamples; thus, it is currently unclear whether fainting is a\nunique correlate of BII phobia children and adolescents.\nMoreover, there is some evidence that vomiting may be\nassociated with the disorder in youth (Oar et al., submitted)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.142822265625,
+      407.2514953613281,
+      336.60845947265625,
+      417.214111328125
+    ],
+    "text": "Disgust"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.14276123046875,
+      432.29803466796875,
+      544.2708740234375,
+      716.2186279296875
+    ],
+    "text": "Traditionally, BII phobia has been associated with fear and\nanxiety; however, in recent years, there has been consid-\nerable research into the important role of disgust in the\naetiology and maintenance of the disorder (Ayala et al.\n2009; O¨ st 1992; Page and Tan 2009). Numerous studies\nhave found that self-report measures of disgust and disgust\nsensitivity are positively associated with measures of BII\nphobia (Phillips et al. 1998). Disgust sensitivity is the trait\nlike predisposition to experience disgust towards a range of\naversive stimuli (Moretz et al. 2011; Olatunji and Cisler\n2009). Disgust sensitivity has been found to be positively\ncorrelated with neuroticism and negatively with sensation\nseeking. de Jong and Merckelbach (1998) demonstrated\nthat BII and spider fearful adults show domain speciﬁcity\namong disgust elicitors. They found signiﬁcant correlations\nbetween measures of BII phobia and disgust associated\nwith bodily wounds and punctures and between measures\nof spider phobia and animal-related disgust elicitors.\nMoreover, existing research suggests that BII fearful adults\nnot only do report high levels of disgust and aversion\ntowards blood and mutilation stimuli, also experience\nheightened disgust responses towards a range of disgust\nelicitors that are unrelated to their fearful stimuli (Olatunji"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n375"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.1356506347656,
+      616.6002197265625
+    ],
+    "text": "et al. 2007). For example, Sawchuk et al. (2000) and Tolin\net al. (1997) found that BII fearful adults reported signiﬁ-\ncantly higher levels of disgust towards odours, rotting\nfoods, and bodily products (e.g., mucus, vomit, faeces) than\nnon-fearful individuals. Additionally, BII fearful adults\nreported greater levels of disgust while watching videos of\nmaggots (Sawchuk et al. 1999) and sewage (Sawchuk et al.\n2002) than non-fearful adults. Together these studies sug-\ngest that BII phobia is characterised by a heightened gen-\neralised disgust sensitivity (Olatunji et al. 2007a) which\ncould be involved in the development and maintenance of\nthis disorder.\nIn children, disgust sensitivity has been found to be\nsigniﬁcantly correlated with small animal and spider pho-\nbias, as well as BII phobias (de Jong and Muris 2002;\nMuris et al. 2008). More speciﬁcally, Muris et al. (1999,\n2008) found that disgust sensitivity was associated with BII\nphobia symptoms in samples of non-clinical children, even\nafter controlling for the effects of trait anxiety and neu-\nroticism. As previously discussed, the majority of research\ninvestigating the relationship between disgust and speciﬁc\nphobia has focused on adults, while relatively little atten-\ntion has been given to child samples, and to date there are\nno clinical studies with children.\nAlthough anxiety certainly appears to play an important\nrole in BII, some research suggests disgust may play a\nmore pivotal role than anxiety. Research conducted by\nTolin et al. (1997) and Sawchuk et al. (2002), for example,\nhas found that when confronted with their phobic stimuli,\nBII fearful adults report greater disgust than fear. Tolin\net al. (1997) presented BII fearful (n = 24), spider fearful\n(n = 59), and non-fearful (n = 74) controls with colour\nphotographs of spiders and injections. During the tasks,\nparticipants completed fear and disgust emotional rating\nforms. As expected, BII fearful adults reported signiﬁcantly\nhigher levels of fear and disgust when confronted with the\ninjection photograph than spider and non-fearful partici-\npants. Moreover, BII fearful adults reported higher levels\nof disgust than fear when viewing phobia-related stimuli,\nwhereas spider fearful adults reported equal levels of fear\nand disgust. Sawchuk et al. (2002) replicated these ﬁndings\nwhereby BII fearful adults (n = 37) reported signiﬁcantly\nhigher levels of fear and disgust relative to controls, and\nfurthermore, BII fearful adults reported higher levels of\ndisgust than fear."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02561950683594,
+      631.4240112304688,
+      171.6099090576172,
+      641.3865966796875
+    ],
+    "text": "Physiological Symptoms/Pain"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02464294433594,
+      656.4705200195312,
+      289.1147155761719,
+      716.208251953125
+    ],
+    "text": "The\nphysiological symptoms\nexperienced when con-\nfronting their phobic stimuli is often a signiﬁcant source of\ndistress for adults with BII phobias and can perpetuate their\navoidance of BII-related stimuli (O¨ st et al. 1984b; Page\n1994; Ritz et al. 2010). In comparison with other phobia"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.14190673828125,
+      58.701576232910156,
+      544.2745361328125,
+      305.25201416015625
+    ],
+    "text": "subtypes, studies have found that BII phobic adults tend to\nfocus their cognitions on physical symptoms (e.g., fainting)\nand internal feelings (e.g., disgust and revulsion) and to a\nlesser extent on danger and harm cognitions (Antony et al.\n1997; Lipsitz et al. 2002). BII phobics may also fear the\nsecondary consequences of their physiological response\nsuch as embarrassment associated with fainting or worry\nabout being injured when fainting (O¨ st 1992; Page 1994).\nMoreover, research suggests that BII fears may be main-\ntained by a tendency to exaggerate pain which is then\nconsequently associated with increased pain intensity\n(Severeijns et al. 2001). This exaggerated pain response\nand elevated pain intensity are believed to perpetuate\nphobic avoidance. In the adult literature, BII and dental\nfearful individuals have been found to have a tendency to\noverestimate pain and to endorse a lower perceived ability\nto tolerate physical pain and discomfort (Arntz et al. 1990;\nSmith and Meuret 2012). The role of pain and physiolog-\nical symptoms in the development and maintenance of BII\nfears in children is yet to be examined."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1445007324219,
+      320.1498718261719,
+      527.3709716796875,
+      330.11248779296875
+    ],
+    "text": "An Integrated Developmental Model of BII Phobia"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1445007324219,
+      345.121337890625,
+      544.2507934570312,
+      716.209228515625
+    ],
+    "text": "Based on our review of the literature, an integrated\ndevelopmental model of BII phobia in children and ado-\nlescents is proposed (see Fig. 1). This model incorporates\nand draws upon the existing aetiological pathways for\nchildhood-speciﬁc phobias more generally (Muris and\nMerckelbach 2001; Ollendick and Muris 2015) and adult\nBII phobia more speciﬁcally (Page and Tan 2009). In this\nmodel, it is proposed that BII phobia in children and\nadolescents has a complex aetiology that is multi-deter-\nmined. Evolutionary preparedness, genetics, neurobiology,\ntemperament, parenting, learning experiences, cognitive\nbiases, perceived control, fainting, disgust, physiological\nsymptoms, and pain are all hypothesised to be involved in\nthe development and maintenance of the disorder in youth.\nSeveral assumptions, derived from the adult BII phobia\nliterature, have been included in the model due to the\nlimited research conducted in paediatric samples. These\nassumptions, however, need to be empirically examined in\nchildren and adolescents and differences in the develop-\nmental expression of BII considered. Transient fears are a\nnormal part of child development (Gullone 2000; Muris\net al. 2000) and the content of such fears tend to follow a\npredictable course that is associated with increasing cog-\nnitive ability. In infancy and toddlerhood children typically\nexperience concrete fears of stimuli in their immediate\nenvironment (e.g., fear of strangers, animals etc.); how-\never, in middle childhood, fears become increasingly more\nabstract (e.g., ghosts, the supernatural) and this continues\ninto adolescence (e.g., social fears). Speciﬁc fears are less\nfrequent over the course of childhood, peaking in early"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "376\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      574.8457641601562,
+      289.1117858886719,
+      709.302978515625
+    ],
+    "text": "childhood between the ages of 7–9 years and declining in\nchildren 10 years and older (Muris et al. 2000). However,\nsome research suggests that medical fears may be an\nexception to this and in fact may increase with age (Gul-\nlone 2000). Indeed, Taddio et al. (2012) report that injec-\ntion-related fears are highly prevalent in both children and\nteenagers, affecting between 50 and 68 % of all youth. The\ndevelopmental progression of fears therefore needs to be\ntaken into consideration when assessing BII phobia in\nchildren and adolescents, with bodily injury and medical\nfears normative to some degree. However, for a subset of"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14190673828125,
+      574.84375,
+      544.2321166992188,
+      709.301025390625
+    ],
+    "text": "youth these normal fears may become more frequent,\nintense, durable, and impairing eventually evolving into a\nphobia (Milliner et al. 2013). While many children may\nbecome highly distressed immediately before having an\ninjection, or at the time of an injury, key indicators that\nmight differentiate normal fears from pathological fear\nmight include (a) the degree to which children become\npreoccupied by the fear (e.g., asking regularly about having\na vaccination or medical check-up), (b) excessive avoid-\nance of feared stimuli (e.g., complete refusal to see a\nmedical professional), and/or (c) the degree of interference"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      266.9547119140625,
+      64.15814208984375,
+      346.2237854003906,
+      81.76014709472656
+    ],
+    "text": "Biological Vulnerability \nFactors"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      292.333984375,
+      87.84027099609375,
+      318.9127502441406,
+      95.42732238769531
+    ],
+    "text": "Genetics"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      284.55731201171875,
+      100.3590087890625,
+      326.7030029296875,
+      107.94606018066406
+    ],
+    "text": "Neurobiology"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      264.8682861328125,
+      112.87774658203125,
+      346.4132385253906,
+      120.46479797363281
+    ],
+    "text": "Evolutionary Preparedness"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      271.279296875,
+      125.396484375,
+      339.9947509765625,
+      132.98353576660156
+    ],
+    "text": "Predisposition to Faint"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      281.71142578125,
+      137.91522216796875,
+      329.5943908691406,
+      145.5022735595703
+    ],
+    "text": "Pain Sensitivity"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      416.38330078125,
+      64.15814208984375,
+      462.2997741699219,
+      71.74519348144531
+    ],
+    "text": "Temperament"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      404.8897705078125,
+      77.8253173828125,
+      473.8328552246094,
+      85.41236877441406
+    ],
+    "text": "Behavioural Inhibition"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      410.5807800292969,
+      91.6717529296875,
+      468.178955078125,
+      99.25880432128906
+    ],
+    "text": "Disgust Sensitivity"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      323.7449951171875,
+      275.0038757324219,
+      424.0830078125,
+      292.50250244140625
+    ],
+    "text": "Triggers\n(Situations, sensations, thoughts)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      323.8580322265625,
+      298.7239685058594,
+      423.93365478515625,
+      306.31103515625
+    ],
+    "text": "Blood, injection or injury stimuli"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.32464599609375,
+      312.5711975097656,
+      446.529052734375,
+      320.15826416015625
+    ],
+    "text": "Physical symptoms - faintness, disgust and pain"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      312.3638916015625,
+      343.6294860839844,
+      435.41534423828125,
+      361.23150634765625
+    ],
+    "text": "Dysfunctional Information Processing\nand Phobic Beliefs"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      333.2281494140625,
+      373.5717468261719,
+      414.5296325683594,
+      421.2938537597656
+    ],
+    "text": "Attentional biases\nOverestimation of Threat\nUnderestimation of coping\nAppraisals of Disgust\nPerceived control"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      247.45620727539062,
+      460.3188781738281,
+      284.1454162597656,
+      467.9059143066406
+    ],
+    "text": "Behaviours"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      237.858642578125,
+      474.0254821777344,
+      293.7217102050781,
+      491.6275329589844
+    ],
+    "text": "Avoidance\nSafety Behaviours"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      294.2684020996094,
+      247.68994140625,
+      450.8014831542969,
+      255.27699279785156
+    ],
+    "text": "Hypervigilance and selective attention for threat"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      330.6487121582031,
+      450.68658447265625,
+      419.4071960449219,
+      471.4007263183594
+    ],
+    "text": "Blood-Injection-Injury \nPhobia"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      330.6867980957031,
+      172.23638916015625,
+      417.0906066894531,
+      179.8234405517578
+    ],
+    "text": "Social Learning Influences"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      218.51148986816406,
+      187.194091796875,
+      529.291015625,
+      194.78114318847656
+    ],
+    "text": "Direct/classical conditioning/ Vicarious conditioning (modelling)/ Negative Information Transmission"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      280.9153137207031,
+      201.0018310546875,
+      466.9710998535156,
+      208.58888244628906
+    ],
+    "text": "Parenting practices/ Parent psychopathology/ Peer Influences"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      227.6916961669922,
+      215.2877655029297,
+      495.992431640625,
+      222.87481689453125
+    ],
+    "text": "Early Childhood                      \nMiddle Childhood\nAdolescence"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      448.85736083984375,
+      460.3188781738281,
+      519.0204467773438,
+      477.9588317871094
+    ],
+    "text": "Physiological and \nAffective Experiences"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      460.3129577636719,
+      484.04046630859375,
+      507.53289794921875,
+      541.9307861328125
+    ],
+    "text": "Fear\nDisgust\nPain\nFaintness\nNausea\nEmbarrassment"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      58.58582305908203,
+      153.92237854003906,
+      87.08151245117188
+    ],
+    "text": "Fig. 1 A proposed integrated\ndevelopmental model of BII-\nspeciﬁc phobia"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n377"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.13262939453125,
+      703.7918701171875
+    ],
+    "text": "to the child or families life (e.g., children being unable to\nenrol in school due to absence of vaccinations; family not\nholidaying for fear of vaccinations).\nWithin BII phobia, differences in the expression of\nsymptoms may be present from early childhood through to\nlate adolescence depending on developmental stage. For\nexample, younger children may present with exaggerated\nbehavioural expression of fear and pain (e.g., kicking,\nscreaming, biting), with parents reporting children need to\nbe restrained for injections (LeBaron and Zelter 1984).\nHowever, in comparison, anxiety symptoms may be less\napparent in adolescents, who may present as more with-\ndrawn, sad, irritable, or angry when faced with their feared\nstimuli.\nFactors involved in the maintenance of BII phobia may\nalso vary at different developmental stages. In early and\nmiddle childhood, parenting practices and parent psy-\nchopathology may play a stronger role in the development\nand maintenance of BII phobia. However, for adolescents,\nwho often receive vaccinations in school-based programs,\nthe role of parents in the maintenance of their fear may be\nless important. In the broader child anxiety literature,\nﬁndings relating to the inﬂuence of parent factors, child\nage, and child anxiety have been mixed, with some models\nproposing that parent inﬂuences decrease as children enter\nadolescence, while others models postulate that the inﬂu-\nence of parents on child anxiety increases overtime due to\nits cumulative effects (Wei and Kendall 2014). Clinically,\nit has been observed in our experience, and consistent with\nthe normal progression of developmental fears (Gullone\n2000), that adolescents with BII may report secondary\nanxiety associated with their fear of injections and blood,\nincluding fear of embarrassment related to their phobic\nresponse (e.g., fainting and losing control); hence, peer\ninﬂuences and social anxiety may be more inﬂuential at\nthis age.\nFinally, it is important to recognise that developmental\ndifferences may also occur with regards to treatment-\nseeking behaviour and motivation to engage in treatment.\nYoung children with BII may have very limited motivation\nto overcome their fear in comparison with adolescents.\nAdolescents on the other hand have greater cognitive\ncapacity to understand the health-related beneﬁts of\ninjections and medical intervention, in addition to having\nthe ability to more rationally process threat associated with\nblood and injury, and therefore may be more willing to\nengage in therapy. Adolescents may also possess greater\ninsight into the impact of their BII-related fears on future\ncareer options (e.g., nursing, veterinary science, childcare\nworker) and thus may be more motivated to overcome their\nfear. In our experience, adolescents often play a part in\ninitiating treatment for their fears, whereas for younger"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1408996582031,
+      58.701576232910156,
+      544.2499389648438,
+      280.3504638671875
+    ],
+    "text": "children, parents typically initiate and seek treatment for\ntheir often reluctant children.\nAddressing components of the proposed model is\nhypothesised to lead to a better understanding of BII phobia\nin youth and assist in the development of individualised,\ndevelopmentally\nsensitive,\ncase\nformulation-driven\napproaches to assessment and treatment. The model high-\nlights the importance of the assessment of the children’s\nunique phobic response (e.g., fainting), including the role of\npain, disgust, threat beliefs, parent psychopathology, and the\ninﬂuence of familial and peer processes in the maintenance\nof their child’s disorder. A hypothesis testing approach can\nbe used to identify the key maintaining mechanisms for each\nyouth, and following this, treatment components can be\nmatched to this formulation in order to attempt to maximise\ntreatment outcome. Following a brief review of the treat-\nment of speciﬁc phobias in youth, this model is described\nfurther and illustrated with two case studies."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1408996582031,
+      295.1915283203125,
+      478.5994567871094,
+      305.1541442871094
+    ],
+    "text": "Treatment for Speciﬁc Phobia in Youth"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1408996582031,
+      320.21978759765625,
+      544.2474365234375,
+      703.8009643554688
+    ],
+    "text": "Cognitive behavioural therapy (CBT) is considered an\nevidenced-based treatment for paediatric speciﬁc phobia.\nTo date, four large randomised controlled trials (RCT;\nOllendick et al. 2009, 2015; O¨ st et al. 2001; Silverman\net al. 1999) and seven smaller clinical trials (Farrell et al.\n2013; Flatt and King 2010; Leutgeb et al. 2012; Leutgeb\nand Schienle 2012; Muris et al. 1997, 1998; Waters et al.\n2014b) support its effectiveness. These trials have com-\npared CBT to waitlist control (Flatt and King 2010; Leut-\ngeb et al. 2012; Leutgeb and Schienle 2012; O¨ st et al.\n2001), an education support group (Ollendick et al. 2009;\nSilverman et al. 1999), and other psychological treatments\n(e.g., eye movement desensitisation and reprocessing,\npsychoeducation, cognitive therapy; Flatt and King 2010;\nMuris et al. 1997, 1998). Traditionally, CBT for speciﬁc\nphobia involves 8–12 weekly sessions (approximately 1 h\neach in duration). However, in the 1980s seminal work by\nO¨ st led to the development of an intensive treatment\napproach, called one session treatment (OST), that involves\na single session of massed exposure that is maximised to\n3 h in duration (Milliner and Farrell 2014; O¨ st 1989).OST\nwas initially trialled with adults, delivering favourable\noutcomes (O¨ st et al. 1991a, 1997), and following this was\nsuccessfully adapted and tailored for use with children and\nadolescents. During the single intensive session, a range of\ncognitive behavioural techniques are utilised, including\nexposure, cognitive challenges, participant modelling,\nreinforcement, and psychoeducation (see Davis III et al.\n2012 for a through treatment description). To date, most\npublished treatment studies for paediatric speciﬁc phobia\nhave used an OST approach which has resulted in it now"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "378\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.023590087890625,
+      58.61143493652344,
+      289.1166687011719,
+      93.56377410888672
+    ],
+    "text": "being considered a well-established treatment for phobic\nyouth, based on the stringent criteria developed by\nChambless et al. (1998; Chambless and Ollendick 2001)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.0235595703125,
+      108.46161651611328,
+      243.3375701904297,
+      130.83961486816406
+    ],
+    "text": "Current Status of Treatment for BII Phobia\nin Children and Adolescents"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.0235595703125,
+      145.90525817871094,
+      289.15460205078125,
+      703.7918701171875
+    ],
+    "text": "Across the published studies, children with a diverse range\nof speciﬁc phobias (e.g., animal, natural environment) have\nbeen included. Notably, however, children with BII pho-\nbias have been underrepresented in many samples and\nexcluded in others. Moreover, to date, only a few single-\ncase studies have been published (Sanders and Jones 1990;\nThompson 1999), in addition to the small numbers of youth\nwith BII who have been included in the RCTs (Flatt and\nKing 2010; O¨ st et al. 2001; Silverman et al. 1999). In one\nof the case studies, Sanders and Jones (1990) treated a\n13-year-old girl who required major surgery and suffered\nfrom phobias of injections, dental, and medical procedures.\nThe adolescent also presented with comorbid oppositional\ndeﬁant disorder. Treatment consisted of 21 sessions\ninvolving coping skills training, systematic desensitisation,\nimaginal and in vivo desensitisation with participant\nmodelling and daily home tasks. Following treatment the\nadolescent displayed signiﬁcant improvements on mea-\nsures of anxiety including ratings of distress, performance\non a BAT, and responses on self-report measures. More-\nover, these gains were maintained at an 8-month follow-up.\nIn the second case study, Thompson (1999) evaluated the\neffectiveness of CBT for a 14-year-old girl with a BII\nphobia who had a history of fainting at the sight of blood.\nThe adolescent completed 13 one-hour sessions, which\nincluded exposure, applied tension, and cognitive restruc-\nturing. Results showed substantial reductions in subjective\ndistress in BII situations from baseline to post-treatment.\nOn phobic and general self-report measures of anxiety,\nreductions were also observed and, furthermore, fainting\ndid not occur during treatment. The adolescent reported\nthat she found the cognitive restructuring component of\ntreatment the most helpful.\nIn the RCTs, O¨ st et al. (2001) included 12 youths with\ninjection phobias and two with blood phobias in their trial\nof 60 youth, which evaluated the efﬁcacy of an intensive\nOST for speciﬁc phobia in children and adolescents. They\nfound that BII phobic youth responded signiﬁcantly less\nfavourably to treatment than youth with other types of\nphobia during a post-assessment BAT. Based on their\nclinical impression from working with the children, O¨ st\net al. (2001) hypothesised that the youth had difﬁculty\ndifferentiating the therapist from other health professionals\n(e.g., doctor, nurse) who they associated with previous\nanxiety-provoking medical experiences. Hence, they were"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1407165527344,
+      58.701576232910156,
+      544.2459716796875,
+      242.99072265625
+    ],
+    "text": "less likely to engage in therapist-suggested exposure tasks.\nSilverman et al. (1999) and Flatt and King (2010) also\nincluded a small number (4–6 participants) of youths with\nBII phobias in their controlled treatment trials; however,\nthey did not examine differences in treatment outcome\nacross the different types of phobia. In the two largest\nRCTs conducted to date, Ollendick et al. (2009) speciﬁ-\ncally excluded youths with BII phobias due to their unique\nphysiological presentation (e.g., fainting), poorer treatment\nresponse (O¨ st et al. 2001), and the challenges associated\nwith delivering treatment in an outpatient setting (i.e., need\nfor medical professionals to assist in exposure). Moreover,\nin two recently published RCTs for youth with speciﬁc\nphobias, Waters et al. (2014b) and Farrell et al. (2013)\nyouth with BII phobias were excluded."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1407165527344,
+      257.832763671875,
+      526.0510864257812,
+      267.7953796386719
+    ],
+    "text": "Current Status of Treatment for Adult BII Phobia"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1407165527344,
+      282.86102294921875,
+      544.24609375,
+      703.7977905273438
+    ],
+    "text": "Behavioural and cognitive-behavioural procedures have\nreceived considerable empirical support for the treatment\nof BII phobia in adults (Ayala et al. 2009). In-vivo expo-\nsure and applied tension have been found to be particularly\neffective. Applied tension is a coping technique that can be\nimplemented during exposure to BII stimuli (Ayala et al.\n2009; O¨ st and Sterner 1987). The technique involves brief\ntension of arms, legs and torso muscles until the person\nfeels warmth rising in their face (10–20 s) followed by\n20–30 s of release of the muscles. The procedure is repe-\nated up to ﬁve times. Applied tension is proposed to raise\nblood pressure, venous return, and cerebral blood ﬂow and\nhence reduce the likelihood of fainting. To date ﬁve con-\ntrolled treatment trials have been conducted for adults with\nBII phobia (Hellstro¨m et al. 1996; O¨ st et al. 1984a, 1989,\n1991b, 1992), all conducted by the one research group, led\nby O¨ st and colleagues from Sweden. Interventions used in\nthe studies included massed or spaced exposure, applied\ntension, tension only, applied relaxation, and combination\nof applied tension and applied relaxation. In a recent\nreview, Ayala et al. (2009) concluded that treatments were\nlargely equivalent regardless of the type of intervention\n(e.g., exposure, applied tension), with 70–80 % of patients\nexperiencing clinically signiﬁcant change. Despite expec-\ntations, limited evidence was found for the additional\neffects of applied tension beyond exposure alone when\nthey were combined in the same treatment. While the\ntreatment research with adults is favourable in outcome for\nBII, as noted above, BII phobia has largely been neglected\nin the child and adolescent treatment literature. Further-\nmore, while OST has been deemed to be well-established\nfor the treatment of childhood-speciﬁc phobia in general,\nthere is no efﬁcacy data for its use with BII phobic in\nyouth."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n379"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      58.34619903564453,
+      213.25160217285156,
+      68.30879974365234
+    ],
+    "text": "OST Approach for BII Phobic Youth"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      83.37442779541016,
+      289.15155029296875,
+      404.63037109375
+    ],
+    "text": "It is evident from the adult literature that this phobia type\nhas a complex clinical presentation involving a unique\nemotional (e.g., fear, pain and disgust) and physiological\n(e.g., fainting) response. The clinical phenomenology of\nBII in youth has not yet been fully explored; however, if\nconsistent with adults this multifaceted presentation needs\nto be considered in the delivery of treatment. In youth, the\nclinical presentation may be further complicated by parent\npsychopathology as BII has one of the strongest heritability\nestimates of any phobia type (O¨ st 1992; Van Houtem et al.\n2013). Moreover, BII phobic youth may be more difﬁcult\nto engage in exposure therapy. They may have trouble\ndifferentiating the therapist from other health professionals\n(e.g., doctor or nurse) who they associate with past anxiety-\nprovoking experiences as suggested by O¨ st et al. (2001).\nFurthermore, BII phobic youth may be less motivated than\nother phobia types to overcome their fear, and as such, it\nmay be more challenging to establish a trusting relationship\nwith these youth, which is critical in terms of facilitating\nexposure. Implementing an OST approach for BII phobic\nyouth requires exposure to blood and medical procedures\nand thus the involvement of qualiﬁed health professionals,\nsuch as nurses or doctors in addition to the child’s treating\ntherapist, which can complicate the feasibility and delivery\nof exposure in routine clinical practice (see Ollendick et al.\n2009)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      431.1878967285156,
+      161.7500457763672,
+      442.1468811035156
+    ],
+    "text": "Treatment Illustrations"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      456.981201171875,
+      289.1186828613281,
+      554.0787353515625
+    ],
+    "text": "The following case studies describe the treatment response\nof two children to OST for BII phobia. The ﬁrst case fol-\nlows a standard OST format (e.g., OST without speciﬁc\nadaptations and without a formal maintenance program).\nFollowing this, the second case involves a formulation-\ndriven approach to delivering OST with adaptations to the\ntraditional OST structure in order to address BII-speciﬁc\nissues and maximise outcomes (refer to Fig. 1)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02362060546875,
+      568.9765625,
+      107.99175262451172,
+      578.9391479492188
+    ],
+    "text": "Case Study 1"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02362060546875,
+      593.9490356445312,
+      289.11669921875,
+      715.9908447265625
+    ],
+    "text": "Louise (not her real name) an 8-year-old girl presented\nwith a speciﬁc phobia of injections. Louise’s mother\n(Kathryn) reported that Louise would become highly anx-\nious prior to going to the doctor or dentist for fear of having\nan injection. Recently, Louise’s brother had required a\nwhooping cough vaccination. In the days leading up to her\nbrother’s appointment, Louise constantly asked for reas-\nsurance that she would not be vaccinated also and had\nextreme trouble sleeping. While at her brother’s appoint-\nment (her mother required her to go) Louise turned away,"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1408996582031,
+      58.711280822753906,
+      544.2620239257812,
+      342.60748291015625
+    ],
+    "text": "closed her eyes and blocked her ears when he was being\nvaccinated. She also reported that in the past the family had\nplanned to travel to Bali, Indonesia for a holiday; however,\nLouise had refused the necessary vaccinations. In addition\nto her fear of injections, Louise was also concerned about\nbeing injured. Louise refused to ride her bike for fear of\nfalling off and getting hurt. In the past, she had been hit in\nthe face by a netball and following this incident had refused\nto play the sport again, resulting in the family withdrawing\nher from the team.\nKathryn reported that when Louise was 5 years old she\nhad taken her for a blood test and that the nurse had\n‘‘botched it’’. Kathryn recalled that Louise had an extreme\nreaction crying, kicking, and screaming, which resulted in\nher having to be restrained. After the nurse had inserted the\nneedle, she had been unable to ﬁnd Louise’s vein. Fol-\nlowing the ﬁrst failed attempt, the nurse was going to\nattempt a second blood draw; however, Kathryn refused\nand had taken Louise home. Kathryn returned to the doctor\nwho said they could pursue a less invasive assessment\napproach that would not involve a blood test given Loui-\nse’s distress. Louise had not had any injections since that\ntime."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1408996582031,
+      357.487060546875,
+      351.5304870605469,
+      367.4496765136719
+    ],
+    "text": "Assessment"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.140869140625,
+      382.476806640625,
+      544.2689819335938,
+      716.2049560546875
+    ],
+    "text": "Louise and her mother were interviewed using the parent\nand child versions of the Anxiety Disorder Interview\nSchedule for Children (Silverman and Albano 1996).\nBased on Louise’s report and that of her mother during the\ndiagnostic interviews, Louise was diagnosed with speciﬁc\nphobia of BII with a clinician severity rating (CSR) of 6,\nindicating a moderately severe fear. Additionally, Louise\nwas diagnosed with a number of comorbid conditions\nincluding generalised anxiety disorder (GAD; CSR 6),\nseparation anxiety disorder (SAD; CSR 5), a speciﬁc\nphobia of the dark (CSR 5), and a speciﬁc phobia of\nvomiting (CSR 4). During the initial assessment, Louise\nwas also administered a BAT. The BAT required Louise to\nenter a room with a nurse, sit on a chair, and be prepared\nfor a blood test (e.g., tourniquet placed on her arm, alcohol\nwipe, nurse pretends to draw blood). Louise refused to\nenter the room and rated her subjective anxiety at 7 (on a\nscale ranging from 0 to 8).\nDuring the functional assessment of her phobic beliefs,\nLouise stated that her greatest fear was the pain associated\nwith getting an injection. She reported that she was afraid\nthe nurse would force her to have the injection and that the\nnurse would be careless and insert the needle into the\nwrong part of her body. She also reported a heightened\nsense\nof disgust, describing injections as disgusting\nbecause they ‘‘break through the skin and veins which is\ngross’’. The therapist and Louise constructed a hierarchy of"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "380\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.1256408691406,
+      93.56377410888672
+    ],
+    "text": "injection-related stimuli. At the end of this session, Loui-\nse’s therapist discussed with the family the rationale for\nOST approach."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      108.44334411621094,
+      101.5140609741211,
+      118.40594482421875
+    ],
+    "text": "Formulation"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.023590087890625,
+      133.43406677246094,
+      289.12359619140625,
+      716.208251953125
+    ],
+    "text": "Louise’s\ntemperament\nin\ncombination\nwith\nnegative\nlearning experiences may have led to the development of\nher injection and injury phobia. Louise was reported to be a\n‘‘difﬁcult’’ baby, crying for long periods of time and dif-\nﬁcult to settle. The complicated blood test taken when\nLouise was 5 years old and following this her mother’s\nresponse to the situation (e.g., refusing to allow the nurse to\nattempt a second blood draw and facilitating escape from\nthe clinic) may have reinforced Louise’s fear of injections\nand lack of trust for health professionals. Moreover, in the\nyears following this incident the family had discussed this\nexperience in a highly negative manner with both Louise\nand Kathryn reporting that the nurse had ‘‘botched it’’ and\nthat she was ‘‘unfriendly and rushed’’ thereby perpetuating\na fear and distrust of medical professionals.\nConsistent with the proposed CBT formulation of BII\nphobia in youth (see Fig. 1), Louise had numerous catas-\ntrophic phobic beliefs associated with pain that were\nmaintaining her fear of injections and injury. More\nspeciﬁcally,\nLouise\nreported\nexaggerated\ndanger\nexpectancies whereby she believed that the pain of having\nan injection would be unbearable and furthermore, under-\nestimated her ability to cope with experiencing such pain\n(e.g., needles or falling off her bike). Additionally, she\nbelieved that health professionals (e.g., nurse, doctors)\nwere careless and would insert the needle into the wrong\npart of her body. She also believed she would be forced to\nhave an injection. Louise’s fear was maintained by her\navoidance of stimuli that she associated with pain, such as\ninjections and situations during which she had previously\nbeen hurt (e.g., riding her bike and playing netball). In the\nshort term, Louise’s avoidance reduced her distress; how-\never, this avoidance prevented her from gaining corrective\nevidence that she could indeed tolerate pain and cope with\nthe challenges of the task, and that the majority of health\nprofessionals were careful, helpful and could be trusted.\nLouise also demonstrated attentional biases whereby in the\npresence of BII stimuli she became extremely avoidant\n(i.e., when her brother had a vaccination; refer Fig. 1, CBT\nmodel). Attentional avoidance perpetuated her fear and\nphobic beliefs and prevented the acquisition of safety\nlearning.\nLouise’s parents facilitated and accommodated her\navoidance and provided her with undue attention when she\nengaged in anxious behaviours, therefore inadvertently\nrewarding her anxious avoidant responding to challenging\nsituations. Louise’s parents changed their holiday plans so"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.14080810546875,
+      58.701576232910156,
+      544.2319946289062,
+      193.1588134765625
+    ],
+    "text": "as not to travel to a country that required vaccinations.\nThey additionally allowed her to leave her netball team and\ndid not encourage her to continue riding her bike. Addi-\ntionally, Kathryn reported feeling highly anxious when her\nchildren were being vaccinated and hence it is likely that\nKathryn modelled anxious behaviours to Louise when her\nchildren were being vaccinated. Certainly Kathryn also\nprovided negative verbal information about needles and\nhealth professionals. In accordance with the proposed CBT\nmodel of BII phobia in youth (refer Fig. 1), these parenting\nfactors were hypothesised to perpetuate Louise’s fear."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.14080810546875,
+      208.0383758544922,
+      347.19964599609375,
+      218.0009765625
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.14080810546875,
+      233.0281219482422,
+      544.25,
+      716.1952514648438
+    ],
+    "text": "Louise’s single-session treatment followed the standard\nformat of OST (3 h of graduated exposure, cognitive\nchallenges, modelling, reinforcement of approach beha-\nviours, and psychoeducation) given that to date there was\nno clear evidence regarding the effectiveness of this\ntreatment for BII phobic youth (see Table 1 for a summary\nof the session). The ﬁrst hour of treatment was conducted at\nthe Grifﬁth Psychology Clinic and commenced with the\ntherapist providing Louise with psychoeducation about\nneedles and showing her pictures of people having injec-\ntions. Following this, the therapist and Louise watched\nvideos of people having blood tests. While watching the\nvideo Louise indicated that she thought it was disgusting\nand ‘‘so gross’’ seeing people have a blood test. Through\nthe use of participant modelling, Louise and the therapist\nheld a syringe with a capped needle and administered a\npretend blood test to Kathryn. The session progressed with\nLouise having a tourniquet placed on her arm and ﬁnally\nthe therapist giving her a pretend blood test. Louise was\npositively reinforced with attention and praise when she\nthroughout the session when looking at and holding the BII\nstimuli.\nThe second and third hours of treatment were conducted\nat the nearby Grifﬁth University Medical Centre. Louise\nand the therapist met with a pathology nurse. The nurse\nprovided Louise with education regarding the beneﬁts of\nhaving injections and also spoke to her about her job (e.g.,\ntaking 20? blood tests per day to people of all ages\nincluding new born babies). Exposure was conducted in the\nform of behavioural experiments. Each time the therapist\nwould ask Louise what she feared would happen, and then\nfollowing this, they discussed whether her prediction was\ncorrect. The therapist and Louise had the nurse give them\npretend blood tests, as well as Louise holding an uncapped\nneedle. Louise watched the therapist model having two real\nblood tests. Prior to observing the therapist, Louise repor-\nted her fear to be a 5 (on scale ranging from 0 to 8),\nfollowing completion of the second blood test she indicated\nthat her fear had reduced to a 1. At the end of the second"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n381"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      336.1119079589844,
+      289.15252685546875,
+      707.256591796875
+    ],
+    "text": "hour, Louise was encouraged to have a blood test, however\nshe refused.\nSince she was unable to have the blood test following\nthe second hour of treatment, the third hour focused on\nﬁnger pricks. Louise observed both the nurse and therapist\nhave a ﬁnger prick. She practised putting ﬁnger pricks into\nthe fake skin on the training pad and also administered\nthem to the therapist. Participant modelling was also used\nwhereby Louise placed her ﬁnger underneath the therapists\nwhile they had a ﬁnger prick. Following this, Louise\npractised resting the ﬁnger prick (without pressing the\nrelease button) on her own hand. Shortly after this, to elicit\nLouise’s phobic beliefs regarding health practitioners, the\ntherapist suggested that the nurse hold the ﬁnger prick\nagainst Louise’s ﬁnger. Louise refused and became upset\ncrossing her arms, scowling, and had tears in her eyes. She\nstated that ‘‘you said I would not have to do anything I did\nnot want to’’. Louise reported her fear level to be a 6 on\nscale ranging from 0 to 8. The therapist asked Louise what\nshe feared would happen. She indicated that she worried\nthe nurse would surprise her and give her a ﬁnger prick.\nThe therapist assisted Louise to test this belief using a\nbehavioural experiment. Subsequently, Louise allowed the\nnurse to rest the lancet on her ﬁnger for 10 min. She rated\nher fear at a 5 (on scale ranging from 0 to 8) when com-\nmencing the task with this gradually declining to a 1 at the\nconclusion of the 10 min. The therapist discussed with\nLouise as to whether her belief had been correct. Louise\nwas able to provide a more correct and adaptive appraisal\nof health professionals stating that ‘‘doctors and nurses can"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.140869140625,
+      336.1048889160156,
+      544.2449340820312,
+      483.091064453125
+    ],
+    "text": "be trusted and if they do give me an injection it is to help\nme stay healthy and well’’.\nThroughout the session the therapist frequently praised\nLouise for facing and coping with her fears. At the con-\nclusion of the session, Louise was comfortable interacting\nwith the nurse and needle-related stimuli (e.g., holding\nneedles, giving ﬁnger pricks); however, she still had not\nhad a needle penetrate her skin. Louise and her parents\nwere reminded that this session was just the beginning of\nLouise’s treatment and that she would need to continue\nwith exposure practice outside of therapy for several\nmonths."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.140869140625,
+      497.9138488769531,
+      482.55352783203125,
+      507.87646484375
+    ],
+    "text": "Post-Treatment and Follow-Up Assessment"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.140869140625,
+      522.9036254882812,
+      544.2479248046875,
+      707.2495727539062
+    ],
+    "text": "One week after her OST, Louise’s fear had reduced from\nher pre-treatment assessment. On the ADIS-IV-C/P, Louise\ncontinued to meet criteria for a diagnosis of BII phobia;\nhowever, her CSR had reduced from 6 to 5. She also\ncontinued to meet criteria for speciﬁc phobias of the dark\n(CSR 5) and vomit (CSR 4). One month later, Louise was\nreevaluated. Louise’s parents reported that they had been\nattempting ﬁnger pricks and practicing pretend blood tests\nat home, but had made limited progress. Louise still had\nnot had a ﬁnger prick. However, Kathryn indicated that\nthey were applying the strategies they had learnt during\nLouise’s OST to her fear of the dark with great success.\nLouise had been sleeping in her own room and had only a\nsmaller lamp turned on while sleeping. Louise’s ADIS-IV-\nC/P diagnosis at this time was a speciﬁc phobia of BII"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      60.22986602783203,
+      204.81118774414062,
+      68.76937866210938
+    ],
+    "text": "Table 1 Summary of Louise’s OST session"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360534667969,
+      76.68545532226562,
+      544.2410888671875,
+      105.10983276367188
+    ],
+    "text": "OST\nExposure steps\nFear rating\npre\nFear rating\npost\n(0–8)\n(0–8)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.080291748046875,
+      115.40713500976562,
+      510.7290954589844,
+      123.87533569335938
+    ],
+    "text": "Hour 1\nPsychoeducation regarding needle-related stimuli (e.g., syringe and tourniquet)\n1\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86624908447266,
+      128.16281127929688,
+      510.728271484375,
+      136.63101196289062
+    ],
+    "text": "Looking at pictures of needles and people having injections/blood tests\n1\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86624908447266,
+      140.91848754882812,
+      510.72821044921875,
+      162.08560180664062
+    ],
+    "text": "Videos of needles\n4\n1\nPractise the steps involved in having a blood test\n1\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.080291748046875,
+      166.37307739257812,
+      510.7265625,
+      184.81936645507812
+    ],
+    "text": "Hour 2\nPsychoeducation regarding the beneﬁts of having injections and blood tests\nand the role of a pathology nurse\n0\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      189.10678100585938,
+      510.728271484375,
+      197.57498168945312
+    ],
+    "text": "Pathology nurse prepare the therapist for a blood test\n0\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      201.86245727539062,
+      510.7274169921875,
+      210.33065795898438
+    ],
+    "text": "Pathology nurse prepare Louise for a blood test\n3\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      214.61813354492188,
+      510.7290954589844,
+      223.08633422851562
+    ],
+    "text": "Pathology nurse holding an uncapped needle above Louise’s vein\n6\n1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      227.37380981445312,
+      510.72821044921875,
+      235.84201049804688
+    ],
+    "text": "Observe the therapist having two blood tests\n4\n1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      240.12948608398438,
+      510.7274169921875,
+      248.59768676757812
+    ],
+    "text": "Pathology nurse complete a blood test in a training skin pad attached to Louise’s arm\n5\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.07946014404297,
+      252.88516235351562,
+      510.72821044921875,
+      261.3533630371094
+    ],
+    "text": "Hour 3\nObserve the pathology nurse and therapist have a ﬁnger prick\n2\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      265.6408386230469,
+      510.7265930175781,
+      274.1090393066406
+    ],
+    "text": "Louise give the training skin pad and therapist a ﬁnger prick\n2\n0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      278.396484375,
+      510.72576904296875,
+      286.86468505859375
+    ],
+    "text": "Louise rest the ﬁnger prick on her ﬁnger without releasing it\n4\n1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      106.86541748046875,
+      291.1521301269531,
+      510.7274475097656,
+      299.6203308105469
+    ],
+    "text": "The pathology nurse hold the ﬁnger prick on Louise’s ﬁnger without her releasing it\n7\n3"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "382\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.0997314453125,
+      130.92352294921875
+    ],
+    "text": "(CSR 5). During a BAT (identical to that completed at pre-\ntreatment), Louise was able to enter a room and be pre-\npared for a blood test demonstrating improvement in her\nability to approach and attend to the feared stimuli. How-\never, her subjective anxiety was at a 7 (scale of 0–8) and\nshe was not able to have the blood test."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.02360153198242,
+      145.80308532714844,
+      139.85313415527344,
+      155.76568603515625
+    ],
+    "text": "Complicating Factors"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.023597717285156,
+      170.79380798339844,
+      289.128662109375,
+      716.208251953125
+    ],
+    "text": "There were a number of challenges that arose in delivering\nstandard OST to Louise. Throughout the treatment process,\nLouise seemingly lacked motivation to overcome her fear\nof needles. Upon arrival at all sessions, she would state that\nshe would not be having any injections. Typically tangible\nreinforcers (e.g., food, toys, stickers) are not used during\nOST with social reinforcers favoured (Rudy and Davis III\n2012); however, in Louise’s case social reinforcers (posi-\ntive attention, praise and social support) had a limited\neffect. Establishing trust with Louise was another chal-\nlenge. Louise feared health professionals would force her\nto have an injection, which led to her extreme control and\nrefusal during session to engage in certain tasks. Prior to\nher OST, only two brief assessment sessions were carried\nout with Louise, both involving semi structured interviews.\nAlthough the therapist was able to successfully build rap-\nport with Louise, given her past negative experiences with\nmedical professionals she was hesitant to engage with the\ntherapist during exposure due to a fear of forcibly being\ngiven an injection. Throughout her OST, Louise repeated\non multiple occasions ‘‘you told me I would not be made to\ndo anything I don’t want to do and I am not going to have\nan injection today’’. Particularly, during the third hour of\ntreatment, exposure came to an impasse in that Louise had\ncompleted all possible easier exposure steps (e.g., resting a\nﬁnger prick against your skin) and was at the point that to\nmove forward she would have had to have a needle pen-\netrate her skin. The therapist was unable to move past this\npoint in the session either with ﬁnger pricks or blood tests.\nBecause of this, Louise’s catastrophic cognitions relating to\npain remained unchallenged. Following OST, Louise and\nher mother occasionally engaged in exposure practice at\nhome; however, when practising they always completed\nthe same exposure step (e.g., pretend blood test) which\nLouise was able to carry out quite easily as she did not\nhave a needle penetrate her skin. The family did not\nactively seek opportunities for more challenging exposures,\nsuch as scheduling appointments with a doctor or visiting a\npathology clinic. Given that the ultimate goal of OST is to\nassist children in facing their fears (i.e., having an injection\nin this case), this approach was serving to perpetuate\nLouise’s fear that medical professionals will push you into\nhaving a procedure you are terriﬁed of. We hypothesised\nthat Louise’s poor progress was a function of insufﬁcient"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.140869140625,
+      58.701576232910156,
+      544.2191162109375,
+      106.02391815185547
+    ],
+    "text": "preparation and her session being too fast for her. Louise\nwould have beneﬁted from more exposure to challenge her\nbeliefs that all medical professionals are untrustworthy and\nwill force you to have injections."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.140869140625,
+      120.86499786376953,
+      363.1089782714844,
+      130.8275909423828
+    ],
+    "text": "Case Study 2"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.140869140625,
+      145.8932342529297,
+      544.2689208984375,
+      479.621337890625
+    ],
+    "text": "Ivy (not her real name) an 11-year-old girl presented with a\nspeciﬁc phobia of injections. Ivy’s father was quadriplegic\nand if he caught a cold or ﬂu he could develop pneumonia\nand become very ill. Because of this, her father’s doctors\nrecommended that Ivy and her mother have a ﬂu vacci-\nnation every year. Due to her injection phobia, Ivy had not\nhad a ﬂu vaccination for the past 2 years. Ivy previously\nhad all her early childhood vaccinations; however, Rosie\n(Ivy’s mother) indicated that when being vaccinated Ivy\nhad to be restrained and that she would cry, scream, punch,\nand hit in an attempt to escape the doctor. At age 9, Ivy had\nrequired a blood test. She reported a range of physiological\nsymptoms (e.g., dizziness, pale, cold sweat, racing heart,\nand feeling faint) during the test and immediately follow-\ning its completion had fainted. Ivy was reported to be able\nto watch medical shows on television; however, she was\nunable to watch others receive injections in real life. Rosie\nreported that her husband required regular injections due to\nhis illness and that she administered these at home. This\noften distressed Ivy who had to leave the room when this\nwas occurring. She also asked her mother to keep her\nfather’s needles out of sight. Ivy stated that her greatest\nfear was having an injection in her mouth while at the\ndentist. When Ivy had a wobbly tooth she would refuse to\neat solid food and would only consume a liquid diet. In\naddition to a fear of injections, Ivy worried about acci-\ndently swallowing her loose teeth."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.140869140625,
+      494.4441223144531,
+      351.53045654296875,
+      504.40673828125
+    ],
+    "text": "Assessment"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.1408386230469,
+      519.4338989257812,
+      544.2379760742188,
+      716.1952514648438
+    ],
+    "text": "Ivy and her mother were administered the ADIS-IV-P and\nADIS-IV-C (Silverman and Albano 1996). Ivy received a\nprincipal diagnosis of a speciﬁc phobia of BII (CSR = 7)\nand comorbid diagnoses of a speciﬁc phobia of dentists\n(CSR = 5) and speciﬁc phobia of dogs (CSR = 4). Ivy\ncompleted a BAT as part of her initial assessment. Con-\nsistent with Louise, the BAT involved Ivy being prepared\nfor a blood test. Ivy was able to complete all steps involved\nin being prepared for a blood test; however, she rated her\nsubjective anxiety at a 7 (on scale ranging from 0 to 8).\nThe therapist completed a functional assessment of Ivy’s\nphobic beliefs. Ivy reported that she worried that the needle\nwould hurt so much that she would prefer to die. She also\nindicated that she was concerned that the health profes-\nsional would inject the wrong medicine into her and that\nthis would kill her. Furthermore, she stated that her gums"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n383"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.11676025390625,
+      106.03594207763672
+    ],
+    "text": "were harder than her arm and therefore a dental injection\nwould hurt considerably more than an injection in the arm.\nShe also reported worrying that if she had blood test she\nwould faint."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360153198242,
+      120.85874938964844,
+      101.5140609741211,
+      130.82135009765625
+    ],
+    "text": "Formulation"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360153198242,
+      145.90525817871094,
+      289.152587890625,
+      554.3529052734375
+    ],
+    "text": "Ivy was reported to have had a number of speciﬁc fears\n(e.g., dogs, butterﬂies) throughout her early childhood. Her\nmother, Rosie, indicated that she herself was afraid of\ninjections for many years; however, she overcame her fear\nfollowing her husband’s accident, which resulted in her\nneeding to give him daily injections. Also, members of\nRosie’s extended family had a history of fainting when\nexposed to blood and injection-related stimuli. Given her\nfamily history and possible anxious temperament, it is\nprobable that Ivy had a biological predisposition to\ndeveloping her own injection phobia (refer Fig. 1). Ivy also\nhad multiple negative learning experiences associated with\ninjections. During her most recent blood test, Ivy experi-\nenced a number of aversive physical symptoms, which may\nhave led to the development of a number of dysfunctional\nbeliefs. Consistent with the proposed CBT model of BII\nphobia in youth, Ivy had exaggerated beliefs regarding the\nseverity of pain, as well as the likelihood of something bad\nhappening (e.g., fainting, dying). Moreover, Ivy underes-\ntimated her ability to cope with needles and injections to\nthe point that she believed death would be preferable to\nenduring the pain. In addition to experiencing fear, Ivy also\nreported experiencing intense disgust associated with\ninjections, and particularly those in the mouth (see Fig. 1).\nIt was hypothesised that disgust concurrently interacted\nwith Ivy’s fear and led to greater avoidance of injection-\nrelated\nstimuli.\nMoreover,\nIvy’s\nfamily\nappeared\nto\naccommodate her avoidance of injections. It was hypoth-\nesised that Ivy’s avoidance and her parent’s accommoda-\ntion of this maintained her fear, as she has been unable to\nacquire corrective evidence that she can tolerate and cope\nwith the pain, disgust, and physiological symptoms asso-\nciated with fainting."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360534667969,
+      569.1949462890625,
+      187.27210998535156,
+      579.1575317382812
+    ],
+    "text": "Modiﬁcations to Standard OST"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360534667969,
+      594.1674194335938,
+      289.1275939941406,
+      716.209228515625
+    ],
+    "text": "Given the challenges described in delivering standard OST\nto Louise and Ivy’s individualised cognitive behavioural\nformulation, a number of modiﬁcations were made to Ivy’s\ntreatment to maximise her outcome. Ivy was provided with\neducation regarding the relationship between pain and fear\nand coping with discomfort. Moreover, she learnt about\narousal and the experience of fainting. Ivy was also given\neducation to normalise her physical response to BII stimuli\nand was taught strategies to assist her to tolerate the\nunpleasant physical symptoms she experienced when"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.140869140625,
+      58.702552795410156,
+      544.2451171875,
+      330.183349609375
+    ],
+    "text": "having an injection or blood test. A more incremental\napproach to exposure was taken with Ivy using a topical\nanaesthetic and dry needling (e.g., acupuncture) prior to\nexposure to blood tests. In addition to fear, when exposed\nto BII stimuli, Ivy responded with disgust and because of\nthis a number of the exposure tasks she completed were\ndesigned to elicit this emotion. To motivate and increase\nIvy’s engagement during the OST, tangible rewards were\nused throughout her session. To enhance compliance with\nexposure practice following OST, an education session and\nan e-therapy maintenance programme were developed and\nincluded as part of Ivy’s treatment. Furthermore, Rosie\ndirectly observed Ivy’s OST session and participated in all\ne-therapy maintenance sessions. It was evident from\nLouise’s treatment that parent involvement would be par-\nticularly necessary for BII phobic youth due to difﬁculties\nin organising post-treatment exposure opportunities, par-\nent’s accommodation of their child’s phobic avoidance,\nand the parent’s own BII fears. The inclusion of the edu-\ncation session also provided another opportunity for the\ntherapist to gain Ivy’s trust. Below is a detailed description\nof Ivy’s modiﬁed treatment approach."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.140869140625,
+      345.0061340332031,
+      454.94818115234375,
+      354.96875
+    ],
+    "text": "Parent and Child Education Session"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.140869140625,
+      369.9958801269531,
+      544.27099609375,
+      653.9489135742188
+    ],
+    "text": "One week prior to their OST session, Ivy and Rosie\nattended a 1-h education session. The session focused on\neducation about the aetiology of BII phobia, the phobic\nresponse (cognitive, physio logical, and behavioural), an\noverview of exposure therapy, the role of parenting prac-\ntices and family accommodation in the maintenance of a\nphobia, parent contingency management training, and a\nrationale for OST. During the session, the therapist worked\nwith Ivy and Rosie to develop an exposure hierarchy (e.g.,\nstarting with videos of people having dental injections and\nprogressing to having a blood test) to help guide the OST.\nThe therapist, Rosie, and Ivy also spent time planning and\npreparing for Ivy’s exposure practice following OST (e.g.,\npurchase syringes from the local chemist, book doctor and\nphysiotherapist appointments). The therapist emphasised to\nthe family that the OST was just a ‘‘kick start’’ and that a\nfear Ivy had for long time would not disappear after one\nsession. The therapist advised the family that the e-therapy\nmaintenance sessions were still an active part of treatment\nand that if Ivy continued to practise exposure tasks regu-\nlarly, with the support of the therapist, over the weeks\nfollowing her OST, she would be able to overcome her\nfear."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.140869140625,
+      668.772705078125,
+      347.19970703125,
+      678.7352905273438
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.140869140625,
+      693.8192749023438,
+      544.2081909179688,
+      716.1972045898438
+    ],
+    "text": "Ivy’s OST involved 3-h graduated exposure in addition to\nthe\nuse\nof\ncognitive\nchallenges,\nmodelling,\nand"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "384\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.023590087890625,
+      58.713600158691406,
+      289.1514587402344,
+      392.44171142578125
+    ],
+    "text": "reinforcement of approach behaviours (see Table 2 for a\nsummary of the session). The ﬁrst hour commenced at the\nGrifﬁth University psychology clinic. Rosie was involved\nthroughout the session observing and also as a model\ndemonstrating particular exposure steps (e.g., having a\nﬁnger prick). The session began with reviewing the psy-\nchoeducation material regarding the phobic response. Ivy\nwas asked to identify the physiological cues she experi-\nenced when having an injection. She was encouraged to be\naware of these cues throughout the session and if she\nnoticed them to try a number of adaptive responses to\nmanage these symptoms (e.g., wiggle her toes, take some\nslow breaths, have a drink, splash water on her face, sit or\nlie with her feet up).\nIvy and Rosie were also provided with education about\npain (e.g., pain cells send a message to the brain) and the\ninteraction between pain, anxiety, and disgust. Throughout\nthe session, a narrative/language associated with pain\nexperiences was used to challenge Ivy’s dysfunctional\nphobic beliefs. The therapist encouraged Ivy to use less\nintense language to describe her pain for example using the\nterms ‘‘hurt’’ and ‘‘discomfort’’ to highlight to Ivy that we\nexperience different levels of discomfort and that the pain\nassociated with an injection is transient and manageable, as\nopposed to a chronic and enduring pain that is associated\nwith considerable suffering. Ivy was taught that anxiety\ntricks you into believing that the pain associated with an"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      306.140869140625,
+      58.707557678222656,
+      544.241943359375,
+      392.4356689453125
+    ],
+    "text": "injection is unbearable; however, in reality pain is part of\nour everyday lives and although it is unpleasant we fre-\nquently tolerate and cope with pain. The concept of an\n‘‘ouch’’ thermometer was introduced to Ivy, to rate her\nlevel of discomfort from (0 to 8). A discussion was had\nwith Ivy and her mother about painful experiences that Ivy\nhad been able to cope with in the past (e.g., spraining her\narm playing hockey, biting her tongue, stubbing her toe and\nfalling off her bike). Ivy was asked to rate the discomfort\nshe experienced during these events on the ouch ther-\nmometer (e.g., spraining her ankle—6/8) and then to\ncompare this to the discomfort associated with having an\ninjection. A behavioural experiment was then carried out\nwhereby Ivy and her mother were both asked to hold ice for\nas long as they could. After 30 s of holding the ice, Ivy\nreported that her hand was hurting (she rated 5/8 on the\nouch thermometer); however, she said she knew she could\nkeep going and persisted with the task for 8 min. Following\nthe task, Ivy was questioned as to how she had been able to\ncope with the discomfort. She was able to reappraise the\npain associated with holding ice and stated ‘‘I felt\nuncomfortable while holding the ice, it hurt, however I\nknew I was not in danger and could handle it’’. Ivy was\ninformed that when someone is anxious it turns up the pain\ndial in their head (e.g., more painful); however, if they stay\ncalm and use calm thoughts it is much easier to cope with\ndiscomfort."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.02360153198242,
+      411.5557861328125,
+      193.01922607421875,
+      420.0953063964844
+    ],
+    "text": "Table 2 Summary of Ivy’s OST session"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.02360534667969,
+      428.0113830566406,
+      544.2428588867188,
+      446.4576721191406
+    ],
+    "text": "OST\nExposure steps\nFear rating pre\nFear rating post\n(0–8)\n(0–8)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.080322265625,
+      456.7550048828125,
+      493.7783203125,
+      465.22320556640625
+    ],
+    "text": "Hour 1\nPsychoeducation regarding coping with pain and disgust\n0\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.78074645996094,
+      469.5106506347656,
+      493.7765808105469,
+      477.9788513183594
+    ],
+    "text": "Exposure task—holding ice cubes\n0\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.78074645996094,
+      482.26629638671875,
+      493.7765808105469,
+      490.7344970703125
+    ],
+    "text": "Watching videos of children receiving dental injections\n3\n1"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.78074645996094,
+      495.0219421386719,
+      222.6290740966797,
+      503.4901428222656
+    ],
+    "text": "Reward = Points on behavioural chart"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.07947540283203,
+      507.7775573730469,
+      493.7774353027344,
+      516.2457275390625
+    ],
+    "text": "Hour 2\nIvy holding a small dry needle\n1\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.7799072265625,
+      520.533203125,
+      493.776611328125,
+      529.0014038085938
+    ],
+    "text": "Watching the therapist and her mother receive a small dry needle\n1\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.7799072265625,
+      533.2888793945312,
+      493.7775573730469,
+      554.4559326171875
+    ],
+    "text": "Ivy (under the supervision of the physiotherapist) tap a small dry needle into her own arm\n3\n0\nPhysiotherapist tap a small dry needle into Ivy’s forearm which had topical anaesthetic on it\n4\n1"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.7799072265625,
+      558.743408203125,
+      493.77752685546875,
+      567.2116088867188
+    ],
+    "text": "Having a small dry needle in her forearm that had no topical anaesthetic\n5\n1"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.7799072265625,
+      571.4990844726562,
+      493.7774963378906,
+      579.96728515625
+    ],
+    "text": "Having a large dry needle in her forearm with topical anaesthetic\n2\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.7799072265625,
+      584.2546997070312,
+      276.4648132324219,
+      592.722900390625
+    ],
+    "text": "Reward = Iced chocolate from university coffee shop"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.078636169433594,
+      597.0103149414062,
+      493.7757568359375,
+      605.478515625
+    ],
+    "text": "Hour 3\nSitting in a dental chair and watching a dental injection video\n3\n1"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      609.7659912109375,
+      493.7741394042969,
+      618.2341918945312
+    ],
+    "text": "Wobbling her loose tooth while sitting in the dental chair\n2\n1"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      622.5216674804688,
+      493.7757873535156,
+      630.9898681640625
+    ],
+    "text": "Watching the therapist have a ﬁnger prick\n0\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      635.2772827148438,
+      493.7757873535156,
+      643.7454833984375
+    ],
+    "text": "Giving the therapist a ﬁnger prick\n0\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      648.0328979492188,
+      493.7757873535156,
+      656.5010986328125
+    ],
+    "text": "Watching the therapist have a blood test\n5\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      660.78857421875,
+      493.7774658203125,
+      669.2567749023438
+    ],
+    "text": "Having a pathology nurse pretend to give her blood test with an uncapped needle\n4\n0"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      673.5442504882812,
+      493.7749328613281,
+      682.012451171875
+    ],
+    "text": "Having a blood test in her arm, which has topical anaesthetic\n7\n2"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      88.77906799316406,
+      686.2998657226562,
+      271.16796875,
+      694.76806640625
+    ],
+    "text": "Reward = $10 Itunes gift card and candy blood bag"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n385"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      51.023765563964844,
+      58.713600158691406,
+      289.1268310546875,
+      703.7918701171875
+    ],
+    "text": "The remaining time during the ﬁrst hour was spent\nwatching dental injection videos aimed at eliciting disgust,\nin order to both normalise the disgust response, as well as\nreduce the intensity of this emotion through exposure.\nVideos were chosen speciﬁcally to elicit Ivy’s disgust (as\nopposed to fear), given that Ivy did not perceive herself to\nbe in imminent danger watching a video. Exposure was\nconducted in the form of behavioural experiments with Ivy\npredicting that she would ﬁnd the videos disgusting and\nthat the child in the video would scream out in pain. Ivy\nwatched the video multiple times, and at the end of the task\nher predictions were reviewed. Ivy reported that she ini-\ntially felt gross while watching the video, but over time she\ngot used to it. She also indicated that the child in the video\ndid not appear to be in pain. The therapist reinforced to Ivy\nthat disgust is another normal emotion that is unpleasant,\nbut that we can cope with it and, like fear, passes with time\nif we stay in the situation and allow ourselves to face it. At\nthe beginning of the session, the therapist introduced the\nconcept of a scoreboard to Ivy for ‘‘braving discomfort and\nfear’’. Ivy received points for braving and coping with\ndiscomfort and fear throughout the session. At the end of\nthe second hour and third hours, Ivy was given rewards for\nachieving a pre-determined number of points.\nThe second hour of Ivy’s OST was conducted at the\nGrifﬁth University Physiotherapy Clinic. During this hour,\na physiotherapist, trained in dry needling, (i.e., acupunc-\nture) gave Ivy multiple dry needles. Dry needling uses very\nﬁne needles of varying sizes and thicknesses providing an\nideal opportunity to graduate exposure to injection needles.\nTo assist with graduating Ivy’s exposure tasks, a topical\nanaesthetic cream was placed on her arm. At the conclu-\nsion of the hour, Ivy was able to have more than 15 dry\nneedles of various sizes initially in her arm with the\nanaesthetic, and then in her non-anesthetised arm. Ivy\ninitially worried that the pain associated with the dry\nneedles would be unbearable. Over the course of the hour,\nhowever, she reappraised the level of discomfort associated\nwith having a dry needling saying to Rosie ‘‘the dry nee-\ndles sting however only for a short time and they do not\nhurt as much as when I broke my ﬁnger at netball, which I\nwas able to cope with’’.\nThe third hour was initially conducted at the Grifﬁth\nUniversity dental clinic and then moved to the medical\ncentre where the therapist and Ivy met with a pathology\nnurse. At the dental clinic, Ivy sat in a dentist chair, looked\nat dental tools, and practised wobbling her teeth for\nextended periods of time. Ivy’s predictions regarding the\nfear and discomfort she would experience when complet-\ning exposure tasks declined during her time at the clinic,\nand she was able to successfully reappraise beliefs related\nto her ability to cope with discomfort and disgust."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      306.14105224609375,
+      58.701576232910156,
+      544.244140625,
+      442.2615966796875
+    ],
+    "text": "Following this, the session progressed to the medical centre\nwhere Ivy watched the therapist have a blood test. While\nwatching the therapist Ivy became very pale and reported\nfeeling nauseous. The therapist encouraged Ivy to take\nsome slow breaths. She then had her sit in a chair with her\nfeet up and fan her face to cool herself down. Ivy stated\nthat she was worried she would faint. The therapist used\nthis opportunity to conduct some challenges of her phobic\nbeliefs—What are the chances you will faint? How bad\nwould it be? If you did faint would you be able to cope\nwith that? Ivy was encouraged to use cognitive challenges,\nsuch as ‘‘I feel icky but I am ok—the feelings will pass’’\nand ‘‘this is just a trick—I am not in danger’’. Once the\ncolour had returned to Ivy’s face, the exposure task was\ncontinued with the therapist having a second blood test. Ivy\nsaid she felt ‘‘yucky’’ but she was not in danger watching\nsomeone have a blood test and the feelings passed.\nTowards the end of the session, Ivy was able to have a\nblood test in her arm that had a topical anaesthetic on it.\nShe did not cry and was not restrained at all. Following the\nblood test, she reported her actual pain level to be signif-\nicantly lower than she had anticipated. She reported that\nthe injection had hurt a little; however, she was able to\ncope with the pain. At the end of the session, Ivy’s progress\nwas reviewed and the family was reminded that the session\nwas a ‘‘kick start’’ in overcoming her fear. A time was\nscheduled to provide Ivy with e-therapy maintenance ses-\nsions to assist the family with ongoing exposure practice,\nproblem solve any obstacles to exposure and provide\nongoing motivation and reinforcement to both Ivy and her\nmother."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      306.14105224609375,
+      468.4237976074219,
+      397.6405029296875,
+      478.38641357421875
+    ],
+    "text": "Maintenance Program"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      306.14105224609375,
+      493.41455078125,
+      544.2491455078125,
+      702.6480712890625
+    ],
+    "text": "Following Ivy’s OST, the clinician contacted Ivy and Rosie\nonce a week for a 30-min e-therapy session (delivered over\nSkype) for 4 weeks. During the sessions, the therapist\nreviewed Ivy’s progress, completed a brief exposure task,\nand then helped plan Ivy’s exposure practice for the fol-\nlowing week. Exposure tasks completed by Ivy over the\ncourse of the 4 weeks included visiting an acupuncturist,\nwobbling her loose tooth, visiting a dentist and sitting in\nthe chair, having her teeth cleaned by the dentist, giving\nher mother a ﬁnger prick and having her own ﬁnger prick.\nIn addition to her injection-related fears, Ivy and her\nmother were encouraged to apply the skills they had learnt\nto her fear of dogs. Ivy and her mother developed their own\nexposure exercises with the therapist’s assistance and vis-\nited a friend’s house that owned dog and went walking in a\ndog park. Rosie regularly rewarded Ivy (e.g., ice cream,\nfriend sleep over) for practising her exposure tasks."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "386\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      51.02360153198242,
+      58.32792663574219,
+      227.43629455566406,
+      68.29052734375
+    ],
+    "text": "Post-Treatment and Follow-Up Assessment"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      51.02360153198242,
+      83.37442779541016,
+      289.0986633300781,
+      230.3038330078125
+    ],
+    "text": "A post-assessment was carried out 1 week after Ivy’s OST\nsession. On the basis of the ADIS-IV-P/C, Ivy continued to\nmeet criteria for BII phobia; however, the severity of her\nphobia (CSR = 4) had reduced signiﬁcantly. Although she\ncontinued to meet criteria for a dental phobia (CSR = 4),\nher dog phobia diagnosis was now considered subclinical\n(CSR = 3). At 1-month follow-up, Ivy did not meet cri-\nteria for any diagnosis on the ADIS-IV P/C. On the BAT\ntask (administered at 1-month follow-up), Ivy was able to\nbe prepared for a blood test and reported minimal levels of\ndistress completing the task (1 on a scale ranging from 0 to\n8)."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      51.02360153198242,
+      256.857177734375,
+      192.11630249023438,
+      267.816162109375
+    ],
+    "text": "Modiﬁed OST for BII Phobia"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      51.02360153198242,
+      282.59381103515625,
+      289.13262939453125,
+      703.5136108398438
+    ],
+    "text": "The aforementioned case studies highlight some of the\nunique challenges associated with treating BII phobia in\nchildren and adolescents. BII phobia has a highly hetero-\ngeneous\npresentation\nin\nyouth.\nA\nformulation-driven\napproach is essential to the delivery of an effective treat-\nment for these children and adolescents. The following is a\nsummary of key maintaining mechanisms (see Fig. 1) that\nneed to be considered when treating these youth and a\ndiscussion of possible modiﬁcations to a traditional OST\napproach to augment treatment outcome. Speciﬁcally, our\ntreatment approach includes modiﬁcations to address\n(a) pain, (b) disgust, (c) the physical symptoms associated\nwith BII (e.g., fainting and vomiting), (d) parent involve-\nment in treatment, and (e) maintenance of treatment gains\n(Table 3).\nA key treatment consideration for BII phobic youth is\naddressing the role of pain in the maintenance of their fear.\nPrevious research with adults has found that BII and dental\nfearful individuals have a tendency to exaggerate or over-\nestimate pain and have a lower perceived ability to tolerate\nphysical pain and discomfort (Arntz et al. 1990; Severeijns\net al. 2001; Smith and Meuret 2012). For children who\nreport catastrophic cognitions and phobic beliefs associated\nwith pain, it is suggested that their psychoeducation focus\non the interaction between pain and fear. Addressing\nphobic beliefs associated with pain occurs through educa-\ntion about the experience of pain (e.g., pain cells) and by\nchanging the language children and parents use to describe\npain; the use of an ouch thermometer demonstrates to\nyouth the various intensities of discomfort a person may\nexperience from slight discomfort to extreme discomfort;\nbehavioural\nexperiments\ntest\nexaggerated\ndanger\nexpectancies (probability and severity) related to pain and\ndiscomfort, as well as coping estimates; and explicitly"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      306.14190673828125,
+      58.706214904785156,
+      544.2520751953125,
+      703.7844848632812
+    ],
+    "text": "having children reappraise their phobic beliefs using\nknowledge obtained via adaptive learning experiences.\nO¨ st et al. (1997), in their description of OST for adults\nwith injection phobias, report that their patients had been\nable to have multiple ﬁnger pricks, saline injections, and\nmultiple blood draws by the end of the session. From the\nabove case studies, it is evident that the pace of exposure\nfor BII phobic children is signiﬁcantly slower. To address\nthis dry needling (i.e., acupuncture) and a topical anaes-\nthetic are recommended as intermediate exposure steps\nprior to the ﬁnger pricks and blood tests. Dry needles do\nnot look like traditional needles as they are smaller, ﬁner,\nand are not attached to a syringe. Children may be more\nwilling to attempt this during exposure. These transitional\nexposure steps give children the opportunity to have a\ncorrective learning experience. They learn they can cope\nwith discomfort and once children have had one needle\nthey are often more willing and open to engaging in other\nexposure tasks. Moreover, after initially attempting expo-\nsure tasks on their arm with the topical anaesthetic, chil-\ndren are encouraged to then attempt needles in their arm\nwithout anaesthetic with the goal to ultimately phase out\nthe use of the anaesthetic.\nFurthermore, the use of a reward system during the OST\nsession is considered integral in engaging children and\nkeeping them motivated. With Ivy a scoreboard was used,\nreceiving points for braving her discomfort and fear. Points\nare awarded throughout the session, and at the end of the\nsecond hour and third hour, rewards are presented for\nachieving a pre-determined number of points. Hence,\ncontrary to traditional OST, tangible rewards may be\nnecessary to encourage youth who appear to be more dif-\nﬁcult to engage in exposure therapy. Similarly, Rudy and\nDavis III (2012) recommend the use of tangible rewards\nduring OST for special populations, such as children with\nAutistic Spectrum Disorders or Intellectual disability, who\nare more likely to have low motivation. During the edu-\ncation session, contingency management strategies are also\nintroduced to parents and a rewards programme set up at\nhome to keep children motivated to continue exposure\npractice following treatment.\nMany BII phobic youth report previous experiences of\nbeing restrained or forced to have an injection and hence\nthey often have limited trust of their therapist and the other\nclinicians involved in their treatment. This serves to further\nheighten their anxiety during the OST session. For youth\nwho have comorbid chronic illnesses and BII phobia, this\nmay particularly be the case if they have required life-\nsaving treatments. When conducting exposure it is impor-\ntant that the child feels in control of the session. Children\nshould never be forced to have an injection during the\nsession. Wherever possible it is helpful to give the child a"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n387"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.022613525390625,
+      610.2333374023438,
+      289.1186828613281,
+      707.4329833984375
+    ],
+    "text": "choice so that they feel more in control (e.g., Would you\nlike the nurse to give you a ﬁnger prick or would you prefer\nto give one to yourself? or Would you like the physiother-\napist to tap in your dry needle or would you like the\nphysiotherapist to set it up in the right position and then\nyou tap it yourself?). It is also important when discussing\nthe rationale for treatment to emphasise to the child that\nthey will be in charge of how the session progresses."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      306.139892578125,
+      610.3335571289062,
+      544.2181396484375,
+      707.4310302734375
+    ],
+    "text": "Additionally, if a child was becoming overwhelmed or\nﬁnding an exposure task to difﬁcult the therapist can have\nthe child take a step back and complete an easier exposure\ntask in some circumstances. For example, when a child was\nattempting a ﬁnger prick, the therapist may leave the room\nfor a short period and allow the child to attempt the task\nwithout the pressure of therapist, parent, or other health\nprofessionals observing."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.02360153198242,
+      60.22986602783203,
+      354.67547607421875,
+      68.76937866210938
+    ],
+    "text": "Table 3 Suggested adaptations to treatment for BII phobia in children and adolescents"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.02360534667969,
+      76.68545532226562,
+      466.9452819824219,
+      95.13174438476562
+    ],
+    "text": "Characteristic of BII\nphobia\nMechanisms proposed in CBT formulation\nAdaptation for formulation-driven OST"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.08033752441406,
+      105.42904663085938,
+      206.96885681152344,
+      113.89724731445312
+    ],
+    "text": "Pain\nPain sensitivity"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20437622070312,
+      118.18472290039062,
+      252.421875,
+      126.65292358398438
+    ],
+    "text": "Direct/classical conditioning"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20437622070312,
+      130.94039916992188,
+      238.67210388183594,
+      139.40859985351562
+    ],
+    "text": "Overestimation of threat"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20437622070312,
+      143.69607543945312,
+      246.6415252685547,
+      152.16427612304688
+    ],
+    "text": "Underestimation of coping"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20437622070312,
+      156.45175170898438,
+      190.9563446044922,
+      164.91995239257812
+    ],
+    "text": "Avoidance"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2353820800781,
+      105.42831420898438,
+      544.2224731445312,
+      123.87460327148438
+    ],
+    "text": "Psychoeducation regarding the role of pain and practice coping\nwith discomfort"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2353820800781,
+      128.16207885742188,
+      544.241943359375,
+      146.55160522460938
+    ],
+    "text": "Exposure to discomfort/pain (i.e., holding ice, pulling off band\naids, pulling out a piece of hair)"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2353820800781,
+      150.83908081054688,
+      527.0820922851562,
+      179.26345825195312
+    ],
+    "text": "Reappraisals about expectancies of pain (probability and\nseverity) and estimates of coping—using an ‘‘ouch!\nThermometer’’"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2353820800781,
+      183.55093383789062,
+      544.2342529296875,
+      201.94046020507812
+    ],
+    "text": "Exposure tasks: Dry needling (e.g., acupuncture), ﬁnger pricks,\nuse of topical anaesthetic for blood test"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.080352783203125,
+      206.22793579101562,
+      217.74041748046875,
+      214.69613647460938
+    ],
+    "text": "Disgust\nDisgust sensitivity"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20440673828125,
+      218.98361206054688,
+      227.11219787597656,
+      227.45181274414062
+    ],
+    "text": "Appraisals of disgust"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20440673828125,
+      231.73928833007812,
+      284.7077941894531,
+      240.20748901367188
+    ],
+    "text": "Physiological symptoms (e.g. nausea)"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20440673828125,
+      244.49496459960938,
+      190.9563751220703,
+      252.96316528320312
+    ],
+    "text": "Avoidance"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23541259765625,
+      206.22714233398438,
+      485.40594482421875,
+      214.69534301757812
+    ],
+    "text": "Psychoeducation regarding tolerating disgust"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23541259765625,
+      218.98281860351562,
+      439.4506530761719,
+      227.45101928710938
+    ],
+    "text": "Disgust evoking exposure tasks"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23541259765625,
+      231.73849487304688,
+      521.2991943359375,
+      250.18478393554688
+    ],
+    "text": "Reappraisal of expectancies of disgust (probability and\nseverity) and estimates of coping"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.08038330078125,
+      257.2506408691406,
+      238.67213439941406,
+      265.7188415527344
+    ],
+    "text": "Physiological symptoms\nOverestimation of threat"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20443725585938,
+      270.0063171386719,
+      246.64158630371094,
+      278.4745178222656
+    ],
+    "text": "Underestimation of coping"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20443725585938,
+      282.761962890625,
+      321.68505859375,
+      311.1296081542969
+    ],
+    "text": "Negatively reinforced avoidance behaviour\nthrough reduced symptoms of faintness, nausea\nand embarrassment"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23626708984375,
+      257.2507019042969,
+      452.38079833984375,
+      265.7189025878906
+    ],
+    "text": "Psychoeducation regarding fainting"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23626708984375,
+      270.0063781738281,
+      544.2158203125,
+      298.3740234375
+    ],
+    "text": "Encouraging the use of adaptive strategies to cope with\nphysical symptoms—e.g., lie down, drink cool water, wiggle\ntoes etc."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23626708984375,
+      302.6614685058594,
+      536.4572143554688,
+      331.0858459472656
+    ],
+    "text": "Reappraisals about expectancies associated with unpleasant\nphysiological symptoms (probability and severity) and\nestimates of coping"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.08123779296875,
+      335.373291015625,
+      232.92140197753906,
+      343.84149169921875
+    ],
+    "text": "Parent BII-related fears\nVicarious conditioning"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20529174804688,
+      348.1289367675781,
+      273.5247497558594,
+      356.5971374511719
+    ],
+    "text": "Negative information transmission"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20529174804688,
+      360.88458251953125,
+      236.62796020507812,
+      369.352783203125
+    ],
+    "text": "Parent psychopathology"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20529174804688,
+      373.6402282714844,
+      277.7537536621094,
+      392.02978515625
+    ],
+    "text": "Parenting practices such as positive\nreinforcement of avoidance"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23712158203125,
+      335.3724365234375,
+      540.1766357421875,
+      376.4957275390625
+    ],
+    "text": "Parent education session prior to OST—contingency\nmanagement training\nObservation of the therapist modelling how to manage child\nanxiety"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23712158203125,
+      380.7831726074219,
+      499.6173095703125,
+      389.2513732910156
+    ],
+    "text": "Involvement in ongoing maintenance—e-therapy"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.082061767578125,
+      396.3172302246094,
+      390.1318359375,
+      414.7635192871094
+    ],
+    "text": "Lack of motivation\nParenting practices such as lack of positive\nreinforcement for approach behaviours\nTangible rewards"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2379455566406,
+      409.0728759765625,
+      494.485595703125,
+      417.54107666015625
+    ],
+    "text": "Contingency management training with parents"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.0828857421875,
+      421.8285217285156,
+      308.1841735839844,
+      440.2748107910156
+    ],
+    "text": "Difﬁculties maintaining\ntreatment gains\nParenting practices—familial and contextual\nobstacles to homework compliance"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20777893066406,
+      444.562255859375,
+      190.95974731445312,
+      453.03045654296875
+    ],
+    "text": "Avoidance"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.23876953125,
+      421.8285217285156,
+      521.528564453125,
+      440.2748107910156
+    ],
+    "text": "Education session—discuss preparing for exposure and\nhomework"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.083740234375,
+      444.562255859375,
+      532.2188110351562,
+      495.66363525390625
+    ],
+    "text": "E-therapy maintenance program/phone calls over 1 month\nfollowing OST\nLack of perceived control/\nlack of trust for health\nprofessionals"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20863342285156,
+      467.2392883300781,
+      252.4261474609375,
+      475.7074890136719
+    ],
+    "text": "Direct/classical conditioning"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20863342285156,
+      479.99493408203125,
+      238.6763458251953,
+      488.463134765625
+    ],
+    "text": "Overestimation of threat"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      154.20863342285156,
+      492.7505798339844,
+      246.6457977294922,
+      501.2187805175781
+    ],
+    "text": "Underestimation of coping"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2396240234375,
+      467.2384338378906,
+      544.2353515625,
+      485.6847229003906
+    ],
+    "text": "Additional time spent with the child during education session\nbuilding rapport"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2396240234375,
+      489.97216796875,
+      401.7535705566406,
+      498.44036865234375
+    ],
+    "text": "Slow pacing of OST"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2396240234375,
+      502.7278137207031,
+      537.6520385742188,
+      521.174072265625
+    ],
+    "text": "Child-led exposure tasks with child choosing next exposure\nstep"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      330.2396240234375,
+      525.4614868164062,
+      540.9927978515625,
+      573.7852783203125
+    ],
+    "text": "Reappraisal of cognitive biases associated with health\nprofessionals being untrustworthy (e.g., It is the priority of\nhealth professionals to keep us safe and well. This may\ninvolve procedures that make us uncomfortable, but are\nintended to keep us safe and well)"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "388\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      51.023765563964844,
+      58.713600158691406,
+      289.1349182128906,
+      716.207275390625
+    ],
+    "text": "Another unique challenge associated with BII phobia\nand which needs to be considered when delivering treat-\nment to youth with BII is the role of disgust in the\naetiology and maintenance of the disorder. Louise and Ivy\nreported that they found BII-related stimuli disgusting.\nWith Ivy, disgust was introduced when explaining to the\nfamily the phobic response (cognitive, physiological and\nbehavioural) during the education session. In the ﬁrst hour\nof OST, children can be taught that disgust like pain and\nanxiety is another normal feeling that we can learn to\ntolerate. A distinction is made between fear that occurs in\nresponse to danger, versus anxiety or disgust that occurs\nin response to something that is not dangerous. Children\nare educated that they need to learn to turn the dial down\non anxiety and disgust because they do not have to avoid\nstimuli, which is not dangerous. Moreover, in accordance\nwith the suggestion by Olantunji et al. (2007a, b), it is\nrecommended that the therapist complete disgust evoking\nexposure tasks with the child similar to those used with\nIvy in order to assist in habituation of disgust as well as\nthe development of adaptive and modest appraisals of\ndisgust. For example, the therapist could squeeze their\nﬁnger after having a ﬁnger prick so that blood ﬂows or\ndrips from it or the therapist and child could look at\npictures of infected wounds. Targeting disgust is proposed\nto lead to enhanced treatment outcome; however, further\nresearch is needed to clearly establish this with BII\nphobic youth.\nAn important feature distinguishing BII phobia from all\nother phobia types is its unique physiological response. In\nthe cases reviewed, Ivy had a history of fainting when\nconfronted with her phobic stimuli, which is a common\nfeature of BII. Applied tension, a coping technique that is\nimplemented during exposure to BII stimuli with adults,\nwas developed to counteract the unique vasovagal fainting\nresponse experienced by individuals with BII phobia.\nHowever, in a recent review, Ayala et al. (2009) concluded\nthat the ﬁndings in relation to the superiority of applied\ntension above and beyond exposure alone were mixed, with\nlittle compelling evidence for the need of applied tension.\nHence, exposure alone was used to treat Ivy. For BII\nphobic children who faint or vomit, it is recommended that\nthe OST commence by normalising this physiological\nresponse and educating children about the evolutionary\npurpose of fainting/vomiting when exposed to blood\n(Antony and Watling 2006). The child is encouraged\nthroughout the session to be aware of their bodily cues and\nif they notice that they are starting to feel faint they are\nreminded to stay calm and to use adaptive strategies (e.g.,\nlie down, drink cool water, wiggle toes) to manage these\nnormal symptoms, which do not present any danger or risk.\nOnce they begin to feel better, children should continue\nwith exposure as planned."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      306.1410827636719,
+      58.700599670410156,
+      544.2493286132812,
+      716.1942749023438
+    ],
+    "text": "The case studies presented also highlight a number of\nparent-related issues that may interfere with maintenance\nof children’s treatment gains following OST. As was evi-\ndent in both cases, parents reported that they too were\nfearful of BII-related stimuli and Ivy had a family history\nof fainting. If parents are phobic themselves, they may\navoid assisting their child with exposure tasks and model\nanxious behaviours when interacting with BII stimuli. An\nintegral part of Ivy’s treatment was the education session\nduring which her mother was provided with information\nregarding the aetiology of phobias (e.g., heredity, learning\npathways) and strategies to facilitate Ivy’s exposure such\nas being aware of verbal messages and modelling. More-\nover, having parents actively involved in their child’s OST\nis also important as it gives them an opportunity to vicar-\niously expose themselves to BII stimuli. Parents of children\nwith phobias often facilitate their child’s avoidance of\nphobia-related objects and situations (Milliner et al. 2013)\nand thus inadvertently reinforce their anxious behaviour.\nIncluding the education session in addition to OST pro-\nvides an opportunity to teach parents contingency man-\nagement strategies such as using attention and rewards to\nreinforce approach behaviours. Having parents involved\nthroughout the session also gives them an opportunity to\nobserve the therapist respond appropriately to their child’s\nanxious behaviour.\nRelative to other phobia types, such as dog or dark pho-\nbias, organising exposure practice for BII phobia takes sig-\nniﬁcantly more time and active planning. Families may need\nto schedule doctor’s appointments for vaccinations, take\ntheir child to see physiotherapists for dry needling or book\ninto the dentist, arranging these appointments, and paying for\nhealth professional services places considerable burden on\nthe family. This is an important treatment consideration\nwhen working with BII phobic youth. The inclusion of an\neducation session provides an opportunity to spend more\ntime socialising the child and their family to OST approach.\nIt needs to be emphasised to families that OST is a kick start\nand that continued exposure practice is essential for the\nmonth following treatment if the child is to overcome their\nphobia. Moreover, the session helps parents plan for future\nexposure practice with the therapist discussing with them\nmedical supplies that they may need to purchase (e.g., ﬁnger\npricks from the chemist) and health practitioners (e.g., doctor\nor physiotherapist or pathology nurse) that they made need to\nschedule appointments with. To maximise treatment out-\ncomes, Ivy and her family completed 4 9 30 min e-therapy\nsessions to assist them with problem-solving difﬁculties\nassociated with exposure and also to keep them motivated\nand engaged with practicing. These sessions were integral to\nthe continued gains she made. Families should be advised\nthat these maintenance sessions are still an active treatment\ncomponent and integral for long-term treatment success."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n389"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      51.02360153198242,
+      58.713600158691406,
+      289.1346130371094,
+      616.6002197265625
+    ],
+    "text": "E-therapy sessions placed a lesser burden on Ivy’s family in\nterms of the time needed to drive to appointments in the\nclinic and are more cost-effective which is consistent with\nthe OST approach. While ﬁndings relating to the beneﬁt of\nparent involvement in the treatment of anxious and phobic\nyouth are mixed (Ollendick et al. 2015), it is suggested that\nfor BII phobia, given the potentially higher levels of parent\nBII-related fears and the challenges associated with planning\nand organising exposure practice following OST, a modiﬁed\napproach which includes enhanced parental involvement\nmay be of greater beneﬁt these youth. Future research is\nneeded to establish whether this is indeed correct.\nIt is evident from the above case illustrations that con-\nsiderable preparation is required before engaging in OST\nfor BII phobia. A signiﬁcant amount of time was spent\nensuring that the therapist had the appropriate materials\nand stimuli for exposure. Coordinating families, health\nprofessionals, and being able to access medical rooms was\nalso time-consuming. Prior to the treatment sessions, the\ntherapist needed to ﬁnd appropriate health professionals to\nbe involved in the treatment and to train these professionals\nregarding their role in the session and how to appropriately\ninteract with phobic youth. Given that during the session\nthe child and therapist would be exposed to blood, and\nother bodily ﬂuids, and be interacting with needles, it was\nimportant for them to consider the safety and ethical issues,\nwhich may arise when conducting exposure. This is also\nimportant when considering fainting or vomiting. The\ntherapist needs to ensure that children will be safe (e.g.,\nmaking sure the child will not hit their head if they faint or\nthere is a sick bucket available, and having a cool sugary\ndrink ready). Additionally, therapists need to prepare\nthemselves for OST (Reuterskiold and O¨ st 2012) by\nseeking supervision if necessary, researching the child’s\nphobic stimuli for psychoeducation (e.g., Why is blood\nred? Because of the protein haemoglobin) and practicing\ninteracting with the child’s phobic stimulus (e.g., have dry\nneedling). The therapist involved in the case illustrations\nhad multiple dry needles, ﬁnger pricks, and blood tests\neach session. It was important for the therapist to be able to\ncalmly model having these medical procedures. Moreover,\nthe therapist needed to be able to cope when the unex-\npected occurred. For example, if the pathology nurse had to\ninsert the needle multiple times in order to ﬁnd a vein, the\ntherapist had to demonstrate how to handle this."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      51.02360153198242,
+      643.16259765625,
+      190.7333221435547,
+      654.12158203125
+    ],
+    "text": "Conclusions and Implications"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      51.02360153198242,
+      668.8992309570312,
+      289.13067626953125,
+      716.2215576171875
+    ],
+    "text": "The efﬁcacy of CBT treatments for BII phobic youth is\ncurrently unknown. The outcomes of large RCT for chil-\ndren with speciﬁc phobia have generally led to conclusions\nthat BII represents a more difﬁcult phobia to treat and they"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      306.140869140625,
+      58.714881896972656,
+      544.2488403320312,
+      355.083251953125
+    ],
+    "text": "have been largely excluded from participation. Further,\nresearch examining BII phobia in youth is necessary to\ndetermine whether the proposed developmental model\naccurately describes these children and adolescents. Sev-\neral assumptions, derived from the adult literature, have\nbeen included in the model, and these assumptions need to\nbe empirically assessed in order to provide a develop-\nmentally sensitive conceptualisation. The aforementioned\ncase studies describe an individualised approach to OST,\nbased upon our proposed CBT model that addresses many\nof the unique characteristics associated with the clinical\npresentation of BII phobic youth. The development of a\ncost-effective and efﬁcient treatment approach that delivers\nrapid reductions in fear is essential for BII phobia, given\nthat for many children (e.g., those with medical condi-\ntions), this debilitating fear may lead to accessing less than\noptimal healthcare and could result in long-term health\nconsequences. It is evident that BII phobia has a highly\nheterogeneous presentation in youth. Because of this, the\nunderlying mechanisms maintaining each child’s phobia\nmay vary considerably and hence children may respond\ndifferently to different treatments. An individualised and\nformulation informed approach to delivering OST is\ntherefore recommended."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      306.1416931152344,
+      366.5415954589844,
+      436.8873291015625,
+      375.0097961425781
+    ],
+    "text": "Compliance with Ethical Standards"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      306.1416931152344,
+      386.83734130859375,
+      544.2183837890625,
+      405.3549499511719
+    ],
+    "text": "Conﬂict of interest\nThe authors have no potential conﬂicts of\ninterest to disclose."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      306.1416931152344,
+      433.6257019042969,
+      357.3202819824219,
+      444.5846862792969
+    ],
+    "text": "References"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      306.14007568359375,
+      457.97174072265625,
+      544.2708740234375,
+      715.5816040039062
+    ],
+    "text": "American Psychiatric Association (APA). (2013). Diagnostic and\nstatistical manual of mental disorders, 5th edition (DSM-5).\nWashington, DC: American Psychiatric Association Task Force.\nAntony, M. M., Brown, T. A., & Barlow, D. H. (1997). Heterogeneity\namong speciﬁc phobia types in DSM-IV. Behaviour Research\nand Therapy, 35(12), 1089–1100.\nAntony, M. M., & Watling, M. A. (2006). Overcoming medical\nphobias: How to conquer fear of blood, needles, doctors, and\ndentists. Oakland, CA: New Harbinger Publications.\nArmstrong, T., Hemminger, A., & Olatunji, B. O. (2013). Attentional\nbias in injection phobia: Overt components, time course, and\nrelation to behavior. Behaviour Research and Therapy, 51(6),\n266–273. doi:10.1016/j.brat.2013.02.008.\nArntz, A., van Eck, M., & Heijmans, M. (1990). Predictions of dental\npain: the fear of any expected evil, is worse than the evil itself.\nBehaviour Research and Therapy, 28(1), 29–41.\nAyala, E. S., Meuret, A. E., & Ritz, T. (2009). Treatments for blood-\ninjury-injection phobia: A critical review of current evidence.\nJournal of Psychiatric Research, 43(15), 1235–1242. doi:10.\n1016/j.jpsychires.2009.04.008.\nBar-Haim, Y., Lamy, D., Pergamin, L., Bakermans-Kranenburg, M.\nJ., & Van Ijzendoorn, M. H. (2007). Threat-related attentional\nbias in anxious and nonanxious individuals: A meta-analytic\nstudy. Psychological Bulletin, 133(1), 1.\nBarlow, D. H. (2004). Anxiety and its disorders: The nature and\ntreatment of anxiety and panic. New York: Guilford press."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "390\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      51.02098083496094,
+      58.600433349609375,
+      289.1552734375,
+      714.6155395507812
+    ],
+    "text": "Biederman, J., Rosenbaum, J. F., Bolduc-Murphy, E. A., Faraone, S.\nV., Chaloff, J., Hirshfeld, D. R., & Kagan, J. (1993). A 3-year\nfollow-up of children with and without behavioral inhibition.\nJournal of the American Academy of Child and Adolescent\nPsychiatry, 32(4), 814–821. doi:10.1097/00004583-199307000-\n00016.\nBiederman, J., Rosenbaum, J. F., Hirshfeld, D. R., Faraone, S. V.,\nBolduc, E. A., Gersten, M., et al. (1990). Psychiatric correlates\nof behavioral inhibition in young children of parents with and\nwithout psychiatric disorders. Archives of General Psychiatry,\n47(1), 21–26.\nBienvenu, O. J., & Eaton, W. W. (1998). The epidemiology of blood–\ninjection–injuryphobia. Psychological Medicine, 28(05), 1129–1136.\nBo¨gels, S. M., & Brechman-Toussaint, M. L. (2006). Family issues in\nchild anxiety: Attachment, family functioning, parental rearing\nand beliefs. Clinical Psychology Review, 26(7), 834–856. doi:10.\n1016/j.cpr.2005.08.001.\nBreinholst, S., Esbjørn, B. H., Reinholdt-Dunne, M. L., & Stallard, P.\n(2012). CBT for the treatment of child anxiety disorders: A\nreview of why parental involvement has not enhanced outcomes.\nJournal of Anxiety Disorders, 26(3), 416–424. doi:10.1016/j.\njanxdis.2011.12.014.\nBurstein, M., Georgiades, K., He, J.-P., Schmitz, A., Feig, E.,\nKhazanov, G. K., & Merikangas, K. (2012). Speciﬁc phobia\namong US adolescents: Phenomenology and typology. Depres-\nsion and Anxiety,. doi:10.1002/da.22008.\nByrne, S. P., Rapee, R. M., Malhi, G., Sweller, N., & Hudson, J.\n(2014). An examination of harm beliefs in children with dog\nphobia. Thesis Submitted as part of a Doctor of Philosophy,\nMacquarie University.\nCaseras, X., Giampietro, V., Lamas, A., Brammer, M., Vilarroya, O.,\nCarmona, S., et al. (2010). The functional neuroanatomy of\nblood–injection–injury phobia: A comparison with spider pho-\nbics and healthy controls. Psychological Medicine, 40(1),\n125–134. doi:10.1017/s0033291709005972.\nChambless, D. L., Baker, M. J., Baucom, D. H., Beutler, L. E.,\nCalhoun, K. S., Crits-Christoph, P., et al. (1998). Update on\nempirically validated therapies, II. Clinical Psychologist, 51(1),\n3–16.\nChambless, D. L., & Ollendick, T. H. (2001). Empirically supported\npsychological interventions: Controversies and evidence. Annual\nReview of Psychology, 52(1), 685–716. doi:10.1146/annurev.\npsych.52.1.685.\nCisler, J. M., & Koster, E. H. W. (2010). Mechanisms of attentional\nbiases towards threat in the anxiety disorders: An integrative\nreview. Clinical Psychology Review, 30(2), 203. doi:10.1016/j.\ncpr.2009.11.003.\nConnolly, J., Hallam, R. S., & Marks, I. M. (1976). Selective\nassociation of fainting with blood-injury-illness fear. Behavior\nTherapy, 7(1), 8–13. doi:10.1016/s0005-7894(76)80214-6.\nCowart, M. J. W., & Ollendick, T. H. (2013). Speciﬁc Phobias. In C.\nA. Essau & T. H. Ollendick (Eds.), The treatment of childhood\nand adolescent anxiety (pp. 353–368). West Sussex: Wiley.\nDadds, M. R., Barrett, P. M., Rapee, R. M., & Ryan, S. (1996).\nFamily process and child anxiety and aggression: An observa-\ntional analysis. Journal of Abnormal Child Psychology, 24(6),\n715–734. doi:10.1007/bf01664736.\nDavis, T. E, I. I. I., Ollendick, T. H., Reuther, E. T., & Muson, M. S.\n(2012). One-session treatment: Principles and procedures with\nchildren and adolescents. In T. E. Davis III, T. H. Ollendick, &\nL. G. O¨ st (Eds.), Intensive one-session treatment of speciﬁc\nphobias (pp. 19–42). New York: Springer.\nde Jong, P. J., & Merckelbach, H. (1998). Blood–injection–injury\nphobia and fear of spiders: Domain speciﬁc individual differences\nin disgust sensitivity. Personality and Individual Differences,\n24(2), 153–158. doi:10.1016/S0191-8869(97)00178-5."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      306.13519287109375,
+      58.602813720703125,
+      544.2761840820312,
+      714.6163330078125
+    ],
+    "text": "de Jong, P. J., & Muris, P. (2002). Spider phobia: Interaction of\ndisgust and perceived likelihood of involuntary physical contact.\nJournal of Anxiety Disorders, 16(1), 51–65. doi:10.1016/S0887-\n6185(01)00089-5.\nde Jongh, A., Muris, P., Schoenmakers, N., & Horst, G. T. (1995).\nNegative cognitions of dental phobics: Reliability and validity of\nthe Dental Cognitions Questionnaire. Behaviour Research and\nTherapy, 33(5), 507–515. doi:10.1016/0005-7967(94)00081-T.\nDel Casale, A., Ferracuti, S., Rapinesi, C., Serata, D., Piccirilli, M.,\nSavoja, V., et al. (2012). Functional neuroimaging in speciﬁc\nphobia. Psychiatry Research: Neuroimaging, 202(3), 181–197.\nEssau, C. A., Conradt, J., & Petermann, F. (2000). Frequency,\ncomorbidity, and psychosocial impairment of speciﬁc phobia in\nadolescents. Journal of Clinical Child Psychology, 29(2),\n221–231. doi:10.1207/S15374424jccp2902_8.\nFarrell, L. J., Waters, A. M., Milliner, E. L., Zimmer-Gembeck, M.,\nMcConnell, H., Tiralongo, E. et al. (2013). D-Cycloserine\naugmented one session treatment of pediatric speciﬁc phobia.\nPaper presented at the 7th World Congress of Behavioural and\nCognitive Therapies, Lima, Peru.\nFlatt, N., & King, N. J. (2010). Brief psycho-social interventions in\nthe treatment of speciﬁc childhood phobias: A controlled trial\nand a 1-year follow-up. Behaviour Change, 27(3), 130–153.\ndoi:10.1375/bech.27.3.130.\nFox, E., Russo, R., Bowles, R., & Dutton, K. (2001). Do threatening\nstimuli draw or hold visual attention in subclinical anxiety?\nJournal of Experimental Psychology: General, 130(4), 681–700.\ndoi:10.1037/0096-3445.130.4.681.\nFredrikson, M., Annas, P., & Wik, G. (1997). Parental history,\naversive exposure and the development of snake and spider\nphobia in women. Behaviour Research and Therapy, 35(1),\n23–28. doi:10.1016/s0005-7967(96)00076-9.\nFyer, A. J., Mannuzza, S., Chapman, T. F., Martin, L. Y., & Klein, D.\nF. (1995). Speciﬁcity in familial aggregation of phobic disorders.\nArchives of General Psychiatry, 52(7), 564–573.\nFyer, A. J., Mannuzza, S., Gallops, M. S., Martin, L. Y., Aaronson,\nC., Gorman, J., et al. (1990). Familial transmission of simple\nphobias and fears: A preliminary report. Archives of General\nPsychiatry, 47(3), 252–256. doi:10.1001/archpsyc.1990.018101\n50052009.\nGar, N. S., & Hudson, J. L. (2009). The association between maternal\nanxiety and treatment outcome for childhood anxiety disorders.\nBehaviour Change, 26(01), 1–15. doi:10.1375/bech.26.1.1.\nGilchrist, P. T., McGovern, G. E., Bekkouche, N., Bacon, S. L., &\nDitto, B. (2015). The vasovagal response during confrontation\nwith blood-injury-injection stimuli: The role of perceived\ncontrol. Journal of Anxiety Disorders, 31, 43–48.\nGinsburg, G. S., Siqueland, L., Masia-Warner, C., & Hedtke, K. A.\n(2004). Anxiety disorders in children: Family matters. Cognitive\nand Behavioral Practice, 11(1), 28–43. doi:10.1016/S1077-\n7229(04)80005-1.\nGullone, E. (2000). The development of normal fear: A century of\nresearch. Clinical Psychology Review, 20(4), 429–451. doi:10.\n1016/S0272-7358(99)00034-3.\nHaberkamp, A., & Schmidt, T. (2014). Enhanced visuomotor\nprocessing of phobic images in blood-injury-injection fear.\nJournal of Anxiety Disorders, 28(3), 291–300. doi:10.1016/j.\njanxdis.2014.02.001.\nHellstro¨m, K., Fellenius, J., & O¨ st, L. G. (1996). One versus ﬁve\nsessions of applied tension in the treatment of blood phobia.\nBehaviour Research and Therapy, 34(2), 101–112. doi:10.1016/\n0005-7967(95)00060-7.\nHudson, J. L., & Rapee, R. M. (2001). Parent–child interactions and\nanxiety disorders: An observational study. Behaviour Research\nand Therapy, 39(12), 1411–1427. doi:10.1016/S0005-7967(00)0\n0107-8."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n391"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      51.019256591796875,
+      58.600433349609375,
+      289.1578063964844,
+      704.63818359375
+    ],
+    "text": "Hudson, J. L., & Rapee, R. M. (2002). Parent–child interactions in\nclinically anxious children and their siblings. Journal of Clinical\nChild and Adolescent Psychology, 31(4), 548–555. doi:10.1207/\nS15374424JCCP3104_13.\nJones, M. K., & Menzies, R. G. (2000). Danger expectancies, self-\nefﬁcacy and insight in spider phobia. Behaviour Research and\nTherapy, 38(6), 585–600. doi:10.1016/S0005-7967(99)00076-5.\nKagan, J., Reznick, J. S., Clarke, C., Snidman, N., & Garcia-Coll, C.\n(1984). Behavioral inhibition to the unfamiliar. Child Develop-\nment, 55, 2212–2225.\nKane, E. J., Braunstein, K., Ollendick, T. H., & Muris, P. (2014).\nRelations of anxiety sensitivity, control beliefs, and maternal\nover-control to fears in clinic-referred children with speciﬁc\nphobia. Journal of Child and Family Studies,. doi:10.1007/\ns10826-014-0014-5.\nKing, N. J., Clowes-Hollins, V., & Ollendick, T. H. (1997). The\netiology of childhood dog phobia. Behaviour Research and\nTherapy, 35(1), 77. doi:10.1016/S0005-7967(96)00067-8.\nKing, N. J., Muris, P., & Ollendick, T. H. (2004). Speciﬁc Phobias. In\nT. L. Morris & J. S. March (Eds.), Anxiety disorders in children\nand adolescents (2nd ed., pp. 263–279). New York: Guilford\nPress.\nLeBaron, S., & Zelter, L. (1984). Assessment of acute pain and\nanxiety in children and adolescents by self-reports, observer\nreports, and a behavior checklist. Journal of Consulting and\nClinical Psychology, 52(5), 729.\nLeutgeb, V., Scha¨fer, A., Ko¨chel, A., & Schienle, A. (2012).\nExposure therapy leads to enhanced late frontal positivity in 8-\nto 13-year-old spider phobic girls. Biological Psychology, 90(1),\n97–104. doi:10.1016/j.biopsycho.2012.02.008.\nLeutgeb, V., & Schienle, A. (2012). Changes in facial electromyo-\ngraphic activity in spider-phobic girls after psychotherapy.\nJournal of Psychiatric Research, 46(6), 805–810. doi:10.1016/\nj.jpsychires.2012.02.017.\nLipsitz, J. D., Barlow, D. H., Mannuzza, S., Hofmann, S. G., & Fyer,\nA. J. (2002). Clinical features of four DSM-IV-speciﬁc phobia\nsubtypes. The Journal of Nervous and Mental Disease, 190(7),\n471–478.\nLumley, M. A., & Melamed, B. G. (1992). Blood phobics and\nnonphobics: Psychological differences and affect during expo-\nsure. Behaviour Research and Therapy, 30(5), 425–434. doi:10.\n1016/0005-7967(92)90026-D.\nMarks, I. (1988). Blood-injury phobia: A review. American Journal of\nPsychiatry, 145(10), 1207–1213.\nMarshall, W. L., Bristol, D., & Barbaree, H. E. (1992). Cognitions\nand courage in the avoidance behavior of acrophobics. Be-\nhaviour Research and Therapy, 30(5), 463–470. doi:10.1016/\n0005-7967(92)90030-K.\nMenzies, R. G., & Clarke, J. C. (1995). The etiology of phobias: A\nnonassociative account. Clinical Psychology Review, 15(1),\n23–48. doi:10.1016/0272-7358(94)00039-5.\nMenzies, R. G., Harris, L. M., & Jones, M. K. (1998). Evidence from\nthree fearful samples for a poor insight type in speciﬁc phobia.\nDepression and Anxiety, 8(1), 29–32. doi:10.1002/(SICI)1520-\n6394(1998)8:1\\29:AID-DA6[3.0.CO;2-0.\nMerckelbach, H., Muris, P., & Schouten, E. (1996). Pathways to fear\nin spider phobic children. Behaviour Research and Therapy,\n34(11–12), 935–938.\nMilliner, E. L., & Farrell, L. J. (2014). Intensive cognitive\nbehavioural treatment for speciﬁc phobia in children and\nadolescents. Psychopathology Review, 1, 175–181.\nMilliner, E. L., Farrell, L. J., & Ollendick, T. H. (2013). Phobic\nanxiety. In P. Graham & S. Reynolds (Eds.), Cognitive\nbehaviour\ntherapy\nfor\nchildren\nand\nfamilies\n(3rd\ned.,\npp. 255–274). Cambridge: Cambridge University Press."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      306.13568115234375,
+      58.603485107421875,
+      544.26220703125,
+      704.6392211914062
+    ],
+    "text": "Mogg, K., & Bradley, B. P. (2006). Time course of attentional bias for\nfear-relevant pictures in spider-fearful individuals. Behaviour\nResearch and Therapy, 44(9), 1241–1250. doi:10.1016/j.brat.\n2006.05.003.\nMogg, K., Bradley, B. P., Miles, F., & Dixon, R. (2004). BRIEF\nREPORT time course of attentional bias for threat scenes:\nTesting the vigilance–avoidance hypothesis. Cognition and\nEmotion, 18(5), 689–700. doi:10.1080/02699930341000158.\nMoretz, M. W., Rogove, J., & McKay, D. (2011). The role of disgust\nin childhood anxiety disorders. In D. McKay & E. A. Storch\n(Eds.), Handbook of child and adolescent anxiety disorders (pp.\n155–170). New York: Springer.\nMuris, P., & Field, A. P. (2008). Distorted cognition and pathological\nanxiety in children and adolescents. Cognition and Emotion,\n22(3), 395–421. doi:10.1080/02699930701843450.\nMuris, P., & Merckelbach, H. (2001). The etiology of childhood\nspeciﬁc phobia: A multifactorial model. In M. W. Vasey & M.\nR. Dadds (Eds.), The developmental psychopathology of anxiety\n(pp. 355–385). New York: Oxford University Press.\nMuris, P., Merckelbach, H., de Jong, P. J., & Ollendick, T. H. (2002).\nThe etiology of speciﬁc fears and phobias in children: A critique\nof the non-associative account. Behaviour Research and Ther-\napy, 40(2), 185–195. doi:10.1016/S0005-7967(01)00051-1.\nMuris, P., Merckelbach, H., Gadet, B., & Moulaert, V. (2000). Fears,\nworries, and scary dreams in 4- to 12-year-old children: Their\ncontent, developmental pattern, and origins. Journal of Clinical\nChild\nPsychology,\n29(1),\n43–52.\ndoi:10.1207/S15374424\njccp2901_5.\nMuris, P., Merckelbach, H., Holdrinet, I., & Sijsenaar, M. (1998).\nTreating phobic children: Effects of EMDR versus exposure.\nJournal of Consulting and Clinical Psychology, 66(1), 193–198.\ndoi:10.1037/0022-006X.66.1.193.\nMuris, P., Merckelbach, H., Schmidt, H., & Tierney, S. (1999a).\nDisgust sensitivity, trait anxiety and anxiety disorders symptoms\nin normal children. Behaviour Research and Therapy, 37(10),\n953–961. doi:10.1016/S0005-7967(99)00045-5.\nMuris, P., Merckelbach, H., Van Haaften, H., & Mayer, B. (1997).\nEye movement desensitisation and reprocessing versus exposure\nin vivo: A single-session crossover study of spider-phobic\nchildren. The British Journal of Psychiatry, 171(1), 82–86.\ndoi:10.1192/bjp.171.1.82.\nMuris, P., Merckelbach, H., Wessel, I., & van de Ven, M. (1999b).\nPsychopathological correlates of self-reported behavioural inhi-\nbition in normal children. Behaviour Research and Therapy,\n37(6), 575–584. doi:10.1016/S0005-7967(98)00155-7.\nMuris, P., van der Heiden, S., & Rassin, E. (2008). Disgust sensitivity\nand psychopathological symptoms in non-clinical children.\nJournal of Behavior Therapy and Experimental Psychiatry,\n39(2), 133–146. doi:10.1016/j.jbtep.2007.02.001.\nOar, E. L., Farrell, L. J., Waters, A. M., & Ollendick, T. H.\n(submitted). Blood-injection-injury phobia and dog phobia in\nyouth: Psychological characteristics and associated features in a\nclinical sample. Behavior Therapy.\nOlatunji, B. O., & Cisler, J. M. (2009). Disgust sensitivity:\nPsychometric\noverview\nand\noperational\ndeﬁnition.\nIn\nB.\nO. Olatunji & D. McKay (Eds.), Disgust and its disorders:\nTheory, assessment, and treatment implications. Washington,\nDC: American Psychological Association.\nOlatunji, B. O., Lohr, J. M., Sawchuk, C. N., & Patten, K. (2007a).\nFear and disgust responding to heterogeneous blood–injection–\ninjury stimuli: Distinctions from anxiety symptoms. Journal of\nPsychopathology and Behavioral Assessment, 29(1), 1–8.\nOlatunji, B. O., Smits, J. A. J., Connolly, K., Willems, J., & Lohr, J.\nM. (2007b). Examination of the decline in fear and disgust\nduring exposure to threat-relevant stimuli in blood–injection–"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "392\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      51.0189208984375,
+      58.513587951660156,
+      289.1548767089844,
+      704.6392822265625
+    ],
+    "text": "injury phobia. Journal of Anxiety Disorders, 21(3), 445–455.\ndoi:10.1016/j.janxdis.2006.05.001.\nOllendick, T. H., Halldorsdottir, T., Fraire, M. G., Austin, K. E.,\nNoguchi, R. J. P., Lewis, K. M., et al. (2015). Speciﬁc phobias in\nyouth: A randomized controlled trial comparing one-session\ntreatment to a parent-augmented one-session treatment. Behavior\nTherapy, 46, 141–155.\nOllendick, T. H., & Muris, P. (2015). The scientiﬁc legacy of Little\nHans and Little Albert: Future direction for research on speciﬁc\nphobias in youth. Journal of Clinical Child and Adolescent\nPsychology, 44(4), 689–706.\nOllendick, T. H., O¨ st, L. G., Reuterskiold, L., Costa, N., Cederlund,\nR., Sirbu, C., et al. (2009). One-session treatment of speciﬁc\nphobias in youth: A randomized clinical trial in the United States\nand Sweden. Journal of Consulting and Clinical Psychology,\n77(3), 504–516. doi:10.1037/a0015158.\nOllendick, T. H., Raishevich, N., Davis, T. E, I. I. I., Sirbu, C., & O¨ st,\nL. G. (2010). Speciﬁc phobia in youth: Phenomenology and\npsychological\ncharacteristics.\nBehavior\nTherapy,\n41(1),\n133–141. doi:10.1016/j.beth.2009.02.002.\nO¨ st, L. G. (1989). One-session treatment for speciﬁc phobias.\nBehaviour Research and Therapy, 27(1), 1–7. doi:10.1016/\n0005-7967(89)90113-7.\nO¨ st, L. G. (1991). Acquisition of blood and injection phobia and\nanxiety\nresponse\npatterns\nin\nclinical\npatients.\nBehaviour\nResearch and Therapy, 29(4), 323–332. doi:10.1016/0005-\n7967(91)90067-d.\nO¨ st, L. G. (1992). Blood and injection phobia: Background and\ncognitive, physiological, and behavioral variables. Journal of\nAbnormal Psychology, 101(1), 68–74.\nO¨ st, L. G., Brandberg, M., & Alm, T. (1997). One versus ﬁve sessions\nof exposure in the treatment of ﬂying phobia. Behaviour\nResearch and Therapy, 35(11), 987–996. doi:10.1016/S0005-\n7967(97)00077-6.\nO¨ st, L. G., Fellenius, J., & Sterner, U. (1991a). Applied tension,\nexposure in vivo, and tension-only in the treatment of blood\nphobia. Behaviour Research and Therapy, 29(6), 561–574.\ndoi:10.1016/0005-7967(91)90006-o.\nO¨ st, L. G., & Hellstro¨m, K. (1997). Blood–Injury–Injection Phobia. In\nG. C. L. Davey (Ed.), Phobias: A handbook of theory, research,\nand treatment (pp. 63–80). Chichester: Wiley.\nO¨ st, L. G., Hellstro¨m, K., & Ka˚ver, A. (1992). One versus ﬁve\nsessions of exposure in the treatment of injection phobia.\nBehavior\nTherapy,\n23(2),\n263–281.\ndoi:10.1016/s0005-\n7894(05)80385-5.\nO¨ st, L. G., Lindahl, I. L., Sterner, U., & Jerremalm, A. (1984a).\nExposure in vivo versus applied relaxation in the treatment of\nblood phobia. Behaviour Research and Therapy, 22(3), 205–216.\ndoi:10.1016/0005-7967(84)90001-9.\nO¨ st, L. G., Salkovskis, P. M., & Hellstro¨m, K. (1991b). One-session\ntherapist-directed exposure versus self-exposure in the treatment\nof spider phobia. Behavior Therapy, 22(3), 407–422. doi:10.\n1016/S0005-7894(05)80374-0.\nO¨ st, L. G., & Sterner, U. (1987). A speciﬁc behavioral method for\ntreatment of blood phobia. Behaviour Research and Therapy,\n25(1), 25–29. doi:10.1016/0005-7967(87)90111-2.\nO¨ st, L. G., Sterner, U., & Fellenius, J. (1989). Applied tension,\napplied relaxation, and the combination in the treatment of blood\nphobia. Behaviour Research and Therapy, 27(2), 109–121.\ndoi:10.1016/0005-7967(89)90069-7.\nO¨ st, L. G., Sterner, U., & Lindahl, I. L. (1984b). Physiological\nresponses in blood phobics. Behaviour Research and Therapy,\n22(2), 109–117. doi:10.1016/0005-7967(84)90099-8.\nO¨ st, L. G., Svensson, L., Hellstrom, K., & Lindwall, R. (2001). One-\nsession treatment of speciﬁc phobias in youths: a randomized"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      306.1358642578125,
+      58.517738342285156,
+      544.3242797851562,
+      704.64208984375
+    ],
+    "text": "clinical trial. Journal of Consulting and Clinical Psychology,\n69(5), 814–824.\nPage, A. C. (1994). Blood–injury phobia. Clinical Psychology\nReview, 14(5), 443–461. doi:10.1016/0272-7358(94)90036-1.\nPage, A. C., & Martin, N. G. (1998). Testing a genetic structure of\nblood–injury–injection fears. American Journal of Medical\nGenetics, 81(5), 377–384.\nPage, A. C., & Tan, B. J. (2009). Disgust and blood–injury–injection\nphobia. In B. O. Olatunji & D. McKay (Eds.), Disgust and its\ndisorders: Theory, assessment, and treatment implications (pp.\n191–209). Washington, DC: American Psychological Association.\nPhillips, M. L., Fahy, T., David, A. S., & Senior, C. (1998). Disgust:\nThe forgotten emotion of psychiatry. The British Journal of\nPsychiatry, 172, 373–375. doi:10.1192/bjp.172.5.373.\nRachman, S. (1976). The passing of the two-stage theory of fear and\navoidance: Fresh possibilities. Behaviour Research and Therapy,\n14(2), 125–131. doi:10.1016/0005-7967(76)90066-8.\nRachman, S. (1977). The conditioning theory of fear acquisition: A\ncritical examination. Behaviour Research and Therapy, 15(5),\n375–387. doi:10.1016/0005-7967(77)90041-9.\nRachman, S., & Cuk, M. (1992). Fearful distortions. Behaviour\nResearch and Therapy, 30(6), 583–589. doi:10.1016/0005-\n7967(92)90003-Y.\nReuterskiold, L., & O¨ st, L. G. (2012). Real world applcations of one-\nsession treatment. In T. E. Davis III, T. H. Ollendick, & L. G.\nO¨ st (Eds.), Intensive one-session treatment of speciﬁc phobias\n(pp. 127–141). New York: Springer.\nRitz, T., Meuret, A. E., & Ayala, E. S. (2010). The psychophysiology\nof blood–injection–injury phobia: Looking beyond the diphasic\nresponse paradigm. International Journal of Psychophysiology,\n78(1), 50–67. doi:10.1016/j.ijpsycho.2010.05.007.\nRudy, B. M., & Davis, T. E, I. I. I. (2012). Interventions for speciﬁc\nphobia in special populations. In T. E. Davis III, T. H. Ollendick,\n& L. G. O¨ st (Eds.), Intensive one-session treatment of speciﬁc\nphobias (pp. 19–42). New York: Springer.\nSanders, M. R., & Jones, L. (1990). Behavioural treatment of\ninjection, dental and medical phobias in adolescents: A case\nstudy.\nBehavioural\nand\nCognitive\nPsychotherapy,\n18(04),\n311–316. doi:10.1017/S0141347300010417.\nSawchuk, C. N., Lohr, J. M., Lee, T. C., & Tolin, D. F. (1999).\nExposure to disgust-evoking imagery and information process-\ning biases in blood–injection–injury phobia. Behaviour Research\nand Therapy, 37(3), 249–257.\nSawchuk, C. N., Lohr, J. M., Tolin, D. F., Lee, T. C., & Kleinknecht,\nR. A. (2000). Disgust sensitivity and contamination fears in\nspider and blood–injection–injury phobias. Behaviour Research\nand Therapy, 38(8), 753–762.\nSawchuk, C. N., Lohr, J. M., Westendorf, D. H., Meunier, S. A., &\nTolin, D. F. (2002). Emotional responding to fearful and\ndisgusting stimuli in speciﬁc phobics. Behaviour Research and\nTherapy, 40(9), 1031–1046.\nSevereijns, R., Vlaeyen, J. W., van den Hout, M. A., & Weber, W. E.\n(2001). Pain catastrophizing predicts pain intensity, disability,\nand psychological distress independent of the level of physical\nimpairment. Clinical Journal of Pain, 17(2), 165–172.\nSilverman, W. K., & Albano, A. M. (1996). The anxiety disorders\ninterview schedule for DSM-IV-child and parent versions.\nLondon: Oxford University Press.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., Weems, C. F.,\nRabian, B., & Seraﬁni, L. T. (1999). Contingency management,\nself-control, and education support in the treatment of childhood\nphobic disorders: A randomized clinical trial. Journal of\nConsulting and Clinical Psychology, 67(5), 675–687.\nSmith, N. B., & Meuret, A. E. (2012). The role of painful events and\npain perception in blood–injection–injury fears. Journal of"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2537841796875,
+      42.010284423828125
+    ],
+    "text": "Clin Child Fam Psychol Rev (2015) 18:370–394\n393"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      504.6235046386719,
+      733.3864135742188,
+      544.4492797851562,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      51.019775390625,
+      58.513587951660156,
+      289.1539611816406,
+      296.1673583984375
+    ],
+    "text": "Behavior\nTherapy\nand\nExperimental\nPsychiatry,\n43(4),\n1045–1048. doi:10.1016/j.jbtep.2012.03.006.\nTaddio, A., Ipp, M., Thivakaran, S., Jamal, A., Parikh, C., Smart, S.,\net al. (2012). Survey of the prevalence of immunization non-\ncompliance due to needle fears in children and adults. Vaccine,\n30(32), 4807–4812. doi:10.1016/j.vaccine.2012.05.011.\nThompson, A. (1999). Cognitive-behavioural treatment of blood–\ninjury–injection phobia: A case study. Behaviour Change,\n16(03), 182–190. doi:10.1375/bech.16.3.182.\nThyer, B. A., Himle, J., & Curtis, G. C. (1985). Blood–injury–illness\nphobia: A review. Journal of Clinical Psychology, 41(4),\n451–459.\ndoi:10.1002/1097-4679(198507)41:4\\451:aid-jclp22\n70410402[3.0.co;2-o.\nTolin, D. F., Lohr, J. M., Sawchuk, C. N., & Lee, T. C. (1997).\nDisgust and disgust sensitivity in blood–injection–injury and\nspider phobia. Behaviour\nResearch\nand Therapy, 35(10),\n949–953. doi:10.1016/S0005-7967(97)00048-X.\nVan Houtem, C. M. H. H., Laine, M. L., Boomsma, D. I., Ligthart, L.,\nvan Wijk, A. J., & De Jongh, A. (2013). A review and meta-\nanalysis of the heritability of speciﬁc phobia subtypes and\ncorresponding fears. Journal of Anxiety Disorders, 27(4),\n379–388. doi:10.1016/j.janxdis.2013.04.007.\nWaters, A. M., Bradley, B. P., & Mogg, K. (2014a). Biased attention\nto threat in paediatric anxiety disorders (generalized anxiety"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      306.1353454589844,
+      58.603851318359375,
+      544.2552490234375,
+      266.2932434082031
+    ],
+    "text": "disorder, social phobia, speciﬁc phobia, separation anxiety\ndisorder) as a function of ‘distress’ versus ‘fear’ diagnostic\ncategorization.\nPsychological\nMedicine,\n44(03),\n607–616.\ndoi:10.1017/S0033291713000779.\nWaters, A. M., Farrell, L. J., Zimmer-Gembeck, M., Milliner, E. L.,\nTiralongo, E., Donovan, C. L. et al. (2014b). Augmenting one\nsession treatment of children’s speciﬁc phobias with attention\ntraining towards positive stimuli. Behaviour Research and\nTherapy, 62, 107–119.\nWeems, C. F., & Silverman, W. K. (2006). An integrative model of\ncontrol: Implications for understanding emotion regulation and\ndysregulation in childhood anxiety. Journal of Affective Disor-\nders, 91(2), 113–124. doi:10.1016/j.jad.2006.01.009.\nWeems, C. F., Silverman, W. K., Rapee, R. M., & Pina, A. A. (2003).\nThe role of control in childhood anxiety disorders. Cognitive\nTherapy\nand\nResearch,\n27(5),\n557–568.\ndoi:10.1023/A:\n1026307121386.\nWei, C., & Kendall, P. C. (2014). Parental involvement: Contribution\nto childhood anxiety and its treatment. Clinical Child and\nFamily\nPsychology\nReview,\n17(4),\n319–339.\ndoi:10.1007/\ns10567-014-0170-6."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      51.02360153198242,
+      33.542083740234375,
+      544.2596435546875,
+      42.010284423828125
+    ],
+    "text": "394\nClin Child Fam Psychol Rev (2015) 18:370–394"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      52.44089889526367,
+      733.3864135742188,
+      92.26666259765625,
+      748.3304443359375
+    ],
+    "text": "123"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      70.86609649658203,
+      71.3772964477539,
+      521.0892333984375,
+      126.05769348144531
+    ],
+    "text": "Copyright of Clinical Child & Family Psychology Review is the property of Springer Science\n& Business Media B.V. and its content may not be copied or emailed to multiple sites or\nposted to a listserv without the copyright holder's express written permission. However, users\nmay print, download, or email articles for individual use."
+  }
+]

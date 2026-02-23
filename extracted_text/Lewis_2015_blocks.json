@@ -1,0 +1,1212 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      230.45932006835938,
+      37.0523567199707,
+      376.0510559082031,
+      43.4284553527832
+    ],
+    "text": "Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      229.97750854492188,
+      62.79665756225586,
+      379.5155944824219,
+      70.76675415039062
+    ],
+    "text": "Contents lists available at ScienceDirect"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      212.48721313476562,
+      84.02959442138672,
+      400.00018310546875,
+      97.977294921875
+    ],
+    "text": "Journal of Anxiety Disorders"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73179626464844,
+      166.63548278808594,
+      446.4887390136719,
+      197.32073974609375
+    ],
+    "text": "Treating nighttime fears in young children with bibliotherapy:\nEvaluating anxiety symptoms and monitoring behavior change"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73179626464844,
+      207.21563720703125,
+      469.46832275390625,
+      219.18495178222656
+    ],
+    "text": "Krystal M. Lewis a,∗, Kaushalendra Amatya b, Mary F. Coffman c, Thomas H. Ollendick b"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73179626464844,
+      224.65745544433594,
+      378.0960693359375,
+      250.48374938964844
+    ],
+    "text": "a Department of Psychiatry, University of Illinois at Chicago, 1747 W. Roosevelt Rd., Chicago, IL 60608, United States\nb Virginia Polytechnic Institute and State University, 460 Turner St. Suite 207, Blacksburg, VA 24060, United States\nc Independent Practice, West Union, SC 29696, United States"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73169708251953,
+      275.0450134277344,
+      137.72532653808594,
+      284.01141357421875
+    ],
+    "text": "a r t i c l e\ni n f o"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73169708251953,
+      296.21240234375,
+      139.21484375,
+      345.429443359375
+    ],
+    "text": "Article history:\nReceived 23 August 2014\nReceived in revised form\n12 December 2014\nAccepted 14 December 2014\nAvailable online 8 January 2015"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.731597900390625,
+      358.77789306640625,
+      90.25267791748047,
+      399.42681884765625
+    ],
+    "text": "Keywords:\nNighttime fears\nAnxiety\nExposure\nBibliotherapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      211.519287109375,
+      275.0450134277344,
+      276.65570068359375,
+      284.01141357421875
+    ],
+    "text": "a b s t r a c t"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      209.44699096679688,
+      296.5793762207031,
+      563.7822875976562,
+      466.43853759765625
+    ],
+    "text": "Objective: Children’s nighttime fears are a normal part of child development and are transient for most\nchildren, but result in considerable distress for others. The present study evaluated a 4-week bibliotherapy\nintervention designed to treat young children with persistent and interfering nighttime fears utilizing a\nmultiple baseline design.\nMethod: Nine children between 5 and 7 years of age with speciﬁc phobia diagnoses were randomized into\none of three baseline control conditions (1, 2, or 3 weeks). The treatment protocol involved parents reading\nUncle Lightfoot, Flip that Switch: Overcoming Fear of the Dark, Academic Version (Coffman, 2012) with\ntheir children over 4 weeks while engaging in activities prescribed in the book. Assessments took place\nat baseline, post treatment, and 1 month following treatment. Daily and weekly tracking of nighttime\nbehaviors was also obtained.\nResults: Pre-post group analyses revealed that eight of the nine children demonstrated clinically signiﬁ-\ncant change in anxiety severity. In addition, decreases in child-reported nighttime fears were observed,\nas were parent-reported decreases in separation anxiety and increases in the number of nights children\nslept in their own bed.\nConclusions: The present study provides initial support for the use of bibliotherapy in the treatment\nof nighttime fears. Further replication and evaluation are needed to determine appropriate length of\ntreatment and long-term effects. Implications of the ﬁndings are discussed.\n© 2014 Elsevier Ltd. All rights reserved."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73179626464844,
+      510.62164306640625,
+      106.05423736572266,
+      518.5917358398438
+    ],
+    "text": "1. Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.731773376464844,
+      531.5431518554688,
+      294.2880554199219,
+      665.0422973632812
+    ],
+    "text": "Nighttime fears are a normal part of child development (King,\nOllendick, & Tonge, 1997; Muris, Merckelbach, Ollendick, King, &\nBogie, 2001). However, an estimated 20% of children have severe\nnighttime fears and sleep problems (Gordon, King, Gullone, Muris,\n& Ollendick, 2007). In addition, Muris et al. (2001) reported that\n58.8% of children between 4 and 6 years of age and 84.7% of chil-\ndren between 7 and 9 years of age report at least mild nighttime\nfears, suggesting that nighttime fears are quite common in youth.\nIn young children, nighttime and transitioning to sleep can prove to\nbe quite challenging, especially for those children with more severe\nfears of the dark (Gordon et al., 2007; Sadeh, 2005). Additional\nresearch demonstrates links between nighttime fears, nighttime\nwaking, poor sleep quality, and less overall sleep (Kushnir & Sadeh,"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.778297424316406,
+      691.6513061523438,
+      194.90684509277344,
+      708.6342163085938
+    ],
+    "text": "∗Corresponding author. Tel.: +1 6316626693.\nE-mail address: Klewis07@vt.edu (K.M. Lewis)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      312.22119140625,
+      510.62164306640625,
+      563.777587890625,
+      706.8853149414062
+    ],
+    "text": "2011). If these fears are left untreated, they may persist and have\nadverse effects on child development and lead to later anxiety and\npsychopathology in late childhood and adolescence (Bittner et al.,\n2007; Muris, Merckelbach, Mayer, & Prins, 2000).\nAlthough nighttime fears do not constitute a separate diagnos-\ntic entity, young children may have fears related to the dark that\nare so interfering and impairing they meet criteria for a speciﬁc\nphobia diagnosis. Speciﬁc phobias are estimated to be present in\nabout 10% of community samples of children and adolescents and\nup to 5% of referrals to outpatient centers (Kessler et al., 2005).\nAdditionally, up to 15% of referrals for the treatment of child-\nhood phobias are related to the dark and being alone in the dark\n(Graziano, Mooney, Huber, & Ignasiak, 1979). These fears can result\nin the child experiencing signiﬁcant anticipatory anxiety preceding\nbedtime and having elevated fear and anxiety symptoms through-\nout the night and into the next day. For some children, the fears\nlast for years. There is limited research on nighttime fears and\nsleep related disturbances in youth with anxiety disorders. How-\never, Alfano, Ginsburg, & Kingery (2007) reviewed literature which"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      42.73179626464844,
+      720.4129638671875,
+      198.3022918701172,
+      735.3572998046875
+    ],
+    "text": "http://dx.doi.org/10.1016/j.janxdis.2014.12.004\n0887-6185/© 2014 Elsevier Ltd. All rights reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.921897888183594,
+      37.0523567199707,
+      387.9759826660156,
+      43.4284553527832
+    ],
+    "text": "104\nK.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.921897888183594,
+      56.117679595947266,
+      283.4781494140625,
+      95.47004699707031
+    ],
+    "text": "suggests high correlations between childhood GAD and sleep prob-\nlems. Moreover, this study concluded that 85% of children with\nanxiety disorders have sleep disturbances which range from dif-\nﬁculty initiating sleep to nocturnal fears (Alfano et al., 2007)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.92266082763672,
+      113.65222930908203,
+      148.6049346923828,
+      121.62232971191406
+    ],
+    "text": "1.1. Treatment for child anxiety"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.922645568847656,
+      134.57373046875,
+      283.4797668457031,
+      414.5234375
+    ],
+    "text": "Cognitive behavioral therapy (CBT) is the ﬁrst line of treatment\nfor child fear and anxiety (Chorpita et al., 2011; Kendall, 2012).\nSystematic desensitization, graduated in vivo exposure, cognitive\nrestructuring, reinforced practice, and participant modeling have\nall proven to be effective techniques for treating anxiety and its dis-\norders (Davis & Ollendick, 2005; Ollendick & King, 1998). Although\nthe ﬁeld has made signiﬁcant strides in developing evidenced-\nbased treatments for children with anxiety and other disorders, a\nsubset of children do not respond to traditional CBT, with effec-\ntiveness rates ranging from 60% to 70% (In-Albon & Schneider,\n2007; Kendall et al., 2005; Seligman & Ollendick, 2011; Walkup\net al., 2008). These remission rates leave room for improvement\nto existing treatments and in the development of new treatments.\nMoreover, as of yet, we have not identiﬁed for whom and under\nwhat conditions clinic-administered CBT works for a child and his\nor her family. Furthermore, there may be speciﬁc barriers that\nprevent families from receiving weekly clinic-based treatment,\nsuch as distance to the treatment center, work schedules, ﬁnan-\ncial resources, and/or childcare. Researchers have pointed out that\nself-help treatments may be an effective means of treatment and\npotentially more efﬁcacious than clinic based treatment for speciﬁc\ndisorders (see Elgar & McGarth, 2008; Gould & Clum, 1993; Hirai\n& Clum, 2006; Rapee, Abbott, & Lyneham, 2006). As such, biblio-\ntherapy has been identiﬁed as an alternate approach to treating\nchildren and adolescents with varying forms of psychopathol-\nogy (Paparoussi, Andreou, & Gkouni, 2011; Rickwood & Bradford,\n2011)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.92266082763672,
+      432.70562744140625,
+      189.8740997314453,
+      440.67572021484375
+    ],
+    "text": "1.2. Bibliotherapy as a treatment approach"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      31.922622680664062,
+      453.62713623046875,
+      283.47979736328125,
+      744.03759765625
+    ],
+    "text": "Bibliotherapy is the use of books as therapy in the treatment\nof mental disorders. The theory behind bibliotherapy is that read-\ning about one’s problem areas can produce change that is speciﬁc\nand predictable (Lenkowsky, 1987). The theoretical underpinnings\nof bibliotherapy for anxiety are such that the books incorporate\ncommon anxiety-reduction principles, including coping strate-\ngies, exposure to anxiety provoking situations, reinforcement, and\nmodeling of desired behaviors through use of story-telling. One\nconcern with bibliotherapy for young children is the need for the\nparent/guardian to be highly involved. Bibliotherapy requires an\nability to read and comprehend; therefore, bibliotherapy is typi-\ncally delivered by the parent for younger children. This may present\nadditional concerns of parent psychopathology, implementation\nconsistency, and parenting practices. Nonetheless, prior research\non bibliotherapy for anxious youth demonstrates the usefulness of\nself-help books (Rapee, Spence, Cobham, & Wignall, 2000). Another\npotential concern with treating children with bibliotherapy is the\nhigh rate of comorbidity found amongst children with anxiety\ndisorders (Kendall et al., 1997). One would think that bibliother-\napy (therapy) may only target one disorder and leave high levels\nof impairment. However, in a review of evidence-based treat-\nments of childhood disorders that included the anxiety disorders,\nOllendick, Jarrett, Grills-Taquechel, Hovey, and Wolff (2008) found\nthat comorbidity did not adversely affect treatment outcomes for\nanxious youth. Furthermore, research suggests the generalization\nof effects of time-limited CBT treatment to non-targeted problems\nincluding comorbid anxiety disorders (Ollendick, Ost Reuterskoild,\n& Costa, 2010)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      301.4100341796875,
+      56.117557525634766,
+      552.967041015625,
+      409.29254150390625
+    ],
+    "text": "Recently, Coffman, Andrasik, and Ollendick (2013) identiﬁed the\nfollowing advantages of bibliotherapy for young children: ease of\nadministration, potential to enhance motivation for change, and the\nability to incorporate a number of therapeutic components into a\nformat that is intrinsically appealing to children. In one randomized\ncontrol trial (RCT) of bibliotherapy for anxiety disorders in children\naged 6–12, the group who received bibliotherapy showed superior\noutcomes over a traditional CBT group, and those gains were main-\ntained at a 6-month follow-up (Parslow et al., 2008). Moreover,\nthere has been other research that demonstrates the effectiveness\nof bibliotherapy for anxious youth (Cobham, 2012; Rapee, 2003;\nRapee et al., 2006).\nUsing an earlier version of the book used in this study, Uncle\nLightfoot (Coffman, 1983), Mikulas and Coffman (1989) demon-\nstrated that the treatment was more effective than a parent\nattention control condition. Mikulas, Coffman, Dayton, Frayne,\nand Maier (1985) ﬁrst tested out these games developed for\nbibliotherapy treatment. Subsequently, Santacruz, Mendez, and\nSanchez-Meca (2006) conducted a randomized controlled study\n(N = 78) comparing two play therapy treatments to a control\ngroup. One of the treatments used was Uncle Lightfoot (Coffman,\n1980–1983Coffman, 1980–1983). This research demonstrated pos-\nitive changes in fear of the dark and dark related behaviors utilizing\nthe book. However, only about 50–60% of the children and their\nfamilies responded to this treatment; as a result, changes were\nmade based on these studies that included greater parental applica-\ntion of the materials and child engagement in the exercises included\nin the book. Unlike most didactic treatment manuals used by cli-\nnicians, books such as Uncle Lightfoot (Coffman, 2012, 2014) are\ndesigned for parents and have the potential for being widely avail-\nable to families. For this reason, it is important that the children’s\nbook and parent instructions are sufﬁciently understandable so\nthat most parents can carry out the program with minimal ther-\napeutic guidance."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      301.410888671875,
+      441.475830078125,
+      369.3321228027344,
+      449.4459228515625
+    ],
+    "text": "1.3. Current study"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      301.410888671875,
+      462.3973388671875,
+      552.9684448242188,
+      742.348876953125
+    ],
+    "text": "In the present study, we sought to evaluate the effectiveness\nof this bibliotherapy treatment for young children with speciﬁc\nphobias of the dark and fears of sleeping alone. We utilized the\nrevised version of this book, Uncle Lightfoot, Flip That Switch: Over-\ncoming Fear of the Dark (Coffman, 2012), a 19-chapter children’s\nbook, which contains a 28-page Parent Guidebook. The book is a\nchild-focused story about a boy named Michael who is afraid of\nthe dark. He conquers his fear of the dark by engaging in exposure\ngames with his Uncle Lightfoot.\nGiven prior research suggesting the effectiveness of biblio-\ntherapy for child anxiety, we hypothesized that children would\ndemonstrate signiﬁcant changes in the severity of their speciﬁc\nphobia diagnosis following treatment. Secondly, we hypothesized\nthat children’s avoidant behaviors (i.e., refusing to sleep in own bed)\nwould signiﬁcantly decrease upon completion of treatment. Lastly,\nwe anticipated decreases in child and parent report of fear and anxi-\nety on the Koala Fear Questionnaire (Muris, 2003) and the Preschool\nAnxiety Scale (Spence, Rapee, McDonald, & Ingram, 2001), as we\nexpected skills to transfer from conquering nighttime fears to\ndealing with anxiety more generally. Since the book was mod-\niﬁed following the previous randomized control trial (Santacruz\net al., 2006), we utilized a single case, multiple baseline design\nto explore our hypotheses and examine whether the revised book\nwas effective with more children and their families (see Chambless\nand Ollendick (2001) for the suitability of this approach in begin-\nning to establish an evidence base for novel and experimental\ninterventions)."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      207.72540283203125,
+      37.0523567199707,
+      564.2769775390625,
+      43.4284553527832
+    ],
+    "text": "K.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112\n105"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.731101989746094,
+      55.5264778137207,
+      88.29471588134766,
+      70.47075653076172
+    ],
+    "text": "Table 1\nDemographics."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.709197998046875,
+      78.61656188964844,
+      548.396484375,
+      93.56084442138672
+    ],
+    "text": "Participant\nAge\nGender\nRace/ethnicity\nFamily income\nPPVT\n(std age)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.709197998046875,
+      100.33518981933594,
+      533.4535522460938,
+      175.25669860839844
+    ],
+    "text": "1\n7\nM\nBiracial (C/AA)\n50 k\n123\n2\n4\nF\nC\n65 k\n104\n3\n7\nM\nC\nNS\n127\n4\n6\nF\nBiracial (C/H)\n60 k\n118\n5\n5\nM\nC\n100 k\n130\n6\n5\nM\nH\n45 k\n129\n7\n6\nM\nH\n45 k\n127\n8\n6\nM\nC\n110 k\n112\n9\n5\nM\nC\n40 k\n105"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.73169708251953,
+      181.90916442871094,
+      320.467529296875,
+      188.28526306152344
+    ],
+    "text": "Note: M, male; F, female; C, Caucasian; AA, African American; H, Hispanic, NS, not speciﬁed."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.73179626464844,
+      201.8280029296875,
+      85.76236724853516,
+      209.79811096191406
+    ],
+    "text": "2. Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.73179626464844,
+      222.74951171875,
+      104.37254333496094,
+      230.71961975097656
+    ],
+    "text": "2.1. Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.731781005859375,
+      243.6710205078125,
+      294.2889099121094,
+      743.2973022460938
+    ],
+    "text": "Participants included nine children and their mothers recruited\nfrom the local community. Inclusion criteria were as follows: (a)\nchild between the ages of 5 and 7 years at the beginning of treat-\nment, and (b) meet criteria for a diagnosis of speciﬁc phobia of\nthe dark/alone according to the Diagnostic and Statistical Manual\nof Mental Health Disorders, Fourth Edition Text Revised (DSM-IV-\nTR, 2004). Exclusion criteria were: receptive vocabulary below 80\n(as measured by the Peabody Picture Vocabulary Test), acute psy-\nchotic symptoms or mood disorders, and involvement in current\ntreatment for nighttime fears.\nFollowing Institutional Review Board (IRB) approval, partici-\npants were recruited from Southwestern Virginia by contacting\nmental health professionals in the area, posting ﬂyers at local\nrestaurants and child friendly venues, and advertising in schools.\nInterested parents (n = 19) underwent a brief phone screen (about\n15 min). Children who met eligibility criteria (n = 13) were sched-\nuled for an initial assessment. Eligible families were mailed an\ninformed consent, parent permission form, child information form,\nand several questionnaires. Informed consent and assent were then\nobtained during the ﬁrst visit to the clinic. A project team meeting,\nled by a licensed clinical psychologist, was held following the initial\nassessment to discuss ﬁndings from the Anxiety Disorders Inter-\nview Schedule for Children, Parent Version (Silverman & Albano,\n1996) and establish initial diagnoses and eligibility for participa-\ntion.\nOf the 13 children who came in for the initial assessment, two\nwere not eligible as their primary difﬁculties were identiﬁed as\nsleep terror disorder and two others chose not to participate in\nthe study due to conﬂicts in time/schedules. Thus, the ﬁnal sample\nincluded nine children (mean age = 5.78; SD = .83) with a primary\nor secondary diagnosis of speciﬁc phobia and their mothers. Eight\nof the nine families participated in assessment at all three time\npoints; one family was not available for follow-up assessment due\nto family re-location. Seven of the children were boys (77.7%),\nﬁve were Caucasian (55.5%), two were Hispanic (22.2%), and two\nwere biracial (22.2%; one Caucasian/African American, and one Cau-\ncasian/Hispanic). Mean receptive vocabulary was 119.4 (SD = 10.21,\nrange = 104–130) as obtained from the Peabody Picture Vocabulary\nTest (PPVT-4; Dunn & Dunn, 2007). Eight of the nine children had\na primary diagnosis of speciﬁc phobia of the dark and one had a\nprimary diagnosis of separation anxiety disorder, with a secondary\ndiagnosis of speciﬁc phobia of the dark. Five of the eight children\nwho had a primary diagnosis of speciﬁc phobia met criteria for\na secondary diagnosis, most commonly another anxiety disorder\n(social anxiety disorder = 1, another speciﬁc phobia = 3), with the\nremaining child having a secondary diagnosis of Attention Deﬁcit\nHyperactivity Disorder, Combined Type (ADHD-C). There were no\nchildren who presented with a primary or secondary diagnosis of"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      312.2208251953125,
+      201.827880859375,
+      563.7764282226562,
+      262.10174560546875
+    ],
+    "text": "Generalized Anxiety Disorder. These comorbidity rates are consis-\ntent with past studies (Ollendick et al., 2008). Mean family income\nwas $64,375 (range = $40,000–$110,000) and all nine children were\nliving with both parents. Mother’s average age was 40.2 years\n(SD = 5.17) and all mothers completed college (100%). See Table 1\nfor a summary of demographic information."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      312.2208251953125,
+      275.7935791015625,
+      420.45489501953125,
+      283.763671875
+    ],
+    "text": "2.2. Design and data analysis"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      312.2207946777344,
+      296.715087890625,
+      563.7786865234375,
+      744.036865234375
+    ],
+    "text": "Parents and children came to the clinic for an initial assessment\nand then for an instructional session following the 1, 2, or 3-week\nbaseline period. The treatment for the current study involved par-\nents reading the updated version of Uncle Lightfoot: Flip That Switch\n(Coffman, 2012) with their children over 4 weeks and participating\nin brief weekly phone check-ins with the therapist. During the 4\nweeks, parents completed daily and weekly monitoring forms to\ntrack changes in their children’s nighttime behavior. At the end of\nthe 4 weeks, families returned to the clinic for a post-treatment\nassessment, and again 4 weeks later for a 1-month post treatment\nfollow-up assessment. Parents were instructed to read chapters\nfrom the book each evening and to read completely through the\nbook at least two times over the 4-week period, playing all of the\ngames that the child was willing to play during the story reading\ntime. Some of the games consisted of ﬁnding toys in the dark, identi-\nfying sounds, and racing to turn lights out. Essentially, these games\nwere exposures for the children to help conquer their fear of the\ndark.\nThe research design was a non-concurrent multiple baseline\nsingle-case design. This design is a series of A–B replications\nwith randomized baseline periods (see Chambless & Ollendick,\n2001). Single-case designs are often less time intensive and more\ncost-effective than large scale Randomized Control Trials (RCTs)\nand therefore are more feasible in the early stages of treatment\ndevelopment and are useful in examining the utility of treat-\nment modiﬁcations (e.g., modiﬁcations of existing treatments (see\nHorner et al., 2005; Morgan & Morgan, 2009).\nFollowing pre-treatment assessment, children were randomly\nassigned to baseline phases lasting 1, 2, or 3 weeks. During base-\nline, parents completed a daily monitoring form, which tracked\ntheir child’s nighttime behaviors including whether the child spent\nthe night in their own bed, a sibling’s bed, or their parents’ bed.\nRepeated measures continued throughout the baseline period, the\n4-week treatment phase, and a week before the 1-month follow-\nup. Following the baseline period, the family came into the clinic\nfor an hour-long session to receive the book and additional materi-\nals (e.g., instruction manual, beads for rewards). The parents were\ngiven a brief introduction to the book, the concept behind biblio-\ntherapy was explained, and an instruction sheet was provided. As\nmentioned above, the family was instructed to read from the book\nevery night for 4 weeks. Brief (∼10 min) phone check-ins were con-\nducted approximately every 2 weeks over the 4-week treatment\nperiod to address any difﬁculties encountered during use of the"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      31.921897888183594,
+      37.0523567199707,
+      387.9759826660156,
+      43.4284553527832
+    ],
+    "text": "106\nK.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      31.921897888183594,
+      56.117679595947266,
+      283.4782409667969,
+      220.9990997314453
+    ],
+    "text": "book. All nine families completed the two phone check-ins. This\nwas the only contact the families had with the clinician during the\n4-week treatment period. Comprehensive assessments were con-\nducted at the clinic after completion of the bibliotherapy and again\nat 1-month follow-up.\nGiven the small sample size, non-parametric Friedman tests\nwere used followed by post hoc Wilcoxon tests to examine symp-\ntoms at baseline, compared to symptoms at post and the 1-month\nfollow-up. Wilcoxon tests were used when the Friedman test was\nsigniﬁcant. For ADIS CSRs, a method for calculating “clinical sig-\nniﬁcance” was used (Jacobson & Truax, 1991). Jacobson and Truax\n(1991) recommend a change of two standard deviations from the\npretreatment group mean as a cutoff for “recovery” at post treat-\nment. The CSRs were averaged at pre, post, and 1 month separately\nand these scores were used to calculate the Reliable Change Index\nscore (Jacobson & Truax, 1991)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      31.921104431152344,
+      233.8668212890625,
+      84.45204162597656,
+      241.83692932128906
+    ],
+    "text": "2.3. Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      31.921104431152344,
+      254.788330078125,
+      283.47821044921875,
+      628.8848266601562
+    ],
+    "text": "2.3.1. Anxiety Disorders Interview Schedule for Children, Parent\nVersion (ADIS-P; Silverman & Albano, 1996)\nThe ADIS-C/P is a semi-structured diagnostic interview admin-\nistered separately to parents and children and designed to assess\nchildhood anxiety disorders, as well as other childhood disorders\n(e.g., MDD, ADHD). Although the ADIS-C/P was designed for use\nwith children 6 and older, acceptable interrater agreement has\nbeen reported for younger children (kappas of .77–.86; Rapee,\nKennedy, Ingram, Edwards, & Sweeney, 2005). Only the parent\ninterview was administered during each assessment session (pre-\ntreatment, post-treatment, and 1-month follow-up). The parent\ninterview contains modules for several additional disorders (e.g.,\nConduct Disorder, Oppositional Deﬁant Disorder, Enuresis), and\nrequests supplementary information with regard to history and\ninterference of speciﬁc problems. The clinician assesses symptoms\nand obtains frequency, intensity, duration and interference ratings\nwhich are used to develop a clinician severity rating (CSR). A CSR\nof 4 or above (range = 0–8) indicates a diagnosable condition. The\nADIS-P has demonstrated adequate test–retest reliability (kappas\nof .65–1.00: Grills & Ollendick, 2003; Silverman & Ollendick, 2005;\nSilverman, Saavedra, & Pina, 2001).\nTrained-to-criterion graduate clinicians conducted diagnostic\ninterviews for this study, and interviews were videotaped. Follow-\ning the interview, the parent clinician assigned severity ratings\n(CSRs) for each diagnosis on a scale from 0 to 8, where 0 = no\nsymptoms, 2 = mild, 4 = moderate, 6 = severe, and 8 = very severe.\nSubsequent to this, a clinical consensus meeting was held during\nwhich the ﬁnal CSRs were reviewed and assigned. To determine\nreliability of diagnoses, independent assessors randomly selected\nand reviewed 33% of the videotaped interviews. Agreements at the\ndiagnostic level, using Cohen’s kappa (Cohen, 1988), were .68 (sub-\nstantial agreement) and .55 (moderate agreement) for the primary\nand secondary diagnoses, respectively. Interrater reliabilities of the\nCSRs were .98 and .93 for primary and secondary diagnoses. Mean\nCSR for the treated phobia was 6.67 (SD = .71) on the 0–8 severity\nscale, reﬂecting moderately severe levels of disturbance."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      31.92113494873047,
+      641.7525634765625,
+      283.4782409667969,
+      743.8694458007812
+    ],
+    "text": "2.3.2. Dark Fear Interview\nAlthough not used diagnostically, the children were asked to\nprovide qualitative information regarding the severity of their fear\nduring each assessment. The children answered questions pertain-\ning to their bedtime routine, what is scary about the dark, what\nhappens when they wake up, and the avoidance behaviors in which\nthey engage. Children also provided a general rating of their fear\nlevel when in the dark alone and when sleeping alone using a 5-\npoint, 0–4 Likert scale, which included numerical ratings matched\nwith emotion faces."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      301.4101257324219,
+      56.117618560791016,
+      552.9674072265625,
+      273.30279541015625
+    ],
+    "text": "2.3.3. Koala Fear Questionnaire (KFQ; Muris et al., 2003)\nThe KFQ is a 31-item interview-based, self-report scale for\nassessing fears in 4- to 12-year-old children. Children rate their\nlevel of anxiety using a visual scale depicting Koala bears that\nexpress various degrees of fear (1 = no fear, 2 = some fear, 3 = a lot\nof fear). A total KFQ score can be obtained by summing the item\nscores (range 31–93). The measure has ﬁve factors, which make up\nthe total scale. According to Muris et al. (2003), psychometric prop-\nerties of the KFQ have proven to be adequate. Internal consistency\nand test–retest reliability were reported to be satisfactory and total\nscores correlated positively with concurrent measures of fear and\nanxiety. For the current study, internal consistency (˛ = .79) was in\nthe acceptable range and test–retest reliability was good (˛ = .8).\nAdditionally, for the current study, a subscale consisting of three\nitems most relevant to nighttime fears (“being alone in the dark”,\n“ghosts”, and “scary dreams”) was created and internal consistency\nwas low (˛ = .513). This subscale demonstrated acceptable test re-\nrest reliability (˛ = .77). The item “being alone in the dark” was also\nanalyzed separately as a single-item scale and demonstrated ques-\ntionable test–retest reliability (˛ = .69). The KFQ was administered\nto the child at each assessment session."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      301.4101257324219,
+      286.25421142578125,
+      552.96484375,
+      430.214111328125
+    ],
+    "text": "2.3.4. Peabody Picture Vocabulary Test, Fourth Edition (PPVT-4;\nDunn & Dunn, 2007)\nThe PPVT-4 is a measure of receptive vocabulary that can be\nadministered to children as young as 2 years and 6 months of age. Its\nease of administration and applicability to individuals who may not\nbe able to use expressive language, read, or write makes it ideal for\npre-school children such as in the current study. The PPVT-4 yields\na composite score with a mean of 100 and standard deviation of\n15. Dunn and Dunn (2007) documented its construct validity in 3-\nto 12-year-old children with a correlation of .72 on the Expressive\nLanguage subscale of the Clinical Evaluation of Language Funda-\nmentals, Fourth Edition (Dunn & Dunn, 2007). The PPVT-4 was\nonly administered at pre-assessment to determine eligibility for\nparticipation."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      301.4101867675781,
+      443.16552734375,
+      552.96826171875,
+      628.9684448242188
+    ],
+    "text": "2.3.5. Preschool Anxiety Scale (PAS; Spence et al., 2001)\nThe Spence Pre-School Anxiety Scale is a 29-item measure com-\npleted by parents of children between the ages of 3 and 6 years. It\nwas completed at each assessment session. The ﬁrst 28 items are\nrated on a 5-point scale, ranging from 1 (not at all true) to 5 (very\noften true) and the last item is an open ended question relating\nto traumatic experiences. The 28 anxiety items provide an over-\nall measure of anxiety (sum score), in addition to scores on ﬁve\nsub-scales (generalized anxiety, social anxiety, obsessive compul-\nsive disorder, physical injury fears and separation anxiety). This\nmeasure was used to determine whether children showed elevated\nlevels of anxiety. In the present study, we focused on the separation\nanxiety subscale, given its relations to nighttime fears. Psycho-\nmetric evaluations of the PAS have shown that the questionnaire\npossesses good reliability (˛ = .79 in current study) and validity\n(Broeren & Muris, 2008; Edwards, 2007; Spence et al., 2001). The\nPAS demonstrated acceptable test re-rest reliability for this study\n(˛ = .75)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      301.4101257324219,
+      641.9198608398438,
+      552.96630859375,
+      744.0367431640625
+    ],
+    "text": "2.3.6. What My Child Can Do At Night in the Dark\n(WICDAN-Parent Form; Coffman, 1987)\nThe WICDAN is an 11-item parent-report measure of children’s\nself-efﬁcacy in dealing with their fear of the dark completed at each\nassessment session and at the end of each week during treatment.\nEach item on the scale is answered on a 3-point scale (0 = “No, it\nwould be hard to do”, 1 = “Yes but it would be hard to do”, and\n2 = “Yes easily”). The total score on the WICDAN ranges from 0 to\n22. The measure possesses good internal consistency (˛ = .89 for\ncurrent study), with child–parent agreement ranging from 87% to"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      207.72540283203125,
+      37.0523567199707,
+      564.2769775390625,
+      43.4284553527832
+    ],
+    "text": "K.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112\n107"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.73179626464844,
+      56.117557525634766,
+      294.2833251953125,
+      74.54841613769531
+    ],
+    "text": "93% (Coffman, 1987). Additionally, this measure display acceptable\ntest–retest reliability (˛ = .78)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.73180389404297,
+      89.03009796142578,
+      294.28729248046875,
+      159.7647247314453
+    ],
+    "text": "2.3.7. Treatment Satisfaction Survey\nA 10-item treatment satisfaction survey was administered at\nthe 1-month follow-up to assess the parents’ satisfaction with the\nprogram. The survey included items regarding the parents’ percep-\ntion of changes in their child’s fears and how much the treatment\nhelped them deal with their child’s fears. Responses for each item\nwere recorded on a 1–5 scale."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.731788635253906,
+      174.24639892578125,
+      294.2864685058594,
+      255.44178771972656
+    ],
+    "text": "2.3.8. Treatment Evaluation Survey\nA 19-item evaluation form developed for Uncle Lightfoot\n(Coffman, 2012) was administered during the post assessment. The\nform included questions regarding the speciﬁcs of the parents’ use\nof the book such as which chapters they used, how often they read\nthe book, and which games they played. Items regarding improve-\nments in the child’s fears and functioning and how much the family\nenjoyed using the book were also included."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.732582092285156,
+      270.42156982421875,
+      83.54747009277344,
+      278.39166259765625
+    ],
+    "text": "3. Results"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.732582092285156,
+      291.34307861328125,
+      189.39834594726562,
+      299.31317138671875
+    ],
+    "text": "3.1. Treatment retention and adherence"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.732582092285156,
+      312.26458740234375,
+      294.2904968261719,
+      435.302978515625
+    ],
+    "text": "All nine families completed treatment and the post-treatment\nassessments. Eight of the nine families completed the 1-month\nassessment; however, one family did not do so due to moving from\nthe area.\nSix of the nine parents read through the book at least two\ntimes over the 4-week period as requested. Five of the nine par-\nents reported using the book more than 2 h per week and eight of\nnine parents reported at least 1–2 h per week (see Table 5 for treat-\nment adherence/dose). The parents read the book to their child on\naverage 4.64 nights per week over the 4 weeks (on average 5.88\nnights the ﬁrst week, 4.88 nights the second week, 4.0 nights the\nthird week, and 3.77 nights the fourth week)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.73261260986328,
+      449.78466796875,
+      195.4556884765625,
+      457.7547607421875
+    ],
+    "text": "3.2. Changes in severity of speciﬁc phobia"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.730308532714844,
+      470.7061767578125,
+      294.2896423339844,
+      583.2843627929688
+    ],
+    "text": "Our ﬁrst hypothesis suggested that the children would demon-\nstrate signiﬁcant changes in the severity of their speciﬁc phobia\ndiagnosis. To analyze change in the CSRs associated with the spe-\nciﬁc phobia diagnoses, Friedman tests were conducted. Results of\nthe Friedman tests demonstrated signiﬁcant change in symptoms\non the ADIS-P from pre to follow-up (\u00022(2) = 12.92, p = .002). CSR\nmeans changed from 6.75 at pre- to 3.89 at post-treatment and 3.38\nat follow-up (see Table 2). Post hoc Wilcoxon tests found signiﬁcant\ndifferences from pre- to post-assessment (Z = −2.54, p = .011) and\npre to 1-month (Z = −2.54, p = .011), but not from post to 1-month\n(Z = −.68, p = .50), reﬂecting stability of change."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2185363769531,
+      56.118045806884766,
+      563.7747192382812,
+      168.69569396972656
+    ],
+    "text": "Reliable Change Index (RCI) scores were also calculated for spe-\nciﬁc phobia CSRs to measure clinically signiﬁcant changes from pre\nto post and pre to 1 month. Analyses showed that eight of the nine\nchildren exceeded the clinical cutoff (>1.96) for change in speciﬁc\nphobia scores from pre to post (see Table 2) and that three (33%) of\nthe nine children were in the non-clinical range at post-assessment\n(CSR < 4). For the pre to 1-month follow up, eight of the nine chil-\ndren exceeded the clinical cutoff (>1.96) for change between their\npre and 1-month CSR scores, with 3 (33%) of the children remaining\nin the non-clinical range at the 1-month follow-up assessment. One\nchild did not exhibit change in ADIS CSR (see Table 2)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2185363769531,
+      183.30169677734375,
+      441.3660888671875,
+      191.2718048095703
+    ],
+    "text": "3.3. Changes in avoidant behaviors"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2185363769531,
+      204.22320556640625,
+      563.7755737304688,
+      327.2615966796875
+    ],
+    "text": "Our second hypothesis was that children’s avoidant nighttime\nbehaviors would signiﬁcantly decrease upon completion of treat-\nment. We used inability to sleep in own bed through the night as a\nmeasure of avoidant behavior. Fig. 1 reports the number of nights\neach children slept in their own bed from baseline to follow-up.\nMean at baseline was 2.14 nights per week and increased to 5.2\nnights per week by the end of treatment. One child did not evidence\nany change in number of nights slept in own bed; however, it should\nbe noted that this child did show a decrease in the ADIS ratings\nand the family reported signiﬁcant progress in nighttime behav-\niors over the course of the treatment. Fig. 1 displays the number of\nnights slept in own bed over time."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2201843261719,
+      341.86761474609375,
+      526.0338745117188,
+      349.83770751953125
+    ],
+    "text": "3.4. Changes in child and parent report of fear and anxiety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2201843261719,
+      362.78912353515625,
+      563.7771606445312,
+      433.52374267578125
+    ],
+    "text": "Our last hypothesis stated that we expected decreases in child\nand parent report of nighttime fears and anxiety. To analyze change\nin child fear and anxiety at the symptom level, Friedman tests were\nconducted on the following measures: (1) child reported fear on the\nDark Fear Interview; (2) the nighttime fear subscales of the KFQ; (3)\nthe separation anxiety subscale of the PAS; and (4) parent reported\nchange in nighttime behaviors (see results in Table 3)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2201843261719,
+      448.1297607421875,
+      563.7741088867188,
+      508.4040832519531
+    ],
+    "text": "3.4.1. Dark Fear Interview\nResults of Friedman tests showed signiﬁcant decreases in child\nreported fear on the Dark Fear Interview across pre, post, and 1-\nmonth follow-up (\u00022 (2) = 7.52, p=.023). Wilcoxon tests showed\nsigniﬁcant change in child reported fear from pre to post (Z = −2.40,\np = .017) and from pre to 1-month follow-up (Z = −2.21, p = .027)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      312.2196960449219,
+      523.0100708007812,
+      563.77685546875,
+      583.2842407226562
+    ],
+    "text": "3.4.2. Nighttime fear on the KFQ\nFriedman tests also demonstrated signiﬁcant change on the KFQ\nnighttime fears subscale across pre, post, and 1-month follow-up\n(\u00022(2) = 11.86, p < .05). Wilcoxon tests showed that there were sig-\nniﬁcant changes from pre to post (Z = −2.56, p = .011) and from pre\nto follow-up (Z = 2.38, p = .018). There were signiﬁcant changes on"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      42.73179626464844,
+      599.226806640625,
+      126.14395904541016,
+      614.1710815429688
+    ],
+    "text": "Table 2\nTreatment adherence/dose."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.007896423339844,
+      622.3170776367188,
+      517.6586303710938,
+      714.375244140625
+    ],
+    "text": "#1\n2\n1.9\n1–2 h\n6\n5.67\n14\n#2\n2\n0.8\n30–60 min\n3.67\n1.26\n6\n#3\n2\n2\n>2 h\n5.5\n6.15\n8\n#4\n1\n0.6\n>2 h\n4.5\n2.03\n10\n#5\n1\n1.4\n1–2 h\n6.5\n3.96\n7\n#6\n3+\n2.5\n>2 h\n7.5\n7.17\n14\n#7\n3+\n2.3\n>2 h\n7.5\n6.82\n14\n#8\n1\n1.0\n1–2 h\n3.25\n3.15\n5\n#9\n2\n1.8\n>2 h\n8.25\n5.52\n7\nParticipant\nNo. of times book\nread (TES)*"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      202.46591186523438,
+      699.4281005859375,
+      255.7127227783203,
+      714.3723754882812
+    ],
+    "text": "No. of times book\nread (NMF)**"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      279.34429931640625,
+      699.4281005859375,
+      338.3551025390625,
+      714.3723754882812
+    ],
+    "text": "Average time spent\nper week*"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      356.22271728515625,
+      699.4281005859375,
+      414.3918762207031,
+      722.9406127929688
+    ],
+    "text": "Average number of\ngames played per\nweek**"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      433.10101318359375,
+      699.4281005859375,
+      491.2702331542969,
+      722.9406127929688
+    ],
+    "text": "Average number of\npages read per\nnight**"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      509.9794006347656,
+      699.4281005859375,
+      563.9466552734375,
+      714.3723754882812
+    ],
+    "text": "Number of games\nenjoyed over all*"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      47.29899597167969,
+      727.5291748046875,
+      254.51319885253906,
+      744.7877807617188
+    ],
+    "text": "* Denotes items taken from the Treatment Evaluation Survey (TES).\n** Denotes items taken from the Nightly Monitoring Form (NTM)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      31.921897888183594,
+      37.0523567199707,
+      387.9759826660156,
+      43.4284553527832
+    ],
+    "text": "108\nK.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      31.92125701904297,
+      639.0438232421875,
+      552.9629516601562,
+      653.9880981445312
+    ],
+    "text": "Fig. 1. Number of nights slept in own bed. Note: The time-point preceding the second bar is the post treatment and the ﬁnal time-point is the 1-month follow-up. *Number\nof nights in own bed was not obtained at 1-month follow-up for this case as the family discontinued participation following the post-treatment assessment."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      31.92108917236328,
+      670.4360961914062,
+      283.46624755859375,
+      688.9500122070312
+    ],
+    "text": "the KFQ dark related item from pre to post (Z = −2.43, p = .02) and\nfrom pre to follow-up (Z = −2.43, p = .02)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      31.92029571533203,
+      704.6853637695312,
+      283.4742736816406,
+      744.0379638671875
+    ],
+    "text": "3.4.3. Separation anxiety symptoms (PAS)\nParents reported on child separation anxiety symptoms at pre,\npost, and follow-up using the Preschool Anxiety Scale. There were\nsigniﬁcant decreases in separation anxiety symptoms (\u00022(2) = 8.01,"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      301.4101867675781,
+      670.5193481445312,
+      552.9630126953125,
+      699.4109497070312
+    ],
+    "text": "p = .018). Wilcoxon tests showed signiﬁcant change from pre to\npost (Z = −2.26, p = .024) and between pre and 1-month follow-up\n(Z = −2.32, p = .02)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      301.4093933105469,
+      715.1463623046875,
+      552.9647216796875,
+      744.0379638671875
+    ],
+    "text": "3.4.4. Parent reported nighttime fears (WICDAN)\nWe explored changes in parent reported child nighttime\nbehavior across pre, post, and 1-month follow-up. Results of"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      207.72540283203125,
+      37.0523567199707,
+      564.2769775390625,
+      43.4284553527832
+    ],
+    "text": "K.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112\n109"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.731101989746094,
+      55.5264778137207,
+      212.0166473388672,
+      70.47075653076172
+    ],
+    "text": "Table 3\nADIS Diagnostic Status and Reliable Change Index (RCI)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      78.61656188964844,
+      557.8115234375,
+      84.99266815185547
+    ],
+    "text": "Participant\nPre-treatment\nPost-treatment\nOne-month follow-up\nRCI (pre-post)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      90.9629898071289,
+      537.7269897460938,
+      98.14336395263672
+    ],
+    "text": "1\n6\n4\n4\n−6.30*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      99.5309829711914,
+      537.7396850585938,
+      106.71117401123047
+    ],
+    "text": "2\n6\n5\n–\n−3.15*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      108.09879302978516,
+      537.7396850585938,
+      115.27910614013672
+    ],
+    "text": "3\n6\n1\n1\n−15.75*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      116.6666030883789,
+      537.7269897460938,
+      123.84685516357422
+    ],
+    "text": "4\n7\n1\n5\n−18.90*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      125.2345962524414,
+      537.7269897460938,
+      132.41477966308594
+    ],
+    "text": "5\n7\n1\n1\n−18.90*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.70915985107422,
+      134.60655212402344,
+      537.7396850585938,
+      149.5508270263672
+    ],
+    "text": "6\n7\n7\n4\n0\n7\n8\n5\n3\n−9.45*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      150.93809509277344,
+      537.7396850585938,
+      158.11839294433594
+    ],
+    "text": "8\n6\n5\n4\n−3.15*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      159.50608825683594,
+      537.7396850585938,
+      166.68626403808594
+    ],
+    "text": "9\n7\n6\n5\n−3.15*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      168.8780975341797,
+      423.50714111328125,
+      192.3905487060547
+    ],
+    "text": "Mean (SD)\n6.67 (.71)\n3.89 (2.44)\n3.38 (1.60)\nAt or below clinical cut-off\n0\n4 (44%)\n6 (75%)\nNon-clinical\n0\n3 (33%)\n3 (37.5%)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.73169708251953,
+      199.0448455810547,
+      251.8123016357422,
+      205.4209442138672
+    ],
+    "text": "Note: Clinical cut-off = CSR < 4. At or below clinical cut-off are in bold."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      49.24939727783203,
+      206.0454559326172,
+      105.4488296508789,
+      214.73606872558594
+    ],
+    "text": "* RCI = Sig if >1.96."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.73161315917969,
+      229.92906188964844,
+      109.96697235107422,
+      244.8733367919922
+    ],
+    "text": "Table 4\n-- Outcome measures."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      252.2150115966797,
+      557.7974243164062,
+      259.395263671875
+    ],
+    "text": "Measures\nPre-treatment M (SD)\nPost-treatment M (SD)\nOne-month M (SD)\nFriedman test (\u00022)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      266.16986083984375,
+      520.246826171875,
+      289.68231201171875
+    ],
+    "text": "ADIS CSR\n6.61 (.71)\n3.89 (2.44)\n3.75 (1.60)\n12.93\nKFQ total\n37.62 (9.24)\n30.75 (13.36)\n27.13(14.61)\n3.16\nKFQ subscale\n5.38 (1.06)\n3.25 (1.98)\n2.5 (2.07)\n11.86*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      291.0693664550781,
+      520.246826171875,
+      298.24957275390625
+    ],
+    "text": "KFQ dark\n1.88 (.35)\n.63 (.92)\n.5 (.76)\n11.22*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      299.6371765136719,
+      520.234130859375,
+      306.8175048828125
+    ],
+    "text": "PAS-separation\n5.63 (4.66)\n4.0 (3.3)\n2.63 (2.07)\n8.07*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      308.2050476074219,
+      520.246826171875,
+      315.3853759765625
+    ],
+    "text": "Child reported fear (0–5)\n3.5 (.76)\n1.63 (1.4)\n1.5 (1.69)\n7.52*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      316.7732849121094,
+      520.246826171875,
+      323.95330810546875
+    ],
+    "text": "WICDAN\n7 (3.59)\n16.75 (3.69)\n16.25 (4.46)\n12.45*"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      49.24949645996094,
+      328.5426940917969,
+      74.9130630493164,
+      337.2332763671875
+    ],
+    "text": "* p < .05."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.731605529785156,
+      352.41986083984375,
+      182.5595245361328,
+      367.3641662597656
+    ],
+    "text": "Table 5\nWhat My Child Can Do in the Dark (WICDAN)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      375.5101013183594,
+      556.5491333007812,
+      381.8861999511719
+    ],
+    "text": "Participant\nPre\nTx1\nTx2\nTx3\nTx4\nPost\nOne-month"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.709197998046875,
+      388.6607971191406,
+      553.8609008789062,
+      472.1507568359375
+    ],
+    "text": "1\n8\n10\n10\n10\n14\n15\n15\n2\n4\n3\n2\n3\n3\n5\n–\n3\n4\n15\n18\n18\n22\n21\n22\n4\n10\n21\n17\n21\n20\n22\n17\n5\n7\n14\n16\n18\n20\n19\n20\n6\n4\n14\n13\n17\n19\n16\n7\n7\n8\n10\n13\n13\n14\n14\n18\n8\n13\n12\n16\n13\n15\n16\n15\n9\n2\n10\n13\n12\n12\n11\n16\nMean (SD)\n7.0 (3.6)\n16.75 (3.9)\n13.25 (3.73)\n14.38 (2.6)\n15.63 (3.7)\n16.75 (3.9)\n16.25 (4.5)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.727996826171875,
+      491.2923889160156,
+      294.28863525390625,
+      603.8701782226562
+    ],
+    "text": "Friedman tests showed signiﬁcant change on the WICDAN scale\n(\u00022(2) = 27.18, p = .000) with Wilcoxon tests demonstrating signif-\nicant changes between pre-assessment and week 1 of treatment\n(Z = −2.39, p = .017). There were also signiﬁcant changes between\npre and week 2 (Z = −2.53, p = .012), week 3 (Z = −2.54, p = .012), and\nweek 4 (Z = −2.38, p = .018) suggesting that children demonstrated\nsigniﬁcant behavioral change across treatment (see Table 4). Note\nthat all of the children demonstrated increases in their WICDAN\nscore suggesting that parents were able to identify improvements\nin what their child is able to do in the dark after treatment and\nthrough follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.732322692871094,
+      620.99951171875,
+      129.064453125,
+      628.9696044921875
+    ],
+    "text": "3.5. Satisfaction results"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      42.732322692871094,
+      641.9210205078125,
+      294.287841796875,
+      744.0379028320312
+    ],
+    "text": "Generally, parents were satisﬁed with the program, rating it\na 4.2 on the 5-point scale for helpfulness on the post-treatment\nevaluation survey. All nine parents reported that the book helped\ntheir child become less fearful of the dark. One parent reported\nonly slight improvement, ﬁve indicated moderate improvement,\ntwo reported major improvement, and one reported that the child\nwas no longer afraid of the dark at all. All nine parents reported that\nthe child was now able to walk into dark rooms alone while ﬁve\nreported that their child was able to sleep alone in the dark. Over-\nall, the parents reported that their child enjoyed “reading” the book,"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      312.2213439941406,
+      491.2925109863281,
+      563.7776489257812,
+      603.8701782226562
+    ],
+    "text": "with a mean enjoyment rating of 3.8 on a 5-point scale compared\nto other books they have read.\nOn the treatment satisfaction survey administered during the 1-\nmonth follow-up, most parents reported that the program helped\nthem understand more about phobias (rating of 4.25 out of 5),\nhelped them learn ways to help their child overcome their fears\n(4.37 out of 5), and helped them cope better with their child’s fears\n(4.37 out of 5). Most parents also reported treatment to be helpful\nand effective (4.5 out of 5), and that they would recommend the\nprogram to a friend whose child has a similar problem (4.75 out\nof 5)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      312.2213439941406,
+      620.99951171875,
+      366.8484191894531,
+      628.9696044921875
+    ],
+    "text": "4. Discussion"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      312.2213439941406,
+      641.9210205078125,
+      563.7783203125,
+      744.0379028320312
+    ],
+    "text": "In this study, we evaluated the initial efﬁcacy of bibliotherapy\nfor nine children with speciﬁc phobia of the dark and excessive\nnighttime fears in a non-concurrent multiple baseline design. Past\nresearch on the treatment of speciﬁc phobias in young children has\nutilized individual CBT approaches with success; however, these\ninterventions frequently required up to 16 weekly clinic sessions\n(e.g., Albano, Marten, Holt, Heimberg, & Barlow, 1995; Kendall,\n1994; Silverman et al., 1999). The current study explored the effec-\ntiveness of a home-based treatment for nighttime fears, which\nrequired minimal clinic contact during treatment. Our hypotheses"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      31.921897888183594,
+      37.0523567199707,
+      387.9759826660156,
+      43.4284553527832
+    ],
+    "text": "110\nK.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      31.921852111816406,
+      56.117679595947266,
+      283.47979736328125,
+      744.0368041992188
+    ],
+    "text": "were that children would exhibit signiﬁcant changes in the severity\nof their phobia, would demonstrate decreases in avoidant behav-\niors, and that both parents and children would report decreased\nanxiety and fear symptoms following the 4-week treatment. In line\nwith previous research, the present study found empirical evidence\nfor the efﬁcacy of bibliotherapy for anxiety symptoms in young\nchildren.\nOverall, our study provides initial support for the effective-\nness of the modiﬁed Uncle Lightfoot (Coffman, 2012) book. Results\ndemonstrated improvement in parent and child report of dark fears\nand anxiety symptoms as well as improvement in avoidant behav-\niors associated with nighttime routines. Although gains for some\nchildren were limited, a signiﬁcant decrease in ADIS CSRs was\nreported for eight of the nine children (88.88%). Likewise, while\nonly three of the nine cases were in the subclinical range (CSR < 4) at\nthe 1-week post treatment and the 1-month follow up assessment,\nall but one child demonstrated clinically signiﬁcant improvements\nin nighttime behavior. Decreases in child avoidance behavior were\nexhibited, which were reﬂected in the increased average of nights\nspent in child’s own bed and parental report of children’s ability\nto enter dark rooms alone. Some children exhibited greater gains\nthan other children; however, on average, nights spent in the child’s\nown bed increased from about two nights per week to ﬁve nights\nper week following treatment.\nOur results also support short-term improvements in parent\nreported separation anxiety symptoms (PAS), a ﬁnding consistent\nwith reports of generalization of cognitive behavioral treatment\nfor the anxiety disorders (Olatunji, Cisler, & Tolin, 2010; Ollendick\net al., 2010). Children reported decreases in their nighttime fears, as\nmeasured by the KFQ subscale and decreases in their overall fear of\nbeing in the dark alone. Of additional importance, parents reported\nbeing satisﬁed with the treatment, such that they noticed signiﬁ-\ncant changes in their children’s fears, learned about fears and how\nto handle them, and observed that their children enjoyed partici-\npating in the treatment. In this regard, the bibliotherapy was not\nonly clinically effective but also proved to be user-friendly and well\nreceived by both parents and children.\nFrom a clinical perspective, the children and their parents’\nresponses to our brief, home-based cognitive behavioral bibliother-\napy intervention indicates that this approach may be an effective\nand practical alternative to weekly CBT clinic treatment for such\nproblems. Compared to more traditional CBT treatments, this\napproach allows the participants more ﬂexibility in the timing and\nadministration of the therapy. In addition, this treatment seems\nparticularly suitable to families from rural areas and for families\nin which barriers to treatment such as transportation, childcare, or\nﬁnances may be present. Importantly, this treatment requires full\nparental participation, which, as some research suggests, results in\ngreater improvements in child anxiety and coping strategies than\nchild-alone treatments (Mendlowtiz et al., 1999; Wood, Piacentini,\nSoutham-Gerow, Chu & Sigman, 2006), especially so with very\nyoung children.\nAs noted earlier, there are several merits to utilizing a sin-\ngle case design in exploring novel treatments. In our particular\nstudy, we were able to obtain relatively stable baseline measure of\nnighttime behavior prior to treatment, which allows greater conﬁ-\ndence in establishing a relationship between the treatment variable\nand behavior change (Watson & Workman, 1981). Moreover, as\nHawkins, Sanson-Fisher, Shakeshaft, D’Este, and Green (2007) note,\nin order for a multiple baseline study to demonstrate methodologi-\ncal rigor, it must show: (1) a change in behavior, (2) that the change\nwas likely due to the intervention, and (3) clinically signiﬁcant\nand practical change. This current study meets all three criteria by\ndemonstrating behavioral change following initiation of the treat-\nment and obtaining clinically signiﬁcant decreases in symptoms\nand parent report of practical change. Still, it will be important for"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.4108581542969,
+      56.116764068603516,
+      552.9680786132812,
+      210.5374298095703
+    ],
+    "text": "future research to identify children and families who are most likely\nto respond to such a treatment as Uncle Lightfoot (Coffman, 2012).\nIn addition, this treatment might be used as a ﬁrst line treatment\nto target speciﬁc phobias and nighttime fears before recommen-\nding more intensive clinic-based treatment. Clinicians can use this\nbook as a resource and reference for parents. Using a stepped/tiered\napproach, bibliotherapy can offer a simple, non-intrusive treatment\nthat can remove stigma that is often associated with mental health\nservices. Moreover, as a low intensity treatment, it can be stepped\nup if signiﬁcant change is not demonstrated. Given the stability\nof effects from post to follow-up, improvement can be monitored\nover this period before deciding to seek further treatment. Success\nwith a bibliotherapy treatment may encourage families to pursue\nmore intensive individual treatment for other problems with their\ntherapist."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.4108581542969,
+      228.47015380859375,
+      360.41351318359375,
+      236.4402618408203
+    ],
+    "text": "4.1. Limitations"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.4108581542969,
+      249.39166259765625,
+      552.9680786132812,
+      581.6451416015625
+    ],
+    "text": "As with any research study, some limitations must be noted.\nFirst, our sample was largely homogenous, as our children came\nfrom intact households with highly educated parents. As a result,\nﬁndings may not generalize to children with parents who have\nfewer resources and less time to dedicate to reading with their chil-\ndren and to follow through on the exposure exercises. Moreover,\ncultural relevance will need further exploration, as co-sleeping is\nan acceptable practice in many cultures. Future studies with more\na more diverse sample will need to include an assessment of fear to\nsleep alone and not just nights slept in own bed. Second, given that\nthis was a parent administered home treatment, the therapist had\nlittle control over how much treatment each child received. We\nobtained information on the number of times the book was read\nand for how long each night, but these were estimates provided\nby the parents and they may not have monitored all exposures\nand related activities as requested. Third, given the known indi-\nrect and direct links between parent anxiety and child anxiety\n(Beidel & Turner, 1997; Cobham, Dadds, & Spence, 1998; McClure,\nBrennan, Hammen, & Le Brocque, 2001), information regarding\nparental anxiety diagnoses and other relevant parenting factors\nwere not obtained, but would have been helpful as we would expect\nmore anxious parents to have more challenges helping their chil-\ndren with their fears. Lastly, there was one child who did not show\nany improvements in the number of nights slept in their own bed\n(see Fig. 1); however, parents reported improvements in the child’s\nability to fall asleep in his own room and in the severity of his\nfear. Our reliance on such a concrete assessment (number of nights\nslept in children’s own bed) does not address other behavioral\nimprovements the child may have made. Moreover, we did not ade-\nquately explore other barriers (e.g., parenting practices, parental\npsychopathology), which may have been maintaining the child’s\ninability to sleep in their own bed."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.4108581542969,
+      600.0759887695312,
+      357.8551330566406,
+      608.0460815429688
+    ],
+    "text": "5. Conclusion"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      301.4108581542969,
+      620.9974975585938,
+      552.9672241210938,
+      744.035888671875
+    ],
+    "text": "Despite the limitations noted, the present study provides\npromising ﬁndings for the efﬁcacy of this brief bibliotherapy treat-\nment. Our results are encouraging for future research, which will\nneed to identify moderators of treatment outcome, such as for\nwhom and under what conditions bibliotherapy treatment might\nlead to positive treatment outcomes, as well as the mediators of\nchange. As a tiered approach, bibliotherapy may become a ﬁrst line\ntreatment for low to moderate fears and anxiety disorders before\nmore resources are invested into longer-term weekly treatment\nsessions in a clinic setting. Future studies are also needed to include\na larger, more diverse sample as most of our children were from 2-\nparent, highly educated families whose family income was in the"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      207.72540283203125,
+      37.0523567199707,
+      564.2769165039062,
+      43.4284553527832
+    ],
+    "text": "K.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112\n111"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      42.731773376464844,
+      56.117679595947266,
+      294.28887939453125,
+      241.9206085205078
+    ],
+    "text": "medium range. Because selection of a 4-week treatment period was\narbitrary and shorter than many traditional cognitive–behavioral\ntreatments for nighttime fears, future studies might also deter-\nmine the effects of longer time frames with books such as this (e.g.,\n6–8 weeks). Additionally, a longer follow-up period would help to\ndetermine maintenance of effects and whether children continue\nto improve over time.\nFuture studies should also break down the treatment to identify\nthe speciﬁc components that contribute to therapeutic success. We\nknow that the most effective treatment components for anxiety\nwith young children have been shown to be exposure, participating\nmodeling, and reinforcement (Ollendick & King, 1998); therefore,\nit would be useful to determine which speciﬁc games are linked\nto changes in child behavior and symptoms to help strengthen the\noverall effectiveness of the bibliotherapy treatment. Nonetheless,\nUncle Lightfoot (Coffman, 2012) illustrates how exposure therapy\ncan be presented in a positive way such that children can actually\n“celebrate” and enjoy facing their fears."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      42.731781005859375,
+      263.43988037109375,
+      86.38402557373047,
+      271.40997314453125
+    ],
+    "text": "References"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      42.730323791503906,
+      283.03021240234375,
+      294.2902526855469,
+      743.7034301757812
+    ],
+    "text": "Albano, A. M., Marten, P. A., Holt, C. S., Heimberg, R. G., & Barlow, D. H. (1995).\nCognitive–behavioral group treatment for social phobia in adolescents: a pre-\nliminary study. Journal of Nervous and Mental Disease, 183(10), 649–656.\nAlfano, C. A., Ginsburg, G. S., & Kingery, J. N. (2007). Sleep-related problems among\nchildren and adolescents with anxiety disorders. Journal of the American Academy\nof Child and Adolescent Psychiatry, 46, 224–232.\nBeidel, D. C., & Turner, S. M. (1997). At risk for anxiety: I: Psychopathol-\nogy in the offspring of anxious parents. Journal of the American Academy\nof Child & Adolescent Psychiatry, 36(7), 918–924. http://dx.doi.org/10.1097/\n00004583-199707000-00013\nBittner, A., Egger, H. L., Erkanli, A., Costello, E. J., Folley, D. L., & Angold, A. (2007).\nWhat do childhood anxiety disorders predict? Journal of Child Psychology and\nPsychiatry, 48, 1174–1183. http://dx.doi.org/10.1111/j.1469-7610.2007.01812\nBroeren, S., & Muris, P. (2008). Psychometric evaluation of two new parent-rating\nscales for measuring anxiety symptoms in young Dutch children. Journal of Anx-\niety Disorders, 22, 949–958. http://dx.doi.org/10.1016/j.janxdis.2007.09.008\nChambless, D. L., & Ollendick, T. H. (2001). Empirically supported psychological inter-\nventions: controversies and evidence. Annual review of Psychology, 52, 685–716.\nhttp://dx.doi.org/10.1146/annurev.psych.52.1.685\nChorpita, B. F., Daleidan, E. L., Ebesutani, C., Young, J., Becker, K. D., Naka-\nmura, B. J., et al. (2011). Evidence-based treatments for children and\nadolescents: an updated review of indicators of efﬁcacy and effectiveness.\nClinical Psychology: Science and Practice, 18(2), 154–172. http://dx.doi.org/\n10.1111/j. 1468-2850.2011.01247.x\nCobham, V. (2012). Do anxiety disordered children need to come into the clinic\nfor efﬁcacious treatment? Journal of Consulting and Clinical Psychology, 80(3),\n465–476. http://dx.doi.org/10.1037/a0028205\nCobham, V. E., Dadds, M. R., & Spence, S. H. (1998). The role of parental anxiety in\nthe treatment of childhood anxiety. Journal of consulting and clinical psychology,\n66(6), 893. http://dx.doi.org/10.1037/0022-006X.66.6.893\nCoffman, M. F. (1980–1983). Uncle lightfoot. Unpublished manuscript.\nCoffman, M. F. (1987). What my child can do in the dark. Unpublished instrument.\nCoffman, M. F. (2012). Uncle lightfoot, ﬂip that switch: overcoming fear of the dark. St.\nPetersburg FL: Footpath Press LLC (Academic Edition, D.C. Dusevitch, Illustrator).\nCoffman, M. F. (2014). Uncle lightfoot: ﬂip that switch: overcoming fear of the dark (2nd\ned.). St. Petersburg, FL: Footpath Press LLC (D.C. Dusevitch, Illustrator).\nCoffman, M., Andrasik, F., & Ollendick, T. H. (2013). Bibliotherapy for anxious and\nphobic youth. In: C. A. Essau, & T. H. Ollendick (Eds.), The Wiley-Blackwell hand-\nbook of the treatment of childhood and adolescent anxiety. Chichester, West Sussex,\nUK: John Wiley & Sons, Ltd. http://dx.doi.org/10.1002/9781118315088.ch13\nCohen, L. H. (1988). Research on mental health quality assurance. In: G. Stricker, & A.\nR. Rodriguez (Eds.), Handbook of quality assurance in mental health (pp. 65–79).\nNew York, NY: Plenum Press.\nDavis, T. E., & Ollendick, T. H. (2005). Empirically supported treatments for spe-\nciﬁc phobia in children: do efﬁcacious treatments address the components of\na phobic response? Clinical Psychology: Science and Practice, 12(2), 144–160.\nhttp://dx.doi.org/10.1093/clipsy.bpi018\nDunn, L. M., & Dunn, D. M. (2007). Peabody picture vocabulary test (4th ed.). Min-\nneapolis, MN: Pearson Assessments.\nEdwards, S. L. (2007). Temperament and environmental risk factors contributing to\nanxiety symptoms in preschool-aged children. Australia: Macquarie University.\nUnpublished Ph.D. thesis.\nElgar, F. J., & McGarth, P. J. (2008). Self-help therapies for childhood disorders. In:\nP. L. Watkins, & G. A. Clum (Eds.), Handbook of self-help therapies (pp. 129–161).\nNew York, NY: Routledge.\nGordon, J., King, N. J., Gullone, E., Muris, P., & Ollendick, T. H. (2007). Treatment of\nchildren’s nighttime fears: the need for a modern randomized controlled trial.\nClinical Psychology Review, 98–113. http://dx.doi.org/10.1016/j.cpr.2006.07.002"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      312.2192077636719,
+      57.3742561340332,
+      563.7808227539062,
+      741.212890625
+    ],
+    "text": "Gould,\nR.\nA.,\n&\nClum,\nG.\nA.\n(1993).\nA\nmeta-analysis\nof\nself-help\ntreat-\nment approaches. Clinical Psychology Review, 13, 169–186. http://dx.doi.org/\n10.1016/0272-7358(93)90039-O\nGraziano, A. M., Mooney, K. C., Huber, C., & Ignasiak, D. (1979). Self-control instruc-\ntion for children’s fear reduction. Journal of Behavior Therapy and Experiential\nPsychiatry, 10, 221–227. http://dx.doi.org/10.1016/0005-7916(79)90067\nGrills, A. E., & Ollendick, T. H. (2003). Multiple informant agreement and\nthe Anxiety Disorders Interview Schedule for Parents and Children. Jour-\nnal of the American Academy of Child and Adolescent Psychiatry, 42, 30–40.\nhttp://dx.doi.org/10.1097/00004583-200301000-00008\nHawkins, N. G., Sanson-Fisher, R. W., Shakeshaft, A., D’Este, C., & Green,\nL. W. (2007). The multiple baseline design for evaluating population-\nbased research. American Journal of Preventive Medicine, 33(2), 162–168.\nhttp://dx.doi.org/10.1016/j.amepre.2007.03.020\nHirai, M., & Clum, G. A. (2006). A meta-analytic study of self-help interven-\ntions for anxiety problems. Behavior Therapy, 37, 99–111. http://dx.doi.org/\n10.1016/j.beth.2005.05.002\nHorner, R. H., Carr, E. G., Halle, J., McGee, G., Odom, S., & Wolery, M. (2005).\nThe use of single-subject research to identify evidence-based practice in spe-\ncial education. Exceptional Children, 71, 165–179. http://dx.doi.org/10.1177/\n001440290507100203\nIn-Albon, T., & Schneider, S. (2007). Psychotherapy of childhood anxiety dis-\norders:\na\nmeta-analysis.\nPsychotherapy\n&\nPsychosomatics,\n76(1),\n15–24.\nhttp://dx.doi.org/10.1159/000096361\nJacobson, N. S., & Truax, P. (1991). Clinical signiﬁcance: a statistical approach to\ndeﬁning meaningful change in psychotherapy research. Journal of Consulting and\nClinical Psychology, 59, 12–19. http://dx.doi.org/10.1037/0022-006X.59.1.12\nKendall, P. C. (1994). Treating anxiety disorders in children: results of a random-\nized clinical trial. Journal of Consulting and Clinical Psychology, 62, 100–110.\nhttp://dx.doi.org/10.1037/0022-006X.62.1.100\nKendall, P. C. (2012). Guiding theory for therapy with children and adolescents. In:\nP. C. Kendall (Ed.), Child and adolescent therapy: cognitive–behavioral procedures\n(4th ed., pp. 3–24). New York, NY: Guilford Press.\nKendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M.,\nHenin, A., & Warman, M. (1997). Therapy for youths with anxiety disorders: a\nsecond randomized clinical trial. Journal of Consulting and Clinical Psychology, 65,\n366–380. http://dx.doi.org/10.1037/0022-006X.65.3.366\nKendall, P. C., Robin, J. A., Hedtke, K. A., Suveg, C., Flannery-Schroeder, E.,\n& Gosch, E. (2005). Considering CBT with anxiety youth? Think expo-\nsures. Cognitive and Behavioral Practice, 12, 136–150. http://dx.doi.org/10.1016/\nS1077-7229(05)80048-3\nKessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E.\n(2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders\nin the national comorbidity survey replication. Archives of General Psychiatry, 62,\n593–602. http://dx.doi.org/10.1001/archpsyc.62.6.593\nKing, N., Ollendick, T. H., & Tonge, B. J. (1997). Children’s nighttime fears. Clinical\nPsychology Review, 17, 431–443. http://dx.doi.org/10.1016/S0272-7358(97)14-7\nKushnir, J., & Sadeh, A. (2011). Sleep of preschool children with night-time fears.\nSleep Medicine, 12, 870–874. http://dx.doi.org/10.1016/j.sleep.2011.03.022\nLenkowsky, R. S. (1987). Bibliotherapy: a review and analysis of the liter-\nature. The Journal of Special Education, 21(2), 123–132. http://dx.doi.org/\n10.1177/002246698702100211\nMendlowtiz, S., Manassis, K., Bradley, S., Scapillato, D., Miezitis, S., & Shaw, B.\nE. (1999). Cognitive–behavioral group treatments in childhood anxiety dis-\norders: the role of parental involvement. Journal of the American Academy of\nChild & Adolescent Psychiatry, 38(10), 1223–1229. http://dx.doi.org/10.1097/\n00004583\nMcClure, E. B., Brennan, P. A., Hammen, C., & Le Brocque, R. M. (2001). Parental\nanxiety disorders, child anxiety disorders, and the perceived parent–child rela-\ntionship in an Australian high-risk sample. Journal of Abnormal Child Psychology,\n29(1), 1–10.\nMikulas, W. L., & Coffman, M. F. (1989). Home-based treatment of children’s fear\nof the dark. In: C. E. Schaefer, & J. M. Briesmeister (Eds.), Handbook of parents\ntraining: parents as co-therapists for children’s behavior problems. Wiley series on\npersonality processes (pp. 179–202). Oxford, England: John Wiley & Sons.\nMikulas, W. L., Coffman, M. G., Dayton, D., Frayne, C., & Maier, P. L. (1985). Behavioral\nbibliotherapy and games for treating fear of the dark. Child, 7, 1–7.\nMorgan, D. L., & Morgan, R. K. (2009). Single-case research methods for the behavioral\nand health sciences. Thousand Oaks, CA: Sage.\nMuris, P., Meesters, C., Mayer, B., Bogie, N., Luijten, M., Geebelen, E., et al. (2003). The\nKoala Fear Questionnaire: a standardized self-report scale for assessing fears and\nfearfulness in pre-school and primary school children. Behaviour Research and\nTherapy, 41, 597–617. http://dx.doi.org/10.1016/S0005-7967(02)98-0\nMuris, P., Merckelbach, H., Mayer, B., & Prins, E. (2000). How serious are\ncommon childhood fears? Behaviour Research and Therapy, 38, 217–228.\nhttp://dx.doi.org/10.1016/S0005-7967(98)204-6\nMuris, P., Merckelbach, H., Ollendick, T. H., King, N. J., & Bogie, N. (2001). Chil-\ndren’s nighttime fears: parent–child ratings of frequency, content, origins,\ncoping behaviors and severity. Behaviour Research and Therapy, 39, 13–28.\nhttp://dx.doi.org/10.1016/S0005-7967(99)155-2\nOlatunji, B. O., Cisler, J. M., & Tolin, D. (2010). A meta-analysis of the inﬂuence of\ncomorbidity on treatment outcome in the anxiety disorders. Clinical Psychology\nReview, 30(6), 642–654. http://dx.doi.org/10.1016/j.cpr.2010.04.008\nOllendick, T. H., Jarrett, M. A., Grills-Taquechel, A. E., Hovey, L. D., & Wolff, J.\nC. (2008). Comorbidity as a predictor and moderator of treatment outcome\non youth with anxiety, affective, attention deﬁcit/hyperactivity disorder, and"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      31.921897888183594,
+      37.0523567199707,
+      387.9759826660156,
+      43.4284553527832
+    ],
+    "text": "112\nK.M. Lewis et al. / Journal of Anxiety Disorders 30 (2015) 103–112"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      31.92070770263672,
+      57.37614822387695,
+      283.4800720214844,
+      334.7374572753906
+    ],
+    "text": "oppositional/conduct disorders. Clinical Psychology Review, 28, 1447–1471.\nhttp://dx.doi.org/10.1016/j.cpr.2008.09.003\nOllendick, T. H., & King, N. J. (1998). Empirically supported treatments for chil-\ndren with phobic and anxiety disorders: current status. Journal of Clinical Child\nPsychology, 27(2), 156–167. http://dx.doi.org/10.1207/s15374424jccp2702 3\nOllendick, T. H., Ost, L., Reuterkiold, L., & Costa, N. (2010). Comorbidity in youth\nwith speciﬁc phobias: impact of comorbidity on treatment outcome and the\nimpact of treatment on comorbid disorders. Behavioral Research and Therapy,\n48(9), 827–831. http://dx.doi.org/10.1016/j.brat.2010.05.024\nPaparoussi, M., Andreou, E., & Gkouni, V. (2011). Approaching children’s fears\nthrough bibliotherapy: a classroom-based intervention. Part I: community-\nbuilding and student learning. In: J. Hagan, & A. T. Kisbi (Eds.), Best practices\nin human services: a global perspective (pp. 284–300). Council for Standards in\nHuman Service Education.\nParslow, R., Morgan, A. J., Allen, N. B., Jorm, A. F., O’Donnell, C. P., & Purcell, R. (2008).\nEffectiveness of complementary and self-help treatments for anxiety in children\nand adolescents. Medical Journal of Australia, 188(6), 355–359.\nRapee, R. M. (2003). The inﬂuence of comorbidity on treatment outcome for children\nand adolescents with anxiety disorders. Behaviour Research and Therapy, 4(11),\n105–112. http://dx.doi.org/10.1016/S0005-7967(02)00049-9\nRapee, R. M., Abbott, M. J., & Lyneham, H. J. (2006). Bibliotherapy for children\nwith anxiety disorders using written materials for parents: a randomized\ncontrolled trial. Journal of Consulting and Clinical Psychology, 74, 436–444.\nhttp://dx.doi.org/10.1037/0022-006X.74.3.436\nRapee, R. M., Kennedy, S., Ingram, M., Edwards, S., & Sweeney, L. (2005). Preven-\ntion and early intervention of anxiety disorders in inhibited preschool children.\nJournal of Consulting and Clinical Psychology, 73, 488–497. http://dx.doi.org/\n10.1037/0022-006X.73.3.488\nRapee, R. M., Spence, S., Cobham, C., & Wignall, A. (2000). Helping your anxious child.\nA step-by-step guide for parents. Oakland, CA: New Harbinger.\nRickwood, D., & Bradford, S. (2011). The role of self-help in the treatment of mild anx-\niety disorders in young people: an evidence-based review. Psychology research\nand behavior management, 5, 25–36. http://dx.doi.org/10.2147/PRBM.S23357\nSadeh, A. (2005). Cognitive–behavioral treatment for childhood sleep disorder. Clini-\ncal Psychology Review, 25, 612–628. http://dx.doi.org/10.1016/j.cpr.2005.04.006"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      301.4097900390625,
+      57.3764533996582,
+      552.9686889648438,
+      334.7371520996094
+    ],
+    "text": "Santacruz, I., Mendez, F. J., & Sanchez-Meca, J. (2006). Play therapy applied by parents\nfor children with darkness phobia: comparison of two programmes. Child &\nFamily Behavior Therapy, 28, 19–35. http://dx.doi.org/10.1300/J019v28n01 02\nSeligman, L. D., & Ollendick, T. H. (2011). Cognitive–behavioral therapy for anxiety\ndisorders in youth. Child and Adolescent Psychiatric Clinics of North America, 20,\n217–238. http://dx.doi.org/10.1016/j.chc.2011.01.003\nSilverman, W. K., & Albano, A. M. (1996). The anxiety disorders interview Schedule for\nDSM-IV child and parent versions. London: Oxford University Press.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., Weems, C. F., Lumpkin, P. W.,\n& Carmichale, D. H. (1999). Treating anxiety disorders in children with group\ncognitive behavioral therapy: a randomized control trial. Journal of consulting\nand clinical psychology, 67(6), 995.\nSilverman, W. K., & Ollendick, T. H. (2005). Evidence-based assessment of anxiety and\nits disorders in children and adolescents. Journal of Clinical Child and Adolescent\nPsychology, 34, 380–411. http://dx.doi.org/10.1207/s15374424jccp3403 2\nSilverman, W. K., Saavedra, L. M., & Pina, A. A. (2001). Test–retest reliability of\nanxiety symptoms and diagnoses with anxiety disorders interview sched-\nule for DSM-IV: child and parent versions. Journal of the American Academy\nof Child & Adolescent Psychiatry, 40, 937–944. http://dx.doi.org/10.1097/\n00004583-200108000-00016\nSpence, S. H., Rapee, R., McDonald, C., & Ingram, M. (2001). The structure of anxiety\nsymptoms among preschoolers. Behaviour Research and Therapy, 39, 1293–1316.\nhttp://dx.doi.org/10.1016/S0005-7967(00) 98-X\nWalkup, J. T., Albano, A. M., Piacentini, J., Birmaher, B., Compton, S. N., Sherrill,\nJ. T., et al. (2008). Cognitive behavioral therapy, sertraline, or a combination\nin childhood anxiety. New England Journal of Medicine, 359(26), 2753–2766.\nhttp://dx.doi.org/10.1056/NEJMoa0804633\nWatson, P. J., & Workman, E. A. (1981). The non-concurrent multiple baseline\nacross-individuals design: an extension of the traditional multiple baseline\ndesign. Journal of Behavior Therapy and Experimental Psychiatry, 12(3), 257–259.\nhttp://dx.doi.org/10.1016/0005-7916(81) 90055-0\nWood, J. J., Piacentini, J. C., Southam-Gerow, M., Chu, B. C., & Sigman, M. (2006).\nFamily cognitive behavioral therapy for child anxiety disorders. Journal of\nthe American Academy of Child and Adolescent Psychiatry, 45(3), 314–321.\nhttp://dx.doi.org/10.1097/01. chi.0000196425.88341. b0"
+  }
+]

@@ -1,0 +1,1942 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      71.04000091552734,
+      67.47480773925781,
+      200.9544219970703,
+      79.10256958007812
+    ],
+    "text": "BEHAVIOR THERAPY 29, 105-121, 1998"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      130.0800018310547,
+      123.92642974853516,
+      339.603515625,
+      141.11138916015625
+    ],
+    "text": "Prescriptive Treatment for Generalized"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      156.47999572753906,
+      137.84640502929688,
+      312.487060546875,
+      155.0313720703125
+    ],
+    "text": "Anxiety Disorder in Children"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      193.1999969482422,
+      166.3548126220703,
+      275.8624267578125,
+      177.56040954589844
+    ],
+    "text": "ANDREW R. EISEN"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      124.08000183105469,
+      182.83511352539062,
+      346.0690612792969,
+      193.67759704589844
+    ],
+    "text": "Child Anxiety Disorders Clinic, Fairleigh Dickinson University"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      185.0399932861328,
+      204.777587890625,
+      283.47979736328125,
+      218.07359313964844
+    ],
+    "text": "WENDY K. SILVERMAN"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      91.91999816894531,
+      222.43511962890625,
+      378.4690856933594,
+      233.27760314941406
+    ],
+    "text": "Child and Family Psychosocial Research Center, Florida International University"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.0,
+      246.03480529785156,
+      380.2600402832031,
+      357.0804138183594
+    ],
+    "text": "This investigation compared the preliminary efficacy of prescriptive and nonprescrip- \ntire cognitive-behavioral interventions (i.e., cognitive therapy/exposure or relaxation \ntraining/exposure) for problematic response classes (cognitive or somatic symptoms) \nof 4 overanxious children (8 to 12 years) using a multiple baseline design across sub- \njects. Participants also met DSM-IVcriteria for generalized anxiety disorder. All chil- \ndren improved on pre-post child and parent self-report measures, independent cli- \nnician ratings, and physiologic recordings. Treatment gains were generally \nmaintained at 6-month follow-up. Although both treatments were effective, only pre- \nscriptive treatments produced sufficient improvement for participants to meet posi- \ntive end-state criteria. Implications for the prescriptive treatment of anxiety dis- \norders in children are discussed."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.95999908447266,
+      368.19647216796875,
+      398.597412109375,
+      508.3973083496094
+    ],
+    "text": "The nature of generalized anxiety in children is continuing to change. In \nthe third edition of the Diagnostic and Statistical Manual of Mental Dis- \norders (DSM-III-R; American Psychiatric Association, 1987), overanxious \ndisorder (OAD) was characterized by the presence of excessive worries, so- \nmatic complaints, and self-consciousness. In the fourth edition of the Diag- \nnostic and Statistical Manual of Mental Disorders (DSM-IV; American Psy- \nchiatric Association, 1994), OAD was subsumed under the category of \ngeneralized anxiety disorder (GAD). In this system, the frequency and con- \ntrollability of worry became cardinal features, whereas the experience of \nphysical symptoms was relegated to a lesser role. This conceptual shift has \ncreated a new research agenda that requires an examination of individuals \nwith GAD across the lifespan (Kendall, MacDonald, & Treadwell, 1995)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.68000030517578,
+      505.4764709472656,
+      397.9748229980469,
+      530.957275390625
+    ],
+    "text": "Epidemiological data examining children with generalized anxiety are \nlimited to studies employing children with OAD. Data suggest that OAD com-"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.44000244140625,
+      547.7147827148438,
+      397.9476013183594,
+      569.0004272460938
+    ],
+    "text": "Correspondence concerning this article should be addressed to Andrew R. Eisen, Ph.D., De- \npartment of Psychology, Fairleigh Dickinson University, 1000 River Road, Teaneck, NJ 07666."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      196.0800018310547,
+      579.48095703125,
+      399.0658874511719,
+      598.9425659179688
+    ],
+    "text": "105 \n0005-7894/98/0105-0121 $1.00/0 \nCopyright 1998 by Association for Advancement of Behavior Therapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      258.4800109863281,
+      595.2348022460938,
+      398.84381103515625,
+      606.4404296875
+    ],
+    "text": "All rights of reproduction in any form reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.19999694824219,
+      67.22208404541016,
+      272.5175476074219,
+      78.74784851074219
+    ],
+    "text": "106 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      91.13304138183594,
+      398.6243591308594,
+      196.5799102783203
+    ],
+    "text": "prises 3% to 4% of the general population (Anderson, Williams, McGee, & \nSilva, 1987; Bowen, Offord, & Boyle, 1990) and 24% to 29% of specialty \nclinics for childhood anxiety disorders (Last, Hersen, Kazdin, Finkelstein, \n& Strauss, 1987; Mattison, Bagnato, & Brubaker, 1988). Despite OAD's \nprevalence in community and clinical settings, treatment research has lagged \nbehind the study of specific fears and phobias (Silverman & Eisen, 1993; Sil- \nverman & Rabian, 1993). Recently, however, OAD treatment investigations \nare beginning to emerge (Eisen & Silverman, 1993; Kane & Kendall, 1989; \nKendall, 1994; Kendall et al., 1997)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.4800033569336,
+      194.5730438232422,
+      399.3067932128906,
+      288.49993896484375
+    ],
+    "text": "Kane and Kendall (1989) examined the effectiveness of an integrated treat- \nment protocol with 4 overanxious children (aged 9 to 13) using a multiple \nbaseline design across participants. The treatment protocol included cogni- \ntive (self-monitoring, self-evaluation, and self-reinforcement) and behavioral \n(in vivo exposures, relaxation training, modeling, contingency management) \nstrategies. The results indicated that all 4 children experienced improvements \non child, parent, and clinician ratings that were generally maintained at \n6-month follow-up."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.72000122070312,
+      286.4930114746094,
+      399.12835693359375,
+      369.1399230957031
+    ],
+    "text": "In a controlled clinical trials design, Kendall (1994) further examined the \neffectiveness of the integrated treatment protocol in a sample of 47 children \nmeeting DSM-III-R criteria for anxiety disorders. Sixty-four percent of the \nsample (n = 30) received a primary diagnosis of OAD. The results indicated \nthat 64% and 5% of the treatment and control groups, respectively, no longer \nwarranted a diagnosis at posttreatment. Treatment gains were generally main- \nrained at 1-year follow-up."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.72000122070312,
+      367.1330261230469,
+      399.40435791015625,
+      483.8599548339844
+    ],
+    "text": "In a second randomized clinical trial, Kendall et al. (1997) administered \nthe integrated treatment protocol to a larger sample of 94 children (aged 9 \nto 13 years) meeting DSM-III-R criteria for anxiety disorders. Fifty-nine per- \ncent of the sample (n = 55) received a primary diagnosis of OAD. The results \nindicated that 53% and 6% of the treatment and control groups, respectively, \nno longer warranted a primary diagnosis at posttreatment. Treatment gains \nwere generally maintained at 1-year follow-up. Overall, the findings from \nthese studies are impressive. However, the specific ingredients responsible \nfor behavior change are difficult to determine due to the combination of cog- \nnitive and behavioral procedures employed."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.72000122070312,
+      481.85302734375,
+      399.1125183105469,
+      610.0999145507812
+    ],
+    "text": "Although randomizing treatment across participants is an excellent experi- \nmental mechanism to evaluate treatment effectiveness, clinical researchers \nare beginning to recognize the importance of matching or prescribing treat- \nment to specific patient characteristics (e.g., Beutler, 1991; Kazdin, 1993; \nKearney & Silverman, 1990; Ost, Jerremalm, & Johansson, 1981; Ost, \nJohansson, & Jerremalm, 1982). It is generally believed that an idiographic \napproach to treatment is a more effective strategy in producing positive treat- \nment outcomes than a nomothetic, statistically based approach (e.g., Barlow, \nHayes, & Nelson, 1984). Regarding generalized anxiety, Eisen and Sil- \nverman (1993) provided preliminary evidence suggesting that such a strategy \nmay be useful."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      183.83999633789062,
+      68.71295166015625,
+      397.1999816894531,
+      78.95806884765625
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n107"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      91.61302185058594,
+      398.2667541503906,
+      220.3399200439453
+    ],
+    "text": "Eisen and Silverman (1993) evaluated the effectiveness of cognitive therapy \n(CT), relaxation training (RT), and their combination with 4 overanxious chil- \ndren, 6 to 15 years of age, using a multiple baseline design across subjects. \nEach intervention contained an exposure component equalized across treat- \nments. Participants received both RT and CT (counterbalanced), followed by \na combined treatment that incorporated elements of the two previous treat- \nments. The results suggested that interventions were most effective when they \nappeared prescribed to specific child symptoms. For example, children with \nprimary symptoms of worry responded most favorably to CT, whereas chil- \ndren with primary symptoms of somatic complaints responded most favor- \nably to RT."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      218.3330535888672,
+      398.8250732421875,
+      381.37994384765625
+    ],
+    "text": "The present study extends the Eisen and Silverman (1993) investigation by \nsystematically prescribing specific cognitive-behavioral interventions (CT \nand RT) to different problematic response classes (cognitive and somatic) in \nchildren with generalized anxiety. It was hypothesized that treatments that \nwere administered (CT and RT) irrespective of the child's response class \nwould nonetheless be effective in alleviating generalized anxiety symptoms, \nbut that interventions that were prescribed on the basis of response class (CT \nfor cognitive symptoms; RT for somatic symptoms) would result in enhanced \ntreatment effectiveness. These results were expected because each interven- \ntion contained essential ingredients necessary to facilitate behavior change \nin anxious children. However, the prescribed interventions would lead to \nimprovements substantial enough to satisfy positive end-state functioning \ncriteria (outlined in the method section) as specific response class deficits \nwere taken into account."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      216.24000549316406,
+      394.95001220703125,
+      255.07635498046875,
+      409.7891845703125
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      411.8421630859375,
+      125.494873046875,
+      423.8568115234375
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      425.2130432128906,
+      398.58917236328125,
+      588.0198974609375
+    ],
+    "text": "Participants were 4 children aged 8 to 12 years (mean age = 10 years, 7 \nmonths), who received principal diagnoses of DSM-III-R overanxious dis- \norder with at least moderate impairment (received a 4 or more on a 0-to-8 \nclinician rating scale) using the Anxiety Disorders Interview Schedule for \nChildren (described below). Diagnoses were assigned based on severity of \ndisorder and the extent to which the disorder led to interference in func- \ntioning. In addition, participants had a history of significant overanxious con- \ncerns for at least 3 years. Participants were referred to the Child Anxiety and \nPhobia Program (CAPP) at Florida International University (FIU) in Miami \nfrom multiple community agencies throughout the greater Miami area. Exclu- \nsionary criteria included receiving an OAD diagnosis secondary to other dis- \norders or undergoing current pharmacological/other treatment for presenting \nproblems. Further descriptive information on each participant is presented \nbelow and can be seen in Table 1."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      585.7730712890625,
+      398.1083984375,
+      610.8198852539062
+    ],
+    "text": "Participant 1 (P1) was an 8-year-old Hispanic male (fluent in English, \nas were his parents) in the second grade. His primary complaints included"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.95999908447266,
+      68.73841094970703,
+      272.2775573730469,
+      78.34320831298828
+    ],
+    "text": "108 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      104.87999725341797,
+      91.63848114013672,
+      366.5599060058594,
+      113.86322784423828
+    ],
+    "text": "TABLE 1 \nDEMOGRAPHIC AND TREATMENT CHARACTERISTICS FOR EACH PARTICIPANT"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      119.71849822998047,
+      390.5691223144531,
+      142.44503784179688
+    ],
+    "text": "Partici- \npant a Age Response Class \nDiagnosis b \nTreatmenff"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      147.55845642089844,
+      399.3371887207031,
+      189.72503662109375
+    ],
+    "text": "1 \n8 \nSomatic \nOAD, SOC, ADHD, ODD, SP, SP \nSRCT d \n2 \n12 \nCognitive \nOAD, SOC, SP, SP, SP \nCRCT d \n3 \n11 \nCognitive \nOAD, ADHD, SAD, SP, SP \nSRCT e, CRCT d \n4 \n12 \nSomatic \nOAD, SOC, SP \nCRCT e, SRCT d"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      194.83848571777344,
+      400.36749267578125,
+      277.8050537109375
+    ],
+    "text": "a All children are boys. \nb Diagnoses: OAD = Overanxious Disorder; SOC = Social Phobia; ADHD = Attention- \nDeficit Hyperactivity Disorder; ODD = Oppositional-Defiant Disorder; SAD = Separation \nAnxiety Disorder; SP = Simple Phobia. \nc Treatments: CRCT = Cognitive Response Class Treatment; SRCT = Somatic Response \nClass Treatment. \na Prescriptive treatment. \ne Nonprescriptive treatment."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      287.2384948730469,
+      398.0715637207031,
+      357.9650573730469
+    ],
+    "text": "multiple somatic symptoms (e.g., stomachaches, headaches, tension, nausea) \nthat were associated with taking tests, schoolwork, being alone, noises, and \nbeing teased. He also presented with several moderately severe comorbid dis- \norders including social phobia, attention-deficit/hyperactivity disorder, \noppositional-defiant disorder, and specific phobias (e.g., being alone, blood, \ndark)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      356.3584899902344,
+      397.90673828125,
+      415.3250427246094
+    ],
+    "text": "Participant 2 (P2) was a 12-year-old Caucasian male in the sixth grade. \nHis primary complaints included multiple worries regarding personal harm, \nfamily, being alone, hospitals, noises, and being teased. He also presented \nwith several severe comorbid disorders that included social and specific pho- \nbias (e.g., dark, blood, cats)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      413.7184753417969,
+      398.57611083984375,
+      484.4450378417969
+    ],
+    "text": "Participant 3 (P3) was an ll-year-old Hispanic male (fluent in English, as \nwere his parents) in the fifth grade. His primary complaints included multiple \nworries regarding his health, personal harm, being alone, noises, social con- \ncerns, and future events. He also presented with several moderately severe \ncomorbid disorders including attention-deficit/hyperactivity disorder, separa- \ntion anxiety disorder, and specific phobias (e.g., being alone, dark)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      482.8385009765625,
+      398.18499755859375,
+      553.3250122070312
+    ],
+    "text": "Participant 4 (P4) was a 12-year-old Caucasian male in the sixth grade. \nHis primary complaints included multiple somatic symptoms (e.g., stomach- \naches, headaches, tension, nausea, body pains, and constipation) that were \nassociated with taking tests, schoolwork, waking up at night, and novel \nsituations. He also presented with mildly severe social and specific phobias \n(e.g., planes)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      560.8704223632812,
+      114.76482391357422,
+      572.5919799804688
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      574.7584838867188,
+      397.9342346191406,
+      610.925048828125
+    ],
+    "text": "Structured interviews were used to determine principal diagnoses. Child \nand parent versions of the Anxiety Disorders Interview Schedule for DSM- \nIII-R (ADIS-C and ADIS-P; Silverman & Nelles, 1988) were used to permit"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      182.39999389648438,
+      66.42573547363281,
+      396.9263916015625,
+      79.8724594116211
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n109"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.27999877929688,
+      92.10572814941406,
+      396.3602294921875,
+      117.07247161865234
+    ],
+    "text": "differential diagnoses among the DSM-III-R anxiety disorders. Diagnoses \nwere based on a composite from the ADIS-C and ADIS-P (see Silverman,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.76000213623047,
+      115.14576721191406,
+      396.74212646484375,
+      208.9924774169922
+    ],
+    "text": "199I, for deriving composite diagnoses). The ADIS-C and ADIS-P have been \nshown to possess both adequate interrater (Silverman & Nelles) and test- \nretest (Silverman & Eisen, 1992) reliabilities. Interrater reliability for OAD \nfor the current study was satisfactory (kappa -- .73). Clinician ratings (0 to \n8 scale; 0 = none, 8 = very severely disturbing) from the ADIS-C and \nADIS-P were used to determine the severity of the composite diagnoses. The \nreliability of the clinician ratings has been found to be satisfactory (Silverman \n& Eisen; Silverman & Nelles)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.76000213623047,
+      206.8257598876953,
+      398.1048278808594,
+      277.87249755859375
+    ],
+    "text": "Because the current study spanned two diagnostic systems (DSM-III-R and \nDSM-IV), GAD diagnoses were verified at a later date. Each participant met \nDSM-IV criteria for GAD using the ADIS-C and ADIS-P for DSM-IV (Sil- \nverman & Albano, 1996). This finding further supports the compatibility of \nDSM-III-R and DSM-IV for diagnosing generalized anxiety (Kendall & \nWarman, 1996)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      275.7057800292969,
+      397.2471008300781,
+      312.1924743652344
+    ],
+    "text": "In addition to interviews, several child-completed measures were adminis- \ntered. Each of the measures is widely used to assess childhood anxiety. The \nRevised Children's Manifest Anxiety Scale (RCMAS; Reynolds & Richman,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      310.2657775878906,
+      397.7646179199219,
+      369.552490234375
+    ],
+    "text": "1978) is a child self-report measure of general anxiety with 37 items (e.g., \nI worry a lot of the time) rated on a yes-no basis. The scale was designed \nto measure physiological anxiety, worry/oversensitivity, and fear/concentra- \ntion. The RCMAS possesses established test-tetest reliability, internal con- \nsistency (Reynolds & Paget, 1983; Wisniewski, Mulick, Genshaft, & Coury,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.95999908447266,
+      367.6257629394531,
+      398.1118469238281,
+      438.6724853515625
+    ],
+    "text": "1987), and construct validity (Mattison et al., 1988). For purposes of the \npresent study, the worry/oversensitivity index (containing 10 items) was used \nto assess treatment outcome and to place a participant in the cognitive \nresponse class. Criteria for inclusion in the cognitive response class required \na cutoff score greater than two standard deviations above the normative mean \n(M = 4.04, SD = 2.84)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      436.5057678222656,
+      398.4599609375,
+      496.0325012207031
+    ],
+    "text": "The Children's Negative Cognitive Error Questionnaire (CNCEQ; Leiten- \nberg, Yost, & Carroll-Wilson, 1986) is a 24-item self-report measure that \nevaluates four different types of cognitive errors associated with anxiety and \ndepression (e.g., catastrophizing: I probably won't be able to keep up and \npeople will make fun of me) rated on a 5-point scale: 1 = not at all like I"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      73.68000030517578,
+      493.8657531738281,
+      398.8318176269531,
+      564.6724243164062
+    ],
+    "text": "would think; 5 = almost exactly like I iVbuld think. The CNCEQ possesses \nestablished test-retest reliability, internal consistency, and construct validity \n(Leitenberg et al., 1986). For purposes of the present study, the CNCEQ was \nused to assess treatment outcome and to place a participant in the cognitive \nresponse class. Criteria for inclusion in the cognitive response class required \na clinical cutoff score of 66.71 (normative M = 57.01, from Leitenberg et al.)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      74.16000366210938,
+      562.7457275390625,
+      398.639404296875,
+      610.512451171875
+    ],
+    "text": "The Childhood Anxiety Sensitivity Index (CASI; Silverman, Fleisig, \nRabian, & Peterson, 1991) is an 18-item self-report measure that evaluates \nhow aversively children view somatic forms of anxiety (e.g., It scares me \nwhen my heart beats fast), rated on a 3-point scale (1 = none; 3 = a lot)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.95999908447266,
+      68.96566772460938,
+      273.2574768066406,
+      78.890625
+    ],
+    "text": "110 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.23999786376953,
+      91.86573791503906,
+      397.21282958984375,
+      162.4324493408203
+    ],
+    "text": "The CASI possesses established test-retest reliability, internal consistency, \nand construct validity (Silverman et al., 1991). For purposes of the present \nstudy, the CASI was used to assess treatment outcome and to place a partici- \npant in the somatic response class. Criteria for inclusion in the somatic \nresponse class required a cutoff score greater than two SDs above the nor- \nmative mean (M = 23.9, SD = 4.2)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.23999786376953,
+      160.50575256347656,
+      397.871826171875,
+      322.75250244140625
+    ],
+    "text": "Finally, participants were asked to complete daily diaries (DD), in which \nthey recorded anxiety-provoking situations, degree of anxiety (0 to 4 scale; \n0 = none, 4 = very much), avoidance behavior, and accompanying cogni- \ntions. Two psychology graduate students, who were uninformed as to both \nparticipant characteristics and treatment conditions, coded cognitions from \nthe DD according to Prins's (1986) categories of self-speech (i.e., positive, \nneutral, negative). Twenty-five percent of the DD were randomly selected \n(across participants and treatment conditions) and rated for the presence/ \nabsence of negative cognitions. Interrater agreement was found to be satisfac- \ntory (kappa = .84). For purposes of the present study, the DD was used as \na treatment outcome measure and to place a participant in the cognitive \nresponse class. Criteria for inclusion in the cognitive response class required \na clinical cutoff score greater than 1 SD from the current sample (M = 2.5, \nSD = .36)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      321.0657653808594,
+      397.91986083984375,
+      448.99249267578125
+    ],
+    "text": "Parents were also administered a series of measures. The Child Behavior \nChecklist (CBCL; Achenbach, 1991) is a parent measure of children's in- \nternalizing (e.g., worrying) and externalizing (e.g., impulsive) behavior prob- \nlems (118 behavior problem items), rated on a 3-point scale (0 = not true; \n2 = very true or often true). The CBCL is well standardized, possesses \nsatisfactory test-retest reliability, internal consistency, and construct validity, \nand has a national normative base (Achenbach). For purposes of the present \nstudy, the somatic complaints subscale was used to assess treatment outcome \nand to place a participant in the somatic response class. Criteria for inclu- \nsion in the somatic response class required a T score of 70 (M = 53.8, \nSD = 6.2)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      447.0657653808594,
+      397.0071105957031,
+      506.3525085449219
+    ],
+    "text": "In addition, parents completed weekly Parent Ratings of Severity (PROS), \na measure that required parents to rate the degree of impairment of their \nchild's anxiety (0 to 8 scale; 0 = none, 8 = very severely disturbing). The \nPROS, designed by the authors, afforded an examination of each participant's \ngeneralized anxiety from both clinician and parent perspectives."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      504.4257507324219,
+      398.3448486328125,
+      609.3124389648438
+    ],
+    "text": "The final phase of the multimethod-multisource assessment consisted of \nan in-vivo measurement of heart rate (HR) in a situation that was typically \nfound to be anxiety-provoking for the participant. For purposes of the present \nstudy, the HR assessment was used to assess treatment outcome and to place \na participant in the somatic response class. Criteria for inclusion in the \nsomatic response class required a HR change score of 15 beats per minute \n(M = 10.25, SD = 7.8, from the current clinical sample). The use of HR \nchange scores has been previously validated with anxious children (Van \nHasselt, Hersen, Bellack, Rosenblum, & Lamparski, 1979)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      183.60000610351562,
+      66.18574523925781,
+      397.9296569824219,
+      79.6324691772461
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n111"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.23999786376953,
+      92.88214874267578,
+      118.39466094970703,
+      104.89678955078125
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.0,
+      106.50575256347656,
+      398.1839599609375,
+      234.67247009277344
+    ],
+    "text": "Parents and children referred to the CAPP were first scheduled for an \nassessment session. Following consent, the ADIS-C and ADIS-P were \nadministered separately to each relevant party. Interviews were administered \nby the authors and advanced psychology graduate students. Interviewers were \ntrained to a criterion that consisted of first observing at least five parent-child \ninterviews, and then utlizing an interviewer-observer paradigm. Following \nthe observation period, each interviewer was required to match all of the \nobserver's diagnoses and clinician ratings (0 to 8 scale) within one point on \nfive separate occasions. The posttreatment and 6-month follow-up interviews \nwere administered by an independent clinician who was uninformed as to the \nparticipant's treatment condition."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.4800033569336,
+      233.2257537841797,
+      398.47918701171875,
+      351.79248046875
+    ],
+    "text": "The child and parent interviews and questionnaires were administered at \npretreatment, posttreatment and at 6-month follow-up. Younger children \nreceived assistance in completing questionnaires from graduate and under- \ngraduate psychology students. At a later date (within 1 week), each family \nwas scheduled for a consultation session. Following a discussion of the assess- \nment findings and after obtaining treatment consent, participants received \ncareful training in the DD to ensure accuracy. Although the primary respon- \nsibility for self-monitoring rested on the child, parents assisted in thought \nidentification and recording. In addition, each child participated in an in-vivo \nHR assessment."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.72000122070312,
+      350.34576416015625,
+      398.18206787109375,
+      468.9125061035156
+    ],
+    "text": "The HR assessment consisted of four standardized periods: adaptation (5 \nminutes), resting baseline (5 minutes), in vivo situation (10 minutes), and \npost-resting baseline (5 minutes). Graduate students uninformed as to the \nexperimental conditions of this investigation conducted the pre-, post-, and \nfollow-up assessments. Training consisted of three observations and three to \nfive supervised administrations. HR was measured continuously in beats per \nminute (bpm) using a Computer Instruments Corporation Uniq Heart Watch \n(model 8799) and was scored via a computer program. HR change scores \nwere computed by subtracting the postbaseline phase from the performance \nphase of the HR assessment."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.72000122070312,
+      467.4657897949219,
+      398.5848388671875,
+      562.512451171875
+    ],
+    "text": "Because of the diffuse nature of each child's anxious apprehension, HR \nassessments were selected based on significant anxiety elicitors. For \nexample, participants 1 and 4 were administered the block design subtest of \nthe WISC-R at the CAPP as they both experienced excessive test anxiety. \nThe HR assessments were conducted at the homes of P2 and P3 as they were \nboth experiencing anxious apprehension during the evening with respect to \nbeing alone. For these scenarios, participants were observed from a hallway \nin an unobstrusive manner."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.72000122070312,
+      561.0657348632812,
+      397.3161315917969,
+      609.5524291992188
+    ],
+    "text": "The results of the self-report measures, DD and in vivo HR assessments \ndetermined the treatment condition to which each participant was assigned. \nCognitive response class measures included the worry/oversensitivity index \nof the RCMAS, CNCEQ, and the DD (negative cognitions). Somatic response"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      72.4800033569336,
+      68.72567749023438,
+      275.2257385253906,
+      78.650634765625
+    ],
+    "text": "112 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      71.76000213623047,
+      91.62574768066406,
+      397.840576171875,
+      197.2324676513672
+    ],
+    "text": "class measures included the CASI, CBCL (somatic complaints subscale), \nand HR assessment. Cutoff scores for each measure were defined as two SDs \nabove normative means and/or established indices of clinical severity (e.g., \nCBCL T score of 70). For measures where normative or clinical data were \nunavailable (i.e., DD), cutoff scores were defined as one SD above the mean \nfor the current clinical sample. To be classified as having a specific response \nclass, participants needed to exceed cutoff scores for at least two of the mea- \nsures associated with that response class (and not the other response class \non at least two)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      72.0,
+      205.64688110351562,
+      128.90623474121094,
+      216.78240966796875
+    ],
+    "text": "Interventions"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      72.23999786376953,
+      218.3457489013672,
+      398.9503173828125,
+      381.552490234375
+    ],
+    "text": "Both treatment interventions were conducted according to a written treat- \nment manual (Silverman, 1989). The first author served as the therapist for \nboth experimental and control conditions. Cognitive response class treatment \n(CRCT) involved the identification and modification of worrisome thoughts. \nTo accomplish this task, cognitive therapy and self-control techniques were \nemployed. Cognitive therapy techniques (\"What is the evidence\" and \"What \nif\" techniques; Beck & Emery, 1986) were used to identify evidence for \nand against distorted beliefs and to decatastrophize worrisome thoughts. To \nteach children self-control skills (i.e., self-monitoring, self-evaluation, self- \nreinforcement), the STOP acronym (Silverman) was employed. The STOP \nacronym stands for the following: Scared, Thoughts (worrisome in nature), \nOther thoughts (coping in nature), and Praise (self-evaluation). Cartoons \nwith empty thought bubbles were used to identify anxious and coping self- \ntalk (Kendall, 1990)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      72.95999908447266,
+      379.6257629394531,
+      398.6385192871094,
+      450.6724853515625
+    ],
+    "text": "Somatic response class treatment (SRCT) involved the identification and \nmodification of somatic symptoms. To accomplish this task, an ll-body-part \n(e.g., hands, arms, shoulders) progressive muscle relaxation script (Ollen- \ndick & Cemy, 1981) was administered. Participants were taught to notice \nthe difference between tensing and relaxing each body-part and to practice the \nskill twice per day with and without an audiotape."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      72.95999908447266,
+      448.5057678222656,
+      399.14715576171875,
+      611.4724731445312
+    ],
+    "text": "Each treatment intervention consisted of 10 individualized sessions (2 per \nweek). Sessions consisted of meeting with the child for 45 minutes, the \nparents for 30 minutes, and both parties for 15 minutes. Any missed sessions \nwere made up within 1 week. The format for the sessions was as follows: \nAdministration of PROS (parent session), homework (HW) and DD review, \ndidactic lesson, in-session practice, and planning HW. Sessions 1 to 3 \nfocused on skills building (e.g., constructing hierarchy, teaching of cognitive \nor relaxation exercises), sessions 4 to 9 involved practicing the skills (i.e., \nimaginal exposures in session, in vivo exposures out of session), sessions 7 \nto 9 additionally addressed relapse prevention (e.g., emphasizing the need \nfor continued practice), and sessions 9 to 10 examined termination issues. \nThe format for both treatment interventions (CRCT and SRCT) was exactly \nthe same with the exception of the active treatment ingredients (i.e., cognitive \nor relaxation exercises)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      183.36000061035156,
+      68.95294189453125,
+      396.719970703125,
+      79.19805908203125
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n113"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.76000213623047,
+      93.36212921142578,
+      103.15292358398438,
+      105.37677001953125
+    ],
+    "text": "Design"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.76000213623047,
+      106.97306823730469,
+      398.397216796875,
+      191.29991149902344
+    ],
+    "text": "The 4 overanxious children were assigned to a multiple baseline design \nacross participants. Participants were randomly selected to experimental and \ncontrol conditions. Experimental participants received 5 weeks of prescrip- \ntive treatment (i.e., CRCT for cognitive symptoms and SRCT for somatic \nsymptoms). Control participants first received 5 weeks of nonprescriptive \ntreatment (i.e., CRCT for somatic symptoms or SRCT for cognitive symp- \ntoms), which was followed by another 5 weeks of prescriptive treatment."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.0,
+      202.08216857910156,
+      204.7233123779297,
+      214.0968017578125
+    ],
+    "text": "Positive End-State Functioning"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.23999786376953,
+      215.4530487060547,
+      399.423095703125,
+      323.5399475097656
+    ],
+    "text": "Children were classified as having reached high end-state functioning if \nthey scored within 1 SD of normative means and/or 1 SD below clinical cutoff \nscores on at least two specific response class measures (above normal limits \nat pretreatment or following nonprescriptive treatment). Cognitive response \nclass measures included the CNCEQ, RCMAS and DD and somatic response \nclass measures included the CASI, CBCL (somatic complaints subscale), \nand HR assessment. In addition, participants needed to receive a clinician \nrating of 0 to 3 (subclinical) from the ADIS at posttreatment (Kendall & \nGrove, 1988)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      73.19999694824219,
+      334.0821533203125,
+      224.52578735351562,
+      346.0968017578125
+    ],
+    "text": "Treatment Credibility and Integrity"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.4800033569336,
+      347.6930236816406,
+      398.97955322265625,
+      455.7799377441406
+    ],
+    "text": "Following the description of each treatment procedure, participants were \nasked to rate the credibility of a given treatment (Silverman modification of \nBorkovec & Nau, 1972). Participants were asked to rate four questions (e.g., \nHow sure are you that this treatment will help you to become less anxious ?) \non a 3-point scale (0 = not at all; 2 = very much). Both prescriptive and \nnonprescriptive treatments were rated as equally credible (2). Regarding treat- \nment integrity, two psychology students independently reviewed 25% of ran- \ndomly selected treatment session audiotapes. Both students indicated that the \nexperimenter adhered to treatment protocols 100% of the time."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      216.24000549316406,
+      473.9100341796875,
+      254.89512634277344,
+      488.74920654296875
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.4800033569336,
+      489.7730407714844,
+      398.1019287109375,
+      527.0599365234375
+    ],
+    "text": "Indices of improvement were examined in three ways: (a) specific problem- \natic response classes, (b) clinician and parent ratings, and (c) daily ratings \nof anxiety and negative cognitions."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.72000122070312,
+      537.8421630859375,
+      240.66014099121094,
+      549.8568115234375
+    ],
+    "text": "Specific Problematic Response Classes"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.23999786376953,
+      551.2130737304688,
+      397.9522705078125,
+      611.7799072265625
+    ],
+    "text": "In general, based on self-report, DD, and HR measures, prescriptive treat- \nments produced greater improvements than nonprescriptive treatments (see \nTables 2 and 3). Three of 4 participants met high end-state functioning cri- \nteria by scoring within normal limits on logically related response class mea- \nsures following prescriptive treatment (PI: CBCL, HR; P3: RCMAS, DD;"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      73.44000244140625,
+      66.46392822265625,
+      276.9816589355469,
+      79.43014526367188
+    ],
+    "text": "114 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      95.5199966430664,
+      92.1439208984375,
+      377.7200927734375,
+      114.47018432617188
+    ],
+    "text": "TABLE 2 \nPRESCRIPTIVE AND NONPRESCRIPTIVE COGNITIVE RESPONSE CLASS TREATMENT"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      119.98394775390625,
+      402.7403564453125,
+      142.79013061523438
+    ],
+    "text": "Prescrip- \nMeasure \nResponse Class \nPre \nN-Prescriptive \ntive \nFollow-up"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      148.30389404296875,
+      104.12138366699219,
+      160.79013061523438
+    ],
+    "text": "CNCEQ"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.72000122070312,
+      158.3839111328125,
+      384.5275573730469,
+      213.83016967773438
+    ],
+    "text": "P1 \nSomatic \n53 \n- \n85 \n85 \nP2 \nCognitive \n86 \n- \n70 \n70 \nP3 \nCognitive \n71 \n56 + \n52 \n52 \nP4 \nSomatic \n58 \n64 \n53 + \n24 \nRCMAS"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      211.42391967773438,
+      384.5987548828125,
+      266.8701477050781
+    ],
+    "text": "P1 \nSomatic \n6 \n- \n6 \n5 \nP2 \nCognitive \n10 \n- \n6 + \n2 \nP3 \nCognitive \n10 \n8 \n4 + \n3 \nP4 \nSomatic \n6 \n8 \n3 + \n2 \nNegative cognitions"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      264.46392822265625,
+      385.31878662109375,
+      306.71014404296875
+    ],
+    "text": "PI \nSomatic \n3.0 \n- \n1.0+ \n0 \nP2 \nCognitive \n2.2 \n- \n1.8 \n2 \nP3 \nCognitive \n2.6 \n2.3 \n.9+ \n0 \nP4 \nSomatic \n2.3 \n2.1 \n.5 \n1"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.23999786376953,
+      312.46392822265625,
+      396.681884765625,
+      324.9501647949219
+    ],
+    "text": "Note. Pre = Pretreatment; Prescriptive = Post-Prescriptive Treatment; N-Prescriptive ="
+  },
+  {
+    "page": 10,
+    "bbox": [
+      98.87999725341797,
+      322.5439147949219,
+      399.18804931640625,
+      364.7901611328125
+    ],
+    "text": "Post-Nonprescriptive Treatment. \nCNCEQ = Children's Negative Cognitive Error Questionnaire; RCMAS = Revised \nChildren's Manifest Anxiety Scale-Worry/Oversensitivity Index. \nClinically significant = +"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      379.9039306640625,
+      397.43231201171875,
+      403.670166015625
+    ],
+    "text": "P4: CASI, HR). Treatment gains were generally maintained at 6-month \nfollow-up."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.23999786376953,
+      402.70391845703125,
+      397.7831726074219,
+      495.8301696777344
+    ],
+    "text": "Alternatively, nonprescriptive treatments failed to produce sufficient \nchanges for participants to satisfy high end-state functioning criteria. In fact, \nP3 (cognitive response class) and P4 (somatic response class) worsened on \nlogically related response-class measures following nonprescriptive treat- \nment. For example, following nonprescriptive SRCT, P3 experienced clini- \ncally significant levels of distress on the CASI (from 26 to 34) and CBCL \n(from 63 to 70). P4 worsened on the CNCEQ (from 58 to 64) and RCMAS \n(from 6 to 8) following nonprescriptive CRCT."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.0,
+      495.10394287109375,
+      397.1219482421875,
+      610.7902221679688
+    ],
+    "text": "Prescriptive and nonprescriptive treatments did not solely affect the 10gi- \ncally related response classes. Positive and negative changes also occurred \nin logically unrelated response classes. Regarding prescriptive treatments, P1 \nand P4 (somatic response class) scored within normal limits on a number \nof cognitive response class measures following prescriptive SRCT (Pl\" DD; \nP4: CNCEQ, RCMAS, DD). However, P1 did experience clinically sig- \nnificant levels of distress on the CNCEQ (from 53 to 85) following prescrip- \ntive SRCT. Alternatively, P2 and P3 (cognitive response class) experienced \nclinically significant levels of distress on several somatic response class mea- \nsures following prescriptive CRCT (P2: CASI, CBCL; P3: CASI, CBCL)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      183.83999633789062,
+      67.19662475585938,
+      288.84478759765625,
+      79.36270904541016
+    ],
+    "text": "PRESCRIPTIVE TREATMENT"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      100.31999969482422,
+      92.63662719726562,
+      372.9071350097656,
+      114.88272857666016
+    ],
+    "text": "TABLE 3 \nPRESCRIPTIVE AND NONPRESCRIPTIVE SOMATIC RESPONSE CLASS TREATMENT"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      383.0400085449219,
+      67.43661499023438,
+      397.54803466796875,
+      79.60269927978516
+    ],
+    "text": "115"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      120.71664428710938,
+      389.78326416015625,
+      132.88272094726562
+    ],
+    "text": "Measure \nResponse Class \nPre \nN-Prescriptive Prescriptive \nFollow-up"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.4800033569336,
+      138.71664428710938,
+      94.81428527832031,
+      150.88272094726562
+    ],
+    "text": "CASI"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.16000366210938,
+      148.55661010742188,
+      376.4195556640625,
+      190.48272705078125
+    ],
+    "text": "P1 \nSomatic \n51 \n- \n30 \n32 \nP2 \nCognitive \n30 \n- \n34 \n30 \nP3 \nCognitive \n26 \n34 \n40 \n35 \nP4 \nSomatic \n40 \n32 \n18 + \n20"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      191.51663208007812,
+      97.88713073730469,
+      203.68270874023438
+    ],
+    "text": "CBCL"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.95999908447266,
+      201.35662841796875,
+      382.2640380859375,
+      256.48272705078125
+    ],
+    "text": "P1 \nSomatic \n75 \n- \n58 + \n58 \nP2 \nCognitive \n68 \n- \n77 \n75 \nP3 \nCognitive \n63 \n70 \n70 \n75 \nP4 \nSomatic \n75 \n67 \n67 \n55 + \nHR"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.63999938964844,
+      254.39663696289062,
+      377.0243835449219,
+      296.3227233886719
+    ],
+    "text": "P1 \nSomatic \n+ 18 \n- \n+7 + \n+ 10 \nP2 \nCognitive \n+3 \n- \n+6 \n+7 \nP3 \nCognitive \n+ 4 \n0 \n+ 2 \n+ 12 \nP4 \nSomatic \n+ 16 \n+9 \n+2 + \n+4"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      302.1566467285156,
+      396.18402099609375,
+      314.4815979003906
+    ],
+    "text": "Note. Pre = Pretreatment; Prescriptive = Post-Prescriptive Treatment; N-Prescriptive ="
+  },
+  {
+    "page": 11,
+    "bbox": [
+      99.12000274658203,
+      312.23663330078125,
+      397.9482727050781,
+      354.4027099609375
+    ],
+    "text": "Post-Nonprescriptive Treatment. \nCASI = Childhood Anxiety Sensitivity Index; CBCL = Child Behavior Checklist- \nSomatic Complaints Subscale; HR = Heart rate change scores. \nClinically significant = +"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.19999694824219,
+      381.11663818359375,
+      397.6788024902344,
+      451.84271240234375
+    ],
+    "text": "With respect to nonprescriptive treatments, P3 (cognitive response class) \nand P4 (somatic response class) experienced noticeable improvements on \nlogically unrelated response class measures. For example, P3 scored within \nnormal limits on the CNCEQ following nonprescriptive SRCT. P4 experi- \nenced modest improvements on each of the somatic response class measures \nfollowing nonprescriptive CRCT."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.91999816894531,
+      465.3739318847656,
+      200.2112274169922,
+      477.6816101074219
+    ],
+    "text": "Clinician and Parent Ratings"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.44000244140625,
+      480.4766540527344,
+      397.39910888671875,
+      609.7627563476562
+    ],
+    "text": "The specific response class measures were corroborated by favorable post- \ntreatment and follow-up clinician ratings (see Table 4). Each participant \nfailed to meet a DSM-III-R diagnosis of OAD after a prescriptive treatment \n(P1 and P4) or at follow-up (P2 and P3), which reflected the continued \neffectiveness of prescriptive treatments. Although P3 and P4 improved with \nnonprescriptive interventions, both children were still experiencing moderate \nlevels of interference after these treatments. For example, P3 and P4 received \nclinician ratings of 5 and 4 (0 to 8 scale), respectively, following nonprescrip- \ntive interventions. For the most part, PROS and clinician ratings were sim- \nilar. However, at follow-up, PROS ratings were slightly higher than clinician \nratings."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.68000030517578,
+      68.20750427246094,
+      274.7152404785156,
+      79.09294891357422
+    ],
+    "text": "116 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      100.80000305175781,
+      93.88749694824219,
+      370.9632263183594,
+      124.42322540283203
+    ],
+    "text": "TABLE 4 \nPARENT RATINGS OF SEVERITY AND INDEPENDENT CLINICIAN'S RATINGS FOR \nPRE-, PRESCRIPTIVE, N-PRESCRIPTIVE AND FOLLOW-UP ACROSS PARTICIPANTS"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      137.0399932861328,
+      131.8075408935547,
+      371.03118896484375,
+      142.93296813964844
+    ],
+    "text": "Parent Ratings (0-8) \nClinical Ratings (0-8)"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      147.6475067138672,
+      396.30609130859375,
+      168.6129608154297
+    ],
+    "text": "Partici- \nPrescrip- \nPrescrip- \npant \nPre \nN-Prescriptive tire \nFU \nPre N-Prescriptive rive \nFU"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      177.7948760986328,
+      393.5316162109375,
+      216.37294006347656
+    ],
+    "text": "1 \n7 \n- \n2 \n2 \n6 \n- \n0 \n0 \n2 \n6 \n- \n3 \n3 \n7 \n- \n3 \n0 \n3 \n7 \n4 \n2 \n2 \n7 \n5 \n2 \n1 \n4 \n4 \n4 \n0 \n1 \n6 \n4 \n0 \n0"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      223.72752380371094,
+      395.21728515625,
+      244.4529571533203
+    ],
+    "text": "Note. Pre = Pretreatment; N-Prescriptive = Post-Nonprescriptive Treatment; Prescriptive = \nPost-Prescriptive Treatment; FU --- Follow-Up."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      262.65625,
+      290.6697692871094,
+      277.01519775390625
+    ],
+    "text": "Daily Ratings of Anxiety and Negative Cognitions"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.95999908447266,
+      276.0840148925781,
+      397.8197937011719,
+      338.16094970703125
+    ],
+    "text": "With respect to daily ratings of anxiety, participants improved to a large \ndegree (i.e., approaching 100%) from baseline to posttreatment following pre- \nscriptive treatment (CRCT or SRCT), which was maintained at follow-up \n(see Figure 1). Alternatively, participants remained the same (P3) or \nimproved slightly (P4) following nonprescriptive treatment."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.44000244140625,
+      335.05535888671875,
+      397.6302490234375,
+      361.2009582519531
+    ],
+    "text": "Regarding the second measure, 3 of 4 participants greatly reduced their \nnumber of negative cognitions (i.e., approaching 100%) from baseline fol-"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      92.16000366210938,
+      381.2183837890625,
+      241.04379272460938,
+      392.1057434082031
+    ],
+    "text": "1. 4 \nprescriptive relaxation"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.91999816894531,
+      431.77197265625,
+      242.74459838867188,
+      440.3457336425781
+    ],
+    "text": "2. \nprescriptive cognitive"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.91999816894531,
+      479.531982421875,
+      338.1278381347656,
+      488.1057434082031
+    ],
+    "text": "4 \nnenprescriptive reiaxaUon I \nprescriptive cognitive \n3."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      277.67999267578125,
+      518.1719970703125,
+      376.5074157714844,
+      526.781982421875
+    ],
+    "text": "I \nI \nI \nI \n~ \n,-~ \nl \n£"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.68000030517578,
+      528.33837890625,
+      341.53277587890625,
+      537.9431762695312
+    ],
+    "text": "4. \npr~l~riptlve relel~tion"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      125.76000213623047,
+      575.3568115234375,
+      393.4361877441406,
+      583.288330078125
+    ],
+    "text": "Baseline \nTreatment sessions \nFollow.up"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.44000244140625,
+      589.2474975585938,
+      396.14263916015625,
+      609.9729614257812
+    ],
+    "text": "FIG. 1. Daily ratings of anxiety (mean) across baseline, treatment sessions and follow-up. \nEach data point during baseline represents an average of 3 days."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      184.55999755859375,
+      67.71479797363281,
+      397.1910095214844,
+      79.16038513183594
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n117"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      132.58200073242188,
+      84.99150848388672,
+      180.63768005371094
+    ],
+    "text": "A = ! \n| \n$"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      182.31838989257812,
+      81.96417236328125,
+      202.8081512451172
+    ],
+    "text": "!"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      205.430419921875,
+      80.71038818359375,
+      229.2249755859375
+    ],
+    "text": "|"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      103.19999694824219,
+      95.13357543945312,
+      240.8010711669922,
+      102.734619140625
+    ],
+    "text": "4 \npr(mctiptive relaxation"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.95999908447266,
+      115.42202758789062,
+      234.36940002441406,
+      181.70379638671875
+    ],
+    "text": "I \nL \n.L \n.L \n| \n.\n.\n.\n.\n \n'I, 4 \n,..v. \n... .... \n3 \n•"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      103.19999694824219,
+      167.60400390625,
+      254.65911865234375,
+      188.04913330078125
+    ],
+    "text": ",\\ \n1 \n, \nI \n[ \nI \nI \nI \nI \nI \nI \nI"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      366.7200012207031,
+      89.09397888183594,
+      398.7219543457031,
+      154.05670166015625
+    ],
+    "text": "J"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.4000015258789,
+      182.9639892578125,
+      321.79144287109375,
+      214.35958862304688
+    ],
+    "text": "3 !f \nr \n.... \n,.o.,."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      107.27999877929688,
+      225.6719970703125,
+      348.65191650390625,
+      237.54335021972656
+    ],
+    "text": "LI \ni \ni \ni \n{ \ni \ni \ni \ni \ni \ni \n~ f \nr r \ni ~%~1 \nT f \nf'~/~ \n1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.72000122070312,
+      241.51199340820312,
+      164.99642944335938,
+      253.3833465576172
+    ],
+    "text": ",F \nL1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      126.4800033569336,
+      285.693603515625,
+      390.6042175292969,
+      293.82696533203125
+    ],
+    "text": "I:laselino \nTreatment sessions \nFollow*up"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      297.15478515625,
+      397.18316650390625,
+      317.9604187011719
+    ],
+    "text": "Fla. 2. \nNumber of negative cognitions (mean) across baseline, treatment sessions and \nfollow-up. Each data point during baseline represents an average of 3 days."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.4800033569336,
+      335.6930236816406,
+      398.771484375,
+      383.7799377441406
+    ],
+    "text": "lowing prescriptive treatment (CRCT or SRCT; see Figure 2). For the most \npart, P2's number of negative cognitions remained the same throughout treat- \nment. On the other hand, participants worsened slightly (P3) or remained \nthe same (P4) following nonprescriptive treatment."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      391.2021484375,
+      168.45672607421875,
+      403.216796875
+    ],
+    "text": "Clinical Observations"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.4800033569336,
+      404.5730285644531,
+      399.3489074707031,
+      498.49993896484375
+    ],
+    "text": "Clinical observations and reports from each participant's family supported \nthe overall results that prescriptive treatments were generally more effective \nthan nonprescriptive treatments. For example, at pretreatment, P3 was fright- \nened to be left alone in his room during the evening. Observed from the \nhallway, he paced back and forth and screamed for his parents. Following \nnonprescriptive SRCT, he displayed similar behaviors. However, following \nprescriptive CRCT, he failed to display any \"anxious\" behaviors and indicated \nthat he could have easily stayed in his room for a longer period of time."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.0,
+      514.3919677734375,
+      398.2443542480469,
+      610.3399047851562
+    ],
+    "text": "Discussion \nThis investigation represents the first analysis of prescribing treatment to \nproblematic response classes of 4 overanxious children who also met DSM- \n/V criteria for GAD. The results provide preliminary support for the \ninvestigation's hypotheses. First, both prescriptive and nonprescriptive treat- \nments led to an amelioration of the symptoms of generalized anxiety based \non self-report, parent report, and physiological measures. This was expected \nbecause both CRCT and SRCT are potent, widely used interventions. Sec-"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.0,
+      65.69303894042969,
+      276.3779602050781,
+      79.45991516113281
+    ],
+    "text": "118 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      71.27999877929688,
+      91.37303161621094,
+      397.6479797363281,
+      116.89991760253906
+    ],
+    "text": "ond, the prescriptive treatments, however, led to sufficient changes to satisfy \npositive end-state functioning criteria."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      71.5199966430664,
+      114.41307067871094,
+      398.396728515625,
+      231.6199188232422
+    ],
+    "text": "Specifically, the results suggested improvements on logically related \nresponse-class measures, parent and clinician ratings, daily ratings of anxiety \nand negative cognitions, and clinical observations following prescriptive treat- \nment. Three of 4 participants met the criteria for high end-state functioning. \nAlthough P2 failed to satisfy high end-state functioning, he was the only child \nwho experienced several highly severe comorbid disorders. Kane and Ken- \ndall (1989) reported similar findings with overanxious children who experi- \nenced severe comorbid disorders. Further research is needed to clarify the \nrelationship between the severity of additional disorders and treatment \nresponse in children with generalized anxiety."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.23999786376953,
+      229.61305236816406,
+      399.1588134765625,
+      323.5399475097656
+    ],
+    "text": "The two treatment interventions exerted differential effects on logically \nunrelated response classes. For example, both prescriptive and nonprescrip- \ntive SRCT produced clinically significant improvements on cognitive re- \nsponse class measures. In fact, prescriptive SRCT reduced the number of \nnegative cognitions on the DD without any specific cognition targeting. Alter- \nnatively, nonprescriptive CRCT failed to reduce the number of negative cog- \nnitions. These findings further support the therapeutic impact of eliminating \nnegative cognitions in children with anxiety disorders (Treadwell & Kendall,"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.91999816894531,
+      321.7730407714844,
+      101.40238189697266,
+      335.5399475097656
+    ],
+    "text": "1996)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      333.05303955078125,
+      398.60589599609375,
+      404.179931640625
+    ],
+    "text": "In general, CRCT showed less promise on somatic response class mea- \nsures. For example, prescriptive CRCT resulted in greater levels of distress, \nwhereas nonprescriptive CRCT resulted in only modest improvements on \nsomatic response class measures. Overall, these findings suggest that SRCT \nmay have been more successful than CRCT in deactivating anxious appre- \nhension associated with the logically unrelated response class (Barlow, 1988)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.19999694824219,
+      401.9330139160156,
+      399.8222961425781,
+      576.2598876953125
+    ],
+    "text": "Given the preliminary and anticipated support for prescribing treatment \nto assessed response classes in children with generalized anxiety, there are \nspecific clinical and research implications. First, such an approach may help \nto standardize assessment methods with anxious youth. For example, clini- \ncians could use psychometrically sound measures in the form of semistruc- \ntured interviews (e.g., ADIS-C and ADIS-P), cognitive/somatic symptom \nrating scales (e.g., CASI, RCMAS)I and physiological indices (e.g., HR). \nSuch an approach would highlight individual differences among children \nwith generalized anxiety regarding etiology, symptomatology, and treatment \nresponse (e.g., Eisen & Kearney, 1995). In addition, dimensionalizing fea- \ntures of generalized anxiety (e.g., worry, somatic complaints) on the basis \nof frequency/intensity ratings is likely to enhance the ability to prescribe treat- \nments with problematic symptoms effectively. Kendall, Kortlander, Chansky, \nand Brady (1992) suggest that interventions should be designed to target \nspecific symptoms rather than solely emphasize diagnostic categories."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.19999694824219,
+      574.0130615234375,
+      399.7891540527344,
+      610.5798950195312
+    ],
+    "text": "The results of this investigation should be considered preliminary for sev- \neral reasons. Because this investigation employed only a small number of \nparticipants, replication studies are needed to confirm the present findings."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      183.36000061035156,
+      67.70206451416016,
+      397.36376953125,
+      79.22782897949219
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n119"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      71.76000213623047,
+      91.95645904541016,
+      397.985595703125,
+      175.03726196289062
+    ],
+    "text": "Although the treatments were introduced in a staggered fashion, and symp- \ntoms reduced with prescriptive treatments, experimental control was not \namply demonstrated. Furthermore, multiple treatment interference may have \nbeen present for participants receiving more than one treatment condition. \nThat is, some participants did experience symptoms in the logically unrelated \nresponse class. Thus, participant classification may not have been as distinct \nas anticipated."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.0,
+      172.5964813232422,
+      397.985595703125,
+      324.3172912597656
+    ],
+    "text": "Additional research is necessary to test the utility of a prescriptive treat- \nment approach. For example, future group treatment comparison studies are \nneeded to contrast the efficacy of the current approach (e.g., specific re- \nsponse class assessment) with placebo control conditions (e.g., to rule out \nexpectancy effects) and with treatment packages (e.g., treatment based on \ndiagnosis). In addition, because the treatment interventions were predomi- \nnantly child focused, the parental role needs to be further examined in light \nof prescriptive treatment strategies. Finally, research is also necessary to \nextend this approach to related disorders in which cognitive and somatic \nsymptoms predominate (e.g., panic disorder) to determine under which con- \nditions each approach is most effective. The wave of the future calls for \nincreased clinical research that links assessment with treatment for specific \ndisorders (Beutler, 1991)."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      206.63999938964844,
+      338.3471984863281,
+      263.5930480957031,
+      353.5492858886719
+    ],
+    "text": "References"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      355.94207763671875,
+      397.7360534667969,
+      367.46783447265625
+    ],
+    "text": "Achenbach, T. M. (1991). Manual for the Child Behavior Checklist/4-18 and 1991 Profile. Bur-"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      365.30206298828125,
+      397.20001220703125,
+      386.6678161621094
+    ],
+    "text": "lington, VT: Department of Psychiatry. \nAmerican Psychiatric Association. (1987). Diagnostic and statistical manual of mental dis-"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      384.9820556640625,
+      397.4400329589844,
+      406.34783935546875
+    ],
+    "text": "orders (3rd ed., rev.). Washington, DC: Author. \nAmerican Psychiatric Association. (1994). Diagnostic and statistical manual of mental dis-"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      404.42205810546875,
+      397.1982727050781,
+      425.7878112792969
+    ],
+    "text": "orders (4th ed.). Washington, DC: Author. \nAnderson, J. C., Williams, S., McGee, R., & Silva, P. A. (1987). DSM-III disorders in pre-"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      423.8620910644531,
+      397.911376953125,
+      455.0678405761719
+    ],
+    "text": "adolescent children: Prevalence in a large sample from the general population. Archives \nof General Psychiatry, 44, 69-76. \nBarlow, D. H. (1988). Anxiety and its disorders: The nature and treatment of anxiety and panic."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.0,
+      452.9020690917969,
+      397.1999816894531,
+      474.5078430175781
+    ],
+    "text": "New York: Guilford Press. \nBarlow, 13. H., Hayes, S. C., & Nelson, R. O. (1984). The scientist practitioner: Research and"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      472.5820617675781,
+      396.1526184082031,
+      493.8170471191406
+    ],
+    "text": "accountability in clinical and educational settings. New York: Pergamon Press. \nBeck, A. T., & Emery, G. (1986). Anxiety disorders and phobias: A cognitive perspective. New"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      491.7820739746094,
+      396.53375244140625,
+      513.3878784179688
+    ],
+    "text": "York: Basic Books. \nBeutler, L. E. (1991). Have all won and must all have prizes? Revisiting Luborsky et al's verdict."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.0,
+      511.4620666503906,
+      398.40191650390625,
+      532.827880859375
+    ],
+    "text": "Journal of Consulting and Clinical Psychology, 59, 226-232. \nBorkovec, T. D., & Nau, S. D. (1972). Credibility of analogue therapy rationales. Journal of"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.0,
+      530.902099609375,
+      396.9609069824219,
+      552.267822265625
+    ],
+    "text": "Behavior Therapy and Experimental Psychiatry, 3, 257-260. \nBowen, R. C., Offord, D. R., & Boyle, M. H. (1990). The prevalence of overanxious disorder"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      550.3421020507812,
+      397.0419006347656,
+      581.5478515625
+    ],
+    "text": "and separation anxiety disorder: Results from the Ontario Child Health Study. Journal \nof the American Academy of Child and Adolescent Psychiatry, 29, 753-758. \nEisen, A. R., & Kearney, C. A. (1995). Practitioner's guide to treating fear and anxiety in"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.23999786376953,
+      579.6220703125,
+      397.66375732421875,
+      600.9878540039062
+    ],
+    "text": "children and adolescents: A cognitive-behavioral approach. Northvale, NJ: Jason Aronson. \nEisen, A, R., & Silverman, W. K. (1993). Should I relax or change my thoughts? A preliminary"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      87.83999633789062,
+      599.0621337890625,
+      397.119140625,
+      610.587890625
+    ],
+    "text": "examination of cognitive therapy, relaxation training, and their combination with over-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      73.19999694824219,
+      67.70206451416016,
+      275.7566833496094,
+      79.22782897949219
+    ],
+    "text": "120 \nEISEN & SILVERMAN"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      93.6220474243164,
+      398.0015869140625,
+      125.06785583496094
+    ],
+    "text": "anxious children. Journal of Cognitive Psychotherapy: An International Quarterly, 7, \n265-279. \nKane, M. T., & Kendall, P. C. (1989). Anxiety disorders in children: A multiple baseline eval-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      123.6220474243164,
+      397.7369079589844,
+      145.02239990234375
+    ],
+    "text": "uation of a cognitive-behavioral treatment. Behavior Therapy, 20, 499-508. \nKazdin, A. E. (1993). Adolescent mental health: Prevention and treatment programs. American"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      143.54209899902344,
+      398.4861145019531,
+      165.14781188964844
+    ],
+    "text": "Psychologist, 48, 127-141. \nKearney, C. A., & Silverman, W. K. (1990). A preliminary analysis of a functional model of"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      163.7020721435547,
+      398.86199951171875,
+      195.38783264160156
+    ],
+    "text": "assessment and treatment of school refusal behavior. Behavior Modification, 14, 340-366. \nKendall, P. C. (1990). Coping cat workbook. Ardmore, PA: Workbook Publishing. \nKendall, P. C. (1994). Treating anxiety disorders in youth: Results of a randomized clinical"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.0,
+      193.7020721435547,
+      396.9015197753906,
+      215.06785583496094
+    ],
+    "text": "trial. Journal of Consulting and Clinical Psychology, 62, 100-110. \nKendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M.,"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      213.62208557128906,
+      398.38031005859375,
+      245.3424072265625
+    ],
+    "text": "Henin, A., & Warman, M. J. (1997). Therapy for youths with anxiety disorders: A second \nrandomized clinical trial. Journal of Consulting and Clinical Psychology, 65, 366-380. \nKendall, P. C., & Grove, W. M. (1988). Normative comparisons in therapy outcome. Behav-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      243.86207580566406,
+      398.6573791503906,
+      265.2278137207031
+    ],
+    "text": "ioral Assessment, 10, 147-158. \nKendall, P. C., Kortlander, E., Chansky, T. E., & Brady, E. U. (1992). Comorbidity of anxiety"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      263.7820739746094,
+      398.6127014160156,
+      295.46783447265625
+    ],
+    "text": "and depression in youth: Treatment implications. Journal of Consulting and Clinical Psy- \nchology, 60, 869-880. \nKendall, P. C., MacDonald, J. P., & Treadwell, K. R. H. (1995). The treatment of anxiety"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      294.0220642089844,
+      398.57659912109375,
+      335.3078308105469
+    ],
+    "text": "disorders in youth. In A. R. Eisen, C. A. Kearney, and C. E. Schaefer (Eds.), Clinical \nhandbook of anxiety disorders in children and adolescents (pp. 573-597). Northvale, NJ: \nJason Aronson. \nKendall, P. C., & Warman, M. J. (1996). Anxiety disorders in youth: Diagnostic and consis-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      333.862060546875,
+      398.6018981933594,
+      355.46783447265625
+    ],
+    "text": "tency across DSM-III-R and DSM-IV. Journal of Anxiety Disorders, 10, 453-463. \nLast, C. G., Hersen, M., Kazdin, A. E., Finkelstein, R., & Strauss, C. C. (1987). Comparison"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      354.0220642089844,
+      398.2186279296875,
+      396.02783203125
+    ],
+    "text": "of DSM-III separation anxiety and overanxious disorders: Demographic characteristics \nand patterns of comorbidity. Journal of the American Academy of Child Psychiatry, 26, \n527-531. \nLeitenberg, H., Yost, L. W., & Carroll-Wilson, M. (1986). Negative cognitive errors in chil-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.72000122070312,
+      394.82208251953125,
+      399.1014404296875,
+      437.3078308105469
+    ],
+    "text": "dren: Questionnaire development, normative data, and comparisons between children \nwith and without self-reported symptoms of depression, low self-esteem, and evaluation \nanxiety. Journal of Consulting and Clinical Psychology, 54, 528-536. \nMattison, R. E., Bagnatto, S. J., & Brubaker, B. H. (1988). Diagnostic utility of the revised"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      435.8620910644531,
+      397.626708984375,
+      467.8223876953125
+    ],
+    "text": "Children's Manifest Anxiety Scale in children with DSM-III anxiety disorders. Journal \nof Anxiety Disorders, 2, 147-155. \nOllendick, T. H., & Cerny, J. A. (1981). Clinical behavior therapy with children. New York:"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.4800033569336,
+      466.5820617675781,
+      397.8226013183594,
+      488.6678161621094
+    ],
+    "text": "Plenum. \nOst, L. G., Jerremalm, A., & Johansson, J. (1981). Individual response patterns and the effects"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      487.2220764160156,
+      398.0723571777344,
+      519.1478271484375
+    ],
+    "text": "of different behavioral methods in the treatment of social phobia. Behaviour Research and \nTherapy, 19, 1-16. \nOst, L. G., Johansson, J., & Jerremalm, A. (1982). Individual response patterns and the effects"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      517.9420776367188,
+      398.00048828125,
+      550.1078491210938
+    ],
+    "text": "of different behavioral methods in the treatment of claustrophobia. Behaviour Research \nand Therapy, 20, 445-460. \nPrins, P. J. (1986). Children's self-speech and self-regulation during a fear-provoking behav-"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.0,
+      548.662109375,
+      396.25445556640625,
+      570.267822265625
+    ],
+    "text": "ioral test. Behaviour Research and Therapy, 24, 181-191. \nReynolds, C. R., & Paget, K. C. (1983). National normative and reliability data for the revised"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.23999786376953,
+      569.0621337890625,
+      397.7660827636719,
+      590.9078369140625
+    ],
+    "text": "Children's Manifest Anxiety Scale. School Psychology Review, 12, 324-336. \nReynolds, C. R., & Richman, B. O. (1978). What I think and feel?: A revised measure of"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.0,
+      589.7020874023438,
+      397.27020263671875,
+      611.5823974609375
+    ],
+    "text": "children's manifest anxiety. Journal of Abnormal Child Psychology, 6, 271-280. \nSilverman, W. K. (1989). Self-control manual for phobic children. Unpublished Treatment Pro-"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      183.60000610351562,
+      67.46207427978516,
+      396.6216125488281,
+      79.22782897949219
+    ],
+    "text": "PRESCRIPTIVE TREATMENT \n121"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.23999786376953,
+      93.1420669555664,
+      398.2569274902344,
+      124.58781433105469
+    ],
+    "text": "tocol. (Available from the author, Department of Psychology, Florida International Uni- \nversity, University Park, Miami, FL 33199). \nSilverman, W. K. (1991). Diagnostic reliability of anxiety disorders in children using structured"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.4800033569336,
+      123.1420669555664,
+      397.3724670410156,
+      144.5078582763672
+    ],
+    "text": "interviews. Journal of Anxiety Disorders, 5, 105-124. \nSilverman, W. K., & Albano, A. M. (1996). The anxiety disorders interview schedule for DSM-"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      142.8220672607422,
+      397.91522216796875,
+      164.42784118652344
+    ],
+    "text": "IV.: Child and parent versions. San Antonio, TX: The Psychological Corporation. \nSilverman, W. K., & Eisen, A. R. (1992). Age differences in the reliability of parent and child"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.4800033569336,
+      162.98207092285156,
+      397.8586120605469,
+      194.42784118652344
+    ],
+    "text": "reports of child anxious symptomatology using a structured interview. Journal of the \nAmerican Academy of Child and Adolescent Psychiatry, 31, 117-124. \nSilverman, W. K., & Eisen, A. R. (1993). Overanxious disorder in children. In R. T."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      192.74208068847656,
+      398.1773986816406,
+      234.26783752441406
+    ],
+    "text": "Ammerman and M. Hersen (Eds.), Handbook of behavior therapy with children and \nadults: A developmental and longitudinal perspective (pp. 189-201). Boston: Allyn & \nBacon. \nSilverman, W. K., Fleisig, W., Rabian, B., & Peterson, R. A, (1991). The childhood anxiety"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      232.8220977783203,
+      398.1993103027344,
+      254.18785095214844
+    ],
+    "text": "sensitivity index. Journal of Clinical Child Psychology, 20, 162-168. \nSilverman, W. K., & Nelles, W. B. (1988). The anxiety disorders interview schedule for chil-"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      252.50209045410156,
+      396.6812744140625,
+      274.1078186035156
+    ],
+    "text": "dren. Journal of the American Academy of Child and Adolescent Psychiatry, 27, 772-778. \nSilverman, W. K., & Rabian, B. (1993). Simple phobias. Psychiatric Clinics of North America,"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      272.6620788574219,
+      397.2848815917969,
+      294.02783203125
+    ],
+    "text": "2, 603-622. \nTreadwell, K. R. H., & Kendall, P. C. (1996). Self-talk in youth with anxiety disorders: States"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      292.5820617675781,
+      397.439453125,
+      323.7878112792969
+    ],
+    "text": "of mind, content specificity, and treatment outcome. Journal of Consulting and Clinical \nPsychology, 64, 941-950. \nVan Hasselt, V. B., Hersen, M., BeUack, A. S., Rosenblum, N. D., & Lamparski, D. (1979)."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      322.3420715332031,
+      398.9666748046875,
+      353.7878112792969
+    ],
+    "text": "Tripartite assessment of the effects of systematic desensitization in a multiphobic child. \nJournal of Behavior Therapy and Experimental Psychiatry, 10, 51-55. \nWisniewski, J. J., Mulick, J. A., Genshafi, J. L., & Coury, D. L. (1987). Test-retest reliability"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      88.80000305175781,
+      352.3420715332031,
+      371.62298583984375,
+      363.8678283691406
+    ],
+    "text": "of the children's manifest anxiety scale. Perceptual and Motor Skills, 65, 67-70."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.72000122070312,
+      372.0220642089844,
+      177.1991729736328,
+      393.8188781738281
+    ],
+    "text": "RECEWED: January 16, 1997 \nACCEPTED: October 24, 1997"
+  }
+]

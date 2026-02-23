@@ -1,0 +1,1962 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      66.02400207519531,
+      605.535888671875,
+      363.02398681640625,
+      617.2559204101562
+    ],
+    "text": "Vol. 84, No. 2 (Spring 2020)\t\n105"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      66.02400207519531,
+      44.459991455078125,
+      338.1119384765625,
+      130.501953125
+    ],
+    "text": "Treatment of anxiety in autism\nEhrenreich-May et al.\nTreatment of anxiety in older \nadolescents and young adults with \nautism spectrum disorders:  \nA pilot study"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      66.02400207519531,
+      146.9639892578125,
+      192.1540069580078,
+      278.6839904785156
+    ],
+    "text": "Jill Ehrenreich-May, PhD  \nGregory Simpson, PhD  \nLindsay M. Stewart, PhD  \nSarah M. Kennedy, PhD  \nAmelia N. Rowley, PsyD  \nAmy Beaumont, PsyD  \nMichael Alessandri, PhD  \nEric A. Storch, PhD  \nElizabeth A. Laugeson, PsyD \nFrederick D. Frankel, PhD \nJeffrey J. Wood, PhD"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      66.375,
+      290.6083984375,
+      367.41015625,
+      506.7613525390625
+    ],
+    "text": "Anxiety disorders are commonly comorbid in adolescents and \nyoung adults with high-functioning autism. Cognitive-behavioral \ntreatments (CBT) for anxiety, when adapted and expanded to \ntarget autism spectrum disorder (ASD) characteristics, may be \nbeneficial, but there is minimal evidence to guide clinicians in \ntheir application. This multiple-baseline design study evaluated \nthe initial efficacy of a CBT protocol adapted to address anxiety \nsymptoms and adaptive functioning in this population. Anxiety \nand ASD symptoms were assessed for six participants at intake, \nafter baseline, posttreatment, and at 1-month follow-up. ­Parent- \nand child-reported anxiety was also assessed during baseline \nand treatment. Visual inspection and reliable change index \nscores were used to evaluate change. All participants improved \non clinician-rated measures of disorder severity, and gains were \nmaintained at follow-up. Results were more equivocal for parent- \nand self-rated anxiety and parent-rated ASD, partly because of \nspontaneous changes during baseline. (Bulletin of the Menninger \nClinic, 84[2], 105–136)"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      66.375,
+      520.3480224609375,
+      365.86297607421875,
+      569.7239990234375
+    ],
+    "text": "Jill Ehrenreich-May is a professor in the Department of Psychology, University of \n­Miami, Coral Gables, Florida. Gregory Simpson is a clinical psychologist at the Uni-\nversity of Guelph, Guelph, Ontario, Canada. Lindsay M. Stewart is a clinical psycholo-\ngist in private practice, Fort Lauderdale, Florida. Sarah M. Kennedy is an assistant \nprofessor at the University of Colorado School of Medicine, Aurora, Colorado."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "106\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.11199951171875,
+      70.10990905761719,
+      363.83062744140625,
+      94.41743469238281
+    ],
+    "text": "Keywords: anxiety, autism spectrum disorder, adolescents, young \nadults, cognitive-behavioral therapy"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.11540222167969,
+      103.63790893554688,
+      369.1654357910156,
+      402.5740051269531
+    ],
+    "text": "Autism spectrum disorders (ASD) affect as many as one out of \nevery 68 children in the United States (Centers for Disease Con-\ntrol and Prevention [CDC], 2014) and comprise one of the most \ncommon neurobiological conditions in youth (CDC, 2012; Fom-\nbonne, 2005; Rutter, 2005). The increase in reported prevalence \nof ASD diagnoses over the past several years (CDC, 2009; Ouel-\nlette-Kuntz, et al., 2007) may reflect, in part, a broadening of the \ndiagnostic criteria to include recognition of higher-functioning \nindividuals (Fombonne, 2005; Rutter, 2005). Such higher-func-\ntioning individuals with an ASD, in contrast to lower-function-\ning individuals, generally have at least normative intelligence \nand syntactical speech (Szatmari et al., 2009), with difficulties \nlikely to be apparent in pragmatic language, social communica-\ntion and interactions, and restricted, repetitive, or stereotyped \npatterns of behaviors, interests, or activities. Higher-­functioning \nindividuals are often not diagnosed until school age or later, if \never, and some remain undiagnosed well into adulthood (Bar-\nnard, Harvey, Prior, & Potter, 2001; Woodbury-Smith, Robin-\nson, Wheelwright, & Baron-Cohen, 2005).\nAlthough higher intellectual functioning and adequate com-\nmunication skills during early development are associated with \nbetter functioning and prognosis for those with ASD (Black, \nWallace, Sokoloff, & Kentworthy, 2009; Fein et al., 1999), ex-"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.02400207519531,
+      418.1080017089844,
+      366.1680603027344,
+      577.4840087890625
+    ],
+    "text": "Amelia N. Rowley is a clinical psychologist at Boston Child Study Center, Boston, \nMassachusetts. Amy Beaumont is director of Social Services in the Department of Psy-\nchology, University of Miami, Coral Gables, Florida. Michael Alessandri is a professor \nin the Department of Psychology, University of Miami, Coral Gables, Florida. Eric \nA. Storch is a senior faculty member in the Department of Psychiatry and Behavioral \nSciences, Baylor College of Medicine, Houston, Texas. Elizabeth A. Laugeson is an as-\nsociate clinical professor in the Department of Psychiatry and Biobehavioral Sciences, \nUCLA Semel Institute for Neuroscience and Human Behavior, Los Angeles, California. \nFrederick D. Frankel is a professor in the Department of Psychiatry and Behavioral \nSciences, UCLA Semel Institute for Neuroscience and Human Behavior, Los Angeles, \nCalifornia. Jeffrey J. Wood is an associate professor in the Department of Child and \nAdolescent Psychiatry, UCLA Semel Institute for Neuroscience and Human Behavior, \nLos Angeles, California. \nCorrespondence may be sent to Sarah M. Kennedy, Children’s Hospital Colorado, \n13123 E. 18th Ave., Box B130, Aurora, CO 80045; e-mail: Sarah.kennedy@ \ncuanschutz.edu (Copyright © 2020 The Menninger Foundation)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n107"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      66.02398681640625,
+      70.01986694335938,
+      369.07403564453125,
+      589.9898681640625
+    ],
+    "text": "isting research suggests that many youth with this condition will \ncontinue to experience difficulty throughout adolescence and \nadulthood (Barnard et al., 2001; Billstedt, Gillberg, & Gillberg, \n2005). For example, difficulties with independence, ­obtaining \ngainful employment, and establishing relationships are com-\nmonly noted among adults with ASD diagnoses (Barnard et al., \n2001; Morde et al., 2012). Thus, it would appear that late ad-\nolescence and young adulthood constitute an opportune time \nfor interventions aimed at improving psychosocial or adaptive \nfunctioning in individuals with ASD. \nComorbid psychological disorders are common among ado-\nlescents and adults with ASD diagnoses, particularly internal-\nizing disorders such as anxiety and depression (Ghaziuddin, \nWeidmer-Mikhail, & Ghaziuddin, 1998; Kim, Szatmari, Bryson, \nStreiner, & Wilson, 2000; Leyfer et al., 2006). Several studies \nhave indicated that youth with ASD evidence higher levels of \nanxiety and depression relative to typically developing peers \n(Bellini, 2004; Hurtig et al., 2009; Kim et al., 2000; Kuusikko \net al., 2008; Russell & Sofronoff, 2005). Anxious adolescents \nwith and without an ASD diagnosis may experience similar \n­severity of their anxiety symptoms (Farrugia & Hudson, 2006; \nRussell & Sofronoff, 2005). Farrugia and Hudson (2006) com-\npared adolescents (ages 12–16 years) with Asperger’s syndrome \nto two groups of adolescents: those with a clinical diagnosis of \nan anxiety disorder, and a nonclinical control group. Results \nrevealed that adolescents with Asperger’s had levels of anxiety \nequivalent to those experienced by the adolescents with diag-\nnosed anxiety disorders, and their level of anxiety was signifi-\ncantly higher than that of the nonclinical control group (Far-\nrugia & Hudson, 2006). \nEven among typically developing youth, anxiety can nega-\ntively impact academic performance, peer relationships, and \nfamily cohesion (S. Barrett & Huebeck, 2000; Langley, Berg-\nman, McCracken, & Piacentini, 2004). Anxiety may be particu-\nlarly debilitating to individuals with an ASD diagnosis as a re-\nsult of continuing social and emotional impairments associated \nwith ASD, including deficits in social skills and competence, low \nlevels of peer acceptance, and feelings of loneliness (Kuusikko \net al., 2008; Lasgaard, Nielsen, Eriksen, & ­Goossens, 2010; \nWilliamson, Craig, & Slinger, 2008). Furthermore, as they"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "108\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.07403564453125,
+      589.990234375
+    ],
+    "text": "transition to adulthood, adolescents with ASD often lack the \ncommunity connections, friendships and self-advocacy skills \nthat facilitate this transition among typically developing youth \n(Baxter, 1997). Thus, adolescents and young adults with comor-\nbid anxiety disorders and ASD are a vulnerable, understudied \npopulation for which potentially effective, cognitive-behavioral \ninterventions require new research to support their comparative \nutility and implementation.\nEvidence-based, psychosocial treatments have repeatedly \ndemonstrated efficacy in the treatment of adolescents with a \nvariety of internalizing disorders. Cognitive-behavioral therapy \n(CBT) is efficacious for various anxiety disorders, with effect \nsizes in the medium to large range reported in several meta-\nanalyses (Higa-McMillan, Francis, Rith-Najarian, & Chor-\npita, 2016; Ishikawa, Okajima, Matsuoka, & Sakano, 2007). \nAlthough multiple CBT-oriented protocols exist for anxiety \ndisorders in youth, these treatments typically employ various \ncombinations of roughly similar procedures, most often utiliz-\ning exposure, modeling, operant, family, and/or cognitive-based \nprocedures, and may be presented in either a group or indi-\nvidual format with roughly equivalent efficacy (P. M. Barrett, \nDadds, & Rapee, 1996; Kendall, 1994; March, Mulle, & Her-\nbel, 1994). \nThere is evidence to suggest that CBT may be beneficial in ad-\ndressing the anxiety symptoms that are associated with, or co-\nmorbid with, ASD in youth (Chalfant, Rapee, & Carroll, 2007; \nSofronoff, Attwood, & Hinton, 2005; Sze & Wood, 2007; \nWood et al., 2015). However, to increase the likelihood of gen-\neralizability and long-lasting impact of CBT-related skills and \nknowledge in those with ASD, traditional CBT protocols have \noften been adapted and expanded to target ASD characteristics \nthat may cause or compound anxiety symptoms. These charac-\nteristics include deficits in social skills and perspective taking, \npoor adaptive skills, and circumscribed interests and stereoty-\npies (Wood, Drahota, & Sze, 2007). One such protocol that \nhas been developed for children with ASD (Behavioral Inter-\nvention for Anxiety in Children with Autism [BIACA]; Wood et \nal., 2007) has shown promising evidence of significant improve-\nment in anxiety symptoms and ASD-specific areas of impair-\nment such as social initiation and self-help skills. Furthermore,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n109"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0741271972656,
+      576.9882202148438
+    ],
+    "text": "this modified form of CBT has demonstrated efficacy in dealing \nwith stereotyped behaviors, perseveration, social isolation, and \nreciprocal communication (Sze & Wood, 2007). \nAlthough efficacious with younger children with ASD, CBT \nfor older adolescents and young adults with ASD may require \ndevelopmentally appropriate modifications to address issues of \nemerging independence, unique social skill and self-advocacy \nneeds, and life transitions to be fully appropriate for this popu-\nlation. One such protocol that has been informed by develop-\nmental considerations relevant to adolescents is the Multimodal \nAnxiety and Social Skills Intervention (MASSI; White et al., \n2010), a CBT-based program for adolescents with ASD that in-\ncorporates social skills training and includes individual, group, \nand parent components. An initial pilot randomized controlled \ntrial (RCT) examining the feasibility and preliminary efficacy \nof MASSI in 30 early adolescents demonstrated a statistically \nsignificant improvement for MASSI participants, with a within-\ngroup effect size of d = 1.18. In addition, greater improvements \nwith respect to both overall anxiety and global functioning were \nnoted in the MASSI group as compared to a waitlist control \ngroup (White et al., 2013). Although results provide evidence \nof the feasibility and efficacy of MASSI, this protocol is geared \nspecifically toward adolescents and may not address the unique \nsocial and role challenges faced by individuals with ASD who \nare transitioning to young adulthood. To fill this gap in the liter-\nature, the efficacy of a 16-week modularized CBT intervention \nfor late adolescents with anxiety and high-functioning autism \nwas tested in a sample of six late adolescents/early adults with \nASD and comorbid anxiety (Treatment of Anxiety in Late Ado-\nlescents With Autism [TALAA]; Wise et al., 2019). Results re-\nvealed significant improvements in clinician-rated global sever-\nity and anxiety symptoms from baseline to posttreatment, but \nnot participant-rated anxiety (Wise et al., 2019). While results \nof this early open trial were promising, further investigation of \nthis type of protocol is warranted due to the lack of a controlled \nbaseline phase in the study. In addition, investigators did not \nexamine change in parent report of symptoms, which are im-\nportant to consider in this population into early adulthood due \nto the increased role of parents in the lives of these individuals."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "110\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.02499389648438,
+      70.01986694335938,
+      369.0640563964844,
+      251.93804931640625
+    ],
+    "text": "The current study examined the initial effects of a modified \nCBT program for youth (i.e., Wood et al., 2007) to address anx-\niety and other key concerns for adolescents and young adults \nwith ASD. This modified CBT treatment protocol utilized ele-\nments of an evidence-based social skills training protocol for \nadolescents with ASD (i.e., Program for the Education & En-\nrichment of Relational Skills [PEERS]; Laugeson & Frankel, \n2010), modules focusing on motivation and behavioral acti-\nvation to address depression symptoms more common in this \nage group (Merikangas & Knight, 2009), and new materials \nfocused on appropriate, ideographically defined role transitions \n(e.g., school to work). Our aim was to evaluate the initial ef-\nficacy of this protocol on symptoms of anxiety, depression, and \nautism using a multiple-baseline design."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.02499389648438,
+      269.6480407714844,
+      103.91998291015625,
+      282.5400390625
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.02499389648438,
+      295.0360412597656,
+      369.07501220703125,
+      515.7731323242188
+    ],
+    "text": "Research design\nThis pilot study utilized a single-case, multiple baseline across \nsubjects design (Barlow, Nock, & Hersen, 2009; Kazdin, 2003) \nto evaluate the feasibility of the adapted intervention protocol \nfor addressing anxiety symptoms and adaptive functioning in \nyouth with ASD. Institutional review board approval was ob-\ntained from the institution at which the study was conducted \nbefore beginning any study procedures. Participants were ran-\ndomly assigned to a 4-week, 8-week, or 12-week waitlist con-\ndition to allow for the collection of baseline data prior to the \nstart of the treatment protocol. This baseline period consisted \nof biweekly phone check-in sessions, which provided a con-\ntrol condition to which the impact of the weekly intervention \ncould be compared. This design also allowed for an assessment \nof change in the rate of symptom improvement during treat-\nment relative to baseline within and between subjects (Barlow \n& Nock, 2009)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.02499389648438,
+      533.670166015625,
+      369.0310363769531,
+      585.3811645507812
+    ],
+    "text": "Participants\nThis pilot study sample included six adolescents and young \nadults with ASD and an anxiety disorder, ranging in age from \n15 to 21 years (see Table 1 for demographic information). There"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n111"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      73.6438980102539,
+      272.76080322265625,
+      83.21189880371094,
+      390.0328063964844
+    ],
+    "text": "Table 1. Participant demographics"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      88.25189208984375,
+      159.68878173828125,
+      105.81989288330078,
+      577.6248168945312
+    ],
+    "text": "P\nAge\nGender\nBaseline Length \n(weeks)\n# Sessions \nAttended\nBaseline SCQ\nAnxiety Disorder (CSR)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      110.55589294433594,
+      77.9207763671875,
+      127.93189239501953,
+      296.5767822265625
+    ],
+    "text": "Baseline\nPostbaseline\nPosttreatment\n1-Month Fol-\nlow-Up"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      132.6678924560547,
+      90.58477783203125,
+      142.0438995361328,
+      584.86474609375
+    ],
+    "text": "1\n15\nM\n8\n16\n7\nGAD (6)\nGAD (6)\nGAD (4)\nGAD (4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      146.77989196777344,
+      91.4727783203125,
+      156.15589904785156,
+      310.56878662109375
+    ],
+    "text": "SOC (4)\nSOC (5)\nSOC (3)\nSOC (2)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      160.8918914794922,
+      91.4727783203125,
+      170.2678985595703,
+      584.86474609375
+    ],
+    "text": "2\n14\nM\n12 \n14\n19\nSOC (5)\nSOC (5)\nSOC (4)\nSOC (4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      175.00389099121094,
+      80.3687744140625,
+      184.37989807128906,
+      321.67279052734375
+    ],
+    "text": "ANX-NOS (4)\nANX-NOS (4)\nANX-NOS (2)\nANX-NOS (2)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      189.1158905029297,
+      159.01678466796875,
+      198.4918975830078,
+      306.56878662109375
+    ],
+    "text": "SP (2)\nSP (2)\nSP (1)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      203.22789001464844,
+      90.5767822265625,
+      212.60389709472656,
+      584.8568115234375
+    ],
+    "text": "3\n15\nM\n12\n16\nN/A\nGAD (6)\nGAD (6)\nGAD (3)\nGAD (2)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      217.33990478515625,
+      91.46478271484375,
+      226.71591186523438,
+      310.560791015625
+    ],
+    "text": "SOC (4)\nSOC (5)\nSOC (4)\nSOC (4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      231.451904296875,
+      90.5767822265625,
+      240.82791137695312,
+      584.8568115234375
+    ],
+    "text": "4\n20\nM\n4\n16\n19\nGAD (6) \nGAD (5) \nGAD (3)\nGAD (4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      245.56390380859375,
+      91.46478271484375,
+      254.93991088867188,
+      310.560791015625
+    ],
+    "text": "SOC (4)\nSOC (6)\nSOC (3)\nSOC (4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      259.6759033203125,
+      95.456787109375,
+      269.0519104003906,
+      306.560791015625
+    ],
+    "text": "SP (3)\nSP (2)\nSP (1)\nSP (2)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      273.78790283203125,
+      98.35279083251953,
+      283.1639099121094,
+      584.8487548828125
+    ],
+    "text": "5\n18\nM\n8\n16\n18\nGAD (5)\nGAD (4)\nGAD (2)\nN/A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      287.89990234375,
+      98.35279083251953,
+      297.2759094238281,
+      310.55279541015625
+    ],
+    "text": "SOC (4)\nSOC (5)\nSOC (3)\nN/A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      302.01190185546875,
+      98.35279083251953,
+      311.3879089355469,
+      584.8487548828125
+    ],
+    "text": "6\n17\nF\n4\n11\n20\nGAD (6)\nGAD (6)\nGAD (5)\nN/A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      316.1239013671875,
+      98.35279083251953,
+      325.4999084472656,
+      310.55279541015625
+    ],
+    "text": "SOC (5)\nSOC (5)\nSOC (4)\nN/A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      330.23590087890625,
+      98.35279083251953,
+      339.6119079589844,
+      312.560791015625
+    ],
+    "text": "MDD (4)\nMDD (4)\nMDD (4)\nN/A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      345.0308837890625,
+      91.02183532714844,
+      361.6348876953125,
+      588.8690795898438
+    ],
+    "text": "Note. P: participant; SCQ: Social Communication Questionnaire; CSR: Clinical Severity Rating; GAD: generalized anxiety disorder; SOC: social phobia; SP: specific \nphobia; ANX-NOS: anxiety disorder not otherwise specified; MDD: major depressive disorder."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "112\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      66.02398681640625,
+      70.01986694335938,
+      369.07403564453125,
+      589.990234375
+    ],
+    "text": "were five males in this sample: Two were in the 9th grade, at-\ntending mainstream high school classes (both 15 years of age); \none was in 11th grade at a private, religious school (16 years \nof age); one was in his senior year of high school (18 years of \nage); and one was completing his associate’s degree at a two-\nyear community college (21 years of age). There was one fe-\nmale in the sample who was completing 11th grade and at-\ntending mainstream high school classes (17 years of age). All of \nthe sample identified as White, and 50% of those (n = 3) also \nidentified as Hispanic/Latino. All participants in the study were \nliving in the same home with the parent/caregiver who partici-\npated in treatment.\nInclusion criteria for this study were a clinical diagnosis of an \nASD within the past 6 months, or meeting the autism or ASD \ncutoff score on the Autism Diagnostic Observation Schedule \n(Lord, Rutter, DiLavore, & Risi, 2002); being between the ages \nof 14 and 22 years old at time of intake assessment; and meeting \ndiagnostic criteria for an anxiety disorder, as determined based \non an administration of the Anxiety Disorders Interview Sched-\nule for DSM-IV, Child Version (Silverman & Albano, 1996). \nAdolescents and young adults were included if they were func-\ntioning at or above grade level and/or had a documented IQ \ngreater than 70, to allow for an understanding of the assent \nprocess as well as full participation in the cognitive components \nof the protocol. Moreover, if the adolescent/adult was on any \npsychiatric medication, a 1-month stabilization period (for ben-\nzodiazepines) or 3-month stabilization period (for selective se-\nrotonin reuptake inhibitors [SSRIs], serotonin and norepineph-\nrine reuptake inhibitors [SNRIs], or tricyclics) was required \nprior to the initial diagnostic assessment. All participants were \nasked to have one parent (or caregiver with whom the adoles-\ncent or young adult was living) available to accompany them \nto assessment sessions and participate in caregiver-directed ses-\nsions as prescribed. Parents gave written informed consent and \nadolescents gave written assent (unless the individual was 18 \nyears of age or older, in which case the participant provided \nwritten consent and a release of information regarding caregiver \ninvolvement).\nParticipants were excluded if there was a current or past di-\nagnosis of schizophrenia, bipolar I or II disorder, organic brain"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n113"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0520935058594,
+      160.9239501953125
+    ],
+    "text": "syndrome, intellectual disability, or current suicidal/homicidal \nideation. Participants with other types of comorbid conditions \n(e.g., substance use disorders or disruptive behavior disorders) \nwere not excluded, provided their principal diagnosis was an \nanxiety disorder. Adolescents and their parents had to be able \nto speak, read, and understand English sufficiently well to com-\nplete study procedures."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.02400207519531,
+      188.21495056152344,
+      110.62902069091797,
+      200.91995239257812
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.02398681640625,
+      211.21595764160156,
+      369.0740661621094,
+      587.9771728515625
+    ],
+    "text": "Anxiety Disorders Interview Schedule for DSM-IV, Child \nVersion, Child and Parent Report Forms (ADIS-IV-C/P). The \nADIS-IV-C/P (Silverman & Albano, 1996) is a semistructured \ninterview permitting the diagnosis of all DSM-IV (American \nPsychiatric Association, 2000) anxiety disorders, mood dis-\norders, and externalizing disorders of childhood and adoles-\ncence, and providing screening questions for selected other dis-\norders. Although usage of the adult version of the ADIS was \nconsidered for participants over age 18, we determined that \ninstrument consistency and parental involvement were of pri-\nmary importance for this pilot trial. On the basis of youth and \ncaregiver reports, evaluators assign a Clinical Severity Rating \n(CSR) score for each diagnosis ranging from 0 to 8, with “0” \nreflecting no symptoms/functional impairment and “8” reflect-\ning marked severity and impairment. Psychometric properties \nfor the DSM-IV version of the ADIS-C/P have shown adequate \ntest–retest reliability for anxiety and depressive disorders, with \na test–retest interval of 7–14 days (Silverman, Saavedra & Pina, \n2001). The full ADIS-IV-C/P was used during the initial diag-\nnostic assessment in the present study, but a shorter version of \nthe ADIS-IV-C/P (i.e., the Mini-ADIS-IV-C/P) was used after the \nbaseline period, at posttreatment, and at the 1-month follow-\nup assessment. This version focuses on the interim period since \nthe previous assessment and was administered by an indepen-\ndent evaluator blind to treatment status. The ADIS-IV-C/P was \nadministered by one PhD-level clinician and one predoctoral \npsychology graduate student who received supervision on each \ncase from an expert rater. Neither clinician provided treatment \nto study participants."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "114\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.02499389648438,
+      70.01986694335938,
+      369.0640869140625,
+      238.93603515625
+    ],
+    "text": "Autism Diagnostic Observation Schedule (ADOS). The ADOS \n(Lord et al., 2002) is a semistructured observational assessment \nfor the diagnosis of autism that measures communication, so-\ncial interaction, play, and the imaginative use of materials. The \nstructured activities have been divided into four modules appro-\npriate to children and adults at different developmental linguis-\ntic levels. A recent meta-analysis found that, across five studies, \nthe ADOS demonstrated a correct classification score for autism \nof .80, with some variability depending upon the module and \nscoring algorithm used (Falkmer, Anderson, Falkmer, & Horlin, \n2013). Modules 3 and 4 were used in this study, and the assess-\nment was only given at intake by a research-reliable examiner if \nthere was no prior ASD diagnosis."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.02499389648438,
+      247.86802673339844,
+      369.0750732421875,
+      468.605224609375
+    ],
+    "text": "Revised Child Anxiety and Depression Scale–Parent Version \n(RCADS-P). The RCADS-P (Ebesutani, Bernstein, Nakamura, \nChorpita, & Weisz, 2010) is a 47-item parent-report question-\nnaire with scales corresponding to separation anxiety disorder \n(SAD), social phobia (SOC), generalized anxiety disorder (GAD), \npanic disorder (PD), obsessive-compulsive disorder (OCD), and \nmajor depressive disorder (MDD). Respondents rate how often \neach item applies to their child on a scale from 0 to 3, corre-\nsponding to “never,” “sometimes,” “often,” and “always.” The \nRCADS-P has shown acceptable to good internal consistency in \nclinic-referred youth (with Cronbach’s alpha for individual sub-\nscales ranging from .68 to .84), as well as favorable convergent, \ndiscriminant, and factorial validity (Ebesutani et al., 2010). The \nRCADS-P was completed at each assessment point, as well as \nduring each baseline phone check-in and each treatment session. \nFor the purposes of this investigation, scores on the GAD, SOC, \nand Total Anxiety scales were analyzed."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.02499389648438,
+      477.5372314453125,
+      369.0421142578125,
+      581.2562255859375
+    ],
+    "text": "Behavior Assessment System for Children, Second Edition, \nParent Rating Scale–Adolescent Version, and Self-Report of \nPersonality–Adolescent Version (BASC-2-PRS-A and BASC-\n2-SRP-A). The BASC-2 system (Reynolds & Kamphaus, 2004) \nassesses emotional, behavioral, and adaptive functioning of \nadolescents aged 12 to 21 years. Subscales address a broad \nrange of both internalizing and externalizing concerns. The \nBASC-2-PRS-A and BASC-2-SRP-A have been standardized and"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n115"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.052001953125,
+      160.9239501953125
+    ],
+    "text": "normed on large national samples, and all of the scales have \nwell established reliability and validity (Reynolds & Kamphaus, \n2004). The BASC-2-PRS-A and BASC-2-SRP-A were completed \nat each assessment time point (i.e., intake, postbaseline, post-\ntreatment, and 1-month follow-up), and scores on the Anxiety \nand the Internalizing Problems Composite scales from both par-\nent and adolescent versions were examined."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.02401733398438,
+      169.66897583007812,
+      369.063232421875,
+      364.58917236328125
+    ],
+    "text": "Social Responsiveness Scale (SRS). The SRS (Constantino & \nGruber 2005) is a 65-item parent checklist of items relating to \nchildren’s social ability and impairment in naturalistic social set-\ntings. The SRS has been designed to provide a quantitative index \nof social behavior that is sensitive across the full range of typical \nand atypical social development, as well as sensitive to distinc-\ntions between pervasive developmental disability samples and \nother clinical groups. Each item is rated on a scale from “never \ntrue” (0) to “almost always true” (3), with higher scores indicat-\ning more social impairment. The measure has excellent short- \nand longer-term test–retest reliability (.83 to .88) and convergent \nmultiple informant agreement (Constantino, Przybeck, Friesen, \n& Todd, 2000; Constantino & Todd, 2003; Constantino et al., \n2003). The SRS was completed at each assessment time point, \nand the SRS Total score was examined."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.02400207519531,
+      373.33416748046875,
+      369.0741271972656,
+      568.2538452148438
+    ],
+    "text": "Social Communication Questionnaire (SCQ). The SCQ (Be-\nrument, Rutter, Lord, Pickles, & Bailey, 1999) is a brief, parent-­\nreport instrument for the valid screening or verification of \nautism spectrum disorder symptoms in youth. The total score \nrepresents the three critical autism diagnostic domains of quali-\ntative impairments in reciprocal social interaction, communica-\ntion, and repetitive and stereotyped pattern behaviors; 15 is the \nsuggested cutoff score for an autism diagnosis. The SCQ dem-\nonstrates good reliability and validity, with coefficient alphas \nfor various age groupings ranging from .84 to .93 (Berument \net al., 1999). This measure was administered at intake as a mea-\nsure of autism severity. Participant scores ranged from 7 to 20, \nwith four of the five participants who completed the measure \nfalling above the cutoff of 15. See Table 1 for further informa-\ntion about participant scores."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "116\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.02398681640625,
+      70.20687103271484,
+      369.0740966796875,
+      589.9898681640625
+    ],
+    "text": "Intervention \nThe Anxiety-Focused Intervention for Adolescents and Young \nAdults with Autism (AFIYA) is a modified version of the Behav-\nioral Intervention for Anxiety in Children with Autism (BIACA; \nWood et al., 2007) similar to the intervention protocol used in \na recently published open trial of modular CBT for late adoles-\ncents with anxiety and ASD (Wise et al., 2019). Relative to BI-\nACA, the AFIYA protocol places greater emphasis on the cogni-\ntive components of anxiety, uses motivational enhancement and \nbehavioral activation (to address conduct issues and depres-\nsive symptoms), uses photographs for emotion education, and \nuses role-play and video-modeling techniques to teach both self \nand other emotional awareness and social skill development. \nIn ­addition, there is an emphasis on developing independence, \nautonomy, and both basic and more sophisticated self-advocacy \nand social and communication skills in the context of major \nlife transitions. Source materials from the PEERS (Laugeson \n& Frankel, 2010), as well as other cognitive-behavioral manu-\nals for anxiety and depression in youth and adults, were also \nincor­porated (Barlow et al., 2017; Ehrenreich-May et al., 2018).\nAFIYA is a modular cognitive-behavioral intervention that \nconsists of approximately 16 weekly treatment sessions. These \nsessions last 90 minutes and include sections dedicated to speak-\ning with the adolescent or young adult alone, the caregiver \nalone, and the caregiver and adolescent/young adult together. \nThe program’s flexible modular structure allows clinicians to \nindividually tailor treatment by selecting specific modules that \nbest meet the needs of clients and their families. Modules are \nselected on the basis of a simple algorithm adapted from Chor-\npita, Taylor, Francis, Moffitt, and Austin (2004). The algorithm \nallows clinicians to deliver basic coping skills by using the KICK \nsteps (Knowing I’m Nervous; Irritating Thoughts; Calm/Chal-\nlenge Thoughts; Keep Practicing), developmentally tailored us-\ning adolescent/young adult friendly examples and language, fol-\nlowed by a primary focus on exposures. Supplementary modules \nmay be used to address barriers that occur during exposures or \nto provide social skills training. Parent modules also follow an \nalgorithmic structure and include modules focused on psycho-\neducation, encouraging independence and related self-­advocacy \nskills, helping their adolescents/young adults to negotiate"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n117"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      87.67649841308594,
+      74.86787414550781,
+      344.5084533691406,
+      84.43587493896484
+    ],
+    "text": "Table 2. AFIYA treatment modules and participants receiving each module"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.11650085449219,
+      89.47584533691406,
+      361.9084777832031,
+      107.0438461303711
+    ],
+    "text": "Adolescent \nModule\nModule Contents\nP1\nP2\nP3\nP4\nP5\nP6"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.11650085449219,
+      111.8438720703125,
+      360.5724792480469,
+      129.21987915039062
+    ],
+    "text": "1\nIntroduction, Information about \nASD\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.11650085449219,
+      141.86785888671875,
+      360.5804748535156,
+      151.24386596679688
+    ],
+    "text": "2\n“K” and “I” Steps\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.12449645996094,
+      155.9798583984375,
+      360.5884704589844,
+      165.35586547851562
+    ],
+    "text": "3\n“C” Steps\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.13249206542969,
+      170.09185791015625,
+      360.5964660644531,
+      179.46786499023438
+    ],
+    "text": "H\nHierarchy of Exposures\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.14048767089844,
+      184.203857421875,
+      360.6044616699219,
+      193.57986450195312
+    ],
+    "text": "4\n“K”- Keep Practicing\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.14848327636719,
+      198.31585693359375,
+      360.6124572753906,
+      207.69186401367188
+    ],
+    "text": "KICK\nUsing the KICK Plan\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.15647888183594,
+      212.4278564453125,
+      360.6204528808594,
+      221.80386352539062
+    ],
+    "text": "IV\nIn Vivo Exposure\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.16447448730469,
+      226.53985595703125,
+      343.5004577636719,
+      235.91586303710938
+    ],
+    "text": "R\nRelaxation\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.18046569824219,
+      240.65185546875,
+      343.5084533691406,
+      258.0278625488281
+    ],
+    "text": "ENTRY/EXIT\nEntering/Exiting Social Interac-\ntions\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.18846130371094,
+      262.76385498046875,
+      343.52447509765625,
+      272.1398620605469
+    ],
+    "text": "PLAY\nGet-Togethers/Friendships\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.20446014404297,
+      276.8758544921875,
+      215.74844360351562,
+      286.2518615722656
+    ],
+    "text": "ERP\nE/RP In Vivo Exposure"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.2044677734375,
+      290.98785400390625,
+      360.66845703125,
+      300.3638610839844
+    ],
+    "text": "T\nTermination\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.21247863769531,
+      304.9078674316406,
+      121.48446655273438,
+      314.4758605957031
+    ],
+    "text": "Parent Module"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.21247863769531,
+      319.21185302734375,
+      360.66845703125,
+      336.5878601074219
+    ],
+    "text": "I\nIntroduction, Information, and \nTreatment Plan\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.21247863769531,
+      341.3238525390625,
+      343.532470703125,
+      350.6998596191406
+    ],
+    "text": "IND\nEncouraging Independence\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.21246337890625,
+      355.43585205078125,
+      360.67645263671875,
+      364.8118591308594
+    ],
+    "text": "H\nHierarchy of Exposures\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.22047424316406,
+      369.5478515625,
+      215.012451171875,
+      378.9238586425781
+    ],
+    "text": "EXP\nNegotiating Exposures"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.22047424316406,
+      383.65985107421875,
+      166.5564727783203,
+      393.0358581542969
+    ],
+    "text": "REW\nRewards"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.22047424316406,
+      397.7718505859375,
+      249.37246704101562,
+      415.1478576660156
+    ],
+    "text": "APPROP\nSocially Appropriate Interaction \nand Activities"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.22047424316406,
+      419.88385009765625,
+      360.6844482421875,
+      429.2598571777344
+    ],
+    "text": "T\nTermination\nX\nX\nX\nX\nX\nX"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.11530303955078,
+      434.6786804199219,
+      323.82037353515625,
+      451.28271484375
+    ],
+    "text": "Note. KICK: Knowing I’m Nervous; Irritating Thoughts; Calm/Challenge Thoughts;  \nKeep Practicing."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.11540222167969,
+      467.3799133300781,
+      369.1324768066406,
+      506.27587890625
+    ],
+    "text": "­exposures, and facilitating age-appropriate social interactions. A \ncomplete list of all modules, as well as information about which \nparticipants received which modules, may be found in Table 2."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.11540222167969,
+      524.1728515625,
+      369.0996398925781,
+      588.8859252929688
+    ],
+    "text": "Analytic strategy\nChanges in symptomatology and functioning over time were ex-\namined by visually inspecting patterns of change on the parent-\nreport and adolescent-report measures, as well as clinicians’ rat-\nings of severity and functioning as indicated by the ADIS-IV-C/P"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "118\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.02400207519531,
+      367.5398864746094,
+      369.0630187988281,
+      588.4639282226562
+    ],
+    "text": "CSR scores across assessment points (Hayes, Barlow, & Nelson-\nGray, 1999; Kazdin, 2003). Changes that are large in magni-\ntude, temporally related to the baseline-to-intervention phase \nchange, consistent throughout the intervention phase, and simi-\nlar across participants allow for the strongest conclusions to \nbe drawn about the relationship between the intervention and \nreported symptomatology. Table 1 summarizes changes in diag-\nnostic status and related severity over time. Figure 1 provides a \ngraphical representation of changes in parent-rated social anxi-\nety symptoms during the baseline and treatment phases for each \nparticipant, while Figure 2 provides a graphical representation \nof changes in parent-rated generalized anxiety symptoms during \nthe baseline and treatment phases for reach participant.\nReliable change index scores (RCI) were also calculated to deter-\nmine the significance of changes in the RCADS-P, BASC-2-PRS-\nA, BASC-2-SRP-A, and SRS scores during the waitlist and inter-\nvention phases above and beyond that of normal measurement"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      93.11540222167969,
+      321.1519775390625,
+      324.1554260253906,
+      357.6159973144531
+    ],
+    "text": "Figure 1. Weekly RCADS-P Social Anxiety t scores across baseline, \nintervention, and posttreatment and follow-up phases for all \nparticipants. Baseline phase time points include both intake \nassessment and assessment at the end of the baseline period."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n119"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      93.39698791503906,
+      393.1861877441406,
+      323.3729553222656,
+      429.65020751953125
+    ],
+    "text": "Figure 2. Weekly RCADS-P Generalized Anxiety t scores across \nbaseline, intervention, and posttreatment and follow-up phases \nfor all participants. Baseline phase time points include both intake \nassessment and assessment at the end of the baseline period."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.39710235595703,
+      446.0998840332031,
+      368.78729248046875,
+      589.0119018554688
+    ],
+    "text": "variance and/or change due to the passage of time. Specifically, \nRCI scores were calculated for each adolescent on each scale \nfor three time points: (1) intake to the end of each participant’s \nbaseline period (hereafter referred to as postbaseline), (2) post-\nbaseline to completion of the intervention (hereafter referred to \nas posttreatment), and (3) posttreatment to a 1-month follow-\nup. RCIs larger than the z-score level of significance, in this case \n1.96 (p < .05), were considered statistically reliable (Ferguson, \nRobinson, & Splaine, 2002). Table 3 summarizes posttreatment \nreliable change scores for all participants on all measures, as \nwell as whether gains were maintained at follow-up."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "120\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      100.24500274658203,
+      82.91187286376953
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02400207519531,
+      95.4078598022461,
+      149.75596618652344,
+      108.11286163330078
+    ],
+    "text": "Participant 1 (P1)"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02400207519531,
+      116.85787963867188,
+      369.0740661621094,
+      246.76800537109375
+    ],
+    "text": "Changes in diagnostic status. At intake, P1 (15-year-old male, \n8-week baseline) met diagnostic criteria for generalized anxiety \ndisorder (GAD; CSR = 6) and social phobia (SOC; CSR = 4). \nFrom intake to postbaseline, P1’s CSR score remained stable for \nGAD (CSR = 6), but symptom severity for SOC was judged to \nhave worsened slightly (CSR = 5). From postbaseline to post-\ntreatment, decreases in CSR scores were reported for both do-\nmains (GAD CSR = 4; SOC CSR = 3).Treatment gains were \nmaintained at 1-month follow-up, with P1 continuing to have a \nCSR of 4 for GAD and a CSR of 2 for SOC."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02398681640625,
+      255.51300048828125,
+      369.0631408691406,
+      528.4451904296875
+    ],
+    "text": "Changes in parent report of emotional symptoms. P1 dem-\nonstrated a statistically reliable decrease on the RCADS-P To-\ntal Anxiety scale from intake to postbaseline (RCI = −2.14), \nalthough the postbaseline score remained in the clinically sig-\nnificant range (t ≥ 65). Visual inspection revealed a decrease \non the RCADS-P-SOC scale that was not statistically reliable \n(RCI  =  −1.43), and there was little change on the RCADS-P \nGAD scale (RCI = −.45). From postbaseline to posttreatment, \nvisual inspection indicated decreases on the RCADS-P Total \nAnxiety scale, the RCADS-P GAD scale, and the RCADS-P SOC \nscale, although these changes were not statistically reliable. All \nthree RCADS-P scales remained stable at follow-up. There were \nno statistically reliable changes on the BASC-2-PRS-A during \nthe baseline period on either the Anxiety (RCI = −.33) or the \nInternalizing Problems Composite scale (RCI = −.91). From \npostbaseline to posttreatment, statistically reliable changes were \nnoted on both the Anxiety and Internalizing Problems Compos-\nite scales. It should also be noted that P1’s scores on both scales \ndecreased from the clinically significant range (i.e., t > 65) to the \nnonclinical range following treatment, and these decreases were \nmaintained at the follow-up."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.02398681640625,
+      537.1902465820312,
+      369.0520324707031,
+      576.086181640625
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. P1 dem-\nonstrated a statistically reliable decrease in symptoms on the \nSRS Total scale during the baseline period (RCI = −3.70), and"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n121"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      130.66380310058594,
+      143.6546630859375,
+      140.2318115234375,
+      516.3665771484375
+    ],
+    "text": "Table 3. Posttreatment reliable change in outcome measures and maintenance of gains at 1-month follow-up"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      145.2718048095703,
+      85.3826904296875,
+      154.83981323242188,
+      506.03857421875
+    ],
+    "text": "P1\nFU\nP2\nFU\nP3\nFU\nP4\nFU\nP5\nFU\nP6\nFU"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      159.5758056640625,
+      86.7586669921875,
+      168.95181274414062,
+      584.0626220703125
+    ],
+    "text": "Pa RCADS Total\n−1.79\n—\n−.18\n—\n−1.43\n—\n−3.22\nY\n−2.50\nY\n.54\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      173.68780517578125,
+      86.79864501953125,
+      183.06381225585938,
+      584.1026000976562
+    ],
+    "text": "Pa RCADS GAD\n−1.34\n—\n0.00\n—\n−.89\n—\n−1.79\n—\n−.45\n—\n1.34\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      187.7998046875,
+      86.83868408203125,
+      197.17581176757812,
+      584.142578125
+    ],
+    "text": "Pa RCADS Soc\n−1.43\n—\n0.00\n—\n−2.51\nY\n−4.30\nY\n−3.59\nY\n0.00\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      201.91180419921875,
+      86.878662109375,
+      211.28781127929688,
+      584.1825561523438
+    ],
+    "text": "Pa BASC Anx\n−3.62\nY\n0.00\n—\n−3.62\nY\n−1.15\n—\n−4.60\nY\n.66\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      216.0238037109375,
+      86.91864013671875,
+      225.39981079101562,
+      584.2225952148438
+    ],
+    "text": "Pa BASC Int\n−3.65\nY\n0.00\n—\n−.36\n—\n−1.39\n—\n−3.88\nY\n1.14\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      230.13580322265625,
+      86.95867919921875,
+      239.51181030273438,
+      584.2625732421875
+    ],
+    "text": "SRS\n−.34\n—\n2.69\n—\n−.29\n—\n−9.43\nY\n−6.73\nY\n0.00\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      244.247802734375,
+      86.9986572265625,
+      253.62380981445312,
+      584.3025512695312
+    ],
+    "text": "A BASC Anx\n−.57\n—\n1.15\n—\n−2.68\nY\n1.52\n—\n−1.15\n—\n.96\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      258.35980224609375,
+      87.03070068359375,
+      267.7358093261719,
+      584.3425903320312
+    ],
+    "text": "A BASC Int\n−1.93\n—\n2.25\n—\n−3.21\nN\n0.00\n—\n−.96\n—\n−.96\n—"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      273.15521240234375,
+      74.05570983886719,
+      298.1592102050781,
+      588.0239868164062
+    ],
+    "text": "Note. P: participant; FU: follow-Up; Pa: parent; A: adolescent; RCADS: Revised Child Anxiety and Depression Scale; BASC: Behavioral Assessment Scale for Children; \nSRS: Social Responsiveness Scale; GAD: generalized anxiety disorder; Soc: social anxiety disorder; Int: internalizing; Anx: anxiety. Scores that meet or exceed threshold of \n1.96 for statistically reliable change are bolded. FU column indicates whether statistically reliable changes were maintained at FU (Y/N)."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "122\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0409851074219,
+      95.91388702392578
+    ],
+    "text": "this improvement was maintained at the posttreatment and \n­follow-up time points."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02398681640625,
+      104.65890502929688,
+      369.0630187988281,
+      234.56903076171875
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. No \nreliable changes were noted during the baseline period on the \nBASC-2-SRP-A Anxiety scale (RCI = −.38) or the Internaliz-\ning Problems Composite scale (RCI = .64). From postbaseline \nto posttreatment, no reliable change was noted on the BASC-\n2-SRP-A Anxiety scale. Visual inspection revealed a decrease \non the Internalizing Problems Composite scale, although this \nchange was not statistically reliable. P1’s scores on the BASC-\n2-SRP-A Anxiety and Internalizing Problems Composite scales \nremained stable at the 1-month follow-up."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02398681640625,
+      252.4660186767578,
+      149.75595092773438,
+      265.1710205078125
+    ],
+    "text": "Participant 2 (P2)"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02398681640625,
+      273.916015625,
+      369.0630798339844,
+      403.8261413574219
+    ],
+    "text": "Changes in diagnostic status and clinicians’ ratings. At intake, \nP2 (14-year-old male, 12-week baseline) met diagnostic criteria \nfor SOC (CSR = 5) and anxiety disorder not otherwise specified \n(ANX-NOS; CSR = 4). Subclinical features of a specific phobia \nwere also noted (SP; CSR = 2). No change in diagnostic status \nor CSR scores was observed from intake to postbaseline. All \nCSR scores declined posttreatment (SOC, CSR = 4; ANX-NOS, \nCSR = 2; SP, CSR = 1). These improvements were maintained at \nthe 1-month follow-up (SOC, CSR = 4; ANX-NOS, CSR = 2; \nSP, CSR = 0)."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02398681640625,
+      412.5711364746094,
+      369.0631103515625,
+      542.4811401367188
+    ],
+    "text": "Changes in parent report of emotional symptoms. During the \nbaseline period, no reliable changes were observed in P2’s score \non the RCADS-P Total Anxiety scale (RCI = 1.07) or on the \nRCADS-P SOC scale (RCI = 1.79), although visual inspection \nrevealed increases on both scales. P2’s score on the RCADS-P \nGAD scale at intake was a zero. P2’s score on the RCADS-P \nTotal Anxiety, SOC, and GAD scales remained stable through \nthe posttreatment and follow-up assessments. This pattern of \nfindings mirrored that seen on the BASC-2-PRS-A Anxiety and \nInternalizing Problems Composite scales."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.02398681640625,
+      551.2261352539062,
+      369.0520935058594,
+      590.1221313476562
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. P2 dis-\nplayed no reliable change in the SRS Total score from intake to \npostbaseline. At posttreatment, P2 showed a statistically reliable"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n123"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0741271972656,
+      108.91590118408203
+    ],
+    "text": "worsening of symptoms on the SRS Total scale. At follow-up, \nP2’s SRS Total score decreased, although not to a statistically \nreliable degree."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      117.8479232788086,
+      369.06317138671875,
+      299.5791015625
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. \nFrom intake to postbaseline, P2 evidenced a decrease on the \nBASC-2-SRP-A Anxiety scale that was not statistically reli-\nable (RCI = −1.53); however, there was a statistically reliable \ndecrease on the Internalizing Problems Composite scale (RCI \n= −2.99). Posttreatment, there was no reliable change on the \nAnxiety scale, but there was a statistically reliable increase on \nthe Internalizing Problems Composite scale. However, it should \nbe noted that P2’s posttreatment Internalizing Problems Com-\nposite scale score (t score = 42) was actually lower than his \noriginal intake score (t score = 44) due to a decrease during the \nbaseline period. At follow-up, P2 evidenced no further statisti-\ncally reliable changes on the Internalizing Problems Composite \nscale (RCI = −1.29) or the Anxiety scale (RCI = −.58)."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      317.4761047363281,
+      152.81396484375,
+      330.18109130859375
+    ],
+    "text": "Participant 3 (P3)"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      338.92608642578125,
+      369.0630798339844,
+      455.83416748046875
+    ],
+    "text": "Changes in diagnostic status and clinicians’ ratings. P3 \n(15-year-old male, 12-week baseline) met criteria for GAD \n(CSR = 6) and SOC (CSR = 4) at intake. His CSR for SOC in-\ncreased to a 5 after the baseline period, suggesting a mild wors-\nening of social anxiety symptoms. Posttreatment, decreases in \nCSR scores were observed for both diagnoses (GAD, CSR = 3; \nSOC, CSR = 4). At follow-up, the CSR score remained stable \nfor SOC (CSR = 4), whereas the CSR for GAD had decreased \nslightly (CSR = 2)."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.02400207519531,
+      464.57916259765625,
+      369.07403564453125,
+      581.48681640625
+    ],
+    "text": "Changes in parent report of emotional symptoms. During \nthe baseline period, P3 evidenced a decrease on the RCADS‑P \nTotal Anxiety scale that did not reach statistical reliability \n(RCI  =  −1.79) and no change on the RCADS-P GAD scale \n(RCI = .00). P3’s scores on the RCADS-P SOC scale decreased \nreliably during the baseline period (RCI = −2.15). From post-\nbaseline to posttreatment, a further statistically reliable decrease \nwas observed on the RCADS-P SOC scale, and a decline was \nobserved on the RCADS-P Total Anxiety scale that did not reach"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "124\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.063232421875,
+      264.9400634765625
+    ],
+    "text": "statistical reliability. Treatment gains on the RCADS-P-SOC \nscale were maintained at follow-up. No statistically reliable \nchanges were observed in P3’s RCADS-P GAD or RCADS-P \nTotal Anxiety scale at posttreatment or follow-up. During the \nbaseline period, there were no reliable changes on the BASC-\n2-PRS-A Anxiety scale (RCI = 1.64) or the Internalizing Prob-\nlems Composite scale (RCI = 1.60), although visual inspection \nrevealed an increase on both composites. From postbaseline to \nposttreatment, a statistically reliable improvement was noted on \nthe BASC-2-PRS-A Anxiety scale but not on the Internalizing \nProblems Composite scale. These improvements were main-\ntained at the follow-up. In addition, as was the case for P1, P3’s \nscores on the BASC-2-PRS Anxiety and Internalizing Problems \nComposite scales decreased from the clinically significant range \nto the nonclinical range posttreatment."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02400207519531,
+      273.68505859375,
+      369.0520935058594,
+      351.5871276855469
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. The SRS \nTotal scale indicated no statistically reliable change from the \nintake to postbaseline assessment, or from the postbaseline to \nposttreatment assessment. However, P3 evidenced a statistically \nreliable decrease on the SRS Total scale (RCI = −4.04) at the \nfollow-up period."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02400207519531,
+      360.3321228027344,
+      369.0631408691406,
+      490.2421875
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. During \nthe baseline period, P3 evidenced an increase in the BASC-2-SRP-\nA Anxiety scale that was not statistically reliable (RCI = 1.70) \nand a statistically reliable increase on the Internalizing Prob-\nlems Composite scale (RCI = 3.21). Posttreatment, there was \na reliable decrease on both the Anxiety and the Internalizing \nProblems Composite scales. Although P3’s improvements on the \nAnxiety scale were maintained at follow-up, there was a sta-\ntistically reliable increase in P3’s overall Internalizing Problems \nComposite scale score (RCI = 5.15)."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02400207519531,
+      508.1391906738281,
+      149.75596618652344,
+      520.8441772460938
+    ],
+    "text": "Participant 4 (P4)"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.02400207519531,
+      529.5892333984375,
+      369.0631103515625,
+      581.4871826171875
+    ],
+    "text": "Changes in diagnostic status and clinicians’ ratings. P4 \n(20-year-old male, 4-week baseline) met criteria for GAD (CSR \n= 6) and SOC (CSR = 4) at intake and was given a subclinical di-\nagnosis of specific phobia (SP; CSR = 3). Postbaseline, the CSRs"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n125"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0850524902344,
+      147.92193603515625
+    ],
+    "text": "for SP (CSR = 2) and GAD (CSR = 5) had decreased slightly; \nhowever, the CSR for SOC had increased (CSR = 6). Posttreat-\nment, P4 showed reductions in CSR scores for GAD (CSR = 3), \nSOC (CSR = 3), and SP (CSR = 1). At 1-month follow up, slight \nincreases in the CSR scores for SOC (CSR = 4), GAD (CSR = 4), \nand SP (CSR = 2) were noted."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.02400207519531,
+      163.02493286132812,
+      369.073974609375,
+      357.94512939453125
+    ],
+    "text": "Changes in parent report of emotional symptoms. There were \nno statistically reliable changes on P4’s RCADS-P Total Anxiety \nscale (RCI = .71), RCADS-P SOC scale (RCI = .00), or RCADS-P \nGAD scale (RCI = 1.34) from intake to postbaseline. A statisti-\ncally reliable decrease was noted on the RCADS-P Total Anxiety \nscale from postbaseline to posttreatment, and this improvement \nremained stable at follow-up. P4’s score on the RCADS-P SOC \nscale also decreased reliably from postbaseline to posttreatment, \nand these gains were maintained at follow up (RCI = 1.08). \nPosttreatment, visual inspection also showed a decrease on the \nRCADS-P GAD scale, although this change was not statistically \nreliable. For the BASC-2-PRS, P4’s results indicated that there \nwere no statistically reliable changes on either the Anxiety or \nthe Internalizing Problems Composite scales during the baseline \nperiod, at posttreatment, or at follow-up."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.02400207519531,
+      373.0481262207031,
+      369.0519714355469,
+      450.9501953125
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. P4 \nshowed a statistically reliable worsening of symptoms from in-\ntake to postbaseline on the SRS Total Scale (RCI = 5.39). Post-\ntreatment, statistically reliable improvements were noted on the \nSRS Total scale; these gains were maintained at the 1-month \nfollow-up."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.02400207519531,
+      466.0531921386719,
+      369.07403564453125,
+      582.961181640625
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. Dur-\ning the baseline period, P4 evidenced a statistically reliable de-\ncrease on the BASC-2-SRP-A Anxiety scale (RCI = −2.68) but \nno reliable change on the Internalizing Problems Composite \nscale (RCI = −.032). At posttreatment, no reliable change was \nnoted on the Anxiety scale or the Internalizing Problems Com-\nposite scale. However, at follow up, P4 demonstrated a reliable \nimprovement on the Internalizing Problems Composite scale \n(RCI = −2.25)."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "126\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02400207519531,
+      70.20687103271484,
+      149.75596618652344,
+      82.91187286376953
+    ],
+    "text": "Participant 5 (P5)"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02400207519531,
+      91.65689086914062,
+      369.0849609375,
+      182.56097412109375
+    ],
+    "text": "Changes in diagnostic status and clinicians’ ratings. At intake, \nP5 (18-year-old male, 8-week baseline) met criteria for GAD \n(CSR = 5) and SOC (CSR = 4). Postbaseline, the CSR scores \nwere reversed, with SOC judged to be more impairing (CSR = \n5) than GAD (CSR = 4). Posttreatment, the CSR scores for SOC \n(CSR = 3) and GAD (CSR = 2) both decreased to subclinical \nlevels. Follow-up data were not available for P5."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02400207519531,
+      194.67196655273438,
+      369.07403564453125,
+      402.59417724609375
+    ],
+    "text": "Changes in parent report of emotional symptoms. From \nintake to postbaseline, there were no statistically reliable \nchanges in P5’s scores on the RCADS-P Total Anxiety scale \n(RCI = 1.07), the RCADS-P GAD subscale (RCI = .00), or the \nRCADS-P SOC scale (RCI = 1.43). From postbaseline to post-\ntreatment, P5 evidenced a statistically reliable decrease on the \nRCADS-P Total Anxiety scale and the RCADS-P SOC scale but \nnot on the RCADS-P GAD subscale. On the BASC-2-PRS-A, \nP5’s scores remained stable during the baseline period, and a \nreliable improvement was noted on both the Anxiety scale and \nthe Internalizing Problems Composite scale from postbaseline \nto posttreatment. As was the case for P1 and P3, P4’s level of \nsymptoms on the BASC-2-PRS Anxiety and Internalizing Prob-\nlems Composite scales decreased from the clinically significant \n(i.e., t > 65) range to the normal range during the intervention \nand were maintained during follow-up."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02400207519531,
+      414.7051696777344,
+      369.04095458984375,
+      479.60516357421875
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. During \nthe baseline period, there was no reliable changes on P5’s scores \non the SRS Total scale. From postbaseline to posttreatment, sta-\ntistically reliable improvement was noted on the SRS Total scale, \nand improvement was maintained during follow-up."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.02401733398438,
+      491.7161560058594,
+      369.030029296875,
+      569.6181640625
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. From \nintake to postbaseline, no reliable changes were observed on \nthe BASC-2-SRP-A Anxiety scale (RCI = 1.15) or the Internal-\nizing Problems Composite scale (RCI = −1.29). Posttreatment, \ndecreases on the Anxiety and the Internalizing Problems Com-\nposite scales were not statistically reliable."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n127"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      70.20687103271484,
+      149.75596618652344,
+      82.91187286376953
+    ],
+    "text": "Participant 6 (P6)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      91.65689086914062,
+      369.0520935058594,
+      195.56298828125
+    ],
+    "text": "Changes in diagnostic status and clinicians’ ratings. P6 \n(17-year-old female, 4-week baseline) was assigned diagnoses at \nintake of GAD (CSR = 6), SOC (CSR = 5), and major depressive \ndisorder (MDD, CSR = 4). No changes in diagnostic status or \nCSR ratings were observed postbaseline. Posttreatment, slight \nimprovements were noted in severity of GAD (CSR = 5) and \nSOC (CSR =4), whereas the CSR for MDD (CSR = 4) remained \nthe same. Follow-up data were not available for P6."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      204.3079833984375,
+      369.0631408691406,
+      295.2120666503906
+    ],
+    "text": "Changes in parent report of emotional symptoms. During the \nbaseline period, there were no statistically reliable changes in \nP6’s scores on the RCADS-P Total Anxiety scale (RCI = −.71), \nthe RCADS-P GAD subscale (RCI = .45), or the RCADS-P SOC \nscale (RCI = .00). No statistically reliable changes were noted \nposttreatment on any of the RCADS-P scales, the BASC-2-PRS-\nA Anxiety scale, or the Internalizing Problems Composite scale."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      303.9570617675781,
+      369.04107666015625,
+      342.85308837890625
+    ],
+    "text": "Changes in parent report of ASD-related symptoms. P6 did \nnot evidence any statistically reliable changes in SRS-P Total \nscore during the baseline period or following the intervention."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      351.78509521484375,
+      369.0519714355469,
+      442.50213623046875
+    ],
+    "text": "Changes in adolescent report of emotional symptoms. \nFrom intake to postbaseline, P6 evidenced a decrease on the \nBASC-2-PRS-A Anxiety scale that was not statistically reliable \n(RCI = −1.72) and a statistically reliable improvement on the \nInternalizing Problems Composite scale (RCI = −5.46). Post-\ntreatment, there were no reliable changes on the Anxiety or the \nInternalizing Problems Composite scales."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      460.212158203125,
+      116.76699829101562,
+      473.1041564941406
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      66.02400207519531,
+      485.8091735839844,
+      369.0519714355469,
+      589.7151489257812
+    ],
+    "text": "Research suggests that individuals with ASD may be more \nlikely to experience clinically significant levels of anxiety com-\npared to their typically developing peers (Bellini, 2004; Hurtig \net al., 2009; Kim et al., 2000; Kuusikko et al., 2008; Russell & \nSofronoff, 2005). It is widely accepted that without appropri-\nate intervention, anxiety symptoms tend to persist over the life \nspan (Pine & Grun, 1999). Difficulties with anxiety may fur-\nther compound the social challenges experienced by individuals"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "128\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      66.02398681640625,
+      70.01986694335938,
+      369.073974609375,
+      589.990234375
+    ],
+    "text": "with ASD. Adolescence and early adulthood constitute an op-\nportune time for interventions aimed not only at reducing anxi-\nety symptoms but also at improving social skills for those with \nASD, because such changes may result in increased indepen-\ndence, less avoidance and distress, and overall improvements in \nadaptive functioning during the adult years. The purpose of the \npresent investigation was to evaluate the feasibility and efficacy \nof an adapted CBT protocol for addressing anxiety symptom-\natology and adaptive functioning in youth with comorbid ASD \nand anxiety disorder diagnoses. \nWith respect to clinicians’ ratings of improvements, no par-\nticipant was judged to have experienced a meaningful improve-\nment in CSR (i.e., a decrease of more than 1 point) from the \nintake to postbaseline period by independent evaluators. After \nthe intervention, all six participants were rated as exhibiting \nsome improvement in CSR scores for both their primary and \nsecondary diagnoses. CSR scores also remained fairly stable at \nfollow-up (i.e., no CSR scores increased by more than 1 point), \nsuggesting that clinician-rated improvements in overall symp-\ntom severity persisted following treatment. \nResults were less clear when it came to interpreting parents’ \nreports of their adolescent/young adult’s anxiety symptoms. As \ndescribed above, some participants were rated by their parent \nas evidencing spontaneous improvements during the baseline \nperiod, which made it difficult to draw conclusions about the \neffectiveness of the intervention. At posttreatment, five of the \nsix participants were rated by their parents as evidencing some \nimprovements on the BASC-2-PRS-A Anxiety and Internalizing \nProblems Composite scales, and these improvements resulted in \nstatistically reliable RCI values for three of the six participants. \nIt was notable that the one participant who did not evidence \nany change in symptoms was rated by his parent at intake and \npostbaseline assessments as having minimal levels of anxiety; \nhence, there was little room for improvement. Several partici-\npants were rated by parents as having some improvement on the \nRCADS-P Generalized Anxiety scale, although these changes \nwere not statistically reliable as assessed by the RCI. Posttreat-\nment, four of the six participants were judged to have expe-\nrienced a decrease on the RCADS-P Social Anxiety scale, and \nthis change represented a statistically reliable decrease for three"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n129"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      66.02400207519531,
+      70.01986694335938,
+      369.0740661621094,
+      589.990234375
+    ],
+    "text": "of the participants. Taken together, these findings might suggest \nthat parents viewed treatment as having a more beneficial effect \non social anxiety symptoms compared to generalized worry. \nWith respect to parents’ reports of ASD symptoms, results on \nthe SRS Total scale were somewhat difficult to interpret as two \nof the six participants evidenced spontaneous improvements on \nthe measure during the baseline period. At posttreatment, two \nparticipants evidenced no change on the SRS Total Score, one \nevidenced a statistically reliable worsening of symptoms, and \ntwo evidenced statistically reliable improvements on the SRS \nTotal Score. \nSpontaneous changes during the baseline period, both in the \npositive and negative directions, on the adolescents’ BASC-\n2-SRP-A measure made it difficult to draw firm conclusions \nabout the effectiveness of the intervention. Three adolescents \n(P1, P3, P5) reported an improvement in overall internalizing \nsymptoms posttreatment, although this was statistically signifi-\ncant only for P3. At posttreatment, P2 reported a significant \nworsening of symptoms; however, this appeared to reflect a \nspontaneous remission of symptoms during postbaseline, and \nhis final score posttreatment was actually lower than his score \nat intake. P4 evidenced no significant change posttreatment on \neither of the BASC-2-SRP-A Anxiety or Internalizing Problems \nComposite scales, although there was a slight worsening of \nAnxiety symptoms. Again, however, this appeared to be con-\nfounded by a large decrease in self-reported Anxiety symptoms \npostbaseline, and his final score posttreatment was lower than \nhis intake score. The last participant, P6, evidenced significant \nreductions in both Anxiety and Internalizing Composite Prob-\nlems scale scores postbaseline, and no significant changes at \nposttreatment.\nTaken together these initial findings suggest that the AFIYA \nprotocol was effective in decreasing clinician-rated levels of \nsymptom severity and increasing clinician-rated levels of overall \nfunctioning. The intervention appeared somewhat effective in \nreducing parent-reported symptoms of anxiety, with reductions \nin social anxiety being more potent than reductions in general-\nized anxiety or worry. Unfortunately, the results did not appear \nto provide evidence that the protocol was effective across par-\nticipants at reducing ASD symptoms, although these symptoms"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "130\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      66.02398681640625,
+      70.01986694335938,
+      369.0741882324219,
+      576.9881591796875
+    ],
+    "text": "did improve for a subset of participants. Overall, results ­suggest \nthat high-functioning adolescents and young adults with ASD \nmay require additional practice with elements of certain modules \nto adequately address symptoms of worry and ASD­—­including \nthe “C” module, ENTRY/EXIT module, and PLAY module—in \norder to generalize skills.\nIn regard to limitations of the current research, although the \nnature of the multiple-baseline design allows for substantive \ncomparisons within and between subjects, our small sample \nsize of six participants is certainly a limitation. Replication of \nthis study with a larger sample size and randomized controlled \ngroup design would allow for more advanced statistical analy-\nses of change over time. In addition, replication studies should \nrecruit a more diverse sample, because the presence of only one \nfemale in the sample and lack of racial/ethnic diversity may limit \ngeneralizability of results of the current study. Current evidence \nfrom this trial with regard to clinician reports is compelling and \nsuggests the possible efficacy of the approach. Therefore, such \nresearch with an RCT appears warranted. This is particularly \ntrue given the limited body of research on interventions for \nyoung adults with ASD and emotional disorder comorbidities \nto guide clinicians aiding these individuals.\nIt was also notable that the only participant (P6) who met cri-\nteria for a depressive disorder evidenced minimal improvement, \nrelative to the other participants, during the intervention. Re-\nsearch indicates that anxiety and mood disorders often co-occur \nduring adolescence (Garber & Weersing, 2010), and depression \nmay be of increasing frequency among those with ASD as they \nage into adulthood (Ghaziuddin, Ghaziuddin, & Greden, 2002). \nTo address this, the current protocol was adjusted to increase \nAFIYA’s attention to depressive symptoms by adding modules \non motivational enhancement and behavioral activation from \nan existing evidence-based treatment for emotional disorders \nin adolescence (Unified Protocols–Adolescence [UP-A]; Ehren-\nreich-May et al., 2018). However, additional attendance to the \nunique challenges of complex emotional disorder comorbidities \nmay require additional modifications to the AFIYA protocol to \nproduce change among older youth and young adults with be-\nhavioral withdrawal or mood involvement."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n131"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      66.02499389648438,
+      70.01986694335938,
+      369.07501220703125,
+      212.93194580078125
+    ],
+    "text": "Despite these limitations, AFIYA appears to be a promis-\ning intervention for the treatment of anxiety in adolescents \nand young adults with ASD, a population for which there is \n­currently a lack of efficacious treatments. Intervention during \nthis time ­period is crucial, because the presence of an emotional \ndisorder may exacerbate the unique challenges faced by indi-\nviduals with ASD who are transitioning into new educational, \noccupational, and social settings. Further refinement of the pro-\ntocol and replication of results with a larger sample size will \nhelp researchers and clinicians to better address the needs of this \ncurrently underserved population."
+  },
+  {
+    "page": 27,
+    "bbox": [
+      66.02500915527344,
+      230.64193725585938,
+      116.7240219116211,
+      243.533935546875
+    ],
+    "text": "References"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      66.02400207519531,
+      255.6359100341797,
+      368.1810302734375,
+      585.7991333007812
+    ],
+    "text": "American Psychiatric Association. (2000). Diagnostic and statistical ma-\nnual of mental disorders (4th ed., text rev.). Washington, DC: Author.\nBarlow, D. H., & Nock, M. K. (2009). Why can’t we be more idiographic \nin our research? Perspectives on Psychological Science, 4, 19–21.\nBarlow, D. H., Nock, M., & Hersen, M. (2009). Single case experimen-\ntal designs: Strategies for studying behavior for change. Boston, MA: \nPearson/Allyn and Bacon. \nBarnard, J., Harvey, V., Prior, A., & Potter, D. (2001). Ignored or ineli-\ngible? The reality for adults with autistic spectrum disorders. London, \nUK: National Autistic Society.\nBarrett, P. M., Dadds, M. R., & Rapee, R. M. (1996). Family treatment \nof childhood anxiety: A controlled trial. Journal of Consulting and \nClinical Psychology, 64, 333–342. \nBarrett, S., & Huebeck, B. G. (2000). Relationships between school \nhassles and uplifts and anxiety and conduct problems in grades 3 and \n4. Journal of Applied Developmental Psychology, 21, 537–554.\nBaxter, A. (1997). The power of friendship. Journal on Developmental \nDisabilities, 5, 112–117. \nBellini, S. (2004). Social skill deficits and anxiety in high-functioning \nadolescents with autism spectrum disorders. Focus on Autism and \nOther Developmental Disabilities, 19, 78–86.\nBerument, S. K., Rutter, M., Lord, C., Pickles, A., & Bailey, A. (1999). \nAutism Screening Questionnaire: Diagnostic validity. British Journal \nof Psychiatry, 175, 444–451.\nBillstedt, E., Gillberg, C., & Gillberg, C. (2005). Autism after adoles-\ncence. Population-based 12- to 22-year follow-up study of 120 indi-\nviduals with autism diagnosed in childhood. Journal of Autism and \nDevelopmental Disorders, 35, 351–360. \nBlack, D. O., Wallace, G. L., Sokoloff, J. L, & Kentworthy, L. (2009). \nBrief report: IQ split predicts social symptoms and communication"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 28,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "132\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      66.02099609375,
+      70.28987121582031,
+      368.5769958496094,
+      543.4659423828125
+    ],
+    "text": "abilities in high-functioning children with autism spectrum disorder. \nJournal of Autism and Developmental Disorders, 39, 1615–1619. \nCenters for Disease Control and Prevention. (2014). Prevalence of autism \nspectrum disorders—Prevalence of autism spectrum disorder among \nchildren aged 8 years—Autism and developmental disabilities moni-\ntoring network, 11 sites, United States, 2010. Morbidity and Mortali-\nty Weekly Report: Surveillance Summaries, 63(SS02). \nChalfant, A. M., Rapee, R., & Carroll, L. (2007). Treating anxiety disor-\nders in children with high functioning autism spectrum disorders. A \ncontrolled trial. Journal of Autism and Developmental Disorders, 37, \n1842–1857. \nChorpita, B. F., Taylor, A. A., Francis, S. E., Moffitt, C., & Austin, A. A. \n(2004). Efficacy of modular cognitive behavior therapy for childhood \nanxiety disorders. Behavior Therapy, 35(2), 263–287.\nConstantino, J. N., Davis, S. A., Todd, R. D., Schindler, M. K., Gross, \nM. M., Brophy, S. L., . . . Reich, W. (2003). Validation of a brief quan-\ntitative measure of autistic traits: Comparison of the Social Respon-\nsiveness Scale with the Autistic Diagnostic Interview-Revised. Journal \nof Autism and Developmental Disorders, 33, 427–433. \nConstantino, J. N., & Gruber, C. P. (2005). Social Responsiveness Scale \n(SRS). Los Angeles, CA: Western Psychological Services.\nConstantino, J. N., Przybeck, T., Friesen, D., & Todd, R. D. (2000). \nReciprocal social behavior in children with and without pervasive \ndevelopment disorders. Journal Developmental and Behavioral Pedia-\ntrics, 21, 2–11. \nConstantino, J. N., & Todd, R. D. (2003). Autistic traits in the general \npopulation: A twin study. Archives of General Psychiatry, 60, 524–\n530. \nEbesutani, C., Bernstein, A., Nakamura, B. J., Chorpita, B. F., & Weisz, \nJ. R. (2010). A psychometric analysis of the Revised Child Anxiety \nand Depression Scale-Parent Version in a clinical sample. Journal of \nAbnormal Child Psychology, 38, 249–260. \nEhrenreich-May, J., Kennedy, S. M., Mash, J. A., Bilek, E. L., Buzzella, \nB., Bennett, S., & Barlow, D. H. (2018). Unified protocols for the \ntreatment of emotional disorders in adolescents (UP-A) and children \n(UP-C): Therapist guide. New York, NY: Oxford University Press.\nFalkmer, T., Anderson, K., Falkmer, M., & Horlin, C. (2013). Diagnos-\ntic procedures in autism spectrum disorders: A systematic literature \nreview. European Child and Adolescent Psychiatry, 22, 329–340.\nFarrugia, S., & Hudson, J. (2006). Anxiety in adolescents with Asperger \nsyndrome: Negative thoughts, behavioral problems and life interfer-\nence. Focus on Autism and Other Developmental Disabilities, 21, \n25–35."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n133"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      66.02400207519531,
+      70.28987121582031,
+      368.5515441894531,
+      565.4678955078125
+    ],
+    "text": "Fein, D., Stevens, D., Dunn, M., Waterhouse, L., Allen, D., Rapin, I., & \nFeinstein, C. (1999). Subtypes of pervasive developmental disorder: \nClinical characteristics. Child Neuropsychology, 5, 1–23.\nFombonne, E. (2005). The changing epidemiology of autism. Journal of \nApplied Research in Intellectual Disabilities, 18, 281–294.\nGarber, J., & Weersing, V. R., (2010). Comorbidity of anxiety and de-\npression in youth: Implications for treatment and prevention. Clinical \nPsychology: Science and Practice, 17, 293–306. \nGhaziuddin, M., Ghaziuddin, N., & Greden, J. (2002). Depression in \npersons with autism: Implications for research and clinical care. Jour-\nnal of Autism and Developmental Disorders, 32, 299–306.\nGhaziuddin, M., Weidmer-Mikhail, E., & Ghaziuddin, N. (1998). The \nvalidity of Asperger syndrome: A preliminary report. Journal of Intel-\nlectual Disability Research, 42, 279–283.\nFerguson, R. J., Robinson, A. B., & Splaine, M. (2002). Use of the Reli-\nable Change Index to evaluate clinical significance in SF-36 outcomes. \nQuality of Life Research, 11, 509–516. \nHayes, S. C., Barlow, D. H., & Nelson-Gray, R. O. (1999). The scientist \npractitioner: Research and accountability in the age of managed care. \nBoston, MA: Allyn and Bacon.\nHiga-McMillan, C. K., Francis, S. E., Rith-Najarian, L., & Chorpita, B. F. \n(2016). Evidence base update: 50 years of research on treatment for \nchild and adolescent anxiety. Journal of Clinical Child & Adolescent \nPsychology, 45, 91–113.\nHurtig, T., Kuusikko, S. Mattila, M., Haapsamo, H., Ebeling, H., Jus-\nsila, K., . . . Moilanen, I. (2009). Multi-informant reports of psychi-\natric symptoms among high-functioning adolescents with Asperger \nsyndrome or autism. Autism, 13, 583–598. \nIshikawa, S., Okajima, I., Matsuoka, H., & Sakano, Y. (2007). Cognitive \nbehavioural therapy for anxiety disorders in children and adolescents: \nA meta-analysis. Child and Adolescent Mental Health, 12, 164–172.\nKazdin, A. E. (2003). Research design in clinical psychology (3rd ed.). \nNeedham Heights, MA: Allyn & Bacon. \nKendall, P. C. (1994). Treating anxiety disorders in children: Results of a \nrandomized clinical trial. Journal of Consulting and Clinical Psycho-\nlogy, 62, 100–110.\nKim, J. A., Szatmari, P., Bryson, S. E., Streiner, D. L., & Wilson, F. J. \n(2000). The prevalence of anxiety and mood problems among chil-\ndren with autism and Asperger syndrome. Autism, 4, 117–132.\nKuusikko, S., Pollock-Wurman, R., Jussila, K., Carter, A. S., Mattila, M., \nEbeling, H., . . . Moilanen, I. (2008). Social anxiety in high-function-\ning children and adolescents with autism and Asperger syndrome. \nJournal of Autism and Developmental Disorders, 38, 1697–1709. \nLangley, A. K., Bergman, R. L., McCracken, J., & Piacentini, J. C. (2004). \nImpairment in childhood anxiety disorders: Preliminary examination"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "134\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      66.02099609375,
+      78.00422668457031,
+      366.6200256347656,
+      485.1742248535156
+    ],
+    "text": "of the Child Anxiety Impact Scale–Parent Version. Journal of Child \nand Adolescent Psychopharmacology, 14, 105–114.\nLasgaard, M., Nielsen, A., Eriksen, M. E., & Goossens, L. (2010). \nLoneliness and social support in adolescent boys with autism spec-\ntrum disorders. Journal of Autism and Developmental Disorders, 40, \n218–226. \nLaugeson, E. A., & Frankel, F. (2010). Social skills for teenagers with \ndevelopmental and autism spectrum disorders: The PEERS treatment \nmanual. New York, NY: Taylor & Francis Group.\nLeyfer, O. T., Folstein, S. E., Bacalman, S., Davis, N. O., Dinh, E., Mor-\ngan, J., . . . Lainhart, J. E. (2006). Comorbid psychiatric disorders in \nchildren with autism: Interview development and rates of disorders. \nJournal of Autism and Developmental Disorders, 36, 849–861. \nLord, C., Rutter. M., DiLavore, P. C., & Risi, S. (2002) Autism Diagno-\nstic Observation Schedule. Los Angeles, CA: Western Psychological \nServices.\nMarch, J. S., Mulle, K., & Herbel, B. (1994). Behavioral psychotherapy \nfor children and adolescents with obsessive-compulsive disorder: An \nopen trial of a new protocol-driven treatment package. Journal of the \nAmerican Academy of Child and Adolescent Psychiatry, 33, 333–341. \nMerikangas, K. R., & Knight, E. (2009). The epidemiology of depression \nin adolescents. In S. Nolen-Hoeksema & L. M. Hilt (Eds.), Handbook \nof depression in adolescents (pp. 53–74). New York, NY: Taylor & \nFrancis Group.\nMorde, M., Groholt, B., Knudsen, A. K., Sponheim, E., Mykletun, A. & \nMyhre, A. M. (2012). Is long-term prognosis for pervasive develop-\nmental disorder not otherwise specified different from prognosis for \nautistic disorders? Findings from a 30-year follow-up study. Journal \nof Autism and Developmental Disorders, 42, 920–928.\nOuellette-Kuntz, H., Coo, H., Lloyd, J., Kasmara, L., Holden, J., & \nLewis, M. (2007). Trends in special education code assignment for \nautism: Implications for prevalence estimates. Journal of Autism and \nDevelopmental Disorders, 27, 1941–1948. \nPine, D. S., & Grun, J. (1999). Childhood anxiety: Integrating develop-\nmental psychopathology and affective neuroscience. Journal of Child \nand Adolescent Psychopharmacology, 9, 1–12.\nReynolds, C. R., & Kamphaus, R. W. (2004). Behavior Assessment Sys­"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      66.02099609375,
+      485.041259765625,
+      366.344482421875,
+      551.1802978515625
+    ],
+    "text": "tem for Children, Second Edition (BASC-2). Circle Pines, MN: AGS.\nRussell, E., & Sofronoff, K. (2005) Anxiety and social worries in chil-\ndren with Asperger syndrome. Australian and New Zealand Journal \nof Psychiatry, 39, 633–638.\nRutter, M. (2005). Incidence of autism spectrum disorders: Changes over \ntime and their meaning. Acta Paediatrica, 94, 2–15."
+  },
+  {
+    "page": 31,
+    "bbox": [
+      232.58700561523438,
+      50.9141845703125,
+      365.7869567871094,
+      62.634185791015625
+    ],
+    "text": "Treatment of anxiety in autism"
+  },
+  {
+    "page": 31,
+    "bbox": [
+      66.02400207519531,
+      603.223876953125,
+      362.02398681640625,
+      614.9439086914062
+    ],
+    "text": "Vol. 84, 2020\t\n135"
+  },
+  {
+    "page": 31,
+    "bbox": [
+      66.02400207519531,
+      78.00422668457031,
+      368.0195007324219,
+      540.1793212890625
+    ],
+    "text": "Silverman, W. K., & Albano, A. M. (1996). The Anxiety Disorders Inter-\nview Schedule for DSM-IV Child and Parent Versions. San Antonio, \nTX: Graywind.\nSilverman, W. K., Saavedra, L. M., & Pina, A. A. (2001). Test-retest reli-\nability of anxiety symptoms and diagnoses with the Anxiety Disorders \nInterview Schedule for DSM-IV: Child and Parent versions. Journal \nof the American Academy of Child and Adolescent Psychiatry, 40(8), \n937–944.\nSofronoff, K., Attwood, T., & Hinton, S. (2005). A randomized con-\ntrolled trial of CBT intervention for anxiety in children with Asperger \nsyndrome. Journal of Child Psychology and Psychiatry, 46, 1152–\n1160.\nSzatmari, P., Bryson, S., Duku, E., Vaccarella, L., Zwaigenbaum, L., Ben-\nnett, T., & Boyle, M. H. (2009). Similar developmental trajectories in \nautism and Asperger syndrome: From early childhood to adolescence. \nJournal of Child Psychology and Psychiatry, 50, 1459–1467.\nSze, K. M., & Wood, J. J. (2007). Cognitive behavioral treatment of \ncomorbid anxiety disorders and social difficulties in children with \nhigh-functioning autism: A case report. Journal of Contemporary \nPsychotherapy, 37, 133–143. \nWhite, S. W., Albano, A. M., Johnson, C. R., Kasari, C., Ollendick, T., \nKlin, A., . . . Scahill, L. (2010). Development of a cognitive-behavioral \nintervention program to treat anxiety and social deficits in teens \nwith high-functioning autism. Clinical Child and Family Psychology \nReview, 13, 77–90.\nWhite, S. W., Ollendick, T., Albano, A. M., Oswald, D., Johnson, C., \nSoutham-Gerow, M. A. . . . Scahill, L. (2013). Randomized controlled \ntrial: Multimodal anxiety and social skill intervention for adolescents \nwith autism spectrum disorder. Journal of Autism and Developmental \nDisorders, 43, 382–394. \nWilliamson, S., Craig, J., & Slinger, R. (2008). Exploring the relationship \nbetween measures of self-esteem and psychological adjustment among \nadolescents with Asperger syndrome. Autism, 12, 391–402. \nWise, J. M., Cepeda, S. L., Ordaz, L., McBride, N. M., Cavitt, M. A., \nHowie, F. R., . . . Storch, E. A. (2019). Open trial of modular cogni-\ntive-behavioral therapy in the treatment of anxiety among late ado-\nlescents with autism spectrum disorder. Child Psychiatry and Human \nDevelopment, 50, 27–34.\nWood, J. J., Drahota, A., & Sze, K. M. (2007). Cognitive behavioral \ntherapy for anxiety and social problems in children with autism: In-\ntervention manual. Unpublished manuscript, University of California, \nLos Angeles, CA."
+  },
+  {
+    "page": 32,
+    "bbox": [
+      66.11540222167969,
+      50.9141845703125,
+      160.00540161132812,
+      62.634185791015625
+    ],
+    "text": "Ehrenreich-May et al."
+  },
+  {
+    "page": 32,
+    "bbox": [
+      66.02540588378906,
+      603.2241821289062,
+      362.02398681640625,
+      614.9442138671875
+    ],
+    "text": "136\t\nBulletin of the Menninger Clinic"
+  },
+  {
+    "page": 32,
+    "bbox": [
+      66.02400207519531,
+      78.00422668457031,
+      366.9554443359375,
+      166.1450653076172
+    ],
+    "text": "Wood, J. J., Ehrenreich-May, J., Alessandri, M., Fujii, C., Renno, P., Laug-\neson, E., . . . Murphy, T. K. (2015). Cognitive behavioral therapy for \nearly adolescents with autism spectrum disorders and clinical anxiety: \nA randomized, controlled trial. Behavior Therapy, 46(1), 7–19.\nWoodbury-Smith, M. R., Robinson, J., Wheelwright, S., & Baron-Cohen, \nS. (2005). Screening adults for Asperger syndrome using the AQ: A \npreliminary study of its diagnostic validity in clinical practice. Journal \nof Autism and Developmental Disorders, 35, 331–335."
+  }
+]

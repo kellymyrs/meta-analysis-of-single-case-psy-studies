@@ -1,0 +1,1402 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      171.64837646484375,
+      44.78924560546875,
+      418.2430419921875,
+      62.80272674560547
+    ],
+    "text": "Behavioural and Cognitive Psychotherapy, 2016, 44, 1–17\nFirst published online 7 December 2015\ndoi:10.1017/S1352465815000715"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      86.38200378417969,
+      94.63520050048828,
+      379.4273376464844,
+      124.53071594238281
+    ],
+    "text": "Cognitive Therapy for Social Anxiety Disorder in\nAdolescents: A Development Case Series"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      204.53399658203125,
+      149.63050842285156,
+      261.2451477050781,
+      159.59310913085938
+    ],
+    "text": "Eleanor Leigh"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      60.08399963378906,
+      174.20387268066406,
+      405.7215576171875,
+      194.13258361816406
+    ],
+    "text": "South London and Maudsley NHS Foundation Trust, and Institute of Psychiatry, Psychology and\nNeuroscience, Kings College London, UK"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      201.59100341796875,
+      219.36253356933594,
+      264.2019348144531,
+      229.32513427734375
+    ],
+    "text": "David M. Clark"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      59.09400177001953,
+      243.9449005126953,
+      406.68988037109375,
+      252.9113006591797
+    ],
+    "text": "University of Oxford, and NIHR Oxford Cognitive Health Clinical Research Facility, Oxford, UK"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.52017211914062,
+      283.79693603515625,
+      400.3048400878906,
+      446.2818603515625
+    ],
+    "text": "Background: Social anxiety disorder is common and typically starts in childhood or\nadolescence. Cognitive Therapy for Social Anxiety Disorder (CT-SAD) in adults is a well-\nestablished treatment that shows strong evidence of differential effectiveness when compared\nto other active treatments. In contrast, CBT approaches to social anxiety in young people have\nyet to demonstrate differential effectiveness and there is some evidence that young people\nwith social anxiety disorder respond less well than those with other anxiety disorders. Aims:\nTo adapt CT-SAD for use with adolescents and conduct a pilot case series. Method: Five\nadolescents, aged 11–17 years, with a primary DSM-5 diagnosis of social anxiety disorder\nreceived a course of CT-SAD adapted for adolescents. Standardized clinical interview and\nquestionnaire assessments were conducted at pre and posttreatment, and 2 to 3-month follow-\nup. Results: All ﬁve participants reported severe social anxiety at baseline and achieved\nremission by the end of treatment. Signiﬁcant improvements were also observed in general\nanxiety, depression, concentration in the classroom, and putative process measures (social\nanxiety related thoughts, beliefs and safety behaviours). Conclusions: An adapted form of\nCT-SAD shows promise as a treatment for adolescents."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.52017211914062,
+      455.161865234375,
+      321.41387939453125,
+      464.2191162109375
+    ],
+    "text": "Keywords: Cognitive therapy, social anxiety, adolescent, young people."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      205.86599731445312,
+      476.3016357421875,
+      259.91802978515625,
+      486.26422119140625
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.5921630859375,
+      494.3302001953125,
+      418.22186279296875,
+      587.984619140625
+    ],
+    "text": "Social anxiety is one of the most common and disabling anxiety disorders (Kessler et al.,\n2005) with a particularly low natural recovery rate (Bruce et al., 2005). The condition almost\nalways starts in childhood or adolescence (Kessler et al., 2005) and can have profound effects\non development that are hard to overcome later in life. A crowded classroom can make socially\nanxious youths self-conscious, making it difﬁcult for them to follow what the teacher says,\nand consequently undermine exam performance. The development of social and romantic\nrelationships is also impeded. Clearly, there is a major need for effective treatments that can\nbe delivered in adolescence."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      605.0660400390625,
+      418.21124267578125,
+      622.9987182617188
+    ],
+    "text": "Reprint requests to Eleanor Leigh, Eleanor Leigh, Michael Rutter Centre for Children and Young People, The\nMaudsley Hospital, De Crespigny Park, London, SE5 8AZ, UK. E-mail: eleanor.leigh@kcl.ac.uk"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199523925781,
+      631.9666748046875,
+      418.24078369140625,
+      669.825439453125
+    ],
+    "text": "© British Association for Behavioural and Cognitive Psychotherapies 2015. This is an Open Access article, distrib-\nuted under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0/),\nwhich permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is\nproperly cited."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "2\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56600189208984,
+      74.60627746582031,
+      445.21771240234375,
+      395.4049377441406
+    ],
+    "text": "In adults, individual cognitive therapy for social anxiety disorder (CT-SAD) has a strong\nevidence base and has been shown to be superior to several other active treatments, including\nexposure therapy, group CBT, interpersonal psychotherapy, psychodynamic psychotherapy,\nselective serotonin re-uptake inhibitors, and medication based treatment as usual (Mayo-\nWilson et al., 2014). The evidence base for CBT with young people is less strong (NICE,\n2013). Generic CBT interventions for anxiety in young people appear to be less effective\nwith social anxiety than other anxiety disorders (Ginsburg et al., 2011; Hudson et al., 2015).\nCBT programmes speciﬁcally developed for social anxiety in youth show a range of positive\nresponses and may have a greater effect on social anxiety than generic CBT for young people.\nHowever, this has not yet been demonstrated. In addition, a recent meta-analysis (NICE, 2013)\nfailed to establish that either generic or social anxiety speciﬁc CBT for youth is superior\nto other interventions, including psychological or pill placebos. In this uncertain situation,\nit is notable that the treatments that are most effective with adults have not, as yet, been\ntrialled with adolescents. For this reason, we decided to conduct a development case series\nin which we would experiment with delivering individual CT-SAD based on the Clark and\nWells (1995) model to a group of adolescents with severe social anxiety disorder. Our aim\nwas twofold: 1) to provide a preliminary estimate of the potential utility of CT-SAD with\nadolescents; 2) to learn lessons about how its delivery might need to be modiﬁed for this\npopulation. We were encouraged to take this approach by studies that have shown that the\npsychological processes targeted by CT-SAD for adults are evident in adolescents. These\ninclude: similar negative cognitions (Cartwright-Hatton, Tschernitz and Gomersall, 2005),\nself-focused attention (Blote, Miers, Heyne, Clark and Westenberg, 2014), negative self-\nimages (Schreiber and Steil, 2013), safety behaviours (Hodson, McManus, Clark and Doll,\n2008), and postevent processing (Hodson et al., 2008). Furthermore, a version of CT-SAD\nthat included some, but not all of the adult procedures, outperformed group CBT for young\npeople and an attention control in a recent RCT with adolescents (Ingul, Aune and Nordahl,\n2014)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      243.2737274169922,
+      421.206787109375,
+      276.4691162109375,
+      431.16937255859375
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56906127929688,
+      439.1434326171875,
+      123.02613830566406,
+      449.10601806640625
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56906127929688,
+      457.17205810546875,
+      445.2087097167969,
+      622.5571899414062
+    ],
+    "text": "Participants were ﬁve young people aged 11 to 17 years who met DSM-5 (American\nPsychiatric Association, 2013) criteria for social anxiety disorder. All were referred to Child\nand Adolescent Mental Health Services for treatment. Table 1 shows patient characteristics.\nThe Anxiety Disorders Interview Schedule for Children and Parents (ADIS-C/P; Silverman\nand Albano, 1996) was used as standard to diagnose social anxiety disorder and comorbid\nconditions. As is standard, a Clinician Severity Rating (CSR; 0 [absent or none] to 8 [very\nseverely disturbing/disabling]) was assigned. A CSR of four or more indicates positive\ndiagnosis. CSR scores at assessment are shown in Table 2. EL, who had extensive prior\ntraining with the ADIS C/P, conducted the interviews. Four of the ﬁve had previously received\na course of the broad-based CBT that is commonly offered in children’s services; in two\ncases (Patient 1 and 4) this speciﬁcally targeted social anxiety. Patient 4 had been on a\nstable dose of ﬂuoxetine (20mg od) for 3 months prior to treatment. Patient 2 was not\nattending school and Patient 3 was an inconsistent school attender. Box 1 provides clinical\nvignettes."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.1994934082031,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.9059066772461,
+      299.0042419433594,
+      81.963134765625,
+      396.4259948730469
+    ],
+    "text": "Table 1. Participant details"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      101.13973999023438,
+      139.9999237060547,
+      110.10614013671875,
+      619.1939086914062
+    ],
+    "text": "P\nGender\nAge (y)\nCognitions\nSafety behaviours\nEarly events\nImages"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38573455810547,
+      432.9017639160156,
+      158.23013305664062,
+      619.1939086914062
+    ],
+    "text": "1\nF\n15\n“People will laugh at me”\n“I am boring”\n“People will think I am\nstupid”"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38664245605469,
+      298.68646240234375,
+      202.0713653564453,
+      405.65997314453125
+    ],
+    "text": "Talk less; avoid eye contact;\ntry to give short answers;\nrush what I’m saying; talk\nquietly; monitor what I’m\nsaying; plan answers; avoid\nasking questions; stay on\nthe edge of groups; avoid\nparticipating"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38845825195312,
+      180.18191528320312,
+      147.27052307128906,
+      285.78009033203125
+    ],
+    "text": "Standing in front of the class,\nunable to complete an oral\npresentation aged 11y"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38935089111328,
+      78.3646011352539,
+      147.27142333984375,
+      165.8912353515625
+    ],
+    "text": "Separate from everyone,\nin the corner of the\nroom, like a “stone”"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      203.96839904785156,
+      433.6611633300781,
+      245.90362548828125,
+      619.1956787109375
+    ],
+    "text": "2\nF\n11\n“I am vulnerable”\n“I am weird”\n“I am inferior”\n“People will reject me”"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.0601348876953,
+      298.5410461425781,
+      256.86688232421875,
+      405.66082763671875
+    ],
+    "text": "Always agree with others;\nallow others to speak for\nme; avoid participating in\nclass; follow dominant peer\ngroup"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.06105041503906,
+      187.39170837402344,
+      245.90545654296875,
+      285.78094482421875
+    ],
+    "text": "Losing control of bowels\nwhilst seated in class\nunclear how to manage it\naged 7y"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.0619659423828,
+      83.9462890625,
+      234.95301818847656,
+      165.89208984375
+    ],
+    "text": "Looking lost, someone\nwho “doesn’t have a\nclue”"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.8637390136719,
+      420.29034423828125,
+      322.6238098144531,
+      619.196533203125
+    ],
+    "text": "3\nF\n16\n“I am not interesting”\n“I am boring”\n“I will mash up my words”\n“I will sweat”\n“I will make people feel\nawkward”"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.86553955078125,
+      301.64697265625,
+      377.4192810058594,
+      405.66259765625
+    ],
+    "text": "Rehearse sentences in my\nmind; check how I’m\ncoming across; talk less;\nplan topics in advance; try\nnot to attract attention;\navoid asking questions; try\nto picture how I appear to\nothers; censor what I’m\ngoing to say; allow\ninterruptions; check not\nsweating; keep arms down"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.86822509765625,
+      97.65693664550781,
+      278.7879943847656,
+      285.78271484375
+    ],
+    "text": "At a birthday party getting the\ndress code wrong aged 6y\nSomeone that “just\ndoesn’t ﬁt in”"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "4\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      143.726806640625,
+      311.3880310058594,
+      152.78402709960938,
+      384.0419006347656
+    ],
+    "text": "Table 1. Continued."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      171.96072387695312,
+      140.0088348388672,
+      180.9271240234375,
+      619.1939086914062
+    ],
+    "text": "P\nGender\nAge (y)\nCognitions\nSafety behaviours\nEarly events\nImages"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.20663452148438,
+      421.28656005859375,
+      229.05104064941406,
+      619.1939086914062
+    ],
+    "text": "4\nM\n17\n“I am weird”\n“I am vulnerable”\n“People will stare at me”\n“I will mess up my words”"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.20753479003906,
+      298.27764892578125,
+      272.8833312988281,
+      405.6689147949219
+    ],
+    "text": "Avoid all eye contact; hide\nface in coat; talk less; avoid\nasking questions; sit away\nfrom other people; keep a\ntight control of my\nbehaviour; plan what I am\ngoing to say; monitor what\nI’m saying"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.20936584472656,
+      179.54615783691406,
+      250.96945190429688,
+      285.78009033203125
+    ],
+    "text": "Chronic and severe bullying\nin two schools, having\npossessions stolen and\nbeing slapped in the face in\nfront of peers, unable to\nretaliate aged 11y"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.21116638183594,
+      81.71656799316406,
+      207.13092041015625,
+      165.90020751953125
+    ],
+    "text": "A vulnerable, cowering\nhelpless ﬁgure"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.88104248046875,
+      423.9639587402344,
+      360.56573486328125,
+      619.1956787109375
+    ],
+    "text": "5\nF\n15\n“I am going to embarrass\nmyself”\n“I will be rejected”\n“I won’t have anything to\nsay”\n“I won’t be able to speak”\n“They’ll think I’m\nimmature and silly”"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.8828125,
+      297.3197937011719,
+      349.6051940917969,
+      405.6706848144531
+    ],
+    "text": "Talk less; ask lots of\nquestions; plan topics in\nadvance; monitor what I am\nsaying; let others guide the\nconversation; agree with\nother people; pretend to\nshare interests"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.8846130371094,
+      179.4538116455078,
+      327.6913146972656,
+      285.7818603515625
+    ],
+    "text": "Cried in front of class when\nteacher insulted favourite\nband, and the class laughed\naged 11y. I thought they\nwere laughing at me."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.885498046875,
+      98.31253814697266,
+      294.814208984375,
+      165.9019775390625
+    ],
+    "text": "An “uncool, naïve,\ntry-hard”"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.1994934082031,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n5"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.0629997253418,
+      80.57157897949219,
+      125.076416015625,
+      90.5341796875
+    ],
+    "text": "Box 1. Vignettes"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06294631958008,
+      98.50822448730469,
+      411.7412414550781,
+      240.08135986328125
+    ],
+    "text": "Patient 1 is a 15 year-old-girl with a 4-year history of social anxiety disorder and\ndepression1. She has previously received a course of broad-based CBT for social anxiety.\nAt assessment she struggles to speak or make eye contact, does not smile, often ﬁdgets\nand wrings her hands. In class she struggles to concentrate, explaining that “my mind\ngets so caught up in my thoughts I can’t focus on what the teacher is saying”. She is\nworried about her GCSE examinations. She does not participate in class or ask for help\nwhen stuck. She pretends to be writing when the teacher passes to avoid being asked\na question. She has three friends in school. At home, she does not socialize, fearing\nshe will “ruin the atmosphere because I am so awkward”. She declines invitations from\nfriends. She replies to text messages with brief responses but does not use the telephone.\nShe does not allow herself to be photographed. She wears dark colours so as not to be\nnoticed."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06294631958008,
+      247.05616760253906,
+      411.7303161621094,
+      352.6522521972656
+    ],
+    "text": "For all adolescents, treatment followed the protocol we have outlined. Each adolescent’s\nkey thoughts and safety behaviours are shown in Table 1. Particularly important\ninterventions for Patient 1 included the use of video feedback and of still photographs\nof her with her friends to update the distorted image of herself as a “stone”, separate\nfrom everyone. These provided realistic information about how she actually appeared\nto others. As well as recovering from social anxiety, Patient 1 achieved all A∗to B\nGCSE examinations, she developed a large group of friends, attended birthday parties\nand arranged and hosted her own 16th birthday celebration. She wore a bright dress to her\nschool prom and shared photos of this with her friends on Facebook."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06304931640625,
+      359.5261535644531,
+      411.7563171386719,
+      453.2817687988281
+    ],
+    "text": "Patient 2 is a 12-year-old girl with a 2-year history of social anxiety disorder with\npanic attacks and angry outbursts1. She has previously received supportive counselling.\nAt assessment she is quiet, frequently says, “I don’t know”, and is quick to agree with\nsuggestions. She often looks to her mother to answer questions. She has not attended\nschool for 9 months. She experienced bullying in school, near her home and on social\nmedia for several years. At home, she does not use the telephone or social media. She\nresponds to, but does not initiate, text conversations. She will not travel alone, eat or drink\nin public, or socialize without her mother."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06304931640625,
+      460.24859619140625,
+      411.7463684082031,
+      506.0855407714844
+    ],
+    "text": "A particularly important intervention for Patient 2 was training in an external focus of\nattention and learning that “the scariest place is in my head”. As well as recovering from\nsocial anxiety, she returned to full-time education, developed a new friendship group, and\nattended a dance-drama club. Angry outbursts and panic attacks resolved."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06304931640625,
+      512.9505004882812,
+      411.7236022949219,
+      618.6569213867188
+    ],
+    "text": "Patient 3 is a 16-year-old young woman with a 4-year history of social anxiety disorder,\ngeneralized anxiety disorder and depression1. At assessment she is visibly anxious,\nconcerned to give the “right answer” and physically keyed-up. She is polite and engaged.\nAt a previous assessment for autism spectrum disorder, obsessive and rigid “autistic\ntraits” were observed, but her developmental history and current functioning were not\nconsistent with a diagnosis. Although Patient 3 is extremely intelligent and high achieving,\nschool initiated the referral to CAMHS because of a one-year history of non-compliant,\nchallenging behaviour in lessons (e.g. putting her head on the desk, refusing to answer\nquestions) and intermittent school refusal. At home, she does not use the telephone. She"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "6\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04499816894531,
+      73.58955383300781,
+      438.7222595214844,
+      95.51327514648438
+    ],
+    "text": "responds to, but will not initiate, text conversations. She has a small social network but no\nbest friend and has always been socially reserved."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04499816894531,
+      102.47914123535156,
+      438.7153625488281,
+      172.22024536132812
+    ],
+    "text": "The attention and safety behaviours experiment was a particularly enlightening\nintervention for Patient 3. She had ﬁrmly believed her safety behaviours were helpful but\nwas surprised to learn that they made her feel more anxious and led her to think she came\nacross less well. In addition to recovering from social anxiety, the young person obtained\nall A∗-A grades at GCSE and completed an interview that led to her being awarded a\nscholarship. She attended her school prom and organized a holiday with friends."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04513549804688,
+      179.0941619873047,
+      438.7181396484375,
+      296.7539978027344
+    ],
+    "text": "Patient 4 is a 17-year-old young man with a 6-year history of severe social anxiety\ndisorder, selective mutism and depression1. He has not responded to treatment with\nFluoxetine (20mg od) nor to a course of exposure based CBT for social anxiety. He\nexperienced severe bullying in two different schools. At assessment he is extremely\nanxious, struggles to speak, and makes no eye contact. When anxious he chews his hands,\nwhich has caused callouses. He has not contributed in class, spoken to another pupil or\nsocialized with a peer for at least 12 months. He sits in a corner of the classroom away\nfrom peers and covers his face with his coat (which he wears at all times). He spends\nhis free time in his room on his computer, playing games with others but not interacting\nbeyond this."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04586791992188,
+      303.72979736328125,
+      438.7051696777344,
+      361.5098571777344
+    ],
+    "text": "Particularly important interventions for Patient 4 included imagery rescripting of memories\nof severe bullying and use of still photographs to update his self-images. As well as\nrecovering from social anxiety, Patient 4 completed his A-Levels and was offered a place\nat university. His hand biting resolved. He started to meet with friends in his free time and\nspeak to his peers in class."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04519653320312,
+      368.384765625,
+      438.7195739746094,
+      486.0420837402344
+    ],
+    "text": "Patient 5 is a 15-year-old girl with a 4-year history of social anxiety and generalized\nanxiety disorder and depression1. She has received treatment for Anorexia Nervosa –\nrestrictive subtype, and has maintained a healthy weight for one year. She has also\npreviously received a course of CBT for Generalised Anxiety Disorder. At assessment she\nis anxious and tearful but extremely polite and friendly. In school, she does not participate.\nShe is a bright girl but teachers report she is underachieving and she describes difﬁculty\nconcentrating. At home, she does not use the telephone and she responds to, but will not\ninitiate, text conversations. She has a close group of friends, but does not instigate any\narrangements to meet them and often turns down invitations. Her sleep is poor. Parents\nreport frequent conﬂict."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04519653320312,
+      493.01788330078125,
+      438.7145690917969,
+      562.759033203125
+    ],
+    "text": "Particularly important interventions for Patient 5 included spotting her self-critical voice\nin social situations and using this as a cue to shift attention outwards. As well as recovering\nfrom social anxiety, she took the lead role in a play, attended parties, and started making\nplans to host a small party herself. The family reported a great improvement in relations\nat home. For example, she and her father described working together to plan her work\nexperience placement."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04496765136719,
+      567.3963012695312,
+      438.706298828125,
+      590.6572265625
+    ],
+    "text": "1All diagnoses referred to reﬂect the current situation at the pretreatment assessment based\non assessment with the ADIS-C/P"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      156.48300170898438,
+      44.41862869262695,
+      418.1994934082031,
+      54.48214340209961
+    ],
+    "text": "CT-SAD for adolescents: a case series\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      74.50566101074219,
+      137.3638153076172,
+      84.46826171875
+    ],
+    "text": "Ethical considerations"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      92.54322814941406,
+      418.1576843261719,
+      114.45797729492188
+    ],
+    "text": "All patients were treated as part of a routine clinical service and the project was considered\nclinical audit. All patients provided written consent for the data to be used for publication."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      134.2832489013672,
+      85.94381713867188,
+      144.245849609375
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      152.3118438720703,
+      418.22247314453125,
+      186.18771362304688
+    ],
+    "text": "To help guide therapy, participants completed measures of social anxiety, mood and\nconcentration in the classroom, and social anxiety related processes before every session.\nSome additional measures were completed at pre, mid, and posttreatment and follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591819763183594,
+      194.0608673095703,
+      418.2185363769531,
+      311.7203674316406
+    ],
+    "text": "Outcome measures.\nThe primary outcome measure was the Liebowitz Social Anxiety\nScale: self-report version (LSAS; Baker, Heinrichs, Kim and Hofmann, 2002). The Social\nPhobia Weekly Summary Scale (SPWSS; Clark et al., 2003) was used as an additional\nmeasure of social anxiety. This was designed for use with adults but has been used\nsuccessfully with youths. Concentration in class was assessed by asking young people to\nrate their ability to concentrate on class or learning activities using a visual analogue scale\nranging from 0 (not at all) to 100 (totally).The Revised Child Anxiety and Depression Scale\n(RCADS; Chorpita, Yim, Mofﬁtt, Umemoto and Francis, 2000), which has a social anxiety\nsubscale, was completed by parents (used to refer to parents/carers throughout) pre, mid, and\nposttreatment and at follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.594818115234375,
+      319.5845642089844,
+      418.2345886230469,
+      520.9358520507812
+    ],
+    "text": "Social anxiety process measures.\nSeveral unpublished measures (Clark, 2005) covering\ncentral processes in cognitive models of social anxiety (Clark and Wells, 1995; Rapee and\nHeimberg, 1997) were administered and used to help guide therapy. The Social Cognitions\nQuestionnaire (SCQ) is a 22-item scale covering negative automatic thoughts that are\ncommonly reported in social anxiety provoking situations. Two subscales scores are obtained:\na mean thought frequency, ranging from 1 (thought never occurs) to 5 (thought always\noccurs when I am anxious); and a mean belief rating ranging from 0 (I do not believe\nthis thought) to 100 (I am completely convinced this thought is true). The Social Attitudes\nQuestionnaire (SAQ) is a 41-item scale measuring social anxiety related beliefs. Each item is\nrated from 1 (totally disagree) to 7 (totally agree), and a mean score is obtained. The Social\nBehaviour Questionnaire (SBQ) is a 29-item scale measuring how often individuals use a\nrange of common safety-seeking behaviours in social situations. The frequency with which\neach behaviour is used in social situations is rated from 0 (never) to 3 (always), and a mean\nscore is obtained. The SCQ, SBQ and SAQ have been shown to discriminate between high\nand low socially anxious youth in UK (Hodson et al., 2008) and German (Schreiber, Hoeﬂing,\nStangier, Bohn and Steil, 2012) samples. In the present study, the SCQ was completed weekly.\nThe SAQ and SBQ were completed at pre, mid and posttreatment and at follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.5948486328125,
+      528.8090209960938,
+      418.22650146484375,
+      562.7767333984375
+    ],
+    "text": "General mood measures.\nDepression and general anxiety were assessed fortnightly with\nthe Patient Health Questionnaire-Depression scale (PHQ-9; Kroenke, Spitzer and Williams,\n2001) and the GAD-7(Spitzer, Kroenke, Williams and Löwe, 2006) respectively."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.595848083496094,
+      570.6499633789062,
+      418.2195739746094,
+      592.66552734375
+    ],
+    "text": "Service user feedback.\nThe Experience of Service Questionnaire (CHI-ESQ; Attride-\nStirling, 2002) was completed once at the end of treatment by parents and young people."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.59584045410156,
+      600.5387573242188,
+      418.2165222167969,
+      622.5543212890625
+    ],
+    "text": "Criteria for assessing remission.\nRemission was assessed in two ways. Jacobson and\nTruax’s (1991) criteria for reliable and clinically signiﬁcant change were applied to LSAS"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "8\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56497192382812,
+      74.50535583496094,
+      445.18463134765625,
+      144.34756469726562
+    ],
+    "text": "scores. Pre–post change had to exceed the measurement error of the scale and move\nindividuals into the distribution of the non-clinical population (mean ± 2 SD). Using\nFresco et al.’s (2001) data for a non-clinical population, this equated to a pretreatment to\nposttreatment fall of at least 12 points on the LSAS and a posttreatment LSAS score of ࣘ37.\nIn addition, EL reassessed participants on the ADIS-C/P criteria for social anxiety disorder at\nthe end of treatment."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      170.14939880371094,
+      174.59548950195312,
+      180.11199951171875
+    ],
+    "text": "Therapist and supervisor"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      188.18699645996094,
+      445.1887512207031,
+      257.9191589355469
+    ],
+    "text": "As the aim of the case series was to learn how to adapt CT-SAD for use with adolescents, it\nwas essential that the therapy and supervision were conducted by individuals who were fully\ntrained in CT-SAD for adults. All sessions were delivered by EL, an experienced child clinical\npsychologist who had been trained in CT-SAD with adults during a clinical placement at the\nCentre for Anxiety Disorders and Trauma at the Maudsley Hospital in London. DC, one of\nthe originators of CT-SAD, provided weekly supervision via Skype."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      283.72003173828125,
+      114.58673858642578,
+      293.6826171875
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      301.7575988769531,
+      445.1757507324219,
+      383.45086669921875
+    ],
+    "text": "Therapy was delivered in line with the standard adult protocol (i.e. 14 individual 1.5 hour\nsessions with follow-up appointments at 1, 2, and 3 months). After each session, EL carefully\nreviewed the session videotape and discussed with DC what happened in the session along\nwith her plans for the next session. Any apparent relationships between change in social\nanxiety and procedures used in a preceding session were noted, as were adaptations or\nreﬁnements to the treatment procedures that appeared to be helpful.\nThe following treatment components were delivered, supported with worksheets:"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      76.23173522949219,
+      397.4014892578125,
+      445.21673583984375,
+      622.5562133789062
+    ],
+    "text": "1)\nAn individualized version of Clark and Wells’ (1995) model is collaboratively developed\nwith the young person using their own thoughts, images and safety-behaviours. The\nmodel is drawn on a whiteboard as looking at the board, rather than directly facing the\ntherapist, helps the young person to feel less self-conscious in the initial session. Figure 1\ndepicts Patient 2’s model.\n2)\nYoung people undertake an experiential exercise to help them discover the unhelpful\nconsequences of self-focused attention and safety behaviours. In Session 2 they have\ntwo conversations with a stranger (due to availability this is usually an adult). In the ﬁrst\nconversation, they focus their attention on themselves and think how they are coming\nacross to the other person, while also engaging in their habitual safety behaviours (self-\nfocused, evaluative attention condition). In the second conversation, they are encouraged\nto focus externally, not to think how they are coming across and instead get involved\nin the topic of the conversation, without doing their safety behaviours (externally\nfocused, non-evaluative attention condition). Typically, young people discover that their\nhabitual approach to social interactions (self-focused, evaluative) makes them feel more\nanxious and they think they appeared more anxious and performed less well. The\nyoung person is not told in advance what to expect because we prefer them to learn\nthese key points through experience. Homework involves repeating this exercise with a\npeer."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.1994934082031,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n9"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.6860046386719,
+      129.3824462890625,
+      373.84344482421875,
+      176.42303466796875
+    ],
+    "text": "Things from the \npast: I lost control \nof my bowels in \nclass at primary \nschool"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      88.65280151367188,
+      330.8211669921875,
+      212.44122314453125,
+      416.89813232421875
+    ],
+    "text": "Things I did to try to “keep safe”: \nTry really hard to “act normal”; \nKeep checking how I am coming \nacross; Give lots of compliments; \nDon’t disagree with anyone; Fiddle \nwith my clothes; Don’t talk about \nmyself; Picture how I come across \nPlan what to say; Leave mum to \nspeak for me"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      253.24600219726562,
+      332.5461730957031,
+      320.9534912109375,
+      379.80120849609375
+    ],
+    "text": "Anxious feelings:\nShaky; hurt in my \nbelly, like someone \nis grabbing it; feel \nlike I’m in a dream"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      167.60580444335938,
+      241.96316528320312,
+      239.18601989746094,
+      289.6507873535156
+    ],
+    "text": "Self-focus \nimage of myself: \nlooking blank, not \nknowing what to do, \nlike an outcast"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      126.83499908447266,
+      82.29193878173828,
+      295.31781005859375,
+      100.72071075439453
+    ],
+    "text": "Situation: Going into school, a group of girls are \nstanding by the lockers chatting and I join them"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      142.7982940673828,
+      137.72015380859375,
+      257.2968444824219,
+      195.18466186523438
+    ],
+    "text": "Negative thoughts: “I look like \nan idiot in my uniform”; “They \ndon’t like me”; “I am boring”; “I \nam stupid”; “I will say the wrong \nthing and they will tease me and \nnot be friends with me”"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      145.25999450683594,
+      446.2198791503906,
+      320.5467529296875,
+      455.2771301269531
+    ],
+    "text": "Figure 1. Idiosyncratic formulation for Patient 2"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      49.25699996948242,
+      469.1304931640625,
+      418.2108459472656,
+      622.5545654296875
+    ],
+    "text": "3)\nVideo (and photograph) feedback is used to update distorted negative images and\nimpressions of the way one appears to others. The ﬁrst video feedback exercise occurs\nin Session 3 when young people are asked to specify how they think they came across\nin each of the conversations in Session 2 and then to compare their predictions with how\nthey actually look on the video. For behavioural experiments outside the ofﬁce, young\npeople can use their mobile phones to collect a video or pictorial image to compare with\ntheir negative self-impressions.\n4)\nYoung people receive a session of systematic training in externally focused, non-\nevaluative attention. This starts by attending to external non-social stimuli (street sounds,\nmusic, colours) and progresses to social situations. Young people use the classroom\nsetting to practise externally focusing attention on a daily basis.\n5)\nBehavioural experiments are undertaken in most therapy sessions. We collaboratively\ndevise experiments to test out speciﬁc beliefs the young person has about themselves and"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "10\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      94.49120330810547,
+      74.60627746582031,
+      445.2065734863281,
+      204.12619018554688
+    ],
+    "text": "their social world. The young person is encouraged to drop their safety behaviours and\nfocus their attention externally during the experiment in order to gather new information\nabout their anxious predictions. These aim to help the young person discover that the\nfeared consequence is less likely to occur than they had believed (see Box 2 for an\nexample with Patient 3). Experiments can also involve intentionally behaving in an\n“unacceptable” way and examining the consequences (see Box 2 for an example with\nPatient 5), in order to “decatastrophize” the young person’s fears. This latter form of\nexperiment is usually introduced in the second half of therapy. Peer interactions are\ntypically seen as the most threatening by adolescents, but they are difﬁcult to arrange\nin clinic. To overcome this problem careful planning of homework tasks is required,\ninvolving liaison with parents and teachers."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97100067138672,
+      246.81959533691406,
+      277.8072509765625,
+      256.7821960449219
+    ],
+    "text": "Box 2. Example behavioural experiments"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97100067138672,
+      264.747314453125,
+      438.7379150390625,
+      286.6620178222656
+    ],
+    "text": "An experiment examining likelihood of a feared consequence occurring with\nPatient 3"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97100067138672,
+      293.6368408203125,
+      208.86886596679688,
+      303.7003479003906
+    ],
+    "text": "Situation: Parents’ evening"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97099304199219,
+      310.57525634765625,
+      438.72711181640625,
+      344.5519714355469
+    ],
+    "text": "Prediction: “I will speak at the wrong moment, make a stupid comment, the teacher\nwill look at me disapprovingly and I will embarrass mum and dad” [Belief rating:\n95%]"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97099304199219,
+      351.4268798828125,
+      438.7061462402344,
+      373.4425048828125
+    ],
+    "text": "Experiment: I made a comment when it came to mind, without preparation and\nfocused on the teacher’s reaction."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97099304199219,
+      380.3174133300781,
+      438.7179870605469,
+      402.3330383300781
+    ],
+    "text": "Outcome: The teacher listened to what I said and everyone seemed glad that I’d\ncontributed."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97099304199219,
+      409.20794677734375,
+      400.6539001464844,
+      419.2714538574219
+    ],
+    "text": "What I learned: “I can give my opinions when I want” [Belief rating: 80%]"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97099304199219,
+      426.1463623046875,
+      310.04412841796875,
+      436.2098693847656
+    ],
+    "text": "How much I believe my original prediction now: 0%"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      443.08477783203125,
+      308.4958801269531,
+      453.04736328125
+    ],
+    "text": "A “decatastrophizing” experiment with Patient 5"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      460.023193359375,
+      236.28500366210938,
+      470.0867004394531
+    ],
+    "text": "Situation: In the park with friends"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      476.95166015625,
+      438.685302734375,
+      498.97625732421875
+    ],
+    "text": "Prediction: “I will not agree with what someone says and they will think I am naïve\nand a fool, and stop talking to me” [Belief rating: 100%]"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97098541259766,
+      505.8511962890625,
+      438.7130432128906,
+      527.8667602539062
+    ],
+    "text": "Experiment: When someone asked if I had watched a movie I said “no”, then stayed\nfocused on the situation to ﬁnd out what happened."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97098541259766,
+      534.74169921875,
+      438.7179870605469,
+      568.70947265625
+    ],
+    "text": "Outcome: The person didn’t look unimpressed and it started a whole new conversation\nabout really famous movies we’ve never got round to watching and other people\njoined in."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      575.5844116210938,
+      438.6912841796875,
+      597.6089477539062
+    ],
+    "text": "What I learned: “Differences between people are interesting; I can be honest about\nmyself” [Belief rating: 75%]"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      604.4739379882812,
+      310.04412841796875,
+      614.5374145507812
+    ],
+    "text": "How much I believe my original prediction now: 0%"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n11"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      44.273258209228516,
+      74.60627746582031,
+      418.2294616699219,
+      455.1835021972656
+    ],
+    "text": "6)\nWhen young people identify previous, socially traumatic experiences related to their\ncurrent concerns and negative self-images, discrimination training or memory rescripting\n(see Wild and Clark, 2011) is used.\n7)\nAnticipatory worry and postevent rumination are targeted. The ﬁrst step involves helping\nthe young person discover that these are unhelpful. Once we have done this we explain\nthat instead we will focus on testing out beliefs in action.\n8)\nFor those young people with negative beliefs about themselves that are not conﬁned to\nsocial performance, a self-esteem component is included. Helpful metaphors include:\n“treating yourself as a friend, rather than being your own bully”, and “being on your\nteam”.\n9)\nThe degree of parental involvement varies depending on the extent to which problematic\nparental beliefs and behaviours are identiﬁed. Components that will be important with\nthe majority of parents include: psychoeducation about social anxiety and cognitive\ntherapy; and learning about a child’s relapse prevention plan and their role in supporting\nthis. Where problematic beliefs and behaviours have been identiﬁed additional elements\ninclude helping parents: recognize their own social attitudes; how these relate to their\nbeliefs about their child; how they impact on their own behaviour and interactions\nwith their child; and then testing out alternative responses. Delivery techniques include:\nSocratic questioning, modelling and behavioural experiments.\n10)\nLiaison with school is helpful at assessment and throughout treatment. First, in order\nto obtain information about the young person’s social and academic functioning,\nconcentration and attention, and behaviour. Second, to support school through the\nyoung person’s treatment. This might include psychoeducation about social anxiety and\ncognitive therapy and how teachers can help at the different stages of treatment e.g.\nplanning school-based behavioural experiments.\n11)\nBullying and its consequences are addressed in various ways. Current bullying is tackled\ndirectly in a robust manner through liaison with school and parents. In addition, young\npeople are helped to disengage from victimizing groups and seek out like-minded peers.\nFor example, Patient 2 was enrolled at a dance-drama club that provided a supportive\nenvironment in which to test out her social fears.\n12)\nFinally, a therapy blueprint is developed, drawing together what has been covered in\nsessions and detailing how to continue to build on progress made."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59478759765625,
+      463.056640625,
+      418.22747802734375,
+      508.9855041503906
+    ],
+    "text": "Several CBT procedures that are commonly used in other treatment programmes are not\nused in CT-SAD. These are: repeated exposure to promote habituation; exposure hierarchies;\nrating anxiety in feared situations (SUDS); thought records; rehearsal of rationale responses\nin social situations (self-instruction); social skills training."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      217.40631103515625,
+      528.810791015625,
+      248.3999786376953,
+      538.7733764648438
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59478759765625,
+      546.738525390625,
+      119.80072784423828,
+      556.7011108398438
+    ],
+    "text": "Clinical outcomes"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59478759765625,
+      564.7760620117188,
+      418.20050048828125,
+      622.55615234375
+    ],
+    "text": "By the end of treatment, all patients had lost the diagnosis of social anxiety disorder and\nADIS CSR scores were three or below (see Table 2). All met Jacobson and Truax (1991)\nreliable and clinically signiﬁcant change criteria. There were large changes in LSAS scores\n(see Table 2 and Figure 2), with the mean decrease being 79.2% at posttreatment and 88.4% at\nfollow-up. There were large reductions in SPWSS scores and consistent increases in"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "12\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      185.20199584960938,
+      74.97889709472656,
+      334.5382995605469,
+      84.03612518310547
+    ],
+    "text": "Table 2. Outcomes and process measures"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      342.15301513671875,
+      92.2507553100586,
+      366.9217834472656,
+      101.21715545654297
+    ],
+    "text": "Patient"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      264.88800048828125,
+      111.29377746582031,
+      439.6861877441406,
+      120.35100555419922
+    ],
+    "text": "1\n2\n3\n4\n5\nMean (SD)"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56400299072266,
+      126.6217269897461,
+      444.1953430175781,
+      595.880126953125
+    ],
+    "text": "Clinical outcomes – social anxiety measures:\nLSAS\nPre\n111\n92\n110\n118\n88\n103.8 (13.1)\nPost\n18\n30\n10\n32\n18\n21.6 (9.2)\nFollow-up\n0\n7\n9\n29\n15\n12.0 (10.9)\nSPWSS\nPre\n5.2\n5.3\n5.2\n5.5\n6.5\n5.5 (0.6)\nPost\n0.7\n0.3\n0.7\n2.0\n2.2\n1.2 (0.9)\nFollow-up\n0.3\n0.3\n0\n1.3\n2.0\n0.8 (0.8)\nRCADS-P social anxiety\nPre\n22\n19\n24\n12\n16\n18.6 (4.8)\nPost\n13\n15\n17\n10\n14\n13.8 (2.6)\nFollow-up\n4\n8\n13\n8\n9\n8.4 (3.2)\nADIS-C/P social anxiety CSR ratings\nPre\n7\n6\n6\n7\n6\n6.4 (0.5)\nPost\n0\n1\n2\n3\n2\n1.6 (1.1)\nFollow-up\n-\n-\n-\n-\n-\n-\nSocial anxiety process measures:\nSCQ-F\nPre\n3.5\n4.1\n3.0\n2.9\n4.2\n3.5 (0.6)\nPost\n1.3\n1.9\n1.2\n1.0\n1.3\n1.3 (0.3)\nFollow-up\n1.0\n1.1\n1.1\n1.0\n1.2\n1.1(0.1)\nSCQ-B\nPre\n62.3\n76.4\n49.5\n49.5\n80.2\n63.6 (14.5)\nPost\n5.5\n14.1\n3.2\n0.0\n4.5\n5.5 (5.3)\nFollow-up\n4.1\n0.5\n2.3\n0.0\n2.0\n1.8 (1.6)\nSAQ\nPre\n6.1\n6.4\n4.6\n5.5\n5.1\n5.5 (0.7)\nPost\n2.8\n4.3\n2.7\n2.7\n3.7\n3.2 (0.7)\nFollow-up\n1.5\n1.6\n3.3\n2.1\n3.4\n2.4 (0.9)\nSBQ\nPre\n1.7\n1.1\n1.3\n1.6\n1.8\n1.5 (0.3)\nPost\n0.3\n0.9\n0.3\n0.6\n0.5\n0.5 (0.3)\nFollow-up\n0.1\n0.0\n0.3\n0.6\n0.3\n0.3 (0.2)\nConcentration:\nPre\n22\n40\n37\n40\n15\n42.8 (33.6)\nPost\n79\n79\n80\n100\n50\n77.6 (17.8)\nFollow-up\n90\n85\n90\n100\n60\n85.0 (15.0)\nClinical outcomes – general mood:\nGAD-7\nPre\n8\n10\n9\n11\n10\n9.6 (1.1)\nPost\n1\n0\n6\n1\n11\n3.8 (4.7)\nFollow-up\n1\n2\n2\n1\n8\n2.8 (2.9)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n13"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      196.56900024414062,
+      74.97889709472656,
+      269.2228698730469,
+      84.03612518310547
+    ],
+    "text": "Table 2. Continued."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      282.43798828125,
+      92.2507553100586,
+      307.20587158203125,
+      101.21715545654297
+    ],
+    "text": "Patient"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      172.44000244140625,
+      111.29377746582031,
+      417.2038879394531,
+      120.35100555419922
+    ],
+    "text": "1\n2\n3\n4\n5\nMean (SD)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.590999603271484,
+      126.6217269897461,
+      412.7362976074219,
+      168.46617126464844
+    ],
+    "text": "PHQ-9\nPre\n10\n5\n9\n14\n13\n10.2 (3.6)\nPost\n3\n2\n12\n4\n18\n7.8 (6.9)\nFollow-up\n2\n0\n1\n2\n11\n3.2 (4.4)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.590999603271484,
+      180.09286499023438,
+      417.22467041015625,
+      266.1084289550781
+    ],
+    "text": "Notes: LSAS = Liebowitz Social Anxiety Scale (Baker et al., 2002); SPWSS = Social Phobia\nWeekly Summary Scale (Clarket al., 2003); RCADS = Revised Child Anxiety and Depression\nScale (Chorpita et al., 2000); ADIS-C/P CSR = Anxiety Disorders Interview Schedule for Children\nand Parents Clinician Severity Rating (Silverman and Albano, 1996); SCQ-F = Social Cognitions\nQuestionnaire – Frequency subscale; SCQ-B = Social Cognitions Questionnaire–Belief subscale;\nSAQ – Social Attitudes Questionnaire; SBQ = Social Behaviour Questionnaire; PHQ-9 = Patient\nHealth Questionnaire (Kroenke, Spitzer and Williams, 2001); GAD-7 = Generalized Anxiety Disorder\nScreener (Spitzer, Kroenke, Williams and Löwe, 2006)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      286.1335144042969,
+      418.1769104003906,
+      308.0482482910156
+    ],
+    "text": "classroom concentration (see Table 2). Parent reported social anxiety symptoms also reduced\nover time."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      328.7920837402344,
+      175.96507263183594,
+      338.7546691894531
+    ],
+    "text": "Social anxiety process measures"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      346.82965087890625,
+      418.19866943359375,
+      368.744384765625
+    ],
+    "text": "Scores on the SCQ (frequency and belief subscales), SAQ and SBQ all showed large\nreductions (see Table 2)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      389.48822021484375,
+      104.70758056640625,
+      399.4508056640625
+    ],
+    "text": "General mood"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      407.5168151855469,
+      418.19378662109375,
+      429.4405212402344
+    ],
+    "text": "Scores on a measure of depression (PHQ-9) and general anxiety (GAD-7) also reduced (see\nTable 2)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      450.17437744140625,
+      159.92727661132812,
+      460.136962890625
+    ],
+    "text": "Satisfaction and functioning"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      468.2119445800781,
+      418.1927795410156,
+      502.0877990722656
+    ],
+    "text": "All participants attended all sessions. All CHI-ESQ items were rated as “partly” or “certainly”\ntrue, indicating high treatment satisfaction. All participants were attending school full-time by\nthe end of follow-up."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      210.47251892089844,
+      522.8226928710938,
+      255.31419372558594,
+      532.7852783203125
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      540.8602294921875,
+      418.23065185546875,
+      622.5535278320312
+    ],
+    "text": "Our development case series provides preliminary evidence that CT-SAD can be adapted for\nadolescents with excellent results. All ﬁve young people initially presented with severe and\nchronic social anxiety. All had comorbid anxiety disorders and/or depression. By the end\nof treatment, symptoms of social anxiety, as well as associated anxiety and depression, had\nreduced to subclinical levels and these gains were maintained at follow-up. These results\nare particularly impressive when one bears in mind that four of the ﬁve young people had\nalready received a standard course of CBT without apparent response. All the young people"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "14\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      156.10499572753906,
+      418.22088623046875,
+      363.6412658691406,
+      427.27813720703125
+    ],
+    "text": "Figure 2. Session by session LSAS score for each patient"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.56500244140625,
+      457.16949462890625,
+      445.2018127441406,
+      622.5546875
+    ],
+    "text": "also showed improved functioning, as evidenced by increased social participation and 100%\nschool attendance at follow-up. Excitingly, we have the ﬁrst indication that social anxiety\ntreatment may also have a positive impact on classroom concentration, as evidenced by the\nself-reported improvement across all ﬁve patients. Patient 5 explained that: “it is easier to\nunderstand things in class now because I can listen to the teachers’ whole explanation, not\njust patches.” This is important as social anxiety disorder has a particularly deleterious effect\non academic functioning (Van Ameringen, Mancini and Farvolden, 2003). Finally, CT-SAD\nappears to be acceptable to young people and their families. No one missed a session and\nfeedback from parents and young people was consistently positive.\nThe average change (79%) on the primary outcome measure (LSAS) was greater than\nobserved in our trials of CT-SAD in adults (57% and 63% in Clark et al., 2003, 2006). A\nsimilar increase in effect occurred when we adapted our adult cognitive therapy for PTSD\nfor use with children and adolescents (see Smith et al., 2007 vs Ehlers, Clark, Hackmann,\nMcManus and Fennell, 2005). This suggests that CT programmes that tightly focus on the"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n15"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.5927734375,
+      74.50535583496094,
+      418.2364196777344,
+      538.875244140625
+    ],
+    "text": "maintenance factors that are prominent in the anxiety-related disorder being treated may be\nparticularly effective in young people, a ﬁnding that is perhaps somewhat at odds with the\ntendency to use more broad-based CBT programmes with youth. However, our ﬁndings are\nbased on a small number of patients and need to be conﬁrmed in a larger sample. As this\nwas a development series, we spent an unusual amount of time reﬂecting on the sessions and\ndiscussing them in supervision. The results are promising but randomized controlled trials that\ncompare CT-SAD with other approaches to treating social anxiety in adolescents are required\nto clearly establish the relative efﬁcacy of the treatment approach.\nTreatment generally followed the adult protocol, which we found was acceptable to young\npeople. They were able to identify negative social cognitions, a self-focused attentional style,\nsafety behaviours, and distorted self-images. Each of these putative process variables changed\nwith treatment. The self-images often related to earlier socially traumatic events. As in adults,\nthese events appeared to generate a particular (distorted) mental representation that persisted,\neven though it may no longer be appropriate. The treatment was adapted throughout to ensure\nit was developmentally sensitive. We also included additional procedures in order to target the\nfollowing factors: parental cognitions and behaviours; peer victimization and bullying; and\nlow self-esteem.\nUnhelpful beliefs were identiﬁed and addressed with at least one of the parents of each\nadolescent. Some parents viewed their child’s the social environment as hostile and/or\nsomething their child as unable to cope with it, leading to overprotection. Other parents\nbelieved that children had to learn to be “centre-stage” and pushed the child too hard, given\ntheir anxious concerns. Towards the end of therapy, we found it powerful to invite parents to\nhear the therapy blueprint their child had developed. We encouraged young people to take the\nlead: talking through what they had learned about the development and maintenance of social\nanxiety, how to tackle it, the progress they had made and future goals, and how to manage\nsetbacks.\nUnfortunately, four of our ﬁve young people were experiencing peer victimization or\nbullying. Interventions included liaison with schools and parents to address this, and\ndiscussions with young people that helped them develop relationships with children who\nwere not bullies, as well as challenging the idea that the bullies are the arbiters of one’s\nworth. Low self-esteem was a focus in treatment for all those young people who had been\nsubjected to peer victimization or bullying. Whilst unconditional assumptions such as “I am\nweird” are common in social anxiety, when young people experience bullying these beliefs\nare repeatedly (and sometimes explicitly) conﬁrmed by peers, leading to more general low\nself-esteem. Additional techniques included noticing the self-critical voice and “being your\nown cheerleader rather than your own bully”.\nIn summary, it appears that although CT-SAD was developed as a treatment for adult social\nanxiety disorder, it shows promise as a treatment for adolescents when suitably adapted for\nthis population. Further research is required to compare its efﬁcacy with other approaches."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      191.7187042236328,
+      582.6048583984375,
+      274.03375244140625,
+      592.5674438476562
+    ],
+    "text": "Acknowledgements"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.5927734375,
+      600.54150390625,
+      418.1994934082031,
+      622.55712890625
+    ],
+    "text": "Financial support: This research is supported by a Wellcome Trust Programme Grant\n(069777). DMC is a NIHR Senior Investigator."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      309.53790283203125,
+      54.66213607788086
+    ],
+    "text": "16\nE. Leigh and D.M. Clark"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56499481201172,
+      74.50535583496094,
+      445.1838684082031,
+      108.48214721679688
+    ],
+    "text": "Ethical standards:\nThe authors assert that all procedures contributing to this work comply\nwith the ethical standards of the relevant national and institutional committees on human\nexperimentation and with the Helsinki Declaration of 1975, as revised in 2008."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56499481201172,
+      116.34629821777344,
+      445.1778869628906,
+      126.40982055664062
+    ],
+    "text": "Conﬂict of interest:\nThe authors have no conﬂicts of interest with respect to this publication."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      236.72622680664062,
+      152.21067810058594,
+      282.9836120605469,
+      162.17327880859375
+    ],
+    "text": "References"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.5623550415039,
+      174.90589904785156,
+      445.22418212890625,
+      622.3304443359375
+    ],
+    "text": "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th\nedn.) DSM-5. Arlington, VA: American Psychiatric Association.\nAttride-Stirling (2002). Development of Methods to Capture Users’ Views of Child and Adolescent\nMental Health Services in Clinical Governance Reviews. Commission for Health Improvement.\nBaker, S. L., Heinrichs, N., Kim, H.-J. and Hofmann, S. G. (2002). The Liebowitz social anxiety scale\nas a self-report instrument: a preliminary psychometric analysis. Behaviour Research and Therapy,\n40, 701–715. doi: 10.1016/S0005-7967(01)00060-2\nBlote, A. W., Miers, A. C., Heyne, D. A., Clark, D. M. and Westenberg, P. M. (2014).\nThe relation between social anxiety and audience perception: examining Clark and Wells’\n(1995) model among adolescents. Behavioural and Cognitive Psychotherapy, 42, 555–567. doi:\n10.1017/s1352465813000271\nBruce, S. E., Yonkers, K. A., Otto, M. W., Eisen, J. L., Weisberg, R. B., Pagano, M., et al. 2005).\nInﬂuence of psychiatric comorbidity on recovery and recurrence in generalized anxiety disorder,\nsocial phobia, and panic disorder: a 12-year prospective study. American Journal of Psychiatry, 162,\n1179–1187. doi: 10.1176/appi.ajp.162.6.1179\nCartwright-Hatton, S., Tschernitz, N. and Gomersall, H. (2005). Social anxiety in children: social\nskills deﬁcit, or cognitive distortion? Behaviour Research and Therapy, 43, 131–141.\nChorpita, B. F., Yim, L., Mofﬁtt, C., Umemoto, L. A. and Francis, S. E. (2000). Assessment of\nsymptoms of DSM-IV anxiety and depression in children: a revised child anxiety and depression\nscale. Behaviour Research and Therapy, 38, 835–855. doi: 10.1016/j.brat.2004.02.004\nClark, D. M. (2005). Three Questionnaires for Measuring Central Constructs in the Cognitive Model\nof Social Phobia. London: King’s College London.\nClark, D. M., Ehlers, A., Hackmann, A., McManus, F., Fennell, M., Grey, N., et al. (2006). Cognitive\ntherapy versus exposure and applied relaxation in social phobia: a randomized controlled trial.\nJournal of Consulting and Clinical Psychology, 74, 568.\nClark, D. M., Ehlers, A., McManus, F., Hackmann, A., Fennell, M., Campbell, H., et al.\n(2003).\nCognitive therapy\nversus\nﬂuoxetine\nin\ngeneralized\nsocial\nphobia:\na\nrandomized\nplacebo-controlled trial. Journal of Consulting and Clinical Psychology, 71, 1058–1067. doi:\n10.1037/0022-006x.71.6.1058\nClark, D. M. and Wells, A. (1995). A cognitive model of social phobia. Social Phobia: diagnosis,\nassessment, and treatment, 41(68), 00022–00023.\nEhlers, A., Clark, D. M., Hackmann, A., McManus, F. and Fennell, M. (2005). Cognitive therapy\nfor post-traumatic stress disorder: development and evaluation. Behaviour Research and Therapy, 43,\n413–431.\nGinsburg, G. S., Kendall, P. C., Sakolsky, D., Compton, S. N., Piacentini, J., Albano, A. M.,\net al. (2011). Remission after acute treatment in children and adolescents with anxiety disorders:\nﬁndings from the CAMS. Journal of Consulting and Clinical Psychology, 79, 806–813. doi:\n10.1037/a0025933\nHodson, K. J., McManus, F. V., Clark, D. M. and Doll, H. (2008). Can Clark and Wells’ (1995)\ncognitive model of social phobia be applied to young people? Behavioural and Cognitive\nPsychotherapy, 36 (Special Issue 04), 449–461. doi: 10.1017/S1352465808004487"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "CT-SAD for adolescents: a case series\n17"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.58832550048828,
+      75.27589416503906,
+      418.2314147949219,
+      533.6629028320312
+    ],
+    "text": "Hudson, J. L., Keers, R., Roberts, S., Coleman, J. R., Breen, G., Arendt, K., et al. (2015). Clinical\npredictors of response to cognitive-behavioral therapy in pediatric anxiety disorders: the genes for\ntreatment (GxT) study. Journal of the American Academy of Child and Adolescent Psychiatry, 54,\n454–463.\nIngul, J. M., Aune, T. and Nordahl, H. M. (2014). A randomized controlled trial of individual\ncognitive therapy, group cognitive behaviour therapy and attentional placebo for adolescent social\nphobia. Psychotherapy and Psychosomatics, 83, 54–61.\nJacobson, N. S. and Truax, P. (1991). Clinical signiﬁcance: a statistical approach to deﬁning\nmeaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59,\n12.\nKessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R. and Walters, E. E. (2005).\nLifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity\nSurvey Replication. Archives of General Psychiatry, 62, 593–602. doi: 10.1001/archpsyc.62.6.593\nKroenke, K., Spitzer, R. L. and Williams, J. B. (2001). The PHQ-9: validity of a brief\ndepression\nseverity\nmeasure.\nJournal\nof\nGeneral\nInternal\nMedicine,\n16,\n606–613.\ndoi:\n10.1046/j.1525-1497.2001.016009606.x\nMayo-Wilson, E., Dias, S., Mavranezouli, I., Kew, K., Clark, D. M., Ades, A., et al. (2014).\nPsychological and pharmacological interventions for social anxiety disorder in adults: a systematic\nreview and network meta-analysis. The Lancet Psychiatry, 1, 368–376.\nNational Institute for Health and Care Excellence (2013). Social Anxiety Disorder: recognition,\nassessment and treatment of social anxiety disorder. London: Clinical Guideline, No. 159.\nRapee, R. M. and Heimberg, R. G. (1997). A cognitive-behavioral model of anxiety in social phobia.\nBehaviour Research and Therapy, 35, 741–756. doi: 10.1016/S0005-7967(97)00022-3\nSchreiber, F., Hoeﬂing, V., Stangier, U., Bohn, C. and Steil, R. (2012). A cognitive model of social\nphobia: applicability in a large adolescent sample. International Journal of Cognitive Therapy, 5,\n341–358.\nSchreiber, F. and Steil, R. (2013). Haunting self-images? The role of negative self-images in adolescent\nsocial anxiety disorder. Journal of Behaviour Therapy and Experimental Psychiatry, 44, 158–164.\ndoi: 10.1016/j.jbtep.2012.10.003\nSilverman, W. K. and Albano, A. M. (1996). The Anxiety Disorders Interview Schedule for DSM-IV:\nChild and Parent Versions. San Antonio, TX: Graywind Publications, a Division of The Psychological\nCorporation.\nSmith, P., Yule, W., Perrin, S., Tranah, T., Dalgleish, T. and Clark, D. M. (2007). Cognitive-\nbehavioral therapy for PTSD in children and adolescents: a preliminary randomized controlled trial.\nJournal of the American Academy of Child and Adolescent Psychiatry, 46, 1051–1061.\nSpitzer, R. L., Kroenke, K., Williams, J. B. and Löwe, B. (2006). A brief measure for assessing\ngeneralized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166, 1092–1097. doi:\n10.1001/archinte.166.10.1092\nVan Ameringen, M., Mancini, C. and Farvolden, P. (2003). The impact of anxiety disorders on\neducational achievement. Journal of Anxiety Disorders, 17, 561–571\nWild, J. and Clark, D. M. (2011). Imagery rescripting of early traumatic memories in social phobia.\nCognitive and Behavioral Practice, 18, 433–443. doi: 10.1016/j.cbpra.2011.03.002"
+  }
+]

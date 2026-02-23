@@ -1,0 +1,1362 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      485.48040771484375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "Vol.:(0123456789)\n1 3"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      32.36515808105469,
+      278.59417724609375,
+      53.26666259765625
+    ],
+    "text": "Journal of Autism and Developmental Disorders (2021) 51:1015–1027 \nhttps://doi.org/10.1007/s10803-020-04582-5"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.787899017333984,
+      64.21063995361328,
+      134.07894897460938,
+      75.81964111328125
+    ],
+    "text": "ORIGINAL PAPER"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      104.40694427490234,
+      501.7371520996094,
+      158.58294677734375
+    ],
+    "text": "Adaptation of One‑Session Treatment for Specific Phobias for Children \nwith Autism Spectrum Disorder Using a Non‑concurrent Multiple \nBaseline Design: A Preliminary Investigation"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      173.5699005126953,
+      350.710205078125,
+      186.8739013671875
+    ],
+    "text": "Thomas Ollendick1 · Ashley Muskett1,2 · Sarah R. Radtke1 · Isaac Smith1"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      205.3279266357422,
+      278.8830871582031,
+      224.8948974609375
+    ],
+    "text": "Published online: 1 July 2020 \n© Springer Science+Business Media, LLC, part of Springer Nature 2020"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      242.33509826660156,
+      547.1203002929688,
+      357.0850830078125
+    ],
+    "text": "Abstract\nAnxiety disorders are among the most common co-occurring disorders for individuals with ASD. Several adaptations to \ncognitive behavioral approaches have been proposed for this population (Moree & Davis, 2010). The current study examined \nfeasibility and preliminary efficacy of an ASD-specific adaptation of one-session treatment (OST) for specific phobia (SP). \nStandard OST consists of one 3-h session followed by four weekly phone calls. Modifications for ASD included increased \nparental involvement, use of visual aids, and inclusion of four 1-h booster sessions in place of the four weekly phone calls. \nVisual inspection and Friedman tests revealed significant reductions in fear ratings and phobia severity from pre- to post-\ntreatment and follow-up assessments. Modest changes were observed in behavioral avoidance. These findings provide initial \nevidence that this treatment merits further study."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      366.9950866699219,
+      365.400634765625,
+      382.0850830078125
+    ],
+    "text": "Keywords  Autism spectrum disorder · Specific phobia · One-session treatment"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      402.85711669921875,
+      118.66641235351562,
+      417.7251281738281
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.023597717285156,
+      429.4951171875,
+      291.73358154296875,
+      569.5850830078125
+    ],
+    "text": "Autism spectrum disorder (ASD), a neurodevelopmental \ndisorder characterized by the presence of social difficulties \nas well as the presence of restricted and repetitive behaviors \n(APA 2013), affects as many as 1 in 58 children (Maen-\nner et al. 2020). Recent work has suggested that in addi-\ntion to these core features, youth with these disorders are \nat increased risk for various other forms of psychopathol-\nogy including anxiety and its disorders (Kent and Simonoff \n2017; Simonoff et al. 2008). Over the past 10–15 years, \nmuch work has examined the co-occurrence of anxiety with \nASD (Magiati et al. 2017; Kent and Simonoff 2017)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1418151855469,
+      404.89111328125,
+      517.6587524414062,
+      417.4751281738281
+    ],
+    "text": "Prevalence and Presentation of Anxiety in ASD"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1418151855469,
+      429.4951171875,
+      546.9050903320312,
+      669.5850830078125
+    ],
+    "text": "There is broad consensus that anxiety disorders are among \nthe most common comorbidities of ASD. Although preva-\nlence estimates vary, a recent book chapter reports figures \nof approximately 50% (Kent and Simonoff 2017). In many \ncases, anxiety disorders in youth with ASD present with \nsymptoms similar to those seen in typically developing \nyouth. However, some studies suggest specific considera-\ntions for children with ASD may be necessary. For example, \nchildren with ASD may experience more “atypical” anxi-\nety symptoms (Kerns and Kendall 2012), such as general \nanxiety surrounding disruption in daily routine or specific \nphobias of a baby crying or the texture of a dog’s fur. Fur-\nthermore, symptoms of anxiety disorders may be difficult to \nidentify in this population due to overlap with the symptoms \nof ASD (White et al. 2009a, b). Additionally, many families \nmay not seek treatment for anxiety disorders in their child \nwith ASD due to the belief that core deficits associated with \nASD may take precedence over the treatment of anxiety in \nthese youth (Mason and Scior 2004)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.38610076904297,
+      621.787841796875,
+      126.43560791015625,
+      644.6102905273438
+    ],
+    "text": "*\t Ashley Muskett \n\t\nmashley5@vt.edu"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      651.0595092773438,
+      253.2249755859375,
+      684.6693115234375
+    ],
+    "text": "1\t\nDepartment of Psychology, Virginia Tech Child Study \nCenter, Virginia Tech, Southwest, 460 Tuner St. NW, \nBlacksburg, VA 24060, USA"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      686.0910034179688,
+      257.2668151855469,
+      719.7008056640625
+    ],
+    "text": "2\t\nDepartment of Psychology (0436), Virginia Polytechnic \nInstitute and State University, 109 Williams Hall, 890 \nDrillfield Drive, Blacksburg, VA 24061, USA"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1016\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      56.17179870605469,
+      172.37338256835938,
+      68.75579833984375
+    ],
+    "text": "Specific Phobia (SP) in ASD"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023582458496094,
+      80.77580261230469,
+      291.8285827636719,
+      708.3657836914062
+    ],
+    "text": "SP is defined as excessive fear and avoidance related to \na specific object or situation. In the DSM-5 (APA 2013), \nSPs are categorized into five major subtypes: animal type, \nnatural environment type, blood-injection-injury type, sit-\nuational type, and other type (e.g., choking, loud noises, \ncostumed characters). Current reviews suggest that clini-\ncally significant phobias may be present in up to 20% of \ntypically developing youth and up to 30% of youth with \nASD, rendering SP the most common psychiatric comor-\nbidity associated with ASD (Oar et al. 2019; Van Steensel \net al. 2011). For many children, phobias result in consid-\nerable academic, social, and personal distress, as well as \ninterference in day-to-day functioning (Essau et al. 2000; \nOllendick et al. 2004). Moreover, they may lead to other \nanxiety, mood, and substance use disorders (Kendall et al. \n2004; Roberts et al. 2016). However, little is currently \nknown about the presentation of SP in ASD.\nIt has been suggested that increased rates of sensory \nprocessing difficulties, particularly sensory sensitivity, \nmay be related to the increased prevalence of SP in ASD \nvia classical conditioning processes (Amos et al. 2019; \nGreen and Ben-Sasson 2010; Muskett et al. 2019). For \nexample, if a child is particularly sensitive to loud noises, \nthe sound of a balloon popping or a baby crying may be \nmore aversive than it would be to a less sensitive child \nand thus be more likely to result in fear and an avoid-\nance response. This is supported by several studies on the \nrelationship of sensory processing to anxiety (Ben-Sasson \net al. 2008; Green et al. 2012). For instance, Ben-Sasson \net al. (2008) found that toddlers with ASD who demon-\nstrate high frequency of sensory symptoms (including \nover-responsivity) showed higher rates of anxiety than \nthose with low frequency of similar sensory symptoms.\nIn addition to sensory processing difficulties, other \ncore ASD characteristics are likely implicated in the \ndevelopment and maintenance of anxiety symptoms as \nwell. Restricted and repetitive behaviors manifesting as \nan insistence on sameness have also been proposed as a \nkey contributor to anxious symptoms in individuals with \nASD. Intolerance of uncertainty and insistence on same-\nness have both been associated with increased anxiety \namong individuals with ASD (Magiati et al. 2017). While \nthese factors are commonly associated with generalized \nanxiety, they may also bear relevance to the etiology of SP \nin youth with ASD. Where sensory processing difficulties \nmay contribute to the development of idiosyncratic SPs \n(Kerns et al. 2015), more common SPs may be caused in \npart by difficulty coping with the uncertainty associated \nwith the phobic stimulus. For example, an animal phobia \nmay be associated with a belief that the behavior of the"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1435852050781,
+      55.02579879760742,
+      546.9341430664062,
+      145.1157989501953
+    ],
+    "text": "animal cannot be predicted and that there is an exagger-\nated risk of the animal engaging in a harmful behavior; \nsimilarly, a situational phobia of darkness may be associ-\nated with uncertainty around what cannot be seen. Rigid \nthinking associated with these beliefs in youth with ASD \nmay render them much more difficult to change (Ollendick \nand White 2012)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      155.4217987060547,
+      413.9075622558594,
+      168.00579833984375
+    ],
+    "text": "Treating Anxiety in ASD"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      180.0258026123047,
+      546.9472045898438,
+      720.1157836914062
+    ],
+    "text": "While research on the underlying mechanism of anxiety dis-\norders and specific phobia in ASD remains ongoing, several \nstudies have examined the potential of various treatments for \nanxiety and SP in this population. For example, systematic \nreviews by Lang et al. (2010) and Vasa et al. (2014) sug-\ngest that Cognitive Behavior Therapy (CBT) is a generally \neffective treatment for anxiety in ASD. CBT is a form of \ntherapy that utilizes cognitive strategies as well as behavio-\nral techniques such as behavioral rehearsal, modeling, and \npositive reinforcement to decrease anxiety driven avoid-\nance behaviors. Cognitive techniques involve challenging \nmaladaptive cognitions (e.g., “if a bee comes near me it will \nsting me”) with more adaptive beliefs via opportunities for \nlearning (e.g., learning that a bee will likely fly away from \nyou if you move towards it; see Lang et al. 2010). One of \nthe most common cognitive behavioral therapies for anxi-\nety is exposure therapy, in which children are exposed to \nthe feared object or situation in order to decrease avoidance \nand provide opportunities for new learning to occur. Given \nthe support for CBT in these reviews, a recent review and \nmeta-analysis conducted by Ung et al. (2015) specifically \nexamined the efficacy of CBT for children and youth with \n“high-functioning” ASD. This meta-analysis included 14 \nstudies and over 500 youth with ASD. It was determined \nin this review that CBT showed considerable efficacy for \nchildren with “high-functioning” ASD.\nOverall, CBT interventions for youth with ASD have \nrequired a range of adaptations to protocols initially devel-\noped for typically developing youth. Many of these adapta-\ntions have their origins in the large body of literature on the \ndevelopment and refinement of strengths-based behavioral \napproaches for skill building in youth with ASD. Core prin-\nciples of applied behavior analysis (ABA) have been applied \nin dozens of iterations, but typically include such common \ncomponents as structured teaching, use of visual supports, \nand parent involvement (Vismara and Rogers 2010). More \nspecifically, in the treatment of specific phobias in youth \nwith ASD, Moree and Davis (2010) reported that adapta-\ntions to CBT for ASD have commonly included modified, \ndisorder-specific fear hierarchies, an increased reliance on \nconcrete visual cues, incorporation of specific interests, and \nsubstantial parent involvement. More recent work has sug-\ngested that CBT-based therapies for individuals with ASD"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1017\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02358627319336,
+      54.14585494995117,
+      291.804443359375,
+      556.73583984375
+    ],
+    "text": "might include a stronger emphasis on behavioral (rather than \ncognitive) components of treatment, and concurrent consid-\neration of social and adaptive challenges (White et al. 2018).\nGiven the support for CBT in treating anxiety in children \nwith ASD, it is important to consider which CBT treatments \nare available for the treatment of SP specifically and whether \nthey might be appropriate for youth with ASD. One such \npossible treatment is what is referred to as One-Session \nTreatment (OST; Davis et al. 2019; Öst 1989; Öst et al. \n2001). OST is a brief and intensive 3-h treatment utilizing \nboth behavioral and cognitive techniques to expose children \nto their feared object or situation. OST has been established \nas an evidence-based treatment for SP for typically develop-\ning children (Davis et al. 2019). There is also some prelimi-\nnary work on the efficacy of this treatment for youth with \nASD. For example, a case study conducted by Davis and \ncolleagues demonstrated support for OST in a child with \nASD and SPs of water and heights (Davis et al. 2007). Addi-\ntionally, OST is a potentially effective treatment for ASD for \nseveral reasons including the potential for quicker gains in \na massed-practice setting such as OST and the potential for \nin-depth parent involvement (see Ollendick and Ost (2001); \nOllendick et al. 2009, 2015).\nThe present non-concurrent multiple-baseline design \nstudy sought to examine the initial feasibility and efficacy \nof a version of OST that was modified for children with \nASD (for modifications see ‘Procedures’ below). OST was \nselected as the treatment of choice based on its demonstrated \nefficacy with typically developing youth (Ollendick et al. \n2009, 2015; Öst et al. 2001) as well as its foundations in \nCBT, which has been shown to be moderately effective for \nchildren with ASD, albeit with large individual differences \nin treatment response (Vasa et al. 2014). Additionally, due \nto its brief nature, it was reasoned that this treatment may \nbe especially good for families with ASD who are often \naddressing many different treatment concerns (Mason and \nScior 2004). It was hypothesized that the children in this \nstudy would demonstrate significantly less specific phobia \nsymptomology compared to baseline after completing the \ntreatment program."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02370071411133,
+      577.5078735351562,
+      93.095703125,
+      592.3758544921875
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02370071411133,
+      604.5418701171875,
+      106.22059631347656,
+      617.1258544921875
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02370071411133,
+      629.1458740234375,
+      291.6696472167969,
+      719.23583984375
+    ],
+    "text": "Participants included nine children and at least one parent \nper child. Inclusion criteria were as follows. The child (a) \nwas between 6 and 14 years of age, (b) had a reliable diagno-\nsis of ASD, (c) met DSM-5 criteria for Specific Phobia, and \n(d) demonstrated an IQ greater than 70. Exclusion criteria \nincluded the presence of severe comorbid psychopathology \nwarranting other or more immediate treatment (e.g., lower"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1336669921875,
+      54.14579391479492,
+      546.93359375,
+      306.73577880859375
+    ],
+    "text": "IQ, psychosis, or severe depression). These children were \nreferred elsewhere for treatment. All children included in the \nstudy (N = 9) had a diagnosis of ASD, were verbally fluent, \nand had an IQ of 70 or above. Of these nine participants, \n67% were White/Caucasian (n = 6), 22% were Black/Afri-\ncan-American (n = 2), and 11% were Asian/Pacific Islander \n(n = 1). All children were male. Mean annual family income \nwas $77,571 (range = $28,000–$225,000). All children met \ncriteria for ASD as well as SP. Of the nine children, two \nwere taking medication for additional psychiatric concerns \nincluding Attention Deficit Hyperactivity Disorder and sei-\nzures (n = 1) and anxiety (n = 1). All children, in addition \nto meeting criteria for ASD and at least one SP, also met \ncriteria for at least one additional comorbid psychiatric dis-\norder. The IQ of the children in the study ranged from 81 \nto 121 (M = 94.22; SD = 14.5). Comparison scores on the \nAutism Diagnostic Observation Schedule, Second Edition \n(see below, Lord et al. 2012) ranged from 1 to 10 (M = 6.5, \nSD = 2.98). The mean score of 6.5 suggests a moderate level \nof Autism symptoms compared to other children with ASD."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      317.04193115234375,
+      349.7237548828125,
+      329.62591552734375
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      341.6459045410156,
+      544.252197265625,
+      369.23590087890625
+    ],
+    "text": "See Table 1 for participant characteristics and scores on pre-\ntreatment measures."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      380.51593017578125,
+      496.8197021484375,
+      391.87591552734375
+    ],
+    "text": "Measures of Baseline Participant Characteristics"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      405.51593017578125,
+      546.7799072265625,
+      569.2359008789062
+    ],
+    "text": "Autism Diagnostic Observation Schedule, Second Edition \n(Lord et  al. 2012)  The Autism Diagnostic Observation \nSchedule (ADOS-2) was administered to all participants. \nThe ADOS-2 is considered a best-practice measure for \ndiagnosis of ASD, and large-scale studies have supported \nits reliability and validity (Gotham et al. 2008). Module 3 of \nthe ADOS-2, appropriate for children and adolescents with \nfluent speech, was used for all participants. The ADOS-2 \nwas administered in each case by advanced graduate clini-\ncians trained to research reliability in administration and \ncoding. The ADOS-2 yields a comparison score indicating \nhow characteristic a particular child’s presentation is of the \nsymptoms associated with ASD (range = 1–10)."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.14166259765625,
+      579.1459350585938,
+      546.776611328125,
+      719.2359008789062
+    ],
+    "text": "Short Sensory Profile (SSP; McIntosh et al. 1999)  The Short \nSensory Profile is a measure of a child’s responses to sen-\nsory stimuli in their environment. It is a 38-item, caregiver \nreport measure. This questionnaire provides information \non whether children experience several domains of sensory \nexperiences differently than typically developing children. \nDomains assessed include tactile sensitivity, visual/audi-\ntory sensitivity, low energy/weakness, and overall sensory \nexperience. The SSP yields a total score where lower scores \nindicate more sensory differences, with scores less than 141 \nbeing indicative of a definite difference in sensory process-"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1018\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      329.0528259277344,
+      291.66259765625,
+      419.142822265625
+    ],
+    "text": "ing compared to a typical sample. This measure is broadly \nused to assess sensory symptoms in youth with ASD and \noffers adequate psychometric properties (Lane et al. 2011). \nGiven the potential for sensory components of ASD to con-\ntribute to the development and maintenance of SP symp-\ntoms, the SSP was included as a means of further character-\nizing our sample."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      430.4228515625,
+      291.673583984375,
+      531.642822265625
+    ],
+    "text": "Wechsler Abbreviated Scale of Intelligence, Second Edition \n(WASI‑II; Wechsler 2011)  Two subscales of the WASI-II \nwere administered to all participants to ensure participants \nmet inclusion criteria with regard to cognitive functioning. \nScores on the two subtests (Vocabulary and Matrix Reason-\ning) were used to estimate a Full Scale IQ score (FSIQ). \nThe two-subtest version can be administered in 15 min and \noffers strong reliability and validity (Wechsler 2011)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      542.9228515625,
+      127.8825912475586,
+      554.2828369140625
+    ],
+    "text": "Outcome Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      567.9228515625,
+      291.6426086425781,
+      706.642822265625
+    ],
+    "text": "Anxiety Disorders Interview Schedule for  DSM‑5, Par‑\nent and  Child Versions (ADIS‑P/C; Silverman and  Albano \n1996)  The ADIS-C/P is a semi-structured diagnostic inter-\nview that assesses for the presence and severity of a range \nof disorders. Symptomatology is measured using a clinician \nseverity rating (CSR), a 9-point scale in which scores equal \nto or greater than four are indicative of clinical severity for \na given disorder. Previous explorations of the ADIS-P/C \nwithin ASD have indicated excellent inter-rater reliability, \nwith diagnostic agreement not differing as a function of \npresence or absence of ASD diagnosis (Ung et al. 2015)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      329.0528259277344,
+      546.8565673828125,
+      631.642822265625
+    ],
+    "text": "In the current study, the complete ADIS-P was adminis-\ntered to the primary caregiver of each participant at base-\nline, while only the specific phobia module of the ADIS-C \nwas administered to each child by a second clinician. At \npost-treatment and all follow-up appointments, the top three \nendorsed diagnoses were re-assessed using the ADIS-P, \nwhile the specific phobia module of the ADIS-C was re-\nadministered to all children. All study clinicians were bach-\nelor’s-level or master’s level graduate students trained to \nreliability. In order to meet criteria for reliability, clinicians \nwere required to co-code previously recorded ADIS adminis-\ntrations. Criteria specified three consecutive administrations \nwith no greater than one point difference on CSRs, with no \ndisagreement on clinical versus nonclinical CSRs (i.e., no \ndisagreements on CSRs of three or four). This interview \nwas administered and coded by a clinician who had been \ntrained and coded to a reliability of 80% or higher on three \nconsecutive ADIS-P-5s with a reliable clinician. Following \nassessment at each time point, consensus diagnoses were \nassigned on the basis of the independent ADIS-P and ADIS-\nC administrations; consensus meetings took place under the \nsupervision of a doctoral-level clinical psychologist. Pres-\nence of diagnosis (i.e., CSR ≥ 4) and improvement in CSRs \nover time were used as indicators of treatment effects."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      642.9228515625,
+      546.78662109375,
+      719.142822265625
+    ],
+    "text": "Behavioral Approach Task (BAT; Ollendick et  al. 2009; Öst \net  al. 2001)  A standardized Behavioral Approach Task \n(BAT) was completed by each participant at pre- and post-\ntreatment, as well as the 6-month follow-up. BATs involved \nasking each child to approach the object of their phobia \nin vivo (e.g., climb a ladder, sit in a room with no lights on,"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023597717285156,
+      55.435298919677734,
+      119.58460235595703,
+      78.25776672363281
+    ],
+    "text": "Table 1   Participant \ncharacteristics"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58309936523438,
+      216.2552490234375,
+      546.4205932617188,
+      239.0777130126953
+    ],
+    "text": "IQ was measures using the Weschler Abbreviated Scale of Intelligence-II (WASI-II), All participants were \nmale"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58309936523438,
+      239.08624267578125,
+      544.2521362304688,
+      261.9087219238281
+    ],
+    "text": "ADOS comparison scores 1–2 = “minimal-to-no evidence”, 3–4 = “low evidence”, 5–7 = “moderate evi-\ndence”, 8–10 = “high evidence”"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58309936523438,
+      261.917236328125,
+      546.3821411132812,
+      294.7357482910156
+    ],
+    "text": "ADIS-5-P anxiety disorders interview schedule 5th edition-parent version, CSR clinician severity rating, \nADOS autism diagnostic observation schedule, RBS-R Repetitive Behavior Scale-Revised, SSP short sen-\nsory profile"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58309936523438,
+      294.7442321777344,
+      358.67266845703125,
+      307.57073974609375
+    ],
+    "text": "*Indicates child did not return for 6-month follow-up"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58270263671875,
+      59.318843841552734,
+      390.8616943359375,
+      92.13728332519531
+    ],
+    "text": "ID\nAge\nIQ\nTreated phobia\nADIS-5-P SP \nCSR at Pre\nADIS-5-C \nSP CSR at \nPre"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.19268798828125,
+      59.310298919677734,
+      450.7696838378906,
+      92.12873840332031
+    ],
+    "text": "ADIS-5-P \nASD CSR at \nPre"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      460.85919189453125,
+      59.301753997802734,
+      502.7811584472656,
+      92.12019348144531
+    ],
+    "text": "ADOS \ncomparison \nscore"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      512.32666015625,
+      59.293209075927734,
+      543.7510986328125,
+      72.11970520019531
+    ],
+    "text": "SSP total"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.58267211914062,
+      98.01921844482422,
+      525.07666015625,
+      210.7209014892578
+    ],
+    "text": "1\n11\n81\nInsects-bees\n5\n6\n6\n10\n118\n2\n11\n121\nStorms\n6\n4\n4\n4\n145\n3*\n8\n93\nDark\n7\n7\n5\n1\n80\n4*\n11\n94\nDark\n6\n6\n6\n6\n130\n5\n9\n79\nChewing gum\n5\n5\n4\n3\n137\n6\n12\n83\nInsects\n6\n7\n6\n3\n105\n7\n9\n84\nHeights\n6\n6\n5\n7\n123\n9*\n10\n110\nInsects\n6\n6\n4\n9\n65\n11\n7\n103\nDark\n6\n6\n5\n9\n113"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1019\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      54.14585494995117,
+      291.6626281738281,
+      294.23583984375
+    ],
+    "text": "watch a confederate chew a piece of bubblegum); each task \nconsisted of a series of increasingly difficult steps. Stand-\nardized steps and scripts were available for common pho-\nbias (e.g., dark, insects), and were adapted as necessary for \natypical SPs (see examples in Table 2). Participants were \ninstructed to do their best, but that they could end the task \nat any point. BATs were conducted first with the participant \nalone, and then a second time when accompanied by their \nprimary caregiver. This second BAT with the parent is used \nto observe what the parent does to either help or impede \napproach behaviors to the phobic stimulus (Ollendick et al. \n2012). Caregivers were instructed that they should “feel free \nto help [participant] as much as they would like.” In most \ncases, this took the form of verbal encouragement by car-\negivers or even modeling behaviors to approach the stimu-\nlus. Number of steps for each BAT varied by phobia, and as \nsuch percentage of steps completed was used as a measure \nof BAT completion. Subjective Units of Distress (SUDs) \nwere also reported before and after completion of each task."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      305.515869140625,
+      203.6715850830078,
+      316.8758544921875
+    ],
+    "text": "Feasibility and Acceptability Measures"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.01359558105469,
+      330.515869140625,
+      291.65264892578125,
+      444.23583984375
+    ],
+    "text": "Parent and  Child Treatment Satisfaction (Ollendick et  al. \n2009)  Parents and children each completed a five-item \nmeasure of treatment satisfaction. Each item was rated on \na five-point scale (e.g., 1 = not at all helpful, 5 = very, very \nhelpful). Parents and children also rated fear, avoidance, and \ncoping for phobic objects as compared to peers. Perceived \ninterference, helpfulness of treatment, and willingness to \nrecommend treatment to children with similar problems \nwere also rated."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1416931152344,
+      55.33580017089844,
+      357.3357849121094,
+      67.9197998046875
+    ],
+    "text": "Procedures"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1416931152344,
+      79.93980407714844,
+      546.9136962890625,
+      482.52978515625
+    ],
+    "text": "Following Institutional Review Board (IRB) approval, par-\nticipants were recruited by contacting mental health profes-\nsionals and pediatricians in the area, posting flyers at local \nrestaurants and child friendly venues, emailing study infor-\nmation to special education directors, utilizing an existing \nAutism Research Registry, and presenting information about \nthe study at local parent trainings. Interested parents (N = 11) \ncompleted a brief phone screen with a research associate \n(about 15 min). Children who met eligibility criteria per the \nphone screen (N = 11) were scheduled for an initial assess-\nment. Families were offered $100 for completing the pre, \npost, and follow up assessments for a total of $300 for com-\npleting the study.\nInformed consent and assent were obtained during the \nfamily’s first visit to the clinic. A project consensus meet-\ning, led by a licensed clinical psychologist, was held fol-\nlowing the initial assessment to discuss findings from the \nAnxiety Disorders Interview Schedule for Children, Parent \nand Child Versions (Silverman and Albano 1996), establish \ninitial diagnoses, and determine further eligibility for par-\nticipation. Clinicians utilized all available data during this \nconsensus meeting including information from the ADIS-\n5-P/C, the ADOS-2, and SSP, as well as parent records of \nprior community testing if such information was available. \nAll children included in the study were determined during \nthis meeting to meet DSM-5 criteria for ASD and to have \nSP. After completion of initial assessments, one family opted \nnot to participate in the study and one family was referred \nout due to the presence of severe comorbid psychopathology \nresulting in a total of 9 participants in the treatment protocol.\nAfter completing the initial eligibility assessment, partici-\npants were randomized to one of three baseline conditions"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      497.4353332519531,
+      271.4617919921875,
+      510.2618408203125
+    ],
+    "text": "Table 2   Behavioral approach task steps for gum and bee phobias"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      514.4290161132812,
+      353.2325744628906,
+      527.2554931640625
+    ],
+    "text": "Step\nGum phobia\nBee phobia"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.032135009765625,
+      533.154541015625,
+      543.7677001953125,
+      555.97705078125
+    ],
+    "text": "Goal\nWalk into room and sit at table with confederate, watch confeder-\nate chewing gum for 30 s\nRemove jar containing a bee from larger container, hold jar for 20 s"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.040679931640625,
+      555.6285400390625,
+      541.0319213867188,
+      713.2780151367188
+    ],
+    "text": "Step 0\nDoes not open door\nDoes not open door\nStep 1\nOpens door, does not enter\nOpens door, does not enter\nStep 2\nSteps inside room\nSteps inside room\nStep 3\nInside room, five or more feet away from confederate\nInside room, five or more feet away from container\nStep 4\nApproaches table, does not sit\nStands arm’s length from container\nStep 5\nSits at table with ears covered and/or eyes averted for < 10 s\nTouches lid of container with one finger\nStep 6\nSits at table with ears covered and/or eyes averted for < 30 s\nGrabs lid in position to remove lid of large container, but does not \nlift lid\nStep 7\nSits at table with ears covered and/or eyes averted for 30 s\nGrabs lid of large container, lifts lid of container, but replaces \nwithin 10 s\nStep 8\nSits at table with ears uncovered, looking at confederate for < 10 s\nRemoves lid, but no attempt to lift jar\nStep 9\nSits at table with ears uncovered, looking at confederate for < 30 s\nRemoves lid, lifts jar, and holds it for < 20 s\nStep 10\nSits at table with ears uncovered, looking at confederate for 30 s\nRemoves lid, lifts jar, and holds for 20 s"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1020\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023590087890625,
+      54.14585494995117,
+      291.8175964355469,
+      531.73583984375
+    ],
+    "text": "(3, 4, or 5-week baseline periods). At each baseline ses-\nsion, both the parent and child provided a fear rating for \nthe child’s primary specific phobia (0 to 8 scale) and the \nchild completed the BAT. In order to maintain independence \nof baseline and follow-up assessments, no participant was \nassigned to be treated by the clinicians who conducted the \nassessments.\nThe treatment consisted of one visit to the clinic to com-\nplete the OST (for detailed description of the treatment \nsee Ollendick and Ost (2001); Ollendick et al. 2009, 2015), \nfollowed by four 1-h booster sessions completed at the clinic \nduring the 4 weeks immediately following treatment. In the \nunmodified, manual-based iteration of OST, booster ses-\nsions are not provided; rather four 15-min phone calls with \ncaregivers are provided to problem-solve at-home expo-\nsure practices conducted by families following treatment. \nGiven that children with ASD often demonstrate difficulty \ngeneralizing skills learned in treatment (White et al. 2018), \nOST procedures were modified to conduct longer in-person \nbooster sessions to help maintain the gains obtained from \nOST and to facilitate generalization of the skills learned dur-\ning treatment.\nThe 3-h treatment session was divided into three 1-h \nblocks. Although the pacing of exposure activities was \ntailored to each participant individually, the 1st h typi-\ncally consisted of psychoeducation (e.g., reading books or \ninformation sheets on phobic stimuli) and low-level expo-\nsure activities (e.g., looking at pictures or videos of feared \nobjects). The 2nd h of treatment often included initial in-\nvivo exposures in a controlled manner (e.g., bug in a jar, \ndog on a leash). Primary caregivers joined treatment at this \nphase. Participants were encouraged to complete additional \nexposure steps at their own pace, with positive reinforcement \nconsistently provided by both clinicians and caregivers. Pro-\ngress was marked and rewarded using a visual aid (described \nbelow). The final hour of the treatment typically consisted of \nexposure to the phobic stimulus in a more naturalistic setting \nin order to provide opportunities for generalization (e.g.,"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1435852050781,
+      54.14585494995117,
+      546.9283447265625,
+      369.23583984375
+    ],
+    "text": "feeding treats to a dog off-leash, going outdoors to search \nfor bugs, listening to sirens at a firehouse).\nDuring the 3-h session, several modifications were made \nto make the treatment more acceptable to children with \nASD. To provide a more concrete illustration of modifica-\ntion of exposure activities, sample procedures for a limited \nnumber of participants are outlined in Table 3. For example, \nthe parent was brought into the session during the 2nd h of \ntreatment and remained in the room for the entire 3rd h. \nThis is a departure from previous OST treatment protocols \nin which the parent is not in the room at all or is only in the \nroom for part of the 3rd h of treatment. Additionally, dur-\ning the 3-h treatment a visual schedule was used to support \nchildren in tracking their progress. The schedule consisted \nof an image of a road with a set number of stops; children \nprogressed along the road by completing various exposure \nsteps, earning a break at the end of each hour by reaching \nthe end of the road. Clinicians also asked children and their \nparents about any special interests their child might have \nand attempted to incorporate these interests into treatment. \nFamilies completed weekly practice logs with information \nabout their continued exposures completed at home. At the \nend of the four booster sessions families retuned to the clinic \nfor a post-treatment assessment session 1 week and 6 months \nfollowing treatment."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      379.54180908203125,
+      449.678466796875,
+      392.1258239746094
+    ],
+    "text": "Study Design and Data Analysis"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      404.14581298828125,
+      546.8203735351562,
+      544.23583984375
+    ],
+    "text": "The research design was a non-concurrent, multiple base-\nline, single-case design. This design was selected as single-\ncase designs are often more cost effective and time effec-\ntive than larger scale RCTs and hence, are often preferable \nfor determining feasibility early in a treatment’s develop-\nment (Horner et al. 2005; Morgan 2009). Additionally, a \nnon-concurrent design was selected in order to most closely \nre-create the conditions likely to be encountered in a com-\nmunity clinic in which children present in a sequential order \nat various times of year and in the midst of various commu-\nnity events. Given the small sample size, the pre, post, and"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      559.4353637695312,
+      244.0672149658203,
+      572.2618408203125
+    ],
+    "text": "Table 3   Modification and tailoring of treatment example"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      576.4290161132812,
+      439.0231018066406,
+      589.2554931640625
+    ],
+    "text": "Participant\nPhobia\nParental involvement\nVisual supports\nInterests"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.0406494140625,
+      595.154541015625,
+      545.2560424804688,
+      712.9559936523438
+    ],
+    "text": "4\nDark/alone\nParent in room for 2nd and 3rd h of \ntreatment\nVisual support with flashlight icon\nSuperheroes—pretended to be fighting \ncrime at night in the dark\n7\nHeights\nParent in room for 2nd and 3rd h of \ntreatment\nVisual support with airplane icon\nSports—pretended to be climbing \nthe stairs to get to seats at a football \ngame, during booster sessions visited \nLane Stadium on the Virginia Tech \ncampus and climbed to the stop\n11\nDark/alone\nParent in room for 2nd and 3rd h of \ntreatment\nVisual support with flashlight icon\nMonsters/scary movies—talked about \nthe difference between real and make \nbelieve, pretended to be filming a \nmovie"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1021\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.77764892578125,
+      131.73585510253906
+    ],
+    "text": "follow-up data were analyzed using non-parametric Frei-\ndman tests followed by post hoc Wilcoxon tests to examine \nchanges from pre to post treatment, and post treatment to \nfollow-up. Additionally, the Reliable Change Index (Jacob-\nson and Truax 1991) was calculated to determine whether \nthere were clinically significant reductions in ADIS scores."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      53.97581100463867,
+      344.7096862792969,
+      68.84381103515625
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      81.00981140136719,
+      471.9656982421875,
+      93.59381103515625
+    ],
+    "text": "Treatment Adherence and Retention"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      105.61381530761719,
+      546.875732421875,
+      183.2038116455078
+    ],
+    "text": "All nine families completed treatment and the post-treat-\nment assessment 1 week after the last booster session. \nSix of the nine families completed the 6-month follow-up \nassessment. Two families did not respond to the clinic after \nthree attempts were made to contact them for the 6-month \nfollow-up and one family indicated it was impossible to get"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.023597717285156,
+      214.57904052734375,
+      159.24563598632812,
+      297.3774108886719
+    ],
+    "text": "Fig. 1   Changes in parent \nreport of child SP fear levels. \nParent rating of child SP fear \nduring pre-treatment baseline \nphase (3, 4, or 5 weeks) and at \npost-treatment and follow-up \nassessments. Range of possible \nfear ratings was 0–8"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      185.845703125,
+      215.2294158935547,
+      190.59130859375,
+      306.8575134277344
+    ],
+    "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      490.4656066894531,
+      241.0458221435547,
+      538.6998901367188,
+      253.5172576904297
+    ],
+    "text": "Participant 1"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      490.4656066894531,
+      256.1844787597656,
+      538.6998901367188,
+      268.6559143066406
+    ],
+    "text": "Participant 6"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      490.4656066894531,
+      271.3704833984375,
+      538.6998901367188,
+      283.8419189453125
+    ],
+    "text": "Participant 7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      490.4656066894531,
+      286.5086669921875,
+      543.4550170898438,
+      298.9801025390625
+    ],
+    "text": "Participant 11"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.6522979736328,
+      386.0707702636719,
+      191.3979034423828,
+      476.8446044921875
+    ],
+    "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      496.0176086425781,
+      411.128173828125,
+      544.2523803710938,
+      423.599609375
+    ],
+    "text": "Participant 2"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      496.0176086425781,
+      426.26617431640625,
+      544.2523803710938,
+      438.73760986328125
+    ],
+    "text": "Participant 4"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      496.0176086425781,
+      441.4521789550781,
+      544.2523803710938,
+      453.9236145019531
+    ],
+    "text": "Participant 5"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      186.8896026611328,
+      554.539794921875,
+      191.6352081298828,
+      646.357666015625
+    ],
+    "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      494.4516906738281,
+      580.5932006835938,
+      542.6859741210938,
+      593.0646362304688
+    ],
+    "text": "Participant 3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      494.4516906738281,
+      595.731201171875,
+      542.6859741210938,
+      608.20263671875
+    ],
+    "text": "Participant 9"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1022\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.8257751464844,
+      156.73585510253906
+    ],
+    "text": "their child to leave the house due to (non-phobia related) \nincreased psychopathology. Although these three partici-\npants were not responsive or not able to come in for the \nfollow-up session that took place 6 months after treatment, \nthese three families (Participants 3, 4, and 9) did complete \nthe post-treatment assessment the week following treat-\nment and reported improvement in their child’s phobia \nsymptoms at that time (See Fig. 1)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      167.04185485839844,
+      216.39430236816406,
+      179.6258544921875
+    ],
+    "text": "Changes in Phobia Severity (Table 4)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.01543426513672,
+      204.14585876464844,
+      291.6626281738281,
+      344.23583984375
+    ],
+    "text": "Friedman tests were conducted to examine changes in the \nCSRs assigned from the ADIS-P at pre, post, and follow-up \nassessments. Results of Friedman tests demonstrated \nsignificant and a large effect size reduction in symptoms \non the ADIS-P overall (χ2(2) = 10.38, p = .006, W = 0.58). \nCSR means changed from 5.89 at pre-treatment, to 2.33 at \npost-treatment, and 2.17 at follow-up. Using a Bonferroni \ncorrected p-value of 0.017, post-hoc Signed Rank Wilcoxon \ntests found significant reductions in phobia severity from pre \nto post (Z = − 2.69, p = .007), but not from post to follow-up \n(Z = − 0.54, p = .590)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.015411376953125,
+      354.1458435058594,
+      291.8105773925781,
+      531.73583984375
+    ],
+    "text": "Reliable Change Index (RCI) scores were also calculated \nfor Specific Phobia CSR scores on the ADIS-P to meas-\nure clinically significant changes from pre to post, and pre \nto 6-month follow-up. Analyses showed that six (67%) of \nthe nine children exceeded the clinical cutoff (> 1.96) for \nchange in specific phobia scores from pre to post and that six \n(67%) of the nine children were in the non-clinical range at \npost-assessment (CSR < 4). For the pre to 6-month follow-\nup, four (67%) of the six children who completed follow-up \nassessment exceeded the clinical cutoff (> 1.96) for change \nbetween their pre and 6-month CSR scores, and four (67%) \nof the six children who completed the 6-month follow-up \nfell in the non-clinical range at post-assessment (CSR < 4) \nas well."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1333923339844,
+      54.14585494995117,
+      546.9254150390625,
+      356.73583984375
+    ],
+    "text": "Friedman tests were also conducted to examine changes \nin the CSRs assigned by clinicians on the ADIS-C at pre, \npost, and follow-up assessments. Results of Friedman tests \ndemonstrated significant reduction in symptoms on the \nADIS-C overall with a large effect size (χ2(2) = 9.29, p < .01, \nW = 0.53). CSR means changed from 5.67 at pre, to 2.50 at \npost-treatment, and 3.17 at follow-up. Using a Bonferroni \ncorrected p-value of 0.017, post-hoc Signed Rank Wilcoxon \ntests found significant reductions in phobia severity from pre \nto post (Z = − 2.54, p = .011), but not from post-treatment to \nfollow-up (Z = − 1.34, p = .180).\nReliable Change Index (RCI) scores were also calculated \nfor Specific Phobia CSR scores on the ADIS-C to measure \nclinically significant changes from pre to post, and pre to \n6-month follow-up. Analyses showed that seven (78%) of the \nnine children exceeded the clinical cutoff (> 1.96) for change \nin specific phobia scores from pre to post and that seven \n(78%) of the nine children were in the non-clinical range at \npost-assessment (CSR < 4). For the pre to 6-month follow-\nup, three (50%) of the six children who completed follow-up \nassessment exceeded the clinical cutoff (> 1.96) for change \nbetween their pre and 6-month CSR scores, with four (67%) \nof the six children who completed the 6-month follow-up in \nthe non-clinical range at post-assessment (CSR < 4)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1416931152344,
+      367.04180908203125,
+      511.9483947753906,
+      379.6258239746094
+    ],
+    "text": "Changes in Avoidance Behavior (BAT; Table 4)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.0816650390625,
+      391.64581298828125,
+      546.8939208984375,
+      544.23583984375
+    ],
+    "text": "Children completed the BAT alone and with their parents \nat pre, post, and follow-up sessions. The percentage of BAT \nsteps completed was calculated for each baseline session, \nas well as for the post and follow-up sessions. In order to \nstatistically examine changes from pre-treatment to post and \nfollow-up, per cent of steps completed during the first base-\nline session was used. Signed Rank Wilcoxon tests were \nused to compare the percentage of BAT steps completed by \nthe child alone vs. with parent at pre, post, and follow-up. At \npre (Z = − 1.22, p = .223), post (Z = − 0.82, p = .414), and \nfollow-up (Z = − 1.41, p = .157), there were no significant \ndifferences between the percentages of BAT steps completed"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.023597717285156,
+      577.3959350585938,
+      154.84262084960938,
+      620.21044921875
+    ],
+    "text": "Table 4   Means, standard \ndeviations, and main effects \nof time for treatment outcome \nmeasures"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.58309936523438,
+      679.2089233398438,
+      439.5406799316406,
+      692.035400390625
+    ],
+    "text": "Effect size: > 0.10 = small effect; > 0.30 = medium effect; > 0.50 = large effect"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.58309936523438,
+      692.0439453125,
+      381.6480407714844,
+      704.8704223632812
+    ],
+    "text": "CSR clinician severity rating, BAT behavioral approach task"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.58270263671875,
+      580.4879760742188,
+      540.0040283203125,
+      604.101806640625
+    ],
+    "text": "Measure\nPre\nM(SD)/%\nPost\nM(SD)/%\nFollow-up\nM(SD)/%\np\n(χ2)\nEffect size (W)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.51611328125,
+      610.0007934570312,
+      503.51361083984375,
+      672.790283203125
+    ],
+    "text": "Parent CSR\n5.89 (0.60)\n2.33 (2.06)\n2.17 (1.83)\n.006\n10.38\n0.58\nChild CSR\n5.67 (1.03)\n2.5 (1.87)\n3.17 (1.60)\n.010\n9.29\n0.53\nBAT % complete alone\n60%\n74%\n85%\n.838\n.353 0.03\nBAT % complete with parent\n78%\n80%\n88%\n.305\n2.00\n0.11\nParent fear rating\n6.98 (.951)\n3.22 (2.49)\n3.22 (1.92)\n.019\n7.90\n0.45"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1023\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      50.98408508300781,
+      54.14585494995117,
+      291.8056335449219,
+      406.7358093261719
+    ],
+    "text": "alone vs. with a parent, although in general more steps were \ncompleted in the parent present condition. Friedman tests \nwere conducted to examine changes in the percentage of \nsteps completed alone at the pre (M = .60 [60%], SD = .37), \npost (M = .74 [74%], SD = .33), and follow-up (M = .85 \n[85%], SD = .27) assessments. Although improvements were \nnoted, results of Friedman tests demonstrated no significant \nreduction in avoidance between pre-treatment assessment to \nfollow-up (χ2(2) = .353, p = .838). Because the overall analy-\nsis was not significant, post-hoc tests were not conducted \nto examine changes from pre to post and post to follow-up. \nStill, it was evident that 5 of the 9 participants (55.55%) \ncompleted 70% or more of the steps at post-treatment, and \nat follow-up.\nFriedman tests were also conducted to examine changes \nin the percentage of steps completed with a parent at the pre \n(M = .80 [80%], SD = .26), post (M = .83 [83%], SD = .25), \nand follow-up (M = .88 [88%], SD = .24) assessments. \nResults of Friedman tests demonstrated no significant \nreduction in avoidance with a parent present between pre-\ntreatment assessment to follow-up (χ2(2) = 2.00, p = .368). \nBecause the overall analysis was not significant, post-hoc \ntests were not conducted to examine changes from pre to \npost and post to follow-up. With parent present, seven of \nthe nine participants (77.77%) completed 70% or more of \nthe steps at post-treatment and five of the six participants \n(83.33%) that remained at follow-up were able to complete \n70% or more of steps at follow-up."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      417.04180908203125,
+      260.29534912109375,
+      442.121826171875
+    ],
+    "text": "Changes in Parent Report of Fear (Parent Fear \nRatings; Fig. 1; Table 4)"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.01507568359375,
+      454.14581298828125,
+      291.80145263671875,
+      606.73583984375
+    ],
+    "text": "Friedman tests were conducted to examine changes in the \nparent ratings of their child’s fear on a scale of 0–8 at pre, \npost, and follow-up assessments. Parent fear ratings across \nbaseline sessions were averaged to create a pre-treatment \nparent fear rating for the purpose of statistical analyses. \nResults of Friedman tests demonstrated significant reduc-\ntion in parent fear ratings overall (χ2(2) = 7.90, p = .019). \nParent fear rating means changed from 6.98 at pre, to 3.22 \nat post-treatment, and 3.33 at follow-up. Post-hoc Signed \nRank Wilcoxon tests found significant reductions in parent \nfear ratings from pre to post (Z = − 2.67, p = .008), but not \nfrom post to follow-up (Z = − .14, p = .891)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      617.0418701171875,
+      140.5625,
+      629.6258544921875
+    ],
+    "text": "Satisfaction Results"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.01359558105469,
+      641.6458740234375,
+      291.6875,
+      719.23583984375
+    ],
+    "text": "Parents generally reported a high level of satisfaction with \ntheir child’s improvement following treatment. At 1-week \npost-treatment, on average, parents reported that their child \nwas only “a little bit fearful” (M = 2.33, SD = 1), and “a little \nbit avoidant” (M = 2.33, SD = .707) compared to same-age \npeers. Five of nine families (55%) also indicated they would"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1435546875,
+      54.14579391479492,
+      546.923095703125,
+      231.7357940673828
+    ],
+    "text": "agree with the statement that their child is now better able to \ncope with his fear or phobia. Two families (22%) indicated \nthat they strongly agreed with this statement, and one family \n(11%) indicated that they felt neutral about this statement. \nOverall, families indicated that after treatment their child’s \nfear interferes with their life only “a little bit” (M = 1.78, \nSD = .667). Seven of the nine families (78%) indicated that \nthey strongly agreed with the statement that treatment was \nhelpful for their child, while two families (22%) indicated \nthat they agreed with this statement. Finally, eight of the \nnine families (88%) indicated that they strongly agreed with \nthe statement that they would recommend a treatment like \nthis to a family with a similar problem (the other family \nindicated that they agreed with this statement)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1416931152344,
+      252.5078582763672,
+      363.105712890625,
+      267.3758544921875
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1416931152344,
+      279.14581298828125,
+      546.9625854492188,
+      719.23583984375
+    ],
+    "text": "In this study, we evaluated the feasibility and acceptabil-\nity, as well as the initial efficacy, of a modified brief and \nintensive treatment for nine children with a SP who also \nhad a diagnosis of ASD. Consistent with recent trends in \npsychotherapy research, we sought to determine if a brief \nand intensive treatment would be effective for youth with \nASD, as they have been shown to be with typically devel-\noping youth (Davis et al. 2019). In general, these brief and \nintensive treatment approaches have modified more tradi-\ntional or conventional CBT approaches by reducing either \nthe number of sessions or the time period over which the \nsessions are delivered (see Öst and Ollendick 2017). Here, \nthe initial treatment was delivered in one 3-h session as is \ndone with typically developing children. However, we made \nseveral modifications in the delivery of the treatment and \nwe followed the 1-session treatment with four 1-h booster \nsessions delivered for 4 weeks immediately following treat-\nment. During the one 3-h session and the four 1-h booster \nsessions, modifications were made to make the treatment \nmore accessible to, and potentially effective for, children \nwith ASD. More specifically, the parent was brought into \nthe session during the 2nd h of treatment and remained in \nthe room for the entire second and 3rd h, as well as during \neach of the four booster sessions. Additionally, during the \n3-h treatment session and the booster sessions, a visual token \nboard was used so that children could visually track their \nprogress each hour. We also determined any special inter-\nests the child might have and attempted to incorporate those \ninterests into treatment. We added these features following \nthe recommendations of Davis et al. (2007,2019) and our \nclinical experience in working with youth who have ASD \nand a SP. More specifically, we perceived the need to sup-\nplement the one 3-h session with additional booster sessions \nto secure greater maintenance effects following treatment. \nWe hypothesized that these modifications would not only be"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1024\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.8246765136719,
+      719.23583984375
+    ],
+    "text": "feasible but that they would also result in high levels of treat-\nment satisfaction, that the children would exhibit significant \nchanges in the severity of their phobias and their behavioral \navoidance of the feared stimuli following treatment, and that \nparental fear ratings of their children would also decrease.\nOverall, our study provides initial support for the efficacy \nof this brief and intensive treatment for SPs in youth who \nhave ASD. Results demonstrated improvements in parent \nreport of their children’s fears as well as reductions in the \nclinical severity of the children’s phobias as determined by \nindependent clinicians. Although gains were limited for \nsome children (see Table 4 and Fig. 1), significant reductions \nin clinical severity on the ADIS-P and ADIS-C were evident. \nOn the parent interview, CSR means changed from 5.89 at \npre-treatment to 2.33 at post-treatment and 2.17 at follow-up, \nboth of the latter ratings were below the diagnostic thresh-\nold of < 4.0 and, importantly, the gains at post-treatment \nwere maintained at 6-month follow-up. Of special note, 6 \nof the 9 children (67%) were below this clinical threshold \nat the post-treatment assessment; moreover, reliable change \nindices were also observed for 67% at both post-treatment \nand 6-month follow-up. Thus, significant clinical changes \nwere noted. Similar gains were noted on the ADIS-C with \nreductions in CSRs from 5.67 to 2.50 at post-treatment. At \n6-month follow-up, a slight increase to 3.17 was noted; how-\never, both of the latter ratings were below the diagnostic \nthreshold of < 4.0. Importantly, the gains at post-treatment \nwere maintained at 6-month follow-up.\nAs noted above, all nine families completed treatment \nand the 1-week post-treatment assessment. Although three \nof the nine families did not complete the 6-month follow-\nup assessment, there were no differences observed between \nthe families who did and who did not return for the follow-\nup assessment. All nine children showed similar changes at \npost-treatment and children who completed follow-up did \nnot differ from children who did not complete follow-up on \npre-treatment assessment variables (See Table 1, Partici-\npants 3, 4, and 9). Furthermore, parents generally reported \na high level of satisfaction with treatment, that their children \nwere now better able to cope with their previously feared \nphobic stimuli, and that their children’s fear only interfered \nminimally with their and their families’ lives following treat-\nment. They also indicated that treatment was not only help-\nful for their children but that they would recommend this \ntreatment to a family with similar problems. Thus, the treat-\nment was not only feasible to implement but it also resulted \nin high levels of treatment satisfaction. Interestingly, none \nof the parents provided any negative feedback regarding the \ntreatment.\nThese positive findings were shown in our non-concur-\nrent multiple baseline design. Importantly, we were able to \nshow relatively stable baseline measures of parental fear rat-\nings across the 3, 4, and 5-week baseline sessions prior to"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1535949707031,
+      54.14585494995117,
+      546.9589233398438,
+      719.23583984375
+    ],
+    "text": "treatment, allowing for greater confidence in establishing \na relationship between our treatment and behavior change \n(Kazdin 1998; Watson and Workman 1981). Moreover, as \nHawkins et al. (2007) note, in order for a multiple base-\nline study to demonstrate methodological rigor, it must (1) \nshow a change in the targeted behavior (i.e., fear levels and \nbehavioral avoidance), (2) demonstrate that the change is \nlikely due to the intervention, and (3) indicate that clinically \nsignificant and practical changes were evident. The current \nstudy clearly meets two of these criteria by showing clini-\ncally significant changes in both the clinician-determined \nclinical severity of the phobia and parent ratings of fear \nlevels for their children following intervention. Although \nsignificant reductions in behavioral avoidance on the BAT \nwere not observed, positive trends were nonetheless present. \nMore specifically, following treatment, 55.55% (5 of 9) of \nthe youth were able to complete over 70% of the steps in \nthe alone condition and 77.77% (7 of 9) were able to com-\nplete over 70% of the steps in the parent condition. These \npercentages indicate considerable reductions, albeit non-\nsignificantly, in behavioral avoidance. Quite obviously, it \nwill be important to explore the efficacy of this treatment in \na randomized control trial as well as determine the children \nand families for whom this treatment will be most effec-\ntive. It will also be important to determine whether all of \nthe modifications made in this study are necessary through \na dismantling approach while also exploring mediators of \nchange. Most important will be to explore whether the four \n1-h booster sessions are critical or if our standard 10–15 min \ncheck in would be sufficient as it has been shown to be with \ntypically developing youth and their families. Still, despite \nthe need for continued research, the brief intervention as \ndelivered in this study appears promising.\nFinally, it may be important to note the discrepancy \nbetween the presentation of the phobias in this study and \nKerns and Kendall’s (2012) suggestion that children with \nASD tend to experience more “atypical” fears. In this sam-\nple, one child presented with what might be considered an \n“atypical” fear of chewing gum; however, the other phobias \nwere comparable to what might be seen in typically develop-\ning children (e.g., insects, the dark, storms, and heights). A \nlarger study is needed to determine if this finding is a result \nof a small sample size or if, in fact, children with ASD expe-\nrience fears not so discrepant from those of their typically \ndeveloping peers.\nFrom a clinical perspective, the children and their par-\nents’ responses to our brief and intensive treatment sug-\ngest that the treatment might be an effective and practical \nalternative to more extended and weekly interventions for \nsuch problems. Compared to more traditional treatments, \nthis approach allows the participants more flexibility in the \ntiming and the delivery of the treatment. In addition, this \nmodified treatment seems more suitable to families from"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1025\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02357482910156,
+      54.14585494995117,
+      291.8255310058594,
+      681.73583984375
+    ],
+    "text": "rural areas and for families in which barriers to treatment \nsuch as transportation, childcare, or finances may be present. \nThis treatment does require greater parental participation, \nwhich some studies suggest results in greater improvement \nin child anxiety for children with ASD than child-alone treat-\nments (Davis et al. 2007; Wood et al. 2006). In addition, \nthis relatively brief treatment might be used as a first line \ntreatment to target specific phobias before recommending \nmore extensive clinic-based treatments. Using a stepped care \napproach, this intervention can be “stepped up” if signifi-\ncant changes are not documented (Ollendick et al. 2018a, b). \nGiven the stability of effects from post-treatment to follow-\nup, improvements can be monitored over a period of time \nbefore deciding to seek further treatments.\nThese generally positive findings must be viewed within \ncertain study limitations. First off, as with all single case \ndesign studies, we are unable to rule out the potential for \nresponse bias in the reporting of our parents or the children. \nParents and children knew they were receiving a treatment \nthat had been shown to be effective for typically developing \nchildren and it is possible that some degree of social desir-\nability in reporting to us may have been present. This pos-\nsibility might also account for the fact that no families pro-\nvided us negative feedback regarding the treatment and its \nimplementation. Second, it is also possible that our assessors \nmay have been biased in their ratings of improvement fol-\nlowing treatment. We were careful however to review their \nratings in our clinical consensus meetings. Moreover, none \nof the assessors completed treatment on the youth and fami-\nlies they assessed. Still, they were not blind to the purposes \nof the study. Finally, there may be limitations associated \nwith our clinical sample of ASD youth and their respec-\ntive phobias. All of the youth were boys, were verbal, and \npossessed IQs above 80; moreover, the majority were from \nmiddle or upper-middle class families, and, for the most \npart, had specific phobias that were not unlike those of typi-\ncally developing youth. Accordingly, it will be important to \nexamine the feasibility, acceptability, and efficacy of this \nadapted procedure with youth and families differing in these \ncharacteristics.\nIn sum, within the limitations noted, this study illustrates \nthe potential efficacy of this modified one-session treatment \nfor youth with SP and comorbid ASD. Once again, however, \nrandomized controlled trials are needed to test the relative \neffectiveness of this modified approach to the more standard \napproach and to determine the relative effectiveness of both \napproaches with youth who have ASD. Nevertheless, this \npilot study provides preliminary evidence for the feasibility, \nacceptability and effectiveness of this brief and intensive \ntreatment with youth who have ASD."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      690.6527099609375,
+      291.26080322265625,
+      713.4752197265625
+    ],
+    "text": "Acknowledgments  We gratefully acknowledge funding from the \nVirginia Tech Center for Autism Research Seed Grant and the"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1426086425781,
+      54.682735443115234,
+      546.3585205078125,
+      87.50117492675781
+    ],
+    "text": "Organization for Autism Research, “Modification of One-Session \nPhobia Treatment for Children with Autism Spectrum Disorder,” to \nT. H. Ollendick (PI)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1426086425781,
+      97.14867401123047,
+      546.5176391601562,
+      149.9590606689453
+    ],
+    "text": "Author Contributions  T.O. conceived of the presented idea, was the \nprincipal investigator for the project, and wrote the discussion section. \nA.M., S.R., and I.S. all collected data for the project, assisted with \ndata analysis, wrote a portion of the final manuscript, and edited the \nfinal manuscript."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      174.41685485839844,
+      364.9897155761719,
+      189.28485107421875
+    ],
+    "text": "References"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1163330078125,
+      200.08935546875,
+      546.5382080078125,
+      702.7197265625
+    ],
+    "text": "American Psychiatric Association. (2013). Diagnostic and statistical \nmanual of mental disorders (DSM-5®). Arlington: American Psy-\nchiatric Association.\nAmos, G. A., Byrne, G., Chouinard, P. A., & Godber, T. (2019). Autism \ntraits, sensory over-responsivity, anxiety, and stress: A test of \nexplanatory models. Journal of Autism and Developmental Disor-\nders, 49(1), 98–112. https​://doi.org/10.1007/s1080​3-018-3695-6.\nBen-Sasson, A., Cermak, S. A., Orsmond, G. I., Tager-Flusberg, H., \nKadlec, M. B., & Carter, A. S. (2008). Sensory clusters of tod-\ndlers with autism spectrum disorders: Differences in affective \nsymptoms. Journal of Child Psychology and Psychiatry, 49(8), \n817–825. https​://doi.org/10.1111/j.1469-7610.2008.01899​.x.\nDavis, T. E., III, Kurtz, P. F., Gardner, A. W., & Carman, N. B. (2007). \nCognitive-behavioral treatment for specific phobias with a child \ndemonstrating severe problem behavior and developmental delays. \nResearch in Developmental Disabilities, 28(6), 546–558. https​://\ndoi.org/10.1016/j.ridd.2006.07.003.\nDavis, T. E., III, Ollendick, T. H., & Öst, L. G. (2019). One-session \ntreatment of specific phobias in children: Recent developments \nand a systematic review. Annual Review of Clinical Psychology, \n15, 233–256. https​://doi.org/10.1146/annur​ev-clinp​sy-05071​\n8-09560​8.\nEssau, C. A., Conradt, J., & Petermann, F. (2000). Frequency, comor-\nbidity, and psychosocial impairment of specific phobia in adoles-\ncents. Journal of Clinical Child Psychology, 29(2), 221–231. https​\n://doi.org/10.1207/S1537​4424j​ccp29​02_8.\nGreen, S. A., & Ben-Sasson, A. (2010). Anxiety disorders and sensory \nover-responsivity in children with autism spectrum disorders: Is \nthere a causal relationship? Journal of Autism and Developmen-\ntal Disorders, 40(12), 1495–1504. https​://doi.org/10.1007/s1080​\n3-010-1007-x.\nGotham, K., Risi, S., Dawson, G., Tager-Flusberg, H., Joseph, R., \nCarter, A., ... & Sigman, M. (2008). A replication of the Autism \nDiagnostic Observation Schedule (ADOS) revised algorithms. \nJournal of the American Academy of Child & Adolescent Psy-\nchiatry, 47(6), 642–651\nGreen, S. A., Ben-Sasson, A., Soto, T. W., & Carter, A. S. (2012). \nAnxiety and sensory over-responsivity in toddlers with autism \nspectrum disorders: Bidirectional effects across time. Journal of \nAutism and Developmental Disorders, 42(6), 1112–1119. https​://\ndoi.org/10.1007/s1080​3-011-1361-3.\nHawkins, N. G., Sanson-Fisher, R. W., Shakeshaft, A., D’Este, C., \n& Green, L. W. (2007). The multiple baseline design for evalu-\nating population based research. American Journal of Preven-\ntive Medicine, 33(2), 162–168. https​://doi.org/10.1016/j.amepr​\ne.2007.03.020.\nHorner, R. H., Carr, E. G., Halle, J., McGee, G., Odom, S., & Wolery, \nM. (2005). The use of single-subject research to identify evidence-\nbased practice in special education. Exceptional Children, 71(2), \n165–179. https​://doi.org/10.1177/00144​02905​07100​203."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.253662109375,
+      41.33612060546875
+    ],
+    "text": "1026\n\t\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      54.687313079833984,
+      291.4087219238281,
+      707.25732421875
+    ],
+    "text": "Jacobson, N. S., & Truax, P. (1991). Clinical significance: A statisti-\ncal approach to defining meaningful changes in psychotherapy \nresearch. Journal of Consulting and Clinical Psychology, 59(1), \n12–19. https​://doi.org/10.1037/10109​-042.\nKazdin, A. E. (1998). Research design in clinical psychology (3rd ed.). \nNeedham Heights, MA: Allyn & Bacon.\nKendall, P. C., Safford, S., Flannery-Schroeder, E., & Webb, A. (2004). \nChild anxiety treatment: Outcomes in adolescence and impact on \nsubstance use and depression at 7.4-year follow-up. Journal of \nConsulting and Clinical Psychology, 72(2), 276–287. https​://doi.\norg/10.1037/0022-006X.72.2.276.\nKent, R., & Simonoff, E. (2017). Prevalence of anxiety in autism spec-\ntrum disorders. In C. M. Kerns, P. Renno, E. A. Storch, P. C. \nKendall, & J. Jeffrey (Eds.), Anxiety in children and adolescents \nwith autism spectrum disorder: Evidence-based assessment and \ntreatment. Boston: Academic Press.\nKerns, C. M., & Kendall, P. C. (2012). The presentation and classifica-\ntion of anxiety in autism spectrum disorder. Clinical Psychology: \nScience and Practice, 19(4), 323–347.\nKerns, C. M., Kendall, P. C., Zickgraf, H., Franklin, M. E., Miller, J., \n& Herrington, J. (2015). Not to be overshadowed or overlooked: \nFunctional impairments associated with comorbid anxiety disor-\nders in youth with ASD. Behavior Therapy, 46(1), 29–39. https​://\ndoi.org/10.1016/j.beth.2014.03.005.\nLane, A. E., Dennis, S. J., & Geraghty, M. E. (2011). Brief report: \nfurther evidence of sensory subtypes in autism. Journal of \nAutism and Developmental Disorders, 41(6), 826–831.\nLang, R., Regester, A., Lauderdale, S., Ashbaugh, K., & Haring, \nA. (2010). Treatment of anxiety in autism spectrum disor-\nders using cognitive behaviour therapy: A systematic review. \nDevelopmental Neurorehabilitation, 13(1), 53–63. https​://doi.\norg/10.3109/17518​42090​32362​88.\nLord, C., Rutter, M., DiLavore, P., Risi, S., Gotham, K., & Bishop, \nS. (2012). Autism diagnostic observation schedule–2nd edition \n(ADOS-2). Los Angeles: Western Psychological Corporation.\nMaenner, M. J., Shaw, K. A., & Baio, J. (2020). Prevalence of autism \nspectrum disorder among children aged 8 years—autism and \ndevelopmental disabilities monitoring network, 11 sites, United \nStates, 2016. MMWR Surveillance Summaries, 69(4), 1.\nMagiati, I., Ozsivadjian, A., & Kerns, C. M. (2017). Phenomenology \nand presentation of anxiety in autism spectrum disorder. In C. \nKerns, P. Renno, E. Storch, P. Kendall, & J. Wood (Eds.), Anxi-\nety in children and adolescents with autism spectrum disorder \n(pp. 33–54). Boston: Academic Press.\nMason, J., & Scior, K. (2004). ‘Diagnostic overshadowing’ amongst \nclinicians working with people with intellectual disabilities in \nthe UK. Journal of Applied Research in Intellectual Disabilities, \n17(2), 85–90. https​://doi.org/10.1111/j.1360-2322.2004.00184​\n.x.\nMcIntosh, D. N., Miller, L. J., Shyu, V., & Dunn, W. (1999). Over-\nview of the short sensory profile (SSP). The Sensory Profile: \nExaminer’s Manual, 59–73\nMoree, B. N., & Davis, T. E., III. (2010). Cognitive-behavioral ther-\napy for anxiety in children diagnosed with autism spectrum \ndisorders: Modification trends. Research in Autism Spectrum \nDisorders, 4(3), 346–354.\nMorgan, D. L. (2009). Using single-case design and personalized \nbehavior change projects to teach research methods. Teaching \nof Psychology, 36(4), 267–269. https​://doi.org/10.1080/00986​\n28090​31757​15.\nMuskett, A., Radtke, S., White, S., et al. (2019). Autism spectrum \ndisorder and specific phobia: The role of sensory sensitivity: \nBrief review. Review Journal of Autism and Developmental \nDisorders, 6, 289–293. https​://doi.org/10.1007/s4048​9-019-\n00159​-w."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.1510925292969,
+      54.431880950927734,
+      546.5497436523438,
+      716.9978637695312
+    ],
+    "text": "Oar, E. L., Farrell, L. J., & Ollendick, T. H. (2019). In S. N. Comp-\nton, M. A. Villabø, & H. Kristensen (Eds.), Pediatric anxiety \ndisorders (pp. 128–144). San Diego, CA: Elsevier/Academic \nPress.\nOllendick, T. H., Halldorsdottir, T., Fraire, M. G., Austin, K. E., \nNoguchi, R. J., Lewis, K. M., et al. (2015). Specific phobias \nin youth: A randomized controlled trial comparing one-ses-\nsion treatment to a parent-augmented one-session treatment. \nBehavior Therapy, 46(2), 141–155. https​://doi.org/10.1016/j.\nbeth.2014.09.004.\nOllendick, T. H., King, N. J., & Muris, P. (2004). Phobias in children \nand adolescents. In M. Maj, H. S. Akiskal, J. J. Lopez-Ibor, & \nA. Okasha (Eds.), Phobias (pp. 245–279). London: Wiley.\nOllendick, T. H., Lewis, K. M., Cowart, M. J. W., & Davis, T., III. \n(2012). Prediction of child performance on a parent–child \nbehavioral approach test with animal phobic children. Behavior \nModification, 36, 509–524.\nOllendick, T. H., & Öst, L. G. (2001). Manual for one-session treat-\nment of specific phobias. Unpublished manuscript.(Available \nfrom the Phobia Project, Child Study Center, Virginia Tech, \nBlacksburg, VA 24060).\nOllendick, T. H., Öst, L.-G., & Farrell, L. J. (2018a). Innovations \nin the psychosocial treatment of youth with anxiety disorders: \nImplications for a stepped care approach. Evidence-Based Men-\ntal Health, 21, 112–115. https​://doi.org/10.1136/eb-2018-10289​\n2.\nOllendick, T. H., Öst, L. G., Reuterskiöld, L., Costa, N., Cederlund, \nR., Sirbu, C., et al. (2009). One-session treatment of specific \nphobias in youth: A randomized clinical trial in the United \nStates and Sweden. Journal of Consulting and Clinical Psy-\nchology, 77(3), 504. https​://doi.org/10.1037/a0015​158.\nOllendick, T. H., Ryan, S. M., Capriola-Hall, N. N., Fraire, M. G., \n& Austin, K. E. (2018b). Have phobias, will travel: Address-\ning one barrier to the delivery of an evidence-based treatment. \nBehavior Therapy, 49, 594–603. https​://doi.org/10.1016/j.\nbeth.2017.11.003.\nOllendick, T. H., & White, S. W. (2012). The presentation and clas-\nsification of anxiety in autism spectrum disorder: Where to \nfrom here? Clinical Psychology: Science and Practice, 19(4), \n352–355.\nÖst, L. G. (1989). One-session treatment for specific phobias. \nBehaviour Research and Therapy, 27(1), 1–7. https​://doi.\norg/10.1016/0005-7967(89)90113​-7.\nÖst, L. G., & Ollendick, T. H. (2017). Brief, intensive and con-\ncentrated cognitive behavioral treatments for anxiety disorders \nin children: A systematic review and meta-analysis. Behaviour \nResearch and Therapy, 97, 134–145. https​://doi.org/10.1016/j.\nbrat.2017.07.008.\nÖst, L. G., Svensson, L., Hellström, K., & Lindwall, R. (2001). One-\nsession treatment of specific phobias in youths: A randomized \nclinical trial. Journal of Consulting and Clinical Psychology, \n69(5), 814.\nRoberts, C. L., Farrell, L. J., Waters, A. M., Oar, E. L., & Ollendick, \nT. H. (2016). Parents’ perceptions of novel treatments for child \nand adolescent specific phobia and anxiety disorders. Child \nPsychiatry & Human Development, 47(3), 459–471. https​://\ndoi.org/10.1007/s1057​8-015-0579-2.\nSilverman, W. K., & Albano, A. M. (1996). Anxiety disorders inter-\nview schedule for DSM-IV: Child version. Boulder: Oxford \nUniversity Press.\nSimonoff, E., Pickles, A., Charman, T., Chandler, S., Loucas, T., & \nBaird, G. (2008). Psychiatric disorders in children with autism \nspectrum disorders: Prevalence, comorbidity, and associated \nfactors in a population-derived sample. Journal of the American \nAcademy of Child & Adolescent Psychiatry, 47(8), 921–929. \nhttps​://doi.org/10.1097/CHI.0b013​e3181​79964​f."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1027\nJournal of Autism and Developmental Disorders (2021) 51:1015–1027"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      54.687313079833984,
+      291.403564453125,
+      317.4132385253906
+    ],
+    "text": "Ung, D., Selles, R., Small, B. J., & Storch, E. A. (2015). A system-\natic review and meta-analysis of cognitive-behavioral therapy \nfor anxiety in youth with high-functioning autism spectrum \ndisorders. Child Psychiatry & Human Development, 46(4), \n533–547. https​://doi.org/10.1007/s1057​8-014-0494-y.\nVan Steensel, F. J., Bögels, S. M., & Perrin, S. (2011). Anxiety \ndisorders in children and adolescents with autistic spectrum dis-\norders: A meta-analysis. Clinical Child and Family Psychology \nReview, 14(3), 302. https​://doi.org/10.1007/s1056​7-011-0097-0.\nVasa, R. A., Carroll, L. M., Nozzolillo, A. A., Mahajan, R., Mazurek, \nM. O., Bennett, A. E., et al. (2014). A systematic review of \ntreatments for anxiety in youth with autism spectrum disor-\nders. Journal of Autism and Developmental Disorders, 44(12), \n3215–3229. https​://doi.org/10.1007/s1080​3-014-2184-9.\nVismara, L. A., & Rogers, S. J. (2010). Behavioral treatments in \nautism spectrum disorder: What do we know? Annual review \nof clinical psychology, 6, 447–468.\nWatson, P. J., & Workman, E. A. (1981). The non-concurrent mul-\ntiple baseline across-individuals design: An extension of the \ntraditional multiple baseline design. Journal of Behavior Ther-\napy and Experimental Psychiatry, 12(3), 257–259. https​://doi.\norg/10.1016/0005-7916(81)90055​-0.\nWechsler, D. (2011). WASI-II: Wechsler abbreviated scale of intel-\nligence. San Antonio: Psychological Corporation.\nWhite, S. W., Ollendick, T., Scahill, L., Oswald, D., & Albano, A. \nM. (2009a). Preliminary efficacy of a cognitive-behavioral"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.14263916015625,
+      54.584712982177734,
+      546.5662841796875,
+      227.3467559814453
+    ],
+    "text": "treatment program for anxious youth with autism spectrum \ndisorders. Journal of Autism and Developmental Disorders, \n39(12), 1652. https​://doi.org/10.1007/s1080​3-009-0801-9.\nWhite, S. W., Oswald, D., Ollendick, T., & Scahill, L. (2009b). Anxi-\nety in children and adolescents with autism spectrum disor-\nders. Clinical Psychology Review, 29(3), 216–229. https​://doi.\norg/10.1016/j.cpr.2009.01.003.\nWhite, S. W., Simmons, G. L., Gotham, K. O., Conner, C. M., Smith, \nI. C., Beck, K. B., et al. (2018). Psychosocial treatments target-\ning anxiety and depression in adolescents and adults on the \nautism spectrum: Review of the latest research and recom-\nmended future directions. Current Psychiatry Reports, 20(10), \n82.\nWood, J. J., Piacentini, J. C., Southam-Gerow, M., Chu, B. C., & Sig-\nman, M. (2006). Family cognitive behavioral therapy for child \nanxiety disorders. Journal of the American Academy of Child & \nAdolescent Psychiatry, 45(3), 314–321."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.14263916015625,
+      235.081787109375,
+      546.3736572265625,
+      257.9042663574219
+    ],
+    "text": "Publisher’s Note  Springer Nature remains neutral with regard to \njurisdictional claims in published maps and institutional affiliations."
+  }
+]

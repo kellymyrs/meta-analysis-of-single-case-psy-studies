@@ -1,0 +1,1432 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      45.864498138427734,
+      37.23822784423828,
+      136.9231414794922,
+      57.16352844238281
+    ],
+    "text": "Research Article"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.864498138427734,
+      75.97943115234375,
+      392.2417297363281,
+      129.78231811523438
+    ],
+    "text": "An Examination of Fluoxetine for the Treatment of Selective\nMutism Using a Nonconcurrent Multiple-Baseline\nSingle-Case Design Across 5 Cases"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.864498138427734,
+      160.29647827148438,
+      270.0610046386719,
+      480.7773742675781
+    ],
+    "text": "This study examined the utility of ﬂuoxetine\nin the treatment of 5 children, aged 5 to\n14 years, diagnosed with selective mutism\nwho also demonstrated symptoms of social\nanxiety. A nonconcurrent, randomized, multi-\nple-baseline, single-case design with a single-\nblind placebo-controlled procedure was used.\nParents and the study psychiatrist completed\nmultiple\nmethods\nof\nassessment\nincluding\nDirect Behavior Ratings and questionnaires.\nTreatment outcomes were evaluated by cal-\nculating effect sizes for each participant as an\nindividual and for the participants as a group.\nInformation regarding adverse effects with an\nemphasis\non\nbehavioral\ndisinhibition\nand\nratings\nof\nparental\nacceptance\nof\nthe\nintervention\nwas gathered. All 5 children\nexperienced improvement in social anxiety,\nresponsive speech, and spontaneous speech\nwith medium to large effect sizes; however,\nchildren still met criteria for selective mutism\nat the end of the study. Adverse events were\nminimal, with only 2 children experiencing\nbrief occurrences of minor behavioral dis-\ninhibition.\nParents\nfound\nthe\ntreatment\nhighly acceptable.\n(Journal of Psychiatric Practice 2018;24;2–14)"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.86637878417969,
+      495.18060302734375,
+      270.0392150878906,
+      516.6075439453125
+    ],
+    "text": "KEY WORDS: selective mutism, social anxiety,\npsychopharmacology, children, adolescents"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.864219665527344,
+      542.009521484375,
+      270.0611877441406,
+      682.998779296875
+    ],
+    "text": "Selective mutism, which is typically diagnosed by\nage 5 years, is a rare anxiety disorder affecting\nfewer than 1% of children.1 The disorder is charac-\nterized by the withholding of verbal communication\nin certain situations (eg, school, grocery store) while\ndisplaying appropriate speech in settings in which\nthe child is comfortable.1 The disorder frequently\nco-occurs with social anxiety.2,3 Selective mutism\nresults in impaired social4 and academic5 function-\ning, and affected children are more likely to expe-\nrience a psychiatric disorder as an adult.6 When\npsychosocial\napproaches\nsuch\nas\nsystematic"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9427490234375,
+      157.0617218017578,
+      512.1502075195312,
+      289.4932861328125
+    ],
+    "text": "desensitization7 fail, selective serotonin reuptake\ninhibitors (SSRIs), which have demonstrated efﬁ-\ncacy for anxiety,8 are a logical treatment option. In\npractice settings, SSRIs are frequently used to treat\nselective mutism.9 Therefore, studies that system-\natically analyze the outcomes of this approach are\nneeded to provide physicians and parents with the\ninformation necessary to conduct an analysis of\npotential risks and beneﬁts. Results of the research\nthat does exist is encouraging,10 with the most\nevidence concerning the off label use of ﬂuoxetine.9"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.94140625,
+      291.8240966796875,
+      512.2003173828125,
+      492.7373962402344
+    ],
+    "text": "However, the available studies possess ﬂaws.\nTwo small studies and several case studies have\nexamined the efﬁcacy of ﬂuoxetine for selective\nmutism. Black and Uhde11 used a quasi-experimental\ngroup design with a repeated measure analysis of\nvariance to examine the difference in speaking\nbehaviors and anxiety between a placebo/control\ngroup (n = 9) and an experimental/ﬂuoxetine group\n(n = 6; 12 to 27 mg/d for 12 wk). Children receiving\nﬂuoxetine displayed greater improvement in mutism\nsymptoms. No side effects were observed. Despite\nimprovements in symptomology, the conclusions were\nlimited by the sample size (n = 15) used for the stat-\nistical analysis (ie, analysis of variance) and by dif-\nferences in baseline scores between groups. In an open\nlabel trial, Dummit et al12 examined the use of\nﬂuoxetine in 21 participants aged 5 to 14 years. Doses"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      408.1888122558594,
+      64.94097137451172,
+      512.5879516601562,
+      128.6716766357422
+    ],
+    "text": "JUSTIN A. BARTERIAN, PhD\nJOEL M. SANCHEZ, MD\nJED MAGEN, DO, MS\nALLISON K. SIROKY, MA\nBRITTANY L. MASH, MA\nJOHN S. CARLSON, PhD"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9432067871094,
+      513.4685668945312,
+      512.1736450195312,
+      591.1708374023438
+    ],
+    "text": "BARTERIAN: Department of Psychiatry and Behavioral Health,\nThe Ohio State University, Columbus, OH; SANCHEZ: The Right\nDoor for Hope, Recovery and Wellness, Ionia, MI, and Wedgwood\nChristian Services, Grand Rapids, MI; MAGEN: Department\nof Psychiatry, Michigan State University, East Lansing, MI;\nSIROKY and CARLSON: Department of Counseling, Educational\nPsychology, & Special Education, Michigan State University, East\nLansing, MI; MASH: Howell, MI"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9432067871094,
+      596.126708984375,
+      512.17822265625,
+      614.0748291015625
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights\nreserved."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9432067871094,
+      661.75,
+      448.1793518066406,
+      669.8606567382812
+    ],
+    "text": "The authors declare no conﬂicts of interest."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9432373046875,
+      619.0872802734375,
+      512.1814575195312,
+      656.9345703125
+    ],
+    "text": "Please send correspondence to: Justin A. Barterian, PhD,\nDepartment of Psychiatry and Behavioral Health, The Ohio\nState University, 291-C McCampbell Hall, 1581 Dodd Drive,\nColumbus, OH 43210 (e-mail: justin.barterian@osumc.edu)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.9432373046875,
+      674.873046875,
+      428.00482177734375,
+      682.84326171875
+    ],
+    "text": "DOI: 10.1097/PRA.0000000000000284"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.863555908203125,
+      726.6905517578125,
+      512.1336669921875,
+      734.6607666015625
+    ],
+    "text": "2\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      115.71019744873047,
+      749.934326171875,
+      442.2110900878906,
+      761.889404296875
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      45.86354064941406,
+      87.7295913696289,
+      270.1198425292969,
+      444.0389709472656
+    ],
+    "text": "of ﬂuoxetine ranged from 5 up to 60 mg/d based on\nresponse. Improvements in social anxiety and speak-\ning were noted. Minor side effects (eg, headache,\ninsomnia) were reported by 43% of participants. Two\nparticipants discontinued treatment due to symptoms\nof\nbehavioral\ndisinhibition\n(eg,\nhyperactivity).\nAlthough these ﬁndings showed promise, the design\ndid not include a control group, and t tests were used\nto assess improvement, despite the fact that the\nsample size was small for this statistical approach.\nSeven case studies reporting on the use of ﬂuoxetine to\ntreat selective mutism have been published, and all\nreported improvements such as increased speech at\nschool. For example, in a case reported by Wright\net al,13 a 5-year-old girl taking ﬂuoxetine 4 to 8 mg/d\nbegan speaking within 20 days in several settings.\nDespite\nimprovements\nin\nsymptoms\nacross\ncase\nstudies, the absence of systematic analysis of out-\ncomes is a substantial limitation.\nThe small sample sizes in the studies by Black\nand Uhde11 and Dummit et al12 and in the several\navailable case studies are limiting; however, given\nthe rarity of selective mutism, recruitment for a\nlarge clinical trial is impractical. Therefore, other\nmethodologically sound approaches that provide\nmeaningful results despite a small sample size\nneed to be applied. Single-case designs provide\nexperimental control and internal validity with a\nsmall sample similar to the control provided in\nrandomized control-group experimental designs.14"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      45.864044189453125,
+      446.5356750488281,
+      270.1272277832031,
+      683.1690063476562
+    ],
+    "text": "In\naddition,\nsingle-case\ndesign\nmethodology\naddresses some of the weaknesses associated with\nrandomized\ncontrol\ntrials and traditional\nsig-\nniﬁcance testing. For example, Carver15 noted that\nresults\nfrom\nrandomized\ncontrol\ntrials\nwere\nfrequently reported as meaningful because of a\nP-value <0.05. However, even though the results\nwere statistically signiﬁcant, when examined more\nclosely, the intervention did not have a clinically\nimportant impact on the outcome variable for\nindividual participants. Single-case design meth-\nodologies achieve 3 goals: (1) identify a meaningful\nchange in a dependent variable in a small sample;\n(2) determine if the change in the dependent\nvariable was a direct result of the application\nof an independent variable; and (3) document\nan\nexperimental\ncontrol.16\nPrevious\nresearch\ninvolving\nchildren\ndiagnosed\nwith\nselective\nmutism has noted the utility of single-case design\nmethodologies.9"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.9423828125,
+      87.89637756347656,
+      512.2831420898438,
+      276.680908203125
+    ],
+    "text": "In addition to limitations related to sample size,\nresearchers have not documented the type of speech\nchildren engage in during treatment. Delineating\nbetween spontaneous speech (ie, speaking for com-\nmunication)\nand\nresponsive\nspeech\n(ie,\nbrieﬂy\nresponding to questions) is essential, as spontaneous\nspeech is the desired goal.17 Moreover, previous SSRI\nstudies have not investigated the mechanism of action\nleading to improvements. Conventionally, SSRIs are\nexpected to take 4 to 6 weeks to improve symptomol-\nogy. However, earlier research examining the use of\nSSRIs for the treatment of selective mutism found\nrapid improvements in speaking.9 To explain this\nphenomenon, some have suggested that behavioral\ndisinhibition, which is deﬁned as increased motor\nactivity, impulsiveness, insomnia, and/or excitement18"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.94268798828125,
+      275.77667236328125,
+      512.197998046875,
+      420.1144714355469
+    ],
+    "text": "may be mimicking improvement.19 Therefore, the\nexamination of the onset of behavioral disinhibition\nconcurrently with improvements in symptomology is\nnecessary.9 Finally, because physicians must weigh\nthe risks and beneﬁts of prescribing a psycho-\npharmacological medication for any child or adoles-\ncent, parent acceptability ratings of ﬂuoxetine for the\ntreatment of selective mutism are also essential. Two\nprevious studies that examined parent acceptability\nratings for the use of sertraline to treat selective\nmutism symptoms found high parent acceptability\nratings.19,20"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.94244384765625,
+      422.61126708984375,
+      512.1703491210938,
+      563.6044921875
+    ],
+    "text": "This study used a multiple-baseline, single-case\ndesign intended to identify a treatment effect in a small\nsample to examine the utility of the off label use of\nﬂuoxetine for the treatment of selective mutism. Given\nthe ﬁndings from previous work, it was hypothesized\nthat ﬂuoxetine treatment would result in an increase in\nsocial engagement, responsive speech, and spontaneous\nspeech. Furthermore, the researchers expected behav-\nioral disinhibition would not solely coincide with\nimprovements in selective mutism symptomology, side\neffects would be minimal, and parents would ﬁnd the\ntreatment highly acceptable."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.9432067871094,
+      583.4508056640625,
+      338.0013122558594,
+      593.4133911132812
+    ],
+    "text": "METHODS"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.9432067871094,
+      605.9560546875,
+      348.734375,
+      615.420654296875
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      287.9432067871094,
+      625.8554077148438,
+      512.2284545898438,
+      683.1692504882812
+    ],
+    "text": "Children were excluded from participation if they\nhad a diagnosis of a speech condition, an intellectual\ndisability, a pervasive developmental disorder, or\nschizophrenia; spoke English as a second language;\nwere taking a psychopharmacological medication;"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      45.864498138427734,
+      726.6905517578125,
+      512.135498046875,
+      734.6607666015625
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n3"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.86449432373047,
+      87.89637756347656,
+      270.1377868652344,
+      312.51092529296875
+    ],
+    "text": "had experienced a negative reaction to a psycho-\npharmacological medication; or had an illness that\ncould be exacerbated by treatment. Invitations to\nparticipate were extended to those who met criteria\nfor selective mutism using the ﬁfth edition of the\nDiagnostic and Statistical Manual of Mental Dis-\norders (DSM-5)1 and who had previously completed\nat least 12 weeks of an evidence-based psychosocial\ntreatment. Finally, children had to demonstrate\nsymptoms of social anxiety as indicated by a T score\n> 65 (moderately atypical) on the second edition of\nthe Multidimensional Anxiety Scale for Children-2\n(MASC-2): Social Anxiety Scale (SAS)/Performance\nFear Scale.21 T-scores on the MASC-2 are only pro-\nvided for children who are 8 years old or older.\nTherefore, participants younger than 8 years old\nwere evaluated based on the T-scores for 8-year-old\nchildren, given there are no normed assessments\nthat examine anxiety symptoms in younger children."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.86449432373047,
+      340.7466735839844,
+      101.82866668701172,
+      350.2112731933594
+    ],
+    "text": "Procedures"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.863563537597656,
+      360.64599609375,
+      270.2247009277344,
+      513.6015625
+    ],
+    "text": "The Michigan State University-Biomedical Institu-\ntional Review Board (MSU-BIRB) approved the\nprocedures.\nBi-weekly\nmedication\nmanagement\nappointments at the MSU psychiatry clinic and the\nﬂuoxetine medication were provided without charge.\nBecause of the young age of 1 participant (ie, 5 y old),\nthe project psychiatrist was required by the MSU-\nBIRB to write a treatment summary following every\nmedication management meeting for this child,\nwhich was reviewed by a safety committee consisting\nof a pediatrician and a child and adolescent psy-\nchiatrist who were not afﬁliated with the project in\nany other way. The members individually reviewed"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.94244384765625,
+      87.89710998535156,
+      512.119873046875,
+      109.32398986816406
+    ],
+    "text": "the\ninformation\nand\napproved\nall\ntreatment\ndecisions."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.94244384765625,
+      132.62770080566406,
+      399.89263916015625,
+      142.09230041503906
+    ],
+    "text": "Independent Variables"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.94146728515625,
+      152.52699279785156,
+      512.201171875,
+      257.633056640625
+    ],
+    "text": "Five treatment schedules were determined a priori\nthat varied by the length of time children received the\nplacebo before receiving ﬂuoxetine. Participants were\nrandomly assigned to 1 of these treatment schedules\nin\naccordance\nwith\nthe\nmultiple-baseline,\nsingle\ncase design procedure. The psychiatrist was aware of\nthe treatment schedules and prescribed the medication\naccordingly. Children with selective mutism have been\nfound to demonstrate little response to placebo.19,20"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.9432067871094,
+      260.1293640136719,
+      512.1841430664062,
+      389.1602783203125
+    ],
+    "text": "However, to account for the possibility of a placebo\neffect,\na\n1-week\nno-medication\ncomponent\nwas\nincluded in the baseline phase, with all participants\nbeginning to take the placebo at week 2. Depending on\nthe\nrandomized\ntreatment\nschedule,\nparticipants\nbegan taking 10 mg/d of ﬂuoxetine at week 4 (ie, child\n1) through week 8 (ie, child 5). After 2 weeks at 10 mg/\nd, the psychiatrist increased to a therapeutic dose of\n20 mg/d for all children (Table 1). The elixirs for the 10\nand 20 mg/d doses were identical in ﬂavor, color, con-\nsistency, and quantity (ie, mL) to the placebo elixir."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.9432067871094,
+      412.4640197753906,
+      390.8225402832031,
+      421.9286193847656
+    ],
+    "text": "Dependent Variables"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      287.94281005859375,
+      432.36334228515625,
+      512.2194213867188,
+      513.600830078125
+    ],
+    "text": "Social Anxiety and Frequency of Speech\nDirect Behavior Rating (DBR)22 was the primary\noutcome measure of social anxiety symptomology\nand speaking behaviors. Parents received structured\ntraining on how to conduct DBRs that included\ninstruction on common rater errors (eg, halo effect),\nmodeling, and practice using videotaped scenarios."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      49.37950134277344,
+      532.595458984375,
+      414.2417907714844,
+      542.06005859375
+    ],
+    "text": "TABLE 1. Randomized Multiple Baseline Design and Treatment Schedule"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      290.09759521484375,
+      555.8892822265625,
+      313.42791748046875,
+      564.8555908203125
+    ],
+    "text": "Week"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      49.378448486328125,
+      580.5510864257812,
+      501.49969482421875,
+      589.5173950195312
+    ],
+    "text": "Child\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      49.377532958984375,
+      602.4915771484375,
+      499.8506164550781,
+      655.2807006835938
+    ],
+    "text": "1\nA\nB\nB\nC\nC\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\n2\nA\nB\nB\nB\nC\nC\nD\nD\nD\nD\nD\nD\nD\nD\nD\n3\nA\nB\nB\nB\nB\nC\nC\nD\nD\nD\nD\nD\nD\nD\nD\n4\nA\nB\nB\nB\nB\nB\nC\nC\nD\nD\nD\nD\nD\nD\nD\n5\nA\nB\nB\nB\nB\nB\nB\nC\nC\nD\nD\nD\nD\nD\nD"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      49.37950134277344,
+      666.1155395507812,
+      498.67388916015625,
+      674.2261962890625
+    ],
+    "text": "A indicates no medication; B, placebo; C, ﬂuoxetine: introductory dose (10 mg/d); D, ﬂuoxetine: therapeutic dose (20 mg/d)."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.863861083984375,
+      726.6907958984375,
+      512.1339721679688,
+      734.6610107421875
+    ],
+    "text": "4\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.864498138427734,
+      87.89637756347656,
+      270.1546936035156,
+      312.5118408203125
+    ],
+    "text": "Parents were asked to observe their child in a social\ninteraction with an unfamiliar adult 3 times per\nweek. After each observation, parents rated the\namount of social engagement displayed on a 10-point\nscale ranging from 0 (never) to 10 (always). For\nratings\nof\nsocial\nengagement,\nparents\nwere\ninstructed not to base the ratings on speaking\nbehaviors, as the purpose of this rating was to\ndetermine frequency and ease of social engagement.\nParents also provided ratings for spontaneous and\nresponsive speech for their child’s interactions with\nunfamiliar adults 3 times per week on the same\nscale. Given the need for frequent ratings, System-\natic Direct Observations (SDOs) requiring parents to\ndocument individual behaviors for a predetermined\namount of time were not practical. However, SDOs\nand DBRs are signiﬁcantly correlated (r ≥0.81,\nP < 0.01), with regression analysis showing that\nDBRs account for 76% of the variance of SDOs.23"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.86486053466797,
+      315.0081787109375,
+      270.0614013671875,
+      467.9635925292969
+    ],
+    "text": "An adapted Clinical Global Impressions scale\n(CGI)19,24 was used as a supplementary measure of\nanxiety, shyness, and mutism symptoms. Ratings\nwere provided by parents twice per week and by the\nstudy\npsychiatrist\nat\nmedication\nmanagement\nappointments. Parents and psychiatrists provided\nseverity ratings on 5-point Likert scales ranging\nfrom 1 (absent) to 5 (severe) and global change\nratings on 7-point Likert scales ranging from 1\n(much improved) to 7 (much worse) across home,\nschool, and community settings. The CGI technique\nhas demonstrated concurrent validity with other\nassessment procedures.25"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.86309814453125,
+      467.0584716796875,
+      270.11822509765625,
+      563.6040649414062
+    ],
+    "text": "The MASC-2: SAS,21 which is a 9-item parent-\nreport measure for children between the ages of 8\nand 19 years, was used as a supplementary measure\nof social anxiety. Parents completed the ratings\ntwice per week. The MASC-2: SAS has excellent\ntest-retest reliability (r = 0.90, P < 0.001), and sig-\nniﬁcantly correlates with Conner’s Comprehensive\nBehavior Rating Scales-Parent (r = 0.55, P < 0.01).26"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.864288330078125,
+      562.6993408203125,
+      270.0541687011719,
+      683.1690063476562
+    ],
+    "text": "The Selective Mutism Questionnaire (SMQ)27 is a\n17-item parent-report assessment used to deter-\nmine the severity of mutism symptoms. The SMQ\nwas completed by parents twice per week as a\nsupplementary measure of speaking behaviors. The\nSMQ has an internal consistency coefﬁcient of\n0.9727 and demonstrates concurrent validity with\nthe Anxiety Disorders Interview Schedule for Chil-\ndren for DSM-IV-Parent Version (ADIS/CP) with a\ncorrelation coefﬁcient of 0.48.28,29"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      287.9432067871094,
+      87.89637756347656,
+      512.1358032226562,
+      169.0778350830078
+    ],
+    "text": "Adverse Events and Behavioral Disinhibition\nA 12-item adapted version of the Side Effects\nForm for Children and Adolescents (SEFCA)30 was\ncompleted at each medication management meeting\nby the psychiatrist. The adapted SEFCA, which\nincluded adverse events associated with SSRIs that\noccur in 5% or more of children and adolescents,31"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      287.9432067871094,
+      171.40841674804688,
+      512.1470336914062,
+      252.75672912597656
+    ],
+    "text": "such as drowsiness, difﬁculty falling asleep, and\nirritability,\nwas\nused\nto\nassess\nthe\nfrequency\nand severity of side effects. An item capturing\nbehavioral\ndisinhibition\nwas\nalso\nincluded\nto\nmonitor this potentially confounding behavioral\nresponse.\nThe Parent-Young Mania Rating Scale (P-YMRS)32"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      287.9432067871094,
+      255.25389099121094,
+      512.2655029296875,
+      683.1692504882812
+    ],
+    "text": "was used to assess the occurrence of behavioral dis-\ninhibition and was completed twice per week by\nparents. The measure consists of 11 multiple-choice\nquestions and was designed to examine manic\nsymptoms in children 5 to 17 years of age. The\nP-YMRS has an internal consistency of 0.75, and has\nadequate discriminative validity between bipolar\ndisorder and other mental health diagnoses. As the\npurpose of the P-YMRS in this study was to identify\nbehavioral disinhibition associated with the onset of\nﬂuoxetine treatment, this measure was not scored\nconventionally. Instead, item scores of “3” or higher\nwere considered to indicate elevated symptoms of\nbehavioral disinhibition on all items except for an\nitem concerning speech behaviors. A score of “3” on\nthe speech item was deﬁned as follows: “talking\nfaster or more to say at times.” Given the goal of\ntreatment is to increase frequency of speech, an item\nscore of “3” for this domain would likely lead to false\npositives of behavioral disinhibition. Therefore, an\nitem score of “4” (ie, “Talking more or faster to the\npoint where he/she is difﬁcult to interrupt”) or above\nwas regarded as more appropriate as an indicator of\nbehavioral\ndisinhibition.\nIn\naddition,\n2\nitems\nregarding appearance and sexual interest were\nremoved, as they were deemed inappropriate for the\nanticipated age of participants.\nRatings of side effect severity were provided\nby\nparents\ntwice\nper\nweek\nand\nby\nclinicians\nbiweekly using the same CGI approach discussed\npreviously.19,24 Ratings ranged from 1 (positive\nchanges greatly outweigh negative changes. Medi-\ncation effects are overall extremely positive) to\n6 (negative changes signiﬁcantly outweigh positive\nchanges. Medication effects are overall extremely\nnegative)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.864498138427734,
+      726.6905517578125,
+      512.135498046875,
+      734.6607666015625
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n5"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.864498138427734,
+      87.89637756347656,
+      270.0985412597656,
+      121.22877502441406
+    ],
+    "text": "Treatment Acceptability and Adherence\nThe 11-item acceptability scale on the Treatment\nEvaluation Questionnaire, Parent Version (TEQ-P)33"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.864295959472656,
+      123.72627258300781,
+      270.10906982421875,
+      372.3226013183594
+    ],
+    "text": "was used to examine treatment acceptability at the\nend of the study. The TEQ-P was developed from the\nTreatment Evaluation Inventory (TEI),34 which was\nable to delineate between treatments that individu-\nals considered acceptable and not acceptable. Each\nstatement is rated on a Likert scale with a rating\nof 1 indicating “strongly disagree” and a rating of 6\nindicating “strongly agree.” A score of 55 or higher\nindicates high treatment acceptability.33 Carlson\net al19 and Eke20 found high treatment acceptability\nusing the TEQ-P in studies examining the use of\nsertraline for the treatment of selective mutism, with\naverage scores of 58.6 and 56.8, respectively. The\nuse of this measure creates continuity with these\nprevious studies.\nParents reported medication adherence on a form\nrequiring them to document the time they provided\nthe medication each day (eg, “Monday at 8:00 am”).\nThese data were compiled in the form of the per-\ncentage of days children were provided their medi-\ncation within 6 hours of the recommended time."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.86521911621094,
+      402.77020263671875,
+      113.2654800415039,
+      412.23480224609375
+    ],
+    "text": "Data Analysis"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.86521911621094,
+      422.6695251464844,
+      270.060791015625,
+      468.02105712890625
+    ],
+    "text": "Because SSRIs have a delayed onset of therapeutic\neffects, an acquisition period of 4 weeks from the\nstart of the introductory dose was included in the\ndata analysis for each child. Effect sizes for each"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      287.94403076171875,
+      87.89814758300781,
+      512.14892578125,
+      240.7965850830078
+    ],
+    "text": "participant were calculated for DBR ratings of\nsocial anxiety, responsive speech, and spontaneous\nspeech using Cohen’s d, with the following formula:\nM (intervention)−M (baseline and placebo phase)/\npooled SD. Pooled SDs were used in the individual\neffect size calculations because some participants\nhad SDs of 0 in the baseline phase due to a complete\nabsence of target behaviors. Group effect sizes were\nalso calculated for the DBR ratings of speech and\nsocial\nanxiety\nwith\nthe\nfollowing\nformula:\nM\n(intervention)–M (baseline and placebo)/baseline\nSD. Outcomes on supplementary measures of social\nanxiety and speech are presented descriptively."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      287.9432067871094,
+      260.6980895996094,
+      333.154541015625,
+      270.66070556640625
+    ],
+    "text": "RESULTS"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      287.9432067871094,
+      279.23486328125,
+      512.2273559570312,
+      468.0205383300781
+    ],
+    "text": "Five girls and 1 boy between 5 and 14 years of age\nwere enrolled after meeting the inclusion and\nexclusion criteria and completed the treatment. The\ndemographic characteristics of these participants\nare presented in Table 2. Previous practitioners for\nall participants reported resistance to psychosocial\ntreatment. Only child 4 continued to receive psy-\nchosocial therapy on a weekly basis. According to\nhis therapist, he was not experiencing improvement\nwith cognitive behavioral therapy alone; therefore,\nhe was permitted to enroll in the study while con-\ntinuing to receive treatment.\nDespite meeting all screening requirements, one\nchild was\nconsistently interacting socially with\nunfamiliar adults and speaking in social interactions\nbefore the onset of ﬂuoxetine treatment according to"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.37950134277344,
+      482.5356750488281,
+      508.1514587402344,
+      492.0002746582031
+    ],
+    "text": "TABLE 2. Demographic Characteristics and Baseline/Intervention Ratings for 6 Participants"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.37950134277344,
+      505.8298034667969,
+      492.1246337890625,
+      525.794189453125
+    ],
+    "text": "Child\nAge (y)/\nSex\nAge of\nOnset\nMASC-2: SAS Performance\nFears-Screen\nPrevious Treatment\nConcomitant\nTreatment"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.37945556640625,
+      538.552978515625,
+      473.506103515625,
+      558.6754150390625
+    ],
+    "text": "1\n7/F\n5\nT = 80*\nBehavior therapy;\nsocial skills\nNone"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.379486083984375,
+      560.4935302734375,
+      473.506103515625,
+      591.5574951171875
+    ],
+    "text": "2\n5/F\n4\nT = 76*\nBehavior therapy\nNone\n3\n7/F\n5\nT = 76*\nBehavior therapy;\nsocial skills\nNone"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.379486083984375,
+      593.3756713867188,
+      505.537353515625,
+      635.3811645507812
+    ],
+    "text": "4\n12/M\n5\nT = 80\nCognitive-behavioral\ntherapy\nCognitive-behavioral\ntherapy\n5\n14/F\n5\nT = 83\nBehavior therapy\nNone\nR†\n10/F\n4\nT = 69\nBehavior therapy\nNone"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.37950134277344,
+      646.3567504882812,
+      508.6399230957031,
+      674.2261962890625
+    ],
+    "text": "*On the basis of 8-year old normative sample.\n†Participant removed from ﬁnal analyses due to inconsistent baseline ratings across measures.\nF indicates female; M, male; MASC-2:SAS, Multidimensional Anxiety Scale for Children, Second Edition: Social Anxiety Scale."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.86464309692383,
+      726.6907958984375,
+      512.134765625,
+      734.6610107421875
+    ],
+    "text": "6\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      45.864498138427734,
+      87.89637756347656,
+      270.1576843261719,
+      360.36029052734375
+    ],
+    "text": "parent ratings. Therefore, a stable baseline trend\nindicating selective mutism symptomology could not\nbe established. In addition, the reliability of this\nparent’s ratings were questionable, given that she\nreported high ratings of symptomology during the\nclinical\ninterview\nbut\nlittle\nsymptomology\non\nstandardized ratings and observations and 5 weeks\nof ratings were not completed. Because there was\nfailure to demonstrate a trend of symptomatic\nbehavior\nduring\nthe\nbaseline/placebo\nphase,\nthis child was removed from the analysis per\nmethodology guidelines provided by Watson and\nWorkman35 and Christ36 (Fig. 1). For the remainder\nof this paper, this participant will be identiﬁed as\n“Child R” for “child removed.” Of note, children 1, 2,\n4, and 5 also engaged in some of the target behaviors\n(ie, social engagement, responsive speech, sponta-\nneous speech) during the baseline/placebo phase;\nhowever, these behaviors were sporadic and quickly\nreturned to a baseline level of evident symptomology\nor were far below the level of behaviors expected for\na typical child without selective mutism (eg, child 2:\nsocial engagement)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      45.864593505859375,
+      381.1133117675781,
+      116.42508697509766,
+      390.5779113769531
+    ],
+    "text": "Social Anxiety"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      45.864593505859375,
+      401.01263427734375,
+      270.0185241699219,
+      422.4395446777344
+    ],
+    "text": "Visual analysis indicated that all children increased\nthe amount of social engagement with unfamiliar"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      287.9434814453125,
+      87.89814758300781,
+      512.141845703125,
+      228.8343048095703
+    ],
+    "text": "adults as based on observations by parents recorded\nusing the DBR system (Fig. 2). Individual effect\nsizes on parent completed DBRs of social anxiety\nranged from medium to large (range: 0.50 to 1.51),\nwith a moderate total group effect of d = 0.79.\nResults from the supplementary measures of social\nanxiety were mixed, with only 3 of the 5 children\ndemonstrating improvements on the MASC-2 via\nvisual analysis. However, reductions in symptom\nseverity and improvements in functioning were\nnoted in all other parent and psychiatrist ratings of\nshyness and anxiety (Table 3)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      287.9434814453125,
+      249.5873565673828,
+      391.04046630859375,
+      259.05194091796875
+    ],
+    "text": "Frequency of Speech"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      287.94158935546875,
+      269.54345703125,
+      512.1494140625,
+      422.44219970703125
+    ],
+    "text": "For DBRs for responsive speech, individual effect\nsizes ranged from medium to large (range: 0.71 to\n1.34). The group effect size was also large at\nd = 0.90. The effect sizes for DBRs of spontaneous\nspeech ranged from small to large (range: 0.23 to\n0.81) with a large group effect size of d = 0.97.\nResults from the SMQ, as well as parent and psy-\nchiatrist CGI ratings of selective mutism severity\nand improvement, indicated a reduction in symp-\ntomology during the ﬂuoxetine treatment phase\n(Table 3). Despite these improvements in speech, all\nchildren continued to meet DSM-5 criteria for\nselective mutism at the end of the study."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.37950134277344,
+      445.8553771972656,
+      508.6435852050781,
+      467.28228759765625
+    ],
+    "text": "FIGURE 1. Inconsistent parent DBRs of social engagement and speaking behaviors during\nbaseline for participant removed from data analysis by week."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.868499755859375,
+      659.7659301757812,
+      509.15692138671875,
+      677.7978515625
+    ],
+    "text": "Baseline = no medication (week 1) and placebo; Acquisition = introductory dose (10 mg/d for 2 wk) and therapeutic dose\n(20 mg/d for 2 wk); Treatment = therapeutic dose (20 mg/d). DBR indicates Direct Behavior Rating."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      45.862945556640625,
+      726.6910400390625,
+      512.1339111328125,
+      734.6612548828125
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n7"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.864498138427734,
+      541.552978515625,
+      267.96075439453125,
+      551.017578125
+    ],
+    "text": "Adverse Events and Behavioral Disinhibition"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.86448669433594,
+      564.0634155273438,
+      270.0959777832031,
+      681.2987670898438
+    ],
+    "text": "The initiation of active ﬂuoxetine medication corre-\nsponded with incidents of behavioral disinhibition in\n2 participants as rated by parents on the P-YMRS.\nChild 2 exhibited some mild disruptive behavior (eg,\nincreased demandingness) during weeks 6 and 7, and\nincreased restlessness during week 10 of the treat-\nment schedule. Child 3 also exhibited mild disruptive\nbehavior during weeks 13 and 14. Despite this ﬁnd-\ning, visual inspection indicated improvements in\nselective mutism symptomology did not correspond"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      287.9424133300781,
+      541.553955078125,
+      512.1769409179688,
+      682.4903564453125
+    ],
+    "text": "solely\nto\nthe\nonset\nof\nbehavioral\ndisinhibition\n(Figs. 2, 3). Of note, all occurrences of behavioral\ndisinhibition resolved promptly by the next rating\n(ie, in approximately 3 to 4 d). According to the psy-\nchiatrist-completed SEFCA, none of the participants\nexperienced adverse events, aside from the parent-\nreported incidents of behavioral disinhibition, during\nthe ﬂuoxetine treatment. As a group, parents per-\nceived more positive than negative changes during\nthe ﬂuoxetine phase (M = 2.12, SD = 0.83). Further,\nthe study psychiatrist also perceived a positive beneﬁt\nto risk ratio (M = 2.43, SD = 1.09)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      49.37950134277344,
+      87.89637756347656,
+      435.22857666015625,
+      97.36097717285156
+    ],
+    "text": "FIGURE 2. Parent DBRs of social engagement with unfamiliar adults by week."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.868499755859375,
+      479.7660217285156,
+      509.1720275878906,
+      507.8324890136719
+    ],
+    "text": "Baseline = no medication (week 1) and placebo; Acquisition = introductory dose (10 mg/d for 2 wk) and therapeutic dose\n(20 mg/d for 2 wk); Treatment = therapeutic dose (20 mg/d); Baseline/Intervention administered nonconcurrently across\nparticipants. DBR indicates Direct Behavior Rating."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.86373519897461,
+      726.6917724609375,
+      512.1338500976562,
+      734.6619873046875
+    ],
+    "text": "8\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.864498138427734,
+      568.028564453125,
+      165.38626098632812,
+      577.4931640625
+    ],
+    "text": "Treatment Acceptability"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.8638916015625,
+      587.8179321289062,
+      270.1247253417969,
+      681.1282958984375
+    ],
+    "text": "Parents found the use of ﬂuoxetine highly accept-\nable. A score of 55 or higher on the TEQ-P indicates\nan intervention is highly acceptable,33 with the\naverage across raters in this study being 60.6. Of the\n5 parents, 4 indicated they “strongly agreed” ﬂuox-\netine was an acceptable intervention for the problem\nbehavior, with the parent of child 4 indicating\nthat she “agreed” with this statement. All parents"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      287.9427795410156,
+      567.8624267578125,
+      512.1324462890625,
+      589.4561157226562
+    ],
+    "text": "“agreed” ﬂuoxetine was effective at addressing the\nproblem behavior."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      287.9427795410156,
+      617.9190063476562,
+      398.5054626464844,
+      627.3836059570312
+    ],
+    "text": "Medication Adherence"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      287.94183349609375,
+      637.818359375,
+      512.181884765625,
+      683.1698608398438
+    ],
+    "text": "The study psychiatrist instructed parents to either\ngive the medication in the morning (n = 3) or in the\nevening (n = 2) based on each child’s individual needs.\nParents were found to be adherent 82% to 100% of the"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.37950134277344,
+      87.95307922363281,
+      486.4851379394531,
+      109.37995910644531
+    ],
+    "text": "TABLE 3. Means Ratings of Social Anxiety and Selective Mutism Symptoms on Outcome\nMeasures Across Baseline and Treatment Phases"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.37950134277344,
+      123.20938873291016,
+      493.30731201171875,
+      143.17373657226562
+    ],
+    "text": "Measure\nPossible Ratings\nBaseline\n(SD, Range)\nIntervention\n(SD, Range)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.37860107421875,
+      156.0914764404297,
+      503.14251708984375,
+      493.8720397949219
+    ],
+    "text": "DBR\n0 (never) to 10 (all of the time)\nSocial engagement\n0.82 (1.84, 0-10)\n2.27 (2.80, 0-9)\nResponsive speech\n0.42 (1.72, 0-10)\n1.97 (2.75, 0-10)\nSpontaneous speech\n0.11 (0.66, 0-5)\n0.75 (1.59, 0-8)\nMASC-2: SAS\n0 (absent) to 27 (severe)\n24.15 (2.39, 21-27)\n24.09 (2.76, 19-27)\nSMQ\n0 (no speech) to 51 (frequent speech)\n11.09 (2.56, 5-14)\n18.2 (4.59, 10-24)\nCGI-anxiety severity\n1 (absent) to 5 (severe)\nMother\n4.13 (0.80, 3-5)\n2.95 (0.80, 2-5)\nPsychiatrist\n4.07 (0.33, 4-5)\n3.80 (0.42, 3-4)\nCGI-shyness severity\n1 (absent) to 5 (severe)\nMother\n4.13 (0.40, 3-5)\n3.11 (0.92, 2-5)\nPsychiatrist\n4.15 (0.38, 4-5)\n3.80 (0.42, 3-4)\nCGI-SM severity\n1 (absent) to 5 (severe)\nMother\n4.44 (0.50, 4-5)\n3.50 (0.68, 2-5)\nPsychiatrist\nSchool\n4.38 (0.51, 4-5)\n3.90 (0.32, 3-4)\nClinic\n4.46 (0.52, 4-5)\n4.40 (0.52, 4-5)\nPeers\n4 (0, 4)\n3.80 (0.42, 3-4)\nOverall\n4 (0, 4)\n3.90 (0.32, 3-4)\nCGI-anxiety change\n1 (much improved) to 7 (much worse)\nMother\n3.90 (0.31, 3-4)\n2.47 (0.83, 1-4)\nPsychiatrist\n4 (0, 4)\n2.83 (0.41, 2-3)\nCGI-shyness change\n1 (much improved) to 7 (much worse)\nMother\n3.90 (0.31; 3-4)\n2.65 (0.69, 2-4)\nPsychiatrist\n3.92 (0.27, 3-4)\n3.10 (0.73, 2-4)\nCGI-SM change\n1 (much improved) to 7 (much worse)\nMother\n3.90 (0.37, 2-4)\n2.63 (1.06, 1-4)\nPsychiatrist\nSchool\n4 (0, 4)\n3.5 (0.70, 2-4)\nClinic\n4 (0, 4)\n3. 50 (1.07, 1-4)\nOverall\n4 (0, 4)\n3.50 (0.53, 3-4)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.37950134277344,
+      504.85125732421875,
+      496.9053955078125,
+      522.7993774414062
+    ],
+    "text": "CGI indicates Clinical Global Impressions; DBR, Direct Behavior Ratings; MASC-2:SAS, Multidimensional Anxiety Scale,\nSecond Edition: Social Anxiety Scale; SM, Selective Mutism; SMQ, Selective Mutism Questionnaire."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.86464309692383,
+      726.69140625,
+      512.1356201171875,
+      734.66162109375
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n9"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.86449432373047,
+      541.6663818359375,
+      270.1244812011719,
+      610.8857421875
+    ],
+    "text": "time during the baseline phase. The parents of child 2\nwho indicated 82% adherence noted they had for-\ngotten to give the medicine some days. They were\nencouraged to be consistent with providing the medi-\ncation. During the treatment phase, parents were\nadherent 98% to 100% of the time."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.86449432373047,
+      641.7867431640625,
+      270.0127868652344,
+      651.2513427734375
+    ],
+    "text": "Parent and Teacher Reports of Improvements"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.86449432373047,
+      661.7427978515625,
+      270.0411071777344,
+      683.1697387695312
+    ],
+    "text": "In addition to the assessment data regarding\nbehavioral change for individual children, parents"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      287.9433898925781,
+      541.6673583984375,
+      512.133056640625,
+      587.0189208984375
+    ],
+    "text": "and teachers provided comments on forms and\nfeedback during medication management meetings\nindicating progress after the onset of ﬂuoxetine\ntreatment (Table 4)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      287.9432067871094,
+      607.3751831054688,
+      350.1975402832031,
+      617.3377685546875
+    ],
+    "text": "DISCUSSION"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      287.94317626953125,
+      625.8553466796875,
+      512.1329345703125,
+      683.169189453125
+    ],
+    "text": "The use of a randomized, single-case, multiple-\nbaseline design to examine the effects of ﬂuoxetine\non\nsymptoms\nof\nsocial\nanxiety\nand\nspeaking\nbehaviors in this study supports ﬁndings from pre-\nvious work that did not use methodological designs"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      49.37950134277344,
+      87.89637756347656,
+      508.6436462402344,
+      97.36097717285156
+    ],
+    "text": "FIGURE 3. Parent DBRs of spontaneous and responsive speech with unfamiliar adults by week."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.868499755859375,
+      489.3471374511719,
+      509.1720275878906,
+      517.41357421875
+    ],
+    "text": "Baseline = no medication (week 1) and placebo; Acquisition = introductory dose (10 mg/d for 2 wk) and therapeutic dose\n(20 mg/d for 2 wk); Treatment = therapeutic dose (20 mg/d). Baseline/Intervention administered nonconcurrently across\nparticipants. DBR indicates Direct Behavior Rating."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.86373519897461,
+      726.6911010742188,
+      512.1338500976562,
+      734.6613159179688
+    ],
+    "text": "10\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      45.86424255371094,
+      338.6490783691406,
+      270.1553955078125,
+      682.8308715820312
+    ],
+    "text": "intended for small samples, despite a small number\nof participants.11,12 In addition, this study adds\nconﬁdence that the improvements in social anxiety\nand speaking behaviors in prior studies, such as an\nopen label study12 and numerous case studies were\nnot solely due to placebo effects. This was achieved\nas children and adolescents in this study served as\ntheir own control (ie, baseline/placebo phase) and\ntreatment schedules were randomly assigned to\neach participant.\nParent-completed\nDBRs\nof\nsocial\nengagement\nindicated that participants displayed reductions in\nsymptoms of social anxiety after the onset of treat-\nment. Despite these reported gains, visual analysis\nof graphs indicated that 2 of the children did not\nimprove on the parent-completed MASC-2. It may be\nthat DBRs were more sensitive to changes in social\nanxiety than the MASC-2. Likewise, it is possible\nthat children experienced additional anxiety because\nthey put themselves in social situations with unfa-\nmiliar adults that they would have avoided in the\npast. Nonetheless, the notable improvements on\nDBRs of social anxiety and parent-completed CGIs\nand psychiatrist-completed CGIs, as well as sponta-\nneous parent reports of improvement support the\nnotion that a meaningful reduction in social anxiety\nsymptoms was achieved. The treatment of social\nanxiety symptoms in children with selective mutism\nremains important, given the high comorbidity rate"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      287.943115234375,
+      338.65167236328125,
+      512.150634765625,
+      372.0408935546875
+    ],
+    "text": "between social anxiety and selective mutism and the\nreconceptualization of selective mutism as an anx-\niety disorder in the DSM-5.1,3"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      287.9429931640625,
+      374.4789733886719,
+      512.1552734375,
+      682.8304443359375
+    ],
+    "text": "In addition to improvements in social anxiety\nsymptoms, ﬂuoxetine treatment resulted in a note-\nworthy increase in both responsive and sponta-\nneous speech. The improvement in both types of\nspeech is promising, given that the goal of treat-\nment for children with selective mutism is to\nincrease speech intended for conversation17 (ie,\nspontaneous speech). Interestingly, parents per-\nceived\ngreater\nimprovement\nin\nsymptoms\nand\nreduction in severity on CGI ratings of anxiety,\nshyness, and mutism than the study psychiatrist.\nOf note, all of the participants in this study had\nexhibited symptoms for a substantial period of time\n(ie, ∼1 to 9 y). All of these children had also failed to\nrespond to previous psychosocial treatments. Given\nthe duration and severity of symptoms, parents\nlikely perceived slight improvements as a sub-\nstantial and dramatic change. In contrast, the psy-\nchiatrist, who observed more subtle improvements,\nwas likely more objective in estimating the change\nthat was occurring. However, this does not mean\nthat the slight improvements noted by the psy-\nchiatrist are unimportant, as the modest changes\nachieved from this brief psychopharmacological\nintervention are promising when placed in the\ncontext of symptom duration and severity."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.37950134277344,
+      87.95307922363281,
+      502.7878723144531,
+      97.41767883300781
+    ],
+    "text": "TABLE 4. Parent and Teacher Reports of Progress After the Onset of Fluoxetine Treatment"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      250.0157012939453,
+      111.3035659790039,
+      373.0862731933594,
+      120.26986694335938
+    ],
+    "text": "Sample of Positive Reports"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.37858581542969,
+      133.18675231933594,
+      508.6523742675781,
+      306.56011962890625
+    ],
+    "text": "Child 1\nChild is much less anxious\nTalked well with a partner\nIncreased gesturing in the classroom\nChild 2\nChild ran to the door when the doorbell rang to see who it was instead of running to her room\nChild is more socially involved with her extended family members\nExtended family member heard child speak for the ﬁrst time\nChild is much less anxious. It’s like night and day\nChild 3\nChild is less anxious\nRaising hand (in class) a lot more!\nOverall, I feel child has made wonderful progress\nChild 4\nChild is much less anxious\nChild is much less nervous to go to school\nChild more easily provides one word answers\nChild no longer experiences stomachaches before school\nChild 5\nChild is less anxious than before the study\nChild is socializing more at school"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      45.864498138427734,
+      726.6905517578125,
+      512.1697387695312,
+      734.6607666015625
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n11"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      45.86486053466797,
+      87.89637756347656,
+      270.0585021972656,
+      169.07789611816406
+    ],
+    "text": "Despite the observed reductions in social anxiety\nand improvements in speaking behaviors, all of the\nchildren continued to meet the diagnostic criteria\nfor selective mutism at the conclusion of the study.\nMost\nevidence-based\ntreatments\nfor\nselective\nmutism are grounded in the behavioral model of\nexposure\nand\nsystematic\ndesensitization.7,17,37"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      45.86421203613281,
+      171.57521057128906,
+      270.0646057128906,
+      659.2450561523438
+    ],
+    "text": "These approaches often require children to develop\na fear hierarchy, which has frequently been com-\npared with a ladder. Treatment requires that chil-\ndren start at the bottom rung of the ladder, which\ninvolves speaking in a slightly anxiety provoking\nsetting (eg, while playing a game with a trusted\npeer) and climb up the ladder to the most fear\nprovoking task (eg, speaking to a group of unfami-\nliar adults). However, attempting to complete the\ntask at the bottom rung of the ladder may be too\ndifﬁcult to achieve when anxiety is too severe.\nGiven the reductions in symptomology found in this\nstudy, ﬂuoxetine treatment may allow children who\npreviously failed to respond to psychosocial treat-\nment an opportunity to more easily participate in\npsychosocial treatments (ie, access the ﬁrst rung of\nthe\nfear\nhierarchy\nladder)\nleading\nto\ngreater\nreductions in social anxiety and improvements in\nspeaking behaviors than either treatment alone.\nThe superiority of combined treatments for anxiety\ndisorders, including social anxiety disorder, has\nbeen\ndocumented\nin\nthe\nliterature.38\nFuture\nresearch should examine if the combination of psy-\nchosocial treatments with ﬂuoxetine as well as the\nmanipulation of other treatment variables (ie, dose,\nlength of treatment) leads to more robust outcomes\nin children with selective mutism.\nPrevious research has found rapid improvements\nin speaking behaviors after the initiation of treat-\nment with an SSRI. Some researchers have sug-\ngested that the unintended side effect of behavioral\ndisinhibition\nmay\nbe\nplaying\na\nrole\nin\nthe\nimprovement in speech, instead of the intended\nanxiety reduction mechanism.9 Two participants in\nour study did experience symptoms indicative of\nbehavioral disinhibition for brief periods of time, as\nnoted by parents, although reductions in sympto-\nmology did not correspond solely with incidents of\nbehavioral disinhibition; therefore, there was no\napparent functional link between these observed\nbehaviors. Similar to ﬁndings in previous studies,9"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      45.864498138427734,
+      661.7418823242188,
+      270.04107666015625,
+      683.1687622070312
+    ],
+    "text": "a rapid reduction in symptomology was noted after\nthe initiation of the medication. Future research"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      287.94305419921875,
+      87.89656066894531,
+      512.1463012695312,
+      575.566162109375
+    ],
+    "text": "should examine why some children with selective\nmutism seem to demonstrate a rapid response to\nSSRI treatment.\nAside from reports of the behavioral disinhibition\nexperienced by 2 participants, the reports from\nparents of children in this study revealed no other\nadverse events during treatment. These results\nsuggest that ﬂuoxetine is a safe treatment for\nselective mutism in children 5 to 14 years of age,\nespecially at the doses (ie, 10 and 20 mg/d) used in\nthis study. Overall, these ﬁndings are consistent\nwith previous research that has examined the use of\nﬂuoxetine in the treatment of selective mutism and\nother internalizing disorders. For example, Black\nand Uhde11 examined the use of ﬂuoxetine for the\ntreatment of selective mutism in children between 6\nand 11 years of age and found no statistical differ-\nence in adverse events between the placebo group\nand the treatment group. In a study examining\nﬂuoxetine for internalizing disorders at a dosage of\n20 mg/d, Birmaher et al39 found a higher prevalence\nof adverse events, with approximately half of the\n7- to 17-year-old children treated with ﬂuoxetine\nexperiencing gastrointestinal side effects. Given all\nof the side effect data collected in previous clinical\ntrials indicating a small but reliable number of side\neffects with ﬂuoxetine,40 it is likely there would\nhave been a greater percentage of mild side effects\nwith a larger pool of participants.\nOverall acceptability ratings were higher than in\nprevious studies examining the use of sertraline for\nselective mutism symptoms.19,20 In this study,\nparents provided an overall acceptability rating of\n60.6, whereas parents in the study by Carlson\net al19 provided an average rating of 58.6, and\nparents in the study by Eke20 gave an average\nrating of 56.8. It is not surprising that parents\nfound the intervention acceptable given the noted\nimprovements, lack of side effects, and the fact that\nall of these children had previously failed to respond\nto a psychosocial intervention."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      287.94366455078125,
+      605.9569702148438,
+      344.58935546875,
+      615.4215698242188
+    ],
+    "text": "Limitations"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      287.94366455078125,
+      625.8562622070312,
+      512.1475219726562,
+      683.1701049804688
+    ],
+    "text": "The sole reliance on parent observations and rat-\nings for the primary outcome measures is a limi-\ntation of this study. Future studies should work to\nidentify an evaluation approach that includes rat-\nings in other settings, such as school. In addition,"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      45.864498138427734,
+      726.6905517578125,
+      512.1346435546875,
+      734.6607666015625
+    ],
+    "text": "12\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.864498138427734,
+      87.89637756347656,
+      270.0592346191406,
+      228.8322296142578
+    ],
+    "text": "the removal of Child R from data analysis is a\nlimitation and is one of the weaknesses of a non-\nconcurrent multiple-baseline design with a priori\nrandomization to treatment schedules, as addi-\ntional time cannot be provided to wait for baseline\nratings to stabilize.35,36 The consistent engagement\nin the target behaviors according to parent report\nwas unexpected, given the intensive screening\nprocess. Although it was not ideal to remove this\nchild from the analysis, this child did not appear to\nbe different on any important variable from the\nremainder of the sample."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.864498138427734,
+      254.0650177001953,
+      119.08065032958984,
+      264.0276184082031
+    ],
+    "text": "CONCLUSIONS"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.864498138427734,
+      272.545166015625,
+      270.0610046386719,
+      509.1800842285156
+    ],
+    "text": "Through the use of a methodologically sound design\nintended to draw conclusions from small samples,\nthe results of this study add to the evidence that\nﬂuoxetine treatment leads to a reduction in social\nanxiety symptoms and an increase in speaking\nbehaviors in children and adolescents with selective\nmutism who have previously failed to respond to\npsychosocial interventions. Behavioral disinhibition\ndoes\nnot\nseem\nto\nhave\nbeen\nresponsible\nfor\nimprovements in speaking behaviors. In addition,\nparticipants experienced minimal adverse events\nrelated to the ﬂuoxetine treatment, and parents\nfound the use of ﬂuoxetine for their child’s symp-\ntoms highly acceptable. Clinicians treating selective\nmutism in children and adolescents who have not\nimproved with psychosocial treatment may ﬁnd\nthat ﬂuoxetine treatment leads to reductions in\nsocial anxiety, an increase in responsive and spon-\ntaneous speech, minimal side effects, and high lev-\nels of parent acceptability."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.864498138427734,
+      534.411376953125,
+      109.73971557617188,
+      544.3739624023438
+    ],
+    "text": "REFERENCES"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.86369323730469,
+      551.8497314453125,
+      270.10528564453125,
+      676.38330078125
+    ],
+    "text": "1.\nAmerican Psychiatric Association (APA). Diagnostic and\nStatistical Manual of Mental Disorders, 5th ed. Arling-\nton, VA: APA; 2013.\n2.\nMuris P, Hendriks E, Bot S. Children of few words:\nrelations among selective mutism, behavioral inhibition\nand (social) anxiety symptoms in 3- to 6-year-olds. Child\nPsychiatry Hum Dev. 2016;47:94–101.\n3.\nMuris P, Ollendick T. Children who are anxious in\nsilence: a review on selective mutism, the new anxiety\ndisorder\nin\nDSM-5.\nClin\nChild\nFam\nPsychol\nRev.\n2015;18:151–169.\n4.\nCarbone D, Schmidt L, Cunningham C, et al. Behavioral\nand socio-emotional functioning in children with selective\nmutism:\na\ncomparison\nwith\nanxious\nand\ntypically"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      287.93603515625,
+      86.06165313720703,
+      512.2428588867188,
+      676.8341064453125
+    ],
+    "text": "developing children across multiple informants. J Abnorm\nChild Psychol. 2010;38:1057–1067.\n5.\nBergman R, Piacentini J, McCracken J. Prevalence and\ndescription of selective mutism in a school-based sample.\nJ Am Acad Child Adolesc Psychiatry. 2002;41:938–946.\n6.\nSteinhausen H, Wachter M, Laimbock K, et al. A long-\nterm outcome study of selective mutism in childhood.\nJ Child Psychol Psychiatry. 2006;47:751–756.\n7.\nBergman\nR,\nGonzalez\nA,\nPiacentini\nJ.\nIntegrated\nbehavior therapy for selective mutism: a randomized\ncontrolled pilot study. Behav Res Ther. 2013;51:680–689.\n8.\nStrawn J, Welge J, Wehry A, et al. Efficacy and\ntolerability of antidepressants in pediatric anxiety dis-\norders: a systematic review and meta-analysis. Depress\nAnxiety. 2015;32:149–157.\n9.\nCarlson J, Mitchell A, Segool N. The current state of\nempirical support for the pharmacological treatment of\nselective mutism. Sch Psychol Q. 2008;23:354–372.\n10. Bork P, Snyder D. When behavioral intervention failed:\nreport of a successful treatment of selective mutism using\nfluoxetine. Clinical Medicine and Diagnostics. 2013;3:6–10.\n11. Black B, Uhde T. Treatment of elective mutism with\nfluoxetine: a double-blind placebo-controlled study. J Am\nAcad Child Adolesc Psychiatry. 1994;33:1000–1006.\n12. Dummit E, Klein R, Tancer N, et al. Fluoxetine treat-\nment of children with selective mutism: an open trial.\nJ Am Acad Child Adolesc Psychiatry. 1996;35:615–621.\n13. Wright H, Cuccaro M, Leonhardt T, et al. Case study:\nfluoxetine in the multimodal treatment of a preschool\nchild with selective mutism. J Am Acad Child Adolesc\nPsychiatry. 1995;34:857–862.\n14. Horner R, Carr E, Halle J, et al. The use of single-subject\nresearch to identify evidence-based practice in special\neducation. Except Child. 2005;71:165–179.\n15. Carver R. The case against statistical significance test-\ning, revisited. J Exp Educ. 1993;61:287–292.\n16. Horner R, Odom S. Constructing single-case research\ndesigns: logic and options. In: Kratochwill T, Levin J,\neditors. Single-case Intervention Research: Methodological\nand Statistical Advances. Washington, DC: American\nPsychological Association; 2014:27–52.\n17. Stone B, Kratochwill T, Sladezcek I, et al. Treatment of\nselective mutism: a best-evidence synthesis. Sch Psychol\nQ. 2002;17:168–190.\n18. Riddle M, King R, Hardin M, et al. Behavioral side effects\nof fluoxetine in children and adolescents. J Child Adolesc\nPsychopharmacol. 1990;1:193–198.\n19. Carlson J, Kratochwill T, Johnston H. Sertraline treat-\nment of 5 children diagnosed with selective mutism: a\nsingle-case research trial. J Child Adolesc Psychophar-\nmacol. 1999;9:293–306.\n20. Eke A. Pharmacopsychosocial treatment of selective\nmutism: a research investigation (Doctoral dissertation),\nAnn Arbor, MI: ProQuest Dissertations & Theses; 2001.\n21. March J. Multidimensional Anxiety Scale for Children,\n2nd ed. North Tonawanda: Multi-Health Systems; 2013.\n22. Chafouleas S, Riley-Tillman T, Christ T. Direct Behavior\nRating (DBR): an emerging method for assessing social\nbehavior within a tiered intervention system. Assess Eff\nInterv. 2009;34:195–200.\n23. Riley-Tillman T, Chafouleas S, Sassu K, et al. Examining\nthe agreement of direct behavior ratings and systematic\ndirect\nobservation\ndata\nfor\non-task\nand\ndisruptive\nbehavior. J Posit Behav Interv. 2008;10:136–143.\n24. National Institute of Mental Health. Ratings scales\nand\nassessment\ninstruments\nfor\nuse\nin\npediatric"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      45.86383056640625,
+      726.6908569335938,
+      512.1690673828125,
+      734.6610717773438
+    ],
+    "text": "Journal of Psychiatric Practice Vol. 24, No. 1\nJanuary 2018\n13"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      45.86308670043945,
+      86.06085968017578,
+      270.12860107421875,
+      345.07305908203125
+    ],
+    "text": "psychopharmacology\nresearch.\nPsychopharmacol\nBull.\n1985;21:839–843.\n25. Zaider T, Heimberg R, Fresco D, et al. Evaluation\nof the clinical global impression scale among individuals\nwith social anxiety disorder. Psychol Med. 2003;33:\n611–622.\n26. Conners CK. Conners Comprehensive Behavior Rating\nScales Manual. Toronto: Multi-Health Systems; 2008.\n27. Bergman R, Keller M, Piacentini J, et al. The develop-\nment\nand\npsychometric\nproperties\nof\nthe\nSelective\nMutism Questionnaire. J Clin Child Adolesc Psychol.\n2008;37:456–464.\n28. Silverman WK, Albano AM. Anxiety Disorders Interview\nSchedule for Children for DSM-IV–Parent Version. San\nAntonio: Psychological Corportation; 1996.\n29. Letamendi A, Chavira D, Hitchcock C, et al. Selective\nMutism\nQuestionnaire:\nmeasurement\nstructure\nand\nvalidity. J Am Acad Child Adolesc Psychiatry. 2008;47:\n1197–1204.\n30. Klein R, Abikoff H, Barkley R, et al. Clinical trials in\nchildren and adolescents. In: Prien R, Robinson D,\neditors.\nClinical\nEvaluation\nof\nPsychotropic\nDrugs:\nPrinciples and Guidelines. New York, NY: Raven Press;\n1994:501–546.\n31. Wilens T, Biederman J, Kwon A, et al. A systematic chart\nreview of the nature of psychiatric adverse events in\nchildren and adolescents treated with a selective serotonin\nreuptake inhibitor. J Child Adolesc Psychopharmacol.\n2003;13:143–152."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      287.9378662109375,
+      86.06549835205078,
+      512.2302856445312,
+      345.07769775390625
+    ],
+    "text": "32. Gracious B, Youngstrom E, Findling R, et al. Discrim-\ninative validity of a parent version of the Young Mania\nRating Scale. J Am Acad Child Adolesc Psychiatry.\n2002;41:1350–1359.\n33. Kratochwill\nT,\nElliott\nS,\nLoitz\nP,\net\nal.\nConjoint\nconsultation using self-administered manual and video-\ntape\nparent-teacher\ntraining:\neffects\non\nchildren’s\nbehavioral difficulties. Sch Psychol Q. 2003;18:269–302.\n34. Kazdin A. Acceptability of alternative treatments for\ndeviant child behavior. J Appl Behav Anal. 1980;2:259–273.\n35. Watson P, Workman E. The non-concurrent multiple\nbaseline across-individuals design: an extension of the\ntraditional multiple baseline design. J Behav Ther Exp\nPsychiatry. 1981;12:257–259.\n36. Christ T. Experimental control and threats to internal\nvalidity of concurrent and nonconcurrent multiple base-\nline designs. Psychol Sch. 2007;44:451–459.\n37. Cohan S, Chavira D, Stein M. Psychosocial interventions\nfor children with selective mutism: a critical evaluation of\nthe literature from 1990-2005. J Child Psychol Psychiatry.\n2006;47:1085–1097.\n38. Walkup J, Albano A, Piacentini J, et al. Cognitive\nbehavioral therapy, sertraline, or a combination in\nchildhood anxiety. N Engl J Med. 2008;359:2753–2766.\n39. Birmaher B, Axelson D, Monk K, et al. Fluoxetine for the\ntreatment of childhood anxiety disorders. J Am Acad\nChild Adolesc Psychiatry. 2003;42:415–423.\n40. Eli Lilly and Company. Prozac: Highlights of prescribing\ninformation. Indianapolis: Eli Lilly and Company; 2011."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      45.858184814453125,
+      726.7028198242188,
+      512.1282958984375,
+      734.6730346679688
+    ],
+    "text": "14\nJanuary 2018\nJournal of Psychiatric Practice Vol. 24, No. 1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      153.3542938232422,
+      44.97498321533203,
+      405.5159912109375,
+      56.930084228515625
+    ],
+    "text": "FLUOXETINE TREATMENT FOR SELECTIVE MUTISM"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      115.71007537841797,
+      749.932861328125,
+      442.2109680175781,
+      761.887939453125
+    ],
+    "text": "Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved."
+  }
+]

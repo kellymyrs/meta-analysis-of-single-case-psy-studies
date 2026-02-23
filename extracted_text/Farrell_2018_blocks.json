@@ -1,0 +1,1472 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      482.6000061035156,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "Vol.:(0123456789)\n1 3"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      212.75225830078125,
+      54.82265090942383
+    ],
+    "text": "Child Psychiatry Hum Dev (2018) 49:317–329 \nDOI 10.1007/s10578-017-0752-x"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      63.12610626220703,
+      118.5274658203125,
+      77.46160125732422
+    ],
+    "text": "CASE STUDY"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      101.36151885986328,
+      483.1148376464844,
+      145.07351684570312
+    ],
+    "text": "Play-Modified One-Session Treatment for Young Children \nwith a Specific Phobia of Dogs: A Multiple Baseline Case Series"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      154.1518096923828,
+      294.6133117675781,
+      171.0568084716797
+    ],
+    "text": "Lara J. Farrell1   · Helen Kershaw1 · Thomas Ollendick2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      241.8043212890625,
+      216.79061889648438,
+      264.6268005371094
+    ],
+    "text": "Published online: 1 August 2017 \n© Springer Science+Business Media, LLC 2017"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1416931152344,
+      279.07781982421875,
+      365.9046936035156,
+      296.75482177734375
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1416320800781,
+      305.45281982421875,
+      546.7766723632812,
+      720.5428466796875
+    ],
+    "text": "Recent research has shown that anxiety disorders are as \nprevalent among younger children as older children, but \ncritically, younger children are less likely to receive treat-\nment [1]. Specific phobias (SPs) are often the earliest form \nof anxiety to onset, affect almost 10% of young children \n[1], and tend to be stable across early development [2]. In \nchildhood, SP are also predictive of a host of mental health \nproblems later in life, including depression, other anxiety \ndisorders and substance abuse [3–5]. Importantly, a very \nrecent 10-year prospective study (n > 2,200, 14–24  year \nolds) projected that about half of all serious adult mental \nhealth disorders could potentially be prevented if SPs dur-\ning the first two decades of life were effectively treated [6].\nThe One-Session Treatment (OST) approach developed \nby Öst [7] and later Öst and Ollendick [8] has been deemed \nwell-established [9] in the treatment of childhood SP, and \nprovides a time and cost efficient alternative to traditional \nlonger-term CBT approaches. OST incorporates in  vivo \nexposure, cognitive challenges, participant modelling, posi-\ntive reinforcement and psychoeducation in a single session \nmaximised to 3 h [10]. Empirical support for OST has been \ndemonstrated in ten studies of children and adolescence, \nincluding three large randomised controlled trials (RCT) \n[11–13] and several smaller clinical trials for a diverse \nrange of SP subtypes in youth aged 7 years and over [e.g., \n14, 15]. In these studies, OST has been found to be superior \nto waitlist control [11, 13], psychological placebo [11], and \nEye Movement Desensitization and Reprocessing (EMDR) \ntherapy [16, 17]. To date however, there have been no pub-\nlished trials of OST among young children (<6 years of \nage), which may in part be due to the challenges of engag-\ning young children in the cognitive challenges that are part \nof the treatment [9]."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.021636962890625,
+      279.3828430175781,
+      291.6527099609375,
+      532.2928466796875
+    ],
+    "text": "Abstract  The one-session treatment (OST) approach for \nSPs is deemed well-established, and has been found to be \nhighly effective for older children and adults; however, has \nnot yet been trialled with very young children. The present \nstudy examines the preliminary effectiveness of play-mod-\nified OST for young children with a SP of dogs, using a \nmultiple baseline controlled case series design. Treatment \ninvolved play modified one-session of intensive cognitive-\nbehavioural therapy (OST plus Play) which was followed \nby brief telephone delivered maintenance calls over the 3 \nweeks immediately following treatment. Four young chil-\ndren (4 years of age) participated and symptoms were \nassessed at pre-treatment, across a 1–3 week baseline \nphase, immediately following the OST plus Play, and at 1 \nand 3 months follow-up. Visual inspection provided evi-\ndence for stability of symptoms across the baseline phase, \nfollowed by reductions in symptoms over the course of \ntreatment and follow-up. Non-parametric analyses offered \nfurther support, with significant improvements in following \nthe intensive OST plus Play intervention."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.021636962890625,
+      541.8828735351562,
+      291.62164306640625,
+      569.7928466796875
+    ],
+    "text": "Keywords  Specific phobia · Children · Pre-school · OST · \nCBT · Play therapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.38610076904297,
+      631.787841796875,
+      146.2490997314453,
+      654.6102905273438
+    ],
+    "text": "*\t Lara J. Farrell \n\t\nl.farrell@griffith.edu.au"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      661.0594482421875,
+      271.1481628417969,
+      694.6693115234375
+    ],
+    "text": "1\t\nSchool of Applied Psychology and Menzies Health Institute \nQueensland, Griffith University, Gold Coast Campus, \nSouthport, QLD 4222, Australia"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      696.0910034179688,
+      270.3814392089844,
+      719.704833984375
+    ],
+    "text": "2\t\nChild Study Centre, Virginia Polytechnic Institute and State \nUniversity, Blacksburg, VA 24061, USA"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "318\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.022186279296875,
+      54.14585494995117,
+      291.66217041015625,
+      719.23583984375
+    ],
+    "text": "In recognition of the need for evidence-based treatments \nfor younger children, the field has progressed to modify \nand evaluate treatment for younger children with broad \nanxiety [18–24]. As but one example, Donovan and March \n[19] conducted a RCT whereby they randomly assigned \nfifty-two 3–6  year olds with anxiety disorders (including \nsocial phobia, separation anxiety, specific phobia, selec-\ntive mutism and generalised anxiety disorder) to either an \ninternet-delivered cognitive-behavioural treatment (NET) \nor waitlist control group (WLC). The NET intervention \nwas a parent-focused, therapist-assisted treatment condi-\ntion whereby parents of pre-school children received six \nparent sessions and two booster sessions of an already effi-\ncacious treatment [25] that was originally developed for \nolder children. The results of this trial provided initial sup-\nport for a parent-focussed treatment of childhood anxiety \ndisorders, with significantly reduced anxiety symptoms, as \nwell as a greater increase in overall functioning for the chil-\ndren in the NET condition compared to the WLC condi-\ntion. Numerous other trials have also provided support for \ngeneric CBT (i.e., CBT techniques applied to any anxiety \ndisorder) for younger children’s anxiety [e.g., 26–31], as \nwell as disorder specific CBT for separation anxiety disor-\nder [22, 23], post-traumatic stress disorder [32] and obses-\nsive–compulsive disorder [20, 32–35].\nHowever, treatments specifically targeting SPs in \nyounger children are limited by comparison, with only one \npublished randomised controlled trial of behavioural treat-\nments for childhood fears. For example, Santacruz, Mendez \nand Sanchez-Meca [24] evaluated the effectiveness of two \nparent led interventions, including bibliotherapy and games \n(BG) versus emotive performances (EP—games encourag-\ning brief parent assisted exposure tasks and contingency \nmanagement) in a randomised controlled trial of children \nwith darkness fears, relative to a no-treatment control. Sev-\nenty-eight children with darkness fears were recruited from \nschools in the community and were randomised to one of \nthe three conditions, with both BG and EP associated with \nreductions in fear at 12 months follow-up. However, given \nthat parents were required to deliver the treatment at home, \nthere was very high attrition across the study with almost \n25% of parents not completing the treatment. This study \nillustrates the burden associated with parent-focussed treat-\nments. Moreover, whilst this study provides preliminary \nsupport for a play-based exposure approach, this study \nutilised a community sample of fearful children, and chil-\ndren were excluded if they experienced comorbid anxiety \ndisorders. Currently, there are no well-controlled trials of \ndisorder-specific, empirically-supported treatments, such \nas OST, for treatment seeking preschool-aged children with \nclinical SPs.\nWhilst CBT is highly effective for older children and \nadolescents with anxiety, it is largely underutilised by"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1421203613281,
+      54.14585494995117,
+      546.7925415039062,
+      719.23583984375
+    ],
+    "text": "patients and their families for a variety of reasons, includ-\ning geographical and financial barriers, and the time inten-\nsive nature of treatment [35–38]. Consequently, there is a \npressing need to provide more efficient treatments in order \nto increase accessibility to evidence-based interventions, \nsuch as OST [7, 8, 10]. While OST has been found to be \nhighly effective for older children and adults [39], it has \nnot yet been trialled with very young children. One of the \nmost significant challenges in working with extremely fear-\nful and avoidant younger children affected by phobias is \nthat they often possess cognitive limitations to fully ben-\nefit from standard CBT and they may have little motiva-\ntion to face their fears, both of which can be problematic \nfor treatment. Herein, we suggest that a play-modified OST \napproach may provide a developmentally tailored modifi-\ncation to address the unique needs of a younger sample of \nchildren with SPs.\nIn the play-modified OST intervention, a play therapy \nframework was adopted in order to increase the young \nchild’s engagement in therapy, and thus enhance the fea-\nsibility of OST for young children (see [40, 41] for a full \ndescription of the approach). Play therapy as defined by \nLandreth [42] is a child-centered approach whereby the \ntherapist provides selected play materials that facilitate \nthe development of a safe relationship for the child to \nfully express and explore their feelings, thoughts, expe-\nriences and behaviours. Thus, the essential fundamental \nelement of play-therapy is the formation of a safe and \ntrusting therapeutic relationship with the child, which is \nachieved through the use of child-centred play. Play ther-\napy approaches are used for the first hour of the intensive \ntreatment in order to engage the child at an appropriate \ndevelopmental level, and socialise the child to the goals \nof treatment (i.e., to face her fears) in a supportive, fun \nand non-threatening way. In recognition of the fact that \nthere are many philosophical differences between dif-\nferent schools of play therapy, Yasnik and Gardner [43] \nproposed a dimensional approach to the conceptualisa-\ntion of play therapy as an intervention. The two primary \ndimensions proposed are those of directiveness and con-\nsciousness. The child’s play activities and verbalisations \nare considered to reflect the consciousness dimension, \nwhilst the directiveness refers to the therapists activ-\nity in the form of how immersed they are in the child’s \nplay (i.e., being non-directive refers to being completely \nimmersed in the child’s play activity). During the play \ntherapy intervention, the therapist, guided by the case \nconceptualisation, moves along the continuum of direc-\ntiveness, beginning with completely child-led play activ-\nity at the commencement of OST, to gradually more \ndirective play whereby the therapist engages the child in \ngently approaching the phobic stimuli. With respect to \nthe consciousness dimension, the therapist also moves"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "319\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.6625671386719,
+      519.23583984375
+    ],
+    "text": "along the continuum, at times offering timely interpreta-\ntions to facilitate conscious awareness and insight for the \nchild (e.g., the therapist holding a dog play figure says, \n“I think you might like to play with me! I am a friendly \npuppy—look at my tail wagging, I want to play with \nyou!”), always informed by the case conceptualisation \nand moving at the pace of the child. The gradual inte-\ngration of directiveness during play (which included low \nlevel exposures through the use of dog stimuli) therefore \nfacilitated the shift into much more directive, behavioural \nOST introduced in the second hour. Thus, this approach \nenables the therapist to gradually prepare and scaffold the \nchild within a safe child-centred context to face the more \nchallenging exposure tasks necessary for the treatment of \nspecific phobia.\nThe present study therefore aimed to examine the \neffectiveness of a novel one-session treatment for young \nchildren with a SP of dogs (given that SP of dogs rep-\nresents one of the most prevalent fears in young chil-\ndren), using a multiple baseline controlled case series \ndesign, given that such a design is supported by the evi-\ndenced based treatment movement [44] and allows for \nthe systematic evaluation of the efficacy of innovative \ntreatments in a controlled manner [45, 46]. Treatment \ninvolved one-session of intensive cognitive-behavioural \ntherapy augmented with play (OST plus Play) which \nwas followed by brief telephone delivered maintenance \ncalls over the 3 weeks immediately following treatment. \nIt was hypothesised that clinician ratings of SP severity \nwould remain stable during the baseline period and then \nimprove significantly following intensive OST plus Play. \nMoreover, it was predicted that significant reductions \nwould be observed from pre- to post-treatment on clini-\ncian rated global functioning, parent rated anxiety, child \nrated fear, diagnostic status, and parent rated target symp-\ntoms. Finally, it was expected that post-treatment gains \nwould be maintained at 1 and 3-month follow-up."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      53.58695602416992,
+      342.6947021484375,
+      71.26395416259766
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      79.64195251464844,
+      358.3116760253906,
+      95.71195220947266
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      104.96195983886719,
+      546.7796630859375,
+      345.05194091796875
+    ],
+    "text": "Prospective participants were recruited from advertise-\nments placed in the newsletters of local primary schools \nand day care providers. Inclusion criteria were as follows: \n(a) child between ages of 4 and 6 years, and (b) met criteria \nfor a diagnosis of a SP of dogs according to DSM-5 criteria \n[47]. Exclusion criteria included: (a) the presence of autism \nspectrum or schizophrenia disorders and/or intellectual \nimpairment, and (b) receiving concurrent psychotherapy \nfor their SP. There were no referrals to the project that met \nthe exclusion criteria. Potential participants were initially \nscreened (N = 5) for suitability on the basis of presence of \ndog phobia symptoms prior to attending the clinic for a full \nassessment. One eligible participant withdrew following \npre-treatment assessment due to an overseas trip. The final \nsample therefore included four children (aged 4–6 years), \nwith a mean age of 4.6 years (SD = 0.37), comprising of \none male and three females. Table 1 provides descriptive \ninformation for the sample, including age, gender, ethnic-\nity, socio-economic status, and diagnostic status."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1417236328125,
+      366.32196044921875,
+      335.03173828125,
+      382.3919372558594
+    ],
+    "text": "Design"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1417236328125,
+      391.6419372558594,
+      546.7618408203125,
+      519.23193359375
+    ],
+    "text": "The present study utilised a non-concurrent multiple base-\nline single-case design. This involved a series of A–B rep-\nlications whereby following pre-treatment assessment chil-\ndren were randomly assigned to either a 1-week, 2-week or \n3-week baseline condition. Repeated measures were taken \nprior to OST, at the treatment session and during brief, \nweekly telephone calls for 3 weeks following treatment, \nfollowed by 1 and 3-month follow-up sessions. This type of \ndesign allows for the assessment of symptom improvement \nduring treatment relative to baseline phases [45]."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      573.0372924804688,
+      169.8536376953125,
+      586.6968383789062
+    ],
+    "text": "Table 1   Participant demographics"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360534667969,
+      675.1307983398438,
+      546.3856811523438,
+      697.9533081054688
+    ],
+    "text": "Age in years and months; Daniel Prestige scale is used by sociologists to classify occupational status. A score between 0 and 100 is attributed \nbased on this skill based scale with 0 being low and 100 being high"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      590.3030395507812,
+      541.779541015625,
+      613.12548828125
+    ],
+    "text": "Participant\nAge\nGender\nEthnicity\nSES M and F (Dan-\niel Prestige score)\nSecondary diagnosis\nTertiary diagnosis\nOverall number of diag-\nnosis including SP dogs"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.049072265625,
+      619.0245361328125,
+      463.9874572753906,
+      669.3359985351562
+    ],
+    "text": "1\n4\nM\nCaucasian\n28.76/00.00\nNone\nNone\n1\n2\n4.6\nF\nCaucasian\n55.97/44.75\nSP (water)\nSP (costume character)\n3\n3\n4.9\nF\nCaucasian\n52.87/52.87\nNone\nNone\n1\n4\n4.9\nF\nCaucasian\n66.48/40.85\nSP (costume character)\nSP (BII)\n3"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "320\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      53.9658088684082,
+      190.08261108398438,
+      70.03580474853516
+    ],
+    "text": "Baseline and Outcome Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      79.28581237792969,
+      287.381591796875,
+      105.06581115722656
+    ],
+    "text": "Anxiety Disorders Interview Schedule for Children, Parent \nVersion (ADIS‑P) [48]"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      116.78581237792969,
+      291.6726379394531,
+      419.37579345703125
+    ],
+    "text": "The ADIS-P is a semi-structured clinical interview admin-\nistered to parents designed to assess and diagnose anxiety, \nmood and externalising DSM disorders experienced by \nschool-aged children and adolescents. Whilst the ADIS-P \ninterview is based on DSM-IV-TR diagnoses, there are no \nchanges in DSM 5 criteria in regards to the diagnosis of SP. \nThe only change is in the duration criteria, where DSM 5 \nstates that the phobic distress would be “typically” present \nfor A diagnosis is assigned based on a clinician rated score \n(CSR) from 0 to 8 (cut-off of 4 for diagnosis). Although \nthe ADIS-P was designed for use with children 6 years and \nabove, acceptable inter-rater agreement has been reported \nfor parents of younger children (0.77–0.86) [30]. All inter-\nviews were recorded and undertaken by trained clinical \npsychology postgraduate students who were supervised by \nthe lead author. Full ADIS-P clinical interviews were con-\nducted at pre-treatment (by therapist), and at 1-month and \n3-month follow-up (by a blinded, independent raters). Dur-\ning the baseline phase and the 3 weekly telephone calls fol-\nlowing the treatment session, only the SP module (SP of \ndogs) was delivered. The ADIS-P has been shown to have \nexcellent reliability, as well as possessing good to excellent \ninter-rater and retest reliability (0.81–0.96) for both symp-\ntom scales and diagnoses [49, 50]."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      429.2857971191406,
+      234.97259521484375,
+      442.5657958984375
+    ],
+    "text": "Clinical Global Impressions Scale (CGI) [51]"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      454.2857971191406,
+      291.67364501953125,
+      556.8757934570312
+    ],
+    "text": "The CGI is a clinician rated scale of severity of illness and \nchange over time. Scores on the Severity of Illness subscale \nrange from 1 to 7 (7 = among the most extremely ill). The \nCGI has been found to have sound psychometric properties, \nhas demonstrated convergent validity with other self- report \nmeasures of anxiety and depression [52], and has also been \nfound to be sensitive to change [53]. This measure was pro-\nvided by the same assessor who completed the ADIS-P."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023597717285156,
+      566.7858276367188,
+      249.50161743164062,
+      580.0657958984375
+    ],
+    "text": "Children’s Global Assessment Scale (CGAS) [54]"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023590087890625,
+      591.7858276367188,
+      291.6535949707031,
+      706.8757934570312
+    ],
+    "text": "The CGAS is a clinician rated measure of a child’s overall \nfunctioning and level of impairment. Scores on the CGAS \nrange from 1 (Needs constant supervision) to 100 (Superior \nfunctioning). The CGAS has demonstrated favourable psy-\nchometric properties with intra class correlations estimated \nat 0.84 for inter-rater reliability and 0.85 for test retest reli-\nability over 6 months [54]. This measure was also obtained \nby the same assessor who completed the complete ADIS-P \ninterview, and was reviewed in supervision."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      54.05582809448242,
+      428.59271240234375,
+      67.33583068847656
+    ],
+    "text": "Idiographic Target Behaviours"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      79.05583190917969,
+      546.7836303710938,
+      194.1458282470703
+    ],
+    "text": "Prior to treatment, parents and children worked with the \ntherapist to identify three primary target behaviours related \nto the child’s specific phobia symptoms, based on informa-\ntion gathered during the ADIS-P assessments. Parents were \nasked to rate their perception of their child’s level of fear \nassociated with each of the three target behaviours on a \nLikert scale ranging from 0 (none) to 8 (very much). Exam-\nple target behaviours include—how fearful is your child of \npatting a dog?"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      204.0558319091797,
+      497.9415588378906,
+      217.33583068847656
+    ],
+    "text": "Preschool Anxiety Scale—Revised (PAS‑R) [55]"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      229.0558319091797,
+      546.7826538085938,
+      344.14581298828125
+    ],
+    "text": "The PAS-R is a 28-item modification of the Pre-school \nAnxiety Scale (PAS) [56]. It is a parent-based question-\nnaire for measuring symptoms of DSM-defined anxiety dis-\norders in young children. Parents are asked to indicate the \nfrequency of symptoms (e.g. is afraid of insects and/or spi-\nders; is frightened of dogs) on a 5-point scale, ranging from \n1 (not at all true) to 5 (very often true). Evidence suggests \nthat the PAS-R has sound construct validity and inter-rater \nreliability [56]."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      354.0558166503906,
+      478.03265380859375,
+      367.3358154296875
+    ],
+    "text": "The Koala Fear Questionnaire (KFQ) [57]"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      379.0558166503906,
+      546.7736206054688,
+      519.1458129882812
+    ],
+    "text": "The KFQ is an interview-based, standardised self-report \nscale for assessing fears in 4–12  year old children. The \nscale consists of 31 fear provoking stimuli and situations \nthat are all illustrated with a visual scale to assess varying \ndegrees of fear (no fear, some fear, a lot of fear). According \nto Muris et al. [57], psychometric properties of the KFQ \namong young children 4–6 years of age have proven to be \nadequate, including satisfactory internal consistency and \ntest–retest reliability (0.87 and 0.89), and total scores of \nthe KFQ correlating positively with concurrent measures of \nfear and anxiety."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      529.0558471679688,
+      448.82257080078125,
+      542.3358154296875
+    ],
+    "text": "Behavioural Approach Tests (BATs)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1435852050781,
+      554.0558471679688,
+      546.7736206054688,
+      706.6458129882812
+    ],
+    "text": "A standardised BAT, following the same protocol as Ollen-\ndick et al. [11] was conducted for the child’s SP of dogs. \nThe BATs were in-vivo and the participants were asked to \napproach a real dog which was situated in a clinic room, \nheld on a leash by a dog owner, behind a closed door. The \nBATs consisted of a number of gradually more difficult \nsteps (varying between 0 and 10 steps), and participants \nwere instructed to try their best to approach the dog and \nachieve the final step of patting the dog on the head (rated \n10). In addition, participants rated their degree of subjec-\ntive units of distress (SUDS) on a Likert scale of 0–8 prior \nto entering the room with the dog, and at various stages"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "321\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.6136169433594,
+      81.73585510253906
+    ],
+    "text": "during the BAT. The percentage of steps achieved for each \nchild is presented at pre-treatment and at post-treatment."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      91.64585876464844,
+      232.0325927734375,
+      104.92585754394531
+    ],
+    "text": "Child and Parent Treatment Satisfaction [12]"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      116.64585876464844,
+      291.67364501953125,
+      269.23583984375
+    ],
+    "text": "At 1-month follow-up, children and parents completed a \nquestionnaire assessing their satisfaction with treatment. \nThe parent survey consisted of 9 items rated on a 5-point \nLikert scale, and a final item on a 3-point Likert scale \nassessing satisfaction with the length of treatment (i.e., \nlength of the treatment was just right = 0, too long = 1, too \nshort = 2). The Parent Treatment Satisfaction (PTS) yields \na total score ranging from 0 to 45 with higher scores indi-\ncating greater satisfaction. The child treatment survey con-\nsisted of 6 items rated on a 5-point Likert scale with a total \nscore of 30. Child items include ‘My treatment helped me \nto cope better with my fear of dogs’."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      278.82586669921875,
+      95.23260498046875,
+      294.8958435058594
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      304.1458435058594,
+      254.00160217285156,
+      317.42584228515625
+    ],
+    "text": "Pre‑treatment—Assessment and Psycho‑Education"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      329.1458435058594,
+      291.66363525390625,
+      719.23583984375
+    ],
+    "text": "Following full ethical approval from the University Human \nResearch Ethics Committee, the study was advertised in \nthe community to assist in recruitment. Interested parents \ncompleted an initial brief telephone screen in order to \nassess their child’s eligibility. If the child was suitable, the \nparent was emailed study information and consent forms \nand an appointment was scheduled to complete a diagnos-\ntic interview (e.g., ADIS-P) over the telephone, since past \nstudies have demonstrated reliable administration via tel-\nephone [58]. Clinician ratings of ADIS-P diagnosis (CSR), \nClinical Global Impression (CGI) and Children’s Global \nAssessment Scales (CGAS) were assigned and reviewed \nin supervision at a later time. Children deemed appropriate \nattended an assessment session at the university Psychol-\nogy Clinic, whereby they engaged in assessment, followed \nby brief psychoeducation delivered via play activities.\nThe room was set up to be conducive to a play-orien-\ntated assessment and education session for the young child. \nCarefully selected toys (see below) were available in the \nassessment room, which facilitated the following: (1) estab-\nlishing a therapeutic relationship with the child; (2) ena-\nbling the child to become familiar with the toys and clinic \nsetting prior to the treatment session; (3) assisting in a play-\nbased introduction to the concept of fear (see below) and \nthe approach to treatment for the child; and (4) supporting \nthe therapist in developing story stems which could later be \nused in treatment to assist the child in beginning to think \nabout their fear of dogs.\nDuring this session, parents completed the PAS-R and \nthe Parent Target Behaviour measure, whilst children com-\npleted the KFQ and a BAT with the assessor (who was also"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435852050781,
+      54.14585494995117,
+      546.7847290039062,
+      369.23583984375
+    ],
+    "text": "the child’s therapist). Following completion of the meas-\nures, a psycho-education component was delivered within \nthis session. This included a discussion directed at the \nparent on the theoretical formulation of the acquisition of \nphobias, a description of the symptoms of SP, and strate-\ngies to support the child when in the presence of dogs. The \nintensive nature of the treatment approach was discussed \nwith the parent and a rationale for the time-limited nature \nof treatment was provided with an explanation that the \nintensive session would provide a kick-start for the child to \nbegin practicing facing their phobic fear, which should con-\ntinue with ongoing parent led exposure practice following \nthe OST + Play session. During the psychoeducation ses-\nsion and throughout their involvement in treatment, parents \nreceived education with respect to their child’s SP, how to \nsupport their child during exposure tasks at home, the use \nof appropriate rewards, and how to support their child in \nthe event of a set-back following treatment. Through non-\ndirected play (i.e., play activity which was led by the child) \nthe therapist engaged the child in dialogue about how the \nchild felt about dogs (using animal and child play figures), \nwhat they did when they saw a dog, and how the therapist \nwould work with the child to help the child face her or his \nfear of dogs together, in order for the child to overcome \ntheir fears."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435852050781,
+      385.5958557128906,
+      506.982666015625,
+      398.8758544921875
+    ],
+    "text": "Baseline Monitoring and Assessment of Outcomes"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435546875,
+      410.5958557128906,
+      546.7736206054688,
+      600.6858520507812
+    ],
+    "text": "On a weekly basis during the baseline phase, parents com-\npleted telephone-administered ratings of the following \nmeasures: (1) ADIS-P (SP module only); (2) Pre-School \nAnxiety Scale––Parent; and (3) the Parent Target Behav-\niours. These measures were also taken at each assessment \ntime point (pre-treatment, at the time of the OST treatment, \nand each week following treatment for 3 weeks, and 1 \nand 3-month follow-ups). Clinician severity of illness rat-\nings (CSR) were assigned, along with CGI severity ratings \nand CGAS ratings (only when complete ADIS-P was con-\nducted in the case of CGAS ratings) and these were then \nreviewed in supervision. Additional measures were taken \nat the major assessment time points (with the exception of \nthe BAT which occurred at pre-, post- OST + Play, and 1 \nmonth follow-up only)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435546875,
+      617.0458984375,
+      351.5335388183594,
+      630.3258666992188
+    ],
+    "text": "OST + Play"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435546875,
+      642.0458984375,
+      546.78466796875,
+      719.6358642578125
+    ],
+    "text": "The treatment was a modified one-session treatment \napproach [8, 10] whereby play approaches were inte-\ngrated into the first hour of intensive treatment in order \nto engage the children and assist them in being able to \nsuccessfully engage in the more directive, behavioural \napproaches of OST which commenced in the 2nd and 3rd"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "322\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023590087890625,
+      54.14585494995117,
+      291.66363525390625,
+      719.23583984375
+    ],
+    "text": "hours of treatment and were consistent with the approaches \ndescribed by Öst [7] and later manualised by Öst and col-\nleagues [8, 10].\nDuring the first hour the child and therapist worked in a \ncarefully designed play environment, whereby the child had \naccess to a range of materials. Materials were specifically \nchosen based on information obtained during the pre-treat-\nment session with the aim of facilitating expression for the \nchild and for the therapist to explore the child’s cognitions \nin relation to their dog phobia. Most play materials were \ndog related and included; automated dogs, a variety of soft \ntoy dogs; dog figures, dog pictures displayed on the clinic \nroom walls; dog puppets; dog dress up costumes and acces-\nsories; dog board game; dog art materials, including stick-\ners and colouring in pictures. A doll-house, play-park with \nfences and a small selection of other animals and human \nfigures were included. The play-based activities were \nselected to increase the child’s motivation for treatment \nand to encourage the child to be involved in exposure tasks. \nIn addition, story stems were used to assist in eliciting \nchildren’s emotional responses [59] and distorted beliefs \nrelated to the phobic stimulus, and play sequences were \nused to model how to bravely behave when approached by \na dog. Children mostly created the play sequences during \nthese sessions, thus the therapist remained flexible in this \napproach and was led by the child. The therapist directed \nthe play only when deemed necessary in order to elicit the \nchild’s emotional response or to build positive coping state-\nments or model appropriate dog behaviour.\nAn example of how a story stem was used for a child \nwho identified being fearful of dogs in the park is provided. \nThe therapist directed the child’s play to include children \nplaying in the park, and a dog (directed by the therapist) \napproached and jumped at the child figure (being directed \nby the child). The therapist asked the child, “I wonder what \nhappens next?” The child indicated that the child figure \nran away and hid behind the mother figure. The therapist \nthen modelled another child figure remaining calm and \napproaching the dog to investigate whether it was friendly. \nThe play sequence was repeated and the child was encour-\naged to take the part of the brave child figure that would \napproach the dog. During the sequence positive cop-\ning statements such as “I can be brave around dogs,” and \n“this dog seems friendly, I can see he wants to play,” were \nencouraged.\nIn line with Öst and Ollendick [8] and Davis, Ollendick \n& Öst, [10], the 2nd and 3rd hour of the intensive ses-\nsion involved graduated in- vivo exposure, embedded in a \nseries of behavioural tests that the child was encouraged \nto attempt in order to obtain new information about dogs \nand the child’s ability to be brave and cope with feelings \nof being afraid. The child was encouraged to interact with \ntwo different dogs during the 2-h, one for each hour of the"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1435852050781,
+      54.14585494995117,
+      546.7837524414062,
+      581.73583984375
+    ],
+    "text": "exposure session. Each dog had different activity levels, \nwere different sizes, breeds and colours; and each was han-\ndled by their owner who was present (i.e., holding the dog \non a leash), but passive during the session. During the ses-\nsion, the child was encouraged to engage in a range of dif-\nferent tasks with each dog including approaching and pat-\nting the dog, offering the dog treats and walking the dog \non the lead. Each task was repeated multiple times until the \nchild’s anxiety reduced (by at least 50%) at the end of each \ntask as rated by the child using the feelings thermometer \n(i.e., a visual representation of a subjective units of distress \nLikert scale from 0 to 10).\nAt the end of the session, the child’s progress was \nreviewed with their parent and together homework tasks \nwere agreed on to continue practicing exposure to a vari-\nety of dogs in multiple settings. Sessions varied from child \nto child as the therapist proceeded at the child’s pace and \nadjusted the approach based on the child’s response to vari-\nous exposure tasks. Parents were actively involved in all \naspects of the treatment, including the pre-treatment psych-\noeducation session, following the end of their child’s inten-\nsive session, and during the short 20-min weekly telephone \ncalls which occurred over 3 weeks to support the parent in \nongoing exposure practice, contingency management, and \nbrainstorm any difficulties. During the OST, children were \nencouraged to share with their parents the progress they \nhad made by way of demonstrating what they had achieved \nbehaviourally in their interactions with the play materials/\ndogs at the end of each hour (as well as show photos of \nwhat they had achieved during treatment). At the conclu-\nsion of the intensive session and at 1-month follow-up, \nchildren and parents briefly reviewed progress made dur-\ning session and across weekly monitoring, and they were \nreminded of the importance of scheduling exposure time at \nhome in order to continue to make progress.\nTreatments were undertaken by post-graduate master \nlevel psychology students who had previous experience in \nthe delivery of cognitive behavioural interventions for child \nanxiety and were trained in OST by the first author (LF), \nand play components by the second author (HK) who also \nholds a master degree in Play Therapy. There were two \ntrained therapists involved in delivering the program."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1435852050781,
+      604.1458740234375,
+      391.0526123046875,
+      617.4258422851562
+    ],
+    "text": "Treatment Adherence"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1435852050781,
+      629.1458740234375,
+      546.7628173828125,
+      719.23583984375
+    ],
+    "text": "All four families completed all pre-treatment, treat-\nment, and post-treatment assessments. Three of the four \nfamilies completed 100% of homework tasks each week, \neither to the expected level or above. One family was \nunable to complete any homework 1 week after treat-\nment due to the mother being unwell. The same family \nachieved 50% of the homework tasks assigned in the"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "323\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.65362548828125,
+      94.23585510253906
+    ],
+    "text": "second week following treatment and less than 50% of \nthe homework assigned for the third week after treatment \n(Participant 4)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      127.77085876464844,
+      85.068603515625,
+      145.44786071777344
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      153.8258514404297,
+      140.8726043701172,
+      169.89585876464844
+    ],
+    "text": "Overview of Analysis"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      179.14585876464844,
+      291.65863037109375,
+      494.23583984375
+    ],
+    "text": "Single-case data were examined via visual inspection of \nparticipant’s ratings across baseline, treatment and follow-\nup periods. A series of repeated measures non-parametric \nFriedman tests were conducted to examine treatment out-\ncome over time on the primary outcome measures: Clini-\ncian Severity Rating (CSR); Parent Target Behaviours \n(PTB); Pre-school Anxiety Scale (PAS-R); Clinical Global \nImpression Scale— Severity (CGI); Children’s Global \nAssessment Scale (CGAS), and the Behavioural Approach \nTest (BAT). A Wilcoxon non-parametric t test was used to \nexamine change on the child reported Koala Fear Question-\nnaire (KFQ).\nA Reliable Change Index (RCI) [60] was calculated to \ndetermine whether the magnitude of change in children’s \nphobia severity (CSR) was reliable. An RCI cut-off of 1.96 \nstandard deviation units was used to meet criteria for reli-\nable improvement. Test–retest reliability for the ADIS/P \nclinical severity rating was obtained from Silverman et al. \n[50] for SP. Clinically significant improvement, defined by \nJacobson and Truax [60] as a change of two standard devi-\nations from the pre-treatment mean, was also assessed in \nrelation to phobia severity (CSR) and parent rated anxiety \nsymptoms (PAS-R). Furthermore, children were considered \n“recovered” if they achieved an ADIS CSR rating of <4 in \nline with past research [42]."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      516.3258666992188,
+      200.5216064453125,
+      532.3958740234375
+    ],
+    "text": "Single Case Multiple Baseline Data"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      541.6458740234375,
+      291.6615905761719,
+      719.23583984375
+    ],
+    "text": "Visual inspection of the single-case data generally demon-\nstrates stability across the baseline periods, with decline \nfollowing commencement of treatment and across follow-\nup. As can be seen in Fig. 1, changes in the slope and level \nof the clinician severity ratings (CSR’s) occurred following \nthe commencement of the OST + Play intervention, relative \nto pre-treatment and baseline phases. These graphs suggest \nthat change in CSR ratings were functionally related to the \nOST + Play intervention. In Fig.  2, the pattern of results \nare similar, with considerable changes in the slope and \nlevel of the parent target behaviour (PTB) ratings following \nOST + Play relative to pre-treatment and baseline phases, \nonce again suggesting that the change was functionally \nrelated to the OST + Play intervention."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.14361572265625,
+      53.96586990356445,
+      396.3235778808594,
+      70.0358657836914
+    ],
+    "text": "Treatment Outcomes"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1405944824219,
+      79.28587341308594,
+      546.7822875976562,
+      356.8758239746094
+    ],
+    "text": "Across primary outcome measures (see Table 2) there were \nsignificant within subjects effects of time (pre-treatment, \npost-treatment, 1- and 3-month follow-up) using Fried-\nman non-parametric repeated measures tests. There were \nsignificant effects for time on CSR χ 2 (3) = 11.70, p < .01 \nindicating a significant decrease in symptom severity from \npre-treatment to follow-up. Likewise, there was a signifi-\ncant reduction across time points in CGI severity of illness \nχ2(3) = 11.18, p < .01. There was also a statistically signifi-\ncant improvement observed across time in children’s over-\nall global functioning on the CGAS χ2(3) = 11.74, p < .01.\nOn parent-report measures, there were statistically sig-\nnificant reductions on ratings of the child’s Target Behav-\niours (PTB) χ2(3) = 11.15, p < .01, and parent reported anx-\niety symptoms as measured on the PASS-R χ2(3) = 11.37, \np < .01. On the child-rated KFQ there was no significant \nchange on the basis of Wilcoxon tests from pre-treatment to \n1-month follow-up (z = −1.83, p = .07). Finally, there was \na significant improvement in behavioural approach on the \nbasis of the BAT across time χ2(2) = 6.86, p < .05, whereby \nchildren achieved 16% of steps at pre-treatment, compared \nto 77% at 1-month follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.14959716796875,
+      366.4658508300781,
+      436.6285400390625,
+      382.53582763671875
+    ],
+    "text": "Reliable Change and Recovery"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1495666503906,
+      391.78582763671875,
+      546.78466796875,
+      719.3758544921875
+    ],
+    "text": "RCI scores [60] were calculated for CSRs to measure reli-\nable change from pre-treatment to post-treatment, 1- and \n3-month follow-up. All 4 (100%) children exceeded the \nRCI (>1.96) for reliable change on CSR scores at post-\ntreatment and at both 1-month and 3-month follow-up. At \npost-treatment, n = 3 (75%) of the children were considered \nto be recovered on the basis of a CSR < 4, which was main-\ntained at 1-month follow-up. At 3-month follow-up, n = 4 \n(100%) of the children were considered to be recovered on \nthe basis of a CSR < 4. On the basis of clinically significant \nchange (>2 SD of change from pre-treatment mean) [60], \nall children experienced clinically significant reductions on \nthe CSR at post-treatment through to 3 month follow-up.\nReliable change index scores were also calculated for \nparent rated anxiety symptoms (PAS-R) from pre to post-\ntreatment, and to 1- and 3-month follow-up. Analyses \nshowed that n = 3 (75%) were reliably improved at post-\ntreatment; and n = 4 (100%) were deemed reliably improved \nat 1- and 3-month follow-up. Furthermore, all children \n(100%) experienced clinically significant reductions on the \nPAS-R following treatment.\nIn terms of comorbid diagnoses, at post-OST both \nparticipant 2 and 4 retained their secondary and tertiary \ncomorbid diagnoses. However, at 1 month and 3-month \nfollow-up there were no participants meeting criteria for \na comorbid diagnosis, despite Participant 4 still meeting"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "324\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      541.5528564453125,
+      291.6585693359375,
+      594.142822265625
+    ],
+    "text": "primary diagnosis for a SP of dogs at 1-month follow-up. \nAt 3-months all participants were diagnosis free (including \ncomorbid diagnoses), suggesting that OST + Play was also \neffective in reducing comorbid SPs."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360534667969,
+      603.7328491210938,
+      181.77261352539062,
+      619.8028564453125
+    ],
+    "text": "Treatment Satisfaction Results"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360534667969,
+      629.0528564453125,
+      291.6535949707031,
+      719.142822265625
+    ],
+    "text": "Following treatment, 75% of parents reported that their \nchild was better able to cope with their dog phobia, and \nthat their fears no longer interfered with their daily lives. \nFurther, 75% reported the length of the treatment was “just \nright”. Parents overall reported satisfaction with treat-\nment (M = 35.5, SD = 5.74), as did children (M = 28.5, \nSD = 1.91)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1416931152344,
+      540.9938354492188,
+      355.6526794433594,
+      558.6708374023438
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1416931152344,
+      567.3688354492188,
+      546.7817993164062,
+      719.9588012695312
+    ],
+    "text": "This study explored the preliminary effectiveness of aug-\nmenting one-session cognitive behavioural treatment (i.e., \nOST) with play approaches for children of preschool age \nwith a SP of dogs. The results here provide preliminary \nevidence for the feasibility and effectiveness of OST, aug-\nmented with play, for children as young as 4 years of age. \nVisual inspection of single case data provided evidence for \nstability of symptoms across baseline periods, followed by \nreductions in symptoms over the course of treatment and \nfollow-up. Non-parametric analyses offered further sup-\nport, with significant improvements in symptoms and func-\ntioning across a range of clinician rated and parent rated"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      55.163299560546875,
+      148.5866241455078,
+      88.25373840332031
+    ],
+    "text": "Fig. 1   Clinician severity \nratings (CSR) on the phobia \nmodule of the ADIS-C/P"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      223.27200317382812,
+      466.86566162109375,
+      227.54388427734375,
+      477.5748596191406
+    ],
+    "text": "0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      223.27200317382812,
+      453.0304870605469,
+      227.54388427734375,
+      463.73968505859375
+    ],
+    "text": "2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      223.27200317382812,
+      439.1953125,
+      227.54388427734375,
+      449.9045104980469
+    ],
+    "text": "4"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      223.27200317382812,
+      425.3601379394531,
+      227.54388427734375,
+      436.0693359375
+    ],
+    "text": "6"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      223.27200317382812,
+      411.52496337890625,
+      227.54388427734375,
+      422.2341613769531
+    ],
+    "text": "8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      490.9335021972656,
+      463.7847595214844,
+      534.52001953125,
+      474.49395751953125
+    ],
+    "text": "Par\u001fcipant 1"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      220.71240234375,
+      56.50814437866211,
+      224.98428344726562,
+      112.85167694091797
+    ],
+    "text": "0\n2\n4\n6\n8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      500.6625061035156,
+      98.37203216552734,
+      544.2490234375,
+      109.08123016357422
+    ],
+    "text": "Par\u001fcipant 2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      221.85450744628906,
+      290.7506103515625,
+      226.1263885498047,
+      346.0828552246094
+    ],
+    "text": "0\n2\n4\n6\n8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      500.7044982910156,
+      332.11175537109375,
+      544.291015625,
+      342.8209533691406
+    ],
+    "text": "Par\u001fcipant 3"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      220.5438690185547,
+      174.14199829101562,
+      229.10447692871094,
+      229.1288299560547
+    ],
+    "text": "0\n2\n4\n6\n8\n10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      499.3934020996094,
+      215.32577514648438,
+      542.97998046875,
+      226.0349578857422
+    ],
+    "text": "Par\u001fcipant 4"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.28225708007812,
+      422.6004638671875,
+      202.25758361816406,
+      433.6719665527344
+    ],
+    "text": "CSR"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      190.343505859375,
+      300.0724792480469,
+      206.31883239746094,
+      311.14398193359375
+    ],
+    "text": "CSR"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      184.25149536132812,
+      181.2973175048828,
+      200.2279052734375,
+      192.3688201904297
+    ],
+    "text": "CSR"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      184.25149536132812,
+      75.2142562866211,
+      200.2279052734375,
+      86.28575897216797
+    ],
+    "text": "CSR"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "325\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.023590087890625,
+      554.0528564453125,
+      291.6636047363281,
+      719.142822265625
+    ],
+    "text": "measures. Moreover, 100% of the sample achieved reli-\nable change in phobic symptoms and parent rated anxiety, \nand 75% of the sample no longer met criteria for a clinical \ndiagnosis of specific phobia, which is in line with previ-\nous research [11, 12]. Also in line with past research, post-\ntreatment gains continued to occur over the month follow-\ning the OST [12]. Results of the current study are therefore \nin line with previous research supporting for the use of an \nintensive OST approach to treating SPs in children [8, 11, \n12, 14, 15, 17, 61].\nImportantly, all four children in this small pilot study \nremained fully engaged in the treatment protocol and \nwere able to tolerate the intensive in-vivo exposure which"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1435852050781,
+      554.0528564453125,
+      546.7716674804688,
+      719.142822265625
+    ],
+    "text": "occurred over a 3-h session. As predicted, support was \nfound from both parent’s and children’s satisfaction of \ntreatment ratings, with 100% of parents reporting that they \nfelt the treatment had been effective and they would recom-\nmend it to a friend. Children also were positive, with all \nfour saying they found the treatment extremely helpful and \nthat it helped them cope more positively with their fear of \ndogs. Three of the four families also reported that the dose \nof treatment was adequate to address their child’s SP.\nThe current study integrated play-based approaches with \nan evidence-based cognitive-behavioural treatment. The \naim was to increase child motivation, readiness for expo-\nsure and provide children with an initial sense of mastery"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      55.163299560546875,
+      151.2471160888672,
+      88.25373840332031
+    ],
+    "text": "Fig. 2   Parental reports of \nseverity of child’s fear on idi-\nographic target behaviours"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      231.8373260498047,
+      432.1394958496094,
+      239.6337127685547,
+      488.80902099609375
+    ],
+    "text": "0\n5\n10\n15\n20\n25\n30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      502.7434997558594,
+      479.9698791503906,
+      542.4390258789062,
+      489.7230224609375
+    ],
+    "text": "Par\u001fcipant 1"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      231.47743225097656,
+      307.6417541503906,
+      239.27381896972656,
+      368.363037109375
+    ],
+    "text": "0\n5\n10\n15\n20\n25\n30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      503.3594970703125,
+      354.84979248046875,
+      543.0550537109375,
+      364.6029357910156
+    ],
+    "text": "Par\u001fcipant 3"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      230.24403381347656,
+      175.8862762451172,
+      238.04042053222656,
+      232.74000549316406
+    ],
+    "text": "0\n5\n10\n15\n20\n25\n30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      504.59149169921875,
+      224.02879333496094,
+      544.2869873046875,
+      233.7819366455078
+    ],
+    "text": "Par\u001fcipant 4"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      231.01023864746094,
+      56.6201057434082,
+      238.80662536621094,
+      116.32820892333984
+    ],
+    "text": "0\n5\n10\n15\n20\n25"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      503.3594970703125,
+      104.94615173339844,
+      543.0550537109375,
+      114.69930267333984
+    ],
+    "text": "Par\u001fcipant 2"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      184.25149536132812,
+      64.5523452758789,
+      219.31874084472656,
+      105.2296371459961
+    ],
+    "text": "Severity \nRating \nTarget \nBehaviours"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      184.25149536132812,
+      184.73582458496094,
+      219.31874084472656,
+      225.4188995361328
+    ],
+    "text": "Severity \nRating \nTarget \nBehaviours"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      185.17889404296875,
+      310.9335021972656,
+      220.24725341796875,
+      351.61126708984375
+    ],
+    "text": "Severity \nRating \nTarget \nBehaviours"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      184.25149536132812,
+      441.7530212402344,
+      219.31874084472656,
+      482.43902587890625
+    ],
+    "text": "Severity \nRating \nTarget \nBehaviours"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "326\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.023590087890625,
+      254.05271911621094,
+      291.67364501953125,
+      719.1427001953125
+    ],
+    "text": "for facing their fears via play experiences. A critical ele-\nment of this approach was the establishment of a strong \ntherapeutic alliance with the child. Whilst the present study \nwas primarily child-focussed, parents were also included \nin the assessment, education and treatment phases of the \nstudy, and were considered an essential element to success-\nful outcomes for the child. In line with Ollendick et al. [12] \nand guided by Silverman and colleagues [62], a transfer of \ncontrol model was used to teach parents how to help their \nchildren when in the presence of the phobic stimulus. Due \nto the young age of the children, parents participated in the \nsecond and third hours of OST, at which point the therapist \nmodeled to the parents how to support the child in doing \nexposures at home, and children were able to demonstrate \ntheir newly acquired skills. In delivering the treatment in \nthis manner, parents were equipped with skills to establish \nongoing exposure practice following OST. When examin-\ning completion of homework tasks, it is interesting to note \nthat the one participant who was inconsistent in achieving \nhomework tasks, had an overall poorer outcome, offering \nsupport to the importance of involving parents in the ther-\napy, and providing support during the maintenance period \nfollowing treatment.\nInterestingly in this sample there was very low comor-\nbidity relative to trials with older children [12, 14, 15]. In \nthe present study, all of the children presented with specific \nphobias alone (two with multiple SPs). In comparison, tri-\nals with older treatment-seeking phobic children and youth, \nreport on average 3 or 4 comorbid diagnoses, including a \nrange of anxiety disorders, externalising disorders and \nmood disorders [14, 15]. Evidence from epidemiologi-\ncal research also suggests that comorbidity is indeed less \ncommon among pre-schoolers; however, increases with age \n[63]. Taken together, it seems important that treatments \nshould indeed be delivered earlier to children in order to \npotentially offset the development of multiple co-occurring \nanxiety disorders [6]."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1435852050781,
+      253.8727264404297,
+      417.7325134277344,
+      269.9427185058594
+    ],
+    "text": "Strengths and Limitations"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1435852050781,
+      279.1927185058594,
+      546.7837524414062,
+      719.28271484375
+    ],
+    "text": "There are a number of strengths of the current study. The \ncase series employed a controlled, multiple-baseline design \nin order to control for the effects of time. The study used \ngold-standard, psychometrically validated measures of \nassessment, including multi-methods and informants. There \nwere however several limitations to this study. Despite rec-\nommendations by the Task Force [44] for the use of sin-\ngle case series designs as a preliminary test of novel treat-\nments, the current study was a small pilot and as such, was \nunderpowered to perform more complex analyses of out-\ncome. Furthermore, this design does not allow for a com-\nparison group, and the design did not allow for a test of the \neffectiveness of the play components relative to the stand-\nard OST approaches. It is also acknowledged that the treat-\ning therapist conducted the initial ADIS-P interview, which \nmay present bias in the overall pre-treatment assessment. In \norder to minimise this threat, an independent rater was used \nto conduct the post treatment and follow-up assessments. \nMoreover, the current study targeted dog phobias only, \nsince these are among the most commonly occurring pho-\nbias in young children. Further research is needed to exam-\nine the effectiveness of this approach in treating other spe-\ncific phobias of childhood. Of note, whilst the intervention \noffers an efficient model of treatment delivery, it is also not \nwithout its challenges. In order to implement the play ther-\napy and behavioural component of OST, training of thera-\npists in the approach is likely to be important for achiev-\ning effective outcomes for children. Further, the delivery of \nplay-modified OST requires resources and access to phobic \nstimuli, which can present challenges for therapists (i.e., \ntime and costs of acquiring resources, play materials and \nphobic stimuli). However, given the high prevalence of \nphobic disorders, and that there are more common phobia \nsubtypes than others (e.g., dogs and the dark), it is likely \nthat an initial financial outlay in materials and resources"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      55.163299560546875,
+      162.95162963867188,
+      88.25373840332031
+    ],
+    "text": "Table 2   Means, standard \ndeviations and time main effects \nfor treatment outcome measures"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      178.58309936523438,
+      182.24676513671875,
+      544.2529296875,
+      205.06922912597656
+    ],
+    "text": "CSR ADIS-P Clinician Severity Rating, CGI Clinical Global Impression, CGAS Children’s Global Assess-\nment Scale, PTB Parent Target Behaviours, PAS Pre-school Anxiety Scale, BAT Behavioural Approach Test"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      178.58306884765625,
+      205.0777587890625,
+      323.6695556640625,
+      217.9042510986328
+    ],
+    "text": "*Indicates significant differences at p < .05"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      178.58306884765625,
+      217.91278076171875,
+      327.9195556640625,
+      230.73927307128906
+    ],
+    "text": "**Indicates significant differences at p ≤ .01"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      178.5825958251953,
+      59.318843841552734,
+      537.0615234375,
+      82.14131164550781
+    ],
+    "text": "Measure\nPre-OST\nM (SD)\nPost-OST\nM (SD)\n1 month\nM (SD)\n3 month\nM (SD)\nFriedman’s/\nWilcoxon\np value"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      178.59957885742188,
+      88.04033660888672,
+      543.8104858398438,
+      175.7859649658203
+    ],
+    "text": "CSR\n7 (0.82)\n3.50 (1.73)\n1.50 (1.91)\n0.50 (1.0)\n11.70\np < .01**\nCGI\n5.25 (0.96)\n3 (1.63)\n1.75 (0.96)\n1.75 (0.96)\n11.18\np = .01**\nCGAS\n61.25 (4.79)\n70 (7.07)\n91.25 (4.78)\n91.25 (4.81)\n11.74\np < .01**\nPTB\n22.75 (1.89)\n13 (8.29)\n6 (4.54)\n4.75 (6.30)\n11.15\np = .01**\nPAS-R\n24.75 (4.92)\n9.50 (5.5.)\n4 (5.48)\n2.50 (2.08)\n11.37\np = .01**\nBAT\n1.75 (1.50)\n9.50 (1.29)\n8.50 (3.31)\n6.86\np = .03*\nKFQ\n69 (14.28)\n–\n60 (17.57)\n–\n−1.83\np = .07"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "327\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.673583984375,
+      206.73585510253906
+    ],
+    "text": "would result in good clinical use. Finally, whilst the treat-\nment was termed a one-session treatment of phobias; the \nintervention itself involved a psychoeducation session at \nassessment, in order to provide the child and family with a \nrationale for the treatment approach, and furthermore, also \ninvolved brief, weekly phone calls for 3 weeks following \nthe OST in order to encourage ongoing exposure practice. \nThese components, we would argue, are very important in \norder to maximise the effectiveness of the OST session; \nhowever, we do note that they also add another element \nof complexity associated with delivery of this otherwise \nhighly efficient treatment."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      216.3258514404297,
+      195.46360778808594,
+      232.39585876464844
+    ],
+    "text": "Future Directions and Conclusion"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      241.64585876464844,
+      291.6626892089844,
+      581.73583984375
+    ],
+    "text": "The current study represents a novel, intensive treatment \nfor pre-schoolers with SPs, and provides preliminary sup-\nport for feasibility and effectiveness. The obvious next step \nis to conduct randomised controlled trials of OST + Play \nwith young children who have a broader range of specific \nphobias. Future research aimed at examining OST + Play, \nrelative to behavioural treatments alone, and no treatment/\nplacebo are needed in order to provide further evidence for \nthe efficacy, and longer term outcomes for children. Future \nexperimental studies would also benefit from examining \nthe incremental benefits of the play-therapy approaches on \nchild motivation for change, and the therapeutic alliance, in \norder to examine potential mechanisms of change. In the \ncurrent economic climate, the drive to develop evidenced-\nbased treatments that can be delivered with minimal costs \nand high efficiency becomes increasingly significant. \nMoreover, given the early onset of childhood phobias and \nthe predictive nature of these for later adult mental health \ndisorders’, there is a need to intervene early and effectively. \nThese findings provide promise for the treatment of pho-\nbias in very young children, which may reduce the risk of \nchildren developing more complex mental health problems \nin the future. Addressing the feasibility of disseminating \nnovel, evidence-based interventions into community prac-\ntice is therefore another important research endeavour. In \norder to achieve this, the evaluation of therapists training in \nsuch interventions warrants further attention."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      602.7708740234375,
+      97.55360412597656,
+      620.4478759765625
+    ],
+    "text": "Summary"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      629.1458740234375,
+      291.6436462402344,
+      719.23583984375
+    ],
+    "text": "Play modified OST for young children with a SP of dogs \nwas evaluated using a multiple baseline controlled case \nseries design. Treatment involved one session of inten-\nsive cognitive-behavioural therapy augmented with play \n(OST plus Play) which was followed by brief telephone \ndelivered maintenance calls over the 3 weeks immediately \nfollowing treatment. Outcomes demonstrated significant"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1435852050781,
+      54.14579391479492,
+      546.778564453125,
+      194.2357940673828
+    ],
+    "text": "improvements in symptoms and functioning across a range \nof clinician-rated and parent-rated measures of symp-\ntoms and functioning following the intensive OST plus \nPlay intervention. Moreover, all children achieved reliable \nchange in phobic symptoms and parent rated anxiety, and \nno longer met criteria for a clinical diagnosis of specific \nphobia at 3 months following the intervention. Given the \nSP in childhood onset from an early age and have been \nshown to be highly predictive of lifelong mental health \nproblems [6], intervening early and effectively represents a \nhigh priority mental health initiative."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      220.67283630371094,
+      357.0925598144531,
+      238.34983825683594
+    ],
+    "text": "References"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      246.08233642578125,
+      546.4067993164062,
+      718.724853515625
+    ],
+    "text": "1.\t Egger HL, Angold A (2006) Common emotional and behavioral \ndisorders in preschool children: presentation, nosology, and epi-\ndemiology. J Child Psychol Psychiatry 47(3-4):313–337\n\t 2.\t Bufferd SJ, Dougherty LR, Carlson GA, Rose S, Klein DN \n(2012) Psychiatric disorders in preschoolers: continuity from \nages 3 to 6. Am J Psychiatry 169(11):1157–1164\n\t 3.\t Bittner A, Egger HL, Erkanli A, Jane Costello E, Foley DL, \nAngold A (2007) What do childhood anxiety disorders predict? J \nChild Psychol Psychiatry 48(12):1174–1183\n\t 4.\t Cole DA, Peeke LG, Martin JM, Truglio R, Seroczynski AD \n(1998) A longitudinal look at the relation between depression \nand anxiety in children and adolescents. J Consult Clin Psychol \n66(3):451\n\t 5.\t Kendall PC, Safford S, Flannery-Schroeder E, Webb A (2004) \nChild anxiety treatment: outcomes in adolescence and impact \non substance use and depression at 7.4-year follow-up. J Consult \nClin Psychol 72(2):276–287\n\t 6.\t Lieb R, Miché M, Gloster AT, Beesdo-Baum K, Meyer AH, \nWittchen HU (2016) Impact of specific phobia on the risk of \nonset of mental disorders: a 10-year prospective-longitudinal \ncommunity study of adolescents and young adults. Depress Anx-\niety 33(7):667–675\n\t 7.\t Öst LG (1989) One-session treatment for specific phobias. Behav \nRes Ther 27(1):1–7\n\t 8.\t Öst LG, Ollendick TH (2001) Manual for the one-session treat-\nment of specific phobias in children and adolescents. Virginia \nPolytechnic University, Blacksburg\n\t 9.\t Davis TE, Ollendick TH (2005) Empirically supported treat-\nments for specific phobia in children: do efficacious treatments \naddress the components of a phobic response? Clin Psychol Sci \nPract 12(2):144–160\n\t10.\t Davis TE, Ollendick TH, Öst LG (2012) Intensive one-session \ntreatment of specific phobias. Springer, New York\n\t11.\t Ollendick TH, Öst LG, Reuterskiöld L, Costa N, Cederlund R, \nSirbu C et al (2009) One-session treatment of specific phobias in \nyouth: a randomized clinical trial in the United States and Swe-\nden. J Consult Clin Psychol 77(3):504–516\n\t12.\t Ollendick TH, Halldorsdottir T, Fraire MG, Austin KE, Noguchi \nRJP, Lewis KM et al (2015) Specific phobias in youth: a ran-\ndomized controlled trial comparing one-session treatment to a \nparent-augmented one-session treatment. Behaviour Therapy \n46:141–155\n\t13.\t Öst LG, Svensson L, Hellström K, Lindwall R (2001) One-ses-\nsion treatment of specific phobias in youths: a randomized clini-\ncal trial. J Consult Clin Psychol 69(5):814\n\t14.\t Waters AM, Farrell LJ, Zimmer-Gembeck MJ, Milliner E, Tira-\nlongo E, Donovan CL et  al (2014) Augmenting one-session"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      30.665645599365234,
+      544.252197265625,
+      43.49214553833008
+    ],
+    "text": "328\n\t\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02299499511719,
+      54.687313079833984,
+      291.2916564941406,
+      717.2532958984375
+    ],
+    "text": "treatment of children’s specific phobias with attention training to \npositive stimuli. Behav Res Ther 62:107–119\n\t15.\t Farrell LJ, Waters AM, Oar EL, Tiralongo E, Garbharran V, \nAlston-Knox C, McConnell H, Collings N, Zimmer-Gembeck \nM, Donovan CL, Testa C, Storch EA, Ollendick TH (Submitted). \nD-Cycloserine augmented one-session treatment of specific pho-\nbias in children and adolescents. Brain Behav\n\t16.\t Muris P, Merckelbach H, Holdrinet I, Sijsenaar M (1998) Treat-\ning phobic children: effects of EMDR versus exposure. J Consult \nClin Psychol 66(1):193–198\n\t17.\t Muris P, Merckelbach H, Van Haaften H, Mayer B (1997) Eye \nmovement desensitisation and reprocessing versus exposure \nin vivo. A single-session crossover study of spider-phobic chil-\ndren. Br J Psychiatry 171(1):82–86\n\t18.\t Cartwright-Hatton S, Reynolds S, Wilson C (2011) Adult mod-\nels of anxiety and their application to children and adolescents. \nIn: Silverman WK, Field AP (eds) Anxiety disorders in chil-\ndren and adolescents, 2nd edn. Cambridge University Press, pp \n129–158\n\t19.\t Donovan CL, March S (2014) Online CBT for preschool anxiety: \na randomized controlled trial. Behav Res Ther 58:24–35\n\t20.\t Freeman JB, Choate-Summers ML, Moore PS, Garcia AM, \nSapyta JJ, Leonard HL, Franklin ME (2007) Cognitive behav-\nioural treatment for young children with obsessive-compulsive \ndisorder. Biol Psychiatry 61(3):337–343\n\t21.\t Lewis KM, Amatya K, Coffman MF, Ollendick TH (2015) \nTreating nighttime fears in young children with bibliotherapy: \nevaluating anxiety symptoms and monitoring behaviour change. \nJ Anxiety Disord 30:103–112\n\t22.\t Pincus DB, Santucci LC, Ehrenreich JT, Eyberg SM (2008) The \nimplementation of modified parent-child interaction therapy for \nyouth with separation anxiety disorder. Cogn Behav Practice \n15(2):118–125\n\t23.\t Schneider S, Blatter-Meunier J, Herren C, Adornetto C, In-\nAlbon T, Lavallee K (2011) Disorder-specific cognitive-behav-\nioural therapy for separation anxiety disorder in young children: \na randomized waiting-list-controlled trial. Psychother Psychoso-\nmat 80(4):206–215\n\t24.\t Santacruz I, Méndez FJ, Sánchez-Meca J (2006) Play therapy \napplied by parents for children with darkness phobia: compari-\nson of two programmes. Child Fam Behav Ther 28(1):19–35\n\t25.\t March S, Susan SH, Donovan CL (2009) The efficacy of an \ninternet-based cognitive-behavioral therapy intervention for \nchild anxiety disorders. J Pediatr Psychol 34(5):474–487\n\t26.\t Cartwright-Hatton S, Tschernitz N, Gomersall H (2005) Social \nanxiety in children: social skills deficit, or cognitive distortion? \nBehav Res Ther 43(1):131–141\n\t27.\t Cartwright-Hatton S, McNally D, Field AP, Rust S, Laskey B, \nDixon C, Gallagher B, Harrington R, Miller C, Pemberton K, \nSymes W (2011) A new parenting-based group intervention for \nyoung anxious children: results of a randomized controlled trial. \nJ Am Acad Child Adolesc Psychiatry 50(3):242–251\n\t28.\t Hirshfeld-Becker DR, Micco JA, Mazirsky H, Bruett L, Henin \nA (2011) Applying cognitive-behavioural therapy to the younger \nchild. Child Adolesc Psychiatr Clin N Am 20:349–368\n\t29.\t Kennedy SJ, Rapee RM, Edwards SL (2009) A selective inter-\nvention program for inhibited preschool-aged children of par-\nents with an anxiety disorder: effects on current anxiety disor-\nders and temperament. J Am Acad Child Adolesc Psychiatry \n48(6):602–609\n\t30.\t Rapee RM, Kennedy S, Ingram M, Edwards S, Sweeney L \n(2005) Prevention and early intervention of anxiety disor-\nders in inhibited preschool children. J Consult Clin Psychol \n73(3):488–497\n\t31.\t Waters AM, Ford LA, Wharton TA, Cobham VE (2009) Cog-\nnitive-behavioural therapy for young children with anxiety"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.1419677734375,
+      54.423336029052734,
+      546.4114990234375,
+      716.9893188476562
+    ],
+    "text": "disorders: comparison of a child + parent condition versus a par-\nent only condition. Behav Res Ther 47(8):654–662\n\t32.\t Deblinger E, Stauffer LB, Steer RA (2001) Comparative effica-\ncies of supportive and cognitive behavioral group therapies for \nyoung children who have been sexually abused and their nonof-\nfending mothers. Child Maltreat 6(4):332–343\n\t33.\t Freeman J, Garcia A, Benito K, Conelea C, Sapyta J, Khanna M \net al (2012) The pediatric obsessive compulsive disorder treat-\nment study for young children (POTS Jr): developmental consid-\nerations in the rationale, design, and methods. J Obsessive Com-\npul Relat Disord 1(4):294–300\n\t34.\t Lewin AB, Park JM, Jones AM, Crawford EA, De Nadai AS, \nMenzel J et al (2014) Family-based exposure and response pre-\nvention therapy for preschool-aged children with obsessive-com-\npulsive disorder: a pilot randomized controlled trial. Behav Res \nTher 56:30–38\n\t35.\t Freeman J, Sapyta J, Garcia A, Compton S, Khanna M, Flessner \nC et al (2014) Family-based treatment of early childhood obses-\nsive-compulsive disorder: the Pediatric Obsessive-Compulsive \nDisorder Treatment Study for Young Children (POTS Jr)—a ran-\ndomized clinical trial. JAMA Psychiatry 71(6):689–698\n\t36.\t Goisman RM, Rogers MP, Steketee GS, Warshaw MG, Cuneo P, \nKeller MB (1993) Utilization of behavioral methods in a multi-\ncenter anxiety disorders study. J Clin Psychiatry 54(6):213–218\n\t37.\t Marques L, LeBlanc NJ, Weingarden HM, Timpano KR, Jenike \nM, Wilhelm S (2010) Barriers to treatment and service utiliza-\ntion in an internet sample of individuals with obsessive–compul-\nsive symptoms. Depress Anxiety 27(5):470–475\n\t38.\t Turner C, Heyman I, Futh A, Lovell K (2009) A pilot study \nof telephone cognitive-behavioural therapy for obsessive-\ncompulsive disorder in young people. Behav Cogn Psychother \n37(04):469–474\n\t39.\t Davis TE III, Jenkins WS, Rudy BM (2012) Empirical status of \none-session treatment. In: Davis TE, Ollendick TH, Öst LG (eds) \nIntensive one-session treatment of specific phobias. Springer, \nNew York, pp 209–226\n\t40.\t Kershaw H, Farrell LJ, Donovan C, Ollendick T (2017) Cog-\nnitive behavioral therapy in a one-session treatment for a pre-\nschooler with specific phobias. J Cogn Psychother 31(1):7–22\n\t41.\t Munro-Lee E, Kershaw H, Farrell LJ (2017). Integrating play \ntherapy into single session behavioral treatment for pre-school \nchildren with specific phobias. In Schaefer C, Drewes A (eds) \nChildhood anxieties, fears, and phobias: effective play-based \ninterventions and techniques. Guilford Press, New York (in \npress)\n\t42.\t Landreth G (1991). Play therapy: the art of the relationship, 2nd \nedn. Brunner-Routledge (Taylor & Francis Group), Denton\n\t43.\t Yasenik L, Gardner K (2004) Play therapy dimensions model: \na decision making guide for intergrative play therapists. The \nRocky Mountain Calgary: Play Therapy Institute\n\t44.\t Task Force on Promotion and Dissemination of Psychological \nProcedures (1995) Training in and dissemination of empirically-\nvalidated psychological treatments: report and recommendations. \nClin Psychol 48:3–23\n\t45.\t Carr JE (2005) Recommendations for reporting multiple-base-\nline designs across participants. Behav Interv 20(3):219–224\n\t46.\t Farrell LJ, Oar EL, Waters AM, McConnell H, Tiralongo E, \nGarbharran V, Ollendick TH (2016) Brief intensive CBT for \npediatric OCD with E-therapy maintenance. J Anxiety Disord \n42:85–94\n\t47.\t American Psychiatric Association (2013). Diagnostic and statis-\ntical manual of mental disorders (DSM-5). American Psychiatric \nPublication, New York\n\t48.\t Silverman WK, Albano AM (1996) Anxiety disorders interview \nschedule for DSM-IV.: parent interview schedule, vol 1. Oxford \nUniversity Press, Oxford"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02252197265625,
+      30.665645599365234,
+      544.2520141601562,
+      43.49214553833008
+    ],
+    "text": "329\nChild Psychiatry Hum Dev (2018) 49:317–329"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      54.687313079833984,
+      291.2846374511719,
+      357.3972473144531
+    ],
+    "text": "49.\t Rapee RM, Barrett PM, Dadds MR, Evans L (1994) Reliability \nof the DSM-III-R childhood anxiety disorders using structured \ninterview: Inter-rater and parent-child agreement. J Am Acad \nChild Adolesc Psychiatry 33(7):984–992\n\t50.\t Silverman WK, Saavedra LM, Pina AA (2001) Test-retest relia-\nbility of anxiety symptoms and diagnoses with the anxiety disor-\nders interview schedule for DSM-IV: child and parent versions. J \nAm Acad Child Adolesc Psychiatry 40(8):937–944\n\t51.\t Guy W (ed) (1976) ECDEU assessment manual for psychophar-\nmacology. US Department of Health, Education, and Welfare, \nPublic Health Service, Alcohol, Drug Abuse, and Mental Health \nAdministration, Rockville\n\t52.\t Zaider TI, Heimberg RG, Fresco DM, Schneier FR, Liebowitz \nMR (2003) Evaluation of the clinical global impression scale \namong individuals with social anxiety disorder. Psychol Med \n33(04):611–622\n\t53.\t Leon AC, Shear MK, Klerman GL, Portera L, Rosenbaum JF, \nGoldenberg I (1993) A comparison of symptom determinants of \npatient and clinician global ratings in patients with panic disor-\nder and depression. J Clin Psychopharmacol 13(5):327–331\n\t54.\t Shaffer D, Gould MS, Brasic J, Ambrosini P, Fisher P, Bird \nH, Aluwahlia S (1983) A children’s global assessment scale \n(CGAS). Arch Gen Psychiatry 40(11):1228–1231\n\t55.\t Edwards SL, Rapee RM, Kennedy SJ, Spence SH (2010) The \nassessment of anxiety symptoms in preschool-aged children: the \nrevised Preschool Anxiety Scale. J Clin Child Adolesc Psychol \n39(3):400–409\n\t56.\t Spence SH, Rapee R, McDonald C, Ingram M (2001) The struc-\nture of anxiety symptoms among pre-schoolers. Behav Res Ther \n39(11):1293–1316"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.142578125,
+      54.567745208740234,
+      546.3993530273438,
+      337.2856750488281
+    ],
+    "text": "57.\t Muris P, Meesters C, Mayer B, Bogie N, Luijten M, Geebelen \nE, Bessems J, Smit C (2003) The Koala Fear Questionnaire: a \nstandardized self-report scale for assessing fears and fearful-\nness in pre-school and primary school children. Behav Res Ther \n41(5):597–617\n\t58.\t Lyneham HJ, Rapee RM (2005) Agreement between telephone \nand in-person delivery of a structured interview for anxiety \ndisorders in children. J Am Acad Child Adolesc Psychiatry \n44(3):274–282\n\t59.\t Bretherton I, Ridgeway D, Cassidy J (1990) Assessing inter-\nnal working models of the attachment relationship: an attach-\nment story completion task for 3-year-olds. In: Greenberg MT, \nCicchetti D, Cummings EM (eds) Attachment in the preschool \nyears: theory, research, and intervention (273–308). University \nof Chicago Press, Chicago\n\t60.\t Jacobsen NS, Truax P (1991) Clinical significance: a statisti-\ncal approach to defining meaningful change in psychotherapy \nresearch. J Consult Clin Psychol 59(1):12\n\t61.\t Oar EL, Farrell LJ, Waters AM, Conlon EG, Ollendick TH \n(2015) One session treatment for pediatric blood-injection-injury \nphobia: a controlled multiple baseline trial. Behav Res Ther \n73:131–142\n\t62.\t Silverman WK, Kurtines WM, Jaccard J, Pina AA (2009) Direc-\ntionality of change in youth anxiety treatment involving parents: \nan initial examination. J Consult Clin Psychol 77(3):474\n\t63.\t Beesdo K, Knappe S, Pine DS (2009) Anxiety and anxiety disor-\nders in children and adolescents: developmental issues and impli-\ncations for DSM-V. Psychiatr Clin North Am 32(3):483–524"
+  }
+]
