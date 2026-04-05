@@ -1,0 +1,4082 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      56.42802429199219,
+      276.37200927734375,
+      77.6500244140625
+    ],
+    "text": "A Case Series: Cognitive-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      116.42198181152344,
+      332.4060363769531,
+      157.6419677734375
+    ],
+    "text": "and Rescripting Therapy) of Trauma-Related Nightmares",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      209.93690490722656,
+      359.3647155761719,
+      239.58709716796875
+    ],
+    "text": "Shantel Fernandez 1 , Lisa DeMarni Cromer 2 , Cameo Borntrager 3 , Rachael Swopes 2 , Rochelle F. Hanson 4 ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      302.31878662109375,
+      448.22003173828125,
+      409.92877197265625
+    ],
+    "text": "Two case studies are presented to demonstrate that children who experience trauma-related nightmares may benefit from cognitive-behavioral therapy for this sleep problem. The treatment was adapted from the empirically supported adult treatment for chronic trauma-related nightmares: exposure, relaxation, and rescripting therapy (ERRT). Pretreatment and posttreatment nightmare frequency and severity were measured in addition to subjective nightmare-related distress, behavioral problems, sleep quality and quantity, and symptoms of posttraumatic stress disorder (PTSD), anxiety, and depression. Improvement in nightmare and sleep disturbance frequencies were found as well as reductions in parents’ reports of child behavior problems. This study provides preliminary support for the use of ERRT with children.",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      442.15875244140625,
+      288.2200927734375,
+      453.7687683105469
+    ],
+    "text": "sleep problems, dreams, posttraumatic stress, treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      471.1358947753906,
+      326.6039733886719,
+      485.2839050292969
+    ],
+    "text": "1 Theoretical and Research Basis for Treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      496.239990234375,
+      447.94012451171875,
+      555.3099975585938
+    ],
+    "text": "Unfortunately, many children are exposed directly (e.g., sexual abuse, motor vehicle accident, hurricane) and indirectly (e.g., witnessing domestic violence) to traumatic events (Cohen, 2003). Traumatic events are defined by the Diagnostic and Statistical Manual of Mental Disorders (4th ed., text rev.; DSM-IV-TR ; American Psychiatric Association [APA], 2000) as extreme stressors directly experienced by or witnessed by a person that involve threat of death,",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      634.4261474609375,
+      373.7280578613281,
+      643.7141723632812
+    ],
+    "text": "Shantel Fernandez, Tripler Army Medical Center, 1 Jarrett White Road, Honolulu, HI 96859, USA",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      76.42601013183594,
+      262.8540344238281,
+      117.64599609375
+    ],
+    "text": "Behavioral Treatment (Exposure, Relaxation,",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      156.41795349121094,
+      270.3960266113281,
+      177.63995361328125
+    ],
+    "text": "Experienced by Children",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.000701904296875,
+      237.93690490722656,
+      176.91200256347656,
+      253.58709716796875
+    ],
+    "text": "and Joanne L. Davis 2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      287.30877685546875,
+      103.81999206542969,
+      299.0987854003906
+    ],
+    "text": "Abstract",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      427.1487731933594,
+      108.04000091552734,
+      438.93878173828125
+    ],
+    "text": "Keywords",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      574.0250244140625,
+      241.39198303222656,
+      633.7141723632812
+    ],
+    "text": "1 Tripler Army Medical Center, Honolulu, HI, USA 2 University of Tulsa, OK, USA 3 University of Montana, Missoula, USA 4 Medical University of South Carolina, Charleston, USA Corresponding Author:",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.0,
+      644.4261474609375,
+      183.0159912109375,
+      653.7141723632812
+    ],
+    "text": "Email: shantel.fernandez@us.army.mil",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      386.6849060058594,
+      50.37300109863281,
+      445.4009094238281,
+      58.5
+    ],
+    "text": "Clinical Case Studies",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      410.9328918457031,
+      58.87098693847656,
+      445.40087890625,
+      66.99798583984375
+    ],
+    "text": "12(1) 39–59",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      375.8628845214844,
+      67.36897277832031,
+      447.346923828125,
+      83.99395751953125
+    ],
+    "text": "© The Author(s) 2013 Reprints and permission:",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      340.4568786621094,
+      84.36494445800781,
+      445.4010009765625,
+      100.98992919921875
+    ],
+    "text": "sagepub.com/journalsPermissions.nav DOI: 10.1177/1534650112462623",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      381.59588623046875,
+      101.36091613769531,
+      445.40093994140625,
+      109.4879150390625
+    ],
+    "text": "http://ccs.sagepub.com",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.600006103515625,
+      65.02670288085938,
+      435.1201477050781,
+      88.09671020507812
+    ],
+    "text": "serious injury, or threat to physical integrity and where the person’s subjective feeling is fear, helplessness, or horror. In children, this reaction may be expressed instead as disorganized or",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.600006103515625,
+      101.02670288085938,
+      435.1799621582031,
+      412.0967102050781
+    ],
+    "text": "Within the last 12 years, the prevalence of trauma exposure has been examined in epidemiological studies with children and adolescents (Fairbank, 2008). Finkelhor, Ormrod, Turner, and Hamby (2005) conducted a large national survey on the victimization of children, ages 2 to 17. They examined 34 forms of traumatic events with a sample of 2,030 children and found that 71% had experienced at least one victimization experience in the past year. The Great Smoky Mountains Study, a longitudinal general population study of 1,420 9- to16-year old children, found that 67.8% experienced at least one traumatic event by the age of 16 (Copeland, Keeler, Angold, & Costello, 2007; Costello, Erkanli, Fairbank, & Angold, 2002). Taken together, these large epidemiological studies reveal that children are experiencing traumatic events at high rates. Although most children are resilient to traumatic events or display short-term reactions (Feeny, Foa, Treadwell, & March, 2004), a significant minority experience a wide range of stress reactions that are severe and long-lasting (Vogel & Vernberg, 1993). Sleep disturbances, especially nightmares, are common among children who have experienced a traumatic event and are closely linked to posttraumatic stress disorder (PTSD; Connolly, McClowry, Hayman, Mahony, & Artman, 2004). In fact, several studies examining self-reported symptoms of PTSD in children have found that sleep disturbances are among the most prominent symptoms of this disorder (Glod, Teicher, Hartman, & Harakal, 1997). These sleep symptoms are also included in two of the three PTSD symptom clusters, reexperiencing symptoms (i.e., nightmares) and increased arousal (i.e., difficulty falling and staying asleep; Pillar, Malhotra, & Peretz, 2000). There is currently no agreed-on terminology to refer to nightmares experienced after a traumatic event. In the literature, they have been referred to as trauma nightmares, trauma dreams, traumatic nightmares, trauma-related dreams, posttraumatic nightmares, posttraumatic anxiety dreams , to name a few. Attempts have been made by researchers to create classification systems to differentiate between types of dream experiences. However, these classifications have not been readily applied. Given the present state of the literature, the term trauma nightmares as defined by Pagel (2000) was used in this study: nightmares that occur after an extremely fright-",
+    "line_count": 26,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.600006103515625,
+      425.0267028808594,
+      435.19000244140625,
+      652.0966796875
+    ],
+    "text": "Although advances in understanding trauma nightmares have been made with adult populations (e.g., Forbes et al., 2003; Pillar et al., 2000), little effort has been invested into exploring the nature and treatment of children’s trauma nightmares. It is possible that the relative lack of empirical attention to the treatment of trauma-related nightmares experienced by children is due to the belief that nightmares are a normal part of early development and will decrease over time (Mindell & Cashman, 1995). However, the literature indicates that trauma-related nightmares may be long-lasting and cause significant impairment and distress (Davis & Wright, 2007). Studies with adults and children have shown that trauma-related nightmares are associated with a number of sleep problems such as insomnia, difficulties falling and staying asleep, and frequent awakenings, which result in decreased sleep quality and quantity (Davis & Wright, 2007; Langston, 2007). Davis and colleagues (2011) found that trauma-related nightmares were associated with greater disturbances than idiopathic nightmares. Sleep is especially important in childhood and adolescence for normal cognitive and physical development. Poor sleep in youth has been associated with a number of daytime functioning problems, including conduct problems, decline in school performance (e.g., lower grades), hyperactivity, affect regulation, and low frustration tolerance (e.g., Dahl, Holttum, & Trubnick, 1994; Dahl & Lewin, 2002). Problems related to a child’s sleep behaviors have also been found to have significant effects on parenting stress (Byars, Yeomans-Maldonado, & Noll, 2011), potentially creating a cycle of poor sleep, distress, and stress that affects the entire family.",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.600006103515625,
+      89.02670288085938,
+      175.24002075195312,
+      100.09671020507812
+    ],
+    "text": "agitated behavior (APA, 2000).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.600006103515625,
+      413.0267028808594,
+      179.87001037597656,
+      424.0967102050781
+    ],
+    "text": "ening or highly emotional event.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      62.359954833984375,
+      65.02670288085938,
+      447.93994140625,
+      604.0966796875
+    ],
+    "text": "The literature on treatments for trauma-related nightmares in children and adolescents primarily includes single-case studies conducted two to three decades ago (e.g., Cavior & Deutsch, 1975; Davis, de Arellano, Falsetti, & Resnick, 2003; Palace & Johnston, 1989; Roberts & Gordon, 1979), with the exception of two nonrandomized controlled studies (Krakow et al., 2001; Simard & Nielson, 2009). Krakow and colleagues (2001) found that imagery rehearsal therapy (IRT) decreased children’s trauma-related nightmares but neither improved sleep quality nor reduced PTSD symptoms or daytime distress. Simard and Nielson (2009) found for used IRT for non-trauma related nightmares but found no difference between the treatment and waitlist control group. They speculated that the daily telephone logs completed by both groups had a therapeutic effect; however, it does not appear that regression to the mean was ruled out as well. Used alone and in combination with other techniques, systematic desensitization has provided some relief for children experiencing trauma-related nightmares. In one study, systematic desensitization decreased anxiety associated with the trauma-related nightmares but did not decrease trauma-related nightmare frequency (Cavior & Deutsch, 1975). Nonetheless, with a reduction in distress, there was also an improvement in sleep and daytime functioning. The combination of systematic desensitization, response prevention, and extinction procedures used in another study was successful in eliminating nightmares and improving problem behaviors (Roberts & Gordon, 1979). Dream reorganization, a cognitive treatment that coupled systematic desensitization and rescripting (Palace & Johnston, 1989), also was associated with decreased nightmares and improved sleep habits. More recently, Davis et al. (2003) modified exposure, relaxation, and rescripting therapy (ERRT) to emphasize exposure, and added treatment components, including relaxation techniques, sleep habit identification and modification, and modification of cognitive distortions. This combination treatment was associated with abatement of trauma-related nightmares, sleep problems, and symptoms of anxiety, depression, and PTSD. Over the past 10 years, cognitive-behavioral treatments such as ERRT (Davis, 2009) have gained empirical support for alleviating nightmares, sleep problems, and related psychopathology. ERRT is a cognitive-behavioral treatment for trauma-related nightmares. It was first successfully piloted with an adolescent rape victim (Davis et al., 2003), and subsequent research was conducted with adults. Davis and Wright (2007) conducted a randomized controlled trial ( N = 43) of ERRT; they determined efficacy based on indices of nightmare frequency and severity, along with related mental health and sleep problems. Intent-to-treat and completer analyses indicated statistically significant improvements in nightmare frequency, severity, and distress, and sleep quality and quantity, and generalized to improvements in PTSD, anxiety, and depression. Treatment gains were maintained for more than a 6-month follow-up. A second randomized control trial (Davis et al., 2011) replicated earlier findings at post-treatment and follow-up. The replication study reduced physiological indices of fear and distress related to nightmare imagery. The treatment also shows promise for use with veterans (Long et al., 2011; Swanson, Favorite, Horin, & Arnedt, 2009). Given the success of ERRT with adults and an adolescent, and the absence of any contraindications in the literature or in these studies, we adapted the treatment for children. Cognitivebehavioral treatments have had success with children, albeit in fewer symptom domains (e.g., Cavior & Deutsch, 1975; Roberts & Gordon, 1979). The modification of ERRT to children appeared promising for treating not only trauma-related nightmares but also associated problems such as sleep difficulties and mood and anxiety disorder symptoms.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      89.02700805664062,
+      435.1956787109375,
+      196.09701538085938
+    ],
+    "text": "Two participants, KP and SH, and their caregivers were referred for treatment at an outpatient treatment facility specializing in the assessment and treatment of trauma victims. Intake interviews and all assessments were conducted by doctoral-level psychology interns. Both participants experienced a potentially traumatic event and had at least one recurring nightmare per week for 4 or more consecutive weeks. KP was an African American 8-year-old girl who witnessed the physical assault of her mother by someone outside of the family. The event occurred 4 months prior to KP’s initial evaluation. At the study baseline, KP reported exposure to a second potentially traumatic event in her lifetime: witnessing domestic violence, that is, a different assault against her mother. During the assessment, KP denied any traumatic symptoms",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      209.02700805664062,
+      435.16607666015625,
+      268.0970153808594
+    ],
+    "text": "SH was an 11-year-old African American girl who was home during a robbery 9 months prior to the baseline assessment. SH experienced minor injuries (i.e., bruising) from the incident. SH also witnessed family members being assaulted during the robbery. SH reported that during the robbery, she was afraid that she and her family would be hurt and she was particularly concerned for her mother who had a disability. No other potentially traumatic events were reported by SH",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      317.0270080566406,
+      435.176025390625,
+      412.0970153808594
+    ],
+    "text": "KP reported significant sleep disturbance related to recurring nightmares about her mother being physically assaulted. According to intake chart notes made approximately 2 weeks prior to the initial treatment, KP reported experiencing “approximately 1,000 nightmares a week.” Notably, a different nightmare frequency (100 per week) was given at the pretreatment assessment used for the study baseline. KP reported that she often experienced frequent images or thoughts of the traumatic event. She reported that she attempted to avoid trauma-related stimuli, thoughts, and feelings. KP also indicated that she startled easily, was irritable, experienced increased sadness and crying, had difficulty concentrating, and had feelings of loneliness in the past 2 weeks.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.605987548828125,
+      425.0270080566406,
+      435.1859130859375,
+      544.0969848632812
+    ],
+    "text": "At intake, although nightmare frequency was not queried by the intake physician, SH had reported significant sleep disturbance related to nightly recurring nightmares about the robbery. At intake, SH reported increased distractibility as well as difficulty in concentrating at home and school. She also described symptoms of hypervigilance, and she reportedly feared for her safety, felt guilty about the event, had somatic complaints, and frequently worried about her mother’s safety. Reportedly, SH was socially withdrawn subsequent to the robbery and often tried to avoid school to stay home to be near her mother. According to her caregiver, SH’s interests and activities diminished after the robbery. SH attributed her decreased motivation to engage in pleasurable activities as the result of being fatigued from poor and disrupted sleep, and worrying about her family’s safety. Based on the initial evaluation, SH met criteria for PTSD.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      581.0270385742188,
+      435.1558837890625,
+      640.0969848632812
+    ],
+    "text": "According to her mother, KP’s birth, developmental, and medical history were unremarkable. KP and her mother denied that KP had ever received psychological or psychiatric treatment, and KP was not taking any medications at the time of intake. KP’s mother was receiving services for PTSD related to the physical assault. KP resided with her mother and sibling. KP’s parents were divorced, and she had regular contact with her father. KP was in the second grade during the course of the",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      64.78900909423828,
+      160.58200073242188,
+      78.93701171875
+    ],
+    "text": "2 Case Introduction",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      197.02700805664062,
+      206.0460662841797,
+      208.09701538085938
+    ],
+    "text": "associated with the domestic violence.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      269.0270080566406,
+      139.87599182128906,
+      280.0970153808594
+    ],
+    "text": "during the assessment.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      297.796875,
+      187.64199829101562,
+      311.94488525390625
+    ],
+    "text": "3 Presenting Complaints",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      413.0270080566406,
+      256.7760009765625,
+      424.0970153808594
+    ],
+    "text": "Based on her symptoms, KP met criteria for PTSD.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.60599899291992,
+      561.796875,
+      101.79400634765625,
+      575.9448852539062
+    ],
+    "text": "4 History",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      62.36199951171875,
+      65.02700805664062,
+      447.9617004394531,
+      208.09701538085938
+    ],
+    "text": "study; she neither received special education services nor required testing for academic problems. Nonetheless, she was held back a grade due to academic difficulties following the trauma. According to her mother, SH’s birth, developmental, and medical history were unremarkable, and SH had met developmental milestones within normal limits. Serious illnesses, hospitalizations, and head trauma were denied. SH and her mother denied that SH has received psychological or psychiatric treatment, and SH was not taking medications at intake. Both SH’s mother and a sibling were receiving services for PTSD related to the robbery of their home. SH resided with her parents and a sibling. SH was in the fifth grade at the time of the study. Her mother reported that prior to the robbery, SH had been an “A” student, but subsequent to the robbery, her grades declined and she was held back in the fifth grade. SH’s mother had been disabled for several years prior to the robbery and was unemployed. SH’s father was working fewer hours since the robbery (for unspecified reasons). Consequently, the family had financial stress and related familial conflict.",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      62.36199951171875,
+      225.79689025878906,
+      447.9519348144531,
+      652.0969848632812
+    ],
+    "text": "5 Assessment Assessment began with a Child Demographic Form that queried child’s date of birth, age, grade, and gender. To assess for trauma, the University of California at Los Angeles Posttraumatic Stress Disorder Reaction Index (UCLA PTSD Index) for DSM-IV (4th ed., APA, 1994; Steinberg, Brymer, Decker, & Pynoos, 2004) was administered. This measure was developed for assessing PTSD in children and adolescents, and has been validated on children aged 7 to 18 years of age. The UCLA PTSD is one of the most widely used instruments for assessing PTSD in children and has been used across multiple cultures for many different types of trauma (Steinberg et al., 2004). Possible symptom scores range from 0 to 80. A score of 38 or above on the UCLA PTSD Index has the greatest sensitivity (.93) and specificity (.87) in detecting PTSD (Rodriguez, Steinberg, Saltzman, & Pynoos, 2001). The Nightmare Distress Questionnaire–Modified (NDQ; Belicki, 1992) measured distress associated with nightmares. The NDQ rates 15 items on a 5-point Likert-type scale. Clinical significance is indicated by a score above 21. Dr. Belicki gave the first author permission to modify the measure for language that was child appropriate. For example, Item 10 was changed from “Do your nightmares foretell the future?” to “Do your nightmares tell about the future?” Sleep quality and disturbances were assessed by the Pittsburgh Sleep Quality Index (PSQI; Buysse, Reynolds, Monk, Berman, & Kupfer, 1989; modified child version; Langston, 2007). Global scores range from 0 to 21, with higher scores reflecting poorer sleep quality. A global cutoff score ≥ 5 adequately differentiates good sleepers from poor sleepers (Buysse et al., 1989). The frequency and severity of nightmares were assessed by the Trauma Related Nightmare Survey–Child Version (TRNS-C; Langston, 2007). Although psychometric data are unavailable for the TRNS-C, the adult version of the TRNS has exhibited good test–retest reliability and has good convergent validity with a measure of PTSD (Modified Posttraumatic Stress Scale; Resick, Falsetti, Resnick, & Kilpatrick, 1991) and other measures of nightmares and sleep difficulties (Davis, Byrd, Rhudy, & Wright, 2007; Davis & Wright, 2007). Anxiety and depression were measured with the Revised Child Anxiety and Depression Scale (RCADS; Chorpita, Yim, Moffitt, Umemoto, & Francis, 2000). The RCADS, a 47-item revision of the Spence Children’s Anxiety Scale (SCAS; Spence, 1998), was designed to correspond closely to DSM-IV anxiety disorders and incorporated a subscale for major depression. On this instrument, children are asked to rate how often each item is true of them, by indicating their responses on a 4-point Likert-type scale (0 = never , 4 = always ). Higher scores indicated more severe symptoms, and T -scores > 65 were considered clinically significant. Convergent validity correlations with the Revised Children’s Manifest Anxiety Scale (Reynolds & Richmond, 1978) total scores ranged from .63 to .74, and discriminant validity coefficients of anxiety subscales",
+    "line_count": 35,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.600006103515625,
+      65.02670288085938,
+      435.0900573730469,
+      112.09671020507812
+    ],
+    "text": "with the Children’s Depression Inventory (CDI; Kovacs, 1980/1981) ranged from .18 to .45 (Chorpita et al., 2000). In addition, the RCADS Major Depression subscale was highly correlated with the CDI ( r = .70). For the present study, the RCADS total anxiety score and Depression subscale score were used to examine symptoms of anxiety and depression that are often associ-",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.600006103515625,
+      125.02670288085938,
+      435.1399841308594,
+      148.09671020507812
+    ],
+    "text": "Child questionnaires were administered at pre- and posttreatment assessments except for the Child Demographic Form, which was only given pre-treatment. The NDQ and the TRNS-C were",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.59996032714844,
+      161.02670288085938,
+      435.17999267578125,
+      424.0967102050781
+    ],
+    "text": "Caregivers completed a demographic form about their own ethnicity, marital status, income, education, occupation, and relationship to the child. At pre- and post-treatment, they also completed the 45-item Children’s Sleep Habits Questionnaire (CSHQ; Owens, Spirito, & McGuinn, 2000), to measure the quality of the child’s sleep behavior. Scores are rated on a 3-point Likerttype scale from 0 to 2, with higher scores indicating more frequent problems. A global score of 41 or higher indicates sleep problems sufficient for a referral to a sleep specialist. The Child Behavior Checklist for Ages 6-18 (CBCL/6-18; Achenbach & Rescorla, 2001) measured overall functioning and emotional/behavioral problems. For total problems and externalizing, T- scores of 60 to 62 are in the borderline range, whereas T- scores above 63 are in the clinical range. The pretreatment evaluation took approximately 1 hr to complete. On the UCLA PTSD Index, KP reported that she witnessed her mother being physically assaulted and had a painful and scary medical treatment done in the hospital. Although she had met criteria for PTSD according to her initial intake data, she did not meet criteria for PTSD according to the UCLA PTSD index (symptom severity score = 16). KP required assistance in filling out the TRNS. On the TRNS, she indicated that she experienced several nightmares every night of the week; she estimated “about 100 nightmares per week.” KP reported that the nightmares were the same or almost the same as the physical assault she witnessed and that the nightmares were very disturbing. Her nightmare distress score on the NDQ was 27 (i.e., was clinically significant) and her sleep disturbance score on the CSHQ was 57 (i.e., clinically significant). Results from the PSQI revealed that KP obtained 9 hr of good quality (1) sleep each night. On the RCADS, KP obtained scores within the normal range for total depression ( T = 44) and anxiety ( T = 33). Items endorsed by KP’s mother revealed scores within the normal range for externalizing ( T = 58) and emotional/behavioral problems",
+    "line_count": 22,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.59996032714844,
+      437.0267028808594,
+      435.18988037109375,
+      640.0966796875
+    ],
+    "text": "At pre-treatment, SH reported on the UCLA PTSD Index that she had been in a place where a war was going on around her, had witnessed domestic violence, and had experienced a robbery. Her PTSD symptom severity score was 56, which indicated clinically significant PTSD. SH’s paper-and-pencil responses on the TRNS indicated that she experienced several nightmares each night of the week, and her total weekly nightmare estimate was 14 nightmares a week. However, she later verbally reported experiencing about 30 nightmares a week. SH reported that the nightmares were the same or almost the same as the robbery she experienced and that they were very disturbing. SH required assistance in filling out the TRNS. She also displayed difficulties in determining the frequency of her nightmares and the amount of time she slept each night. Her nightmare distress score (NDQ = 50) and her sleep disturbance score (CSHQ = 71) were clinically significant. Results from the PSQI (score of 18) revealed that SH obtained 1 hr of good quality sleep each night. On the RCADS, SH’s scores were within the clinical range for depression ( T = 92) and anxiety ( T = 75). Items endorsed by SH’s mother revealed scores within the normal range for externalizing problems ( T = 57) and in the clinical range for overall emotional/ behavioral problems ( T = 72). See Tables A3 and A4 in the appendix. Child self-reported nightmare frequency should be interpreted from an internally consistent perspective (KP and SH’s nightmare frequency should not be compared with each other).",
+    "line_count": 17,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.600006103515625,
+      113.02670288085938,
+      151.8100128173828,
+      124.09671020507812
+    ],
+    "text": "ated with sleep problems.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.600006103515625,
+      149.02670288085938,
+      251.2300262451172,
+      160.09671020507812
+    ],
+    "text": "administered at the start of each treatment session.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      49.59996032714844,
+      425.0267028808594,
+      242.41998291015625,
+      436.0967102050781
+    ],
+    "text": "( T = 59). See Tables A1 and A2 in the appendix.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.3599853515625,
+      65.02670288085938,
+      447.9501647949219,
+      220.09671020507812
+    ],
+    "text": "Although children can validly comprehend number concepts and report ordinality (magnitude of numbers), they are less reliable in exactness of those numbers. It is important for clinicians to understand that it will not be unusual for a middle childhood-aged child to report having an impossible number of nightmares each week—whether they report 30 or 100. This is not a lie or an intentional exaggeration. Rather, the clinical should think about this from a Likert-type scale perspective that would be translated into none, one or two, several, a lot , and most of the time . There is much convincing evidence in the developmental literature that children are reliable (consistent) and valid (accurate) reporters of the magnitude of number quantities (Brannon, 2002; Brannon & Van de Walle, 2001). Children are reliable at “larger than” and “smaller than” discriminations. Children are internally consistent such that if child A is to count 1, 2, 50, 100, then those numbers represent that 1 < 2 < 50 < 100. Thus, if a child patient initially reports 100 nightmares per week and then reports 20 nightmares per week, this indicates a reduction but should not be considered a reduction of 80 nightmares per week.",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      62.36199951171875,
+      237.79689025878906,
+      447.9518737792969,
+      544.0969848632812
+    ],
+    "text": "6 Case Conceptualization Sleep disturbances such as trauma-related nightmares are among the most common problems experienced by children following a traumatic event and are closely linked to PTSD (Connolly et al., 2004) although they can exist in the absence of PTSD. The following is drawn from the participant manual: Nightmares and sleep problems are conceptualized as manifesting in three systems: physiological, behavioral, and cognitive. Physiological reactions to nightmares may include anticipatory anxiety around bedtime, panic attack symptoms on waking from a nightmare (e.g., racing heart, sweating, choking), symptoms of sleep deprivation during daytime hours (e.g., confusion, memory loss, irritability or emotional highs and lows, exacerbation of other emotional difficulties), and increased arousal during the daytime. The behavioral reactions to nightmares may include using (in the case of children, parents administering) substances (e.g., Benadryl ™ , sleeping pills) at night to help initiate sleep, watching television in bed to try to forget about the nightmare, and avoiding situations, places, or people that are cues of the nightmares and traumatic event, including trying to avoid sleep. The cognitive reactions to nightmares may include telling oneself that sleep will never come, belief that one has no control over nightmares or sleep, and belief that one will never recover from the trauma. Children may also have difficulty understanding that the story in the nightmare is not happening to them. ERRT was designed to target each of these systems. ERRT was adapted to be developmentally appropriate for children (ages 8 to 11). This adaptation was conducted by the first author under the supervision of Joanne L. Davis who originated ERRT for adults. The adaptation involved changing the reading level to be age appropriate and to add child-oriented images to the manual. Furthermore, in the treatment itself, sessions allowed for a break (snack, bathroom, fun activity) every 20 min. This is consistent with other cognitivebehavioral treatments for children of these ages. Treatment occurred over four sessions and involved the child and a parent. The treatment was conducted as follows.",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      74.36659240722656,
+      557.0270385742188,
+      435.9266662597656,
+      640.0969848632812
+    ],
+    "text": "Session 1 focus: Psychoeducation and investment in treatment. A critical aspect of treatment such as ERRT for children (ERRT-C) is the child and parent engagement. Psychoeducation was the focus for this session. Information was provided to parents and children (in separate rooms) about trauma, nightmares, sleep habits, and guidance on how to modify poor sleep hygiene. Home applications were established, and the family identified sleep habits to change. Homework was emphasized. The rationale was for (a) generalization of skills to the home environment and (b) to teach the family to",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.60000610351562,
+      65.02670288085938,
+      423.08001708984375,
+      76.09671020507812
+    ],
+    "text": "be proactive in being interventionists. Home tools included a sleep habit log and daily",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      61.600006103515625,
+      89.02670288085938,
+      423.16015625,
+      364.0967102050781
+    ],
+    "text": "Session 2 focus: Progressive muscle relaxation (PMR). This began with a psychoeducational component about physiological responses to stress and how relaxation can decrease stress. Then, the child learned to give subjective units of distress (SUDS) ratings before and after a demonstration of PMR. PMR was taught to the child and parent at the same time. Finally, the family was prepared for home applications. A recording of PMR was given to the children at the end of this session, and home use of PMR was set up. Session 3 focus: Child-friendly exposure to the trauma-nightmare Part I begins with parental psychoeducation about exposure treatment. They were advised of normative responses to exposure treatment and taught how to therapeutically respond to the child during the home-based portion of exposure. Part II was the trauma-nightmare exposure with the child (telling, drawing, or writing about the nightmare). SUDS ratings were taken pre- and post-exposure to gauge arousal. Following this, a cognitive and rescripting treatment was introduced. The child learned about the role of themes in the particular nightmares. The child was then taught how to change this nightmare according to one of the identified themes. Rescripting empowered the child to have mastery in the situation. In Part III, belly breathing was taught at the end of this session to help manage arousal. Home applications were set up with the parent and child so that the parent could support and appropriately respond to the child for the continued practice and mastering of the new script. Parent and child manuals provided routine weekly homework of symptom tracking and the sleep log. Session 4 focus: Relapse prevention and mastery. Both the child and the parent were taught slowed breathing to increase the effectiveness of belly breathing. At the end of this session, a review of treatment was conducted along with suggestions on how to deal with",
+    "line_count": 23,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.605987548828125,
+      393.796875,
+      435.1663818359375,
+      496.0970153808594
+    ],
+    "text": "7 Course of Treatment and Assessment of Progress Repeated measurements of nightmare frequency, severity, and distress were taken and monitored to ascertain participant progress in treatment. According to Engel and Schutt (2012), B design (intervention phase only) is appropriate for monitoring treatment progress when alternative designs cannot be used. This is the case for the pre- and posttreatment data for sleep quantity, sleep quality, sleep problems, PTSD severity, anxiety, and depression, all of which were collected to further index treatment progress. This information was deemed valuable in understanding symptoms change across treatment and for making clinical decisions regarding",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.605987548828125,
+      509.0270080566406,
+      435.18603515625,
+      628.0969848632812
+    ],
+    "text": "In addition to monitoring the data, simulation modeling analyses (SMAs) were conducted on information obtained weekly from participants (nightmare distress, nightmare frequency, nightmare severity; see Table A5 in the appendix). SMA is a statistical procedure that can test for an effect of phase (if statistically meaningful changes occurred from Phase A to Phase B), while controlling for autocorrelation. Autocorrelation means that a score obtained during one observation depends on the scores taken on one or more preceding observations. By controlling for autocorrelation, the chances of making a Type I error is decreased, therefore, increasing power. To determine significance criteria, SMA generates thousands of random simulations based on four components—the autocorrelation from Phase A, the autocorrelation from Phase B, the number of observations at Phase A, and the number of observations at Phase B—to determine the",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.60000610351562,
+      77.02670288085938,
+      175.0,
+      88.09671020507812
+    ],
+    "text": "monitoring of symptoms.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.60000610351562,
+      365.0267028808594,
+      146.92001342773438,
+      376.0967102050781
+    ],
+    "text": "future nightmares.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.605987548828125,
+      497.0270080566406,
+      227.4459991455078,
+      508.0970153808594
+    ],
+    "text": "intervention content, duration, and intensity.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.3599853515625,
+      65.02670288085938,
+      447.9098205566406,
+      184.09671020507812
+    ],
+    "text": "probability of obtaining one’s observed results. For this study, 10,000 data streams were selected to compare the obtained scores with gauge effect size. A particular strength of SMA over other procedures used to evaluate single-case time-series data (e.g., interrupted time-series analysis procedure [ITSACORR]; Crosbie, 1993) is that it can be used with relatively short data streams (10-16 total observations, 5-8 per phase; Borckardt et al., 2008). Although Phase A of this study consisted only of one set of data points, discussion with the developer of this procedure, Jeffrey Borckardt, indicated that SMA was theoretically appropriate and could be applied, although interpreted with caution. SMA made it possible to evaluate whether statistically significant changes occurred from baseline to posttreatment treatment on these variables (personal communication, April 2008).",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.36199951171875,
+      202.03688049316406,
+      447.95196533203125,
+      484.0970153808594
+    ],
+    "text": "Patient 1: KP Monitoring of data on nightmares per week suggested progress (decreased frequency) from preto post-treatment for KP. Specifically, the number of nights with nightmares and nightmare severity and distress (NDQ = 25) decreased (see Table A1 and Figures A1 and A2 in the appendix). On the TRNS, posttreatment KP denied experiencing any nightmares in the preceding week. Information on sleep quantity, sleep quality, and sleep problems from pre- and post-treatment (see Tables A1 and A2, and Figure A3 in the appendix) was collected. According to the parent report, there were improvements (decrease) in sleep disturbance (pretreatment CSHQ = 57, posttreatment CSHQ = 46). There was no parent-reported change in sleep quantity reported by the end of treatment, and reported sleep quality deteriorated slightly. However, posttreatment KP’s self-report indicated that she had been sleeping 9 hr a night, and her overall sleep quality on the PSQI indicated improvement. From pre- to posttreatment, improvements on PTSD severity (UCLA PTSD Index) and anxiety and depression (RCADS) were reported by KP (see Table A1 in the appendix). At posttreatment, symptom criteria for clinical PTSD was no longer met (symptom severity score = 1). On the RCADS, KP obtained scores within the normal range for depression ( T = 37) and anxiety ( T = 33). Caregiver-reported externalizing problems on the CBCL suggested decreases from pre- to post-treatment for KP. Following treatment, scores were within the normal range for externalizing ( T = 53) and emotional/behavioral subscales ( T = 47). Similarly, for total problems on the CBCL, KP’s parents reported improvements (see Table A2 in the appendix). Based on SMA, the reduction in nightmares per week and nights with more than one nightmare from baseline to post-treatment was statistically significant for KP.",
+    "line_count": 23,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      62.36199951171875,
+      502.0368957519531,
+      447.93194580078125,
+      640.0969848632812
+    ],
+    "text": "Patient 2: SH Monitoring of data on nightmares per week suggested progress (frequency decreased) from pretreatment to post-treatment for SH. The number of nights with nightmares each week also decreased. As for nightmare severity, SH indicated no improvement (TRNS = 64) and her nightmare distress score remained elevated (NDQ = 51, see Table A3 and Figure A4 in the appendix). SH indicated on the TRNS that she experienced five nightmares that occurred over five nights in the past week. SH reported improvements in sleep quality and quantity, and her sleep disturbance score on the CSHQ was 69. An increase in sleep was indicated on the PSQI. SH reported that she was sleeping 6 hr a night and that her overall sleep quality was 12. From pretreatment to posttreatment, SH’s scores for PTSD, anxiety, and depression at post-treatment remained elevated (see",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      65.02670288085938,
+      435.1800537109375,
+      88.09671020507812
+    ],
+    "text": "Table A3 in the appendix). Information collected from pre- to post-treatment for nightmare distress (as measured by the NDQ) indicated that SH deteriorated at post-treatment (see Tables A3",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      101.02670288085938,
+      435.09002685546875,
+      124.09671020507812
+    ],
+    "text": "Caregiver-reported externalizing problems (as measured by the CBCL) suggested decreases from pre- to post-treatment for SH. For total problems (as measured by the CBCL), parents of",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      137.02670288085938,
+      435.1601257324219,
+      160.09671020507812
+    ],
+    "text": "Based on SMA, the frequency of nightmares per night had statistically significant improvements for SH. However, from baseline to post-treatment no statistically significant results were",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      173.02670288085938,
+      435.1599426269531,
+      268.0967102050781
+    ],
+    "text": "SH’s posttreatment evaluation took approximately 1 hr to complete. She reported being in a place where a war was going on around her and witnessing domestic violence. Although she did not report the robbery on the self-report measures, SH told the assessor that she was still experiencing symptoms of PTSD related to this event. Results from this measure indicated that SH was still meeting criteria for PTSD. On the RCADS, SH obtained scores within the clinical range for depression ( T = 97) and total anxiety ( T = 96). Items endorsed by SH’s mother revealed scores within the normal range for externalizing problems ( T = 56) and the clinical range for emotional/ behavioral problems ( T = 72). See Table A3 in the appendix.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.60599899291992,
+      305.0270080566406,
+      435.2060852050781,
+      376.0970153808594
+    ],
+    "text": "There were unforeseen obstacles to treatment (family conflict, transportation, caregiver health, and psychopathology), which led to several cancellations for KP. Therefore, involvement in this study for KP occurred over a 9-week span instead of the planned 6 weeks (one pretreatment assessment, four treatment sessions, one posttreatment assessment). Given this variability in weeks involved in treatment, it is plausible that differences in response to ERRT-C between the two participants may have had to do with the amount of time spent in treatment or the delay",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.605987548828125,
+      389.0270080566406,
+      435.14593505859375,
+      532.0969848632812
+    ],
+    "text": "Another challenge occurred during Session 2 and subsequent sessions, when it was necessary to incorporate additional strategies to address various sleep disturbances associated with unhelpful sleep habits (e.g., nocturnal enuresis, bedtime refusal, cosleeping). Behavioral strategies varied by the problems presented by both participants. This approach of targeting different sleep disturbances with different behavioral strategies is consistent with the pediatric sleep literature (Kuhn & Elliott, 2003). Although the design of this treatment was meant to be flexible to address various unhelpful sleep habits while maintaining fidelity, the variation in behavioral strategies to target sleep disturbances may have contributed to the variation in treatment results. A limitation of this study is that exclusion criteria did not include medication use or all diagnoses known to be associated with the variables of interest. Specifically, KP was prescribed Imipramine for enuresis at Session 2, which has possible (low base rate) side effects of insomnia and nightmares in children. SH also began taking Benadryl to help her fall asleep after Session 3.",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.605987548828125,
+      545.0270385742188,
+      435.1756896972656,
+      604.0969848632812
+    ],
+    "text": "Parental adherence to treatment procedures was not systematically monitored. Anecdotally, participants indicated inconsistency in home practice of skills. KP reported receiving little help from her parents, whereas SH reported a lot of help. It is unclear whether these contextual factors had an influence on treatment outcome. However, as parental adherence may have had an effect on outcome, future research should monitor and incentivize parental involvement and",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.605987548828125,
+      617.0270385742188,
+      435.14617919921875,
+      652.0969848632812
+    ],
+    "text": "Measurement error may have been a limitation of this study. Although standardized measurements were used, responses were based solely on child and parent reports. Problems inherent in this mode of collection may include participant carelessness (Dillman, 2000). To offset the",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      89.02670288085938,
+      210.42001342773438,
+      100.09671020507812
+    ],
+    "text": "and A4, and Figure A3 in the appendix).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      125.02670288085938,
+      272.010009765625,
+      136.09671020507812
+    ],
+    "text": "SH indicated no change (see Table A4 in the appendix).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.600006103515625,
+      161.02670288085938,
+      264.2900390625,
+      172.09671020507812
+    ],
+    "text": "obtained for nightmare severity or nightmare distress.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.60599899291992,
+      285.796875,
+      180.15399169921875,
+      299.94488525390625
+    ],
+    "text": "8 Complicating Factors",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.60599899291992,
+      377.0270080566406,
+      190.30601501464844,
+      388.0970153808594
+    ],
+    "text": "between treatment sessions for KP.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.605987548828125,
+      533.0270385742188,
+      230.99591064453125,
+      544.0969848632812
+    ],
+    "text": "A side effect of this medication is drowsiness.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      49.605987548828125,
+      605.0270385742188,
+      112.52600860595703,
+      616.0969848632812
+    ],
+    "text": "follow through.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.3599853515625,
+      65.02670288085938,
+      447.95037841796875,
+      280.0967102050781
+    ],
+    "text": "weaknesses of using one approach, a combination of data collection modes could be used in future studies (e.g., homework logs, use of iphone™ apps, phone-interview, teacher report, and actigraphy). It is also a possibility that measurement error was introduced for those measures that have not yet been psychometrically validated with children. For example, although the language of the TRNS-C was modified for children, both the participants required assistance in completing out this questionnaire, and responses on this questionnaire often did not match verbal reports from the participants. Therefore, it seems necessary to further modify this measure for future investigations with children. Another source of error may be the use of monitoring treatment progress using a B design and determining the effects of ERRT-C using SMA. Although an AB design would have been preferred over a B design, time constraints rendered this design appropriate in understanding the progress of treatment and making future decisions regarding intervention content, duration, and intensity. As for SMA, Borckardt et al. (2008) explained that the use of SMA decreases one’s chances of making a Type I error and is appropriate when there is a no stable baseline or with extremely short data streams. For variables in which data points from each treatment session were available, SMAs were conducted. Although no empirical support exists for the use of this procedure with a data stream of four to six data collection points, it was considered the most appropriate because it is very powerful with short data streams and takes into consideration autocorrelation.",
+    "line_count": 18,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      62.36199951171875,
+      297.796875,
+      447.9419860839844,
+      664.0969848632812
+    ],
+    "text": "9 Follow-Up KP reported improvements in the frequency and severity of nightmares from pre- to posttreatment. Specifically, monitoring of data suggested a decrease in nightmares per week, nights with nightmares, nights with more than one nightmare, and nightmare severity. When SMA was conducted, significant results were obtained for nightmares per week and nights with more than one nightmare per night. Therefore, monitoring of KP’s nightmare frequency and nightmare severity scores supported the first hypothesis, and SMA supported improvement on two of these outcomes. Although these findings are encouraging, they should be viewed with caution given that KP was not a reliable reporter of nightmare frequency. She initially reported 1,000 weekly nightmares during her outpatient intake assessment and 100 weekly nightmares when queried pretreatment. This accuracy is not unexpected given her young age. Saywitz and Camparo (1998) explained that concretely and accurately determining the frequency of an event is a numerical skill that develops gradually over the course of elementary school-aged children’s cognitive development. Nonetheless, it is important to note that researchers in cognitive development have found that the magnitude of young children’s numerical reports (i.e., ordinal number concepts) is reliable from as early as 1 year of age (Brannon, 2002; Suanda, Tompson, & Brannon, 2008). Thus, it is reasonable to ascertain that KP experienced a decrease in nightmare frequency, although it is improbable that a decrease of 900 nightmares is accurate. By post-treatment, KP’s mother reported that KP was exhibiting fewer sleep disturbances. Interestingly, KP’s mother noted that prior to the pretreatment evaluation, she had been unaware that KP had nightmares. KP’s mother noticed that KP would refuse to go to sleep, was an active sleeper, and was tired in the mornings; she however had been unaware of the connection between these sleep problems and the nightmares. This is consistent with research about schoolaged children self-report more sleep problems than parents report for their children (Owens et al., 2000). It suggests that parents may be unaware of children’s nightmares and that an additional benefit of ERRT-C treatment is increasing caregivers’ awareness of children’s sleep difficulties. From KP’s reports, it appears that she had deterioration in sleep quality and no difference in sleep quantity. It should be mentioned that KP’s written report on these variables differed from",
+    "line_count": 30,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      65.02670288085938,
+      435.1799621582031,
+      148.09671020507812
+    ],
+    "text": "her verbal reports during session. Specifically, KP verbally stated that she was sleeping more and was less tired during the day. Similar to KP’s difficulties in reporting the frequency of her nightmares, she exhibited problems in determining the length of time she remained asleep. Cognitive studies with younger children have implicated time perception difficulties (Friedman, 1992). Given the above, it is possible that KP did experience greater improvements in sleep quality and quantity, but her responses were affected by her difficulties in time perception when responding to questionnaire items. This suggests that objective measures should be used (e.g., actigraphy)",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      161.02670288085938,
+      435.1898498535156,
+      280.0967102050781
+    ],
+    "text": "Although KP reported a decrease in nightmare distress, this was not statistically significant in the SMA. KP also reported improvements in PTSD severity, anxiety, and depression from pre- to post-treatment. KP’s mother also verbally reported that she observed improvements in these areas. For example, KP’s mother noted that prior to treatment, KP would carry a kitchen implement or sharp tool in the house as a form of protection. Her mother reported that KP no longer carried make-shift weapon as a form of protection. KP’s mother also noted that posttreatment, KP was willing to play outside, whereas prior to treatment, she was not. A reduction in PTSD severity, anxiety, and depression were important secondary gains from treatment. Given that these secondary gains are similar to those found in the ERRT adult studies (Davis & Wright, 2007), it suggests that the treatment is activating similar mechanisms across the adult",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      293.0267028808594,
+      435.1799621582031,
+      544.0966796875
+    ],
+    "text": "Interestingly, according to KP’s mother’s report, KP had a reduction in externalizing problems and overall behavioral problems on the CBCL. The effect of trauma-related nightmare treatments on behavior problems has not been examined in past studies but was included in this study because children who experience sleep disturbances often evidence daytime behavioral problems (Owens, Opipari, Nobile, & Spirito, 1998). It is possible that improvements in sleep caused the subsequent improvements (reductions) in externalizing behaviors (Mullane & Corkum, 2006). Improvements in KP’s externalizing and total problems seem to indicate secondary effects of ERRT for children exhibiting these difficulties. Although results from SMA did not suggest significant changes in the overall frequency of SH’s nightmares, information gained weekly from SH regarding her nightmares was extremely helpful in understanding the possible effects of ERRT-C on trauma-related nightmares experienced by children. At each treatment session, SH reported an increase in nightmares; posttreatment, there was a marked decrease. According to SH and her mother, talking about nightmares in session and at home was reminding her of the traumatic event, so that by Session 4, the frequency of SH’s nightmares was reported to be more than twice that experienced at pretreatment. SH stated that she did not believe her rescripted nightmare. Give this difficulty, the therapist reviewed the psychoeducation component of nightmare rescripting, and a new script was generated with the child. This revised script appeared effective in that there was a dramatic decrease in nightmares post-treatment. Posttreatment, SH reported only five nightmares per week, and at 1 week follow-up, she reported only two nightmares that week. Past research has indicated that the frequency of nightmares may not change if a rescripted nightmare is too similar",
+    "line_count": 21,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      557.0267333984375,
+      435.1401062011719,
+      616.0966796875
+    ],
+    "text": "Initially, SH experienced some trouble reporting the frequency of her nightmares but improved in her understanding of how to complete the TRNS-C over repeated sessions. SH and her mother completed homework assignments. Consistent with adult treatment studies, homework completion likely contributed to the positive treatment outcome (Kazantzis, Deane, & Ronan, 2000). Nonetheless, the unique contribution of homework compliance in treatment with children and",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      629.0267333984375,
+      435.15997314453125,
+      652.0966796875
+    ],
+    "text": "Sleep quantity, quality, and disturbances from pre-treatment to post-treatment improved for SH. This is consistent with behavior noted in the clinic. Toward the end of treatment, SH was",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      149.02670288085938,
+      259.5600280761719,
+      160.09671020507812
+    ],
+    "text": "when conducting this type of research with children.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      281.0267028808594,
+      124.61003112792969,
+      292.0967102050781
+    ],
+    "text": "and child samples.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      545.0267333984375,
+      255.94003295898438,
+      556.0966796875
+    ],
+    "text": "to the traumatic nightmare (Davis & Wright, 2007).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      49.600006103515625,
+      617.0267333984375,
+      222.0400390625,
+      628.0966796875
+    ],
+    "text": "caregivers is a question for future research.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      62.3599853515625,
+      65.02670288085938,
+      447.9300231933594,
+      328.0967102050781
+    ],
+    "text": "noticeably more alert in session. Furthermore, in earlier sessions, SH had fallen asleep in the waiting room during her mother’s sessions; by the later sessions, she was awake and alert the entire time she was in the waiting room, suggesting improved daytime functioning and reduced daytime sleepiness. It is important to note that although SH’s caregiver reported that she had started to give SH Benadryl™ at home after Session 3, sleep improvement was observed and verbally reported before she began taking the medication. SH’s scores on PTSD severity, anxiety, depression, and nightmare distress remained elevated from pre- to post-treatment. KP also did not have a statistically significant improvement in nightmare distress. These results were unexpected because adults treated with ERRT reported a decrease in distress following treatment (Davis & Wright, 2007). The therapist hypothesized that SH’s increase in psychiatric symptoms and nightmare distress were possibly due to repeated exposure to the feared nightmare, which was exactly like the traumatic event she experienced. Therefore, it may be that SH did not have enough time in treatment to habituate to her fear or required adjunct or additional treatment to treat these symptoms. It is also possible that the language modifications made to the NDQ were not appropriate to measure nightmare distress or that nightmare distress may not change in children immediately following ERRT-C. Scores on externalizing problems and total problems obtained from SH’s mother showed a slight improvement in externalizing behaviors but no change in total problems. The improvement in externalizing behaviors was an encouraging finding, especially given that SH’s mother reported behaviors within the average range at pre-treatment. As for total problems reported by SH’s mother, the absence of improvement most likely had to do with her continued experience of nightmares and greater experience of distress following exposure.",
+    "line_count": 22,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      62.36199951171875,
+      345.796875,
+      447.8820495605469,
+      448.0970153808594
+    ],
+    "text": "10 Treatment Implications of the Case Overall, this study provided preliminary data on the effectiveness of an adult nightmare treatment modified for use with children. Initial treatment with two patients resulted in some promising findings regarding the frequency of nightmares, sleep disturbances, and behavior problems. However, generalizations of these findings are limited and preliminary. The cases presented in the study highlight the need for further modifications to the treatment and future controlled studies to further evaluate the efficacy of ERRT-C. Findings also may be impacted by some modifications made to nightmare treatment outcome measures.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      62.36199951171875,
+      465.796875,
+      447.9524230957031,
+      640.0969848632812
+    ],
+    "text": "11 Recommendations to Clinicians and Students Results from these cases revealed some surprising findings. For example, both KP and SH continued to experience nightmare distress. This was surprising because adult studies utilizing ERRT (e.g., Davis, 2009) have found decreases in nightmare distress following treatment. Based on an understanding of exposure, it is possible that children may require more exposure to their nightmares to experience a decrease in nightmare distress. More exposure in the form of additional sessions or exposure modes could be used. Simard and Nielson (2009) used IRT and found that clients who used a dream log experienced a decrease in unpleasant dreams, nightmare distress, and anxiety. The addition of a dream log when conducting ERRT-C may result in similar findings. Although KP experienced a decrease in anxiety and depression following treatment, SH continued to report significant symptoms in anxiety and depression. On completion of ERRT-C, SH began trauma-focused treatment. This finding may suggest that some children may need additional treatment to have a more substantial effect on these areas. ERRT-C preceding or in adjunct to other evidenced-based trauma treatments may be beneficial.",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      65.02670288085938,
+      435.1600036621094,
+      124.09671020507812
+    ],
+    "text": "It should also be mentioned that KP needed an additional session to further modify her changed nightmare. Her original nightmare and preliminary changed nightmare were too similar and resulted in reported distress. During a phone follow-up with KP to schedule trauma treatment, KP reported experiencing 0 nightmares, less anxiety, and improved sleep over the past week. Therefore, additional sessions may be helpful in decreasing the frequency of nightmares,",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      137.02670288085938,
+      435.1700744628906,
+      304.0967102050781
+    ],
+    "text": "As noted previously, difficulties in assessing children’s nightmares and sleep quantity were encountered with both KP and SH. This was observed more in KP, who was the youngest of the two. As the TRNS-C was the primary measure of trauma-related nightmares, attempts should be made to further modify this measure for children if clinicians are using it session to session to gauge progress. Taking into consideration children’s misperceptions of time, it may be have been helpful to use a calendar with colored boxes to visually represent a week; this could have supplemented questions regarding the frequency of nightmares or another visual tool to represent magnitude. Visual strategies such as this are used in some child questionnaires (e.g., UCLA PTSD Index; Steinberg et al., 2004) and semistructured interviews (e.g., Diagnostic Interview for Children and Adolescents–Revised; Reich, Leacock, & Shanfield, 1994). Future studies would find the addition of objective measures as useful. Specific to sleep quantity, actigraphy, a method of electronically recording motor activity of sleeping individuals with a watch-shaped device, would allow for an objective measure of sleep. On questionnaires, we also would recommend using Likert-type scale items rather than open-ended questions, to increase reliability on child-",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      317.0267028808594,
+      435.1700134277344,
+      400.0967102050781
+    ],
+    "text": "At the outset, both KP and SH exhibited substantially more sleep disturbances than would be expected in trauma victims. Strategies for reducing these difficulties often involved teaching caregivers behavioral strategies to assist the child at home. Given reliance on caregivers, it may be necessary to flexibly add sessions to assist caregivers in modifying their own and the child’s behavior. The addition of modules addressing several of the most common sleep disturbances could be used in session by therapists. Furthermore, handouts outlining how to implement these behavioral strategies at home or follow-up phone calls could serve as support outside of session",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      413.0267028808594,
+      435.17010498046875,
+      520.0969848632812
+    ],
+    "text": "As one of the children, SH, required more sessions to further rescript her nightmares, it is suggested that additional sessions be added for rescription if necessary. This additional time may also be beneficial to children whose caregivers are less available to assist them with exposure. Caregivers also communicated that they sometimes felt overwhelmed with the homework responsibilities of treatment. In future, we will examine means of reducing homework burdens. For example, handheld devices and iphone ™ apps could be used for recording daily logs. An additional benefit of using technological innovation could be increased accuracy and instant feedback to the therapist (provided via wireless communication). If not feasible, the use of weekly phone calls to obtain homework-related information or to troubleshoot with parents",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.60481262207031,
+      533.0270385742188,
+      435.1549072265625,
+      580.0969848632812
+    ],
+    "text": "We remind the reader that children’s reports should be interpreted within context. We recommend that researchers and clinicians who do this type of treatment or study do not treat child responses at face value when they are reporting nightmare frequency or number of hours slept. Thus, studies that aim to conduct inferential statistics should rely on objective data such as",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.60481262207031,
+      593.0270385742188,
+      435.1244812011719,
+      652.0969848632812
+    ],
+    "text": "In conclusion, two case studies provide promising evidence that trauma-related nightmares in young children may mitigate with cognitive behavior therapy. The combined aspects of exposure and rescripting demonstrate evidence in sleep and secondary psychological health domains. The treatment has been manualized and can be available to interested clinicians. We expect that with flexible adaptation, this treatment will be honed to treat more",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      125.02670288085938,
+      256.52001953125,
+      136.09671020507812
+    ],
+    "text": "improving sleep, and decreasing emotional distress.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      305.0267028808594,
+      136.25001525878906,
+      316.0967102050781
+    ],
+    "text": "report questionnaires.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.600006103515625,
+      401.0267028808594,
+      246.58004760742188,
+      412.0967102050781
+    ],
+    "text": "and could increase compliance and effectiveness.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.60481262207031,
+      521.0270385742188,
+      271.5048522949219,
+      532.0969848632812
+    ],
+    "text": "would likely serve as a means of supporting caregivers.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.60481262207031,
+      581.0270385742188,
+      93.6648178100586,
+      592.0969848632812
+    ],
+    "text": "actigraphy.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      49.60481262207031,
+      653.0270385742188,
+      139.55482482910156,
+      664.0969848632812
+    ],
+    "text": "children in the future.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      62.36199951171875,
+      64.78424835205078,
+      191.55398559570312,
+      92.228271484375
+    ],
+    "text": "Appendix Pre- and Posttreatment Data",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      62.36199951171875,
+      263.0863037109375,
+      380.74603271484375,
+      273.6972961425781
+    ],
+    "text": "Figure A1. Frequency of nightmares during pretreatment and treatment phases for KP",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      62.36199951171875,
+      457.2624206542969,
+      419.9049987792969,
+      477.1234130859375
+    ],
+    "text": "Figure A2. Nightmare distress by the child report as expressed by scores obtained on the NDQ Note: NDQ = Nightmare Distress Questionnaire.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      62.36199951171875,
+      641.2097778320312,
+      285.0220031738281,
+      661.07080078125
+    ],
+    "text": "Figure A3. Sleep quantity reported by children on the PSQI Note: PSQI = Pittsburgh Sleep Quality Index.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.60599899291992,
+      262.4656982421875,
+      368.1790466308594,
+      273.0766906738281
+    ],
+    "text": "Figure A4. Frequency of nightmares during pretreatment and treatment phases for SH",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.60599899291992,
+      306.6809997558594,
+      315.9430236816406,
+      317.2919921875
+    ],
+    "text": "Table A1. KP Pretreatment and Posttreatment Measures—Child Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      145.5511016845703,
+      325.3429870605469,
+      396.3091125488281,
+      335.7919921875
+    ],
+    "text": "Pre-treatment Session 1 Session 2 Session 3 Session 4 Post-treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.60599899291992,
+      568.5039672851562,
+      422.798095703125,
+      596.7839965820312
+    ],
+    "text": "Note: NDQ = Nightmare Distress Questionnaire; TRNS = Trauma-Related Nightmare Survey; PSQI = Pittsburgh Sleep Quality Index; UCLA =UCLA PTSD Index for DSM-IV ; PTSD = posttraumatic stress disorder; RCADS = Revised Child Anxiety and Depression Scale; DSM-IV = Diagnostic and Statistical Manual of Mental Disorders (4th ed.,",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.55706787109375,
+      342.8389892578125,
+      143.08509826660156,
+      445.3041076660156
+    ],
+    "text": "NDQ Nightmare distress TRNS Nightmares per week Nights with nightmares Nights more than one Nightmare severity PSQI Sleep quantity",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.404052734375,
+      434.8551025390625,
+      220.404052734375,
+      445.3041076660156
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.557037353515625,
+      446.35711669921875,
+      103.99803924560547,
+      456.8061218261719
+    ],
+    "text": "Sleep quality",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40402221679688,
+      446.35711669921875,
+      220.40402221679688,
+      456.8061218261719
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.5570068359375,
+      457.8591003417969,
+      114.57302856445312,
+      479.81011962890625
+    ],
+    "text": "UCLA PTSD diagnosis",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      165.24301147460938,
+      469.3611145019531,
+      177.24002075195312,
+      479.81011962890625
+    ],
+    "text": "No",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40402221679688,
+      469.3611145019531,
+      220.40402221679688,
+      479.81011962890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.557037353515625,
+      480.8631286621094,
+      110.1450424194336,
+      491.3121337890625
+    ],
+    "text": "PTSD severity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40402221679688,
+      480.8631286621094,
+      220.40402221679688,
+      491.3121337890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.5570068359375,
+      492.3651123046875,
+      131.0340118408203,
+      502.8141174316406
+    ],
+    "text": "Criterion B severity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40399169921875,
+      492.3651123046875,
+      220.40399169921875,
+      502.8141174316406
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.556976318359375,
+      503.8670959472656,
+      132.33897399902344,
+      514.3161010742188
+    ],
+    "text": "Criterion C severity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40396118164062,
+      503.8670959472656,
+      220.40396118164062,
+      514.3161010742188
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.55694580078125,
+      515.369140625,
+      132.71694946289062,
+      525.818115234375
+    ],
+    "text": "Criterion D severity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.4039306640625,
+      515.369140625,
+      220.4039306640625,
+      525.818115234375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.556915283203125,
+      526.8711547851562,
+      100.1819076538086,
+      548.8221435546875
+    ],
+    "text": "RCADS Depression",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40390014648438,
+      538.3731689453125,
+      220.40390014648438,
+      548.8221435546875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.556884765625,
+      549.8751220703125,
+      103.8628921508789,
+      560.3240966796875
+    ],
+    "text": "Total anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      211.40386962890625,
+      549.8751220703125,
+      220.40386962890625,
+      560.3240966796875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      49.60599899291992,
+      596.9920043945312,
+      181.38198852539062,
+      606.280029296875
+    ],
+    "text": "American Psychiatric Association, 1994).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78305053710938,
+      434.8551025390625,
+      255.78305053710938,
+      445.3041076660156
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.279052734375,
+      434.8551025390625,
+      291.279052734375,
+      445.3041076660156
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7750549316406,
+      434.8551025390625,
+      326.7750549316406,
+      445.3041076660156
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78302001953125,
+      446.35711669921875,
+      255.78302001953125,
+      456.8061218261719
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2790222167969,
+      446.35711669921875,
+      291.2790222167969,
+      456.8061218261719
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7750244140625,
+      446.35711669921875,
+      326.7750244140625,
+      456.8061218261719
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78302001953125,
+      469.3611145019531,
+      255.78302001953125,
+      479.81011962890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2790222167969,
+      469.3611145019531,
+      291.2790222167969,
+      479.81011962890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7750244140625,
+      469.3611145019531,
+      326.7750244140625,
+      479.81011962890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      362.7750244140625,
+      469.3611145019531,
+      374.7720031738281,
+      479.81011962890625
+    ],
+    "text": "No",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78302001953125,
+      480.8631286621094,
+      255.78302001953125,
+      491.3121337890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2790222167969,
+      480.8631286621094,
+      291.2790222167969,
+      491.3121337890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7750244140625,
+      480.8631286621094,
+      326.7750244140625,
+      491.3121337890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78298950195312,
+      492.3651123046875,
+      255.78298950195312,
+      502.8141174316406
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.27899169921875,
+      492.3651123046875,
+      291.27899169921875,
+      502.8141174316406
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7749938964844,
+      492.3651123046875,
+      326.7749938964844,
+      502.8141174316406
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.782958984375,
+      503.8670959472656,
+      255.782958984375,
+      514.3161010742188
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2789611816406,
+      503.8670959472656,
+      291.2789611816406,
+      514.3161010742188
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.77496337890625,
+      503.8670959472656,
+      326.77496337890625,
+      514.3161010742188
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78292846679688,
+      515.369140625,
+      255.78292846679688,
+      525.818115234375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2789306640625,
+      515.369140625,
+      291.2789306640625,
+      525.818115234375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7749328613281,
+      515.369140625,
+      326.7749328613281,
+      525.818115234375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78289794921875,
+      538.3731689453125,
+      255.78289794921875,
+      548.8221435546875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.2789001464844,
+      538.3731689453125,
+      291.2789001464844,
+      548.8221435546875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.77490234375,
+      538.3731689453125,
+      326.77490234375,
+      548.8221435546875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      246.78286743164062,
+      549.8751220703125,
+      255.78286743164062,
+      560.3240966796875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      282.27886962890625,
+      549.8751220703125,
+      291.27886962890625,
+      560.3240966796875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      317.7748718261719,
+      549.8751220703125,
+      326.7748718261719,
+      560.3240966796875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      65.57552337646484,
+      328.8880310058594,
+      76.1865234375
+    ],
+    "text": "Table A2. SH Pretreatment and Posttreatment Measures—Child Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      327.39849853515625,
+      435.5541076660156,
+      355.6784973144531
+    ],
+    "text": "Note: NDQ = Nightmare Distress Questionnaire; TRNS = Trauma-Related Nightmare Survey; PSQI = Pittsburgh Sleep Quality Index; UCLA =UCLA PTSD Index for DSM-IV; PTSD = posttraumatic stress disorder; RCADS = Revised Child Anxiety and Depression Scale; DSM-IV = Diagnostic and Statistical Manual of Mental Disorders (4th ed.,",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      384.6390075683594,
+      332.9200134277344,
+      395.25
+    ],
+    "text": "Table A3. KP Pretreatment and Posttreatment Measures—Parent Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      485.4620056152344,
+      335.6899719238281,
+      494.75
+    ],
+    "text": "Note: CBCL = Child Behavior Checklist; CSHQ = Child Sleep Habits Questionnaire.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      519.6389770507812,
+      304.7409973144531,
+      530.25
+    ],
+    "text": "Table A4. SH Pre-Treatment and Post-Treatment—Parent Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      631.9619750976562,
+      335.6899719238281,
+      641.25
+    ],
+    "text": "Note: CBCL = Child Behavior Checklist; CSHQ = Child Sleep Habits Questionnaire.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      162.85260009765625,
+      84.2375259399414,
+      214.32359313964844,
+      94.6865234375
+    ],
+    "text": "Pre-treatment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      221.5236053466797,
+      84.2375259399414,
+      255.3275909423828,
+      94.6865234375
+    ],
+    "text": "Session 1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.3765869140625,
+      101.7334976196289,
+      155.87762451171875,
+      238.70465087890625
+    ],
+    "text": "NDQ Nightmare distress TRNS Nightmares per week Nights with nightmares Nights more than one Nightmare severity PSQI Sleep quantity Sleep quality UCLA PTSD diagnosis",
+    "line_count": 12,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      182.61663818359375,
+      228.25564575195312,
+      194.6586456298828,
+      238.70465087890625
+    ],
+    "text": "Yes",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.421630859375,
+      239.75765991210938,
+      145.63565063476562,
+      319.21875
+    ],
+    "text": "PTSD severity Criterion B severity Criterion C severity Criterion D severity RCADS Depression Total anxiety",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36199951171875,
+      355.8865051269531,
+      194.1379852294922,
+      365.17449951171875
+    ],
+    "text": "American Psychiatric Association, 1994).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.36474609375,
+      420.7969970703125,
+      135.26475524902344,
+      477.2540283203125
+    ],
+    "text": "CBCL Externalizing Total CSHQ Sleep disturbance",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      62.333709716796875,
+      555.7969970703125,
+      135.2337188720703,
+      623.7559814453125
+    ],
+    "text": "CBCL Internalizing Externalizing Total CSHQ disturbance Sleep disturbance",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      263.8326110839844,
+      84.2375259399414,
+      297.6366271972656,
+      94.6865234375
+    ],
+    "text": "Session 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      306.88861083984375,
+      84.2375259399414,
+      340.692626953125,
+      94.6865234375
+    ],
+    "text": "Session 3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      349.1976013183594,
+      84.2375259399414,
+      383.0016174316406,
+      94.6865234375
+    ],
+    "text": "Session 4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      390.4176025390625,
+      84.2375259399414,
+      445.39862060546875,
+      94.6865234375
+    ],
+    "text": "Post-treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      233.94361877441406,
+      193.74960327148438,
+      242.94361877441406,
+      204.1986083984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.25262451171875,
+      193.74960327148438,
+      285.25262451171875,
+      204.1986083984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.3086242675781,
+      193.74960327148438,
+      328.3086242675781,
+      204.1986083984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.61761474609375,
+      193.74960327148438,
+      370.61761474609375,
+      204.1986083984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      233.9616241455078,
+      205.25161743164062,
+      242.9616241455078,
+      215.70062255859375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.2706298828125,
+      205.25161743164062,
+      285.2706298828125,
+      215.70062255859375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.3266296386719,
+      205.25161743164062,
+      328.3266296386719,
+      215.70062255859375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.6356201171875,
+      205.25161743164062,
+      370.6356201171875,
+      215.70062255859375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      233.97964477539062,
+      228.25564575195312,
+      242.97964477539062,
+      238.70465087890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.28863525390625,
+      228.25564575195312,
+      285.28863525390625,
+      238.70465087890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.3446350097656,
+      228.25564575195312,
+      328.3446350097656,
+      238.70465087890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.65362548828125,
+      228.25564575195312,
+      370.65362548828125,
+      238.70465087890625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      411.9366149902344,
+      228.25564575195312,
+      423.9786071777344,
+      238.70465087890625
+    ],
+    "text": "Yes",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      233.98863220214844,
+      239.75765991210938,
+      242.98863220214844,
+      250.2066650390625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.2976379394531,
+      239.75765991210938,
+      285.2976379394531,
+      250.2066650390625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.3536376953125,
+      239.75765991210938,
+      328.3536376953125,
+      250.2066650390625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.6626281738281,
+      239.75765991210938,
+      370.6626281738281,
+      250.2066650390625
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      234.0066375732422,
+      251.25967407226562,
+      243.0066375732422,
+      261.70867919921875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.3156433105469,
+      251.25967407226562,
+      285.3156433105469,
+      261.70867919921875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.37164306640625,
+      251.25967407226562,
+      328.37164306640625,
+      261.70867919921875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.6806335449219,
+      251.25967407226562,
+      370.6806335449219,
+      261.70867919921875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      234.02464294433594,
+      262.7616882324219,
+      243.02464294433594,
+      273.210693359375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.3336486816406,
+      262.7616882324219,
+      285.3336486816406,
+      273.210693359375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.3896484375,
+      262.7616882324219,
+      328.3896484375,
+      273.210693359375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.6986389160156,
+      262.7616882324219,
+      370.6986389160156,
+      273.210693359375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      234.0426483154297,
+      274.2637023925781,
+      243.0426483154297,
+      284.71270751953125
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.3516540527344,
+      274.2637023925781,
+      285.3516540527344,
+      284.71270751953125
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.40765380859375,
+      274.2637023925781,
+      328.40765380859375,
+      284.71270751953125
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.7166442871094,
+      274.2637023925781,
+      370.7166442871094,
+      284.71270751953125
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      234.06065368652344,
+      297.2677307128906,
+      243.06065368652344,
+      307.71673583984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.3696594238281,
+      297.2677307128906,
+      285.3696594238281,
+      307.71673583984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.4256591796875,
+      297.2677307128906,
+      328.4256591796875,
+      307.71673583984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.7346496582031,
+      297.2677307128906,
+      370.7346496582031,
+      307.71673583984375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      234.0786590576172,
+      308.7697448730469,
+      243.0786590576172,
+      319.21875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      276.3876647949219,
+      308.7697448730469,
+      285.3876647949219,
+      319.21875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      319.44366455078125,
+      308.7697448730469,
+      328.44366455078125,
+      319.21875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      361.7526550292969,
+      308.7697448730469,
+      370.7526550292969,
+      319.21875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      237.71180725097656,
+      403.3009948730469,
+      289.1828308105469,
+      413.75
+    ],
+    "text": "Pre-treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      390.15380859375,
+      403.3009948730469,
+      445.13482666015625,
+      413.75
+    ],
+    "text": "Post-treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      235.96180725097656,
+      538.301025390625,
+      287.4328308105469,
+      548.75
+    ],
+    "text": "Pre-treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      389.0248107910156,
+      538.301025390625,
+      444.0058288574219,
+      548.75
+    ],
+    "text": "Post-treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      65.57649993896484,
+      407.5360412597656,
+      76.1875
+    ],
+    "text": "Table A5. Results of Simulation Modeling Analysis for Nightmare Frequency, Severity, and Distress",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      281.3995056152344,
+      429.34197998046875,
+      300.1835021972656
+    ],
+    "text": "Note: M = mean; r = Pearson correlation; p = probability of r ; — = unable to calculate. Participant 1: Phase A, n = 1, and Phase B, n = 3. Participants 2 to 4: Phase A, n = 1, and Phase B, n = 5.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      338.6974792480469,
+      434.9142150878906,
+      348.6604919433594
+    ],
+    "text": "The first author wishes to thank Jeffrey J. Borckardt for consultation and advice on the qualitative data",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      385.0361022949219,
+      434.88714599609375,
+      394.9991149902344
+    ],
+    "text": "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      432.8628845214844,
+      431.4223327636719,
+      442.8258972167969
+    ],
+    "text": "The author(s) received no financial support for the research, authorship, and/or publication of this article.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      468.8628845214844,
+      434.8603210449219,
+      502.81988525390625
+    ],
+    "text": "Achenbach, T. M., & Rescorla, L. A. (2001). Manual for ASEBA school-age forms and profiles . Burlington: University of Vermont, Research Center for Children, Youth, & Families. American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.).",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60600280761719,
+      516.8508911132812,
+      434.88720703125,
+      526.8138427734375
+    ],
+    "text": "American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders (4th ed.,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60600280761719,
+      540.8449096679688,
+      434.8511962890625,
+      550.807861328125
+    ],
+    "text": "Belicki, K. (1992). The relationship of nightmare frequency to nightmare suffering with implications for",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60600280761719,
+      564.8388671875,
+      434.9141845703125,
+      586.798828125
+    ],
+    "text": "Borckardt, J. L., Nash, M. R., Murphy, M. D., Moore, M., Shaw, D., & O’Neil, P. (2008). Clinical practice as natural laboratory for psychotherapy research: A guide to case-based time-series analysis. American",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.605987548828125,
+      600.8298950195312,
+      434.91412353515625,
+      622.789794921875
+    ],
+    "text": "Brannon, E. M. (2002). The development of ordinal numerical knowledge in infancy. Cognition , 83 , 223-240. Brannon, E. M. & Van de Walle, G. A. (2001). The development of ordinal numerical competence in young",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.605987548828125,
+      636.8208618164062,
+      434.91412353515625,
+      658.7808227539062
+    ],
+    "text": "Buysse, D., Reynolds, C., Monk, T., Berman, S., & Kupfer, D. (1989). The Pittsburgh Sleep Quality Index: A new instrument for psychiatric practice and research. Psychiatric Research , 28 , 193-213.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      180.08799743652344,
+      84.2385025024414,
+      219.2919921875,
+      94.6875
+    ],
+    "text": "Phase A, M",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.605987548828125,
+      101.7344741821289,
+      128.49099731445312,
+      123.68548583984375
+    ],
+    "text": "Nightmares per week KP",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      188.65599060058594,
+      113.23648834228516,
+      213.12698364257812,
+      123.68548583984375
+    ],
+    "text": "100.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.615020751953125,
+      124.7385025024414,
+      69.29801940917969,
+      135.1875
+    ],
+    "text": "SH",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      193.16502380371094,
+      124.7385025024414,
+      213.13601684570312,
+      135.1875
+    ],
+    "text": "14.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.6240234375,
+      136.24050903320312,
+      134.1250457763672,
+      158.1915283203125
+    ],
+    "text": "Nights with nightmares KP",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      197.6740264892578,
+      147.74252319335938,
+      213.14501953125,
+      158.1915283203125
+    ],
+    "text": "7.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.63299560546875,
+      159.24453735351562,
+      69.31599426269531,
+      169.69354248046875
+    ],
+    "text": "SH",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      197.68299865722656,
+      159.24453735351562,
+      213.15399169921875,
+      169.69354248046875
+    ],
+    "text": "7.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      170.73849487304688,
+      130.13800048828125,
+      192.68951416015625
+    ],
+    "text": "Nights more than one KP",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      197.656005859375,
+      182.24050903320312,
+      213.1269989013672,
+      192.68951416015625
+    ],
+    "text": "7.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      193.73849487304688,
+      69.28900146484375,
+      204.1875
+    ],
+    "text": "SH",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      197.656005859375,
+      193.73849487304688,
+      213.1269989013672,
+      204.1875
+    ],
+    "text": "7.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.614990234375,
+      205.24050903320312,
+      119.12200164794922,
+      227.1915283203125
+    ],
+    "text": "Nightmare severity KP",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      193.1649932861328,
+      216.74252319335938,
+      213.135986328125,
+      227.1915283203125
+    ],
+    "text": "40.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.62396240234375,
+      228.24453735351562,
+      69.30696105957031,
+      238.69354248046875
+    ],
+    "text": "SH",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      197.67396545410156,
+      228.24453735351562,
+      213.14495849609375,
+      238.69354248046875
+    ],
+    "text": "4.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.632904052734375,
+      239.74655151367188,
+      118.59992218017578,
+      261.69757080078125
+    ],
+    "text": "Nightmare distress KP",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      193.1829071044922,
+      251.24856567382812,
+      213.15390014648438,
+      261.69757080078125
+    ],
+    "text": "27.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.64190673828125,
+      262.7505798339844,
+      69.32490539550781,
+      273.1995849609375
+    ],
+    "text": "SH",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      299.35028076171875,
+      119.12230682373047,
+      309.6875
+    ],
+    "text": "a Supports hypothesis.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.600006103515625,
+      323.5966796875,
+      135.9000244140625,
+      335.3866882324219
+    ],
+    "text": "Acknowledgments",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      350.6944885253906,
+      213.8760223388672,
+      381.7204895019531
+    ],
+    "text": "analysis. Declaration of Conflicting Interests",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      396.0340881347656,
+      142.7740020751953,
+      427.0589904785156
+    ],
+    "text": "publication of this article. Funding",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      49.60599899291992,
+      452.0957946777344,
+      100.7560043334961,
+      463.88580322265625
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      63.61000061035156,
+      504.8538513183594,
+      154.89698791503906,
+      514.8168334960938
+    ],
+    "text": "Washington, DC: Author.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      63.61000061035156,
+      528.847900390625,
+      191.1400146484375,
+      538.8108520507812
+    ],
+    "text": "text rev.). Washington, DC: Author.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      63.61000061035156,
+      552.8418579101562,
+      231.4870147705078,
+      562.8048095703125
+    ],
+    "text": "treatment and research. Dreaming , 2 , 143-148.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      63.61000061035156,
+      588.8328857421875,
+      150.8560028076172,
+      598.7958374023438
+    ],
+    "text": "Psychologist , 63 , 77-95.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      63.6099853515625,
+      624.8238525390625,
+      217.5909881591797,
+      634.7868041992188
+    ],
+    "text": "children. Cognitive Psychology , 43 , 53-81.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      265.29998779296875,
+      84.2385025024414,
+      304.4679870605469,
+      94.6875
+    ],
+    "text": "Phase B, M",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      357.27099609375,
+      84.25650024414062,
+      360.0879821777344,
+      94.6875
+    ],
+    "text": "r",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      420.1000061035156,
+      84.25650024414062,
+      424.510009765625,
+      94.6875
+    ],
+    "text": "p",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.8800048828125,
+      113.23648834228516,
+      295.35101318359375,
+      123.68548583984375
+    ],
+    "text": "5.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.2860107421875,
+      113.23648834228516,
+      367.5130310058594,
+      123.68548583984375
+    ],
+    "text": "−.98",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      414.2230224609375,
+      113.23648834228516,
+      428.947021484375,
+      123.68548583984375
+    ],
+    "text": "*.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      275.3890380859375,
+      124.7385025024414,
+      295.36004638671875,
+      135.1875
+    ],
+    "text": "16.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.2950439453125,
+      124.7385025024414,
+      367.5220642089844,
+      135.1875
+    ],
+    "text": "−.09",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.98504638671875,
+      124.7385025024414,
+      428.9560546875,
+      135.1875
+    ],
+    "text": ".85",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.89801025390625,
+      147.74252319335938,
+      295.3690185546875,
+      158.1915283203125
+    ],
+    "text": "1.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.30401611328125,
+      147.74252319335938,
+      367.5310363769531,
+      158.1915283203125
+    ],
+    "text": "−.91",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.9940185546875,
+      147.74252319335938,
+      431.4401550292969,
+      169.69354248046875
+    ],
+    "text": ".01 .05 a",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.906982421875,
+      159.24453735351562,
+      295.37799072265625,
+      169.69354248046875
+    ],
+    "text": "2.80",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.31298828125,
+      159.24453735351562,
+      367.5400085449219,
+      169.69354248046875
+    ],
+    "text": "−.83",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.97601318359375,
+      181.05816650390625,
+      431.4401550292969,
+      192.68951416015625
+    ],
+    "text": ".02 a",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.8800048828125,
+      182.24050903320312,
+      295.35101318359375,
+      192.68951416015625
+    ],
+    "text": "1.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.2860107421875,
+      182.24050903320312,
+      367.5130310058594,
+      192.68951416015625
+    ],
+    "text": "−.89",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.8800048828125,
+      193.73849487304688,
+      295.35101318359375,
+      204.1875
+    ],
+    "text": "3.22",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.2860107421875,
+      193.73849487304688,
+      367.5130310058594,
+      204.1875
+    ],
+    "text": "−.56",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.97601318359375,
+      193.73849487304688,
+      428.947021484375,
+      204.1875
+    ],
+    "text": ".26",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.88897705078125,
+      216.74252319335938,
+      295.3599853515625,
+      227.1915283203125
+    ],
+    "text": "2.60",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.29498291015625,
+      216.74252319335938,
+      367.5220031738281,
+      227.1915283203125
+    ],
+    "text": "−.31",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.9849853515625,
+      216.74252319335938,
+      428.95599365234375,
+      227.1915283203125
+    ],
+    "text": ".52",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      279.89794921875,
+      228.24453735351562,
+      295.36895751953125,
+      238.69354248046875
+    ],
+    "text": "4.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      356.5599365234375,
+      228.24453735351562,
+      365.5599365234375,
+      238.69354248046875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      417.9939270019531,
+      228.24453735351562,
+      426.9939270019531,
+      238.69354248046875
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      275.40692138671875,
+      251.24856567382812,
+      295.3779296875,
+      261.69757080078125
+    ],
+    "text": "21.40",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      351.31292724609375,
+      251.24856567382812,
+      367.5399475097656,
+      261.69757080078125
+    ],
+    "text": "−.61",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      418.0029296875,
+      251.24856567382812,
+      428.97393798828125,
+      261.69757080078125
+    ],
+    "text": ".19",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      275.4158935546875,
+      262.7505798339844,
+      295.38690185546875,
+      273.1995849609375
+    ],
+    "text": "50.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      356.577880859375,
+      262.7505798339844,
+      367.54888916015625,
+      273.1995849609375
+    ],
+    "text": ".00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 18,
+    "bbox": [
+      413.5118713378906,
+      262.7505798339844,
+      428.9828796386719,
+      273.1995849609375
+    ],
+    "text": "1.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 19,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      62.35296630859375,
+      65.91801452636719,
+      447.6972961425781,
+      663.7342529296875
+    ],
+    "text": "Byars, K. C., Yeomans-Maldonado, G., & Noll, J. G. (2011). Parental functioning and pediatric sleep disturbance: An examination of factors associated with parenting stress in children clinically referred for evaluation of insomnia. Sleep Medicine , 12 , 898-905. Cavior, N., & Deutsch, A. (1975). Systematic desensitization to reduce dream-induced anxiety. Journal of Nervous and Mental Disease , 161 , 433-435. Chorpita, B. F., Yim, L., Moffitt, C., Umemoto, L. A., & Francis, S. E. (2000). Assessment of symptom of DSM-IV anxiety and depression in children and adolescents: A Revised Anxiety and Depression Scale. Behaviour Research and Therapy , 38 , 835-855. Cohen, J. A. (2003). Treating acute posttraumatic reactions in children and adolescents. Society of Biological Psychiatry , 53 , 827-833. Connolly, D., McClowry, S., Hayman, L., Mahony, L., & Artman, M. (2004). Posttraumatic stress disorder in children after cardiac surgery. Journal of Pediatrics , 144 , 480-484. Copeland, W. E., Keeler, G., Angold, A., & Costello, E. J. (2007). Traumatic events and posttraumatic stress in childhood. Archives of General Psychiatry , 64 , 577-584. Costello, E. J., Erkanli, A., Fairbank, J. A., & Angold, A. (2002). The prevalence of potentially traumatic events in childhood and adolescence. Journal of Traumatic Stress , 15 , 99-112. Crosbie, J. (1993). Interrupted time-series analysis with brief single-subject data. Journal of Consulting and Clinical Psychology , 61 , 966-974. Dahl, R. E., Holttum, J., & Trubnick, L. (1994). A clinical picture of child and adolescent narcolepsy. Journal of the American Academy of Child & Adolescent Psychiatry , 33 , 834-841. Dahl, R. E., & Lewin, D. S. (2002). Pathways to Adolescent Health: Sleep regulation and behavior. Journal of Adolescent Health , 21 , 175-184. Davis, J. L. (2009). Treating post-trauma-related nightmares: A cognitive behavioral approach . New York, NY: Springer. Davis, J. L., Byrd, P., Rhudy, J. L., & Wright, D. C. (2007). Characteristics of chronic nightmares in a trauma exposed clinical sample. Dreaming , 17 , 187-198. Davis, J. L., de Arellano, M., Falsetti, S. A., & Resnick, H. S. (2003). Treatment of nightmares related to post-traumatic stress disorder in an adolescent rape victim. Clinical Case Studies , 4 , 283-294. Davis, J. L., Rhudy, J. L., Pruiksma, K. E., Byrd, P., Williams, A. E., McCabe, K. M., & Bartley, E. J. (2011). Physiological predictors of response to exposure, relaxation, and rescripting therapy for chronic nightmares in a randomized clinical trial. Journal of Clinical Sleep Medicine , 7 , 622-631. Davis, J. L., & Wright, D. C. (2007). Randomized clinical trial for treatment of chronic nightmares in trauma-exposed adults. Journal of Traumatic Stress , 20 , 123-133. Dillman, D. A. (2000). Mail and internet surveys: The tailored design method (2nd ed.). New York, NY: John Wiley. Engel, R. J. & Schutt, R. K. (2012). The practice of research in social work . (3rd ed.). Thousand Oaks, CA: SAGE. Fairbank, J. A. (2008). The epidemiology of trauma and trauma related disorders in children and youth. PTSD Research Quarterly , 19 , 1-8. Feeny, N. C., Foa, E. B., Treadwell, K. R., & March, J. (2004). Posttraumatic stress disorder in youth: A critical review of the cognitive and behavioral treatment outcome literature. Professional Psychology: Research and Practice , 35 , 466-476. Finkelhor, D., Ormrod, R., Turner, H., & Hamby, S. L. (2005). The victimization of children and youth: A comprehensive, national survey. Child Maltreatment, 10, Therapy , 39 , 977-986. Forbes, D., Phelps, A., McHugh, A., Debenham, P., Hopwood, M., & Creamer, M. (2003). Imagery rehearsal in the treatment of posttraumatic nightmares in Australian veterans with chronic combat-related PTSD: 12-month follow-up data. Journal of Traumatic Stress , 16 , 509-513. Friedman, W. J. (1992). Time concepts and adaptation: Developmental approaches. In F. Macar, V. Pouthas, & W. J. Friedman (Eds.), Time action and cognition: Vol. 66. Towards bridging the gap (66th ed., pp. 9-12). New York, NY: Springer.",
+    "line_count": 50,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60599899291992,
+      65.91801452636719,
+      434.8782653808594,
+      87.87802124023438
+    ],
+    "text": "Glod, C., Teicher, M., Hartman, C., & Harakal, T. (1997). Increase nocturnal activity and impaired sleep maintenance in abused children. Journal of the American Academy of Child & Adolescent Psychiatry ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60600280761719,
+      101.90904235839844,
+      434.8959655761719,
+      135.86605834960938
+    ],
+    "text": "Kazantzis, N., Deane, F. P., & Ronan, K. R. (2000). Homework assignments in cognitive and behavioral therapy: A meta-analysis. Clinical Psychology: Science and Practice , 7 , 189-202. Kovacs, M. (1981). Rating scales to assess depression in school-aged children. Acta Poedopsychiatrica , 46 ,",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60595703125,
+      149.89707946777344,
+      434.8779296875,
+      171.85708618164062
+    ],
+    "text": "Krakow, B., Sandoval, D., Schrader, R., Keuhne, B., McBride, L., Yau, C. L., & Tandberg, D. (2001). Treatment of chronic nightmares in adjudicated adolescent girls in a residential facility. Journal of",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60595703125,
+      185.8881072998047,
+      434.8782043457031,
+      195.85110473632812
+    ],
+    "text": "Kuhn, B. R., & Elliott, A. J. (2003). Treatment efficacy in behavioral pediatric sleep medicine. Journal of",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60595703125,
+      209.8821258544922,
+      434.9051513671875,
+      231.84213256835938
+    ],
+    "text": "Langston, T. J. (2007). Nightmares and sleep quality in children and adolescents: A comparison based on trauma status (Doctoral dissertation, University of Tulsa, 2007). Dissertation Abstracts International ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60595703125,
+      245.87315368652344,
+      434.8780822753906,
+      267.8331604003906
+    ],
+    "text": "Long, M. E., Hammons, M. E., Davis, J. L., Frueh, B. C., Khan, M. M., Elhai, J. D., & Teng, E. J. (2011). Imagery rescripting and exposure group treatment of posttraumatic nightmares in Veterans with PTSD.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60595703125,
+      281.8641662597656,
+      434.9410095214844,
+      303.8241882324219
+    ],
+    "text": "Mindell, J. A., & Cashman, L. (1995). Sleep disorders. In A. R. Eisen, C. A. Kearney, & C. E. Schaefer (Eds.), Clinical handbook of anxiety disorders in children and adolescents (pp. 357-382). Northvale,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      317.8551940917969,
+      434.9141845703125,
+      339.8152160644531
+    ],
+    "text": "Mullane, J., & Corkum, P. (2006). Case series: Evaluation of a behavioral sleep intervention for three children with attention-deficit/hyperactivity disorder and dyssomnia. Journal of Attention Disorders ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      353.8462219238281,
+      434.9320373535156,
+      447.7882995605469
+    ],
+    "text": "Owens, J. A., Opipari, L., Nobile, C., & Spirito, A. (1998). Sleep and daytime behavior in children with obstructive sleep apnea and behavioral sleep disorders. Pediatrics , 102 , 1178-1184. Owens, J. A., Spirito, A., & McGuinn, M. (2000). The Children’s Sleep Habits Questionnaire (CSHQ): Psychometric properties a survey instrument for school aged children. Sleep , 23 , 1043-1051. Pagel, J. F. (2000). Nightmares and disorders of dreaming. American Family Physician , 61 , 2037-2044. Palace, E. M., & Johnston, C. (1989). Treatment of recurrent nightmares by the dream reorganization approach. Journal of Behavior Therapy and Experimental Psychiatry , 20 , 219-226. Pillar, G., Malhotra, A., & Peretz, L. (2000). Post-traumatic stress disorder and sleep—What a nightmare!",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      461.8193054199219,
+      434.9048767089844,
+      531.7672119140625
+    ],
+    "text": "Reich, W., Leacock, N., & Shanfield, C. (1994). Diagnostic Interview for Children and Adolescents– Revised (DICA-R) . St. Louis, MO: Washington University. Resick, P. A., Falsetti, S. A., Resnick, H. S., & Kilpatrick, D. G. (1991). The Modified PTSD Symptom Scale—Self Report . St. Louis: University of Missouri & Charleston, SC: National Crime Victims Research and Treatment Center, Medical University of South Carolina. Reynolds, C. R., & Richmond, B. O. (1978). What I think and feel: A revised measure of children’s manifest",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      545.7982788085938,
+      434.8962097167969,
+      555.76123046875
+    ],
+    "text": "Roberts, R. N., & Gordon, S. B. (1979). Reducing childhood nightmares subsequent to a burn trauma. Child",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      569.7922973632812,
+      434.9141845703125,
+      615.7462158203125
+    ],
+    "text": "Rodriguez, N., Steinberg, A. S., Saltzman, W. S., & Pynoos, R. S. (2001). PTSD Index: Preliminary psychometric analyses of child and parent versions . Symposium conducted at the Annual Meeting of the International Society for Traumatic Stress Studies, New Orleans, LA. Saywitz, K., & Camparo, L. (1998). Interviewing child witnesses: A developmental perspective. Child",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      49.60594940185547,
+      629.7772827148438,
+      434.8960266113281,
+      651.7372436523438
+    ],
+    "text": "Simard, V., & Nielson, T. (2009). Adaptation of imagery rehearsal therapy for nightmares in children: A brief report. Psychotherapy Theory, Research, Practice, Training , 46 , 492-497.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.61000061035156,
+      89.91203308105469,
+      118.35700225830078,
+      99.87503051757812
+    ],
+    "text": "36 , 1236-1243.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609954833984375,
+      137.9000701904297,
+      212.3439483642578,
+      147.86306762695312
+    ],
+    "text": "305-315. (Original work published 1980)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609954833984375,
+      173.89109802246094,
+      175.59695434570312,
+      183.85409545898438
+    ],
+    "text": "Adolescent Health , 29 , 94-100.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609954833984375,
+      197.88511657714844,
+      203.2539825439453,
+      207.84811401367188
+    ],
+    "text": "Psychosomatic Research , 54 , 587-597.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609954833984375,
+      233.8761444091797,
+      169.3509521484375,
+      243.83914184570312
+    ],
+    "text": "68 , 3B. (UMI No. 32555375)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609954833984375,
+      269.8671569824219,
+      218.10398864746094,
+      279.8301696777344
+    ],
+    "text": "Journal of Anxiety Disorders , 25 , 531-535.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.60995101928711,
+      305.8581848144531,
+      133.35995483398438,
+      315.8211975097656
+    ],
+    "text": "NJ: Jason Arouson.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609947204589844,
+      341.8492126464844,
+      109.35694885253906,
+      351.8122253417969
+    ],
+    "text": "10 , 217-227.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609947204589844,
+      449.8222961425781,
+      196.3329620361328,
+      459.7853088378906
+    ],
+    "text": "Sleep Medicine Reviews , 4 , 183-200.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609947204589844,
+      533.80126953125,
+      258.8469543457031,
+      543.7642211914062
+    ],
+    "text": "anxiety. Journal of Abnormal Psychology , 6 , 271-280.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609947204589844,
+      557.7952880859375,
+      174.5979461669922,
+      567.7582397460938
+    ],
+    "text": "Behavior Therapy , 1 , 373-381.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      63.609947204589844,
+      617.7802734375,
+      174.84994506835938,
+      627.7432250976562
+    ],
+    "text": "Abuse & Neglect , 22 , 825-843.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      331.2200012207031,
+      33.07668685913086,
+      432.0000305175781,
+      44.66668701171875
+    ],
+    "text": "Clinical Case Studies 12(1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 21,
+    "bbox": [
+      63.0,
+      33.07668685913086,
+      125.33000183105469,
+      44.66668701171875
+    ],
+    "text": "Fernandez et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      65.91801452636719,
+      447.6882629394531,
+      267.8720397949219
+    ],
+    "text": "Spence, S. H. (1998). A measure of anxiety symptoms among children. Behaviour Research and Therapy , 36 , 545-566. Steinberg, A. M., Brymer, M. J., Decker, K. B., & Pynoos, R. S. (2004). The University of California at Los Angeles Post-Traumatic Stress Disorder Reaction Index. Current Psychiatry Reports , 6 , 96-100. Suanda, S. H., Tompson, W., & Brannon, E. M. (2008). Changes in the ability to detect ordinal numerical relationships between 9 and 11 months of age. Infancy , 13 , 308-337. Swanson, L. M., Favorite, T. K., Horin, E., & Arnedt, J. T. (2009). A combined group treatment for nightmares and insomnia in combat veterans: A pilot study. Journal of Traumatic Stress , 22 , 639-642. doi:10.1002/jts.20468 Vogel, J., & Vernberg, E. M. (1993). Children’s psychological responses to disaster. Journal of Clinical Psychology , 22 , 464-484. Bios Dr. Shantel Fernandez is a licensed clinical psychologist with Tripler Army Medical Center, Child and Adolescent Psychiatry Services, School Behavioral Health Team. She serves as both the Curriculum Specialist of this program and as the Program Coordinator of the Tripler’s Early Behavioral Health Team. Her research focuses on the dissemination of evidenced based services with military families.",
+    "line_count": 16,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      281.9120178222656,
+      447.6703186035156,
+      339.8630676269531
+    ],
+    "text": "Dr. Lisa DeMarni Cromer is an Assistant Professor of clinical psychology at the University of Tulsa, where she oversees the Study of the Prevention of and Adjustment and Resilience to Trauma and Adversity and co-directs the Tulsa Institute of Trauma, Abuse, and Neglect. She conducts research in the areas on the bio/psycho/social outcomes of various forms of life stress, and the factors that promote resilience in the face of adversity.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      353.9030456542969,
+      447.6521301269531,
+      399.8570861816406
+    ],
+    "text": "Dr. Cameo Borntrager is an Assistant Professor of clinical psychology at the University of Montana. Her research interests’ span across two separate, but related aspects of youth mental health, including a focus on the dissemination and implementation of evidence-based practices for youth and the evaluating the characteristics and effectiveness of intervention programs specific to trauma-exposed youth.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      413.8970642089844,
+      447.6612548828125,
+      447.8540954589844
+    ],
+    "text": "Rachael Swopes holds a Master’s degree in clinical psychology, and is currently pursuing her doctoral degree at the University of Tulsa. Her research interests focus broadly on the effects of interpersonal violence and on establishing evidence-based treatments for trauma-exposed populations.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      461.8940734863281,
+      447.6613464355469,
+      519.8450317382812
+    ],
+    "text": "Dr. Rochelle Hanson is a Professor at the National Crime Victims Research and Treatment Center (NCVC), Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina. She is a Licensed Clinical Psychologist specializing in the treatment of trauma among children, adolescents and adults. Her research focuses on the prevalence and effects of trauma exposure as well as dissemination of evidence-supported practices for trauma-exposed youth.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      62.36199951171875,
+      533.8850708007812,
+      447.6701965332031,
+      579.8390502929688
+    ],
+    "text": "Dr. Joanne Davis is an Associate Professor of clinical psychology at the University of Tulsa where she oversees the Trauma Research: Assessment, Prevention, and Treatment Center and co-directs the Tulsa Institute of Trauma, Abuse, and Neglect. She conducts research in the areas of nightmares and sleep problems in trauma-exposed persons.",
+    "line_count": 4,
+    "column": 0
+  }
+]

@@ -1,0 +1,1162 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      127.91999816894531,
+      40.571998596191406,
+      361.7849426269531,
+      60.52199935913086
+    ],
+    "text": "Child & Family Behavior Therapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      127.91999816894531,
+      134.2919921875,
+      515.9600219726562,
+      144.93199157714844
+    ],
+    "text": "ISSN: 0731-7107 (Print) 1545-228X (Online) Journal homepage: www.tandfonline.com/journals/wcfb20"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      166.87399291992188,
+      536.4439697265625,
+      216.25997924804688
+    ],
+    "text": "Assessing Outcome in Cognitive Behavior Therapy\nfor Child Depression: An Illustrative Case Series"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      236.93798828125,
+      287.1800537109375,
+      252.8979949951172
+    ],
+    "text": "Dikla Eckshtain & Scott T. Gaynor"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      274.0149841308594,
+      521.2598876953125,
+      311.19500732421875
+    ],
+    "text": "To cite this article: Dikla Eckshtain & Scott T. Gaynor (2009) Assessing Outcome in Cognitive\nBehavior Therapy for Child Depression: An Illustrative Case Series, Child & Family Behavior\nTherapy, 31:2, 94-116, DOI: 10.1080/07317100902910398"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      318.0149841308594,
+      410.5498352050781,
+      331.31500244140625
+    ],
+    "text": "To link to this article:  https://doi.org/10.1080/07317100902910398"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      373.3119812011719,
+      257.5840148925781,
+      385.16497802734375
+    ],
+    "text": "Published online: 06 Jun 2009."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      418.1659851074219,
+      273.98199462890625,
+      430.01898193359375
+    ],
+    "text": "Submit your article to this journal"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      459.11199951171875,
+      203.60202026367188,
+      470.9649963378906
+    ],
+    "text": "Article views: 888"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      503.9659729003906,
+      217.83999633789062,
+      515.8189697265625
+    ],
+    "text": "View related articles"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      154.74099731445312,
+      767.5520629882812,
+      479.57806396484375,
+      790.405029296875
+    ],
+    "text": "Full Terms & Conditions of access and use can be found at\nhttps://www.tandfonline.com/action/journalInformation?journalCode=wcfb20"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      94.62049865722656,
+      116.88013458251953,
+      411.24102783203125,
+      168.706787109375
+    ],
+    "text": "Assessing Outcome in Cognitive Behavior\nTherapy for Child Depression: An\nIllustrative Case Series"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      136.97000122070312,
+      191.57638549804688,
+      368.88580322265625,
+      203.531494140625
+    ],
+    "text": "DIKLA ECKSHTAIN and SCOTT T. GAYNOR"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      88.38420104980469,
+      207.88327026367188,
+      417.4735412597656,
+      216.8495635986328
+    ],
+    "text": "Department of Psychology, Western Michigan University, Kalamazoo, Michigan, USA"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      97.51180267333984,
+      245.15963745117188,
+      408.41204833984375,
+      398.59112548828125
+    ],
+    "text": "Recent meta-analytic data suggest a need for ongoing evaluation of\ntreatments for youth depression. The present article calls attention to\na number of issues relevant to the empirical evaluation of if and\nhow cognitive behavior therapy for child depression works. A case\nseries of 6 children and a primary caregiver received treatment—\nindividual CBT for the child and behavioral parent training\ninvolving the caregiver and caregiver–child dyad. The effects were\ngenerally promising and illustrate how selection of inclusion\ncriteria, measures, measurement intervals, and informants can\nalter conclusions. These areas warrant attention in studies of child\ndepression and are important not only in interpreting treatment\noutcome data but also for conducting sound clinical practice."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      97.51180267333984,
+      411.5567321777344,
+      408.36383056640625,
+      435.49884033203125
+    ],
+    "text": "KEYWORDS\nchild depression, cognitive-behavior therapy, multi-\ninformant, multi-method"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.58615112304688,
+      463.3267822265625,
+      432.32891845703125,
+      564.9397583007812
+    ],
+    "text": "A recent meta-analysis of 35 psychosocial treatment studies for youth depres-\nsion revealed only modest effect sizes for therapy compared to no treatment\n(ES ¼ .41) and active control conditions (ES ¼ .24; Weisz, McCarty, & Valeri,\n2006). The majority of the treatments included in the meta-analysis could\nbe considered cognitive-behavioral (CBT) in nature. This is noteworthy\nbecause CBT has generally been considered the psychosocial treatment of\nchoice for youth depression (see Chorpita et al., 2002), but the mean effects\nreported by Weisz and colleagues were substantially lower than in prior"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.58694458007812,
+      591.0885009765625,
+      432.2587585449219,
+      632.93603515625
+    ],
+    "text": "Received 20 September 2007; revised 9 May 2008; accepted 12 May 2008.\nAddress correspondence to Scott T. Gaynor, PhD, Western Michigan University, Depart-\nment of Psychology, 1903 West Michigan Avenue, Kalamazoo, MI 49008-5439, USA. E-mail:\nScott.gaynor@wmich.edu"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.5869369506836,
+      41.22117233276367,
+      270.72723388671875,
+      83.06869506835938
+    ],
+    "text": "Child & Family Behavior Therapy, 31:94–116, 2009\nCopyright # Taylor & Francis Group, LLC\nISSN: 0731-7107 print=1545-228X online\nDOI: 10.1080/07317100902910398"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      248.48500061035156,
+      647.8948364257812,
+      257.4512939453125,
+      656.8611450195312
+    ],
+    "text": "94"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.71429443359375,
+      65.50912475585938,
+      430.5052185058594,
+      633.3751831054688
+    ],
+    "text": "reviews (e.g., Lewinsohn & Clarke, 1999; Reinecke, Ryan, & DuBois, 1998).\nThese data illustrate the need for ongoing evaluation of treatments for youth\ndepression, which is especially true for preadolescents where there is a\npaucity of outcome research. For instance, in their meta-analysis, Weisz\net al. identified only seven studies with pre-teens compared to 21 with ado-\nlescents. In addition, while several large-scale randomized trials have been\nconducted with depressed adolescents (e.g., Brent et al., 1997; Clarke,\nRohde, Lewinsohn, Hops, & Seeley, 1999; Rohde, Clarke, Mace, Jorgensen,\n& Seeley, 2004; The Treatment for Adolescents with Depression Study Team\n[TADS], 2004), nothing comparable has been done with children. A greater\nfocus on adolescents is sensible in that the rates of depression rise dramati-\ncally in the teen years. However, earlier-onset depression is clinically signifi-\ncant and might indicate a unique and possibly more severe course (Birmaher\net al., 1996; Kovacs, 1996); thus, warranting research focus in its own right.\nIn interpreting the modest clinical outcomes with depressed youth, a\nnumber of issues warrant consideration. One important area is how depres-\nsion is measured, which has implications for the assessment of treatment\noutcome directly, but also indirectly in determining which children are eligible\nto be included in a study. To illustrate, consider the findings of Asarnow, Scott,\nand Mintz (2002) that 10 twice weekly sessions of CBT was more efficacious\nthan a wait list condition for 4th–6th graders (N ¼ 23). Asarnow and colleagues\n(2002) used a Child Depression Inventory (CDI; Kovacs, 1992) score of greater\nthan or equal to 8 to determine inclusion. The minimum inclusion criterion, a\nscore of 8, may appear quite modest given Kovacs’ report of a mean of 9.5 for\nadjustment disorder with depressed mood and 11.8 for those with major\ndepressive disorder. Indeed, extrapolating from the CDI, Asarnow and\ncolleagues estimated that only 48% of the sample could tentatively be\nconsidered to have met DSM criteria for major depression.\nHowever, it is plausible that even if the CDI scores were relatively low\na greater proportion of the sample may have met DSM criteria for major\ndepression than the CDI data would suggest. In a study showing a moderate\nbenefit for fluoxetine compared to placebo (ES ¼ .51; Emslie et al., 2002),\nchildren were required to meet DSM criteria and show at least moderate\ndepressive symptoms according to the clinician-administered, semistructured\nChildren’s Depression Rating Scale-Revised (Poznanski & Mokros, 1996),\nwhich was also the primary dependent variable. Despite average CDRS-R\nscores that were in the mid-50s, well above the authors’ cutoff for inclusion\nof 40, the ‘‘mean baseline CDI scores were below the cut point for depression’’\n(Emslie et al., 2002, p. 1210). In other words, Emslie et al. found that a group of\nchildren required to meet DSM criteria and display moderate symptoms\naccording to a clinician administered interview, failed to show elevations on\nthe CDI. Given that clinician interviews are often considered the ‘‘gold stan-\ndard,’’ it may be that Asarnow and colleagues’ sample was more severe than\ntheir CDI scores suggested. Alternatively, given the lack of corresponding"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.36578369140625,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n95"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      73.5863037109375,
+      65.50912475585938,
+      432.32037353515625,
+      633.3751831054688
+    ],
+    "text": "self-report data, it might be argued that Emslie et al.’s sample should be\nconsidered more modest in their symptoms than the interview suggested.\nThe interpretive problem, in part, is one of a lack of additional informa-\ntion to help qualify conclusions. Asarnow et al. (2002) did not report the\npretreatment group means on the CDI and did not collect additional\ninterviewer-administered or parent-rated symptom measures. As such, the\nCDI served as the sole measure for study inclusion and evaluation of depres-\nsive symptom outcome, complicating the interpretation of results. The same\nargument can be made with respect to Emslie and colleagues’ (2002) failure\nto present the self-report data in their study. In a previous study by that\ngroup (i.e., Emslie et al., 1997), significant differences were observed on\ninterviewer measures, but no differences between fluoxetine and placebo\nwere found on parent or child self-report measures—a result which has been\nfound in most studies using Selective Serotonin Reuptake Inhibitors (SSRIs)\nto treat child depression. As such, the efficacy data for SSRIs come almost\nexclusively from clinician-administered interviews (Jureidini et al., 2004). If\nchildren and parents do not see the problem or the effects of an intervention\nin the same way or to the same degree that a clinician does, this is important\ninformation.\nOne of the largest outcome studies with elementary-age children\ncompared eight sessions of Primary and Secondary Control Enhancement\nTraining (PASCET, a CBT intervention) to no treatment (Weisz, Thurber,\nSweeney, Proffitt, & LeGagnoux, 1997). The 48 3rd–6th grade participants\nmet inclusion criteria of either a CDI \u000111 or a CDRS-R (child informant) \u000134.\nCBT resulted in significantly greater reductions in depressive symptoms on\nthe CDI (a decrease from 18.6 to 7.1 in CBT compared to 17.8 to 11.8 among\ncontrols, ES ¼ .45). In addition, a greater amount of change was observed on\nthe CDRS-R for the CBT group (i.e., a decrease from 45.3 to 33.2) compared\nto controls (a decrease from 38.4 to 34.9). The conclusions from this study\nwere consistent across self-report and interview measures. Data from other\ninformants were not taken.\nThe potential for disagreement across measurement methods leads to\nthe basic recommendation to take and report multiple measures using differ-\nent methods (e.g., self-report and clinical interview). Weisz et al. (2006)\nfound that on average two depression measures were collected in youth\ndepression studies; but, these were averaged in their analyses to produce a\nsingle effect size for each study. Disagreement across measures, while possi-\nble, is only part of the interpretive dilemma. Another is disagreement across\ninformants. A large-scale meta-analytic review revealed correlations between\nparent, teacher, child, and clinician reports on dimensional measures of child\n(internalizing and externalizing) behavior that averaged about r ¼ .25\n(Achenbach, McConaughy, & Howell, 1987). A review focusing on semistruc-\ntured and structured diagnostic interviews also documented poor concor-\ndance across informants, particularly parents and children (Grills &"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "96\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.71319580078125,
+      65.50912475585938,
+      430.44512939453125,
+      633.3751831054688
+    ],
+    "text": "Ollendick, 2002). For instance, in a large study using the highly structured\nNIMH Diagnostic Interview Schedule for Children (DISC; Shaffer et al.,\n1996), it was found that parent-child agreement for depressive disorders pro-\nduced Kappa coefficients near zero. Parent-adolescent agreement was a bit\nbetter, but still poor, j \u0001 .20 (Jensen et al., 1999). Follow-up interviews by\nclinicians of cases identified only by the parent or only by the child resulted\nin ‘‘confirmation’’ of the depressive disorder diagnosis in only 41% and 30%\nof the cases, respectively, revealing substantial clinician–parent and clinician–\nchild disagreement. With respect to parent–child disagreement, a further\ncomplicating possibility comes from data suggesting a modest correlation\nbetween maternal internalizing symptoms and their reports of their children’s\nsymptoms, which could potentially contribute to the discrepancy (Briggs-\nGowan, Carter, & Schwab-Stone, 1996).\nThe lack of concordance among measures and informants is relevant\nto and can complicate interpretation of clinical outcome data. DeCuyper,\nTimbremont, Braet, De Backer, and Wullaert (2004) compared 16 weekly\n60-minute sessions of CBT to no treatment for children 9–13 with symptoms\nof depression. The CDI decreased 2.6 points (from its baseline of 12.7) for the\nCBT group (n ¼ 9) and 3.5 points (from its baseline of 15.3) for the waitlist\ncontrols (n ¼ 11), suggesting no acute treatment effect for CBT according\nto child self-report. However, according to parent-report on the Child Beha-\nvior Checklist-Internalizing scale (CBCL-I), there was a change from baseline\n(64.0) of 6.2 points for the CBT group, while in the control group the change\nfrom baseline (67.5) was less than a point. The posttreatment CBCL-I effect\nsize of 0.99 (using Hedges correction for small samples) suggests a large\neffect favoring CBT. (When the effect size is adjusted by subtracting the\npretreatment effect size from the posttreatment effect size, the result was a\nmedium effect size of .55 favoring CBT.) As such, conclusions about the\nacute efficacy of CBT differed by informant. The Weisz et al. (2006) meta-\nanalysis data further support this contention. That is, their compilation of\nstudies produced only 6=35 that included both parent and youth reports of\ndepressive symptoms. Despite the small number of studies available for\nanalysis a significant difference was apparent, with larger effects for youth-\nreported compared to parent-reported symptom change. Thus, despite the\nDeCuyper et al. (2004) findings, the treatment efficacy data come mainly\nfrom the reports of youth.\nIn the preceding pages it has been suggested that interpreting the results\nof child depression studies is complicated by the use of single measures,\ndisagreement between measures when more than one is used, and disagree-\nment between informants completing measures on the same construct\n(i.e., depressive symptoms). One additional complication is the lack of data\nrelated to the time course of change in child depression studies. In CBT\nfor adult depression a great deal of change appears to occur very early in\ntreatment and may be due to nonspecific factors (Ilardi & Craighead,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.36578369140625,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n97"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      73.5863037109375,
+      65.50912475585938,
+      432.32037353515625,
+      348.4871520996094
+    ],
+    "text": "1994). With depressed adolescents, time course data suggest that across\ntreatment approaches about 25% experience notable improvements in\ndepressive symptoms prior to the start of treatment and over 25% experience\na large ‘‘sudden gain’’ early in the course of treatment (Gaynor et al., 2003).\nDetermining the trajectory and stability of symptoms in the baseline period\npreceding treatment and the pattern of response during treatment can alter\nhow global pretreatment to posttreatment changes are interpreted. The time\ncourse of change with preadolescents has received almost no attention in the\nclinical outcome literature.\nThe present study illustrates the importance of multi-measure, multi-\ninformant repeated measures assessment. Six school-age children were\nprovided individual CBT (via the PASCET manual) plus Caregiver-Child\nRelationship Enhancement Training (C-CRET; behavioral parent training\nskills added by the authors to augment the skills taught in the PASCET man-\nual). Because of the potentially significant discrepancies between measures\nand informants, a multi-measure, multi-informant approach to evaluating\nchange in depressive symptoms was used. Specifically, dimensional ques-\ntionnaire data and categorical interview data from both the child and his=her\nprimary caregiver were obtained and used in the evaluation of outcome. In\naddition, the short form of the CDI was completed at each session providing\ninformation on the time course of change in depressive symptoms from the\nperspective of the child."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      227.79209899902344,
+      367.6077575683594,
+      278.07525634765625,
+      379.5628662109375
+    ],
+    "text": "METHOD"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      73.58804321289062,
+      394.3106689453125,
+      132.77655029296875,
+      406.2657775878906
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      73.58636474609375,
+      415.1910400390625,
+      432.3270263671875,
+      633.4241943359375
+    ],
+    "text": "Six elementary school children, 5 females and 1 male (M ¼ 10; SD ¼ .75),\nrecruited=referred from Kalamazoo Center for Medical Studies=Michigan\nState University, Department of Pediatrics participated (see Table 1). They\nwere required to report at least mild-to-moderate symptoms of depression\nas assessed by a CDI of \u00018 (as in Asarnow et al., 2002) and a report of at least\nan intermediate major depressive episode, by either parent or child report,\non the DISC (Shaffer, Fisher, Lucas, Dulcan, & Schwab-Stone, 2000). Out\nof the 6 children, 5 lived with only one primary caregiver. Further, according\nto the caregiver, 5 had a first degree relative with a history of depression,\nwho in four cases was the biological mother who also served as the study\ninformant. One child took medications but was eligible to participate\nbecause he was on the same medication and dose for more than 2 months\nprior to enrollment, met entry criteria, and his medication doses did not\nchange during the time of treatment. Two other children had received psy-\nchotropic medicine previously, but were not currently medicated. Exclusion\ncriteria included primary symptoms of extreme Conduct Disorder, Obsessive-\nCompulsive Disorder, schizophrenia-spectrum, autism-spectrum disorders,"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "98\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      130.700927734375,
+      431.27569580078125,
+      139.7082977294922,
+      631.4456787109375
+    ],
+    "text": "TABLE 1 Demographic and Clinical Characteristics"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      169.12315368652344,
+      460.2718200683594,
+      178.08944702148438,
+      631.4456787109375
+    ],
+    "text": "Participant\nSex\nAge Grade\nEthnicity"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.16685485839844,
+      409.1101379394531,
+      178.08853149414062,
+      447.6473083496094
+    ],
+    "text": "Live\nwith 2\ncaregivers"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.1659393310547,
+      339.8912048339844,
+      178.08761596679688,
+      402.97271728515625
+    ],
+    "text": "Psychiatric\nMeds\n(Now=Ever)\nSI"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.16502380371094,
+      232.0552978515625,
+      178.08670043945312,
+      330.40576171875
+    ],
+    "text": "Family\nHistory of\nDepression\nInformant"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.1641082763672,
+      66.06304931640625,
+      178.08578491210938,
+      211.40771484375
+    ],
+    "text": "Informant\nMental Health\nHistory\nIndividual\nsessions\nCaregiver\nsessions"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      188.22203063964844,
+      82.02753448486328,
+      207.28274536132812,
+      631.4456787109375
+    ],
+    "text": "1\nFemale\n10\n5\nEA\nYes\nNo=No\nNo\n1st degree\n(Mother)\nBiological\nMother\nDepression\n13\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      208.17832946777344,
+      165.21600341796875,
+      237.16024780273438,
+      631.4456787109375
+    ],
+    "text": "2\nFemale\n9\n4\nEA=\nWest Indian\nNo\nNo=No\nYes 1st degree\n(Mother)\nBiological\nMother\nDepression,\nAnxiety,\nInattention"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      208.2950439453125,
+      82.02759552001953,
+      217.26133728027344,
+      132.5455322265625
+    ],
+    "text": "13\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      238.05581665039062,
+      153.6656494140625,
+      277.01544189453125,
+      631.44482421875
+    ],
+    "text": "3\nFemale\n10\n4\nEA=AA=NA\nNo\nNo=Yes\nNo\n1st degree\n(Mother)\nBiological\nMother\nDepression,\nInattention,\nHyperactivity,\nAggression"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      238.17164611816406,
+      82.02680206298828,
+      247.137939453125,
+      132.54473876953125
+    ],
+    "text": "13\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      277.91009521484375,
+      164.8717041015625,
+      306.89202880859375,
+      631.4440307617188
+    ],
+    "text": "4\nFemale\n9\n3\nEA\nNo\nNo=Yes\nYes 1st degree\n(Mother)\nBiological\nMother\nDepression,\nAnxiety,\nAggression"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      278.0268249511719,
+      82.02600860595703,
+      286.9931335449219,
+      128.06524658203125
+    ],
+    "text": "7\n6"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      307.78759765625,
+      82.02600860595703,
+      326.84832763671875,
+      631.4432373046875
+    ],
+    "text": "5\nFemale\n10\n4\nAA\nNo\nNo=No\nNo\n1st degree\n(Father)\nBiological\nMother\nNone\n12\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      327.8032531738281,
+      82.02600860595703,
+      346.74725341796875,
+      631.4432373046875
+    ],
+    "text": "6\nMale\n11\n6\nEA\nNo\nYes\nYes\nNo\nNon-biological\nGrandmother\nNone\n13\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      358.0416564941406,
+      377.316650390625,
+      366.068359375,
+      631.4456787109375
+    ],
+    "text": "Note: AA ¼ African-American; EA ¼ Euro-American; NA ¼ Native-American."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      246.55740356445312,
+      647.8948364257812,
+      255.52371215820312,
+      656.8611450195312
+    ],
+    "text": "99"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      65.50912475585938,
+      432.2995300292969,
+      102.37742614746094
+    ],
+    "text": "or report of serious acute suicidality. Two children did not meet entry criteria\non the CDI and a third child met exclusion criteria due to Asperger’s\nDisorder."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      116.11807250976562,
+      109.23152923583984,
+      128.07318115234375
+    ],
+    "text": "Design"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      137.05563354492188,
+      432.298583984375,
+      251.7294464111328
+    ],
+    "text": "All participants received PASCETþC-CRET. No concurrent waitlist group was\nutilized. As such, this study was an uncontrolled open clinical trial. To\nprovide multiple assessments of outcome, diagnostic interviews, parent\nchecklists, and child self-report measures were administered at pre-\ntreatment, midtreatment, posttreatment, and 1-month follow-up. In addition,\nchild-reported depressive symptoms were measured at three baseline assess-\nments, prior to each treatment session, at 1-week posttreatment and\nfollow-up. These session-by-session data yield a series of single-case A=B\ndesigns where A was baseline and B was PASCETþC-CRET."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      264.7668762207031,
+      136.2608184814453,
+      276.72198486328125
+    ],
+    "text": "Intervention"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      285.7044677734375,
+      432.2973937988281,
+      633.427001953125
+    ],
+    "text": "The individual treatment was based on the PASCET manual (Weisz, Moore, &\nSoutham-Gerow, 1999). The caregiver=caregiver-child sessions included the\npsycho-educational meetings routinely used in PASCET plus 4 additional\nsessions of C-CRET (Eckshtain & Gaynor, 2003) to augment the PASCET\nskills. The treatment was broken into two phases separated by a mid-\ntreatment assessment. At the maximum, the intervention consisted of\n13 individual meetings with the child, and 7 caregiver=caregiver-child\nmeetings (see Table 2). Each session lasted 75–90 minutes.\nThe PASCET program is a structured intervention for children ages 8–15.\nThe treatment is based on a two-process model of control. According to this\nmodel, primary control involves enhancing reward or reducing punishment\nby making, to the extent possible, objective conditions conform to the indi-\nvidual child. Secondary control involves enhancing receipt of rewards or\nreducing punishment by adjusting oneself to fit environmental conditions\nso as to influence their subjective impact without altering the events them-\nselves. Primary control is applied to distressing conditions that are modifiable\nand secondary control to those conditions that are not (Weisz et al., 1999;\nWeisz, Southam-Gerow, Gordis, & Connor-Smith, 2003).\nPASCET caregiver sessions served the general functions of keeping the\ncaregivers informed, allowing for feedback regarding how the child is\ndoing outside the treatment setting, and encouraging the caregivers to assist\ntheir children in generalizing the skills they worked on in the individual\nsessions to the home environment. The added C-CRET sessions focused\non caregiver skills, including increasing the amount of positive time spent\ntogether\nbetween\nthe\ncaregivers\nand\nchild,\npositive\nreinforcement,\nnoncontingent praise, enhancing communication and encouraging positive\ncommunication,\nfamilial\nproblem\nsolving,\nand\nincreasing\nthe\nchild’s"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "100\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649932861328,
+      382.8193664550781,
+      430.3815002441406,
+      406.7615051269531
+    ],
+    "text": "engagement in positive activities. Table 2 provides a summary of each\nsession and its major focus."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649932861328,
+      420.1620788574219,
+      170.45370483398438,
+      432.1171875
+    ],
+    "text": "Treatment Integrity"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649169921875,
+      441.0996398925781,
+      430.4165344238281,
+      633.4235229492188
+    ],
+    "text": "All treatment sessions were conducted by the first author (DE), a doctoral\nstudent in clinical psychology, who had completed graduate courses in child,\nadult, and family behavior therapy. She had 2 years of clinical experience\nworking\nwith\nchildren\nconducting\nboth\nassessments\nand\ncognitive-\nbehaviorally focused treatment. In addition, she received weekly supervision\nfrom the second author (SG), a licensed clinical psychologist with research\nand clinical experience using CBT with youth. To promote integrity, the\nPASCET manual was studied in great detail prior to treatment implementation\nand in developing the C-CRET sessions to accompany the PASCET manual.\nIn addition, prior to conducting each individual and caregiver meeting for\nthe first time, the therapist role-played the session with a research assistant.\nTo assess treatment adherence, after every session the therapist com-\npleted a Therapist Record Form. The PASCET forms were taken directly from\nthe PASCET manual developed by Weisz et al. (1999), while the C-CRET rat-\ning forms were developed for the current treatment using the same general"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649932861328,
+      65.61759948730469,
+      333.5334167480469,
+      74.62496948242188
+    ],
+    "text": "TABLE 2 Sequence and Contents of PASCET and C-CRET Sessions"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649932861328,
+      84.08439636230469,
+      328.2342834472656,
+      103.02841186523438
+    ],
+    "text": "Week\nChild\nsession\nCaregiver\nsession\nEmphasis=Skill"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71651458740234,
+      113.28135681152344,
+      420.48504638671875,
+      361.3170166015625
+    ],
+    "text": "1\n1\nOrientation and psychoeduation\n1\nIntroduction and problem solving\n2\n2\nSpecial time and positive behavior management\n2\nActivity scheduling\n3\n3\nActivity scheduling\n3\nLearning to relax\n4\n4\nPresenting a positive self\n5\nDeveloping talents and skills\n5\nMidtreatment assessment\n6\n4\nCase formulation review\n6\n6\nThink positive—no negative thinking allowed\n7\n5\nCommunication training; positive communication\n7\nGood things to do when bad things happen\n8\n6\nFamily problem solving\n8\nCombining primary and secondary control\n9\n9\nUsing skills in my everyday life\n10\nReview of case formulation and preparing for individually\ntailored sessions\n10\n11\nIndividually tailored session focused on the most relevant skills\nfor the particular child\n12\nIndividually tailored session focused on the most relevant skills\nfor the particular child\n11\n13\nReview of progress\n7\nReview of progress\n12\nPosttreatment assessment"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      214.86618041992188,
+      41.21921920776367,
+      430.3703308105469,
+      50.22429275512695
+    ],
+    "text": "Assessing Outcome\n101"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      73.58740234375,
+      65.50912475585938,
+      432.31048583984375,
+      270.75933837890625
+    ],
+    "text": "format as used with the PASCET. As a check, all sessions were videotaped\nand 37% of them were reviewed by graduate student coders in a doctoral\nprogram in clinical psychology. The coders watched the tapes and\ncompleted the Therapist Record Form. The coded sessions were chosen\nrandomly with the restriction that for each participant one session had to\ncome from the first four individual sessions, one from sessions 5–8, one from\nsessions 9–13, and one caregiver session from the four C-CRET sessions. Com-\nparison between the therapist and the three coders indicated 85% agreement,\n11% disagreement, and 4% uncodable items, yielding j ¼ .72 (n ¼ 284, when\nuncodable instances were coded as disagreement) and j ¼ .76 (n ¼ 274, when\nuncodable instances were not included). The percent agreement and Kappa\ncoefficients suggested good to very good agreement between the therapist\nand the coders (Cicchetti, 1994; Watkins & Pacheco, 2000). With 1.0 indicating\nperfect adherence, the average therapist coding was .97 (SD ¼ .07) and the\naverage coders rating was .88 (SD ¼ .12), indicating that the therapist\nimplemented treatment with fidelity to the manuals."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      73.58740234375,
+      290.6755676269531,
+      164.77491760253906,
+      302.63067626953125
+    ],
+    "text": "Primary Measures"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      73.58627319335938,
+      311.6130676269531,
+      432.3258361816406,
+      633.4263305664062
+    ],
+    "text": "The Computerized NIMH DISC (Shaffer et al., 2000) was used to assess\npsychopathology across the major diagnostic categories of the DSM-IV.\nThe modules for major depression, dysthymia, bipolar disorder, generalized\nanxiety, social anxiety, conduct disorder, and Attention-Deficit=Hyperactivity\nDisorder (ADHD) were administered at pretreatment, midtreatment, post-\ntreatment, and follow-up. The DISC is considered a reliable tool with\nmoderate to good validity in assessing child psychopathology (Schwab-Stone\net al., 1996; Shaffer et al., 1996). The DISC was administered to the children\n(DISC-c) and to the caregivers regarding their children (DISC-p). For this\nstudy, the clinical cutoff on the DISC was meeting DSM criteria for a major\ndepressive episode of at least intermediate severity.\nThe CDI (Kovacs, 1992) is a commonly used self-report measure of\ndepression for children that consists of 27 items assessing the presence\nand severity of symptoms during the previous 2 weeks. The CDI has accep-\ntable internal consistency and test-retest reliability (Finch, Saylor, Edwards, &\nMcIntosh, 1987; Kovacs, 1992). The CDI was administered at pretreatment,\nmidtreatment, posttreatment, and follow-up. The 10-item CDI-Short Form\nwas administered to the children at the remaining baseline sessions and prior\nto each treatment session. Kovacs (1992) reported a mean of 9.5 for adjust-\nment disorder with depressed mood and 11.8 for those with major depressive\ndisorder. The latter was considered the clinical cutoff in this study.\nThe Child Behavior Checklist-Parent Rating Form (CBCL; Achenbach &\nRescorla, 2001) is composed of 118 items assessing internalizing (CBCL-I)\nand externalizing (CBCL-E) behaviors of the child. The CBCL has acceptable\ntest-retest reliability and content, construct, and criterion-related validity"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "102\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71649932861328,
+      65.50912475585938,
+      430.4034423828125,
+      102.37742614746094
+    ],
+    "text": "(Achenbach & Rescorla). Consistent with standard use of the CBCL, T scores\nbelow 60 were considered in the normative range, scores from 60–63 in the\nborderline range, and higher scores the clinical range."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71649932861328,
+      117.93228149414062,
+      176.45272827148438,
+      129.88739013671875
+    ],
+    "text": "Secondary Measures"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71534729003906,
+      138.86984252929688,
+      430.4527282714844,
+      564.2632446289062
+    ],
+    "text": "The Cognitive Triad Inventory for Children (CTI-C; Kaslow, Stark, Printz,\nLivingston, & Ling-Tsai, 1992) is a self-report measure for children consisting\nof 36 items assessing their view of the self, world, and future. The CTI has demon-\nstrated acceptable internal consistency and concurrent validity, with depressed\nchildren (in grades 4–7) averaging 39.5 (11.3) and control children 63.3 (5.1).\nThe\nChildren’s\nNegative\nCognitive\nError\nQuestionnaire\n(CNCEQ;\nLeitenberg, Yost, & Carroll-Wilson, 1986) is a 24-item self-report measure\nassessing cognitive errors (i.e., overgeneralization, catastrophizing, personaliz-\ning, and selective abstraction). The CNCEQ is reported to have test-retest reli-\nability of .65 for the total score. Average scores of 70.3 for depressed children\n(in grades 4, 6, and 8) and 42.1 for nondepressed children were reported.\nThe Matson Evaluation of Social Skills for Youngsters (MESSY; Matson,\nRotatori, & Helsel, 1983) is a self-report measure of social skills, which has\ndemonstrated acceptable internal consistency and test-retest and split-half\nreliability (Matson, Esveldt-Dawson, & Kazdin, 1983; Matson, 1994). The\nitems making up the Appropriate Social Skills, Inappropriate Assertiveness,\nand Impulsivity scales were completed by the child (MESSY-c). The later\ntwo were subtracted from the former, such that higher scores suggested bet-\nter social skills. Normative averages for 9- to 12-year-olds according to this\nscoring method are 46 for girls and 37 for boys (Matson, 1994). Caregivers\nwere given the teacher-report version of the MESSY (MESSY-p). This version\nconsists of 64 items and has been used with caregivers in other research\nyielding a normative mean (SD) of 139 (25; Bell-Dolan & Allan, 1998).\nThe Self-Report Measure of Family Functioning (SRMFF; Bloom, 1985) is\na 75-item measure completed by the primary caregiver. The SRMFF has been\nreported to have adequate psychometric properties. In addition, young adults\nwho reported coming from disrupted families described their families differ-\nently (M ¼ 184) from young adults who reported coming from non-disrupted\nfamilies (M ¼ 196; Bloom). A family mental health history was obtained as part\nof a demographic questionnaire. The caregiver informant responded to the\nquestion ‘‘Does anyone in the child’s immediate or extended family have\nthe following illnesses or problems?’’ by indicating the relevant family mem-\nber next to each of the applicable 24 possible problem areas listed."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      227.96209716796875,
+      582.7573852539062,
+      274.1326904296875,
+      594.7124633789062
+    ],
+    "text": "RESULTS"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71649932861328,
+      609.4775390625,
+      430.4166259765625,
+      633.3627319335938
+    ],
+    "text": "Table 3 presents the data from the primary measures collected at pretreat-\nment, midtreatment, and posttreatment and displays the total number of"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n103"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      134.2158203125,
+      455.1394958496094,
+      143.2231903076172,
+      630.9354858398438
+    ],
+    "text": "TABLE 3 Measures of Depressive Symptoms"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      152.68174743652344,
+      123.30206298828125,
+      161.64804077148438,
+      533.4234008789062
+    ],
+    "text": "Pretreatment\nMidtreatment\nPosttreatment"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      171.10659790039062,
+      117.99224853515625,
+      180.07289123535156,
+      576.6239013671875
+    ],
+    "text": "Child\nCaregiver\nChild\nCaregiver\nChild\nCaregiver"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      189.54776000976562,
+      65.58251953125,
+      198.5551300048828,
+      630.9364013671875
+    ],
+    "text": "Part\nCDI\nDISC-c\nCBCL-I\nDISC-p\nCutoff\nCDI\nDISC-c\nCBCL-I\nDISC-p\nCutoff\nCDI\nDISC-c\nCBCL-I\nDISC-p\nCutoff"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      208.76702880859375,
+      76.196044921875,
+      277.48651123046875,
+      630.9364013671875
+    ],
+    "text": "1\n19\nMDE: I\n68\nMDE:I\n4\n19\nMDE: I\n71\nNo dx\n3\n8\nNo dx\n70\nNo dx\n1\n2\n23\nNo dx\n76\nMDE:I\n3\n4\nNo dx\n88\nMDE: I\n2\n5\nNo dx\n85\nMDE: I\n2\n3\n8\nNo dx\n71\nMDE:I\n2\n5\nNo dx\n63\nNo dx\n0\n0\nNo dx\n59\nNo dx\n0\n4\n15\nNo dx\n82\nMDE:I\n3\n9\nNo dx\n67\nNo dx\n1\n–\n–\n–\n–\n–\n5\n9\nNo dx\n58\nMDE:I\n1\n0\nNo dx\n58\nNo dx\n0\n0\nNo dx\n52\nNo dx\n0\n6\n9\nNo dx\n64\nMDE:I\n2\n13\nNo dx\n68\nMDE:I\n3\n7\nNo dx\n55\nNo dx\n0\nCutoff\n3\n1\n5\n6\n15\n2\n1\n4\n2\n9\n0\n0\n2\n1\n3"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      288.8196716308594,
+      65.5009536743164,
+      373.5508117675781,
+      630.935546875
+    ],
+    "text": "Note: The DISC columns only include diagnostic information for depression. For P2, the posttreatment DISC-p also yielded diagnoses of SAD and ODD. For P6, the\npretreatment and midtreatment DISC-c interviews yielded diagnoses of SAD and ADHD, while the DISC-p interviews yielded additional diagnoses of ADHD and ODD\nat pretreatment and midtreatment and ODD at posttreatment.\nCDI ¼ Child Depression Inventory.\nDISC ¼ Diagnostic Interview Schedule for Children: DISC-c and DISC-p refer to whether the child or parent was the informant.\nCBCL-I ¼ Child Behavior Checklist-Internalizing Symptom Scale.\nCutoff ¼ The total number of measures (out of four) or cases (out of six) exceeding clinical cutoffs at that assessment point.\nMDE:I ¼ Major Depressive Disorder: Intermediate Impairment."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      246.21730041503906,
+      647.8948364257812,
+      259.666748046875,
+      656.8611450195312
+    ],
+    "text": "104"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      71.71649932861328,
+      65.50912475585938,
+      430.4330749511719,
+      141.21287536621094
+    ],
+    "text": "cases, and measures within cases, that exceeded clinical cutoffs at each\nassessment point. Figure 1 provides the CDI time course data and Table 4\nthe data from the secondary measures. With respect to Table 4, the focus\nis on measures for which pretreatment scores appeared to reasonably\nindicate dysfunction according to existing normative data. These instances\nare ‘‘boxed’’ in Table 4 for easier identification."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      71.71649169921875,
+      569.1073608398438,
+      430.3882751464844,
+      632.9356079101562
+    ],
+    "text": "FIGURE 1 Individual repeated measures data across baseline (BL), treatment, and 1-month\nfollow-up (FU) phases presented as a proportion of the baseline Child Depression Inventory\nT score. T scores were used to equate the data from the Child Depression Inventory and Child\nDepression Inventory–Short Form. The dashed, horizontal line represents the level of the\nlowest baseline score (with the exception of P3 where one baseline session, which is circled,\nwas unknowingly scheduled on her birthday)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      214.8661651611328,
+      41.22074508666992,
+      430.37030029296875,
+      50.2258186340332
+    ],
+    "text": "Assessing Outcome\n105"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      120.77962493896484,
+      510.9827880859375,
+      129.78700256347656,
+      630.765380859375
+    ],
+    "text": "TABLE 4 Secondary Measures"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      139.24554443359375,
+      78.56848907470703,
+      148.2118377685547,
+      569.1400146484375
+    ],
+    "text": "Participant 1\nParticipant 2\nParticipant 3\nParticipant 4\nParticipant 5\nParticipant 6"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      157.67039489746094,
+      65.89202880859375,
+      166.63668823242188,
+      630.765380859375
+    ],
+    "text": "Variable\nPre\nMid\nPost\nPre\nMid\nPost\nPre\nMid\nPost\nPre\nMid\nPost\nPre\nMid\nPost\nPre\nMid\nPost"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      176.88966369628906,
+      67.22699737548828,
+      185.85595703125,
+      630.765380859375
+    ],
+    "text": "CTI\n56\n51\n57\n34\n56\n55\n65\n67\n72\n54\n70\n–\n71\n68\n58\n50\n66\n69"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      198.8302001953125,
+      67.22699737548828,
+      207.79649353027344,
+      630.765380859375
+    ],
+    "text": "CNCEQ\n37\n47\n45\n59\n43\n30\n37\n40\n32\n41\n45\n–\n30\n26\n24\n70\n60\n24"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      220.71334838867188,
+      67.22699737548828,
+      229.6796417236328,
+      630.765380859375
+    ],
+    "text": "MESSY-c\n54\n36\n40\n46\n58\n65\n82\n75\n67\n90\n87\n–\n78\n74\n88\n46\n80\n87"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      242.6538848876953,
+      67.22699737548828,
+      251.62017822265625,
+      630.765380859375
+    ],
+    "text": "CBCL-E\n53\n53\n46\n74\n77\n77\n63\n59\n59\n75\n64\n–\n42\n37\n32\n66\n59\n56"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      264.5943908691406,
+      67.22339630126953,
+      273.5606994628906,
+      630.765380859375
+    ],
+    "text": "MESSY-p\n144\n152\n141\n216\n216\n217\n149\n136\n130\n207\n165\n–\n122\n105\n108\n148\n150\n114"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      286.4775390625,
+      67.22333526611328,
+      295.44384765625,
+      630.765380859375
+    ],
+    "text": "SRMFF\n190\n204\n206\n210\n213\n217\n184\n188\n199\n211\n198\n–\n173\n208\n203\n206\n206\n211"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      318.69677734375,
+      82.20271301269531,
+      381.4318542480469,
+      630.765380859375
+    ],
+    "text": "Note. CTI: 39.50 (11.30) for depressed children, 63.3 (5.1) for control children (grades 4 to 7; Kaslow et al., 1992).\nCNCEQ: 70.3 for depressed children, 42.1 for nondepressed children (grades 4, 6, and 8; Leitenberg et al., 1986).\nMESSY-c: 65.2 is normative data for girls, 78.3 for boys (Spence & Liddle, 1990).\nMESSY-p: 138.6 (25.1) is normative data from parents (Bell-Dolan & Allan, 1998).\nCBCL: T score of 64 or greater is considered in the clinical range (Achenbach & Rescorla 2001).\nSRMFF: 184 (clinical), 196 (control), based on retrospective report of young adults from disrupted (clinical) and nondisrupted (control) families (Bloom, 1985)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      246.21730041503906,
+      647.8948364257812,
+      259.666748046875,
+      656.8611450195312
+    ],
+    "text": "106"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      71.71615600585938,
+      65.50912475585938,
+      430.44580078125,
+      633.3751831054688
+    ],
+    "text": "As is apparent in Table 3, P1 exceeded clinical cutoffs on all 4 measures\nat pretreatment. At midtreatment she no longer met criteria for a major\ndepressive episode on the DISC-p, but did continue to exceed clinical cutoffs\non the other 3 measures. However, by posttreatment she only exceeded cut-\noffs on the CBCL-I. These results were maintained at 1-month follow-up (i.e.,\nCDI ¼ 6, no DISC depression, CBCL-I ¼ 74). The time series data (Figure 1)\nsuggest relatively stable symptoms across baseline, which, like the DISC-c,\ndid not reliably decrease until the second half of the treatment where a\nsteady decline was noted with the lowest point at the posttreatment assess-\nment. On the secondary measures, the only potential elevation was on the\nSRMFF, which was midway between the clinical and control sample averages\nat pretreatment (see Table 4). However, family functioning improved by mid-\ntreatment and remained improved at posttreatment. Thus, P1 demonstrated\ndepressive symptom change on both the interview and self-report measures\nfor which she was the respondent and on 1=2 measures for which her\nprimary caregiver was the informant. The primary caretaker identified\nthe changes in depression and family functioning as occurring within the\nfirst half of the treatment, while the child noted the most change during\nthe second half of the treatment.\nP2 exceeded clinical cutoffs on 3 measures at pretreatment, with the\nexception being the DISC-c. She showed a dramatic decrease on the CDI\nby midtreatment, which was maintained at posttreatment, decreasing the\nnumber of clinical cutoffs met from 3 to 2. The CDI time course data showed\na modest dip in symptoms at the final baseline point, which rebounded to the\nprevious level prior to session 1. However, by the start of session 3 she\nreported a dramatic decline in depressive symptoms, which was maintained\nthrough the remainder of treatment. Thus, according to her self-report P2\nshowed significant change early in the course of treatment that was main-\ntained. That said, no depression change occurred according to maternal\nreport. The same pattern was observed on the secondary measures. That\nis, according to maternal report P2 was also demonstrating significant exter-\nnalizing behavior and social skills problems at all assessments. P2 did not\nreport problematic social skills, but did report a depressotypic cognitive style\nat pretreatment, which was substantially improved by midtreatment (CTI &\nCNCEQ) and showed additional improvement at posttreatment (CNCEQ).\nThus, according to child self-report substantial changes in depressive\nsymptoms and depressotypic thinking occurred early in the course of treat-\nment, while no changes were noted by maternal report on any dimensional\nmeasures or the diagnostic interview. P2 did not participate in the follow-up\nassessment.\nP3 began treatment above the clinical cutoff on both parent-rated\nmeasures, but neither child self-report measure. By midtreatment P3 no\nlonger exceeded clinical cutoffs on the DISC-p or CBCL-I. Maintenance\nor further improvement was observed at posttreatment and at 1-month"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n107"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      73.58631896972656,
+      65.50912475585938,
+      432.3138122558594,
+      633.4528198242188
+    ],
+    "text": "follow-up where she also failed to meet any clinical cutoffs: no DISC-c or\nDISC-p depression diagnosis, CDI ¼ 0, and CBCL-I ¼ 54. The time course data\nsuggest initially mild depressive symptoms that dropped precipitously at the\nsecond baseline session (which, unbeknownst to the therapist when the ses-\nsion was scheduled, happened to be her birthday) and returned to mild levels\nduring the last two baseline sessions. These mild symptoms then remained\nstable across the initial two thirds of treatment, with a decline in the final five\nsessions to a low level. On the secondary measures P3’s mother reported a\nsmall decrement in externalizing (from the borderline to nonclincial range)\nfrom pretreatment to midtreatment, and a substantial improvement in family\nfunctioning during the second half of treatment. In sum, both P3 and her\nmother identified a change in depressive symptoms. P3’s mother identified\nthe most change in the first half of treatment with ongoing improvement in\nthe second half. P3’s self-reported change occurred primarily in the second\nhalf, the time frame in which her mother reported improvements in family\nfunctioning.\nP4 terminated treatment after 7 individual sessions and 6 parent sessions\ndue to family difficulties, including living far away, transportation problems,\nher mother’s emotional and physical health, her father’s health, and some\ndisagreement between the parents on the need for ongoing treatment. As\nsuch, data are only available for P4 through midtreatment. At pretreatment\nP4 met 3=4 clinical cutoffs. The exception was the DISC-c. At midtreatment\nshe showed decreased symptoms sufficient to move from meeting 3 cutoffs\nto 1. Despite a CBCL-I score of 67, which continued to exceed the cutoff, a\nnotable decrease was observed from the baseline score of 82. A similar\ndecrement was noted on the CBCL-E as was an improvement in parent-rated\nsocial skills. P4’s repeated measures data suggest that she experienced sub-\nstantial change in symptoms during the baseline period before the onset of\ntreatment. Thus, the self-reported decrease in depressive symptoms does\nnot appear attributable to the treatment.\nP5 met pretreatment clinical cutoffs on only 1 measure, the DISC-p. By\nmidtreatment P5 no longer met criteria for a depressive episode on the\nDISC-p, a result which was maintained at posttreatment. The time course\ndata (see Figure 1) suggest that P5 reported mild depressive symptoms dur-\ning baseline that were modestly worsening at the last baseline measurement\nand during the initial portion of treatment. However, session-by-session data\nsuggest that about 6–8 sessions into treatment P5 experienced a relatively\nabrupt change in depressive symptoms to a low level that was maintained\nthroughout treatment. Thus, the DISC-p and CDI data suggest depression\nchange was concentrated during the latter portion of the first half of treat-\nment. An improvement in family functioning was also reported during this\ntime period. However, dimensional change on the CBCL-I was only observed\nfrom midtreatment to posttreatment. No clinical cutoffs were exceeded at the\n1-month follow-up, CDI ¼ 1, CBCL-I ¼ 48."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "108\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      71.71401977539062,
+      65.50912475585938,
+      430.4250183105469,
+      309.5947570800781
+    ],
+    "text": "At baseline P6 met clinical cutoffs on both caregiver-rated measures. A\nslight worsening was observed at midtreatment where he also exceeded the\ncutoff on the CDI in addition to the CBCL-I and DISC-p. However, significant\nimprovement occurred by posttreatment, as P6 no longer exceeded clinical\ncutoffs on any depression measure (but did still meet DISC-p criteria for\nODD). At 1-month follow-up these gains were maintained: no DISC depres-\nsive disorder diagnosis, CDI ¼ 5, and CBCL-I ¼ 53. The time course CDI data\nsuggest only a small change during the course of treatment. Two modest\n‘‘spikes’’ in symptoms were observed where his CDI increased. At the begin-\nning of the second half of treatment his CDI scores decreased to their lowest\nlevel, which was outside the baseline range. This decrease was maintained\nfor eight assessments before slightly increasing at posttreatment and then\ndecreasing by follow-up. Thus, for both P6 and his caregiver, the changes\nin depression were most apparent in the second half of treatment. Interest-\ningly, at midtreatment, and therefore before any documented symptom\nchange in depression, P6 reported an improvement in his thoughts about\nhimself, the world, and future and a modest decrement in cognitive errors.\nImprovement on the former remained stable during the second half of\ntreatment, while the latter showed marked additional improvement."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      217.41729736328125,
+      336.7101745605469,
+      284.7113952636719,
+      348.665283203125
+    ],
+    "text": "DISCUSSION"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      71.71649169921875,
+      363.3737487792969,
+      430.4231872558594,
+      633.3684692382812
+    ],
+    "text": "Measurement issues may complicate the evaluation of treatment studies for\nchild depression. Reliance on single measures, disagreement between mea-\nsures (when more than one was used), disagreement between informants\n(competing measures on the same construct), and a lack of time course data\nmay impact who is included in research studies and the data bearing on if\nand how they work. In the present study, enrollment required meeting an\ninclusion threshold according to either child or caregiver report on either a\ncategorical or dimensional measure. If a single measure had been used to\ndetermine inclusion the number of participants would vary from 1=6 to\n6=6 depending on the measure. Based on clinical cutoffs, only a single\nparticipant exceeded both categorical and dimensional measures across\ninformants, with two others exceeding cutoffs on one child measure and\nthe caregiver measures. Across informants, the greatest pretreatment dis-\nagreement was on meeting the diagnostic threshold on the DISC. All six care-\ngivers endorsed sufficient DISC symptoms, but only one of the children\nconcurred. Dimensionally, 3=6 children exceeded the CDI cutoff, while\n5=6 were in the clinical range on the CBCL-I, again suggesting greater inter-\nnalizing symptom endorsement by the caregivers. For P1–P4 the informant\nwas her biological mother who, in each case, reported a significant personal\nhistory of mental health problems that included depression (see Table 1). As\nsuch, it is noteworthy that these informants produced the highest CBCL-I"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n109"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      73.58740234375,
+      65.366455078125,
+      432.3072204589844,
+      633.3751831054688
+    ],
+    "text": "scores. However, 3=4 of these children (P1, P2, & P3) had the highest initial\nself-reported CDI scores as well. Thus, the dimensional data did not suggest a\ndramatic mother-child discrepancy associated with the informant’s mental\nhealth history. Instead, these pretreatment data are more consistent with\nthe suggestion that a significant caregiver mental health history may be\nrelated to elevated child internalizing symptoms (Briggs-Gowan et al.,\n1996). Within informants, caregivers demonstrated good pretreatment relia-\nbility across the DISC-p and CBCL-I as 5=6 (83%) reports exceeded cutoffs\non both. Children’s agreement across measures was also generally good—\nthree were not elevated on either the dimensional or categorical measure\nand one was elevated on both, suggesting agreement in 4=6 (67%) cases.\nDepending on the measure and informant, the number of treatment\nresponders ranged from 40–100%. At the conclusion of their treatment, 3=6\nfailed to meet any clinical cutoffs. Those who met more self- and informant-\nrated clinical cutoffs at pretreatment (P1, P2, & P4) met fewer at their final\nassessment, but did continue to meet at least one clinical cutoff at their\nfinal assessment. With respect to specific measures, on the CDI 6=6 children\nreported reductions in symptoms over the course of the treatment. All three\nwho exceeded clinical cutoffs at pretreatment no longer did so at either mid-\ntreatment or posttreatment. On the DISC-p, 5=6 children went from meeting\ncriteria for a major depressive episode to no longer meeting criteria during\nthe treatment period. On the CBCL-I, 4=6 showed dimensional decreases\nin internalizing problems, with 2=5 (who were initially above the criterion)\nno longer meeting the clinical threshold at posttreatment. For the three\nwho still met the CBCL-I cutoff at his=her final assessment, the data were\nprovided by a maternal caregiver with a history of mental health problems\nthat included depression. These data suggest a potential role for this variable\nin accounting for the outcome discrepancy on the dimensional measure.\nHowever, it is important to note that two of these mothers reported a\ndecrease on the DISC-p resulting in no depressive disorder diagnosis and that\nour measure of maternal mental health was an affirmative response on a\nfamily history item list. No measure of the informant’s current symptoms\nwas collected. In sum, these data are consistent with findings in the adoles-\ncent literature that pretreatment severity is related to reduced likelihood of\nmeeting remission cutoffs (Clarke et al., 1992; Curry et al., 2006; Gaynor &\nLawrence, 2002) and that the findings were generally strongest on youth-\nreport measures (Weisz et al., 2006).Given the addition of the C-CRET ses-\nsions, it is also interesting to note that the three families with the lowest\nself-reported\nfamily\nfunctioning\nat\npretreatment\nreported\nsubstantial\nimprovements in this area over the course of treatment.\nThe current results are not from a randomized clinical trial and do not\nemploy the strongest possible single-case strategies (e.g., multiple baseline\ndesign); thus, the generally positive outcome results must be viewed with\nthese design limitations in mind. The purpose of this article; however, is"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "110\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      71.71537780761719,
+      65.50912475585938,
+      430.4471435546875,
+      633.3751831054688
+    ],
+    "text": "not to offer strong conclusions regarding efficacy but to highlight some\nimportant interpretive and measurement issues and to point out their\nimplications for future research (single-participant and group designs) and\nclinical practice.\nOne ready recommendation is to use and report data from multiple\nmeasures on key constructs. This allows for documentation of method\nvariance that can be used to clarify or qualify sample characteristics and\noutcome conclusions. Such a recommendation may seem obvious given\nthe fairly longstanding recognition of the issue (see Kazdin, 1989) but, as\nreviewed in the Introduction, numerous recent studies of child depression\ntreatment have failed to implement this practice. It is also worth remember-\ning that what is being measured are multi-factorial constructs. Depression is a\nsummary label applied when a group of five or more signs and symptoms\nare present most of the day, everyday, for a couple of weeks (American\nPsychiatric Association, 2000). This definition of depression allows for\nsubstantial subjectivity and variability in reporting (e.g., in deciding whether\nto respond in the affirmative to whether sad mood has been present ‘‘most’’\nof the day and nearly everyday). Thus, it is not that one informant is neces-\nsarily correct (e.g., the child is depressed), while another is incorrect (e.g, the\nchild is not depressed). Each brings his=her level of psychological distress,\nperspective, experiences, biases, interpretations, and imperfect recall to the\nreporting situation (De Los Reyes & Kazdin, 2005). Furthermore, in some\ncases certain behaviors of the child may be more salient and more likely to\nguide responding for one informant than others and, in some cases, control-\nling variables other than absolute accuracy may enter into the reporting\n(e.g., attempts to deny problems or to locate the source of problems with\na particular individual).\nIdentification of discrepancies (or lack thereof) is not only important for\nevaluating research, but also for conducting treatment in clinical practice\nsettings. Recent data suggest that in clinical settings parents and children\noften disagree on even the broad problem(s) for which services are sought\n(Yah & Weisz, 2001). Such disagreement can present quite a challenge for\ntherapists in establishing agreed upon treatment goals (Hawley & Weisz,\n2003) and may be a marker of parent-child conflict more generally (De Los\nReyes & Kazdin, 2006). As such, taking measures from multiple informants\nis not just of informational value (to determine if inclusion=exclusion criteria\nare met, to get as well-rounded a view of the child=family as possible, etc.)\nbut may point to the first treatment goal—to establish agreement on goals.\nThe pervasive lack of agreement on target problems may be one reason that\nchildren fail to complete a full course of treatment (Nock & Ferriter, 2005)\nand may also reduce the effectiveness of treatment (Hawley & Weisz).\nA number of variables differentiate research therapy from clinic-based\ncare (Weisz, Donenberg, Han, & Weiss, 1995) and the outcomes achieved\nin clinical trials are not always replicated when treatment is applied in"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n111"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      73.58740234375,
+      65.50912475585938,
+      432.3159484863281,
+      413.2318420410156
+    ],
+    "text": "clinical practice settings. Part of the problem may be due to a lack of\nunderstanding of how treatment for depressed youth works when it does\n(Weersing & Weisz, 2002). Taking repeated measures of relevant process\n(e.g., depressotypic thoughts, family relations) and outcome variables\n(e.g., depressive symptoms) can be important in better understanding\nthe change process. For instance, the repeated measures data for 4=6 par-\nticipants (P2, P4, P5, P6) suggest that the majority of their self-reported\nimprovement in depressive symptoms happened over a very brief (1–2\nweek) interval. The timing of the change was different between the parti-\ncipants—P4’s occurred prior to treatment, P2’s early in treatment, and P5’s\nand P6’s in the middle of treatment—but the fact that the observed change\nwas concentrated over a brief interval (and maintained thereafter) was\nsimilar. These data suggest that, for some, the change process may be\nabrupt rather than gradual. For the remaining two participants the majority\nof change on the repeated measure was concentrated in the later portion\nof treatment and was more gradual. That the sample was comprised of\nthose demonstrating pretreatment gains, sudden within-treatment gains,\nand gradual gains are consistent with findings with depressed teens\n(Gaynor et al., 2003). What these patterns mean is unclear (especially\nsince the caretaker data did not always agree with the pattern identified\nin the child’s repeated measures), but a better understanding of them\nappears important in determining why change occurs.\nMore research is needed to determine the efficacy of CBT in the\ntreatment of children with depressive symptoms. To most usefully interpret\nthe findings and their clinical implications, multiple measures of key con-\nstructs, from the perspective of numerous informants, taken at repeated time\nintervals throughout treatment should be collected."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      218.60780334472656,
+      427.9290771484375,
+      287.1703186035156,
+      439.8841857910156
+    ],
+    "text": "REFERENCES"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      73.58740234375,
+      455.6715393066406,
+      432.2558288574219,
+      633.1195678710938
+    ],
+    "text": "Achenbach, T. M., McConaughy, S. H., & Howell, C. T. (1987). Child=adolescent\nbehavioral and emotional problems: Implications of cross-informant correla-\ntions for situational specificity. Psychological Bulletin, 101, 213–232.\nAchenbach, T. M., & Rescorla, L. A. (2001). Manual for the ASEBA school aged form\nand profiles. Burlington, VT: ASEBA.\nAmerican Psychiatric Association. (2000). Diagnostic and statistical manual\nof mental disorders (4th ed., text revision). Washington, DC: Author.\nAsarnow, J. R., Scott, C. V., & Mintz, J. (2002). A combined cognitive-behavioral\nfamily education intervention for depression in children: A treatment develop-\nment study. Cognitive Therapy and Research, 26, 221–229.\nBell-Dolan, D. J., & Allan, W. D. (1998). Assessing elementary school children’s\nsocial skills: Evaluation of the parent version of the Matson evaluation of social\nskills with youngsters. Psychological Assessment, 10, 140–148.\nBirmaher, B., Ryan, N. D., Williamson, D. E., Brent, D. A., Kaufman, J., Dahl, R. E.,\net al. (1996). Childhood and adolescent depression: A review of the past 10"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "112\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      71.71630859375,
+      65.58393859863281,
+      430.39581298828125,
+      625.4622192382812
+    ],
+    "text": "years. Part I. Journal of the American Academy of Child and Adolescent\nPsychiatry, 35, 1427–1439.\nBloom, B. L. (1985). A factor analysis of self-report measures of family functioning.\nFamily Functioning, 24, 225–239.\nBrent, D., Holder, D., Kolko, D., Biramaher, B., Baugher, M., Roth, C., et al. (1997). A\nclinical psychotherapy trial for adolescent depression: Comparing cognitive,\nfamily, and supportive therapy. Archive General Psychiatry, 54, 877–885.\nBriggs-Gowan, M. J., Carter, A. S., & Schwab-Stone, M. (1996). Discrepancies among\nmother, child, and teacher reports: Examining the contributions of maternal\ndepression and anxiety. Journal of Abnormal Child Psychology, 24, 749–765.\nChorpita, B. F., Yin, L. M., Donkervoet, J. C., Arensdorf, A., Amundsen, M. J.,\nMcGee, C., et al. (2002). Toward large scale implementation of empirically\nsupported treatments for children: A review and observations by the Hawaii\nempirical basis for Services Task Force. Clinical Psychology: Science and\nPractice, 9, 165–190.\nCicchetti, D. V. (1994). Guidelines, criteria, and rules of thumb for evaluating\nnormed and standardized assessment instruments in psychology. Psychological\nAssessment, 6, 284–290.\nClarke, G. N., Hops, H., Lewinsohn, P. M., Andrews, J., Seeley, J. R., & Williams, J.\n(1992). Cognitive-behavioral group treatment: Prediction of outcome. Behavior\nTherapy, 23, 341–354.\nClarke, G. N., Rohde, P., Lewinsohn, P. M., Hops, H., & Seeley, J. R. (1999). Cognitive-\nbehavioral treatment of adolescent depression: Efficacy of acute group treatment\nand booster sessions. Journal of the American Academy of Child and Adolescent\nPsychiatry, 38, 272–279.\nCurry, J., Rohde, P., Simons, A., Silva, S., Vitiello, B., Kratochvil, C., et al. (2006).\nPredictors and moderators of acute outcome in the treatment for adolescents\nwith depression study (TADS). Journal of the American Academy of Child\nand Adolescent Psychiatry, 45, 1427–1439.\nDeCuyper, S., Timbremont, B., Braet, C., De Backer, V., & Wullaert, T. (2004). Treat-\ning depressive symptoms in school children: A pilot study. Journal of European\nChild and Adolescent Psychiatry, 13, 105–114.\nDe Los Reyes, A. & Kazdin, A. E. (2005). Informant discrepancias in the assessment\nof childhood psychopathology: A critical review, theoretical framework, and\nrecommendations for further study. Psychological Bulletin, 131, 483–509.\nDe Los Reyes, A., & Kazdin, A. E. (2006). Informant discrepancias in assessing child\ndysfunction relate to dysfunction within mother-child interactions. Journal of\nChild and Family Studies, 15, 645–663.\nEckshtain, D., & Gaynor, S. T. (2003). Caregiver-Child Relationship Enhancement\nTraining (C-CRET). Unpublished protocol, Western Michigan University,\nKalamazoo, MI.\nEmslie, G. J., Heiligenstein, J. H., Wagner, K. D., Hoog, S, L., Ernest, D. E., Brown, E.,\net al. (2002). Fluoxetine for acute treatment of depression in children and\nadolescents: A placebo-controlled, randomized clinical trial. Journal off the\nAmerican Academy of Child and Adolescent Psychiatry, 41(10), 1205–1215.\nEmslie, G. J., Rush, J., Weinberg, W. A., Kowatch, R. A., Hughes, C. W., Carmody, T.,\net al. (1997). A double-blind, randomized, placebo-controlled trial of fluoxetine"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n113"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      73.58720397949219,
+      65.58393859863281,
+      432.2735595703125,
+      625.5053100585938
+    ],
+    "text": "in children and adolescents with depression. Achieves of General Psychiatry,\n54, 1031–1037.\nFinch, A. J., Saylor, C. F., Edwards, G. L., & McIntosh, J. A. (1987). Children’s Depres-\nsion Inventory: Reliability over repeated administrations. Journal of Consulting\nand Clinical Psychology, 16, 339–341.\nGaynor, S. T., & Lawrence, P. S. (2002). Complementing CBT for depressed adoles-\ncents with learning through in vivo experience (LIVE): Conceptual analysis,\ntreatment\ndescription,\nand\nfeasibility\nstudy.\nBehavioural\nand\nCognitive\nPsychotherapy, 30, 79–101.\nGaynor, S. T., Weersing, V. R., Kolko, D. J., Birmaher, B., Heo, J., & Brent, D. A.\n(2003). The prevalence and impact of large sudden improvements during\nadolescent therapy for depression: A comparison across cognitive-behavioral,\nfamily, and supportive therapy. Journal of Consulting and Clinical Psychology,\n71(2), 386–393.\nGrills, A. E., & Ollendick, T. H. (2002). Issues in parent-child agreement: The case of\nstructured diagnostic interviews. Clinical Child and Family Psychology Review,\n5, 57–82.\nHawley, K. M., & Weisz, J. R. (2003). Child, parent, and therapist (dis)agreement\non target problems in outpatient therapy: The therapist’s dilemma and its\nimplications. Journal of Consulting and Clinical Psychology, 71, 62–70.\nIlardi, S. S., & Craighead, W. E. (1994). The role of nonspecific factors in cognitive-\nbehavior therapy for depression. Clinical Psychology: Science and Practice, 1,\n138–156.\nJensen, P. S., Rubio-Stipec, M., Canino, G., Bird, H. R., Dulcan, M. K., Schwab-\nStone, M. E., et al. (1999). Parent and child contributions to diagnosis of mental\ndisorder: Are both informants always necessary? Journal of American Academy\nof Child and Adolescent Psychiatry, 38, 1569–1579.\nJureidini, J. N., Doecke, C. J., Mansfield, P. R., Haby, M. M., Menkes, D. B., &\nTonkin, A. L. (2004). Efficacy and safety of antidepressants for children and\nadolescents. British Medical Journal, 328, 879–883.\nKaslow, N. J., Stark, K. D., Printz, B., Livingston, R., & Ling-Tsai, S. (1992). Cognitive\ntriad inventory for children: Development and relation to depression and\nanxiety. Journal of Clinical Child Psychology, 21, 339–347.\nKazdin, A. E. (1989) Identifying depression in children: A comparison of alternative\nselection criteria. Journal of Abnormal Child Psychology, 17, 437–455.\nKovacs, M. (1992). Children’s depression inventory manual. North Tonawanda,\nNY: Multi-Health Systems.\nKvacs, M. (1996). Presentation and course of major depressive disorder during\nchildhood and later years of the life span. Journal of American Academy of\nChild and Adolescent Psychiatry, 35, 705–715.\nLeitenberg, H., Yost, L. W., & Carroll-Wilson, M. (1986). Negative cognitive errors in\nchildren:\nQuestionnaire\ndevelopment,\nnormative\ndata,\nand\ncomparisons\nbetween children with and without self-reported symptoms of depression,\nlow self-esteem, and evaluation anxiety. Journal of Consulting and Clinical\nPsychology, 54, 528–536.\nLewinsohn, P. M. & Clarke, G. N. (1999). Psychosocial treatments for adolescent\ndepression. Clinical Psychology Review, 19, 329–342."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "114\nD. Eckshtain and S. T. Gaynor"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      71.71647644042969,
+      65.58393859863281,
+      430.39599609375,
+      613.5432739257812
+    ],
+    "text": "Matson, J. L. (1994). Matson evaluation of social skills with youngsters: Manual\n(2nd ed.). Worthington, OH: IDS Publishing Corporation.\nMatson, J. L., Esveldt-Dawson, K., & Kazdin, A. E. (1983). Validation of methods\nfor assessing social skills in children. Journal of Clinical Child Psychology, 12,\n174–180.\nMatson, J. L., Rotatori, A. F., & Helsel, W. J. (1983). Development of a rating scale\nto measure social skills in children: The Matson evaluation of social skills with\nyoungsters (MESSY). Behaviour Research and Therapy, 21(4), 335–340.\nNock, M. K., & Ferriter, C. (2005). Parent management of attendance and adherence\nin child and adolescent therapy: A conceptual and empirical review. Clinical\nChild and Family Psychology Review, 8, 149–166.\nPoznanski, E. O., & Mokros, H. B. (1996). Children’s Depression Rating Scale-Revised\n(CDRS-R): Manual. Los Angeles: Western Psychological Services.\nReinecke, M. A., Ryan, N. E., & DuBois, D. L. (1998). Cognitive behavioral therapy\nof depression and depressive symptoms during adolescence: A review and\nmeta-analysis. Journal of the American Academy of Child and Adolescent\nPsychiatry, 37, 26–34.\nRohde, P., Clarke, G. N., Mace, D. E., Jorgensen, J. S., & Seeley, J. R. (2004). An\nefficacy=effectiveness study of cognitive-behavioral treatment for adolescents\nwith comorbid major depression and conduct disorder. Journal of the American\nAcademy of Child & Adolescent Psychiatry, 43, 660–668.\nSchwab-Stone, M. E., Shaffer, D., Dulcan, M. K., Jensen, P. S., Fisher, P., Bird, H. R.,\net al. (1996). Criterion validity of the NIMH Diagnostic Interview Schedule for\nChildren Version 2.3 (DISC-2.3). Journal of the American Academy of Child\nand Adolescent Psychiatry, 35, 878.\nShaffer, D., Fisher, P., Dulcan, M. K., Davies, M., Piacentini, J., Schwab-Stone, M. E.,\net al. (1996). The NIMH diagnostic interview schedule for children version 2.3\n(DISC-2.3): Description, acceptability, prevalence rates, and performance in\nthe MECA study. Journal of the American Academy of Child and Adolescent\nPsychiatry, 35, 865–877.\nShaffer, D., Fisher, P., Lucas, C. P., Dulcan, M. K., & Schwab-Stone, M. E. (2000).\nNIMH Diagnostic Interview Schedule for Children Version IV (NIMH DISC-IV):\nDescription, differences from previous versions, and reliability of some\ncommon diagnoses. Journal of the American Academy of Child & Adolescent\nPsychiatry, 39, 28–38.\nSpence, S. H., & Liddle, B. (1990). Self-report measures of social competence for chil-\ndren: An evaluation of social skills for youngsters and the list of social situation\nproblems. Behavioral Assessment, 12, 317–336.\nThe Treatment for Adolescents with Depression Study (TADS) Team. (2004).\nFluoxetine, cognitive-behavioral therapy, and their combination for adolescents\nwith depression. JAMA, 292, 807–820.\nWatkins, M. W., & Pacheco, M. (2000). Interobserver agreement in behavioral\nresearch: Importance and calculation. Journal of Behavioral Education, 10,\n205–212.\nWeersing, V. R., & Weisz, J. R. (2002). Mechanisms of action in youth psychotherapy.\nJournal of Child Psychology and Psychiatry, 43, 3–29."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      214.86610412597656,
+      41.22410202026367,
+      430.3702392578125,
+      50.22917556762695
+    ],
+    "text": "Assessing Outcome\n115"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      73.58740234375,
+      65.58393859863281,
+      432.26495361328125,
+      302.75592041015625
+    ],
+    "text": "Weisz, J. R., Donenberg, G. R., Han, S. S., & Weiss, B. (1995). Bridging the gap\nbetween laboratory and clinic in child and adolescent psychotherapy. Journal\nof Consulting and Clinical Psychology, 63, 688–701.\nWeisz, J. R., McCarty, C. A., & Valeri, S. M. (2006). Effects of psychotherapy for\ndepression in children and adolescents: A meta analysis. Psychological Bulletin,\n132, 132–149.\nWeisz, J. R., Moore, P., & Southam-Gerow, M. (1999). PASCET: Primary and\nSecondary Control Enhancement Training manual. Los Angeles: University\nof California, Department of Psychology and Psychiatry.\nWeisz, J. R., Southam-Gerow, M. A., Gordis, E. B., & Connor-Smith, J. (2003).\nPrimary and secondary control enhancement training for youth depression. In\nA. E. Kazdin (Ed.), Evidence based psychotherapies for children and adolescent\n(pp. 165–183). New York: Guilford Press.\nWeisz, J. R., Thurber, C. A., Sweeney, L., Proffitt, V. D., & LeGagnoux, G. L. (1997).\nBrief treatment of mild-to-moderate child depression using primary and\nsecondary control enhancement training. Journal of Consulting and Clinical\nPsychology, 65, 703–707.\nYah, M., & Weisz, J. R. (2001). Why are we here at the clinic? Parent-child (dis)agree-\nment on referral problems at outpatient treatment entry. Journal of Consulting\nand Clinical Psychology, 69, 1018–1025."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      73.58740234375,
+      41.22410202026367,
+      312.7159423828125,
+      50.22917556762695
+    ],
+    "text": "116\nD. Eckshtain and S. T. Gaynor"
+  }
+]

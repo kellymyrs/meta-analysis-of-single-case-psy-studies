@@ -1,0 +1,3566 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      78.0,
+      75.58324432373047,
+      355.9086608886719,
+      86.83324432373047
+    ],
+    "text": "Journal of Cognitive Psychotherapy: An International Quarterly",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      160.6179962158203,
+      154.02659606933594,
+      383.7860107421875,
+      202.52561950683594
+    ],
+    "text": "Differential Sequencing of Cognitive-Behavioral",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      127.60699462890625,
+      207.02464294433594,
+      416.79693603515625,
+      229.02464294433594
+    ],
+    "text": "Techniques for Reducing Child",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      162.0260009765625,
+      233.52366638183594,
+      382.3780212402344,
+      255.52366638183594
+    ],
+    "text": "and Adolescent Anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      206.06700134277344,
+      284.2599792480469,
+      336.1190185546875,
+      358.2525939941406
+    ],
+    "text": "Brad J. Nakamura, PhD Sarah L. Pestle, MA University of Hawaii at M ā noa Bruce F. Chorpita, PhD University of California, Los Angeles",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      101.99978637695312,
+      392.2528076171875,
+      440.08050537109375,
+      511.25067138671875
+    ],
+    "text": "Treatment outcome research has rarely allowed investigators to declare how or why therapeutic techniques work. As an initial step to understand such change processes, the current study investigated the timing of positive changes typically achieved during a course of cognitive-behavioral therapy for anxiety reduction. Using an interaction element multiplebaseline design across four children ( N = 4) diagnosed with selected anxiety disorders, anxiety levels, cognitive errors, and treatment outcome were repeatedly assessed as children progressed through four a priori determined treatment sequences. Results varied across reporters, dependent variables, and the order in which each treatment technique was delivered. Child-reported trends were slightly clearer than those reported by parents and suggested that exposure was a key element for triggering some (but not all) positive changes after completing self-monitoring and psychoeducation techniques.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      78.0,
+      527.50439453125,
+      406.8290100097656,
+      537.50439453125
+    ],
+    "text": "Keywords: mechanisms; anxiety; cognitive behavior therapy; single subject design",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      108.9220962524414,
+      552.00439453125,
+      464.3091735839844,
+      586.00439453125
+    ],
+    "text": "hild and adolescent psychotherapy research has advanced considerably in the past few decades. Kazdin (2000a) reported that more than 1,000 controlled outcome studies can be identified, and meta-analytic reviews of such studies have identified treatments that",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      78.00009155273438,
+      588.00439453125,
+      464.3079833984375,
+      694.00439453125
+    ],
+    "text": "produce strong effects (Hoag & Burlingame, 1997; Weisz, Weiss, Han, Granger, & Morton, 1995). Psychotherapy research has progressed to the point where one can differentiate between many treatments based on the strength of evidence for their efficacy. Furthermore, evidence-based treatments have been identified for several areas of clinical concern including anxiety, depression, and conduct disorder (Kazdin & Weisz, 1998; Lonigan & Elbert, 1998). Despite these marked and impressive gains, most between-group research investigations (e.g., Barrett, 1998; Barrett, Dadds, & Rapee, 1996; Cobham, Dadds, & Spence, 1998; Kendall, 1994; Kendall et al., 1997; Silverman et al., 1999) are largely restricted to identifying relations between various treatment and control conditions and outcomes. Kazdin (2001a) referred to",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      78.0,
+      548.3802490234375,
+      108.92225646972656,
+      595.30322265625
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      356.70001220703125,
+      90.07955932617188,
+      462.00201416015625,
+      99.32955932617188
+    ],
+    "text": "Volume 23, Number 2 • 2009",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      291.5213928222656,
+      715.32275390625,
+      462.00250244140625,
+      725.5842895507812
+    ],
+    "text": "© 2009 Springer Publishing Company",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      353.61700439453125,
+      729.0147705078125,
+      462.0009765625,
+      737.0147705078125
+    ],
+    "text": "DOI: 10.1891/0889-8391.23.2.114",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      96.0009994506836,
+      96.01844024658203,
+      482.3099670410156,
+      142.01844787597656
+    ],
+    "text": "this type of research investigation as descriptive research and distinguished it from explanatory research. Descriptive research examines relations between an intervention and a therapeutic outcome, whereas explanatory research “includes an explicit component that focuses on mechanisms, understanding, processes, and why effects are achieved” (Kazdin, 2001a, p. 62).",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      155.83599853515625,
+      162.02581787109375,
+      422.9659729003906,
+      176.02581787109375
+    ],
+    "text": "E XISTING R ESEARCH ON M ECHANISMS OF C HANGE",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      96.0009994506836,
+      184.01844787597656,
+      482.3109130859375,
+      326.0184326171875
+    ],
+    "text": "Scant attention has been given to explanatory research, and research to date has largely ignored theory and change processes (i.e., processes that explain exactly how psychotherapy works). As Kazdin (2000b, p. 340) points out, “there is very little evidence available to explain how therapy works, even among well-suited treatments.” For example, within the adult literature, cognitivebehavioral therapy (CBT; American Psychiatric Association [APA], 2000b) has emerged as an evidence-based treatment for depression. This treatment is based on the theory that cognitive schemata contribute to and account for depression and that changes in schema (and related processes) ameliorate such feelings (Kazdin, 2000b). Outcome data from randomized clinical trials (RCTs) currently cannot explain why CBT works for depression (Kazdin, 2000b, 2001a; Kazdin & Nock, 2003). Specifically, RCTs usually do not allow for the identification of specific mechanisms of change because the proposed mechanism (e.g., change in cognitions or schema) and outcome (e.g., depressive symptomology) are assessed at the same time, namely, at pretreat-",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      96.00102233886719,
+      340.0184326171875,
+      482.31097412109375,
+      494.0184326171875
+    ],
+    "text": "The study of change in therapy requires assessment during the course of treatment to establish a timeline in which a change in a proposed process precedes therapeutic change (Kazdin, 2000b; Kazdin & Nock, 2003). Demonstrating a causal relation (as in traditional RCTs), therefore, is not sufficient in and of itself to identify a mechanism of change. At the least, establishing a timeline between the proposed change process and later therapeutic change is necessary to demonstrate a mechanism of change (Kazdin & Nock, 2003). Ideally, to show this temporal relation, one must show that a process or mechanism has changed and that therapeutic change has not occurred but will occur later (Kazdin & Nock, 2003). Mechanistic research on treating child and adolescent anxiety is in its infancy. No studies have assessed for process and outcome variables throughout the course of treatment to establish the mechanism-to-outcome timeline. However, several existing studies have laid the foundation, specifying a conceptual view of the processes responsible for anxiety reduction—a necessary prerequisite for change research (Kazdin, 2000b, 2001b, 2003).",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      159.99899291992188,
+      514.0258178710938,
+      418.802978515625,
+      528.0258178710938
+    ],
+    "text": "T HE I MPORTANCE OF E XPOSURE AND C OGNITIVE",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      228.4001922607422,
+      530.0258178710938,
+      350.4019775390625,
+      544.0264282226562
+    ],
+    "text": "T HERAPY T ECHNIQUES",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      96.0009994506836,
+      552.0184326171875,
+      482.3068542480469,
+      694.0184326171875
+    ],
+    "text": "Numerous investigations have suggested the paramount importance of exposure-based techniques in treating pathological levels of anxiety (Chorpita, Daleiden, & Weisz, 2005a; Feske & Chambless, 1995; Foa, Rothbaum, & Furr, 2003; Kendall et al., 1997; Soechting et al., 1998). From a conceptual and learning perspective, Foa and Kozak’s (1986) seminal model of emotional processing for fear reduction points to exposure as the key process for reducing feelings of anxiety, and subsequently, cognitive distortions. Chorpita et al.’s (2005a) recent empirical approach to summarizing treatment technique profiles for various disorders also points to the importance of exposure. In essence, their approach involved aggregating information across 49 successful clinical trials and creating frequency counts of the relative occurrence of differing treatment techniques (e.g., exposure, praise, rewards) in various contexts. As Foa and Kozak’s (1986) model predicts, within the area of anxiety disorders among children and adolescents, 100% of evidencebased approaches for the treatment of anxiety utilized exposure-based techniques.",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      96.00102233886719,
+      328.0184326171875,
+      198.34100341796875,
+      338.0184326171875
+    ],
+    "text": "ment and posttreatment.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 115",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "116 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      77.9990005493164,
+      96.01844024658203,
+      464.3129577636719,
+      382.0184326171875
+    ],
+    "text": "Chorpita et al.’s (2005a) treatment technique profiling research also indicates that evidencebased interventions for anxiety disorders frequently utilize cognitive/coping techniques in addition to exposure-based exercises. The rationale for including cognitive/coping techniques centers on the assumption that dysfunctional cognitions (e.g., probability overestimation errors, catastrophic thinking errors) need to be altered for treatment to be successful (Butler, 1985; Butler, Cullington, Munby, Amies, & Gelder, 1984). Moreover, from this perspective, it follows that cognitive/coping strategies that change beliefs directly should outperform or at least be equivalent to those treatments that change beliefs indirectly (e.g., exposure alone). Thus far, few CBT (cognitive/coping and exposure techniques combined) and exposurealone comparison studies have been conducted with youth, or with adults for that matter. Notably, with regard to youth, Silverman et al. (1999) conducted a randomized controlled trial (RCT) to determine the relative efficacy of an exposure-based contingency management intervention as compared to an exposure-based cognitive self-control treatment intervention to treat phobic disorders. Silverman and colleagues found that both interventions were efficacious, yielding substantial improvement on all outcome measures. Two previous prescriptive treatment studies (Eisen & Silverman, 1993, 1998) utilized single-case, multiple-baseline designs to examine the efficacy of cognitive therapy, relaxation training, and their combination in youth with overanxious and generalized anxiety disorder, respectively. In both cases, however, an exposure component was included in all three conditions, and no exposure-alone condition was included (Eisen & Silverman, 1993, 1998). Only a few investigations exist within the adult literature, which collectively suggest that CBT packages do not outperform exposure-alone paradigms (Feske & Chambless, 1995; Foa et al., 2003; Soechting et al., 1998). Foa and colleagues (2003) have gone so far as to say that “treatment effects appear to be diminished by diluting exposure therapy when attempting to augment it with other treatments” (p. 47).",
+    "line_count": 24,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.9040069580078,
+      398.02581787109375,
+      337.8949890136719,
+      412.02581787109375
+    ],
+    "text": "P RESENT I NVESTIGATION",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      77.9990005493164,
+      420.0184326171875,
+      464.3106384277344,
+      694.0184326171875
+    ],
+    "text": "The preceding results collectively suggest that exposure is an important ingredient in therapeutic change and that cognitive/coping practice elements may add little in treating pathological levels of anxiety in adults. The methods by which this tentative conclusion has been drawn, however, do not allow for causal inference. The present investigation represents one of the first steps in the journey down the descriptive-explanatory research continuum (toward explanatory research) for investigating change processes. As recommended by Doss (2004), this study will use an innovative research design (cf. Doss & Atkins, 2006; Doss, Thum, Sevier, Atkins, & Christensen, 2005; Kraemer, Wilson, Fairburn, & Agras, 2002) to examine the timing of changes achieved throughout the course of therapy. The primary goal of the present study was to examine the timing of therapeutic changes using two interventions (exposure and cognitive/coping skills) within a sample of children and adolescents being treated for anxiety disorders. Each intervention suggests differing timing schedules for positive changes. The exposure-based approach implies that exposure alone is sufficient for changes in both dysfunctional beliefs and outcome. On the other hand, theorists who argue for cognitive/coping strategies (e.g., Butler, 1985; Butler et al., 1984) state that changes in dysfunctional thinking patterns and outcome should occur when direct modification of cognitions (via cognitive/coping strategies) occurs. One hypothesis driving the current investigation is that when working to reduce pathological levels of anxiety in children or adolescents, exposure would lead to improvements in anxiety levels, cognitive errors, and treatment outcome. Additionally, no reductions in pathological anxiety levels or changes in treatment outcome were predicted from developing cognitive/coping techniques alone. It was predicted, however, that developing cognitive/coping techniques alone would lead to reductions in cognitive errors. The timing of these changes was tested by examining",
+    "line_count": 23,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      95.9999008178711,
+      96.01844024658203,
+      431.3999938964844,
+      106.01844024658203
+    ],
+    "text": "TABLE 1. F OUR H YPOTHESES FOR AN I NVESTIGATION ON D IFFERENTIALLY S EQUENCING",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      95.99996948242188,
+      304.8409729003906,
+      474.21002197265625,
+      327.3594055175781
+    ],
+    "text": "Note . ∆ (delta) = positive therapeutic change (decrease on relevant indicator); – = no positive therapeutic change or deterioration (increase on relevant indicator).",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      96.0,
+      348.81842041015625,
+      482.3119201660156,
+      466.81842041015625
+    ],
+    "text": "a subset of four hypotheses (see Table 1). Each of these four hypotheses made specific predictions regarding (a) anxiety levels, (b) cognitive errors, and (c) treatment outcome based on whether or not the treatment components of exposure or cognitive/coping skills were active at a particular time during an intervention. Hypothesis 1 predicted no changes in anxiety levels, cognitive errors, or treatment outcome in the absence of both exposure and cognitive/coping techniques. Hypothesis 2 predicted changes in anxiety levels, cognitive errors, and treatment outcome during phases in which exposure was present and cognitive/coping techniques were absent. Hypothesis 3 predicted selective changes in cognitive errors during phases in which cognitive/coping techniques were present and exposure was absent. Finally, Hypothesis 4 predicted changes in anxiety levels, cognitive errors, and treatment outcome during phases in which both exposure and",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      96.0,
+      539.8184204101562,
+      482.3722229003906,
+      693.8184204101562
+    ],
+    "text": "Children referred for treatment at the Center for Cognitive Behavior Therapy (CCBT) at the University of Hawai‘i at M ā noa participated in the study. After an initial intake assessment, consecutively referred children with a principal or coprincipal diagnosis of an anxiety disorder, per the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision ( DSM-IV-TR; APA, 2000a), were offered study participation. Children were excluded from the present investigation and referred to appropriate services if they were under the age of 9 or had a primary diagnosis of an externalizing disorder. Additionally, children were excluded if they began or stopped taking an antianxiety medication within the course of the investigation. A total of nine children were offered treatment as part of this investigation. Two declined study participation soon after intake, two dropped out of the study within the first 3 weeks of treatment, and one dropped out after 7 weeks of treatment. Participant 1. This child was a multiethnic boy living with both birth parents and a younger brother. Both parents had graduate degrees, and their annual reported income was over $140,000.",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      96.0,
+      108.01844024658203,
+      240.3159942626953,
+      118.01844024658203
+    ],
+    "text": "C OGNITIVE -B EHAVIORAL T ECHNIQUES",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      207.78598022460938,
+      199.8954620361328,
+      220.36598205566406,
+      209.8954620361328
+    ],
+    "text": "No",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      95.99998474121094,
+      225.0634307861328,
+      167.87998962402344,
+      235.0634307861328
+    ],
+    "text": "Cognitive/Coping",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      207.22598266601562,
+      267.1904296875,
+      220.9259796142578,
+      277.1904296875
+    ],
+    "text": "Yes",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      96.0,
+      468.81842041015625,
+      260.40997314453125,
+      478.81842041015625
+    ],
+    "text": "cognitive/coping techniques were active.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      96.0,
+      520.3221435546875,
+      159.17999267578125,
+      532.3221435546875
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 117",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.3169860839844,
+      127.51844024658203,
+      387.8170166015625,
+      137.51844787597656
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      298.7869873046875,
+      147.01844787597656,
+      311.36700439453125,
+      157.01844787597656
+    ],
+    "text": "No",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      416.1600036621094,
+      147.01844787597656,
+      429.8600158691406,
+      157.01844787597656
+    ],
+    "text": "Yes",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      275.427978515625,
+      166.51844787597656,
+      327.72796630859375,
+      176.51844787597656
+    ],
+    "text": "Hypothesis 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.8609619140625,
+      166.51844787597656,
+      458.16094970703125,
+      176.51844787597656
+    ],
+    "text": "Hypothesis 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.8799743652344,
+      183.7509765625,
+      479.9999694824219,
+      193.7509765625
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.13397216796875,
+      184.01844787597656,
+      289.15399169921875,
+      194.01844787597656
+    ],
+    "text": "Anxiety",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      341.0199890136719,
+      184.01844787597656,
+      346.0199890136719,
+      194.01844787597656
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.0199890136719,
+      184.01844787597656,
+      416.0400085449219,
+      194.01844787597656
+    ],
+    "text": "Anxiety",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.8799743652344,
+      199.50299072265625,
+      479.9999694824219,
+      209.50299072265625
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.13397216796875,
+      199.76942443847656,
+      302.50396728515625,
+      209.76942443847656
+    ],
+    "text": "Cognitions",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      341.0209655761719,
+      199.76942443847656,
+      346.0209655761719,
+      209.76942443847656
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.0209655761719,
+      199.76942443847656,
+      429.3909606933594,
+      209.76942443847656
+    ],
+    "text": "Cognitions",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.8799743652344,
+      215.25396728515625,
+      479.9999694824219,
+      225.25396728515625
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.13397216796875,
+      215.5214385986328,
+      295.85400390625,
+      225.5214385986328
+    ],
+    "text": "Outcome",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      341.02099609375,
+      215.5214385986328,
+      346.02099609375,
+      225.5214385986328
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.02099609375,
+      215.5214385986328,
+      422.74102783203125,
+      225.5214385986328
+    ],
+    "text": "Outcome",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      276.427978515625,
+      231.2724151611328,
+      328.72796630859375,
+      241.2724151611328
+    ],
+    "text": "Hypothesis 3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.8609619140625,
+      231.2724151611328,
+      458.16094970703125,
+      241.2724151611328
+    ],
+    "text": "Hypothesis 4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.8799743652344,
+      248.5050048828125,
+      479.9999694824219,
+      258.5050048828125
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.13397216796875,
+      248.77247619628906,
+      289.15399169921875,
+      258.7724609375
+    ],
+    "text": "Anxiety",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      341.0199890136719,
+      248.77247619628906,
+      346.0199890136719,
+      258.7724609375
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.0199890136719,
+      248.77247619628906,
+      416.0400085449219,
+      258.7724609375
+    ],
+    "text": "Anxiety",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      339.89996337890625,
+      267.33795166015625,
+      346.01995849609375,
+      277.33795166015625
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.87994384765625,
+      267.33795166015625,
+      479.99993896484375,
+      277.33795166015625
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.13397216796875,
+      267.60540771484375,
+      302.50396728515625,
+      277.60540771484375
+    ],
+    "text": "Cognitions",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.01995849609375,
+      267.60540771484375,
+      429.38995361328125,
+      277.60540771484375
+    ],
+    "text": "Cognitions",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      473.87994384765625,
+      285.0889587402344,
+      479.99993896484375,
+      295.0889587402344
+    ],
+    "text": "∆",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.1339416503906,
+      285.35638427734375,
+      295.8539733886719,
+      295.35638427734375
+    ],
+    "text": "Outcome",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      341.0209655761719,
+      285.35638427734375,
+      346.0209655761719,
+      295.35638427734375
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      385.0209655761719,
+      285.35638427734375,
+      422.7409973144531,
+      295.35638427734375
+    ],
+    "text": "Outcome",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      263.8110046386719,
+      499.8258056640625,
+      314.989990234375,
+      513.8258056640625
+    ],
+    "text": "M ETHOD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "118 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      77.99999237060547,
+      96.01844024658203,
+      464.31365966796875,
+      694.0184326171875
+    ],
+    "text": "Participant 1 was assessed at 9 years, 3 months, and was diagnosed with anxiety disorder, not otherwise specified, as well as specific phobia, situational type, in partial remission. At intake assessment, Participant 1 presented reporting numerous recent panic attacks in public places. The attacks appeared to be triggered by large crowds and/or loud noises, with symptoms that consisted largely of nausea, gagging, and occasionally, vomiting. These symptoms resulted in fear of eating in public for constant fear of gagging or vomiting. Participant 1 demonstrated substantial school refusal behaviors and frequently refused to leave his family’s home altogether. Participant 1 also had a specific and excessive fear of the dentist. Although his concerns with anxiety were severe and impairing, a diagnosis of anxiety disorder, not otherwise specified was given over a diagnosis of panic disorder because his concerns had not persisted for at least 6 months at the time of his intake assessment. Prior to the current study, Participant 1 had not received any psychological or psychiatric services. Participant 2. Participant 2 was a boy of mixed ethnicity residing with his birth parents and older sister. At the age of 12 years, 6 months, a standardized intake assessment indicated a primary diagnosis of separation anxiety disorder and an additional diagnosis of attention-deficit/hyperactivity disorder, primarily inattentive type, in partial remission. Participant 2’s mother finished high school and his father reportedly earned a 4-year college degree. Family income was reported between $40,000 and $59,000. At the time of the intake assessment, Participant 2 and his parents indicated that he was experiencing persistent and significant anxiety when separated from his home or his parents. Participant 2’s feelings of stress and anxiety resulted in impaired concentration in school, withdrawal from previously enjoyed activities such as surfing and spending time with friends, and repeatedly calling his parents on the telephone throughout the school day every day. Participant 2 began a trial of fluoxetine to address these problems prior to research participation. Drug usage remained stable and consistent throughout the entire course of study. Participant 2 also began a steady trial of Ritalin for his concerns related to attention-deficit/hyperactivity disorder, primarily inattentive type, partway through the study. The investigators could not control for the introduction of this potential confound on study results and could only visually investigate changes on dependent variables when Ritalin was introduced around day 65. No systematic concomitant changes were noted on any dependent variable for any reporter (see Results). Participant 3. Participant 3 was a Filipino girl residing with her birth parents, sister, and paternal grandparents. Participant 3’s father finished high school and her mother passed the General Educational Development (GED) test. Annual family income was not reported. Participant 3 was 12 years, 4 months, at her intake assessment and was assigned a primary diagnosis of social phobia along with an additional diagnosis of selective mutism. Participant 3 had an extensive history of social phobia and selective mutism at the beginning of treatment (e.g., she had not spoken in school since entering kindergarten). Accompanying her excessive feelings of nervousness when in social interactions, she consistently made significant efforts to avoid speaking in front of other people. Caretaker and teacher reports suggested significant impairment across academic and social settings. For example, this girl did not communicate difficulties in understanding assignments, refused participation in class and group assignments, and was frequently teased by peers for her difficulties with speaking. Participant 3 also exhibited difficulties with school refusal and was absent from school about once per week due to somatic complaints such as stomachaches and headaches. Participant 4. Participant 4 was a White boy residing with his mother and two older siblings. He was assessed at the age of 10 years, 4 months, and was diagnosed with separation anxiety disorder (principal diagnosis), generalized anxiety disorder, and major depressive disorder, single episode moderate. Participant 4’s mother reportedly finished high school and his father completed some college. Annual income was reported as $45,000. Participant 4 had not received any previous psychiatric or psychological services for his emotional and behavioral difficulties.",
+    "line_count": 50,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      482.3109436035156,
+      190.01844787597656
+    ],
+    "text": "At the time of assessment, Participant 4 was experiencing significant distress whenever he separated from his mother as well as excessive and generalized worry surrounding numerous situations. His concerns with anxiety and distress reportedly caused significant difficulties with school attendance and avoiding preferred activities; at the time of the intake assessment, he was attending school approximately every other day. When made to go to school, he would frequently complain of headaches and stomachaches, cry, and beg his mother to let him stay home. Participant 4 was concurrently experiencing significant feelings of sadness and irritability at intake and exhibited numerous symptoms associated with depression.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.0,
+      222.01844787597656,
+      482.3587646484375,
+      472.0184326171875
+    ],
+    "text": "An interaction element multiple-baseline design (Hayes, Barlow, & Nelson-Gray, 1999) across four participants ( N = 4) was used to examine the timing of changes in the treatment of selected youth anxiety disorders. This design is appropriate for assessing the contributions of one or more treatment elements (e.g., B and C) within a successful treatment and involves systematically adding or subtracting one of the elements from the other after a baseline period (e.g., A). Example sequences include A/B/B + C/B or A/C/C + B/C. Although one may argue for a crossover design (e.g., A/B/C/B) for examining timing changes, the resulting changes from a B/C phase transition are confounded because such a change could be attributable to either the removal of B or the addition of C. For this reason, Hayes et al. (1999) recommend an interaction element design to identify the separate elements within a successful treatment that make it work. Figure 1 graphically displays this experimental design and associated phase changes across four participants (measures and specific predictions are explained in the following). Child 1’s design taken alone is a within-series comparison for examining the relative contribution of cognitive procedures by systematically adding and subtracting this element to ongoing exposure therapy. Similarly, Child 2’s design taken alone is a within-series comparison for examining the relative contribution of exposure therapy by systematically adding and subtracting exposure therapy to ongoing cognitive/coping therapy. Child 3’s design is a modified replication of Child 1’s design except for an extended exposure therapy phase immediately after baseline. Finally, Child 4’s design is a modified replication of Child 2’s design with an extended cognitive therapy phase immediately after baseline. Extended exposure and cognitive therapy phases for Child 3 and 4 were conducted to allow between-series comparisons with the other three participants.",
+    "line_count": 21,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      95.99996948242188,
+      504.0184326171875,
+      482.30975341796875,
+      634.0184326171875
+    ],
+    "text": "Children’s Interview for Psychiatric Syndromes, Child and Parent Versions. The Children’s Interview for Psychiatric Syndromes, Child and Parent Versions (C/P-ChIPS) is a semistructured diagnostic interview for children and adolescents between the ages of 6 and 18 (Weller, Weller, Rooney, & Fristad, 1999a, 1999b). This interview is designed for the assessment of DSM-IV diagnoses of childhood anxiety, mood, behavioral, attentional, eating, and elimination disturbances and was used to determine participants’ diagnoses. Administration of the C/P-ChIPS consists of independent parent and child interviews, and diagnoses are made separately for both child and parent interviews before the final composite diagnostic profile is derived. Content and concurrent validity, interrater reliability, and test–retest reliability of the C/P-ChIPS have been demonstrated previously in studies with both clinical and community samples (Fristad et al., 1998a, 1998b, 1998c; Teare, Fristad, Weller, Weller, & Salmon, 1998a, 1998b; Weller, Weller, Fristad,",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      95.99993896484375,
+      648.0184326171875,
+      482.3101501464844,
+      694.0184326171875
+    ],
+    "text": "Child Behavior Checklist for Ages 6–18. The Child Behavior Checklist for Ages 6–18 (CBCL/6–18) is a 113-item parent questionnaire that measures both child competencies and needs related to a variety of childhood problems; (Achenbach, 2001). Items are rated as Not True (0), Somewhat or Sometimes True (1), or Very True or Often True (2) (higher scores reflect",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.0,
+      202.52212524414062,
+      133.17599487304688,
+      214.52212524414062
+    ],
+    "text": "Design",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.0,
+      484.5221252441406,
+      145.67999267578125,
+      496.5221252441406
+    ],
+    "text": "Measures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      95.99996948242188,
+      636.0184326171875,
+      207.28994750976562,
+      646.0184326171875
+    ],
+    "text": "Rooney, & Schecter, 2000).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 119",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "120 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      79.63990020751953,
+      574.618408203125,
+      462.58575439453125,
+      632.618408203125
+    ],
+    "text": "F IGURE 1. An interaction elements multiple-baseline design for investigating the timing of therapeutic changes in cognitive-behavioral therapy for anxiety reduction. Note. BL = baseline, C = cognitive therapy, CE = cognitive and exposure therapy, PBQ = Phobic Beliefs Questionnaire scores, E = exposure therapy, DSM Anxiety scores = scores from the CBCL/YSR Anxiety Problems DSM-Oriented Scale.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      77.9999008178711,
+      648.0364379882812,
+      464.30792236328125,
+      694.0364379882812
+    ],
+    "text": "greater endorsement of each item). Items from the CBCL can be summed to yield (a) Competence and Adaptive Scale scores, (b) Syndrome Scale scores, (c) DSM-Oriented Scale scores, and (d) Total Problems Scale scores (includes Internalizing and Externalizing Scale scores). Validity and reliability are excellent (Achenbach & Rescorla, 2001), and extensive normative data are",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      482.33978271484375,
+      514.0184326171875
+    ],
+    "text": "available for children ranging from 6 to 18. Furthermore, the CBCL/4–18 (Achenbach, 1991; Achenbach & Edelbrock, 1983), the predecessor of the CBCL/6–18, has been used in numerous RCTs to reduce youth anxiety (e.g., Barrett, 1998; Barrett et al., 1996; Cobham et al., 1998; Cohen & Mannarino, 1996; Deblinger, McLeer, & Henry, 1990; Kane & Kendall, 1989; Kendall, 1994; Kendall et al., 1997; King et al., 1998; Silverman et al., 1999). Raw scores from the DSM-Oriented Anxiety Problems Scale of the CBCL/6–18 (referred to as “Parent DSM Anxiety scores” throughout this study) were used as one of two outcome measures in the current study. Parent DSM Anxiety scores served as a treatment outcome indicator for several reasons, including: (a) the brevity of its 6 items, (b) its focus on DSM-IV-TR anxiety disorders, and (c) its demonstration of basic psychometric properties such as reliability and convergent and discriminative validity in a clinical sample of children (Nakamura, Ebesutani, & Bernstein, 2008). Fear Ladder. The Fear Ladder refers to a fear hierarchy, jointly created by the child, parent, and therapist, to reflect gradations of 10–15 feared situations or stimuli (Barlow & Seidner, 1983; Chorpita, 2007; Wolpe, 1958). Using a visual analog 0–10-point scale (i.e., Fear Thermometer [cf. Melamed, Hawes, Heiby, & Glick, 1975]), children and parents separately (i.e., Child Fear Ladder and Parent Fear Ladder) provide a rating of the child’s emotional distress associated with each of the listed situations or stimuli. Zero indicates no or minimal feelings of anxiety or distress and 10 indicates maximum feelings of anxiety or distress. Parent and child Fear Ladder averages taken over the course of treatment served as indicators of overall anxiety levels and between-session habituation (i.e., reductions in anxiety or distress across treatment sessions). Phobic Beliefs Questionnaire. The Phobic Beliefs Questionnaire (PBQ) is a three-part measure that assesses two types of cognitive errors frequently associated with excessive levels of anxiety and self-efficacy surrounding one’s ability to cope with a feared outcome (Davis & Ollendick, 2005). The two types of cognitive errors measured by the PBQ are beliefs that (a) feared outcomes are associated with unrealistically high probabilities, and (b) feared outcomes hold an extremely negative valence for the individual. These types of cognitive errors are frequently held by persons with excessive levels of anxiety (Foa & Kozak, 1986). Although psychometric data on the PBQ are unavailable, the two questions drawn from it for the current study appear highly face valid. Respondents are simply asked (on a visual analog scale from 0–8) (a) how likely the child believes it is that the feared outcome will occur (higher numbers reflecting greater certainty), and (b) how bad the child believes it would be if the feared outcome occurred (higher numbers reflecting greater negative valence). This investigation did not utilize the self-efficacy item of the PBQ. Parents and children independently completed the PBQ for a number of anxious beliefs during the proposed investigation. Parent and child PBQ scores served as indicators of the parents’ perspective of the child’s beliefs or cognitive errors and the child’s own self-reported beliefs",
+    "line_count": 35,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      528.0184326171875,
+      482.30902099609375,
+      622.0184326171875
+    ],
+    "text": "Youth Self-Report for Ages 11–18. The Youth Self-Report for Ages 11–18 (YSR/11–18) mirrors the parent version of the CBCL (i.e., items are worded in the first person on the YSR/11–18) and is completed as a self-report by youths to describe their functioning (Achenbach, 1995). The YSR/11–18 is scored in the same manner as the CBCL/6–18 (Achenbach & Rescorla, 2001), producing scores on the same scales. Validity and reliability are excellent (Achenbach & Rescorla, 2001), and extensive normative data are available for children ranging from 11 to 18. Mirroring usage of parent DSM Anxiety scores, this investigation utilized child DSM Anxiety scores (raw scores from the Anxiety Problems DSM-Oriented Scale of the YSR/11–18) as the second of two",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      672.0464477539062,
+      482.31195068359375,
+      694.0464477539062
+    ],
+    "text": "Treatment Protocol. The treatment therapist was a doctoral-level student who worked at CCBT. The therapist collaborated with participants and their caregivers on a case-by-case basis to",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      516.0184326171875,
+      226.57998657226562,
+      526.0184326171875
+    ],
+    "text": "or cognitive errors, respectively.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      624.0184326171875,
+      232.0899658203125,
+      634.0184326171875
+    ],
+    "text": "measures for treatment outcome.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.0,
+      652.5501708984375,
+      150.03598022460938,
+      664.5501708984375
+    ],
+    "text": "Procedure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 121",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "122 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      77.99998474121094,
+      96.01844024658203,
+      464.3208312988281,
+      694.0184326171875
+    ],
+    "text": "create idiographic treatment goals, received weekly supervision from three doctoral-level clinical supervisors, and utilized several treatment techniques as determined a priori from the Modular CBT (MCBT) Manual (Chorpita, 2007). Unlike previous CBT treatment manuals for anxiety (e.g., The Coping Cat; Kendall, 1990), modular manuals lend themselves to efficacy analyses at the component (i.e., therapeutic technique) level. Given this feature, combined with its preliminary efficacy data (i.e., MCBT; Chorpita, Taylor, Francis, Moffitt, & Austin, 2004), Chorpita’s (2007) MCBT Manual was chosen over older nonmodularized treatment approaches. Modules from Chorpita’s (2007) MCBT Manual administered during the course of this study for all participants included (a) constructing a fear hierarchy, (b) psychoeducation about the nature of anxiety, (c) exposure, (d) cognitive restructuring: probability overestimation, and (e) cognitive restructuring: catastrophic misinterpretation. Additionally, the (f) getting acquainted (therapist introduction and establishing rapport) module was completed when the treatment therapist was unable to meet the participant prior to their first treatment session (i.e., if the treatment therapist did not complete the participant’s intake assessment). The (g) maintenance and relapse prevention module was completed at the end of treatment for participants who had difficulties generalizing their progress to everyday life. Finally, in addition to the main techniques already noted, a few sessions for some of the participants focused on troubleshooting with parents around systemic barriers toward treatment. Modules administered during baseline phases for all children consisted of (a) constructing a fear hierarchy, and (b) psychoeducation about the nature of anxiety. The (f) getting acquainted module was completed for Participants 3 and 4. These modules were conducted during baseline because within, cognitive behavioral treatments for anxiety, self-monitoring, and psychoeducation frequently precede exposure-based exercises (e.g., Chorpita et al., 2004; Kendall, 1994; Kendall et al., 1997). As such, the present study assumed that self-monitoring and psychoeducation were prerequisites for exposure and cognitive/coping techniques exerting effects on anxiety, cognitions, and outcome. Additionally, it was hypothesized that completing these techniques during baseline would not violate the logic of this single-subject design because no changes on any dependent variables were expected as a result of using these techniques. Indeed, both Kendall et al. (1997) and Hayes et al. (1999) note that ineffective phase changes can be viewed as continuations of baseline. Exposure therapy alone phases (E) (see Figure 1; Child 1 and Child 3) consisted of the therapist administering the exposure module from the MCBT manual to participants in 1-hour treatment sessions approximately once per week. Cognitive therapy alone (C) phases (Child 2 and Child 4) consisted of both the cognitive restructuring: probability overestimation and cognitive restructuring: catastrophic misinterpretation modules from the same manual. Each cognitive module was presented to participants separately, with participants first learning to use probability overestimation coping skills over the course of numerous 1-hour treatment sessions approximately once per week. Cognitive and exposure therapy combined phases (CE) (all children) consisted of administering both the exposure module and one or both of the cognitive modules (determined by the nature of the child’s fear/anxiety and supervision from doctoral staff) within the same 1-hour session to participants. Participants were assigned to conditions 1 through 4 based on the principles of trying to (a) maximize differences between Child 1 and 3 (and Child 2 and 4) conditions on the variable of types of primary anxiety diagnoses, and (b) maximize similarities between Child 1 and 2 (and Child 3 and 4) conditions on the variables of number of diagnoses, types of primary anxiety diagnoses, and disorder severity. Phase lengths as well as phase changes for all participants strived for adherence with a priori determined phase lengths and changes (see Figure 1). Assessment Protocol. The treating therapist (or assistant to the treatment therapist) strove to administer anxiety, cognitive, and treatment outcome measures once at the beginning of each weekly treatment session and via the telephone 3 to 4 days after the weekly treatment session (i.e., twice per week) to participants and their primary caretaker(s). Fear Ladder averages consisted of",
+    "line_count": 50,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 123",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      482.2722473144531,
+      250.01844787597656
+    ],
+    "text": "scores from 5 Fear Ladder items selected from each participant’s total pool of fear ladder items. Limiting Fear Ladder averages to 5 items (evenly spaced throughout the participant’s fear ladder) was intended to decrease participant fatigue when tracking PBQ (Davis & Ollendick, 2005) scores (see the following). Phobic Beliefs Questionnaire (Davis & Ollendick, 2005) items (i.e., probability overestimation and catastrophic misinterpretation) centered on feared consequences associated with the 5 prespecified Fear Ladder items. Therefore, a total of 10 PBQ items (i.e., 5 probability overestimation items and 5 catastrophic misinterpretation items) were completed across each participant’s 5 Fear Ladder items of interest. After mathematically scaling PBQ averages to be on the same metric as Fear Ladder results (i.e., from a 0–8 to a 0–10 scale), parent and child PBQ averages (across types of cognitive error and particular phobic belief) were tracked separately in hopes of providing a fuller understanding of cognitive error reduction. Finally, DSM Anxiety scores were also tracked as indicators of treatment outcome. Parent and child versions of each measure were tracked separately in hopes of providing a fuller understanding of treatment changes.",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      265.60101318359375,
+      266.00079345703125,
+      313.1999816894531,
+      280.00079345703125
+    ],
+    "text": "R ESULTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      96.0,
+      287.9934387207031,
+      482.3580322265625,
+      693.993408203125
+    ],
+    "text": "Full results are displayed in Figures 2 through 4 (child-, mother-, and father-reported data, respectively). Regression lines were generated through all data points within all treatment phases for slope demonstration. It should be noted that numerous barriers to treatment (family engagement, caregiver health, transportation, caregiver psychopathology, etc.) and disorder severity made it impossible to adhere to a priori determined phase changes, and actual phase-change dates deviated slightly from those indicated a priori (see Figure 1 vs. Figures 2 through 4). Additionally, each child did not participate in the same number of sessions within and across phases (see Table 2). Analysis of Hypothesis 1 involved examining baseline phases (see BL1, BL2, BL3, BL4 in Figures 2 through 4) for all participants. Neither exposure nor cognitive/coping techniques were present during baseline, and aside from BL1, overall results indicated improvements (score decreases) in anxiety levels, cognitive errors, and treatment outcome. Examination of BL1 uniformly indicated deterioration for cognitive errors and treatment outcome across child, mother, and father reports. Regarding BL1 anxiety levels, mother and father reports indicated deterioration, though child report pointed to improvement (score decreases). Contrary to hypothesis, improvements were also noted for anxiety levels, cognitive errors, and treatment outcome for BL2 and BL3 across all reporters. Similarly, BL4 child and mother reports pointed to improvements in both anxiety levels and outcome during baseline. With respect to BL4 cognitive errors, child report indicated deterioration (consistent with Hypothesis 1), though mother report indicated improvement. Taken as a whole, these findings tend not to support Hypothesis 1 and suggest that psychoeducation and self-monitoring might be sufficient for triggering positive changes in anxiety levels, cognitive errors, and treatment outcome. Examining those treatment phases in which exposure was present and cognitive/coping skills were absent allowed for investigation of Hypothesis 2. A total of four exposure-only phases were analyzed (see Participants 1 in Figures 2 through 4 and Participant 3 in Figure 2), with E1.1 and E3.1 occurring immediately after baseline and E1.2 and E3.2 occurring after the combined therapy phases. Regarding E1.1 and E3.1, with the exception of the E1.1 mother report on DSM anxiety scores, all informants reported hypothesis-consistent improvements across anxiety, cognitive, and outcome variables. The noted improvements in E1.1 may be especially significant given that its preceding BL1 baseline phase indicated nearly uniform deterioration across all reporters and variables. In other words, the BL1 to E1.1 transition seemed to reverse deteriorating trends for anxiety levels (mother and father report), cognitive errors (child, mother, and father reports), and treatment outcome (child and father reports). Concerning overall score levels for these treatment periods, E1.1 anxiety, E3.1 cognitive, and E3.1 outcome reports slowly declined to near-zero values, whereas E1.1 outcome, E1.1 cognitive, and E3.1 anxiety scores remained above a value of 2.",
+    "line_count": 34,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "124 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      77.99958801269531,
+      543.618408203125,
+      459.6236572265625,
+      603.618408203125
+    ],
+    "text": "F IGURE 2. Child-reported anxiety, cognitive error, and treatment outcome data for conditions 1 through 4. Note. BL = baseline, C = cognitive therapy, CE = cognitive and exposure therapy, PBQ = Phobic Beliefs Questionnaire scores, E = exposure therapy, FL = Fear Ladder scores, DSM Anxiety scores = scores from the CBCL/YSR Anxiety Problems DSM-Oriented Scale.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      78.0,
+      635.9794311523438,
+      464.30596923828125,
+      705.9794311523438
+    ],
+    "text": "Whereas E1.1 and E3.1 results supported Hypothesis 2, trend results in the E1.2 and E3.2 exposure-only treatment phases provided mixed support. With respect to Fear Ladder trends, E1.2 child and mother reports were consistent with Hypothesis 2 and pointed to decreases in anxiety levels. Father report in E1.2 as well as child report in E3.2 indicated stable floor effects (i.e., scores improved to a zero value in the previous phase and remained at zero value throughout the entire phase under examination). Concerning cognitive errors, overall E1.2 and E3.2",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      96.05999755859375,
+      514.2183837890625,
+      481.0455627441406,
+      524.2184448242188
+    ],
+    "text": "F IGURE 3. Mother-reported anxiety, cognitive error, and treatment outcome data for conditions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      96.06060791015625,
+      538.2184448242188,
+      466.3706970214844,
+      572.2184448242188
+    ],
+    "text": "Note. BL = baseline, C = cognitive therapy, CE = cognitive and exposure therapy, PBQ = Phobic Beliefs Questionnaire scores, E = exposure therapy, FL = Fear Ladder scores, DSM Anxiety scores = scores from the CBCL/YSR Anxiety Problems DSM-Oriented Scale.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      95.9990005493164,
+      599.931396484375,
+      482.30908203125,
+      705.931396484375
+    ],
+    "text": "results tended to be inconsistent with Hypothesis 2. Although E1.2 father report demonstrated hypothesis-consistent improvement, deteriorating trends (i.e., score increases) were noted for E1.2 child and mother report as well as E3.2 child report. Treatment outcome trends for E1.2 and E3.2 also failed to support Hypothesis 2. E1.2 child and father report pointed to stable courses, whereas mother report indicated score deterioration. A stable floor effect was noted for E3.2 child report. With respect to overall score levels, the majority of all reported values were near zero at the beginning of both E1.2 and E3.2 periods. In sum, results for Hypothesis 2 suggested ordering effects for exposure-only treatment phase trends. The treatment phases (E1.1 and E3.1) immediately following baseline seemed to indicate hypothesis-consistent improvements across",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      96.06060791015625,
+      526.2184448242188,
+      140.3506317138672,
+      536.2184448242188
+    ],
+    "text": "1, 2, and 4.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 125",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "126 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      77.87960815429688,
+      386.0184326171875,
+      464.1865539550781,
+      444.0184326171875
+    ],
+    "text": "F IGURE 4. Father-reported anxiety, cognitive error, and treatment outcome data for conditions 1 and 2. Note. BL = baseline, C = cognitive therapy, CE = cognitive and exposure therapy, PBQ = Phobic Beliefs Questionnaire scores, E = exposure therapy, FL = Fear Ladder scores, DSM Anxiety scores = scores from the CBCL/YSR Anxiety Problems DSM-Oriented Scale.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      77.99996185302734,
+      479.9664306640625,
+      464.31219482421875,
+      705.9664306640625
+    ],
+    "text": "all variables, whereas the phases (E1.2 and E3.2) following combined therapy tended to indicate improvements only for anxiety reduction. Score-level changes tended to be gradual and most pronounced prior to E1.2 and E3.2 phases. Inspection of Hypothesis 3 required examination of C2.1, C2.2, C4.1, and C4.2. Overall results were mixed but tended not to support Hypothesis 3. Concerning C2.1 and C4.1, hypothesis-consistent anxiety-level increases were noted per both child reports, though father and mother reports pointed to decreases. Although small in magnitude and near zero value in level, these child-reported anxiety-level increases for C2.1 and C4.1 seem especially intriguing given that both baseline BL2 and BL4 trends preceding them indicated clear improvements. In other words, the baseline to cognitive-only phase transitions (BL2 to C2.1 and BL4 to C4.1) for both Participants 2 and 4 seemed to reverse improving trends for child-reported anxiety levels. With respect to cognitive errors, both C2.1 and C4.1 mother reports indicated hypothesisconsistent cognitive error decreases, though father and child reports unexpectedly demonstrated slight increases (deterioration). Child, mother, and father reports for C2.1 and mother reports for C4.1 uniformly evidenced score decreases for treatment outcome. C4.1 child report indicated a stable floor effect for treatment outcome. Like C2.1 and C4.1 results, overall trends for C2.2 and C4.2 tended not to support Hypothesis 2. C2.2 mother and father reports and C4.2 mother report pointed to hypothesis-inconsistent anxiety improvements. A stable floor effect was seen for child-reported anxiety levels in C2.2, and",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      298.720458984375,
+      125.51844024658203
+    ],
+    "text": "TABLE 2. S ESSION C ONTENT FOR A LL P ARTICIPANTS Session Participant 1",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.39401245117188,
+      115.51844024658203,
+      259.10400390625,
+      125.51844024658203
+    ],
+    "text": "Participant 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      135.01844787597656,
+      193.40200805664062,
+      145.01844787597656
+    ],
+    "text": "Constructing a",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      135.01844787597656,
+      287.1549987792969,
+      145.01844787597656
+    ],
+    "text": "Constructing a fear",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      147.01844787597656,
+      196.91200256347656,
+      157.01844787597656
+    ],
+    "text": "fear hierarchy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      147.01844787597656,
+      255.24501037597656,
+      157.01844787597656
+    ],
+    "text": "hierarchy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      163.2444610595703,
+      195.02200317382812,
+      173.2444610595703
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      163.2444610595703,
+      271.06500244140625,
+      173.2444610595703
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      175.2444610595703,
+      170.2720184326172,
+      185.2444610595703
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      175.2444610595703,
+      246.3150177001953,
+      185.2444610595703
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      191.47047424316406,
+      195.02200317382812,
+      201.47047424316406
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      191.47047424316406,
+      271.06500244140625,
+      201.47047424316406
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      203.47047424316406,
+      170.2720184326172,
+      213.47047424316406
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      203.47047424316406,
+      246.3150177001953,
+      213.47047424316406
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      219.6964874267578,
+      195.02200317382812,
+      229.6964874267578
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      219.6964874267578,
+      251.04501342773438,
+      229.6964874267578
+    ],
+    "text": "Cognitive:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      231.6964874267578,
+      170.2720184326172,
+      241.6964874267578
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      231.6964874267578,
+      282.05499267578125,
+      241.6964874267578
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      247.92250061035156,
+      168.8419952392578,
+      257.9224853515625
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.38600158691406,
+      247.92250061035156,
+      279.7550048828125,
+      269.9224853515625
+    ],
+    "text": "Cognitive: Overestimation",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      276.14849853515625,
+      168.8419952392578,
+      286.14849853515625
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.38600158691406,
+      276.14849853515625,
+      268.70501708984375,
+      298.14849853515625
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      304.37451171875,
+      168.8419952392578,
+      314.37451171875
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.38600158691406,
+      304.37451171875,
+      268.70501708984375,
+      326.37451171875
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      356.60052490234375,
+      168.8419952392578,
+      366.60052490234375
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      356.60052490234375,
+      290.5649719238281,
+      402.60052490234375
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      408.8265380859375,
+      168.8419952392578,
+      418.8265380859375
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      408.8265380859375,
+      290.5649719238281,
+      454.8265380859375
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      461.05255126953125,
+      168.8419952392578,
+      471.05255126953125
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      461.05255126953125,
+      290.5649719238281,
+      507.05255126953125
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      513.278564453125,
+      168.8419952392578,
+      523.278564453125
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      513.278564453125,
+      290.5649719238281,
+      559.278564453125
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      565.5045776367188,
+      173.5419921875,
+      575.5045776367188
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      565.5045776367188,
+      279.375,
+      575.5045776367188
+    ],
+    "text": "Trouble shooting",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      577.5045776367188,
+      202.2320098876953,
+      587.5045776367188
+    ],
+    "text": "learning about",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      577.5045776367188,
+      272.7949523925781,
+      587.5045776367188
+    ],
+    "text": "(Father-child",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      589.5045776367188,
+      170.2720184326172,
+      599.5045776367188
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      217.385009765625,
+      589.5045776367188,
+      265.07501220703125,
+      599.5045776367188
+    ],
+    "text": "interaction)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      131.34201049804688,
+      605.7305908203125,
+      200.802001953125,
+      615.7305908203125
+    ],
+    "text": "Troubleshooting",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      605.7305908203125,
+      290.5639953613281,
+      615.7305908203125
+    ],
+    "text": "Exposure, cognitive:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      141.34201049804688,
+      617.7305908203125,
+      186.2419891357422,
+      627.7305908203125
+    ],
+    "text": "(Exposure)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      207.385009765625,
+      617.7305908203125,
+      283.875,
+      687.7305908203125
+    ],
+    "text": "Overestimation Cognitive: Catastrophic, troubleshooting (Father-child interaction)",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 127",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.27301025390625,
+      115.51844024658203,
+      345.98297119140625,
+      125.51844024658203
+    ],
+    "text": "Participant 3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4539794921875,
+      115.51844024658203,
+      424.1639404296875,
+      125.51844024658203
+    ],
+    "text": "Participant 4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      135.01844787597656,
+      326.6429748535156,
+      145.01844787597656
+    ],
+    "text": "Getting",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      135.01844787597656,
+      449.1529541015625,
+      145.01844787597656
+    ],
+    "text": "Getting acquainted",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      147.01844787597656,
+      356.3229675292969,
+      173.2444610595703
+    ],
+    "text": "acquainted Constructing a",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      163.2444610595703,
+      452.2129821777344,
+      173.2444610595703
+    ],
+    "text": "Constructing a fear",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      175.2444610595703,
+      359.8330383300781,
+      185.2444610595703
+    ],
+    "text": "fear hierarchy",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      175.2444610595703,
+      420.3030090332031,
+      185.2444610595703
+    ],
+    "text": "hierarchy",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      191.47047424316406,
+      357.9429626464844,
+      201.47047424316406
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      191.47047424316406,
+      470.5129699707031,
+      201.47047424316406
+    ],
+    "text": "Troubleshooting (Child",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      203.47047424316406,
+      333.1929931640625,
+      213.47047424316406
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      203.47047424316406,
+      474.15301513671875,
+      213.47047424316406
+    ],
+    "text": "oppositional behavior)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      219.6964874267578,
+      357.9429626464844,
+      229.6964874267578
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      219.6964874267578,
+      436.1229553222656,
+      229.6964874267578
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      231.6964874267578,
+      333.1929931640625,
+      241.6964874267578
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      231.6964874267578,
+      411.37298583984375,
+      241.6964874267578
+    ],
+    "text": "anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      247.92250061035156,
+      357.9429626464844,
+      257.9224853515625
+    ],
+    "text": "Learning about",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      247.92250061035156,
+      478.7030334472656,
+      257.9224853515625
+    ],
+    "text": "Cognitive: Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      259.9224853515625,
+      333.1929931640625,
+      286.14849853515625
+    ],
+    "text": "anxiety Exposure",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4430236816406,
+      276.14849853515625,
+      478.70306396484375,
+      286.14849853515625
+    ],
+    "text": "Cognitive: Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      304.37451171875,
+      331.7630310058594,
+      314.37451171875
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4430236816406,
+      304.37451171875,
+      472.3529968261719,
+      350.37451171875
+    ],
+    "text": "Cognitive: Catastrophic, troubleshooting (Parent psychopathology)",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      356.60052490234375,
+      331.7630310058594,
+      366.60052490234375
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4430236816406,
+      356.60052490234375,
+      472.3529968261719,
+      402.60052490234375
+    ],
+    "text": "Cognitive: Catastrophic, troubleshooting (Parent psychopathology)",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      408.8265380859375,
+      331.7630310058594,
+      418.8265380859375
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4430236816406,
+      408.8265380859375,
+      467.65301513671875,
+      418.8265380859375
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      461.05255126953125,
+      336.4630126953125,
+      471.05255126953125
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      461.05255126953125,
+      456.113037109375,
+      471.05255126953125
+    ],
+    "text": "Exposure, cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      473.05255126953125,
+      345.5030212402344,
+      483.05255126953125
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      473.05255126953125,
+      447.1130065917969,
+      483.05255126953125
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      485.05255126953125,
+      366.43798828125,
+      495.05255126953125
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      485.05255126953125,
+      467.6529846191406,
+      495.05255126953125
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      513.278564453125,
+      336.4630126953125,
+      523.278564453125
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      513.278564453125,
+      456.113037109375,
+      523.278564453125
+    ],
+    "text": "Exposure, cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      525.278564453125,
+      345.5030212402344,
+      535.278564453125
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      525.278564453125,
+      447.1130065917969,
+      535.278564453125
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      537.278564453125,
+      366.43798828125,
+      547.278564453125
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      537.278564453125,
+      467.6529846191406,
+      547.278564453125
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      565.5045776367188,
+      336.4630126953125,
+      575.5045776367188
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      565.5045776367188,
+      456.113037109375,
+      575.5045776367188
+    ],
+    "text": "Exposure, cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      577.5045776367188,
+      345.5030212402344,
+      587.5045776367188
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      577.5045776367188,
+      447.1130065917969,
+      587.5045776367188
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      589.5045776367188,
+      355.5829772949219,
+      599.5045776367188
+    ],
+    "text": "Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      589.5045776367188,
+      467.6529846191406,
+      599.5045776367188
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      294.26300048828125,
+      605.7305908203125,
+      336.4630126953125,
+      615.7305908203125
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      605.7305908203125,
+      456.113037109375,
+      615.7305908203125
+    ],
+    "text": "Exposure, cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      617.7305908203125,
+      345.5030212402344,
+      627.7305908203125
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      382.4429931640625,
+      617.7305908203125,
+      447.1130065917969,
+      627.7305908203125
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      304.26300048828125,
+      629.7305908203125,
+      355.5829772949219,
+      639.7305908203125
+    ],
+    "text": "Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      372.4429931640625,
+      629.7305908203125,
+      467.6529846191406,
+      639.7305908203125
+    ],
+    "text": "Cognitive: Catastrophic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      430.21197509765625,
+      696.0185546875,
+      480.0010070800781,
+      706.0185546875
+    ],
+    "text": "( Continued )",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      78.0,
+      587.970458984375,
+      464.3099365234375,
+      645.970458984375
+    ],
+    "text": "hypothesis-consistent anxiety increases (deterioration) were noted for C4.2 child report. Regarding cognitive errors, PBQ scores decreased per C2.2 father report and C4.2 mother report, remained stable per C2.2 child report, and increased per C2.2 mother and C4.2 child report. Concerning treatment outcome, floor effects were seen for C2.2 and C4.2 child reports. Additionally, C2.2 father and C4.2 mother reports pointed to hypothesis-inconsistent improvements, whereas C2.2",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      78.0,
+      659.970458984375,
+      464.30889892578125,
+      693.970458984375
+    ],
+    "text": "Regarding score levels during cognitive-only treatment phases, cognitive error reports evidenced a high degree of stability, hovering between the values of 6 and 8, across C2.1, C2.2, C4.1, and C4.2 treatment periods. Child-reported anxiety levels remained low throughout all",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "128 Nakamura et al.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      78.0,
+      96.01844024658203,
+      174.5189971923828,
+      125.51844024658203
+    ],
+    "text": "TABLE 2. ( C ONTINUED ) Session Participant 1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.39401245117188,
+      115.51844024658203,
+      241.10401916503906,
+      125.51844024658203
+    ],
+    "text": "Participant 2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      113.34201049804688,
+      135.01844787597656,
+      150.84201049804688,
+      145.01844787597656
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.385009765625,
+      135.01844787597656,
+      264.05499267578125,
+      181.01844787597656
+    ],
+    "text": "Cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      113.34201049804688,
+      186.51844787597656,
+      155.54200744628906,
+      196.51844787597656
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.385009765625,
+      186.51844787597656,
+      233.04501342773438,
+      196.51844787597656
+    ],
+    "text": "Cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      123.34200286865234,
+      198.51844787597656,
+      164.58201599121094,
+      208.51844787597656
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      199.385009765625,
+      198.51844787597656,
+      264.05499267578125,
+      208.51844787597656
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      123.34200286865234,
+      210.51844787597656,
+      183.385009765625,
+      220.51844787597656
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.385009765625,
+      210.51844787597656,
+      255.74502563476562,
+      268.5184326171875
+    ],
+    "text": "Cognitive: Catastrophic, maintenance, and relapse prevention",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      113.34201049804688,
+      274.0184326171875,
+      155.54200744628906,
+      284.0184326171875
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.385009765625,
+      274.0184326171875,
+      233.04501342773438,
+      284.0184326171875
+    ],
+    "text": "Cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      123.34200286865234,
+      286.0184326171875,
+      164.58201599121094,
+      296.0184326171875
+    ],
+    "text": "cognitive:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      199.385009765625,
+      286.0184326171875,
+      264.05499267578125,
+      296.0184326171875
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      123.34200286865234,
+      298.0184326171875,
+      183.385009765625,
+      308.0184326171875
+    ],
+    "text": "Overestimation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      189.385009765625,
+      298.0184326171875,
+      255.74502563476562,
+      356.0184326171875
+    ],
+    "text": "Cognitive: Catastrophic, maintenance, and relapse prevention",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      113.34200286865234,
+      361.5184326171875,
+      185.6850128173828,
+      545.0184326171875
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic Exposure, cognitive: Overestimation Cognitive: Catastrophic Exposure Exposure Exposure Exposure",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      78.0,
+      647.970458984375,
+      294.5090026855469,
+      657.970458984375
+    ],
+    "text": "mother report revealed hypothesis-consistent stability.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 15,
+    "bbox": [
+      276.27301025390625,
+      115.51844024658203,
+      327.98297119140625,
+      125.51844024658203
+    ],
+    "text": "Participant 3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4539794921875,
+      115.51844024658203,
+      406.1639404296875,
+      125.51844024658203
+    ],
+    "text": "Participant 4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      276.26300048828125,
+      135.01844787597656,
+      313.7630310058594,
+      145.01844787597656
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      135.01844787597656,
+      449.6529846191406,
+      169.01844787597656
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      276.26300048828125,
+      186.51844787597656,
+      313.7630310058594,
+      196.51844787597656
+    ],
+    "text": "Exposure",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      186.51844787597656,
+      449.6529846191406,
+      220.51844787597656
+    ],
+    "text": "Exposure, cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      276.26300048828125,
+      274.0184326171875,
+      318.4630126953125,
+      284.0184326171875
+    ],
+    "text": "Exposure,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      274.0184326171875,
+      463.0030212402344,
+      284.0184326171875
+    ],
+    "text": "Cognitive: Overestimation",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      286.26300048828125,
+      286.0184326171875,
+      342.6229553222656,
+      296.0184326171875
+    ],
+    "text": "maintenance,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      286.0184326171875,
+      454.35296630859375,
+      296.0184326171875
+    ],
+    "text": "Cognitive: Catastrophic,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      286.26300048828125,
+      298.0184326171875,
+      333.97296142578125,
+      308.0184326171875
+    ],
+    "text": "and relapse",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      364.4429931640625,
+      298.0184326171875,
+      430.9329833984375,
+      308.0184326171875
+    ],
+    "text": "troubleshooting",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      286.26300048828125,
+      310.0184326171875,
+      330.0230407714844,
+      320.0184326171875
+    ],
+    "text": "prevention",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      364.4429931640625,
+      310.0184326171875,
+      449.06298828125,
+      320.0184326171875
+    ],
+    "text": "(Parent engagement)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      361.5184326171875,
+      463.0030212402344,
+      383.5184326171875
+    ],
+    "text": "Cognitive: Overestimation Cognitive: Catastrophic",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      354.4429931640625,
+      425.0184326171875,
+      463.0030212402344,
+      483.0184326171875
+    ],
+    "text": "Cognitive: Overestimation Cognitive: Catastrophic, troubleshooting (Parent engagement, parent psychopathology)",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      482.3128662109375,
+      418.0184326171875
+    ],
+    "text": "cognitive-only phases, whereas parent reports pointed to mid-level impairments in C2.1 and C4.1 and low-level impairments in C2.2 and C4.2. Level results for treatment outcome were highly mixed, with treatment outcome reports ranging from low to high throughout C2.1, C2.2, C4.1, and C4.2 treatment periods. Although variable, overall cognitive-only treatment phase findings did not support Hypothesis 2. Anxiety and cognitive-error findings seemed to vary by reporter, such that child report frequently indicated deteriorating or stable trends, though parent reports suggested improvements. Regarding treatment outcome, child, mother, and father reports pointed to hypothesis-inconsistent improvements or stable floor effects for all phases. Examining those treatment phases in which both exposure and cognitive/coping skills were present (i.e., combined therapy) allowed for analysis of Hypothesis 4. A total of four combined therapy phases were inspected, with Participants 1 and 3 entering CE1 and CE3, respectively, immediately after their first exposure therapy phases, and Participants 2 and 4 entering CE2 and CE4, respectively, after their first cognitive/coping therapy phases. Although slightly mixed, overall results tended to support Hypothesis 4. Concerning anxiety trends, with the exceptions of CE1 father and CE4 child reports, all reports in all phases pointed to smooth, gradual, and hypothesisconsistent score decreases. Similar findings were noted for cognitive error trends. Barring CE1 and CE2 father reports, all informants in all combined phases reported hypothesis-consistent score decreases. With respect to treatment outcome findings, CE1 child, CE2 father, and CE4 mother reports pointed to hypothesis-inconsistent increases, though CE1 mother, CE1 father, CE2 child, and CE2 mother reports indicated hypothesis-consistent decreases. Stable floor effects were noted for CE1 and CE4 child reports. Regarding anxiety levels, the majority of all reports pointed to zero or near-zero values by the end of each CE treatment period. Concerning cognitive error levels, near-zero levels were uniformly reported by the end of CE1 and CE3 phases, whereas stable scores between the values and 5 and 8 were indicated for CE2 and CE4 treatment periods. Finally, DSM Anxiety score level findings were very mixed and ranged widely between 0 and 10. In summary, for Hypothesis 4 anxiety and cognitive error trends indicated hypothesis-consistent decreases, though treatment outcome trajectories were more mixed.",
+    "line_count": 27,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      96.0,
+      455.9764404296875,
+      482.30999755859375,
+      525.9764404296875
+    ],
+    "text": "The present investigation examined the timing of therapeutic changes using two intervention components (exposure and cognitive/coping techniques) following self-monitoring and psychoeducation within a clinical sample of children and adolescents being treated for anxiety disorders. Results varied across informants, dependent variables, and the order in which each treatment technique was delivered. Child-reported trends were slightly clearer than those reported by parents and suggested that exposure was a key element for triggering some, but not all, positive",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      96.0,
+      539.9764404296875,
+      482.28094482421875,
+      681.9764404296875
+    ],
+    "text": "Cumulative review of the findings mentioned previously suggested several preliminary conclusions about the timing of changes throughout the course of cognitive-behavioral therapy for anxiety reduction. First, when taken alone, the cognitive-educational techniques of selfmonitoring and psychoeducation might be sufficient for triggering positive changes in some children. There is some basis for this conclusion in the findings of Silverman et al. (1999), which demonstrated that education support comparison groups can yield positive changes in child anxiety comparable to behavioral or cognitive interventions. Interestingly, however, findings from the current study and Silverman et al. run counter to Kendall et al.’s (1997) results, which showed eight cognitive-educational sessions of CBT insufficient for producing significant immediate changes across numerous dependent variables. Along these lines, forthcoming studies investigating therapeutic changes may benefit from increased monitoring and fine-grained analyses of thoughts, feelings, and behaviors while developing the cognitive-educational tech-",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      96.0,
+      527.9764404296875,
+      220.0999755859375,
+      537.9764404296875
+    ],
+    "text": "changes after baseline periods.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      96.0,
+      683.9764404296875,
+      293.45794677734375,
+      693.9764404296875
+    ],
+    "text": "niques of self-monitoring and psychoeducation.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 129",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      256.156005859375,
+      433.98382568359375,
+      322.6449890136719,
+      447.98382568359375
+    ],
+    "text": "D ISCUSSION",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "130 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      78.0,
+      96.01844024658203,
+      464.31195068359375,
+      694.0184326171875
+    ],
+    "text": "Second, after completing self-monitoring and psychoeducation techniques, positive changes in child-reported anxiety levels (score decreases or attenuating deterioration) occurred when, and only when, exposure was present. In fact, the converse could be argued for cognitive-only treatment phases. Barring one stable floor effect, all cognitive-only treatment periods evidenced slight deterioration in child-reported anxiety levels. This result is consistent with Chorpita et al.’s (2004), Kendall et al.’s (1997), and Feske and Chambless’s (1995) studies suggesting the importance of exposure, as well as Foa and Kozak’s (1986) model of emotional processing. Third, after completing self-monitoring and psychoeducation techniques, child-reported cognitive errors decreased when and only when exposure was present, unless it was an exposureonly phase that immediately followed a combined therapy phase. Surprisingly, zero of four cognitive-only phases demonstrated score improvements on child-reported cognitive errors, with three of those four phases evidencing slight deterioration. It seems then that, per child report, exposure is the key treatment element specific for positive changes in both anxiety and cognitive errors prior to and during the addition of cognitive/coping elements to ongoing exposure therapy. Interestingly, unlike all other phases with some element of exposure (e.g., combined treatment and exposure-only phases immediately following study baseline) that demonstrated child-reported cognitive error score decreases, the exposure-only phases subsequent to combined therapy periods pointed to score increases. Perhaps once explicitly introduced to cognitive/coping techniques during ongoing exposure therapy, children come to rely on such tools for addressing cognitive errors, and removal of such an element raises children’s estimates of the likelihood or degree of negative outcome. A fourth conclusion centers around the notion that currently little can be said about the timing of changes for treatment outcome trends as repeatedly assessed by the YSR and CBCL/6–18 Anxiety Problems DSM-Oriented Scale items. Per child report across all four participants, 6 of 12 treatment phases subsequent to study baseline periods evidenced stable floor effects (scores decreased to zero and remained at zero). Remaining results were somewhat ambiguous and pointed to indiscriminant changes and levels across varying treatment periods. Such patterns do not allow inferences about the timing of treatment outcome changes throughout a course of CBT for anxiety disorders. Finally, given this study’s mostly heterogeneous parent-reported trend results, only extremely tentative inferences should be made regarding mother- and father-reported trajectories subsequent to the completion of self-monitoring and psychoeducation. These include the following remarks. Barring one report across all parent-analyzed treatment phases, anxiety trends evidenced positive improvements regardless of whether exposure techniques and/or cognitive/coping elements were present. Similarly, with the exception of parent-reported improved treatment outcome scores during most cognitive/coping-only phases, cognitive error and treatment outcome findings varied unsystematically across exposure, cognitive/coping, and combined treatment phases. Despite promising results, this study has several notable limitations in the form of at least two major sources of extraneous variance and potential measurement error. First, given numerous unforeseen barriers to treatment (family engagement, transportation, caregiver health and psychopathology, etc.), actual phase-change dates deviated from those indicated a priori, and each child did not participate in the same number of treatment sessions within and across phases. Along these lines, results should be at least slightly tempered knowing that a moderating dose–response relationship may be embedded within omnibus findings. For example, perhaps the finding that child-reported anxiety levels improve exclusively when an exposure component is present occurs only if children undergo exposure at a minimum rate of every week or every other week. Increasing the frequency of cognitive/coping therapy sessions during cognitive-only phases might have led to different results as well. Future laboratory investigations allowing more systematic control of treatment sessions are warranted to address this concern. Consonant with",
+    "line_count": 50,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.0,
+      96.01844024658203,
+      482.3128662109375,
+      502.0184326171875
+    ],
+    "text": "the concern about deviating from a priori design considerations, the majority of trend data obtained during study baseline pointed to hypothesis-inconsistent improvements across all measures and reporters. Stable or deteriorating trends across study baseline periods would have been optimal and would have bolstered this study’s somewhat mixed findings. Consequently, the aforementioned limitation of this study investigating the effects of exposure- and cognitive-based practice elements after self-monitoring and psychoeducation (not whether self- monitoring and psychoeducation were necessary in treatment) should be reiterated. At the same time, the relative robustness of demonstrated improvements in self-monitoring and psychoeducation combined with the guided flexibility and repeated assessment aspects of modular cognitive-behavioral therapy (Chorpita, 2007; Chorpita, Daleiden, & Weisz, 2005b) suggest the potential to treat less severe anxiety problems with only these techniques, at least in the short run. Although conceptually logical, this hypothesis remains open to empirical analysis. Another potential source of extraneous variance toward investigation findings comes from the somewhat heterogeneous nature of its study participants. Although all children were treated by the same therapist, study recruitment challenges disallowed homogeneity across numerous participant characteristics such as principal diagnosis, disorder severity, age, and psychosocial stressors. These and other child or parent characteristics could have moderated study results. For example, unlike baseline trend trajectories for Participants 2, 3, and 4, nearly all of Participant 1’s reports pointed to uniform deterioration during study baseline. Perhaps there were unique features or characteristics of this boy that tempered his findings. Unlike other study children, the onset and course of his anxiety problems were abrupt and severe and nearly resulted in home-schooling and complete withdrawal from all public situations. Conceivably, then, disorder severity may moderate the positive effects of self-monitoring and psychoeducation. Prospective analysis of this issue also might make an interesting line of inquiry. Measurement error could have been another limitation in the current study. Despite the use of multiple informants, all results were exclusively obtained via one mode of data collection in the form of self- and parent-report instruments. Consequently, resulting information may have been subject to problems sometimes associated with such types of measures (e.g., participant carelessness or reactivity to testing). To address some of these potential concerns, several safeguards were established proactively, including efforts to keep measurement procedures as standard as possible. For instance, measures were administered at the beginning of each treatment session (and over the phone for between-session assessment), and efforts were made to minimize implicit demands on the client (e.g., children and parents were always praised, rewarded, and/or thanked for filling out their measures, regardless of their specific",
+    "line_count": 34,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.0,
+      516.0184326171875,
+      482.31201171875,
+      682.0184326171875
+    ],
+    "text": "Another concern about measurement error surrounds the notion that perhaps the constructs of anxiety levels, errors in cognition, and treatment outcome were not fully captured by their respective questionnaires. Whereas one might have argued for more standardized measures in this type of research, such instruments typically utilized in pre-post evaluation are too lengthy and did not lend themselves to frequent and repeated assessment. Forthcoming studies investigating the timing of changes during therapy will have to balance the need for frequent assessment with instrument length, development, specificity (e.g., probability overestimation and/or catastrophic thinking errors), and modality (e.g., self- and parent reports, direct observation, physiological recording). There is a long-standing tradition in behavioral psychology in general, and to some extent in the study of childhood anxiety, of using single case designs, especially to conduct exploratory research (cf. Choate, Pincus, Eyberg, & Barlow, 2005; Eisen & Silverman, 1993, 1998; Lumpkin, Silverman, Weems, Markham, & Kurtines, 2002; Ollendick, 1995). The benefits and disadvantages to the approach have been noted, but single case design remains a worthwhile alternative to the randomized controlled trial, especially for use in pilot and prelimi-",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.0,
+      504.0184326171875,
+      136.76998901367188,
+      514.0184326171875
+    ],
+    "text": "answers).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.0,
+      684.0184326171875,
+      148.9199981689453,
+      694.0184326171875
+    ],
+    "text": "nary studies.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 18,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 131",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 19,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "132 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      78.0,
+      96.01844024658203,
+      464.3118591308594,
+      526.0184326171875
+    ],
+    "text": "Finally, two issues are worth noting with regard to the nature of and interrelationships between several of the techniques used in the current investigation. First, though a modular treatment approach was used in this study toward the goal of separating techniques from one another, some inevitable overlap between technique constructs occurred. For example, Chorpita’s (2007) psychoeducation module contains some aspects of cognitive restructuring (e.g., helping a child view his/her anxious responses as false alarms to nonthreatening situations and learn that false alarms will go away with practice). Therefore, though differing in foci from cognitive restructuring techniques focusing more explicitly on probability overestimation and catastrophic misinterpretation errors, the cognitive aspects of psychoeducation must be acknowledged. Similarly, exposure also contains some aspects of cognitive restructuring. Even when prescribed in isolation, artful exposure therapy contains at least limited amounts of concomitant cognitive restructuring. In this particular study, Chorpita’s (2007) exposure module focuses on evaluating the true-or-false-alarm nature of a youth’s anxious feelings within the context of doing exposure activities (e.g., a child is led to conclude that a previously feared situation is a false-alarm type scenario after exposing him/herself to that scenario without the occurrence of a feared consequence). Additionally, regarding the nature of and interrelationships between techniques utilized in the current study is the comment that the therapist in this investigation could not prevent participants from covertly engaging in previously taught treatment techniques in sessions focusing on other techniques. For example, once participants were explicitly taught cognitive restructuring skills for probability overestimation and catastrophic misinterpretation errors, they could not be prevented from covertly using these skills if they subsequently moved into a phase focusing only on exposure. To put it differently, investigators had little direct control over participants’ cognitively mediated processes. To exercise some control over this issue, however, the study therapist never reviewed phase-incongruent skills, always taught only phase-congruent skills, and redirected the child to phase-congruent techniques if drift was observed. Given the two concerns mentioned previously, treatment phase foci (e.g., cognitive/coping, exposure, or combined skills) in this study may be best conceptualized as the core thrust of a phase and not an absolute focus on a mutually exclusive set of skills. Overall, differentially sequencing cognitive-behavioral therapy techniques for investigating the timing of positive changes achieved throughout the course of therapy produced somewhat ambiguous results. Child-reported trajectories were clearer than parent-reported phase trends and suggested that exposure was a key element for triggering some, but not all, positive changes after completing self-monitoring and psychoeducation techniques. Despite having several limitations, this study is among the first of its kind and may represent an initial step toward understanding and testing change processes throughout the course of cognitive-behavioral interventions for anxiety reduction.",
+    "line_count": 36,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      237.7310028076172,
+      554.0258178710938,
+      305.0699768066406,
+      568.0258178710938
+    ],
+    "text": "R EFERENCES",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      78.0,
+      576.7666015625,
+      464.0732116699219,
+      693.7638549804688
+    ],
+    "text": "Achenbach, T. M. (1991). Manual for the Child Behavior Checklist/4–18 and 1991 Profile. Burlington: University of Vermont, Department of Psychiatry. Achenbach, T. M. (1995). Youth Self-Report for Ages 11–18. Burlington: University of Vermont, Research Center for Children, Youth, and Families. Achenbach, T. M. (2001). Child Behavior Checklist for Ages 6 to 18. Burlington: University of Vermont, Research Center for Children, Youth, and Families. Achenbach, T. M., & Edelbrock, C. (1983). Manual for the Child Behavior Checklist/4–18 and Revised Behavior Profile. Burlington: University of Vermont, Department of Psychiatry. Achenbach, T. M., & Rescorla, L. A. (2001). Manual for the ASEBA school-age forms & profiles. Burlington: University of Vermont, Research Center for Children, Youth, and Families.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.0,
+      96.01659393310547,
+      482.0711975097656,
+      105.01659393310547
+    ],
+    "text": "American Psychiatric Association. (2000a). Diagnostic and statistical manual of mental disorders (Revised",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.00003051757812,
+      120.01598358154297,
+      482.0807800292969,
+      177.0147705078125
+    ],
+    "text": "American Psychiatric Association. (2000b). Practice guideline for the treatment of patients with major depressive disorder (Revision). American Journal of Psychiatry, 157 (Suppl. 4), 1–45. Barlow, D. H., & Seidner, A. L. (1983). Treatment of adolescent agoraphobics: Effects on parent-adolescent relations. Behaviour Research and Therapy, 21, 519–526. Barrett, P. M. (1998). Evaluation of cognitive-behavioral group treatments for childhood anxiety disorders.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      95.99919128417969,
+      192.01416015625,
+      482.0835266113281,
+      225.0135498046875
+    ],
+    "text": "Barrett, P. M., Dadds, M. R., & Rapee, R. M. (1996). Family treatment of childhood anxiety: A controlled trial. Journal of Consulting and Clinical Psychology, 64, 333–342. Butler, G. (1985). Exposure as treatment for social phobia: Some instructive difficulties. Behaviour Research",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      95.99918365478516,
+      240.012939453125,
+      482.0743408203125,
+      285.01202392578125
+    ],
+    "text": "Butler, G., Cullington, A., Munby, M., Amies, P., & Gelder, M. (1984). Exposure and anxiety management in the treatment of social phobia. Journal of Consulting and Clinical Psychology, 52, 642–650. Choate, M. L., Pincus, D. B., Eyberg, S. M., & Barlow, D. H. (2005). Parent-child interaction therapy for treatment of separation anxiety disorder in young children: A pilot study. Cognitive and Behavioral",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.00006103515625,
+      300.01141357421875,
+      482.0731506347656,
+      309.01141357421875
+    ],
+    "text": "Chorpita, B. F. (2007). Modular cognitive behavior therapy for childhood anxiety disorders. New York: Guilford",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.00003051757812,
+      324.01080322265625,
+      482.0712585449219,
+      345.010498046875
+    ],
+    "text": "Chorpita, B. F., Daleiden, E., & Weisz, J. R. (2005a). Identifying and selecting the common elements of evidence based interventions: A distillation and matching model. Mental Health Services Research, 7,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      95.99996948242188,
+      360.0098876953125,
+      482.08062744140625,
+      477.00714111328125
+    ],
+    "text": "Chorpita, B. F., Daleiden, E., & Weisz, J. R. (2005b). Modularity in the design and application of therapeutic interventions. Applied and Preventative Psychology, 11, 141–156. Chorpita, B. F., Taylor, A. A., Francis, S. E., Moffitt, C. E., & Austin, A. A. (2004). Efficacy of modular cognitive behavior therapy for childhood anxiety disorders. Behavior Therapy, 35, 263–287. Cobham, V. E., Dadds, M. R., & Spence, S. H. (1998). The role of parental anxiety in the treatment of childhood anxiety. Journal of Consulting and Clinical Psychology, 66, 893–905. Cohen, J. A., & Mannarino, A. P. (1996). A treatment outcome study for sexually abused preschool children: Initial findings. Journal of the American Academy of Child and Adolescent Psychiatry, 35, 42–50. Davis, T. E., & Ollendick, T. H. (2005). Empirically supported treatments for specific phobia in children: Do efficacious treatments address the components of a phobic response? Clinical Psychology: Science and",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      95.99998474121094,
+      492.00653076171875,
+      482.07794189453125,
+      513.0062255859375
+    ],
+    "text": "Deblinger, E., McLeer, S. V., & Henry, D. (1990). Cognitive behavioral treatment for sexually abused children suffering post-traumatic stress: Preliminary findings. Journal of the American Academy of Child and",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.00000762939453,
+      528.005615234375,
+      482.072021484375,
+      537.005615234375
+    ],
+    "text": "Doss, B. D. (2004). Changing the way we study change in psychotherapy. Clinical Psychology: Science and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.0,
+      552.0050048828125,
+      482.0780334472656,
+      597.0040893554688
+    ],
+    "text": "Doss, B. D., & Atkins, D. C. (2006). Investigating treatment mediators when simple random assignment to a control group is not possible. Clinical Psychology: Science and Practice, 3, 321–336. Doss, B. D., Thum, Y. M., Sevier, M., Atkins, D. C., & Christensen, A. (2005). Improving relationships: Mechanisms of change in couple therapy. Journal of Consulting and Clinical Psychology, 73,",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.0008544921875,
+      612.0034790039062,
+      482.072021484375,
+      633.003173828125
+    ],
+    "text": "Eisen, A. R., & Silverman, W. K. (1993). Should I relax or change my thoughts? A preliminary examination of cognitive therapy, relaxation training, and their combination with overanxious children. Journal of",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.0008544921875,
+      648.0025634765625,
+      482.07440185546875,
+      657.0025634765625
+    ],
+    "text": "Eisen, A. R., & Silverman, W. K. (1998). Prescriptive treatment for generalized anxiety disorder in children.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      96.0008544921875,
+      672.001953125,
+      482.0833740234375,
+      681.001953125
+    ],
+    "text": "Feske, U., & Chambless, D. L. (1995). Cognitive behavioral versus exposure only treatment for social phobia:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.00003051757812,
+      108.01628875732422,
+      246.91741943359375,
+      117.01628875732422
+    ],
+    "text": "4th ed.). Washington, DC: Author.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.00007629394531,
+      180.01446533203125,
+      302.7904357910156,
+      189.01446533203125
+    ],
+    "text": "Journal of Clinical Child Psychology, 27 (4), 459–468.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      113.99917602539062,
+      228.01324462890625,
+      210.82933044433594,
+      237.01324462890625
+    ],
+    "text": "and Therapy, 23, 651–657.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.00006103515625,
+      288.01171875,
+      193.42420959472656,
+      297.01171875
+    ],
+    "text": "Practice, 12, 126–135.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.00003051757812,
+      312.0111083984375,
+      136.7250518798828,
+      321.0111083984375
+    ],
+    "text": "Press.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.00003051757812,
+      348.01019287109375,
+      135.69004821777344,
+      357.01019287109375
+    ],
+    "text": "5–20.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      113.99998474121094,
+      480.0068359375,
+      193.42413330078125,
+      489.0068359375
+    ],
+    "text": "Practice, 12, 144–160.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0,
+      516.0059204101562,
+      241.0602569580078,
+      525.0059204101562
+    ],
+    "text": "Adolescent Psychiatry, 29, 747–752.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0,
+      540.0053100585938,
+      193.4241485595703,
+      549.0053100585938
+    ],
+    "text": "Practice, 11, 368–386.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0008544921875,
+      600.0037841796875,
+      149.15484619140625,
+      609.0037841796875
+    ],
+    "text": "624–633.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0008544921875,
+      636.0028686523438,
+      247.1361083984375,
+      645.0028686523438
+    ],
+    "text": "Cognitive Psychotherapy, 7, 265–279.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0008544921875,
+      660.0022583007812,
+      228.44400024414062,
+      669.0022583007812
+    ],
+    "text": "Behavior Therapy, 29, 105–121.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      114.0008544921875,
+      684.0016479492188,
+      289.985107421875,
+      693.0016479492188
+    ],
+    "text": "A meta-analysis. Behavior Therapy, 26, 695–720.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 20,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 133",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 21,
+    "bbox": [
+      78.0,
+      74.63975524902344,
+      151.10398864746094,
+      82.63975524902344
+    ],
+    "text": "134 Nakamura et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      78.0,
+      96.01659393310547,
+      464.0849914550781,
+      693.0016479492188
+    ],
+    "text": "Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear: Exposure to corrective information. Psychological Bulletin, 99, 20–35. Foa, E. B., Rothbaum, B. O., & Furr, J. M. (2003). Augmenting exposure therapy with other CBT procedures. Psychiatric Annals, 33, 47–53. Fristad, M. A., Cummins, J., Verducci, J. S., Teare, M., Weller, E. B., & Weller, R. A. (1998a). Study IV: Concurrent validity of the DSM-IV Revised Children’s Interview for Psychiatric Syndromes (ChIPS). Journal of Child and Adolescent Psychopharmacology, 8, 227–236. Fristad, M. A., Cummins, J., Verducci, J. S., Teare, M., Weller, E. B., & Weller, R. A. (1998b). Study V: Children’s Interview for Psychiatric Syndromes (ChIPS): Psychometrics in two community samples. Journal of Child and Adolescent Psychopharmacology, 8, 237–245. Fristad, M. A., Cummins, J., Verducci, J. S., Teare, M., Weller, E. B., & Weller, R. A. (1998c). Study III: Development and concurrent validity of the Children’s Interview for Psychiatric Syndromes-Parent Version (P-ChIPS). Journal of Child and Adolescent Psychopharmacology, 8, 221–226. Hayes, S. C., Barlow, D. H., & Nelson-Gray, R. O. (1999). The scientist practitioner: Research and accountability in the age of managed care. Needham Heights, IL: Allyn & Bacon. Hoag, M. J., & Burlingame, G. M. (1997). Evaluating the effectiveness of child and adolescent group treatment: A meta-analytic review. Journal of Clinical Child Psychology, 26, 234–246. Kane, M. T., & Kendall, P. C. (1989). Anxiety disorders in children: A multiple-baseline evaluation of a cognitive-behavioral treatment. Behavior Therapy, 20, 499–508. Kazdin, A. E. (2000a). Psychotherapy for children and adolescents: Directions for research and practice. New York: Oxford University Press. Kazdin, A. E. (2000b). Understanding change: From description to explanation in child and adolescent psychotherapy and research. Journal of School Psychology, 38, 337–447. Kazdin, A. E. (2001a). Bridging the enormous gaps of theory with therapy research and practice. Journal of Clinical Child Psychology, 30, 59–66. Kazdin, A. E. (2001b). Progression of therapy research and clinical application of treatment require better understanding of the change process. Clinical Psychology: Science and Practice, 8, 143–151. Kazdin, A. E. (2003). Psychotherapy for children and adolescents. Annual Review of Psychology, 54, 253–276. Kazdin, A. E., & Nock, M. K. (2003). Delineating mechanisms of change in child and adolescent therapy: Methodological issues and research recommendations. Journal of Child Psychology and Psychiatry, 44, 1116–1129. Kazdin, A. E., & Weisz, J. R. (1998). Identifying and developing empirically supported child and adolescent treatments. Journal of Consulting and Clinical Psychology, 66, 19–36. Kendall, P. C. (1990). Coping cat workbook. Ardmore, PA: Workbook Publishing. Kendall, P. C. (1994). Treating anxiety disorders in children: Results of a randomized clinical trial. Journal of Consulting and Clinical Psychology, 62, 100–110. Kendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M., Henin, A., & Warman, M. (1997). Therapy for youths with anxiety disorders: A second randomized clinical trial. Journal of Consulting and Clinical Psychology, 65, 366–380. King, N. J., Tonge, B. J., Heyne, D., Pritchard, M., Rollings, S., Young, D., et al. (1998). Cognitive-behavioral treatment of school-refusing children: A controlled evaluation. Journal of the American Academy of Child and Adolescent Psychiatry, 37, 395–403. Kraemer, H. C., Wilson, T., Fairburn, C. G., & Agras, W. S. (2002). Mediators and moderators of treatment effects in randomized clinical trials. Archives of General Psychiatry, 59, 877–883. Lonigan, C. J., & Elbert, J. C. (Eds.). (1998). Special issue on empirically supported psychosocial interventions for children. Journal of Clinical Child Psychology, 27, 138–226. Lumpkin, P. W., Silverman, W. K., Weems, C. F., Markham, M. R., & Kurtines, W. M. (2002). Treating a heterogeneous set of anxiety disorders in youths with group cognitive behavioral therapy: A partially nonconcurrent multiple-baseline evaluation. Behavior Therapy, 33, 163–177.",
+    "line_count": 50,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.0,
+      96.01659393310547,
+      482.0823059082031,
+      261.01263427734375
+    ],
+    "text": "Melamed, B. G., Hawes, R. R., Heiby, E., & Glick, J. (1975). Use of filmed modeling to reduce uncooperative behavior of children during dental treatment. Journal of Dental Research, 54, 797–801. Nakamura, B. J., Ebesutani, C. E., & Bernstein, A. D. (2008). A psychometric analysis of the Child Behavior Checklist DSM-Oriented Scales. Manuscript submitted for publication. Ollendick, T. H. (1995). Cognitive behavioral treatment of panic disorder with agoraphobia in adolescents: A multiple baseline design analysis. Behavior Therapy, 26, 517–531. Silverman, W. K., Kurtines, W. M., Ginsburg, G. S., Weems, C. F., Lumpkin, P. W., & Carmichael, D. H. (1999). Treating anxiety disorders in children with group cognitive-behavioral therapy: A randomized clinical trial. Journal of Consulting and Clinical Psychology, 67, 675–687. Soechting, I., Taylor, S., Freeman, W., De Koning, E., Segerstrom, S., & Thordarson, D. (1998). In vivo exposure for panic disorder and agoraphobia: Does a cognitive rationale enhance treatment efficacy? In E. Sanavio (Ed.), Essays in honor of Hans J. Eysenck (pp. 279–288). Oxford: Elsevier. Teare, M., Fristad, M. A., Weller, E. B., Weller, R. A., & Salmon, P. (1998a). Study I: Development and criterion validity of the Children’s Interview for Psychiatric Syndromes (ChIPS). Journal of Child and",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.0018310546875,
+      276.01202392578125,
+      482.07244873046875,
+      297.01171875
+    ],
+    "text": "Teare, M., Fristad, M. A., Weller, E. B., Weller, R. A., & Salmon, P. (1998b). Study II: Concurrent validity of the DSM-III-R Children’s Interview for Psychiatric Syndromes (ChIPS). Journal of Child and Adoles-",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.0018310546875,
+      312.0111083984375,
+      482.0814514160156,
+      333.01080322265625
+    ],
+    "text": "Weisz, J. R., Weiss, B., Han, S. S., Granger, D. A., & Morton, T. (1995). Effects of psychotherapy with children and adolescents revisited: A meta-analysis of treatment outcome studies. Psychological Bulletin, 117,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.00180053710938,
+      348.01019287109375,
+      482.07379150390625,
+      369.0098876953125
+    ],
+    "text": "Weller, E. B., Weller, R. A., Fristad, M. A., Rooney, M. T., & Schecter, J. (2000). Children’s Interview for Psychiatric Syndromes (ChIPS). Journal of the American Academy of Child and Adolescent Psychiatry,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.00178527832031,
+      384.00927734375,
+      482.0739440917969,
+      417.0086669921875
+    ],
+    "text": "Weller, E. B., Weller, R. A., Rooney, M. T., & Fristad, M. A. (1999a). Children’s Interview for Psychiatric Syndromes - Parent Version (P-ChIPS). Washington, DC: American Psychiatric Press. Weller, E. B., Weller, R. A., Rooney, M. T., & Fristad, M. A. (1999b). ChIPS. Washington, DC: American",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.00177001953125,
+      432.008056640625,
+      424.50738525390625,
+      441.008056640625
+    ],
+    "text": "Wolpe, J. (1958). Psychotherapy by reciprocal inhibition. Oxford: Stanford University Press.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.00265502929688,
+      456.00836181640625,
+      482.0866394042969,
+      477.008056640625
+    ],
+    "text": "Correspondence regarding this article should be directed to Brad Nakamura, PhD, University of Hawaii at Manoa, 2430 Campus Road, Honolulu HI 96822. E-mail: bradn@hawaii.edu",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      114.0018310546875,
+      264.0123291015625,
+      273.2640686035156,
+      273.0123291015625
+    ],
+    "text": "Adolescent Psychopharmacology, 8, 205–211.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 22,
+    "bbox": [
+      114.0018310546875,
+      300.01141357421875,
+      250.47607421875,
+      309.01141357421875
+    ],
+    "text": "cent Psychopharmacology, 8, 213–219.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 22,
+    "bbox": [
+      114.00180053710938,
+      336.010498046875,
+      148.65182495117188,
+      345.010498046875
+    ],
+    "text": "450–468.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 22,
+    "bbox": [
+      114.00180053710938,
+      372.00958251953125,
+      152.90884399414062,
+      381.00958251953125
+    ],
+    "text": "39 , 76–84.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 22,
+    "bbox": [
+      114.00177001953125,
+      420.00836181640625,
+      178.34280395507812,
+      429.00836181640625
+    ],
+    "text": "Psychiatric Press.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 22,
+    "bbox": [
+      382.7367858886719,
+      74.63975524902344,
+      480.0006408691406,
+      82.63975524902344
+    ],
+    "text": "Differential Sequencing 135",
+    "line_count": 1,
+    "column": 2
+  }
+]

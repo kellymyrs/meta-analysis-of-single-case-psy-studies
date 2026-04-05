@@ -1,0 +1,4874 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      110.1622314453125,
+      437.9372253417969,
+      144.03778076171875
+    ],
+    "text": "Acceptance and Commitment Therapy Focused on Repetitive Negative Thinking for Child Depression: A Randomized",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      226.9416961669922,
+      176.52755737304688,
+      446.00201416015625,
+      189.6444549560547
+    ],
+    "text": "& Eduar S. Ramírez 1 & Verónica Cardona-Betancourt 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      256.1373291015625,
+      544.3497924804688,
+      365.70697021484375
+    ],
+    "text": "The current study analyzes the efficacy of acceptance and commitment therapy (ACT) focused on repetitive negative thinking (RNT) for child depression. A randomized, nonconcurrent, multiple-baseline design was conducted with nine children, aged between 8 and 13 years, who showed a main diagnosis of child depression. Measures of psychological inflexibility, RNT, and generalized pliance were administered on a weekly basis throughout the study, whereas measures of emotional symptoms and parents ’ report of problematic behavior were applied at pretreatment, posttreatment, and the 4-week follow-up. All participants showed evidence of a treatment effect for psychological inflexibility and RNT. The standardized mean difference effect sizes for single-case experimental designs were very large for these measures. No participant showed the diagnosis of child depression or comorbid disorders at the 4-week follow-up. Pretreatment to follow-up changes in emotional symptoms and problematic behavior reported by parents were statistically significant, with large effect sizes. RNT-focused ACT interventions for child",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360534667969,
+      391.1205749511719,
+      521.9548950195312,
+      403.0677185058594
+    ],
+    "text": "Keywords Child depression . Acceptance and commitment therapy . Relational frame theory . Repetitive negative thinking",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02375030517578,
+      44.58455276489258,
+      190.84735107421875,
+      53.05274963378906
+    ],
+    "text": "https://doi.org/10.1007/s40732-019-00362-5",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      63.195899963378906,
+      131.875732421875,
+      72.6802978515625
+    ],
+    "text": "ORIGINAL ARTICLE",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      146.04876708984375,
+      230.60772705078125,
+      162.00897216796875
+    ],
+    "text": "Multiple-Baseline Evaluation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      176.52755737304688,
+      214.6950225830078,
+      189.6444549560547
+    ],
+    "text": "Daniela M. Salazar 1 & Francisco J. Ruiz 1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02000045776367,
+      208.76858520507812,
+      225.7395782470703,
+      228.79969787597656
+    ],
+    "text": "Published online: 2 January 2020 # Association for Behavior Analysis International 2020",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      241.30039978027344,
+      87.64513397216797,
+      251.26300048828125
+    ],
+    "text": "Abstract",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360534667969,
+      368.216552734375,
+      214.38726806640625,
+      378.17913818359375
+    ],
+    "text": "depression deserve further empirical tests.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.024627685546875,
+      442.05572509765625,
+      289.23626708984375,
+      589.3573608398438
+    ],
+    "text": "Recent estimations show that approximately 1 – 3% of children suffer from depression (e.g., Costello, Erkanli, & Angold, 2006 ; Egger & Angold, 2006 ; Ford, Goodman, & Meltzer, 2003 ), with few gender differences. These rates of depression contrast significantly with those found in adolescents and adults, where females show higher rates of depression, and the prevalence is about 5 – 10% in most studies (e.g., Avenevoli, Swendsen, He, Burstein, & Merikangas, 2015 ; Kessler & Bromet, 2013 ; Kessler et al., 2003 ; Merikangas et al., 2010 ; Thapar, Collishaw, Pine, & Thapar, 2012 ). In spite of its lower prevalence, child depression is an important concern because of its high comorbidity with other emotional and",
+    "line_count": 12,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      641.8489990234375,
+      189.80557250976562,
+      660.6116333007812
+    ],
+    "text": "* Francisco J. Ruiz franciscoj.ruizj@konradlorenz.edu.co",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.08350372314453,
+      680.5464477539062,
+      278.2695617675781,
+      713.90283203125
+    ],
+    "text": "Fundación Universitaria Konrad Lorenz, Carrera 9 bis, N°62-43, Bogotá, Cundinamarca, Colombia Universitat Oberta de Catalunya, Barcelona, Spain",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.139892578125,
+      442.42498779296875,
+      544.3467407226562,
+      713.9058227539062
+    ],
+    "text": "behavioral disorders (Maughan, Collishaw, & Stringaris, 2013 ) and its persistence. For instance, one-third of the children identified with clinically significant levels of depressive symptoms remained symptomatic in a 2-year longitudinal study (DuBois, Felner, Bartels, & Silverman, 1995 ). In addition, child depression has been associated with important negative consequences such as low academic performance (DuBois et al., 1995 ), disrupted parent-child attachment (Brumariu & Kerns, 2010 ), poor physical health (Fekkes, Pijpers, Fredriks, Vogels, & Verloove-Vanhorick, 2006 ), unsatisfying social relationships (Perren & Alsaker, 2009 ), family dysfunction (Sander & McCarty, 2005 ), higher risk of alcohol problems (Maughan et al., 2013 ), and mortality by suicide (Rao, Weissman, Martin, & Hammond, 1993 ). Psychological interventions for child depression have been considerably less investigated than for adolescent and adult depression, with no child treatment achieving a wellestablished empirical status (Weersing, Jeffreys, Do, Schwartz, & Bolano, 2017 ). Regarding cognitive behavioral therapy (CBT) as a broad intervention, Weersing et al. found that, among the seven high-quality studies identified in their review, only one study showed positive findings favoring",
+    "line_count": 22,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02262878417969,
+      58.7328987121582,
+      289.23419189453125,
+      716.2265625
+    ],
+    "text": "CBT versus waitlist or psychologically inert controls (Kahn, Kehle, Jenson, & Clark, 1990 ). Thus, CBT only met the criteria for possibly efficacious treatment for child depression. Less high-quality studies were found for behavior therapy (BT), which also met the criteria for possibly efficacious treatment. Considering broader eligibility study criteria, Zhou et al. ( 2015 ) found that interpersonal therapy (IPT) and CBT had lower effects in treating child depression compared to adolescent depression. Nevertheless, they concluded that IPT and CBT should be considered as the best available approaches for child and adolescent depression. More recently, Yang et al. ( 2017 ) identified nine studies analyzing the efficacy of CBT against control conditions. At posttreatment, CBT was more effective than control conditions, but the weighted effect size was small to medium ( d = 0.41, 95% CI [0.18, 0.64]. In addition, subgroup analyses showed that CBT was more effective than nontreatment conditions but equally effective than waitlist or psychological placebo. In summary, the treatments for child depression tested so far have obtained mixed evidence, with small to medium effect sizes. Thus, further research is needed to establish the efficacy of CBT, BT, and IPT for child depression. Also, new psychological interventions need to be developed and tested for child depression. It is interesting that few studies have been conducted testing the efficacy of contextual cognitive-behavioral therapies for child depression. In recent years, there has been a growing interest in identifying transdiagnostic processes involved in emotional disorders and developing psychological interventions targeting them, such as acceptance and commitment therapy (ACT; Hayes, Strosahl, & Wilson, 1999 ), metacognitive therapy (MCT; Wells, 2009 ), and rumination-focused cognitive-behavioral therapy for depression (RF-CBT; Watkins, 2016 ). For instance, ACT was initially developed for the treatment of experiential avoidance (Hayes & Wilson, 1994 ) and has been redefined in broader terms for the treatment of psychological inflexibility (Hayes & Strosahl, 2004 ). Regarding MCT and RF-CBT, they were developed focusing on dismantling dysfunctional patterns of worry and rumination, which have been included under the term repetitive negative thinking (RNT; Ehring & Watkins, 2008 ; Watkins, 2008 ). However, to our knowledge, none of these approaches have been analyzed in child depression: ACT has been analyzed in the treatment of depression and anxiety disorders in adolescents (Hayes, Boyd, & Sewell, 2011 ; Petts, Duenas, & Gaynor, 2017 ; Swain, Hancock, Dixon, & Bowman, 2015 ), whereas MCT in the treatment of generalized anxiety disorders in children (Esbjørn, Normann, Christiansen, & Reinholdt-Dunne, 2018 ). In the last few years, brief ACT protocols have been developed and tested in adults, which explicitly include the links among experiential avoidance, RNT, and psychological inflexibility (Dereix-Calonge, Ruiz, Sierra, Peña-Vargas, & Ramírez,",
+    "line_count": 53,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.13763427734375,
+      58.71989822387695,
+      544.3572998046875,
+      716.230712890625
+    ],
+    "text": "2019 ; Ruiz et al., 2018 ; Ruiz, García-Beltrán, MonroyCifuentes, & Suárez-Falcón, 2019 ; Ruiz, Riaño-Hernández, Suárez-Falcón, & Luciano, 2016 ). This approach has been termed RNT-focused ACT. In brief, psychological inflexibility entails the dominance of private experiences over chosen values and contingencies in guiding action (Bond et al., 2011 ). One of the main processes involved in psychological inflexibility is experiential avoidance, which is a pattern of verbal regulation based on deliberate efforts to either avoid or escape from discomfiting private experiences (Hayes, Wilson, Gifford, Follette, & Strosahl, 1996 ; Luciano & Hayes, 2001 ). Ruiz et al. ( 2016 ) suggested that RNT in the form of worry and rumination is an especially maladaptive experiential avoidance strategy because: (a) RNT tends to be the first reaction to fear, the perception of not attaining personally relevant goals, and feelings of incoherence; (b) RNT tends to prolong negative affect (e.g., Newman & Llera, 2011 ), which usually leads to (c) engagement in additional experiential avoidance strategies in an attempt to reduce prolonged discomfort (e.g., Caselli et al., 2013 ; Nolen-Hoeksema, Stice, Wade, & Bohon, 2007 ; Wells, 2009 ); and (d) the repetition of this cycle generates an inflexible and maladaptive repertoire. The practical implication of this account is that ACT protocols primarily focused on dismantling unconstructive RNT should produce quick changes and be particularly effective for the treatment of emotional disorders. The study by Ruiz et al. ( 2016 ) showed that a 1-session, RNT-focused ACT protocol was sufficient to significantly reduce RNT, with very large effect sizes, among adult participants suffering from mild to moderate emotional disorders. Subsequent studies have shown that brief RNT-focused ACT protocol (two- to threesession protocols) obtained very large effect sizes in treating moderate and severe emotional disorders, mainly depression and generalized anxiety disorders (Ruiz et al., 2018 ; Ruiz, García-Beltrán et al., 2019 ). In addition, Dereix-Calonge et al. ( 2019 ) showed that a web-based RNT-focused protocol was effective in reducing emotional symptoms and improving valued living in clinical psychology trainees compared to a waitlist control. To our knowledge, RNT-focused ACT protocols have not been tested in children in spite of the fact that RNT is a frequent phenomenon in children (Henker, Whalen, & O ’ Neil, 1995 ; P ă s ă relu et al., 2016 ; Silverman, LaGreca, & Wasserstein, 1995 ). In particular, rumination has been closely associated with concurrent levels of depressive symptoms in children (Abela, Vanderbilt, & Rochon, 2004 ) and predicts their increase over time (Abela, Aydin, & Auerbach, 2007 ; Abela, Brozina, & Haigh, 2002 ). Thus, the aim of this study was to evaluate the efficacy of a three-session RNT-focused ACT protocol in child depression. A nonconcurrent, randomized, multiple-baseline design was conducted where the effect of the protocol was directly replicated in nine participants with the main diagnosis of child depression. The SCRIBE",
+    "line_count": 53,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      86.0599365234375,
+      526.2283325195312,
+      375.67138671875,
+      534.696533203125
+    ],
+    "text": "Demographical data, K-BIT scores, and diagnoses at baseline and the 4-week follow-up",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76759338378906,
+      588.2504272460938,
+      381.36090087890625,
+      596.7186279296875
+    ],
+    "text": "Depression, separation anxiety, ADHD (combined)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76844787597656,
+      613.6488647460938,
+      340.05816650390625,
+      622.1170654296875
+    ],
+    "text": "Depression, ADHD (combined), ODD",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.7684326171875,
+      639.0472412109375,
+      336.16107177734375,
+      647.5154418945312
+    ],
+    "text": "Depression, ADHD (attention), ODD",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      697.1243286132812,
+      544.2483520507812,
+      705.9088745117188
+    ],
+    "text": "Note. ADHD = Attention-Deficit Hyperactivity Disorder; GAD = Generalized Anxiety Disorder, K-BIT = Kaufman — Brief Intelligence Test, ODD =",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023597717285156,
+      58.7328987121582,
+      289.1606750488281,
+      81.11090087890625
+    ],
+    "text": "statement (Tate et al., 2016 ) was followed to guide the reporting of this single-case experimental design.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      104.3221206665039,
+      92.22088623046875,
+      116.2772216796875
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      132.68450927734375,
+      103.93694305419922,
+      143.6435089111328
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      158.45579528808594,
+      289.19744873046875,
+      492.24066162109375
+    ],
+    "text": "Nine children aged between 8 and 13 years participated in the study. Participants were recruited through advertisements in social media beginning with the question: “ Do you think your child is irritable or sad? ” The parents of 15 children showed interest in the study and attended an assessment interview with their children. The inclusion criteria were: (a) child between 8 – 13 years old, (b) presenting the main diagnosis of child depression according to the Mini International Neuropsychiatric Interview for Kids and Adolescents (MINI KID; Sheehan, Shytle, Milo, Janavs, & Lecrubier, 2009 ) diagnostic interview and clinician ’ s judgment, and (c) showing a verbal intelligent quotient (IQ) higher than 70 according to the Kaufman Brief Intelligence Test (K-BIT; Kaufman & Kaufman, 1990 ). The latter inclusion criterion was selected to guarantee that the child had a minimum verbal repertoire to conduct the intervention. The exclusion criteria were: (a) current psychological/psychiatric treatment, (b) having a psychological diagnosis prior to the study, and (c) presenting a high risk of suicide according to the MINI KID. The second exclusion criterion was adopted to avoid recruiting children with significant experience with assessment and therapeutic contexts, which might act as an extraneous variable. No participant was excluded for this reason. The application of the inclusion and exclusion criteria led to the rejection of six potential participants: an individual was",
+    "line_count": 27,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      526.1331787109375,
+      75.46028900146484,
+      534.6013793945312
+    ],
+    "text": "Table 1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      69.84587097167969,
+      545.1073608398438,
+      136.34495544433594,
+      553.5755615234375
+    ],
+    "text": "Sex Age Grade",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      146.32557678222656,
+      545.1073608398438,
+      202.69247436523438,
+      553.5755615234375
+    ],
+    "text": "K-BIT Verbal IQ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76963806152344,
+      545.1073608398438,
+      275.8847961425781,
+      553.5755615234375
+    ],
+    "text": "Diagnoses baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.22026062011719,
+      573.6445922851562,
+      125.12161254882812,
+      584.01953125
+    ],
+    "text": "5 th",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76844787597656,
+      575.5511474609375,
+      271.8570251464844,
+      584.0193481445312
+    ],
+    "text": "Depression, GAD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023590087890625,
+      575.5513305664062,
+      74.52030181884766,
+      584.01953125
+    ],
+    "text": "P1 F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      586.3438110351562,
+      125.46202850341797,
+      596.71826171875
+    ],
+    "text": "3 rd",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      588.2500610351562,
+      77.34075164794922,
+      596.71826171875
+    ],
+    "text": "P2 M",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      599.0997924804688,
+      125.46202850341797,
+      609.4175415039062
+    ],
+    "text": "3 rd",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      600.9493408203125,
+      77.34075164794922,
+      609.4175415039062
+    ],
+    "text": "P3 M",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76844787597656,
+      600.9496459960938,
+      271.8570251464844,
+      609.4178466796875
+    ],
+    "text": "Depression, ODD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      611.7990112304688,
+      125.46202850341797,
+      622.1167602539062
+    ],
+    "text": "3 rd",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      613.6485595703125,
+      74.52084350585938,
+      622.1167602539062
+    ],
+    "text": "P4 F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      624.4981689453125,
+      125.12161254882812,
+      634.81591796875
+    ],
+    "text": "5 th",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      626.3477172851562,
+      77.34075164794922,
+      634.81591796875
+    ],
+    "text": "P5 M",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.7684326171875,
+      626.3480224609375,
+      249.69740295410156,
+      634.8162231445312
+    ],
+    "text": "Depression",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.22080993652344,
+      637.1973876953125,
+      125.12161254882812,
+      647.51513671875
+    ],
+    "text": "6 th",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      639.0469360351562,
+      77.34075164794922,
+      647.51513671875
+    ],
+    "text": "P6 M",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      649.8965454101562,
+      125.46202850341797,
+      660.21435546875
+    ],
+    "text": "3 rd",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      651.7461547851562,
+      77.34075164794922,
+      660.21435546875
+    ],
+    "text": "P7 M",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.76844787597656,
+      651.7463989257812,
+      271.8570251464844,
+      660.214599609375
+    ],
+    "text": "Depression, ODD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      662.5957641601562,
+      125.12161254882812,
+      672.91357421875
+    ],
+    "text": "7 th",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      664.4453735351562,
+      74.52084350585938,
+      672.91357421875
+    ],
+    "text": "P8 F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.7684326171875,
+      664.4456176757812,
+      249.69740295410156,
+      672.913818359375
+    ],
+    "text": "Depression",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.2208023071289,
+      675.2949829101562,
+      125.12161254882812,
+      685.6127319335938
+    ],
+    "text": "5 th",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024131774902344,
+      677.14453125,
+      74.52084350585938,
+      685.6127319335938
+    ],
+    "text": "P9 F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      212.7684326171875,
+      677.1449584960938,
+      249.69740295410156,
+      685.6131591796875
+    ],
+    "text": "Depression",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.024139404296875,
+      707.4187622070312,
+      152.3546142578125,
+      715.886962890625
+    ],
+    "text": "Oppositional Defiant Disorder.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.14288330078125,
+      58.72710037231445,
+      544.3318481445312,
+      180.7689208984375
+    ],
+    "text": "younger than 8 years and five did not meet the depression criteria as the main diagnosis. The final sample consisted of nine participants ( n = 4 girls; mean age = 10.22, SD = 2.11). Table 1 shows the demographic data of the participants and diagnostic categories met. Six participants showed comorbid disorders (oppositional defiant disorder in four participants, attention-deficit hyperactivity disorder in three, generalized anxiety disorder in one, and separation anxiety in one). Verbal IQ scores on the K-BIT ranged from 76 to 126 ( M = 100.78, SD = 18.16)",
+    "line_count": 10,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      207.2923583984375,
+      400.6411437988281,
+      218.25135803222656
+    ],
+    "text": "Design and Variables",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      233.06358337402344,
+      544.32373046875,
+      492.07220458984375
+    ],
+    "text": "A three-arm, nonconcurrent, randomized multiple-baseline design across participants was implemented. Each cohort consisted of three participants. Participants in Cohort 1 received the intervention after collecting 4 weeks of baseline, participants in Cohort 2 after collecting 5 weeks of baseline, and participants in Cohort 3 after collecting 6 weeks of baseline. The randomization was conducted using the web-based tool Research Randomized (Urbaniak & Plous, 2013 ). The implemented randomization procedure was conducted because it significantly improves the internal validity of multiple baseline designs (Kratochwill & Levin, 2010 ). The independent variable of the study was the staggered introduction of a three-session RNTfocused ACT protocol. Dependent variables were measures of psychological inflexibility, RNT, generalized pliance, emotional symptoms, diagnostic categories met according to the MINI KID, and internalizing/externalizing symptoms according to the parent with closer contact with the child. Measures of psychological inflexibility, RNT, and generalized pliance were applied on a weekly basis, whereas the remaining measures were administered at pretreatment, posttreatment, and 4-week follow-up to avoid participants ’ burden.",
+    "line_count": 21,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.35211181640625,
+      545.1073608398438,
+      472.1403503417969,
+      553.5755615234375
+    ],
+    "text": "Diagnoses posttreatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6461181640625,
+      545.1073608398438,
+      544.235107421875,
+      563.4968872070312
+    ],
+    "text": "Diagnoses 4-week follow-up",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3509521484375,
+      575.5511474609375,
+      409.2815246582031,
+      584.0193481445312
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.646728515625,
+      575.5511474609375,
+      501.5773010253906,
+      584.0193481445312
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.350830078125,
+      588.2504272460938,
+      409.2814025878906,
+      596.7186279296875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6466064453125,
+      588.2504272460938,
+      501.5771789550781,
+      596.7186279296875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3509521484375,
+      600.9496459960938,
+      409.2815246582031,
+      609.4178466796875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.646728515625,
+      600.9496459960938,
+      501.5773010253906,
+      609.4178466796875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.35089111328125,
+      613.6488647460938,
+      409.2814636230469,
+      622.1170654296875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.64666748046875,
+      613.6488647460938,
+      501.5772399902344,
+      622.1170654296875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3517761230469,
+      626.3480224609375,
+      409.2823486328125,
+      634.8162231445312
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6475524902344,
+      626.3480224609375,
+      501.578125,
+      634.8162231445312
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3517150878906,
+      639.0472412109375,
+      473.5702819824219,
+      647.5154418945312
+    ],
+    "text": "ADHD (attention), ODD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6474304199219,
+      639.0472412109375,
+      501.5780029296875,
+      647.5154418945312
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3509521484375,
+      651.7463989257812,
+      409.2815246582031,
+      660.214599609375
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.646728515625,
+      651.7463989257812,
+      501.5773010253906,
+      660.214599609375
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3517761230469,
+      664.4456176757812,
+      409.2823486328125,
+      672.913818359375
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6475524902344,
+      664.4456176757812,
+      501.578125,
+      672.913818359375
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      391.3517761230469,
+      677.1449584960938,
+      409.2823486328125,
+      685.6131591796875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      483.6475524902344,
+      677.1449584960938,
+      501.578125,
+      685.6131591796875
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      57.849853515625,
+      104.8443374633789,
+      68.80885314941406
+    ],
+    "text": "Instruments",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      83.50912475585938,
+      289.2344055175781,
+      255.49481201171875
+    ],
+    "text": "Avoidance and Fusion Questionnaire-Youth (AFQ-Y; Greco, Lambert, & Baer, 2008 ; Spanish version by Salazar et al., 2019 ). The AFQ-Y consists of 17 items, which are rated on a 5-point Likert-type scale (4 = very true ; 0 = not at all true ) and measures psychological inflexibility (e.g., “ The bad things I think about myself must be true, ” “ I push away thoughts and feelings that I don ’ t like ” ). The AFQ-Y was originally developed and validated in the United States (Greco et al., 2008 ). The original study found an alpha of .90 and a one-factor structure. The AFQ-Y has shown a onefactor structure and excellent psychometric properties (alpha of .89) in Colombia (Salazar et al., 2019 ). The mean score of the AFQ-Y in a large Colombian nonclinical sample was 25.70 ( SD = 15.19).",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.024627685546875,
+      270.3078308105469,
+      289.2372741699219,
+      404.87701416015625
+    ],
+    "text": "Perseverative Thinking Questionnaire-Children (PTQ-C; Bijttebier, Raes, Vasey, Bastin, & Ehring, 2015 ; Spanish version by Ruiz, Salazar et al., in press). The PTQ-C consists of 15 items with a 5-point Likert-type scale (4 = almost always , 0 = never ) that measure RNT in children and adolescents (e.g., “ The same thoughts keep going through my mind again and again ” ). The PTQ-C showed excellent psychometric properties (alpha of .93) and a one-factor structure in Colombia (Ruiz, Salazar et al., in press). The mean score of the PTQ-C in a large Colombian nonclinical sample was 23.16 ( SD = 15.21).",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02461242675781,
+      419.746826171875,
+      289.2383117675781,
+      566.7882080078125
+    ],
+    "text": "Generalized Pliance Questionnaire-Children (GPQ-C; Salazar, Ruiz, Flórez, & Suárez-Falcón, 2018 ). The GPQ-C consists of eight items that are responded on a 5-point Likert-type scale (5 = always true , 1 = never true ). The questionnaire is the result of reducing the original GPQ for adults (Ruiz, Suárez-Falcón, Barbero-Rubio, & Flórez, 2019 ) by removing items with typical adult content and changing the wording of some items from the original version to facilitate children ’ s understanding. The GPQ-C showed good internal consistency (alpha of .81) in Colombian children and a one-factor structure (Salazar et al., 2018 ). The mean score of the GPQ-C in a large Colombian nonclinical sample was 20.30 ( SD = 7.83).",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      581.6012573242188,
+      289.22735595703125,
+      716.2415771484375
+    ],
+    "text": "Depression, Anxiety, and Stress Scale-Children The DASS-C is an adaptation of the DASS-21 (Lovibond & Lovibond, 1995 ) for children. It is a 24-item, 4-point Likert-type scale (3 = applies most of the time , 0 = does not apply ) consisting of sentences describing negative emotional states (e.g., “ I felt tense and uptight ” ). It contains three subscales (depression, anxiety, and stress) and has shown good internal consistency and convergent and discriminant validity. The method described in Muñiz, Elosua, and Hambleton ( 2013 ) was used to translate the DASS-C into Spanish. Alpha values in a previous study with a large Colombian nonclinical sample were",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1408386230469,
+      58.7348518371582,
+      544.3426513671875,
+      106.05718994140625
+    ],
+    "text": "acceptable (.78, .79, and .69; Salazar et al., 2018 ), with a mean score for the overall scale of 19.40 ( SD = 12.92), for depression 5.18 ( SD = 5.02), for anxiety 5.82 ( SD = 5.37), and for stress 8.91 ( SD = 4.89).",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1408386230469,
+      120.87020874023438,
+      544.3178100585938,
+      267.91156005859375
+    ],
+    "text": "Mental International Neuropsychiatric Interview for Kids and Adolescents (MINI KID; Sheehan et al., 2009 ; Spanish adaptation by Colón-Soto, Díaz, Soto, & Santana, 2005 ). The MINI KID is a brief diagnostic interview that explores the main psychiatric disorders of Axis I of the DSM-IV-TR and the CIE-10. The administration of the MINI KID takes approximately 15 minutes and consists of different modules identified by letters belonging to a specific diagnostic category. The questions in each module have a YES or NO answer. At the beginning of each module, there are filter questions that allow advancing more quickly in the interview by ruling out the presence of specific disorders.",
+    "line_count": 12,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.140869140625,
+      282.5210876464844,
+      544.3496704101562,
+      442.2381286621094
+    ],
+    "text": "Child Behavior Checklist for Ages 6 – 18 Years Old (CBCL/6 – 18; Achenbach & Rescorla, 2001 ) The CBCL is a questionnaire used to assess behavioral issues in children ages 6 – 18 years old as reported by the parents. It consists of 113 items that parents respond to on a 3-point Likert-type scale (2 = very true or often true , 0 = not true ). The instrument has shown excellent internal consistency and validity. The CBCL assesses a wide range of behavior domains including anxiety/ depression, withdrawal/depression, somatic concerns, social problems, thought problems, attention problems, rulebreaking behavior, and aggressive behavior. The CBCL provides an overall score, and internalizing, externalizing and mixed problem scores.",
+    "line_count": 13,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.142822265625,
+      457.1079406738281,
+      544.3338623046875,
+      579.26171875
+    ],
+    "text": "Kaufman Brief Intelligence Test-2 (KBIT-2; Kaufman & Kaufman, 1990 ). The KBIT-2 is a brief (approximately 20 min) intelligence test for individuals 4 – 90 years old. It was designed for traditional brief assessment purposes, such as screening, conducting periodic cognitive reevaluations, and assessing cognitive functioning when it is a secondary consideration. It assesses both verbal and nonverbal intelligence. Only the verbal scale was administered, which has two types of items that evaluate crystallized ability: verbal knowledge and riddles.",
+    "line_count": 10,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1416931152344,
+      593.3143310546875,
+      424.74432373046875,
+      604.2733154296875
+    ],
+    "text": "RNT-Focused ACT Protocol",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.14068603515625,
+      619.0855712890625,
+      544.3245849609375,
+      716.2398681640625
+    ],
+    "text": "The protocol consisted of three, individual, 40-min sessions. It was based on the relational frame theory ’ s (RFT; Hayes, Barnes-Holmes, & Roche, 2001 ) definition of psychological flexibility and the formation of the self (Luciano, 2017 ; Luciano, Valdivia-Salas, & Ruiz, 2012 ; Ruiz & Perete, 2015 ; Törneke, Luciano, Barnes-Holmes, & Bond, 2016 ) and on previous similar protocols used in Ruiz et al. ( 2016 , 2018 ). The aim of the protocol was to develop the ability to",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      112.28225708007812,
+      53.796512603759766,
+      120.55024719238281,
+      407.4515686035156
+    ],
+    "text": "as a person; (b) being the “ slave ” of our thoughts and feelings because we move away from what is important for us.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      254.54049682617188,
+      53.80657196044922,
+      262.51068115234375,
+      407.4500732421875
+    ],
+    "text": "the triggers for RNT and go back to the valued action. This exercise is done with the two situations identified in the",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.15347290039062,
+      53.82842254638672,
+      158.4214630126953,
+      415.955810546875
+    ],
+    "text": "• Examining how the child can be the “ wise king ” or the “ slave ” in eight daily life situations. Emphasis on RNT as the",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      216.4281005859375,
+      53.82953643798828,
+      224.6960906982422,
+      415.9542541503906
+    ],
+    "text": "• Go around exercise: while doing something symbolically valuable, the therapist shows a trigger for RNTon a card and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      93.34664916992188,
+      53.84015655517578,
+      111.08244323730469,
+      415.9557189941406
+    ],
+    "text": "• Stating that we have thoughts and feelings all day and we have to choose between: (a) being the “ wise king ” by doing things that make us to feel proud of ourselves because we want to be that way, we are being responsible and growing",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      235.6049041748047,
+      53.85340881347656,
+      253.04290771484375,
+      407.4500732421875
+    ],
+    "text": "participant makes a loop, she says the next thought of the chain and chooses to make another loop (the same process is repeated 8 times). Then, the participant is invited to engage again in the valued action and choose just to observe",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      121.75006103515625,
+      55.76435089111328,
+      130.01805114746094,
+      415.95501708984375
+    ],
+    "text": "• Introducing two examples of EA and RNT and two examples of VA, and situating them on a rug depicting the two",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      226.13710021972656,
+      75.00450897216797,
+      234.1072998046875,
+      407.4500732421875
+    ],
+    "text": "the participant stops her actions and begins the RNT process going around a chair in circles. Every time the",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      169.08908081054688,
+      128.38232421875,
+      186.8248748779297,
+      415.955078125
+    ],
+    "text": "• Asking the child to realize to what direction her actions go and to try to be the “ wise king. ” • Summarizing what things seem important for the child in view of the previous responses.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      140.6856689453125,
+      168.09466552734375,
+      148.9536590576172,
+      415.955810546875
+    ],
+    "text": "• Asking the child to classify six new examples of EA and RNT (3) and VA (3).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      188.02468872070312,
+      171.593505859375,
+      215.22828674316406,
+      415.95428466796875
+    ],
+    "text": "• Exploration of actions as the “ wise king ” or the “ slave ” since the last session. • Identify two typical situations in which the child engages in RNT. • Introducing RNT as being the “ slave ” of thoughts.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      159.62127685546875,
+      282.8152770996094,
+      167.88926696777344,
+      407.45166015625
+    ],
+    "text": "beginning of choosing to be the “ slave. ”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      131.51565551757812,
+      314.42181396484375,
+      139.48585510253906,
+      407.45159912109375
+    ],
+    "text": "options as opposed directions.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      73.30903625488281,
+      336.9245300292969,
+      81.77723693847656,
+      415.958984375
+    ],
+    "text": "Therapeutic interactions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      264.00830078125,
+      361.16552734375,
+      271.9784851074219,
+      407.4500732421875
+    ],
+    "text": "previous point.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      112.58003234863281,
+      421.8872985839844,
+      120.55023193359375,
+      675.43994140625
+    ],
+    "text": "2. Practicing the differentiation between experiential avoidance (EA) and repetitive",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      197.790283203125,
+      433.5893249511719,
+      205.76048278808594,
+      675.4385375976562
+    ],
+    "text": "2. Identifying the counterproductive effect of RNT and defusing from triggers.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      93.6444320678711,
+      440.5342102050781,
+      101.61463165283203,
+      675.4391479492188
+    ],
+    "text": "1. Differentiating between psychological inflexibility (PI) and psychological",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      122.04783630371094,
+      468.5359802246094,
+      139.48583984375,
+      675.43994140625
+    ],
+    "text": "negative thinking (RNT) reactions (PI) and valued actions (VA). 3. Examining options for PI and PF in daily life.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      188.32247924804688,
+      540.8336181640625,
+      196.2926788330078,
+      675.4385375976562
+    ],
+    "text": "1. Review experience since the last session.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      140.9834442138672,
+      561.9298095703125,
+      148.95364379882812,
+      675.43994140625
+    ],
+    "text": "4. Commitments for the next session",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      207.25808715820312,
+      563.023681640625,
+      215.22828674316406,
+      675.4385375976562
+    ],
+    "text": "3. Commitment for the next session.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.43003463745117,
+      577.2239990234375,
+      62.898231506347656,
+      678.8406982421875
+    ],
+    "text": "Summary of the ACT protocol",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      103.11222839355469,
+      589.9771118164062,
+      111.08242797851562,
+      666.9357299804688
+    ],
+    "text": "flexibility (PF) reactions.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      73.30903625488281,
+      657.5550537109375,
+      81.77723693847656,
+      675.4364624023438
+    ],
+    "text": "Aims",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      188.32247924804688,
+      684.3125,
+      196.2926788330078,
+      713.8764038085938
+    ],
+    "text": "Session 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      93.6444320678711,
+      684.3131103515625,
+      101.61463165283203,
+      713.8770141601562
+    ],
+    "text": "Session 1",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.33487319946289,
+      689.4429321289062,
+      62.803070068359375,
+      713.8770141601562
+    ],
+    "text": "Table 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      207.25808715820312,
+      690.8441162109375,
+      215.22828674316406,
+      705.3721923828125
+    ],
+    "text": "min)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      112.58003234863281,
+      690.8447265625,
+      120.55023193359375,
+      705.372802734375
+    ],
+    "text": "min)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      73.30903625488281,
+      694.696533203125,
+      81.77723693847656,
+      713.8770141601562
+    ],
+    "text": "Phase",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      197.790283203125,
+      695.0372314453125,
+      205.76048278808594,
+      705.3721923828125
+    ],
+    "text": "(40",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      103.11222839355469,
+      695.037841796875,
+      111.08242797851562,
+      705.372802734375
+    ],
+    "text": "(40",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      388.0511474609375,
+      53.85096740722656,
+      396.0213317871094,
+      407.45172119140625
+    ],
+    "text": "and the therapist says eight words separated approximately by 10 s. The participant has to notice what thought comes",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      282.94390869140625,
+      53.86370849609375,
+      290.9140930175781,
+      407.45086669921875
+    ],
+    "text": "RNT in the form of small balls. The child can choose between avoiding the contact of the balls and not advancing or",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      435.0923767089844,
+      53.88299560546875,
+      462.29595947265625,
+      415.95745849609375
+    ],
+    "text": "• The therapist asks the participant to list some valued actions that the she could do instead of being entangled with her • Writing with the nondominant hand: The participant writes for 2 min with her nondominant hand while noticing the",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      378.2855529785156,
+      54.05060577392578,
+      386.55352783203125,
+      415.95599365234375
+    ],
+    "text": "• Playing “ Where ’ s Wally ” and free association exercise (based on Wells, 2009 ): The child is asked to look for Wally",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      273.1783142089844,
+      55.74749755859375,
+      281.4462890625,
+      415.95428466796875
+    ],
+    "text": "• Balls as triggers exercise: The child is asked to walk toward a valued direction, but the therapist throws triggers for",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      301.58172607421875,
+      58.18956756591797,
+      309.8497009277344,
+      415.955078125
+    ],
+    "text": "• Eye-contact exercise (Hayes et al., 1999 ): The participant and therapist look into each other's eyes for 2 min while",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      406.68896484375,
+      58.437198638916016,
+      424.42474365234375,
+      415.9559020996094
+    ],
+    "text": "• Daydreaming and worrying exercise (based on Wells, 2009 ): The participant is invited to daydream for 2 minutes. Every 20 s, the therapist asks the participant to notice what she was thinking and how she could choose between",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      349.88214111328125,
+      62.44879913330078,
+      358.1501159667969,
+      415.9560241699219
+    ],
+    "text": "• Multiple-exemplar training in defusion based on Luciano et al. (2011) and Ruiz and Perete ( 2015 ): hierarchically",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      463.49578857421875,
+      64.65906524658203,
+      471.7637634277344,
+      407.4540710449219
+    ],
+    "text": "thoughts ( “ things that make her proud at the end of the day ” ), to identify barriers, and establish commitment to",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      329.9851379394531,
+      69.2091064453125,
+      338.25311279296875,
+      415.95587158203125
+    ],
+    "text": "• Asking the child to realize in what direction her actions go and to try not to engage in counterproductive RNT.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      359.3499450683594,
+      84.3784408569336,
+      367.617919921875,
+      407.4517822265625
+    ],
+    "text": "framing the ongoing thoughts and feelings with the deictic “ I ” and providing regulatory functions to that",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      397.5189514160156,
+      136.8223876953125,
+      405.4891357421875,
+      407.45172119140625
+    ],
+    "text": "to her mind and chooses between entangling with it and following the search for Wally.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      425.92236328125,
+      159.92327880859375,
+      433.8925476074219,
+      407.4524841308594
+    ],
+    "text": "following or stopping the process. The same process was repeated with a worry.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      340.4143371582031,
+      171.59527587890625,
+      348.68450927734375,
+      415.95587158203125
+    ],
+    "text": "• Exploration of actions as the “ wise king ” or the “ slave ” since the last session.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      292.4117126464844,
+      188.5601806640625,
+      300.38189697265625,
+      407.45086669921875
+    ],
+    "text": "letting the balls contact her and advancing toward the valued direction.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      472.9635925292969,
+      214.50189208984375,
+      481.2315673828125,
+      407.4540710449219
+    ],
+    "text": "practice the exercises in order to choose to be the “ wise king. ”",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.3473205566406,
+      215.3193359375,
+      319.3175048828125,
+      407.45166015625
+    ],
+    "text": "noticing every thought and emotion and choosing to continue.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      444.85797119140625,
+      220.48040771484375,
+      452.8281555175781,
+      407.4532470703125
+    ],
+    "text": "discomfort, not entangling with it, and choosing to continue.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      320.517333984375,
+      263.788818359375,
+      328.7853088378906,
+      415.95587158203125
+    ],
+    "text": "• Asking what the child was learnt in the session.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      369.11553955078125,
+      361.4709777832031,
+      377.0857238769531,
+      407.4517822265625
+    ],
+    "text": "discrimination.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      340.7143249511719,
+      540.835205078125,
+      367.6201171875,
+      713.8779296875
+    ],
+    "text": "1. Review experience since the last session. 3. Identification of valued actions 2. Developing defusion skills. Session 3 min) (40",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      58.7328987121582,
+      289.2272644042969,
+      367.51666259765625
+    ],
+    "text": "discriminate ongoing triggers for worry/rumination, take distance from them (i.e., defusion), and behave according to what is most important at that moment for the individual in the long term (i.e., values). Table 2 presents the content of the three protocol sessions (a complete description of the protocol can be found at https:// osf.io/ub2n8/ ). The aims of Session 1 were (a) to establish the differentiation between psychological inflexibility (PI) and psychological flexibility (PF) reactions through multiple examples, (b) to practice the differentiation between PI and PF, (c) to examine options for PI and PF in the child ’ s daily life, and (d) to establish the child ’ s commitment to realize whether she was reacting in an inflexible or flexible way toward her ongoing private experiences until the next session. The objectives of Session 2 were (a) to review the experience since the last session and advances in discrimination of PI and PF, (b) to identify the counterproductive effects of RNT and practice defusing from its triggers, and (c) to establish the commitment to continue practicing the differentiation between PI and PF, and to try not to engage in counterproductive RNT. Lastly, the aims of Session 3 were (a) to review examples of inflexible and flexible reactions since the last session, (b) to develop defusion skills through multiple exemplar training, and (c) to identify valued actions and barriers and to establish the committed actions for the next weeks.",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      381.623046875,
+      96.5209732055664,
+      392.5820617675781
+    ],
+    "text": "Procedure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02359390258789,
+      407.394287109375,
+      289.2252197265625,
+      716.23486328125
+    ],
+    "text": "The study was conducted in the clinical psychology laboratory of a Colombian university. The procedures of the study were approved by the Internal Ethics Committee. The parents who showed interest in the research were invited to an assessment and informative session with their children, led by the first and/or third authors. In this session, the parents responded to the CBCL, and the K-BIT, MINI KID, AFQ-Y, PTQ-C, GPQC, and DASS-C were administered to the children. Parents ’ of children who did not meet the inclusion criteria were given options for inexpensive psychological treatment. If the children were eligible, the study functioning was presented to the parents and the child, and both signed the informed consents. All eligible individuals agreed to participate in the study. Afterward, participants and experimenters agreed on how the children would respond to the AFQ-Y, PTQ-C, and GPQ-C on a weekly basis. During the following weeks (4 – 6 weeks depending on the cohort randomly assigned to the participant), participants provided the baseline data. After collecting the baseline data, the protocol was implemented in an individual format exclusively with the children. The ACT protocol was implemented by the first author in all cases. She was a doctoral student who had received about 60 h of formal training in ACT during the last 2 years (approximately 30 h in the general ACT model and 30 h of training in RNT-focused ACT protocols). The second author, who is an",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.140869140625,
+      58.72819900512695,
+      544.3458251953125,
+      130.9381103515625
+    ],
+    "text": "experienced ACT researcher and has acted as a therapist in several clinical studies, trained and supervised the therapist. Once the intervention had finished, the participants provided data for posttreatment and follow-up on a weekly basis. Blinding procedures were not implemented because the study only involved one intervention.",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      157.4593505859375,
+      366.484130859375,
+      168.41835021972656
+    ],
+    "text": "Data Analysis",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      183.23045349121094,
+      544.3446044921875,
+      292.85687255859375
+    ],
+    "text": "In this section, we present the statistical analyses conducted to (a) explore trends in baseline for the AFQ-Y, PTQ-C, and GPQ-C, (b) the procedure followed to select the statistical analyses after conducting a visual analysis, (c) the Bayesian approach followed to analyze the evidence for a treatment effect, (d) the design-comparable standardized mean difference computed, and (e) the Bayesian repeated-measures ANOVA to analyze the effect of the intervention on the DASS-C and CBCL.",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1396789550781,
+      307.6698913574219,
+      544.343505859375,
+      504.54315185546875
+    ],
+    "text": "Analysis of trend in baseline To assess the presence of significant trends in the baseline, the Theil-Sen slope (Sen, 1968 ; Vannest, Parker, Davis, Soares, & Smith, 2012 ) was computed before introducing the intervention. The Theil-Sen slope is a nonparametric linear regression slope that does not assume any particular data distribution. It has stronger power/ precision than the Koenig and Tukey nonparametric slopes. The Theil-Sen slope approximates the efficiency of linear regression when data meet all parametric assumptions and it significantly exceeds efficiency when data are very nonnormal and skewed (Vannest et al., 2012 ). Thus, although it is not frequently used in psychology studies, the Theil-Sen slope is the method of choice in medicine and physical sciences for making decisions with time-series data. The Theil-Sen slope was computed using the online calculator provided by Vannest, Parker, and Gonen ( 2011 ).",
+    "line_count": 16,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.13861083984375,
+      519.3572387695312,
+      544.3486938476562,
+      716.23046875
+    ],
+    "text": "Graphical analysis and selection of statistical analyses Following a bottom-up analysis of single-case experimental designs (SCED; Parker & Vannest, 2012 ), the results were first graphed, then statistical analyses for SCED were selected and computed. In general, the data showed baselines with no significant trends. At the follow-up, participants ’ scores usually reached stability at the last three follow-up observations (2- to 4-week follow-ups). These observations are the most relevant ones in terms of the clinical significance of the findings. Thus, we decided to focus the statistical analysis of each participant on all baseline data and the last three follow-up points (see a similar rationale in Au et al., 2017 ; Parker & Vannest, 2012 ; Ruiz et al., 2018 ). This decision has the advantage of avoiding modeling linear improvement trends in the treatment phase, which could lead to lines exceeding the range scale of the questionnaires used.",
+    "line_count": 16,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.0225830078125,
+      58.62094497680664,
+      289.24029541015625,
+      716.233642578125
+    ],
+    "text": "Bayesian analysis of significant change for SCED According to the previous decision, we selected the Jeffreys-Zellner-Siow + Auto-Regressive Bayesian hypothesis testing for singlesubject designs (JZS+AR model; de Vries & Morey, 2013 , 2015 ). The JZS+AR Bayesian model is an adaptation of the JZS t -test (Rouder, Speckman, Sun, Morey, & Iverson, 2009 ) that accounts for the serial dependence typical of singlesubject designs with an autoregressive (AR(1)) model. It provides a Bayes factor ( B ar ), which quantifies the relative evidence in the data for the hypothesis of intervention effect (i.e., the true means of both phases differ: B ar > 1) and for the hypothesis of no intervention effect (i.e., the true mean in the baseline equals the true mean in the intervention phase: B ar < 1). The Bayes factor can be also seen as the extent to which a rational person should adjust his beliefs, expressed as relative odds, in favor of the hypothesis of intervention effect according to the data (de Vries & Morey, 2013 ). Bayes factors were interpreted according to the guidelines provided by Jeffreys ( 1961 ) and Wagenmakers, Wetzels, Borsboom, and van der Maas ( 2011 ): 1 = No evidence of treatment effect; 1 – 3 = Anecdotal evidence of treatment effect; 3 – 10 = Substantial or moderate evidence of treatment effect; 10 – 30 = Strong evidence of treatment effect; 30 – 100 = Very strong evidence of treatment effect; and > 100 = Extreme evidence of treatment effect (note that B ar < 1 are interpreted in the same way, but favoring the hypothesis of no treatment effect). One of the distinctive features of Bayesian statistics is that they include prior expectations of the parameters (e.g., the intervention effect). These prior expectations are expressed by prior distributions that receive high density at plausible parameter values and low density at implausible parameter values (Lee, 2004 ). Prior distributions can be determined based on previous research, expert knowledge, scale boundaries, and statistical considerations (de Vries & Morey, 2013 ). To propose prior distributions, the JZS+AR model uses an estimation of two relevant parameters: (a) an effect size of the intervention effect, termed δ , consisting of standardizing the difference in true means between phases; and (b) a parameter for the lag 1 ( р ) autocorrelation, termed b . De Vries and Morey ( 2013 ) suggested three prior distributions for δ in which it is located at 0 and follows a Cauchy distribution that differ in width according to a factor termed r (suggested r values of 0.5, 1.0, and 2.0). This factor is equal to half the interquartile range of the distribution (i.e., there is a 50% prior probability that the effect size will be found within -0.5 and 0.5, -1.0 and 1.0, and -2.0 and 2.0, respectively). The authors advocated using r = 1 by default because, in SCED, effect sizes tend to be larger than in group studies (e.g., Beeson & Robey, 2006 ; Parker & Vannest, 2009 ). In addition, the authors suggested three prior distributions for the lag 1 autocorrelation ( b = 1, b = 5, b = 15) and advocated for the use of b = 5. This prior distribution reflects the expectation of positive but low autocorrelations, while also considering values of .4 or .5 plausible. This is consistent with",
+    "line_count": 53,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1408996582031,
+      58.72697830200195,
+      544.3541259765625,
+      305.2746887207031
+    ],
+    "text": "the literature in SCED showing that autocorrelation in this type of studies is reasonably low (e.g., Parker et al., 2005 ). Following the guidelines of de Vries and Morey ( 2013 ) and the results obtained in similar studies (Ruiz et al., 2016 , 2018 ), we selected a value of r = 1 for the prior distribution of δ . However, we also conducted a Bayesian sensitivity analysis that investigated the robustness of the results with r values of 0.5 and 2.0, which posit higher density in the Cauchy distribution at medium and very large effect sizes, respectively. Conducting sensitivity analyses is frequently suggested by Bayesian statisticians to investigate whether the results obtained are excessively dependent on the selected prior distribution (Gelman et al., 2014 ). Regarding the prior distribution of the autocorrelation, we followed the suggestion provided by de Vries and Morey ( 2013 ) of choosing b = 5. All analyses with the JZS+AR model were conducted in the BayesSingleSub R package (de Vries & Morey, 2015 ). Due to prior evidence showing the effect of RNT-focused ACT protocols (Ruiz et al., 2016 , 2018 ), we conducted one-sided Bayes factor, testing the hypothesis that δ = 0 against the alternative that δ > 0.",
+    "line_count": 20,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1402893066406,
+      320.1445007324219,
+      544.3502807617188,
+      604.1527099609375
+    ],
+    "text": "Design-comparable standardized mean difference To obtain an overall estimate of the effect size of the intervention, the design-comparable effect size for multiple-baseline designs developed by Pustejovsky, Hedges, and Shadish ( 2014 ) was computed. This standardized mean difference effect size for SCED shares the same metric as Cohen ’ s d , typically used in group designs, which facilitates the direct comparison and integration through meta-analysis of the results obtained in both types of designs. This d -statistic has a formal mathematical development, requires at least three cases for computation, and corrects for small sample bias using Hedges ’ g . It is an extension of the standardized mean difference advocated by Hedges, Pustejovsky, and Shadish ( 2012 , 2013 ) that uses restricted maximum likelihood estimation. It offers the possibility of obtaining the d -statistic by controlling for baseline trend and taking into account change in slope. The R package scdhlm was used to compute this d -statistic (Pustejovsky, 2016 ), following the guidelines provided by Valentine, Tanner-Smith, and Pustejovsky ( 2016 ). According to the global visual inspection of the dataset, we modeled baselines without trends including both fixed and random effects for level. The treatment phase was modeled with linear trends with both fixed and random effects at level and slope.",
+    "line_count": 23,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1402893066406,
+      618.9667358398438,
+      544.2454833984375,
+      716.23291015625
+    ],
+    "text": "Bayesian repeated-measures ANOVA To analyze the results on the DASS-C and the CBCL, a Bayesian repeated-measures ANOVA was conducted with JASP 0.9.01 (JASP Team, 2018 ). JASP provides a graphical interface of the R package BayesFactor, which permits the computation of Bayes factors in standard designs (e.g., t -tests, ANOVA,regression). The Bayesian ANOVA framework advocated by Rouder, Morey, Verhagen, Swagman, and Wagenmakers ( 2017 ) suggests",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      705.5095825195312,
+      533.2542114257812,
+      714.0729370117188
+    ],
+    "text": "Fig. 1 Scores on psychological inflexibility (AFQ-Y), repetitive negative thinking (PTQ-C), and generalized pliance (GPQ-C) for each participant",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.0225830078125,
+      58.7328987121582,
+      289.2342224121094,
+      205.66229248046875
+    ],
+    "text": "Cauchy prior distributions in which the effect size of the factor, termed δ , is located at 0, and the researcher can modify the parameter r between the recommended values of 0.2 to 1.0. This parameter represents the width of the distribution (higher values of r places more density at higher effect sizes). The authors advocated using r = 0.5 by default. However, we also conducted a Bayesian sensitivity analysis that investigated the robustness of the results with r values of 0.2 and 0.8, which posit higher density in the Cauchy distribution at, respectively, small and large effect sizes. Cohen ’ s d was computed with JASP for pretreatment to posttreatment differences and for pretreatment to the 4-week follow-up.",
+    "line_count": 12,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      229.55674743652344,
+      88.37254333496094,
+      241.5118408203125
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      257.975830078125,
+      167.28106689453125,
+      268.9348449707031
+    ],
+    "text": "Within-Participant Results",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      283.7471008300781,
+      289.2164306640625,
+      343.5415954589844
+    ],
+    "text": "The raw data of this study can be obtained at https://osf. io/7r3gn/ . Figure 1 shows the scores ’ evolution on psychological inflexibility (AFQ-Y), RNT (PTQ-C), and generalized pliance (GPQ-C). The Theil-Sen slope revealed that P9 showed a statistically significant improving trend in the",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      188.90269470214844,
+      381.32794189453125,
+      193.94976806640625,
+      386.0625305175781
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      145.71400451660156,
+      452.1071472167969,
+      185.46524047851562,
+      470.4295959472656
+    ],
+    "text": "1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      63.97492218017578,
+      452.168701171875,
+      138.74562072753906,
+      465.427490234375
+    ],
+    "text": "LB1 LB2 LB3 LB4 INT1 INT2 POST",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      231.82952880859375,
+      452.52471923828125,
+      271.04620361328125,
+      462.0318298339844
+    ],
+    "text": "LB1 LB2 LB3 LB4",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      190.77870178222656,
+      482.1848449707031,
+      195.82577514648438,
+      486.91943359375
+    ],
+    "text": "P6",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      231.82952880859375,
+      554.4523315429688,
+      271.04620361328125,
+      563.9594116210938
+    ],
+    "text": "LB1 LB2 LB3 LB4",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      134.3683319091797,
+      554.7269287109375,
+      185.3774871826172,
+      573.0706787109375
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      65.04762268066406,
+      554.809326171875,
+      127.57986450195312,
+      566.6396484375
+    ],
+    "text": "LB1 LB2 LB3 LB4 INT1 INT2",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      190.4217987060547,
+      582.3253784179688,
+      195.4688720703125,
+      587.0599975585938
+    ],
+    "text": "P9",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      230.3115234375,
+      654.145751953125,
+      269.61627197265625,
+      663.6519165039062
+    ],
+    "text": "LB1 LB2 LB3 LB4",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      64.6897201538086,
+      654.7717895507812,
+      103.99637603759766,
+      664.2779541015625
+    ],
+    "text": "LB1 LB2 LB3 LB4",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      133.83334350585938,
+      654.7779541015625,
+      184.75254821777344,
+      673.1226196289062
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      110.7857894897461,
+      654.8622436523438,
+      127.0444107055664,
+      666.6897583007812
+    ],
+    "text": "INT1 INT2",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.140869140625,
+      58.7327766418457,
+      544.3486328125,
+      342.63238525390625
+    ],
+    "text": "AFQ-Y, whereas P3 and P5 showed improving and deteriorating trends for the GPQ-C, respectively. Thus, we decided not to compute the JZS+AR analysis with these measures in these participants. The results of the Theil-Sen slope can be seen at https://osf.io/a7z6q/ . Visual inspection shows that the ACT protocol was effective in decreasing scores on psychological inflexibility and RNT in all participants, whereas the change in generalized pliance was modest. Table 3 shows the effect sizes and B ar on the JZS+AR Bayesian model. All participants showed at least strong evidence (i.e., B ar > 10) of intervention effect according to Bayes factors in the AFQ-Y and PTQ-C. In particular, all participants showed extreme evidence in the PTQ-C, and 7 out of 8 in the AFQ-Y. Regarding the GPQ-C, only four out of seven participants showed evidence of intervention effect (P1, P6, P8, and P9). Overall, the Bayesian sensitivity analysis conducted with alternative prior distributions showed that the results were relatively robust (see the results of the sensitivity analysis at https://osf.io/ 7bp3f/ ). In other words, the Bayes factors did not vary in a way that made the interpretation of the results significantly different.",
+    "line_count": 23,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      360.77789306640625,
+      381.32794189453125,
+      365.8249816894531,
+      386.0625305175781
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      529.344970703125,
+      381.68536376953125,
+      534.39208984375,
+      386.4199523925781
+    ],
+    "text": "P1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      397.1816101074219,
+      452.43731689453125,
+      459.53533935546875,
+      461.9439392089844
+    ],
+    "text": "LB1 LB2 LB3 LB4 LB5 LB6",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      489.4618225097656,
+      452.4439697265625,
+      540.29150390625,
+      470.7862854003906
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      323.9307556152344,
+      452.464599609375,
+      363.2364501953125,
+      470.78704833984375
+    ],
+    "text": "1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.83563232421875,
+      452.52471923828125,
+      282.5702209472656,
+      462.0318298339844
+    ],
+    "text": "LB5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      466.41473388671875,
+      452.5282287597656,
+      482.6723937988281,
+      464.35479736328125
+    ],
+    "text": "INT1 INT2",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      289.360595703125,
+      452.5285339355469,
+      317.14227294921875,
+      465.78399658203125
+    ],
+    "text": "INT1 INT2 POST",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      528.1840209960938,
+      482.183837890625,
+      533.2311401367188,
+      486.9184265136719
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      361.9378967285156,
+      482.8098449707031,
+      366.9849853515625,
+      487.54443359375
+    ],
+    "text": "P5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      397.004638671875,
+      553.2893676757812,
+      459.2684020996094,
+      562.7964477539062
+    ],
+    "text": "LB1 LB2 LB3 LB4 LB5 LB6",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      489.10491943359375,
+      553.2974243164062,
+      539.9346313476562,
+      571.6416015625
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      466.056884765625,
+      553.3826293945312,
+      482.31549072265625,
+      565.2096557617188
+    ],
+    "text": "INT1 INT2",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      312.4076843261719,
+      554.3709106445312,
+      363.2364501953125,
+      572.7132568359375
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.83563232421875,
+      554.4523315429688,
+      305.6182556152344,
+      566.2822265625
+    ],
+    "text": "LB5 INT1 INT2",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      528.0050048828125,
+      582.5933227539062,
+      533.0521240234375,
+      587.3279418945312
+    ],
+    "text": "P8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      360.7757873535156,
+      587.4163208007812,
+      365.8228759765625,
+      592.1509399414062
+    ],
+    "text": "P7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      396.109619140625,
+      653.4318237304688,
+      458.4633483886719,
+      662.9389038085938
+    ],
+    "text": "LB1 LB2 LB3 LB4 LB5 LB6",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      488.38983154296875,
+      653.43798828125,
+      539.2195434570312,
+      671.78076171875
+    ],
+    "text": "POST 1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      465.34368896484375,
+      653.5222778320312,
+      481.60040283203125,
+      665.3497924804688
+    ],
+    "text": "INT1 INT2",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      276.4075927734375,
+      654.145751953125,
+      281.1421813964844,
+      663.6519165039062
+    ],
+    "text": "LB5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      322.50177001953125,
+      654.1732177734375,
+      361.8074645996094,
+      672.4956665039062
+    ],
+    "text": "1-W FU 2-W FU 3-W FU 4-W FU",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      287.9297180175781,
+      654.2362060546875,
+      315.71234130859375,
+      667.404541015625
+    ],
+    "text": "INT1 INT2 POST",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      86.0599365234375,
+      57.37807846069336,
+      415.7708740234375,
+      65.84627532958984
+    ],
+    "text": "Results in the JZS+AR analysis for each participant and measure with a prior distribution with r = 1",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.0240478515625,
+      180.51480102539062,
+      544.26904296875,
+      190.40054321289062
+    ],
+    "text": "Note. B ar = Bayes Factors of the JZS+AR model. B ar > 1 supports the hypothesis of intervention effect. B ar > 3 are in bold to highlight where at least",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      57.28291702270508,
+      75.46028900146484,
+      65.75111389160156
+    ],
+    "text": "Table 3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.6892547607422,
+      76.2003402709961,
+      231.59780883789062,
+      84.66854095458984
+    ],
+    "text": "P1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51454162597656,
+      76.2003402709961,
+      264.423095703125,
+      84.66854095458984
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360534667969,
+      96.40665435791016,
+      171.36514282226562,
+      105.19124603271484
+    ],
+    "text": "AFQ-Y — Psychological Inflexibility",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44036865234375,
+      96.40665435791016,
+      200.14097595214844,
+      104.8748550415039
+    ],
+    "text": "δ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.68923950195312,
+      96.7230453491211,
+      237.2799530029297,
+      105.19124603271484
+    ],
+    "text": "6.81",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51368713378906,
+      96.7230453491211,
+      270.1611022949219,
+      105.19124603271484
+    ],
+    "text": "7.04",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.689697265625,
+      109.10575103759766,
+      239.8496551513672,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51498413085938,
+      109.10575103759766,
+      272.6749267578125,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44036865234375,
+      109.42195892333984,
+      206.992919921875,
+      118.71882629394531
+    ],
+    "text": "B ar",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.024078369140625,
+      121.8046646118164,
+      180.8720703125,
+      130.58926391601562
+    ],
+    "text": "PTQ-C — Repetitive Negative Thinking",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44085693359375,
+      121.8046646118164,
+      200.14146423339844,
+      130.27285766601562
+    ],
+    "text": "δ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.68972778320312,
+      122.12105560302734,
+      237.2804412841797,
+      130.58926391601562
+    ],
+    "text": "8.82",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51417541503906,
+      122.12105560302734,
+      270.1615905761719,
+      130.58926391601562
+    ],
+    "text": "9.06",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.689697265625,
+      134.50424194335938,
+      239.84457397460938,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.5098876953125,
+      134.50424194335938,
+      272.70709228515625,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44085693359375,
+      134.81997680664062,
+      206.992919921875,
+      144.11732482910156
+    ],
+    "text": "B ar",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.0240478515625,
+      147.20315551757812,
+      149.71836853027344,
+      155.98776245117188
+    ],
+    "text": "GPQ-C — Generalized Pliance",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44081115722656,
+      147.20315551757812,
+      200.14141845703125,
+      155.67135620117188
+    ],
+    "text": "δ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.689697265625,
+      147.51956176757812,
+      237.28041076660156,
+      155.98776245117188
+    ],
+    "text": "1.90",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51414489746094,
+      147.51956176757812,
+      270.16156005859375,
+      155.98776245117188
+    ],
+    "text": "0.29",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      222.689697265625,
+      159.90267944335938,
+      237.28041076660156,
+      168.37088012695312
+    ],
+    "text": "9.09",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.44082641601562,
+      160.21847534179688,
+      206.992919921875,
+      169.51576232910156
+    ],
+    "text": "B ar",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      255.51498413085938,
+      160.21908569335938,
+      270.16241455078125,
+      168.68728637695312
+    ],
+    "text": "0.71",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.024139404296875,
+      190.49313354492188,
+      218.11781311035156,
+      198.96133422851562
+    ],
+    "text": "substantial evidence of treatment effect was found.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.023765563964844,
+      214.24156188964844,
+      289.21343994140625,
+      298.92364501953125
+    ],
+    "text": "Table 1 shows that no participant showed the diagnosis of child depression according to the MINI KID at posttreatment or at the 4-week follow-up. At posttreatment, of the six participants who showed comorbid disorders, only P6 showed the diagnoses of attention-deficit hyperactivity disorder (ADHD) and oppositional defiant disorder (ODD). No comorbid disorders were identified at the 4-week follow-up.",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      313.8750305175781,
+      176.74851989746094,
+      324.83404541015625
+    ],
+    "text": "Between-Participant Results",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.023590087890625,
+      339.5343322753906,
+      289.125732421875,
+      399.4407958984375
+    ],
+    "text": "Results on weekly measures Figure 2 shows the mean results across participants in the AFQ-Y, PTQ-C, and GPQ-C. During the baseline, the mean scores on all measures were one standard deviation higher than the mean scores in nonclinical Colombian children (see Table 4 ). After introducing the",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      417.175048828125,
+      161.65216064453125,
+      475.7933654785156
+    ],
+    "text": "Fig. 2 Mean scores ’ evolution on psychological inflexibility, repetitive negative thinking, and generalized pliance. Bars represent 95% credibility intervals",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.3965759277344,
+      76.2003402709961,
+      297.30511474609375,
+      84.66854095458984
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.22186279296875,
+      76.2003402709961,
+      330.1304016113281,
+      84.66854095458984
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.57733154296875,
+      76.2003402709961,
+      364.4858703613281,
+      84.66854095458984
+    ],
+    "text": "P5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4593505859375,
+      76.2003402709961,
+      397.22900390625,
+      84.66854095458984
+    ],
+    "text": "P6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.815673828125,
+      76.2003402709961,
+      431.5853271484375,
+      84.66854095458984
+    ],
+    "text": "P7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.64093017578125,
+      76.2003402709961,
+      464.5494689941406,
+      84.66854095458984
+    ],
+    "text": "P8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.99639892578125,
+      76.2003402709961,
+      498.9049377441406,
+      84.66854095458984
+    ],
+    "text": "P9",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      522.87841796875,
+      76.2003402709961,
+      529.8392944335938,
+      84.66854095458984
+    ],
+    "text": "%",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.39483642578125,
+      96.7230453491211,
+      302.98553466796875,
+      105.19124603271484
+    ],
+    "text": "6.13",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.2192687988281,
+      96.7230453491211,
+      339.909423828125,
+      105.19124603271484
+    ],
+    "text": "12.60",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.5747375488281,
+      96.7230453491211,
+      370.22216796875,
+      105.19124603271484
+    ],
+    "text": "6.81",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4559020996094,
+      96.7230453491211,
+      407.18499755859375,
+      105.19124603271484
+    ],
+    "text": "23.61",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.8113708496094,
+      96.7230453491211,
+      437.4020690917969,
+      105.19124603271484
+    ],
+    "text": "2.92",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.63665771484375,
+      96.7230453491211,
+      474.3268127441406,
+      105.19124603271484
+    ],
+    "text": "20.21",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.99212646484375,
+      96.7230453491211,
+      495.3270568847656,
+      105.19124603271484
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.39697265625,
+      109.10575103759766,
+      305.55694580078125,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.2222595214844,
+      109.10575103759766,
+      338.5346374511719,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.5785827636719,
+      109.10575103759766,
+      372.7385559082031,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4606018066406,
+      109.10575103759766,
+      405.6205749511719,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.81610107421875,
+      109.10575103759766,
+      437.3873291015625,
+      117.5739517211914
+    ],
+    "text": "24.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.6405334472656,
+      109.10575103759766,
+      472.8005065917969,
+      117.5739517211914
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.9960632324219,
+      109.4221420288086,
+      495.3140869140625,
+      117.89034271240234
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      522.8611450195312,
+      109.4221420288086,
+      542.197509765625,
+      117.89034271240234
+    ],
+    "text": "100%",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.39532470703125,
+      122.12105560302734,
+      302.98602294921875,
+      130.58926391601562
+    ],
+    "text": "5.32",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.2197570800781,
+      122.12105560302734,
+      335.8671875,
+      130.58926391601562
+    ],
+    "text": "6.80",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.5752258300781,
+      122.12105560302734,
+      370.22265625,
+      130.58926391601562
+    ],
+    "text": "5.21",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4563903808594,
+      122.12105560302734,
+      403.0470886230469,
+      130.58926391601562
+    ],
+    "text": "5.49",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.8118591308594,
+      122.12105560302734,
+      437.4025573730469,
+      130.58926391601562
+    ],
+    "text": "6.47",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.63714599609375,
+      122.12105560302734,
+      474.3273010253906,
+      130.58926391601562
+    ],
+    "text": "16.72",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.99261474609375,
+      122.12105560302734,
+      504.48760986328125,
+      130.58926391601562
+    ],
+    "text": "8.22",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.42913818359375,
+      134.50424194335938,
+      305.5840148925781,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.24932861328125,
+      134.50424194335938,
+      338.56170654296875,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.60565185546875,
+      134.50424194335938,
+      372.7605285644531,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4825744628906,
+      134.50424194335938,
+      405.637451171875,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.8329772949219,
+      134.50424194335938,
+      439.98785400390625,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.6531677246094,
+      134.50424194335938,
+      472.80804443359375,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      490.0035705566406,
+      134.50424194335938,
+      507.158447265625,
+      142.97244262695312
+    ],
+    "text": ">100",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      522.8780517578125,
+      134.82064819335938,
+      542.1973876953125,
+      143.28884887695312
+    ],
+    "text": "100%",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.3952941894531,
+      147.51956176757812,
+      293.730224609375,
+      155.98776245117188
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.2205505371094,
+      147.51956176757812,
+      335.86798095703125,
+      155.98776245117188
+    ],
+    "text": "1.02",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.5760192871094,
+      147.51956176757812,
+      361.0295104980469,
+      155.98776245117188
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.4580078125,
+      147.51956176757812,
+      403.0487060546875,
+      155.98776245117188
+    ],
+    "text": "1.46",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.8134765625,
+      147.51956176757812,
+      440.069091796875,
+      155.98776245117188
+    ],
+    "text": "-0.77",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.63873291015625,
+      147.51956176757812,
+      470.2861633300781,
+      155.98776245117188
+    ],
+    "text": "2.42",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.99420166015625,
+      147.51956176757812,
+      504.48919677734375,
+      155.98776245117188
+    ],
+    "text": "3.36",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      388.45977783203125,
+      159.90267944335938,
+      403.05047607421875,
+      168.37088012695312
+    ],
+    "text": "3.76",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      455.64056396484375,
+      159.90267944335938,
+      470.2685241699219,
+      168.37088012695312
+    ],
+    "text": "15.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      489.99603271484375,
+      159.90267944335938,
+      504.49102783203125,
+      168.37088012695312
+    ],
+    "text": "23.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      288.3961486816406,
+      160.21908569335938,
+      293.7310791015625,
+      168.68728637695312
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      321.2214050292969,
+      160.21908569335938,
+      335.86883544921875,
+      168.68728637695312
+    ],
+    "text": "2.19",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.5768737792969,
+      160.21908569335938,
+      361.0303649902344,
+      168.68728637695312
+    ],
+    "text": "--",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      422.8152770996094,
+      160.21908569335938,
+      437.4059753417969,
+      168.68728637695312
+    ],
+    "text": "0.29",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      522.8780517578125,
+      160.21908569335938,
+      544.3331909179688,
+      168.68728637695312
+    ],
+    "text": "57.1%",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1398620605469,
+      214.24107360839844,
+      544.2991943359375,
+      336.28289794921875
+    ],
+    "text": "intervention, the scores on all measures began to decrease gradually. At posttreatment, the scores on the AFQ-Y and PTQ-C were about 1 standard deviation below the mean scores in nonclinical participants. At the 4-week follow-up, the scores on the AFQ-Y and PTQ-C stabilized at low levels, and the scores on the GPQ-C decreased to approach the mean scores in nonclinical participants. Table 4 also shows that the d -statistics for SCED were very large for the AFQ-Y ( d = 3.74, 95% CI [2.43, 5.43]) and PTQ-C ( d = 3.14, 95% CI [1.88, 4.85]) and large for the GPQ-C ( d = 1.14, 95% CI [0.01, 2.32]).",
+    "line_count": 10,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.139892578125,
+      351.0959167480469,
+      544.3457641601562,
+      398.53021240234375
+    ],
+    "text": "Results on self-reported emotional symptoms With regard to emotional symptoms, Table 5 shows that participants obtained high scores on the DASS-Total and each of its three subscales (scores were approximately 1 standard deviation higher than",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      86.0599365234375,
+      57.37807846069336,
+      441.7715148925781,
+      65.84627532958984
+    ],
+    "text": "Means and standard deviations in each self-report measure at baseline, posttreatment, and 4-week follow-up",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.023555755615234,
+      162.59884643554688,
+      544.33056640625,
+      171.06704711914062
+    ],
+    "text": "Note. AFQ-Y = Avoidance and Fusion Questionnaire-Youth; GPQ-C = Generalized Pliance Questionnaire-Children; PTQ-C = Perseverative Thinking",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      86.0599365234375,
+      538.9275512695312,
+      457.3260192871094,
+      547.395751953125
+    ],
+    "text": "Means, standard deviations, bayes factors and 95% confidence intervals in the scores of the DASS-C and CBCL",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024436950683594,
+      707.416748046875,
+      442.4566345214844,
+      715.8849487304688
+    ],
+    "text": "Note: CBCL = Child Behavior Checklist; DASS-C = Depression Anxiety and Stress Scale-Children; F-U = Follow-up",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      57.28291702270508,
+      75.46028900146484,
+      65.75111389160156
+    ],
+    "text": "Table 4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      214.072021484375,
+      76.2003402709961,
+      242.3600311279297,
+      84.66854095458984
+    ],
+    "text": "Baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      214.07199096679688,
+      96.3825912475586,
+      238.7398681640625,
+      104.85079193115234
+    ],
+    "text": "M (SD)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.0244140625,
+      116.58890533447266,
+      171.36593627929688,
+      125.37349700927734
+    ],
+    "text": "AFQ-Y — Psychological Inflexibility",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      214.0736083984375,
+      116.9052963256836,
+      254.72689819335938,
+      125.37349700927734
+    ],
+    "text": "43.87 (8.16)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024410247802734,
+      129.28781127929688,
+      180.87237548828125,
+      138.07241821289062
+    ],
+    "text": "PTQ-C — Repetitive Negative Thinking",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      214.07363891601562,
+      129.60421752929688,
+      254.7269287109375,
+      138.07241821289062
+    ],
+    "text": "40.16 (9.71)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02440643310547,
+      141.98672485351562,
+      149.74327087402344,
+      150.77133178710938
+    ],
+    "text": "GPQ-C — Generalized Pliance",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      214.07363891601562,
+      142.30313110351562,
+      254.7269287109375,
+      150.77133178710938
+    ],
+    "text": "29.29 (2.78)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.023555755615234,
+      172.57693481445312,
+      130.1690216064453,
+      181.04513549804688
+    ],
+    "text": "Questionnaire-Children.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      205.79429626464844,
+      289.2322998046875,
+      427.44317626953125
+    ],
+    "text": "the mean scores in nonclinical participants). The Bayesian repeated-measures ANOVA revealed very strong evidence for the hypothesis of intervention effect for the DASS-Total and the subscales (DASS-Total: BF = 53465.77; DASSDepression: BF = 172.95; DASS-Anxiety: BF = 67.42; DASS-Stress: BF = 4163000). The sensitivity analyses conducted with alternative prior distributions showed that the results were robust (DASS-Total: BF = 22542.2 for r = .20, BF = 77990.9 for r = .80; DASS-Depression: BF = 82.34 for r = .20, BF = 212.11 for r = .80; DASS-Anxiety: BF = 34.09 for r = .20, BF = 82.53 for r = .80; DASS-Stress: BF = 1945000 for r = .20, BF = 6328000 for r = .80). The effect sizes were very large both at the posttreatment and at the 4-week follow-up (DASS-Total: d = 2.57 and 2.12; DASS-Depression: d = 1.24 and 1.22; DASS-Anxiety: d = 1.57 and 1.18; DASS-Stress: d = 2.61 and 3.11). After treatment, participants showed scores below the mean of nonclinical participants in the total scores and each of the subscales.",
+    "line_count": 18,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02557373046875,
+      442.31298828125,
+      289.2263488769531,
+      514.6348876953125
+    ],
+    "text": "Results on behavioral issues reported by the parents Lastly, Table 5 also shows the scores of the parent with closer contact with the child on the CBCL. Mean scores on the CBCL were in the clinical range. The scores on all subscales decreased at the posttreatment and at the 4-week follow-up. The Bayesian repeated-measures ANOVA revealed strong evidence for the",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      538.8323974609375,
+      75.46028900146484,
+      547.3005981445312
+    ],
+    "text": "Table 5",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0032196044922,
+      557.8065185546875,
+      168.96615600585938,
+      566.2747192382812
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      557.8065185546875,
+      249.43946838378906,
+      566.2747192382812
+    ],
+    "text": "Post",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0032196044922,
+      567.7278442382812,
+      164.96408081054688,
+      576.196044921875
+    ],
+    "text": "M",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      567.7278442382812,
+      242.12294006347656,
+      576.196044921875
+    ],
+    "text": "M",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0032196044922,
+      577.7059326171875,
+      173.48646545410156,
+      586.1741333007812
+    ],
+    "text": "(SD)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      577.7059326171875,
+      250.6453399658203,
+      586.1741333007812
+    ],
+    "text": "( SD)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02447509765625,
+      597.9122314453125,
+      105.48346710205078,
+      606.69677734375
+    ],
+    "text": "DASS-C — Total",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.00323486328125,
+      598.2285766601562,
+      202.73822021484375,
+      606.69677734375
+    ],
+    "text": "37.78 (14.39)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16127014160156,
+      598.2285766601562,
+      280.0486145019531,
+      606.69677734375
+    ],
+    "text": "10.44 (12.69)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024471282958984,
+      610.6112060546875,
+      125.55816650390625,
+      619.395751953125
+    ],
+    "text": "DASS-C — Depression",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0040740966797,
+      610.9275512695312,
+      198.37368774414062,
+      619.395751953125
+    ],
+    "text": "12.11 (8.91)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      610.9275512695312,
+      271.7726135253906,
+      619.395751953125
+    ],
+    "text": "2.89 (3.95)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02446365356445,
+      623.31005859375,
+      115.25829315185547,
+      632.0946044921875
+    ],
+    "text": "DASS-C — Anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0040740966797,
+      623.6264038085938,
+      194.4622344970703,
+      632.0946044921875
+    ],
+    "text": "8.44 (4.50)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.162109375,
+      623.6264038085938,
+      271.77264404296875,
+      632.0946044921875
+    ],
+    "text": "3.00 (4.21)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02445602416992,
+      636.009033203125,
+      108.14329528808594,
+      644.7935791015625
+    ],
+    "text": "DASS-C — Stress",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.00405883789062,
+      636.3253784179688,
+      198.6006317138672,
+      644.7935791015625
+    ],
+    "text": "17.22 (3.73)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      636.3253784179688,
+      271.7726135253906,
+      644.7935791015625
+    ],
+    "text": "4.56 (4.93)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02444839477539,
+      648.7078857421875,
+      97.82987976074219,
+      657.492431640625
+    ],
+    "text": "CBCL — Total",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.0032196044922,
+      649.0242309570312,
+      202.7382049560547,
+      657.492431640625
+    ],
+    "text": "68.67 (46.39)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.1612548828125,
+      649.0242309570312,
+      280.0486145019531,
+      657.492431640625
+    ],
+    "text": "36.00 (29.63)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024444580078125,
+      661.4068603515625,
+      122.55362701416016,
+      670.19140625
+    ],
+    "text": "CBCL — Internalizing",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.00489807128906,
+      661.7232055664062,
+      202.51292419433594,
+      670.19140625
+    ],
+    "text": "17.00 (11.12)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16207885742188,
+      661.7232055664062,
+      271.7726135253906,
+      670.19140625
+    ],
+    "text": "8.78 (8.27)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024436950683594,
+      674.105712890625,
+      124.93403625488281,
+      682.8902587890625
+    ],
+    "text": "CBCL — Externalizing",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.00405883789062,
+      674.4220581054688,
+      202.73904418945312,
+      682.8902587890625
+    ],
+    "text": "20.22 (15.20)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16209411621094,
+      674.4220581054688,
+      275.53167724609375,
+      682.8902587890625
+    ],
+    "text": "11.00 (9.23)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.024436950683594,
+      686.8046875,
+      102.59661865234375,
+      695.5892333984375
+    ],
+    "text": "CBCL — Mixed",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      158.00320434570312,
+      687.1210327148438,
+      202.73818969726562,
+      695.5892333984375
+    ],
+    "text": "31.44 (21.09)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      235.16123962402344,
+      687.1210327148438,
+      280.048583984375,
+      695.5892333984375
+    ],
+    "text": "16.22 (13.10)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.0569763183594,
+      76.2003402709961,
+      302.19207763671875,
+      84.66854095458984
+    ],
+    "text": "Post",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      361.9843444824219,
+      76.2003402709961,
+      401.6831970214844,
+      84.66854095458984
+    ],
+    "text": "4-week F-U",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      435.910888671875,
+      76.2003402709961,
+      502.4259948730469,
+      84.66854095458984
+    ],
+    "text": "d -statistic for SCED",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.0569763183594,
+      96.3825912475586,
+      312.6680908203125,
+      104.85079193115234
+    ],
+    "text": "M (SD)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      361.9851989746094,
+      96.3825912475586,
+      386.5946044921875,
+      104.85079193115234
+    ],
+    "text": "M ( SD)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      435.9117126464844,
+      96.3825912475586,
+      456.83660888671875,
+      104.85079193115234
+    ],
+    "text": "d (SE)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      505.7006530761719,
+      96.3825912475586,
+      531.5286254882812,
+      104.85079193115234
+    ],
+    "text": "95% CI",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.056884765625,
+      116.9052963256836,
+      328.65338134765625,
+      125.37349700927734
+    ],
+    "text": "12.22 (9.12)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      361.9833679199219,
+      116.9052963256836,
+      398.4981994628906,
+      125.37349700927734
+    ],
+    "text": "7.33 (6.14)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      435.90985107421875,
+      116.9052963256836,
+      472.4246826171875,
+      125.37349700927734
+    ],
+    "text": "3.74 (0.80)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      505.69793701171875,
+      116.9052963256836,
+      544.2534790039062,
+      125.37349700927734
+    ],
+    "text": "[2.43, 5.43]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.0569152832031,
+      129.60421752929688,
+      324.5150146484375,
+      138.07241821289062
+    ],
+    "text": "7.67 (7.47)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      361.9833984375,
+      129.60421752929688,
+      398.49822998046875,
+      138.07241821289062
+    ],
+    "text": "7.00 (5.32)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      435.9098815917969,
+      129.60421752929688,
+      472.4247131347656,
+      138.07241821289062
+    ],
+    "text": "3.14 (0.80)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      505.6979675292969,
+      129.60421752929688,
+      544.2535400390625,
+      138.07241821289062
+    ],
+    "text": "[1.88, 4.85]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.0569152832031,
+      142.30313110351562,
+      328.42730712890625,
+      150.77133178710938
+    ],
+    "text": "26.11 (4.89)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      361.9842529296875,
+      142.30313110351562,
+      402.58074951171875,
+      150.77133178710938
+    ],
+    "text": "22.44 (7.67)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      435.9107360839844,
+      142.30313110351562,
+      472.4255676269531,
+      150.77133178710938
+    ],
+    "text": "1.14 (0.60)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      505.6988220214844,
+      142.30313110351562,
+      544.25439453125,
+      150.77133178710938
+    ],
+    "text": "[0.01, 2.32]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1400146484375,
+      205.78831481933594,
+      544.3345947265625,
+      365.1978759765625
+    ],
+    "text": "hypothesis of intervention effect for the CBCL-Total and the subscales (CBCL-Total: BF = 21.50; CBCL-Internalizing: BF = 29.62; CBCL-Externalizing: BF = 10.04; CBCL-Mixed: BF = 22.22). The sensitivity analyses showed that the results were also robust with regard to the CBCL (CBCL-Total: BF = 12.18 for r = .20, BF = 23.60 for r = .80; CBCL-Internalizing: BF = 16.40 for r = .20, BF = 33.86 for r = .80; CBCLExternalizing: BF = 6.43 for r = .20, BF = 10.22 for r = .80; CBCL-Mixed: BF = 12.43 for r = .20, BF = 24.49 for r = .80). The effect sizes were large both at the posttreatment and at the 4- week follow-up (CBCL-Total: d = 0.91 and 1.21; CBCLInternalizing: d = 1.07 and 1.35; CBCL-Externalizing: d = 0.71 and 1.06; CBCL-Mixed: d = 0.93 and 1.22).",
+    "line_count": 13,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      388.4669189453125,
+      361.3921813964844,
+      400.4220275878906
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      417.7690734863281,
+      544.3466186523438,
+      514.8665771484375
+    ],
+    "text": "Recent research has shown that very brief RNT-focused ACT protocols can have very large effect sizes in treating emotional disorders in adults (Ruiz et al., 2016 , 2018 ; Ruiz et al., in press). This study adapted the previous RNT-focused ACT protocols to the work with child depression. A 3-session protocol was designed and its efficacy was analyzed with nine children suffering from child depression as the main diagnosis (six participants showed comorbid disorders). A three-arm,",
+    "line_count": 8,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.377685546875,
+      557.8065185546875,
+      352.0765380859375,
+      566.2747192382812
+    ],
+    "text": "4-week F-U",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53656005859375,
+      557.8065185546875,
+      428.5317077636719,
+      566.2747192382812
+    ],
+    "text": "Pre vs. Post",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84820556640625,
+      557.8065185546875,
+      544.2648315429688,
+      566.2747192382812
+    ],
+    "text": "Pre vs. 4-week F-U",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.377685546875,
+      567.7278442382812,
+      319.3385314941406,
+      576.196044921875
+    ],
+    "text": "M",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53656005859375,
+      567.7278442382812,
+      393.7706604003906,
+      576.196044921875
+    ],
+    "text": "d",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84820556640625,
+      567.7278442382812,
+      484.0823059082031,
+      576.196044921875
+    ],
+    "text": "d",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.377685546875,
+      577.7059326171875,
+      327.8609313964844,
+      586.1741333007812
+    ],
+    "text": "( SD)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53656005859375,
+      577.7059326171875,
+      415.36456298828125,
+      586.1741333007812
+    ],
+    "text": "95% CI",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84820556640625,
+      577.7059326171875,
+      505.6194763183594,
+      586.1741333007812
+    ],
+    "text": "95% CI",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.3759765625,
+      598.2285766601562,
+      348.89080810546875,
+      606.69677734375
+    ],
+    "text": "6.56 (7.23)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.533935546875,
+      598.2285766601562,
+      444.81341552734375,
+      606.69677734375
+    ],
+    "text": "2.57 [1.16, 3.96]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84381103515625,
+      598.2285766601562,
+      535.0664672851562,
+      606.69677734375
+    ],
+    "text": "2.12 [0.89, 3.32]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.37677001953125,
+      610.9275512695312,
+      348.8916015625,
+      619.395751953125
+    ],
+    "text": "1.56 (2.88)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53472900390625,
+      610.9275512695312,
+      444.814208984375,
+      619.395751953125
+    ],
+    "text": "1.24 [0.33, 2.09]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.8446044921875,
+      610.9275512695312,
+      535.0672607421875,
+      619.395751953125
+    ],
+    "text": "1.22 [0.32, 2.08]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.3768310546875,
+      623.6264038085938,
+      348.89166259765625,
+      632.0946044921875
+    ],
+    "text": "2.67 (2.45)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.5347900390625,
+      623.6264038085938,
+      444.81427001953125,
+      632.0946044921875
+    ],
+    "text": "1.57 [0.55, 2.55]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84466552734375,
+      623.6264038085938,
+      535.0673217773438,
+      632.0946044921875
+    ],
+    "text": "1.18 [0.30, 2.03]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.37677001953125,
+      636.3253784179688,
+      348.8916015625,
+      644.7935791015625
+    ],
+    "text": "2.33 (2.50)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53472900390625,
+      636.3253784179688,
+      444.814208984375,
+      644.7935791015625
+    ],
+    "text": "2.61 [1.18, 4.01]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.8446044921875,
+      636.3253784179688,
+      534.7835693359375,
+      644.7935791015625
+    ],
+    "text": "3.11 [1.47, 4.73]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.3759765625,
+      649.0242309570312,
+      357.2065734863281,
+      657.492431640625
+    ],
+    "text": "20.78 (19.18)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.533935546875,
+      649.0242309570312,
+      444.52972412109375,
+      657.492431640625
+    ],
+    "text": "0.91 [0.11, 1.70]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84381103515625,
+      649.0242309570312,
+      535.0664672851562,
+      657.492431640625
+    ],
+    "text": "1.21 [0.32, 2.07]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.37677001953125,
+      661.7232055664062,
+      348.8916015625,
+      670.19140625
+    ],
+    "text": "5.56 (5.57)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.53472900390625,
+      661.7232055664062,
+      444.814208984375,
+      670.19140625
+    ],
+    "text": "1.07 [0.22, 1.89]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.8446044921875,
+      661.7232055664062,
+      535.0672607421875,
+      670.19140625
+    ],
+    "text": "1.35 [0.41, 2.26]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.3768310546875,
+      674.4220581054688,
+      348.89166259765625,
+      682.8902587890625
+    ],
+    "text": "5.44 (5.05)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.5347900390625,
+      674.4220581054688,
+      447.421630859375,
+      682.8902587890625
+    ],
+    "text": "0.71 [-0.05, 1.43]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.84466552734375,
+      674.4220581054688,
+      535.0673217773438,
+      682.8902587890625
+    ],
+    "text": "1.06 [0.21, 1.87]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      312.3759460449219,
+      687.1210327148438,
+      348.8907775878906,
+      695.5892333984375
+    ],
+    "text": "9.78 (9.15)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      389.5339050292969,
+      687.1210327148438,
+      444.8133850097656,
+      695.5892333984375
+    ],
+    "text": "0.93 [0.12, 1.70]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      479.8437805175781,
+      687.1210327148438,
+      535.0664672851562,
+      695.5892333984375
+    ],
+    "text": "1.22 [0.32, 2.08]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.0225830078125,
+      58.7328987121582,
+      289.2272644042969,
+      716.2265625
+    ],
+    "text": "nonconcurrent, randomized multiple-baseline design across participants was conducted. Self-reports of psychological inflexibility (i.e., AFQ-Y), RNT (i.e., PTQ-C), and generalized pliance (i.e., GPQ-C) were administered on a weekly basis, whereas measures of emotional symptoms (DASS-C) and parent-reported problematic behavior (CBCL) were administered at pretreatment, posttreatment, and at the 4-week followup. Overall, participants showed scores 1 standard deviation higher than the mean scores in nonclinical Colombian children and baselines did not show significant improving or deteriorating tendencies. All participants showed evidence of treatment effect in psychological inflexibility and RNT, whereas four out of seven participants did so in generalized pliance. The standardized mean difference effect sizes for SCED were very large (AFQ-Y: d = 3.74; PTQ-C: d = 3.14; GPQ-C: d = 1.14). It is important to note that these effect sizes are in the same metric as the between-group Cohen ’ s d . At posttreatment, no participants showed the diagnosis of child depression according to the MINI KID (P6 continued to show the diagnoses of ADHD and ODD). At the 4-week follow-up, none of the participants suffered from child depression or any other psychological disorder. Effect sizes were also very large for emotional disorders as reported by the children (DASS-C Total: d = 2.12 at the 4-week follow-up) and problematic behavior as reported by the parents (CBCLTotal: d = 1.21 at the 4-week follow-up). Although the results of this study are promising and encourage the development of brief RNT-focused ACT protocols for children, some limitations are worth noting. First, as opposed to concurrent multiple baseline designs, the nonconcurrent multiple baseline design used in this study cannot control for history or maturation effects that might occur simultaneously with the application of the intervention (Harvey, May, & Kennedy, 2004 ). However, we think the weaknesses of nonconcurrent multiple baseline designs are not especially significant in this case because: (a) only the results of participants with no improvement trends in baseline are reported; (b) although there are only 4 to 6 measurement points of baseline, they represent weekly measures, which indicated that the baseline showed no improvement trend across at least 1 month; (c) history confounding effects seem to be less relevant when the intervention effect is replicated in nine participants with relatively similar results across them; and (d) the interventions were implemented at different data points (after collecting 4, 5, or 6 baseline points), which reduces the possibility that the time point in which the intervention was implemented would have had a relevant effect. In addition, the randomization of the participants to one of the three cohorts significantly increases the internal validity of the experimental design (Kratochwill & Levin, 2010 ). Second, a general limitation of usual multiple baseline designs is their lack of active control conditions that control for the nonspecific effects of therapy. Third, the current study relied mostly on self-report",
+    "line_count": 53,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1398620605469,
+      58.71989822387695,
+      544.3566284179688,
+      492.07659912109375
+    ],
+    "text": "measures, and the MINI KID was not applied by a blind evaluator. Further studies might evaluate the intervention effect including independent clinician-administered assessments and daily measures of the children ’ s functioning. Fourth, we did not administer the DASS-C on a weekly basis to avoid participants ’ burden. In this study, we were more interested in analyzing the changes in process measures in more detail (i.e., psychological inflexibility, RNT, and generalized pliance). Future studies should include more frequent assessments of emotional symptoms. Lastly, only one therapist implemented the interventions, which reduces the external validity of the study. Subsequent studies might employ several therapists trained in the intervention. The effect sizes obtained in this study are unusually large. For instance, the meta-analysis conducted by Yang et al. ( 2017 ) found that CBT yields weighted effect sizes of d = 0.41 (95% CI [0.18, 0.64]) for child depression. This contrasts with the effect sizes obtained in the current study in terms of emotional symptoms ( d = 2.12 at the 4-week follow-up in the DASS-Total). However, the experimental design of this study cannot explain why the ACT protocol reached these unusually large effect sizes. Following Ruiz et al. ( 2016 ), this could be due to two main reasons: (a) the protocol simultaneously addressed the three strategies to promote psychological flexibility (Törneke et al., 2016 ) during the sessions, and (b) the protocol was focused on disrupting the first and most pervasive reaction to discomfiting thoughts and emotions (i.e., worry/rumination), which extends discomfort and supports further EA strategies. In conclusion, this study constitutes an initial and promising step in the analysis of brief RNT-focused ACT protocols for the treatment of child depression. Further studies might conduct randomized controlled trials to compare the effect of the ACT protocol with waitlist control conditions or brief versions of empirically established treatments.",
+    "line_count": 35,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.140869140625,
+      506.0638732910156,
+      544.2859497070312,
+      564.4608764648438
+    ],
+    "text": "Availability of Data and Materials The raw data of this study can be downloaded at https://osf.io/7r3gn/ . The results of the statistical analyses that are not reported in the manuscript for the sake of brevity can be found at https://osf.io/a7z6q/ and https://osf.io/7bp3f/ . The RNTfocused ACT protocol employed in this study can be downloaded at https://osf.io/ub2n8/",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      578.8576049804688,
+      461.36602783203125,
+      589.8165893554688
+    ],
+    "text": "Compliance with Ethical Standards",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      603.235595703125,
+      369.1898498535156,
+      611.7037963867188
+    ],
+    "text": "Conflict of Interest",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      377.5743408203125,
+      603.3307495117188,
+      544.35205078125,
+      611.7989501953125
+    ],
+    "text": "The authors declare that they have no conflict of",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      613.2520751953125,
+      332.08819580078125,
+      621.7202758789062
+    ],
+    "text": "interest.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      635.60693359375,
+      359.4717712402344,
+      644.0751342773438
+    ],
+    "text": "Ethical approval",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      367.87994384765625,
+      635.7020874023438,
+      544.2579956054688,
+      644.1702880859375
+    ],
+    "text": "All procedures performed in this study were in accor-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      645.6234741210938,
+      544.3291625976562,
+      674.0477905273438
+    ],
+    "text": "dance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      687.8777465820312,
+      365.2767639160156,
+      696.345947265625
+    ],
+    "text": "Informed consent",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      373.60614013671875,
+      687.972900390625,
+      544.3433837890625,
+      696.4411010742188
+    ],
+    "text": "Informed consent was obtained from all individual",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      697.9509887695312,
+      416.8260803222656,
+      706.419189453125
+    ],
+    "text": "participants included in the study.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      54.375648498535156,
+      107.94664001464844,
+      66.33074951171875
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.022735595703125,
+      82.32308197021484,
+      289.24920654296875,
+      715.887939453125
+    ],
+    "text": "Abela, J. R. Z., Aydin, C. M., & Auerbach, R. P. (2007). Responses to depression in children: Reconceptualizing the relation among response styles. Journal of Abnormal Child Psychology, 35 , 913 – 927. Abela, J. R. Z., Brozina, K., & Haigh, E. (2002). An examination of the response styles theory of depression in third and seventh grade children: A short term longitudinal study. Journal of Abnormal Child Psychology, 30 , 515 – 527. Abela, J. R. Z., Vanderbilt, E., & Rochon, A. (2004). A test of the integration of the response styles and social support theories of depression in third and seventh grade children. Journal of Social & Clinical Psychology, 23 , 653 – 674. Achenbach, T. M., & Rescorla, L. A. (2001). The manual for the ASEBA school-age forms & profiles . Burlington, VT: University of Vermont, Research Center for Children, Youth, & Families. Au, T. M., Sauer-Zavala, S., King, M. W., Petrocchi, N., Barlow, D. H., & Litz, B. T. (2017). Compassion-based therapy for trauma-related shame and post-traumatic stress: Initial evaluation using a multiple baseline design. Behavior Therapy, 48 , 207 – 221. Avenevoli, S., Swendsen, J., He, J. P., Burstein, M., & Merikangas, K. R. (2015). Major depression in the National Comorbidity Survey — Adolescent Supplement: Prevalence, correlates, and treatment. Journal of the American Academy of Child & Adolescent Psychiatry, 54 , 37 – 44. Beeson, P. M., & Robey, R. R. (2006). Evaluating single-subject treatment research: Lessons learned from the aphasia literature. Neuropsychology Review, 16 , 161 – 169. Bijttebier, P., Raes, F., Vasey, M. W., Bastin, M., & Ehring, T. W. (2015). Assessment of repetitive negative thinking in children: The Perseverative Thinking Questionnaire – Child Version (PTQ-C). Journal of Psychopathology & Behavioral Assessment, 37 , 164 – 170. Bond, F. W., Hayes, S. C., Baer, R. A., Carpenter, K. M., Guenole, N., Orcutt, H. K., et al. (2011). Preliminary psychometric properties of the Acceptance and Action Questionnaire — II: A revised measure of psychological inflexibility and experiential avoidance. Behavior Therapy, 42 , 676 – 688. Brumariu, L. E., & Kerns, K. A. (2010). Parent – child attachment and internalizing symptoms in childhood and adolescence: A review of empirical findings and future directions. Development & Psychopathology, 22 , 177 – 203. Caselli, G., Gemelli, A., Querci, S., Lugli, A. M., Canfora, F., Annovi, C., et al. (2013). The effect of rumination on craving across the continuum of drinking behaviour. Addictive Behaviors, 38 , 2879 – 2883. Colón-Soto, M., Díaz, V., Soto, O., & Santana, C. (2005). MINI KID Mini International Neuropsychiatric Interview . Tampa, FL: University of South Florida. Costello, E. J., Erkanli, A., & Angold, A. (2006). Is there an epidemic of child or adolescent depression? Journal of Child Psychology & Psychiatry, 47 , 1263 – 1271. Dereix-Calonge, I., Ruiz, F. J., Sierra, M. A., Peña-Vargas, A., & Ramírez, E. S. (2019). Acceptance and commitment training focused on repetitive negative thinking for clinical psychology trainees: A randomized controlled trial. Journal of Contextual Behavioral Science, 12 , 81 – 88. de Vries, R. M., & Morey, R. D. (2013). Bayesian hypothesis testing for single-subject designs. Psychological Methods, 18 , 165 – 185. de Vries, R. M., & Morey, R. D. (2015). A tutorial on computing Bayes factors for single-subject designs. Behavior Therapy, 46 , 809 – 823. DuBois, D. L., Felner, R. D., Bartels, C. L., & Silverman, M. M. (1995). Stability of self-reported depressive symptoms in a community sample of children and adolescents. Journal of Clinical Child Psychology, 24 , 386 – 396.",
+    "line_count": 62,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      306.136962890625,
+      57.38045883178711,
+      544.36474609375,
+      714.302001953125
+    ],
+    "text": "Egger, H. L., & Angold, A. (2006). Common emotional and behavioral disorders in preschool children: Presentation, nosology, and epidemiology. Journal of Child Psychology & Psychiatry, 47 , 313 – 337. Ehring, T., & Watkins, E. R. (2008). Repetitive negative thinking as a transdiagnostic process. International Journal of Cognitive Therapy, 1 , 192 – 205. Esbjørn, B. H., Normann, N., Christiansen, B. M., & Reinholdt-Dunne, M. L. (2018). The efficacy of group metacognitive therapy for children (MCT-c) with generalized anxiety disorder: An open trial. Journal of Anxiety Disorders, 53 , 16 – 21. Fekkes, M., Pijpers, F. I., Fredriks, A. M., Vogels, T., & VerlooveVanhorick, S. P. (2006). Do bullied children get ill, or do ill children get bullied? A prospective cohort study on the relationship between bullying and health-related symptoms. Pediatrics, 117 , 1568 – 1574. Ford, T., Goodman, R., & Meltzer, H. (2003). The British Child and Adolescent Mental Health Survey 1999: The prevalence of DSMIV disorders. Journal of the American Academy of Child & Adolescent Psychiatry, 42 , 1203 – 1211. Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2014). Bayesian data analysis (Vol. 2). Boca Raton, FL: CRC Press. Greco, L. A., Lambert, W., & Baer, R. A. (2008). Psychological inflexibility in childhood and adolescence: Development and evaluation of the Avoidance and Fusion Questionnaire for Youth. Psychological Assessment, 20 , 93 – 102. Harvey, M. T., May, M. E., & Kennedy, C. H. (2004). Nonconcurrent multiple baseline designs and the evaluation of educational systems. Journal of Behavioral Education, 13 , 267 – 276. Hayes, L., Boyd, C. P., & Sewell, J. (2011). Acceptance and commitment therapy for the treatment of adolescent depression: A pilot study in a psychiatric outpatient setting. Mindfulness, 2 , 86 – 94. Hayes, S. C., Barnes-Holmes, D., & Roche, B. (2001). Relational frame theory: A post-Skinnerian account of human language and cognition . New York, NY: Kluwer Academic Press. Hayes, S. C., & Strosahl, K. D. (Eds.). (2004). A practical guide to acceptance and commitment therapy . New York, NY: Springer Science & Business Media. Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy. An experiential approach to behavior change . New York, NY: Guilford Press. Hayes, S. C., & Wilson, K. G. (1994). Acceptance and commitment therapy: Altering the verbal support for experiential avoidance. The Behavior Analyst, 17 , 289 – 303. Hayes, S. C., Wilson, K. G., Gifford, E. V., Follette, V. M., & Strosahl, K. D. (1996). Experiential avoidance and behavioral disorders: A functional dimensional approach to diagnosis and treatment. Journal of Consulting & Clinical Psychology, 64 , 1152. Hedges, L. G., Pustejovsky, J. E., & Shadish, W. R. (2012). A standardized mean difference effect size for single-case designs. Research Synthesis Methods, 3 , 224 – 239. Hedges, L. G., Pustejovsky, J. E., & Shadish, W. R. (2013). A standardized mean difference effect size for multiple baseline designs across individuals. Research Synthesis Methods, 4 , 324 – 341. Henker, B., Whalen, C. K., & O'Neil, R. (1995). Worldly and workaday worries: Contemporary concerns of children and young adolescents. Journal of Abnormal Child Psychology, 23 , 685 – 702. JASP Team. (2018). JASP (version 0.9.0.1) [computer software]. Retrieved from https://jasp-stats.org/ Jeffreys, H. (1961). Theory of probability . Oxford, UK: Oxford University Press. Kahn, J. S., Kehle, T. J., Jenson, W. R., & Clark, E. (1990). Comparison of cognitive-behavioral, relaxation, and self-modeling interventions for depression among middle-school students. School Psychology Review, 19 , 196 – 211.",
+    "line_count": 64,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      57.37807846069336,
+      289.2484436035156,
+      715.8875732421875
+    ],
+    "text": "Kaufman, A. S., & Kaufman, N. L. (1990). Kaufman Brief Intelligence Test (KBIT-2) (2nd ed.). Circle Pines, MN: American Guidance Service. Kessler, R. C., Berglund, P., Demler, O., Jin, R., Koretz, D., Merikangas, K. R., & Wang, P. S. (2003). The epidemiology of major depressive disorder: Results from the National Comorbidity Survey Replication (NCS-R). Journal of American Medical Association, 289 , 3095 – 3105. Kessler, R. C., & Bromet, E. J. (2013). The epidemiology of depression across cultures. Annual Review of Public Health, 34 , 119 – 138. Kratochwill, T. R., & Levin, J. R. (2010). Enhancing the scientific credibility of single-case intervention research: Randomization to the rescue. Psychological Methods, 15 , 124 – 144. Lee, P. M. (2004). Bayesian statistics: An introduction (3rd ed.). New York, NY: Wiley. Lovibond, P. F., & Lovibond, S. H. (1995). The structure of negative emotional states: Comparison of the Depression Anxiety Stress Scales (DASS) with the Beck Depression and Anxiety Inventories. Behaviour Research & Therapy, 33 , 335 – 343. Luciano, C. (2017). The self and responding to the own ’ s behavior. Implications of coherence and hierarchical framing. International Journal of Psychology & Psychological Therapy, 17 , 267 – 275. Luciano, C., & Hayes, S. C. (2001). Trastorno de evitación experiencial [Experiential avoidance disorder]. International Journal of Clinical & Health Psychology, 1 , 109 – 157. Luciano, C., Valdivia-Salas, S., & Ruiz, F. J. (2012). The self as the context for rule-governed behavior. In L. McHugh & I. Stewart (Eds.), The self and perspective taking: Research and applications (pp. 143 – 160). Oakland, CA: Context Press. Maughan, B., Collishaw, S., & Stringaris, A. (2013). Depression in childhood and adolescence. Journal of the Canadian Academy of Child & Adolescent Psychiatry, 22 , 35 – 40. Merikangas, K. R., He, J. P., Burstein, M., Swanson, S. A., Avenevoli, S., Cui, L., et al. (2010). Lifetime prevalence of mental disorders in US adolescents: Results from the National Comorbidity Survey Replication – Adolescent Supplement (NCS-A). Journal of the American Academy of Child & Adolescent Psychiatry, 49 , 980 – 989. Muñiz, J., Elosua, P., & Hambleton, R. K. (2013). International Test Commission Guidelines for test translation and adaptation. Psicothema, 25 , 151 – 157. Newman, M. G., & Llera, S. J. (2011). A novel theory of experiential avoidance in generalized anxiety disorder: A review and synthesis of research supporting a contrast avoidance model of worry. Clinical Psychology Review, 31 , 371 – 382. Nolen-Hoeksema, S., Stice, E., Wade, E., & Bohon, C. (2007). Reciprocal relations between rumination and bulimic, substance abuse, and depressive symptoms in female adolescents. Journal of Abnormal Psychology, 116 , 198 – 207. Parker, R. I., Brossart, D. F., Vannest, K. J., Long, J. R., Garcia de Alba, R., Baugh, F. G., & Sullivan, J. R. (2005). Effect sizes in single case research: How large is large? School Psychology Review, 34 , 116 – 132. Parker, R. I., & Vannest, K. (2009). An improved effect size for singlecase research: Nonoverlap of all pairs. Behavior Therapy, 40 , 357 – 367. Parker, R. I., & Vannest, K. J. (2012). Bottom-up analysis of single-case research designs. Journal of Behavioral Education, 21 , 254 – 265. P ă s ă relu, C. R., Dobrean, A., Balazsi, R., Predescu, E., Ş ipos, R., & Lupu, V. (2016). The Penn State Worry Questionnaire for Children: Age, gender and clinical invariance. Child Psychiatry & Human Development, 48 , 359 – 369. Perren, S., & Alsaker, F. D. (2009). Depressive symptoms from kindergarten to early school age: Longitudinal associations with social skills deficits and peer victimization. Child & Adolescent Psychiatry & Mental Health, 3 , 28 – 38.",
+    "line_count": 65,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.138671875,
+      57.38009262084961,
+      544.3648681640625,
+      715.890380859375
+    ],
+    "text": "Petts, R. A., Duenas, J. A., & Gaynor, S. T. (2017). Acceptance and commitment therapy for adolescent depression: Application with a diverse and predominantly socioeconomically disadvantaged sample. Journal of Contextual Behavioral Science, 6 , 134 – 144. Pustejovsky, J. E. (2016). scdhlm: A web-based calculator for betweencase standardized mean differences (Version 0.3.1) [Web application]. Retrieved from: https://jepusto.shinyapps.io/scdhlm Pustejovsky, J. E., Hedges, L. V., & Shadish, W. R. (2014). Designcomparable effect sizes in multiple baseline designs: A general modeling framework. Journal of Educational & Behavioral Statistics, 39 , 368 – 393. Rao, U., Weissman, M. M., Martin, J. A., & Hammond, R. W. (1993). Childhood depression and risk of suicide: A preliminary report of a longitudinal study. Journal of the American Academy of Child & Adolescent Psychiatry, 32 , 21 – 27. Rouder, J. N., Morey, R. D., Verhagen, A. J., Swagman, A. R., & Wagenmakers, E.-J. (2017). Bayesian analysis of factorial designs. Psychological Methods, 22 , 304 – 321. Rouder, J. N., Speckman, P. L., Sun, D., Morey, R. D., & Iverson, G. (2009). Bayesian t-tests for accepting and rejecting the null hypothesis. Psychonomic Bulletin & Review, 16 , 225 – 237. Ruiz, F. J., Flórez, C. L., García-Martín, M. B., Monroy-Cifuentes, A., Barreto-Montero, K., García-Beltrán, D. M., et al. (2018). A multiple-baseline evaluation of a brief acceptance and commitment therapy protocol focused on repetitive negative thinking for moderate emotional disorders. Journal of Contextual Behavioral Science, 9 , 1 – 14. Ruiz, F. J., García-Beltrán, D. M., Monroy-Cifuentes, A., & SuárezFalcón, J. C. (2019). Single-case experimental design evaluation of repetitive negative thinking-focused acceptance and commitment therapy in generalized anxiety disorder with couple-related worry. International Journal of Psychology and Psychological Therapy, 19, 261 – 276. Ruiz, F. J., & Perete, L. (2015). Application of a relational frame theory account of psychological flexibility in young children. Psicothema, 27 , 114 – 119. Ruiz, F. J., Riaño-Hernández, D., Suárez-Falcón, J. C., & Luciano, C. (2016). Effect of a one-session ACT protocol in disrupting repetitive negative thinking: A randomized multiple-baseline design. International Journal of Psychology & Psychological Therapy, 16 , 213 – 233. Ruiz, F. J., Salazar, D. M., Suárez-Falcón, J. C., Peña-Vargas, A., Ehring, T., Barreto-Zambrano, M. L., & Gómez-Barreto, M. P. (in press). Psychometric properties and measurement invariance across gender and age-group of the Perseverative Thinking Questionnaire – Children (PTQ-C) in Colombia. Assessment . Ruiz, F. J., Suárez-Falcón, J. C., Barbero-Rubio, A., & Flórez, C. L. (2019). Development and initial validation of the Generalized Pliance Questionnaire. Journal of Contextual Behavioral Science, 12 , 189 – 198. Salazar, D. M., Ruiz, F. J., Flórez, C. L., & Suárez-Falcón, J. C. (2018). Psychometric properties of the Generalized Pliance Questionnaire — Children. International Journal of Psychology & Psychological Therapy, 18 , 271 – 284. Salazar, D. M., Ruiz, F. J., Suárez-Falcón, J. C., Barreto-Zambrano, M. L., Gómez-Barreto, M. P., & Flórez, C. L. (2019). Psychometric properties of the Avoidance and Fusion Questionnaire — Youth in Colombia. Journal of Contextual Behavioral Science, 12 , 305 – 313. Sander, J. B., & McCarty, C. A. (2005). Youth depression in the family context: Familial risk factors and models of treatment. Clinical Child & Family Psychology Review, 8 , 203 – 219. Sen, P. K. (1968). Estimates of the regression coefficient based on Kendall ’ s tau. Journal of the American Statistical Association, 63 , 1379 – 1389. Sheehan, D., Shytle, D., Milo, K., Janavs, J., & Lecrubier, Y. (2009). MINI International Neuropsychiatric Interview for Children and",
+    "line_count": 66,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.02396774291992,
+      57.37807846069336,
+      289.23529052734375,
+      355.6645202636719
+    ],
+    "text": "Adolescents, English Version 6.0 . Tampa, FL: University of South Florida. Silverman, W. K., LaGreca, A. M., & Wasserstein, S. (1995). What do children worry about? Worries and their relation to anxiety. Child Development, 66 , 671 – 686. Swain, J., Hancock, K., Dixon, A., & Bowman, J. (2015). Acceptance and commitment therapy for children: A systematic review of intervention studies. Journal of Contextual Behavioral Science, 4 , 73 – 85. Tate, R. L., Perdices, M., Rosenkoetter, U., McDonald, S., Togher, L., Shadish, W., et al. (2016). The Single-Case Reporting Guideline In BEhavioural Interventions (SCRIBE) 2016: Explanation and elaboration. Archives of Scientific Psychology, 4 , 10 – 31. Thapar, A., Collishaw, S., Pine, D. S., & Thapar, A. K. (2012). Depression in adolescence. The Lancet, 379 , 1056 – 1067. Törneke, N., Luciano, C., Barnes-Holmes, Y., & Bond, F. W. (2016). Relational frame theory and three core strategies in understanding and treating human suffering. In R. D. Zettle, S. C. Hayes, D. Barnes-Holmes, & A. Biglan (Eds.), The Wiley handbook of contextual behavioral science (pp. 254 – 272). Oxford, UK: WileyBlackwell. Urbaniak, G. C., & Plous, S. (2013). Research Randomizer, Version 4.0 (Web-based application. Available at www.randomizer.org Valentine, J. C., Tanner-Smith, E. E., & Pustejovsky, J. E. (2016). Between-case standardized mean difference effect sizes for singlecase designs: A primer and tutorial using the scdhlm web application . Oslo, Norway: Campbell Collaboration. Vannest, K. J., Parker, R. I., Davis, J. L., Soares, D. A., & Smith, S. L. (2012). The Theil-Sen slope for high stakes decision from progress monitoring. Behavioral Disorders, 37 , 271 – 280.",
+    "line_count": 30,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.13958740234375,
+      57.38320541381836,
+      544.363525390625,
+      322.33294677734375
+    ],
+    "text": "Vannest, K. J., Parker, R. I., & Gonen, O. (2011). Single-case research: Web-based calculator for SCR analysis, Version 1.0 (Web-based application) . College Station, TX: Texas A&M University Available from www.singlecaseresearch.org . Wagenmakers, E. J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data: The case of Psi: Comment on Bem (2011). Journal of Personality & Social Psychology, 3 , 426 – 432. Watkins, E. R. (2008). Constructive and unconstructive repetitive thought. Psychological Bulletin, 134 , 163 – 206. Watkins, E. R. (2016). Rumination-focused cognitive-behavioral therapy for depression . New York, NY: Guilford Press. Weersing, V. R., Jeffreys, M., Do, M. C. T., Schwartz, K. T., & Bolano, C. (2017). Evidence base update of psychosocial treatments for child and adolescent depression. Journal of Clinical Child & Adolescent Psychology, 46 , 11 – 43. Wells, A. (2009). Metacognitive therapy for anxiety and depression . New York, NY: Guilford Press. Yang, L., Zhou, X., Zhou, C., Zhang, Y., Pu, J., Liu, L., et al. (2017). Efficacy and acceptability of cognitive behavioral therapy for depression in children: A systematic review and meta-analysis. Academic Pediatrics, 17 , 9 – 16. Zhou, X., Hetrick, S. E., Cuijpers, P., Qin, B., Barth, J., Whittington, C. J., et al. (2015). Comparative efficacy and acceptability of psychotherapies for depression in children and adolescents: A systematic review and network meta-analysis. World Psychiatry, 14 , 207 – 222.",
+    "line_count": 26,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.1417541503906,
+      336.8982238769531,
+      544.2597045898438,
+      355.6609191894531
+    ],
+    "text": "Publisher ’ s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+    "line_count": 2,
+    "column": 1
+  }
+]

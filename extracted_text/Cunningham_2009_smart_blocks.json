@@ -1,0 +1,1394 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      221.102294921875,
+      88.01387786865234,
+      485.7341003417969,
+      152.73594665527344
+    ],
+    "text": "The Cool Teens CD-ROM for anxiety disorders in adolescents A pilot case series",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      220.2519073486328,
+      253.93093872070312,
+      374.2278137207031,
+      470.8561706542969
+    ],
+    "text": "j Abstract Five adolescents received a multimedia CD-ROM containing a self-help treatment program for young people with an anxiety disorder. Participants used the 8-module Cool Teens CD-ROM over a 12-week period on a home computer. Every 2 weeks, they received a brief telephone call from a clinical psychologist to monitor symptoms and progress and to discuss any problems with understanding content or implementing techniques. Based on structured interviews, two participants (40%) no longer met diagnostic criteria (self-report ADIS) for at least one clinical anxiety disorder immediately following",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      226.7716064453125,
+      34.79868698120117,
+      319.05401611328125,
+      49.7250862121582
+    ],
+    "text": "BRIEF REPORT",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      39.87301254272461,
+      185.84616088867188,
+      48.40241241455078
+    ],
+    "text": "18:125–129 DOI 10.1007/s00787-008-0703-y",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02354431152344,
+      94.45633697509766,
+      130.87649536132812,
+      161.81175231933594
+    ],
+    "text": "M.J. Cunningham V.M. Wuthrich R.M. Rapee H.J. Lyneham C.A. Schniering J.L. Hudson",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      262.8294677734375,
+      162.04229736328125,
+      280.5995788574219
+    ],
+    "text": "Accepted: 8 April 2008 Published online: 18 June 2008",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      387.4757080078125,
+      170.8642578125,
+      470.2376708984375
+    ],
+    "text": "M.J. Cunningham ( & ) V.M. Wuthrich Æ R.M. Rapee H.J. Lyneham Æ C.A. Schniering J.L. Hudson Centre for Emotional Health Department of Psychology Macquarie University NSW 2109 Sydney, Australia E-Mail: mjjcunning@hotmail.com",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      509.00421142578125,
+      109.98675537109375,
+      521.2651977539062
+    ],
+    "text": "Introduction",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02256774902344,
+      538.42822265625,
+      289.186767578125,
+      696.4931640625
+    ],
+    "text": "Despite clinical anxiety being one of the most common mental health conditions in adolescents [ 5 ] and that many efﬁcacious cognitive behavioural therapy (CBT) programs have been developed (reviews, [ 3 , 10 ]), only one in four young people receive professional help for this problem [ 18 ]. Identiﬁed barriers with traditional treatments and services include conﬁdentiality, stigma, cost, geographic or social isolation, content appropriateness, format of engagement, and waiting time [ 2 , 28 ]. In their review of 13 studies involving 498 adolescents and children, James et al. [ 10 ] reported that CBT was effective in 56% of cases and that the effects were durable. Individual, group, or parental/family",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      391.1820373535156,
+      256.3257141113281,
+      544.2744750976562,
+      391.71331787109375
+    ],
+    "text": "treatment and these same participants no longer met diagnostic criteria for any clinical anxiety disorder at 3-month follow-up. Two other participants failed to make gains based on diagnostic criteria, but showed improvement in anxiety symptoms for one main fear. Participants were generally satisﬁed with the multimedia content, the modules, and the delivery format of the program.",
+    "line_count": 12,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      390.5007019042969,
+      426.4671325683594,
+      539.5413818359375,
+      473.575439453125
+    ],
+    "text": "j Key words anxiety disorders – adolescents – computer-based CBT – multimedia – self-help",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.14105224609375,
+      504.6966247558594,
+      544.309326171875,
+      674.100341796875
+    ],
+    "text": "formats all produced similar outcomes. However, older adolescents were under-represented in the review and clinical experience suggests that anxiety in this group presents additional treatment challenges due to difﬁculties with engagement and motivation at this developmental stage. More ‘‘creative and innovative’’ approaches to treatment are worth exploring [ 9 ], and one promising format is computer-based treatment [ 1 , 4 , 12 , 19 ]. Advantages include cost effectiveness (reduced therapist time), time and travel convenience, engaging content, potential to reach those reluctant to make face-to-face contact, and broader service dissemination, particularly to rural participants. Disadvantages include extensive time and resources needed to",
+    "line_count": 15,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      551.0208740234375,
+      670.9605102539062,
+      557.4177856445312,
+      697.7846069335938
+    ],
+    "text": "ECAP 703",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.14202880859375,
+      674.77734375,
+      544.2838134765625,
+      696.7777709960938
+    ],
+    "text": "develop such programs, difﬁculty monitoring program use, potential technical problems, and lack of",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      221.10154724121094,
+      39.70333480834961,
+      299.84503173828125,
+      48.285343170166016
+    ],
+    "text": "\u0001 Steinkopff Verlag 2008",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023597717285156,
+      66.1763687133789,
+      289.1910095214844,
+      258.25799560546875
+    ],
+    "text": "suitability for some clients. There are no existing published studies on computer-based therapy programs for adolescents with anxiety. A multidisciplinary team at Macquarie University’s Centre for Emotional Health has recently produced the Cool Teens CD-ROM , a home-based therapy option for anxious adolescents [ 6 , 8 ], allowing individuals to move at a pace and intensity to suit their speciﬁc problems. Content focuses on social phobia (SP) and generalized anxiety disorder (GAD), but also covers separation anxiety disorder (SAD), speciﬁc phobias (SpP), and obsessive-compulsive disorder (OCD). Feedback to a prototype rated the interactive format of this program positively, and many adolescents reported it acceptable as a therapy option [ 7 ]. This paper presents a case series on early users of the Cool Teens CD-ROM .",
+    "line_count": 17,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      287.9019470214844,
+      117.54259490966797,
+      322.6008605957031
+    ],
+    "text": "Methods j Participants",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      334.9007873535156,
+      289.19744873046875,
+      538.3206176757812
+    ],
+    "text": "Four females (aged 14–16 years) and 1 male (aged 16 years) were recruited from successive parental referrals to the Macquarie University Anxiety Research Unit (MUARU), Sydney, Australia between March and May 2006. Inclusion criteria were: a principal diagnosis of an anxiety disorder, age between 14 and 18 years, and access to a home computer. Exclusion criteria included problems requiring immediate attention (e.g., suicidal ideation, self-harm, abuse, psychosis) and signiﬁcant learning difﬁculties. Participants were required to stabilise current medication and to not engage in other active therapy during the study period. Four participants had a principal diagnosis of GAD and one had SAD. Many had additional anxiety diagnoses. The research was approved by the Macquarie University Ethics Review Committee and each adolescent and a parent gave written consent.",
+    "line_count": 18,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      549.0955200195312,
+      106.5939712524414,
+      562.6952514648438
+    ],
+    "text": "j Measures",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023590087890625,
+      574.9952392578125,
+      289.16766357421875,
+      699.0440063476562
+    ],
+    "text": "Pre- and post-treatment diagnoses and outcomes were clinically assessed using the Anxiety Disorders Interview Schedule for Children (ADIS-C-IV) [ 24 ]. This provides a DSM-IV diagnosis and is reliable for child and adolescent anxiety disorders ( j = 0.8–1.0) [ 15 ]. ADIS-IV ratings are reported as a clinician severity rating (CSR) on a 9-point scale (0 = not at all disturbing/disabling; 8 = very severely disturbing/ disabling; a rating under 4 is sub-clinical), based on adolescent report, parent report, and therapist’s combined interpretation. The structured interview",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.14105224609375,
+      66.17618560791016,
+      544.2860107421875,
+      224.2415771484375
+    ],
+    "text": "was conducted face-to-face for participants in the Sydney area and over the telephone for participants outside the Sydney area. All post-treatment ADIS assessments were conducted over the telephone. Previous investigations have demonstrated that telephone administration has high validity [ 13 ]. Pre- and post-treatment anxiety symptoms were measured using the Spence Children’s Anxiety Scale (SCAS) [ 26 , 27 ]. This 38-item measure assesses both adolescent (SCAS-C) and parent (SCAS-P) reports of symptoms, closely corresponding to those in the DSM-IV. It has good psychometric properties with respect to reliability and validity. Negative beliefs were",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      337.03863525390625,
+      213.57986450195312,
+      373.8534240722656,
+      224.2415771484375
+    ],
+    "text": "assessed",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      384.093994140625,
+      213.57986450195312,
+      408.0614929199219,
+      224.2415771484375
+    ],
+    "text": "using",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      418.2796630859375,
+      213.57986450195312,
+      432.0332336425781,
+      224.2415771484375
+    ],
+    "text": "the",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      442.3175048828125,
+      213.57986450195312,
+      487.6936950683594,
+      224.2415771484375
+    ],
+    "text": "Children’s",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      497.9331970214844,
+      213.57986450195312,
+      544.3009033203125,
+      224.2415771484375
+    ],
+    "text": "Automatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.13787841796875,
+      224.91860961914062,
+      544.2946166992188,
+      382.9837341308594
+    ],
+    "text": "Thoughts Scale (CATS) [ 22 ], a 40-item self-report measure designed to assess negative self-statements. This scale has been shown to have good discriminant validity for each of the subscales across childhood disorders, including anxiety, and good convergent validity with related anxiety scales [ 21 , 23 ]. During a therapist contact telephone call every 2 weeks, a shortened version of the SCAS-C and an Anxiety Symptom Tracking Measure designed to assess each participant’s self-identiﬁed main fear were administered. Participant satisfaction was measured using a 10-question adapted Barriers to Treatment Participation Scale [ 11 ] and a Preferences and Attitudes Questionnaire.",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      401.4105224609375,
+      366.369140625,
+      415.01025390625
+    ],
+    "text": "j Treatment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      427.31005859375,
+      544.3261108398438,
+      494.66534423828125
+    ],
+    "text": "The Cool Teens CD-ROM is a multimedia program incorporating text, graphics, video, voiceover, and graphics. It comprises 8 modules covering the following therapeutic components: Module 1—Psychoeducation, Module 2—Goal Setting, Modules 3 and 5—Cognitive",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      377.79156494140625,
+      484.0036315917969,
+      444.7854309082031,
+      494.66534423828125
+    ],
+    "text": "Re-structuring,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      458.1637268066406,
+      484.0036315917969,
+      495.98504638671875,
+      494.66534423828125
+    ],
+    "text": "Modules",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      527.7760620117188,
+      484.0036315917969,
+      544.310302734375,
+      494.66534423828125
+    ],
+    "text": "and",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      495.34234619140625,
+      544.37109375,
+      698.76220703125
+    ],
+    "text": "6—Exposure, Module 7—Coping Skills, and Module 8—Maintenance. Each module takes 15–30 min to complete and contains information, interactive exercises, hypothetical scenarios, case studies, and practice tasks [ 6 ]. The content of the CD-ROM modules is based on material from the well-established Cool Kids anxiety program that delivers these same cognitive behavioural skills through 10-week therapist-guided group therapy [ 16 ]. This program has been shown to be efﬁcacious in clinical settings, school settings, telephone based delivery, and bibliotherapy format [ 14 , 17 , 20 ]. In the current study, use of the CD-ROM was supported by some therapist contact. A clinical psychologist made a telephone call to each participant every 2 weeks to ask a set of questions regarding progressandunderstandingofmaterial.Thepurposesof the calls were to provide motivation, keep participants",
+    "line_count": 18,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      221.102294921875,
+      39.70333480834961,
+      344.14312744140625,
+      48.23273468017578
+    ],
+    "text": "The Cool Teens CD-ROM pilot case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.022735595703125,
+      689.2901000976562,
+      531.1368408203125,
+      697.8195190429688
+    ],
+    "text": "ADIS-C anxiety disorders interview schedule for Children (DSM-IV); ADIS-P ADIS-parent version; ADIS combined clinician rating from child and parent reports",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      66.1763687133789,
+      289.1718444824219,
+      122.19304656982422
+    ],
+    "text": "moving through modules at a good pace, and clarify any issues regarding the content. Minimal therapeutic assistance was included if requested. The adolescent was reminded of the clinic’s contact details if they need help with strong negative feelings.",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      144.30821228027344,
+      113.7027359008789,
+      157.907958984375
+    ],
+    "text": "j Procedures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023597717285156,
+      170.20779418945312,
+      289.18896484375,
+      509.6924743652344
+    ],
+    "text": "Potential participants were screened brieﬂy to ascertain suitability for study inclusion and were provided with information and consent forms. To assess the diagnostic status of participants, ADIS-IV interviews were conducted by a clinical psychologist. Pre-treatment questionnaires (SCAS-C, SCAS-P, & CATS) were sent by mail for completion and a pre-paid envelope was provided for their return. Once questionnaires and consent forms were received, participants were sent the Cool Teens CD-ROM for use over an initial period of 12 weeks. They were asked to work through the self-help program and were informed they would receive a brief call from a psychologist every 2 weeks to assess progress. They were told they would be re-assessed after 12 weeks and should aim to complete all of the modules by then. Participants were provided with contact details for the clinic to give them a sense of connection and to provide access to professional help in case of an emergency. After 12 weeks of therapy, each participant completed a post-treatment telephone ADIS interview and returned Barriers to Treatment Scale and User Preferences and Attitudes questionnaires. Each participant received $30.00 to compensate for time spent on the research. Participants were encouraged to continue using the CD-ROM for a further 12 weeks, and were told that the same re-assessment and payment procedure would be carried out after that follow-up period.",
+    "line_count": 30,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      523.6337890625,
+      318.8510437011719,
+      550.3052368164062
+    ],
+    "text": "Table 1 Pre, post, and follow-up ADIS severity ratings for their primary diagnosis only Measure",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.99147033691406,
+      570.12158203125,
+      163.12376403808594,
+      578.6510009765625
+    ],
+    "text": "ADIS (0–8) (adolescent only report)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      232.26907348632812,
+      570.12158203125,
+      262.3812561035156,
+      597.0762329101562
+    ],
+    "text": "Pre Post Follow up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.99147033691406,
+      597.7875366210938,
+      150.76551818847656,
+      606.3169555664062
+    ],
+    "text": "ADIS (0–8) (parent only report)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      232.26907348632812,
+      597.7875366210938,
+      262.3812561035156,
+      624.7421875
+    ],
+    "text": "Pre Post Follow up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.99147033691406,
+      625.397216796875,
+      209.66783142089844,
+      633.9266357421875
+    ],
+    "text": "ADIS (0–8) (adolescent & parent combined report)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      232.26907348632812,
+      625.397216796875,
+      262.3812561035156,
+      652.3518676757812
+    ],
+    "text": "Pre Post Follow up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.99147033691406,
+      653.0631713867188,
+      191.81155395507812,
+      661.5925903320312
+    ],
+    "text": "Total # Anxiety Diagnoses (combined report)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      232.26907348632812,
+      653.0631713867188,
+      262.3812561035156,
+      680.017822265625
+    ],
+    "text": "Pre Post Follow up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      65.60913848876953,
+      340.0801696777344,
+      77.8701400756836
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      89.93070220947266,
+      544.3069458007812,
+      508.7865905761719
+    ],
+    "text": "Table 1 shows the pre- and post-treatment and 3- month follow-up scores for the clinical ADIS interview. Four participants completed at least six of the eight modules within the 12 weeks. The length of the scheduled telephone support calls ranged from 5– 20 min per session (mean = 13.5, SD = 6.82). Participant 1, a 15-year old female with GAD and 3 co-morbid anxieties, completed all 8 modules within the initial treatment period and reported regular consistent use of the program. Her most positive gain was a large improvement in anxiety rating for her main fear as measured by the Anxiety Symptom Tracking Measure. Her parent SCAS score demonstrated some reduction in anxiety but no changes in ADIS diagnosis or severity were observed. Participant 2, a 16-year old female with GAD and a co-morbid SpP, completed 6 modules. At post-treatment she improved greatly on the self-reported anxiety rating for her main fear. While her ADIS-C rating for GAD was reduced from 6 to 4, this improvement was not supported by ADIS-P and self-report measures data. In addition, she now reported social anxiety fears that met criteria for SP, despite having denied their presence at pre-assessment. At follow-up, her ADIS-C rating was slightly reduced from the pretreatment level, and some gains were made in her selfreported SCAS and CATS scores. Participant 3, a 14-year old female with SAD along with secondary GAD and a SpP, completed 7 modules. Post-treatment, her ADIS rating for SAD showed slight improvement and she reported that she was ‘‘just getting to’’ the major steps in her exposure hierarchy. Severity ratings for her secondary diagnoses had both reduced to subclinical levels based on combined ADIS data. At follow-up, her ADIS-C rating for SAD was one and the ADIS-P and combined ratings for her three anxiety disorders were at subclinical",
+    "line_count": 37,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      284.99359130859375,
+      541.7758178710938,
+      304.9063720703125,
+      550.3052368164062
+    ],
+    "text": "Case 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      340.2692565917969,
+      541.7758178710938,
+      360.1820068359375,
+      550.3052368164062
+    ],
+    "text": "Case 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      395.6011962890625,
+      541.7758178710938,
+      415.4576721191406,
+      550.3052368164062
+    ],
+    "text": "Case 3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.9693298339844,
+      541.7758178710938,
+      469.882080078125,
+      550.3052368164062
+    ],
+    "text": "Case 4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      505.30126953125,
+      541.7758178710938,
+      525.15771484375,
+      550.3052368164062
+    ],
+    "text": "Case 5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      284.9935607910156,
+      551.0165405273438,
+      317.6782531738281,
+      559.5459594726562
+    ],
+    "text": "F, 15, GAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      340.26837158203125,
+      551.0165405273438,
+      372.95306396484375,
+      559.5459594726562
+    ],
+    "text": "F, 16, GAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      395.5994873046875,
+      551.0165405273438,
+      427.3407897949219,
+      559.5459594726562
+    ],
+    "text": "F, 14, SAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.96759033203125,
+      551.0165405273438,
+      482.65228271484375,
+      559.5459594726562
+    ],
+    "text": "F, 15, GAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      505.2987060546875,
+      551.0165405273438,
+      540.2512817382812,
+      559.5459594726562
+    ],
+    "text": "M, 16, GAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.9683837890625,
+      588.5468139648438,
+      454.23309326171875,
+      597.0762329101562
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      505.30029296875,
+      606.9719848632812,
+      509.56500244140625,
+      615.5014038085938
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.9683837890625,
+      616.2127685546875,
+      454.23309326171875,
+      624.7421875
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.9683837890625,
+      643.8224487304688,
+      454.23309326171875,
+      652.3518676757812
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      284.9935607910156,
+      653.0631713867188,
+      313.5875244140625,
+      661.5925903320312
+    ],
+    "text": "5 (2 SpP)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.96923828125,
+      653.0631713867188,
+      478.563232421875,
+      661.5925903320312
+    ],
+    "text": "5 (4 SpP)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      284.99267578125,
+      662.2476806640625,
+      313.586669921875,
+      680.017822265625
+    ],
+    "text": "5 (2 SpP) 6 (3 SpP)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      449.9683837890625,
+      671.4884033203125,
+      454.23309326171875,
+      680.017822265625
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      225.29684448242188,
+      589.7208251953125,
+      374.1646423339844,
+      681.1918334960938
+    ],
+    "text": "3. Cartwright-Hatton S, Roberts C, Chitsabesan P, Fothergill C, Harrington R (2004) Systematic review of the efﬁcacy of cognitive behaviour therapies for childhood and adolescent anxiety disorders. Br J Clin Psychol 43:421–436 4. Caspar F (2004) Technological developments and applications in clinical psychology and psychotherapy: summary and outlook. J Clin Psychol",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      221.10154724121094,
+      39.70333480834961,
+      299.84503173828125,
+      48.285343170166016
+    ],
+    "text": "\u0001 Steinkopff Verlag 2008",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.023597717285156,
+      66.1763687133789,
+      289.18463134765625,
+      371.64520263671875
+    ],
+    "text": "levels. Her parental SCAS reports were much improved. Participant 4, a 15-year old female with GAD and four co-morbid SpPs, completed two modules before discontinuing treatment after week 4 because she reported she no longer had anxiety and required no further therapy. This participant and her mother both reported that the early CD content, especially the psychoeducation module, had helped her discuss and work on her problems more with her family. Her posttreatment ratings (ADIS-C and ADIS-P) were reduced to subclinical levels for GAD and all but one SpP. Participant 5, a 16-year old male with GAD, completed all 8 modules and showed an improvement to a subclinical level as shown by an ADIS-C anxiety rating reduction from 6 to 2. This ﬁnding was supported by some gains in SCAS and CATS scores and by the paternal SCAS-P scores. At follow-up, his ADIS-C anxiety rating remained subclinical and was even further reduced (to 0). All program modules and media components were rated positively. Some barriers were identiﬁed, with ‘‘ﬁnding time’’ rated as the greatest difﬁculty. Speciﬁc likes and dislikes were reported and suggestions for improvements were made, but seemed to reﬂect personal preferences rather than recurring program weaknesses.",
+    "line_count": 27,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      397.3192443847656,
+      99.76107788085938,
+      409.58026123046875
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      421.640869140625,
+      289.1718444824219,
+      511.673583984375
+    ],
+    "text": "The pilot research reported here was a case series that evaluated several clinical outcomes with ﬁve adolescents who used the Cool Teens CD-ROM for the treatment of diagnosed anxiety disorders over a 12-week therapy period with a 3-month follow-up. Post-treatment assessment showed 2 participants (40%) had anxiety severity ratings that were reduced to a subclinical level for at least 1 clinical anxiety",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      565.4703369140625,
+      102.44624328613281,
+      577.7313232421875
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.21889877319336,
+      589.7207641601562,
+      204.10557556152344,
+      690.3762817382812
+    ],
+    "text": "1. Andersson G, Bergstrom J, Carlbring P, Lindefors N (2005) The use of the Internet in the treatment of anxiety disorders. Current Opinion in Psychiatry 18:73–77 2. Booth ML, Bernard D, Quine S, Kang MS, Usherwood T, Alperstein G et al (2004) Access to health care among Australian adolescents—young people’s perspectives and their sociodemographic distribution. J Adoles",
+    "line_count": 11,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      234.70819091796875,
+      681.8468627929688,
+      273.7813720703125,
+      690.3762817382812
+    ],
+    "text": "60:347–349",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      64.63024139404297,
+      691.0875854492188,
+      125.92338562011719,
+      699.6170043945312
+    ],
+    "text": "Health 34:97–103",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1410217285156,
+      66.17545318603516,
+      544.295654296875,
+      473.6927185058594
+    ],
+    "text": "disorder. At 3-month follow-up, these two participants no longer met diagnostic criteria for any clinical anxiety disorder. All of the adolescents were generally satisﬁed with the multimedia content, modules, and delivery format of the program. The adolescent who had the greatest overall improvement was the only one who had no secondary diagnoses. The participant who had the next best overall gains had two secondary diagnoses but her primary problem was SAD rather than a broader disorder. In contrast, the participants who had a larger number of secondary diagnoses and more complex clinical presentations made the least overall improvements. This is consistent with a previous study showing that higher levels of pre-treatment symptoms predicted poorer post-treatment outcomes [ 25 ]. Not all measures indicated improvements. Indeed, participant scores on some scales increased from preto post-treatment. One possibility is that the program increased adolescents’ awareness of their anxieties. It is important to note that only two of the ﬁve participants completed all eight modules within the 12-week timeframe, mainly due to not being able to ‘‘ﬁnd time’’. The overall level of effectiveness from this pilot evaluation of the Cool Teens CD-ROM , with its mixed ﬁndings for various participants, may suggest two broad possibilities. First, there may be ways to improve the program by enhancing the CD-ROM’s various components with the goal of increasing user compliance, motivation, and beneﬁt. Second, this selfhelp format may never be expected to do as well as therapist-led treatment in terms of clinical efﬁcacy. Based on the positive user feedback data, this format also has other advantages such as increased accessibility and acceptability for this rather difﬁcult to engage population.",
+    "line_count": 36,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1408386230469,
+      491.1873474121094,
+      544.2579345703125,
+      511.05670166015625
+    ],
+    "text": "j Acknowledgments Vice Chancellor’s Development Fund (Macquarie University) and Australian Rotary Health Research Fund.",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      395.3747863769531,
+      589.7216796875,
+      544.2622680664062,
+      681.1926879882812
+    ],
+    "text": "5. Costello EJ, Mustillo S, Erkanli A, Keeler G, Angold A (2003) Prevalence and development of psychiatric disorders in childhood and adolescence. Arch Gen Psychiatry 60:837–844 6. Cunningham MJ, Rapee RM, Lyneham HJ (2006) The Cool Teens CD-ROM : A multimedia self-help program for adolescents with anxiety. Youth Stud Aust 25:50–56",
+    "line_count": 10,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      221.102294921875,
+      39.70333480834961,
+      344.14312744140625,
+      48.23273468017578
+    ],
+    "text": "The Cool Teens CD-ROM pilot case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      221.21551513671875,
+      66.1630859375,
+      374.1885681152344,
+      258.9441833496094
+    ],
+    "text": "14. Lyneham HJ, Rapee RM (2006) Evaluation of therapist-supported parentimplemented CBT for anxiety disorders in rural children. Behav Res Ther 15. Lyneham HJ, Abbott MJ, Rapee RM (2007) Inter-rater reliability of the anxiety disorders interview schedule for DSM-IV: child and parent version. J Am Acad Child Adoles Psychiatry 16. Lyneham HJ, Schniering CA, Hudson JL, Rapee RM (2005) The cool kids program—adolescent version. Macquarie University Anxiety Research 17. Mifsud C, Rapee RM (2005) Early intervention for childhood anxiety in a school setting: outcomes for an economically disadvantaged population. J Am Acad Child Adoles Psychiatry",
+    "line_count": 18,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      221.21551513671875,
+      278.0807189941406,
+      374.17236328125,
+      443.1961669921875
+    ],
+    "text": "importance of youth mental health. Retrieved June 12, 2007 from www.orygen.org.au/docs/RESEARCH/NYM19. Proudfoot J (2004) Computer-based treatment for anxiety and depression: is it feasible? Is it effective? Neurosci 20. Rapee RM, Abbott MJ, Lyneham HJ (2006) Bibliotherapy for children with anxiety disorders using written materials for parents: a randomized controlled trial. J Consult Clin Psychol 21. Schniering CA, Lyneham HJ (2007) The children’s automatic thoughts scale in a clinical sample: psychometric properties and clinical utility. Behav Res Ther",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      55.21889877319336,
+      66.161865234375,
+      204.1063690185547,
+      111.5416030883789
+    ],
+    "text": "7. Cunningham MJ, Rapee RM, Lyneham HJ (2006) Feedback to a prototype selfhelp computer program for anxiety disorders in adolescents. Aust e-J Advance Mental Health 5(3): Retrieved",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      103.013427734375,
+      281.9524841308594,
+      111.5428237915039
+    ],
+    "text": "44:1287–1300",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      55.218902587890625,
+      112.2529296875,
+      204.1157989501953,
+      166.81712341308594
+    ],
+    "text": "June 12, 2007, from www.auseinet.com/ journal/vol5iss3/cunningham.pdf 8. Cunningham MJ, Rapee RM, Lyneham HJ, Schniering CA, Hudson JL, Wuthrich V (2006) The Cool Teens CD-ROM —an anxiety management program for",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      158.2889404296875,
+      273.7813415527344,
+      166.81834411621094
+    ],
+    "text": "46:731–736",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      55.218902587890625,
+      167.5284423828125,
+      194.64129638671875,
+      203.66746520996094
+    ],
+    "text": "young people. Macquarie University Anxiety Research Unit (MUARU), Sydney 9. Department",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      114.12294006347656,
+      195.1380615234375,
+      151.7265167236328,
+      203.66746520996094
+    ],
+    "text": "of Health",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      158.96713256835938,
+      195.1380615234375,
+      204.1175079345703,
+      203.66746520996094
+    ],
+    "text": "and Ageing",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      64.63024139404297,
+      204.3787841796875,
+      204.0646209716797,
+      212.90818786621094
+    ],
+    "text": "(2004) Responding to the mental health",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      204.3800048828125,
+      280.7925109863281,
+      212.90940856933594
+    ],
+    "text": "Unit, Sydney",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      64.63024139404297,
+      213.563232421875,
+      203.77542114257812,
+      268.1836853027344
+    ],
+    "text": "needs of young people in Australia. Discussion paper: principles and strategies. Retrieved June 12, 2007, from http://www.health.gov.au/internet/ wcms/Publishing.nsf/Content/ 2DBB059F48B76CA3-",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      259.655517578125,
+      277.8669128417969,
+      268.1849060058594
+    ],
+    "text": "44:996–1004",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      64.63024139404297,
+      268.8387451171875,
+      203.99212646484375,
+      277.3681335449219
+    ],
+    "text": "CA25725A001BDD13/$File/respond.pdf",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      221.21551513671875,
+      268.8399658203125,
+      264.1004943847656,
+      277.3693542480469
+    ],
+    "text": "18. NYMHF",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.1375846862793,
+      278.0794982910156,
+      204.09617614746094,
+      314.2185363769531
+    ],
+    "text": "10. James A, Soler A, Weatherall, R (2005) Cognitive behavioural therapy for anxiety disorders in children and adolescents. Cochrane Database Syst Rev 4",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      305.69036865234375,
+      296.8362731933594,
+      314.2197570800781
+    ],
+    "text": "HF_summary.pdf",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.1375846862793,
+      314.9299011230469,
+      204.1183319091797,
+      351.0689392089844
+    ],
+    "text": "11. Kazdin AE, Holland L, Crowley M, Breton S (1997) Barriers to treatment participation scale. J Child Psychol Psychiatry Allied Dis 38:1051–1062",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      342.540771484375,
+      325.3713073730469,
+      351.0701599121094
+    ],
+    "text": "Biobehav Rev 28:353–363",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.1375846862793,
+      351.7803039550781,
+      204.09017944335938,
+      406.34454345703125
+    ],
+    "text": "12. Khanna M, Aschenbrand SG, Kendall PC (2007) New frontiers: computer technology in the treatment of anxious youth. Behav Ther 30:22–25 13. Lyneham HJ, Rapee RM (2005) Agreement between telephone and in-person",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      397.8163757324219,
+      273.7813415527344,
+      406.34576416015625
+    ],
+    "text": "74:436–444",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      64.63024139404297,
+      407.055908203125,
+      204.1055450439453,
+      434.010498046875
+    ],
+    "text": "delivery of a structured interview for anxiety disorders in children. J Am Acad Child Adol Psychiatry 44:274–282",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      234.7081756591797,
+      443.90753173828125,
+      281.9524841308594,
+      452.4369201660156
+    ],
+    "text": "45:1931–1940",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      391.29345703125,
+      66.16510009765625,
+      442.60540771484375,
+      74.69449615478516
+    ],
+    "text": "22. Schniering",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      450.59320068359375,
+      66.16510009765625,
+      493.017578125,
+      74.69449615478516
+    ],
+    "text": "CA, Rapee",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      500.9925537109375,
+      66.16510009765625,
+      544.2373657226562,
+      74.69449615478516
+    ],
+    "text": "RM (2002)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      391.29345703125,
+      75.40582275390625,
+      544.2493286132812,
+      222.0958709716797
+    ],
+    "text": "Development and validation of a measure of children’s automatic thoughts: the children’s automatic thoughts scale. Behav Res Ther 40:1091–1109 23. Schniering CA, Rapee RM (2004) The relationship between automatic thoughts and negative emotions in children and adolescents: a test of the cognitive content-speciﬁcity hypothesis. J Abnorm Psychol 113:464–470 24. Silverman WK, Albano AM (1996) The anxiety disorders interview schedule for children-IV (child and parent versions). Psychological Corporation, San Antonio 25. Southam-Gerow",
+    "line_count": 16,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      471.4561462402344,
+      213.56646728515625,
+      486.4593505859375,
+      222.0958709716797
+    ],
+    "text": "MA,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      495.7205810546875,
+      213.56646728515625,
+      522.7929077148438,
+      222.0958709716797
+    ],
+    "text": "Kendall",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      532.0601196289062,
+      213.56646728515625,
+      544.2230224609375,
+      222.0958709716797
+    ],
+    "text": "PC,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      391.2946472167969,
+      222.80718994140625,
+      544.2259521484375,
+      277.3683166503906
+    ],
+    "text": "Weersing VR (2001) Examining outcome variability: correlates of treatment response in a child and adolescent anxiety clinic. J Clin Child Adoles Psychol 30:422–436 26. Spence SH (1998) A measure of anxiety",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      272.2384033203125,
+      268.8399658203125,
+      294.79010009765625,
+      277.3693542480469
+    ],
+    "text": "(2005)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      302.90924072265625,
+      268.8399658203125,
+      324.8383483886719,
+      277.3693542480469
+    ],
+    "text": "Media",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      332.9566345214844,
+      268.8399658203125,
+      352.5657043457031,
+      277.3693542480469
+    ],
+    "text": "Alert.",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      360.6788635253906,
+      268.8399658203125,
+      374.1723937988281,
+      277.3693542480469
+    ],
+    "text": "The",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      391.2946472167969,
+      278.0796813964844,
+      544.2796630859375,
+      406.3447265625
+    ],
+    "text": "symptoms among children. Behav Res Ther 36:545–566 27. Spence SH, Barrett PM, Turner CM (2003) Psychometric properties of the Spence Children’s Anxiety Scale with young adolescents. J Anxiety Disord 17:605–625 28. WHO Child Mental Health Atlas (2005) Child and adolescent mental health resources global concerns: Implications for the future. Barriers to care. Retrieved June 12, 2007, from http:// www.who.int/mental_health/resources/ Child_ado_atlas.pdf",
+    "line_count": 14,
+    "column": 2
+  }
+]

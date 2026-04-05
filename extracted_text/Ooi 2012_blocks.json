@@ -1,0 +1,1792 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      60.71808624267578,
+      92.96467590332031,
+      534.5006103515625,
+      105.96467590332031
+    ],
+    "text": "RESEARCH ARTICLE\nOpen Access"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      122.92326354980469,
+      418.641357421875,
+      198.3022003173828
+    ],
+    "text": "Trauma-focused cognitive behavioral\ntherapy with unaccompanied refugee\nminors: a case series"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      206.22994995117188,
+      481.2783203125,
+      219.45645141601562
+    ],
+    "text": "Johanna Unterhitzenberger1*, Rima Eberle-Sejari1, Miriam Rassenhofer2, Thorsten Sukale2, Rita Rosner1"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      220.23306274414062,
+      139.4201202392578,
+      233.45950317382812
+    ],
+    "text": "and Lutz Goldbeck2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      261.5582580566406,
+      101.68311309814453,
+      271.8582763671875
+    ],
+    "text": "Abstract"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      279.7617492675781,
+      529.668212890625,
+      325.76220703125
+    ],
+    "text": "Background: Unaccompanied refugee minors (URMs) are a group who are vulnerable to developing posttraumatic\nstress symptoms (PTSS). However, they rarely receive the treatment that is indicated and there are no treatment\nstudies focusing exclusively on this group of adolescents. This case study evaluates the feasibility of trauma-focused\ncognitive behavioral therapy (TF-CBT) for URMs with PTSS."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      330.7852478027344,
+      529.1611938476562,
+      352.7474670410156
+    ],
+    "text": "Method: A health care utilization sample of N = 6 was assessed prior to and after treatment with TF-CBT. Therapists\nwere asked to report differences in treatment application and content in comparison to TF-CBT standard protocol."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      357.7715148925781,
+      526.408203125,
+      391.75286865234375
+    ],
+    "text": "Results: We found moderate to high levels of PTSS at baseline and a clinically significant decrease in symptoms at\nposttest. Some modifications to the TF-CBT protocol were made with regard to affective modulation which\nrequired more sessions than usual whereas fewer caregiver sessions were conducted."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      396.77593994140625,
+      514.1680297851562,
+      433.7622985839844
+    ],
+    "text": "Conclusion: TF-CBT is feasible in reducing PTSS in severely traumatized URMs. Further research with controlled\ntrials is necessary.\nTrial registration: The trial registration: ClinicalTrials.gov Identifier NCT01516827. Registered 13 December 2011."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      63.21260070800781,
+      440.7703552246094,
+      403.010986328125,
+      450.77044677734375
+    ],
+    "text": "Keywords: Refugee, Adolescent, Unaccompanied, Treatment, Trauma-focused, PTSD"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692901611328125,
+      470.98187255859375,
+      290.5283203125,
+      589.43798828125
+    ],
+    "text": "Background\nAsylum applications in industrialized countries increased\n28 % in 2013 compared to 2012 [1]. Worldwide 51.2\nmillion people are in flight, while 16.7 million actually\ncross borders to live in another country. Young people\nunder 18 make up about 50 % of this population.\nUnaccompanied refugee minors (URMs) are defined as\nchildren and adolescents “who are separated from both\nparents and are not being cared for by an adult who, by\nlaw or custom, is responsible to do so” [2]."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.693878173828125,
+      591.6566772460938,
+      290.5576171875,
+      649.47412109375
+    ],
+    "text": "According to the growing volume of literature there is\nevidence that young refugees in general [3, 4] and URMs\nin particular [5–7] are confronted with many traumatic\nexperiences in their home countries and during flight.\nSeveral studies indicate high rates of posttraumatic stress"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      304.7244567871094,
+      471.63726806640625,
+      538.5588989257812,
+      553.4351196289062
+    ],
+    "text": "disorder (PTSD), depression or anxiety disorders in\nyoung refugees [8–12]. In addition, late-onset PTSD, a\nphenomenon which develops after early symptoms of\ndepression and anxiety [13] is easily overlooked and\npushes prevalence rates even higher. Independently from\nthe time of incidence, there seems to be a high risk of\nsymptoms and diagnoses becoming chronic [8, 14]."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      304.7244567871094,
+      555.6537475585938,
+      538.6452026367188,
+      697.430908203125
+    ],
+    "text": "For various reasons, URMs are seen as an especially\nvulnerable group within the refugee population. The\ndose effect proposed by Mollica and colleagues [15, 16]\nassumes that posttraumatic stress can be predicted from\nthe number of traumatic experiences. In comparison to\nadolescent\nnon-refugees\nand\naccompanied\nrefugees,\nURMs are reported to have experienced a higher number\nof traumatic/stressful events [5, 17–20]. Furthermore, the\ntraumatic experience of separation from a significant per-\nson (e.g., parents) is associated with an increased risk of\nPTSD [18, 21]. In addition, the family is seen as “a buffer\nagainst stress” [3] in the context of migration which is, by"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.692779541015625,
+      666.922119140625,
+      281.22418212890625,
+      701.4645385742188
+    ],
+    "text": "* Correspondence: johanna.unterhitzenberger@ku.de\n1Catholic University Eichstätt-Ingolstadt, Clinical and Biological Psychology,\nOstenstrasse 25, 85071 Eichstätt, Germany\nFull list of author information is available at the end of the article"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      180.45347595214844,
+      711.439208984375,
+      520.412841796875,
+      750.2374267578125
+    ],
+    "text": "© 2015 Unterhitzenberger et al. Open Access This article is distributed under the terms of the Creative Commons Attribution\n4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and\nreproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to\nthe Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver\n(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.69287109375,
+      33.39038848876953,
+      238.76736450195312,
+      52.21992111206055
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nDOI 10.1186/s12888-015-0645-0"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      56.69192123413086,
+      89.47412872314453,
+      290.5665588378906,
+      183.2336883544922
+    ],
+    "text": "definition, lacking for URMs. Therefore, Huemer et al.\n[22] conclude that “URMs are a highly vulnerable group\nwho likely suffers from more psychiatric morbidity\nthan comparable populations”. This conclusion is con-\nfirmed by comparison studies revealing that URMs\nmanifest greater prevalence or severity of psychopath-\nology than adolescent non-refugees and accompanied\nrefugees [5, 17, 18, 20, 22, 23]."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      56.69192123413086,
+      185.452392578125,
+      290.5469055175781,
+      375.2470397949219
+    ],
+    "text": "The number of URMs affected by traumatic stress\nsymptoms or PTSD in industrialized countries ranges\nfrom 20 to 53 % [7, 13, 18, 24, 25] and remains stable\nover time [7, 26, 27]. Furthermore, Smid and colleagues\n[13] observed 18 % of late-onset PTSD in their URM\nsample two years after their arrival in the Netherlands.\nA German study revealed a prevalence of 19 % for PTSD\nin accompanied young refugees with only one of the af-\nfected children and adolescents receiving mental health\ntreatment [12]. Bean, Eurelings-Bontekoe, Mooijart, and\nSpinhoven [28] reported a rate of 49 % for unmet psy-\nchosocial support need in URMs in the Netherlands.\nHence, the question arises how URMs can gain access to\neffective\nmental\nhealth\ncare\nand\nwhich\ntreatment\napproach is most feasible for this distressed population\nof young patients from divergent cultural backgrounds."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      56.69192123413086,
+      377.4657287597656,
+      290.610595703125,
+      579.2222290039062
+    ],
+    "text": "In a recent review, trauma-focused cognitive behavioral\ntherapy [29] was identified as being one of the most suc-\ncessful treatment protocols for trauma-related symptoms\nin children and adolescents [30]. However, this review did\nnot focus on refugee children. Tyrer and Fazel [31] exam-\nined treatments for young accompanied refugees and\nfound\nnine\nstudies\nreporting\nsignificantly\ndecreased\nposttraumatic stress symptoms (PTSS): four using cogni-\ntive behavioral therapy (CBT) or trauma-focused CBT\n(TF-CBT), three using narrative exposure therapy (NET)\nor NET for children (KIDNET), two using creative, and\none using systemic approaches. Eberle-Sejari, Nocon, and\nRosner [32] conclude that although studies evaluating\nPTSD treatments for young refugees are scarce and those\npublished suffer from methodological problems there is\nsome evidence that a specific trauma-focused approach\ncan be effective in reducing PTSS in young refugees."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      56.69190979003906,
+      581.4408569335938,
+      290.6155090332031,
+      735.2366333007812
+    ],
+    "text": "To our knowledge, there is no study explicitly investi-\ngating PTSD treatment for URMs. TF-CBT is the best\nsupported therapy for traumatized young people at the\nmoment with efficacy trials from different industrialized\ncountries [33–35], with proven feasibility for refugee\nchildren [36, 37], and in different international settings\nlike Cambodia and Zambia [38–41]. It, therefore, seems\nto be a promising approach for the group of URMs\nsuffering from PTSS. The advantages of this treatment\nfor refugee youth are, for instance, it is “skills-based (…),\ntheoretically grounded (…), time-limited (…), and opening\nmany opportunities for cross-cultural modifications while\nmaintaining fidelity” [36]. Furthermore, adolescents with"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      304.72149658203125,
+      89.45844268798828,
+      538.5776977539062,
+      123.23868560791016
+    ],
+    "text": "complex\nPTSD\nmay\nbenefit\nfrom\nTF-CBT\n[42],\na\nphenomenon to be found in URMs with multiple trau-\nmatic experiences."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      304.72149658203125,
+      125.45740509033203,
+      538.61376953125,
+      195.2366180419922
+    ],
+    "text": "The feasibility of TF-CBT and its effectiveness in redu-\ncing PTSS in URMs is being tested in this case series.\nQuantitative and qualitative outcome data are provided\nto answer not only the question about symptom reduc-\ntion but also about modifications in therapy setting and\ncontent where applicable."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      304.72430419921875,
+      208.77725219726562,
+      538.6607666015625,
+      519.2470703125
+    ],
+    "text": "Method\nParticipants\nThe study participants were six adolescents who applied\nto two trauma outpatient clinics in Germany who had\nnot previously been designated for study participation.\nTherefore, they represent a selected health care utilization\nsample. Both outpatient clinics are study centers of a\nlarge-scale randomized controlled trial (RCT) to evaluate\nTF-CBT for children and adolescents with PTSD, treatch-\nildtrauma [43] and specialize in mental health care for\ntraumatic stress disorders. The adolescents were either\nrandomized within the RCT study or – if inclusion criteria\nfor the study were not fulfilled (age > 17 years, n = 1;\ninvolvement of a professional translator, n = 2) – treated\naccording to the TF-CBT manual but without study\nparticipation. Sufficient knowledge of German was not\nmandatory outside of the RCT as professional translators\nwere available. The adolescents had to fulfill the following\ncriteria: (1) refugee or asylum seeking, (2) aged between\n13 and 18, (3) arrived in Germany without parents or a\ncaregiver, (4) primary diagnosis of PTSD based on the\nClinician Administered PTSD Scale for Children and\nAdolescents (CAPS-CA) [44] or the Posttraumatic Diag-\nnostic Scale (PDS) [45], and (5) an attachment figure (e.g.,\neducator in child and youth welfare (CYW) facility) avail-\nable to accompany the adolescent to therapy."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      304.72430419921875,
+      533.627197265625,
+      538.6891479492188,
+      735.2498168945312
+    ],
+    "text": "Procedure\nAdolescents were referred to the outpatient clinics by\ntheir educators, social workers or child and adolescent\npsychiatrists and were initially invited to a screening\nappointment. If the screening was positive and age was ≤\n17 years, they (n = 3) were assessed by means of the\nCAPS-CA, the Schedule for Affective Disorders and\nSchizophrenia for School-Age Children [46] to identify\ndisorders other than PTSD, and a number of question-\nnaires. For orientation, two subtests of an intelligence\nscale [47] were administered. Assessments were con-\nducted by trained, blinded psychologists. Non-study\nparticipants (n = 3) went through the usual diagnostic\nprocedure of the outpatient clinic which is much\nshorter than the study diagnostic with n = 1 CAPS-\nCA only and n = 2 PDS only. In these cases, post rat-\nings were conducted by the therapists themselves. All"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 2 of 9"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      56.692901611328125,
+      89.47412872314453,
+      290.5577697753906,
+      159.2533416748047
+    ],
+    "text": "assessments took place before (baseline, T1) and after\ntreatment (post, T2). The RCT was approved by the\nethics\nreview\nboard\nof\nthe\nUniversity\nUlm.\nIn\naddition, all participants gave written informed assent\nand their guardians gave written informed consent for\nparticipation."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      56.69173049926758,
+      173.62728881835938,
+      290.5477294921875,
+      387.2691650390625
+    ],
+    "text": "Measures\nThe CAPS-CA [44] was used to obtain PTSD diagnoses\naccording to the Diagnostic and Statistical Manual of\nMental Disorders, 4th edition (DSM-IV) and to deter-\nmine symptom severity. The interviewer rates the fre-\nquency and intensity of PTSS during the previous four\nweeks from never (0) to almost daily (4) and none (0) to\nextreme (4). A symptom is evident if the frequency is\nrated at least sometimes (1) with at least moderate inten-\nsity (2). The PDS [45] was used to determine PTSD\ndiagnostic status in accordance with DSM-IV criteria\nand symptom severity; symptoms are rated on a scale\nfrom 0 to 3 in the previous four weeks with a maximum\nof 51and ≥21 moderate/ severe, ≥36 severe. The PDS\nwas filled in with the help of a clinician (and a translator\nif necessary) in an interview-like setting. The validity of\nthe German versions of both measures is well reported\n[48, 49]."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      56.69173049926758,
+      389.4310302734375,
+      290.5672912597656,
+      567.2639770507812
+    ],
+    "text": "Our open-ended questionnaire for therapists asked for\na short summary of each of their patients including life-\nsituation, reasons for consultation, treatment aims and\ntreatment content. Furthermore, therapists were asked\nabout modifications to TF-CBT with regard to content,\nmaterial and setting (“In comparison to other TF-CBT\ncases, which modifications in the treatment manual were\napplied?”). Finally they could report barriers and chal-\nlenges in therapies with URMs compared to therapies\nwith non-refugees (“Did you face specific barriers and\nchallenges in your therapeutic work compared to non-\nrefugee TF-CBT patients? Did you identify specific needs\nof your patient in comparison to non-refugee TF-CBT\npatients?)”, if they worked with interpreters and if so,\nwhat experiences they had had."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      56.692901611328125,
+      581.6461181640625,
+      290.6214294433594,
+      735.2510375976562
+    ],
+    "text": "Treatment\nTF-CBT [29] includes the following eight components\nsubsumed within the PRACTICE acronym: psychoeduca-\ntion and parenting skills, relaxation, affective modulation,\ncognitive processing, trauma narrative, in vivo exposure,\nconjoint child/caregiver session, and enhancing safety and\nfuture skills. Contents according to the TF-CBT manual\nare described in Table 1. The components are covered in\n12 to 15 90-min parallel sessions with the child and the\ncaregiver. The first four components, usually covered in\nfour sessions, constitute the toolbox encompassing all the\nskills that prepare the adolescent and the caregiver for the\ntrauma-focused work. About four sessions are scheduled"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.7234802246094,
+      557.4710083007812,
+      538.6519165039062,
+      675.2109985351562
+    ],
+    "text": "to write (or draw or tape) the trauma narrative which is a\ngraduated exposure in sensu; cognitive processing II,\nnamely about trauma-related cognitions, is included in\nthis component. If necessary, one or two sessions can be\nused for in vivo exposure with trigger stimuli after the nar-\nrative. This is followed by a conjoint session with both the\nchild and the caregiver. The child shares the narrative\nwith the caregiver and both answer each other’s questions.\nOne or two sessions round off the treatment with the\nfocus on future safety and coping."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72442626953125,
+      677.4296264648438,
+      538.5765380859375,
+      735.2471313476562
+    ],
+    "text": "There were between 12 and 28 treatment sessions, one\nsession lasting approximately 100 min (as the German\nhealth care system prescribes 50 min for one session).\nWithin that number of sessions, we set up 3 to 23\nsessions for the caregiver (M = 9.8). Two therapies were"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      89.53626251220703,
+      528.619140625,
+      109.53424835205078
+    ],
+    "text": "Table 1 Content of weekly TF-CBT double sessions according\nto Cohen et al. [29]"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      114.4603500366211,
+      407.4261169433594,
+      122.46025085449219
+    ],
+    "text": "Session\nTopic and description"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      127.61299896240234,
+      444.5240173339844,
+      135.61289978027344
+    ],
+    "text": "1\nPsychoeducation, Parenting skills:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      141.61599731445312,
+      538.6035766601562,
+      176.6019744873047
+    ],
+    "text": "Psychoeducation about trauma, trauma-related symptoms and\nthe rationale of TF-CBT, normalizing the symptoms, teaching\npositive parenting skills (e.g., praise, active ignoring,\ncontingency management strategies)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      182.60513305664062,
+      372.10906982421875,
+      190.6050262451172
+    ],
+    "text": "2\nRelaxation:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      196.60812377929688,
+      531.2620849609375,
+      222.63658142089844
+    ],
+    "text": "Information about the rationale of relaxation, demonstration\nand practicing relaxation techniques (progressive muscle\nrelaxation, and/or controlled breathing)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      228.63973999023438,
+      406.34222412109375,
+      236.63963317871094
+    ],
+    "text": "3\nAffective modulation:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      242.64273071289062,
+      531.4846801757812,
+      277.62872314453125
+    ],
+    "text": "Explanation of rationale, identification of feelings, expression\nof feelings, rating the intensity level of emotions, positive\nself-instructions, coping with difficult/ unpleasant emotions,\nthought stopping, teaching problem-solving strategies"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      283.6318359375,
+      410.2741394042969,
+      291.6317443847656
+    ],
+    "text": "4\nCognitive processing I:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      297.6348571777344,
+      535.6404418945312,
+      323.6065368652344
+    ],
+    "text": "Outline the cognitive triangle, identify dysfunctional thoughts\nin daily life, help the child generate more accurate and\nhelpful thoughts"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      329.6096496582031,
+      393.23681640625,
+      337.60955810546875
+    ],
+    "text": "5-8\nTrauma narrative:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      343.6126708984375,
+      535.8485717773438,
+      369.64117431640625
+    ],
+    "text": "Decide on a format for the narrative, describe the perception\nof event including the worst moment, read the narrative, add\nthoughts and feelings"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      375.644287109375,
+      435.6913757324219,
+      383.6441955566406
+    ],
+    "text": "9\nCognitive processing II:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      389.59051513671875,
+      520.2214965820312,
+      406.6047058105469
+    ],
+    "text": "Exploring and correcting cognitive errors concerning the\ntraumatic experience (e.g., cognitions of guilt)."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      412.6078186035156,
+      392.1976013183594,
+      420.60772705078125
+    ],
+    "text": "10\nIn vivo exposure:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.6630859375,
+      426.3934326171875,
+      536.2998657226562,
+      443.6250305175781
+    ],
+    "text": "Explaining the rationale, development of a “plan” (if necessary\ninstruct caregiver for co-therapeutic expo)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72509765625,
+      449.6281433105469,
+      440.86328125,
+      457.6280517578125
+    ],
+    "text": "11\nConjoint child/caregiver session:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.66387939453125,
+      463.63116455078125,
+      536.4692993164062,
+      489.60284423828125
+    ],
+    "text": "Explaining the rationale, prepare child and parent for conjoint\nsession, sharing the trauma narrative, answering questions,\nincrease communication"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72509765625,
+      495.6059875488281,
+      446.1680908203125,
+      503.60589599609375
+    ],
+    "text": "12\nEnhancing safety and future skills:"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      337.66387939453125,
+      509.6089782714844,
+      509.52880859375,
+      526.6231689453125
+    ],
+    "text": "Developing a feeling of safety, a safety plan, teaching\nsafety skills"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      304.72430419921875,
+      532.359375,
+      458.63323974609375,
+      539.5512084960938
+    ],
+    "text": "TF-CBT trauma-focused cognitive behavioral therapy"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 3 of 9"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      56.692901611328125,
+      89.47412872314453,
+      290.5489501953125,
+      255.2316131591797
+    ],
+    "text": "conducted with the help of professional translators\n(adolescent sessions only). Therapies were conducted by\nthree (two female, J.U., M.R.; one male, T.S.) therapists\npreviously trained in CBT. They all received additional\nTF-CBT training lasting at least two days. They worked\ntheir way through the manual, completed the web-based\nlearning course (http://tfcbt.musc.edu/) and had treated\n3 to 15 cases with TF-CBT before. There was biweekly\nsupervision by experienced clinicians (R.R., L.G.). In\naddition, case-based conference calls were offered twice\na month by one of the developers of TF-CBT (An-\nthony\nMannarino)\nand\none\nexperienced\nTF-CBT\ntrainer (Laura Murray) to ensure manual fidelity. This\noffer was used regularly in all but one case (No. 3)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      56.692901611328125,
+      274.6540222167969,
+      290.6204528808594,
+      464.25811767578125
+    ],
+    "text": "Statistical analysis\nAs patients were assessed with different measures the\nsample was divided into two groups, one for CAPS-CA\nand one for PDS. We computed Wilcoxon signed rank\ntests for each group to check for PTSS changes. On the\nindividual level clinically meaningful symptom reduction\nwas assessed with the reliable change index [50]. Clinically\nmeaningful change (responder) for the CAPS-CA was set\nat 15 points [51] and for the PDS at 8 points based on the\nnormative sample [45]. The meeting of diagnostic criteria\n(DSM-IV) after treatment was determined by examining\nthe fulfilled criteria according to CAPS-CA or PDS. Recov-\nery was defined as not fulfilling diagnostic criteria for\nPTSD as well as clinically meaningful improvement. In\naddition, percentage improvements in symptom scores\nwere computed for each case [52]."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      56.69289016723633,
+      484.8149719238281,
+      290.6478576660156,
+      735.2486572265625
+    ],
+    "text": "Results\nSample characteristics\nOur sample consisted of N = 6 URMs, age range 16 – 18\n(Md = 17), two (33.3 %) of whom were female. They\narrived in Germany between 12 and 25 months before\nbaseline assessment and most of them had completed\nbasic school education (junior high school; 66.7 %).\nAsylum status was permanent for one, temporary for one,\nand tolerated for four of the participants. No changes in\nasylum status occurred during the course of therapy. The\nadolescents experienced a range of 2 – 6 traumatic events\n(Md = 5; assessed using CAPS-CA or PDS; they all hap-\npened prior to the arrival in Germany). Four adolescents\nhad experienced chronic stressors making it difficult to\ndifferentiate single experiences. Hence, we assume that\nthe number of traumatic events is higher than the number\nreported. All participants presented with significant symp-\ntom levels at baseline and the majority was most impaired\nby hyperarousal symptoms. No comorbid disorders were\ndiagnosed. Short case presentations and the summary of\ntreatment goals are given in Table 2."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.72332763671875,
+      89.66513061523438,
+      538.6243896484375,
+      219.2351531982422
+    ],
+    "text": "Quantitative outcome data\nAt baseline, all patients showed moderate to severe symp-\ntom levels according to PTSD measures (CAPS-CA Md =\n52, range 38–61; PDS Md = 32, range 31–33; see Table 3).\nAt posttest symptom scores were Md = 14.5 (range 5–20)\nfor the CAPS-CA and Md = 12.0 (range 10–14) for the\nPDS. Wilcoxon signed rank tests indicated significantly\ndecreased PTSS in both groups by W−= 0 (p < .001) and\nnegative rank sums only (Z-values are not reported as the\nsample sizes are too small). The CAPS-CA group im-\nproved on average by 73.4 %, the PDS group by 62.5 %."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.7256774902344,
+      221.453857421875,
+      538.6314086914062,
+      303.2516174316406
+    ],
+    "text": "On the individual level, percent improvement was > 50 %\nwithout exception (see Table 3). Clinically meaningful\nchange was observed in 100 % of each group. In the\nCAPS-CA group 100 % can be deemed to have recovered\nwhile in the PDS group one case still met criteria according\nto DSM-IV (50 % recovery rate). This leads to a total\nrecovery rate of 83.3 % in our small sample."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.72430419921875,
+      317.627197265625,
+      538.5781860351562,
+      603.2662963867188
+    ],
+    "text": "Treatment modifications and challenges\nThe treatment aims presented in Table 2 were reached for\neach patient. However, in the five cases without permanent\nasylum status the uncertainty about asylum proceedings\nremained a factor still impairing the feeling of safety in\nGermany. Table 4 gives an overview of treatment modifica-\ntions for each patient as reported by the therapist. In one\ncase no modification and, in the other cases, only a few\nmodifications were made. In three cases caregivers were\nless involved in the treatment, which means a change in\nTF-CBT protocol. In almost every therapy more time was\nspent on the affective modulation component and thera-\npists had to utilize further materials like feeling face cards\nor games teaching feelings. The modifications regarding\nthe trauma narrative were: more than four sessions spent\non this component, creating a life-line before starting with\nthe narrative, and using different ways or materials for\ntalking about the trauma (audiotaping/walking around).\nAn important focus was seen in enhancing a feeling of\nsafety (e.g., feeling safe in Germany, distinction between\ncircumstances in home vs. host country). Altogether, thera-\npists reported no difficulties in working according to the\nTF-CBT manual and modifications were realized without\nany major changes to the protocol."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.72430419921875,
+      604.8893432617188,
+      538.5802612304688,
+      735.2435302734375
+    ],
+    "text": "The therapists’ responses to challenges in the treat-\nment of URMs can be subsumed in three categories:\nresidence status, family, and severe symptomatology.\nOften, the adolescents’ residence status was not clear so\ntherapists first had to find out more about this in order\nto understand additional stressful factors and to provide\npsychoeducation on that topic. On the one hand, the\nchallenges regarding family were concerns about the\nsafety of family members. On the other hand, families in\nthe home countries often had high expectations (e.g., re-\ngarding sending money). A further challenge mentioned"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 4 of 9"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692901611328125,
+      593.4172973632812,
+      290.54791259765625,
+      687.2337036132812
+    ],
+    "text": "by two therapists is that the patient viewed caregivers\nfrom institutions as father or mother substitutes. This\nled to disappointment as caregivers could not meet this\nneed. Hence, in therapy and especially in conjoint ses-\nsions the distinction between caregiver and parent had\nto be emphasized. Severe symptomatology was particu-\nlarly\nmanifested\nby\ndissociative\nsymptoms,\nmassive\nsleeping disorders and nightmares."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692901611328125,
+      689.452392578125,
+      290.54888916015625,
+      735.2512817382812
+    ],
+    "text": "Therapists were also asked about their experience in\nworking with translators. In the two cases with transla-\ntors therapists made good experiences. Translators were\nparticularly helpful during the\naffective modulation"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      304.7234802246094,
+      593.4143676757812,
+      538.56982421875,
+      627.25146484375
+    ],
+    "text": "component because therapists could learn and ask for\nfurther information about the impact of culture-related\nissues on emotions."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      304.72430419921875,
+      640.777099609375,
+      538.5537719726562,
+      735.2529296875
+    ],
+    "text": "Discussion\nWe tested the feasibility of TF-CBT in a small sample of\ntraumatized URMs, a group of patients which up to now\nhas been clearly undersupplied with mental health sup-\nport. The participating adolescents reported multiple\ntraumatic experiences and severe PTSS, findings that\ncorrelate with research from other European host coun-\ntries. In addition, stressors such as uncertainty about the"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692901611328125,
+      89.29170227050781,
+      316.72454833984375,
+      98.53626251220703
+    ],
+    "text": "Table 2 Overview of each participant’s case history and treatment aims"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692901611328125,
+      103.4619369506836,
+      432.0201416015625,
+      111.46183776855469
+    ],
+    "text": "No\nBrief case history\nTreatment aims"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692901611328125,
+      116.61458587646484,
+      340.2998352050781,
+      169.62913513183594
+    ],
+    "text": "1\n17-year old girl from Somalia, living in a residential group of a child and youth\nwelfare (CYW) facility, attending a preparatory class for school (did not attend\nschool in Somalia). Parents live in Somalia; they are in contact irregularly. She\nfled with a family member who died during flight; three brothers died from\nviolence. Presents with sleeping disorder, panic-like fright reaction, impulsive,\nangry behavior, auto-aggressive behavior."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      116.6153793334961,
+      483.66986083984375,
+      124.61528015136719
+    ],
+    "text": "Reduction of sleeping disorders"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      130.61837768554688,
+      495.62896728515625,
+      138.61827087402344
+    ],
+    "text": "Reduction of self-injurious behavior"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      144.62142944335938,
+      472.1020812988281,
+      152.62132263183594
+    ],
+    "text": "Reduction of states of panic"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      158.62448120117188,
+      501.06964111328125,
+      166.62437438964844
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      172.62747192382812,
+      470.84130859375,
+      180.6273651123047
+    ],
+    "text": "Correction of cognitive bias"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2224426269531,
+      186.63046264648438,
+      475.2556457519531,
+      194.63035583496094
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692909240722656,
+      200.63351440429688,
+      360.55474853515625,
+      235.61949157714844
+    ],
+    "text": "2\n17-year old male patient from Afghanistan, living in a CYW facility and attending\na cooperation class in preparation for vocational school. He has brothers in\nGermany, his parents also fled. He doesn’t know what happened to them.\nPresents with massive sleeping disorders, nightmares and (auto-)aggressive behavior."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      200.63351440429688,
+      480.7579650878906,
+      208.63340759277344
+    ],
+    "text": "Reduction of sleeping disorder"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      214.63656616210938,
+      509.9160461425781,
+      222.63645935058594
+    ],
+    "text": "Reduction of (auto-)aggressive behavior"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      228.63955688476562,
+      461.6142578125,
+      236.6394500732422
+    ],
+    "text": "Reduction of nightmares"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      242.64260864257812,
+      501.06964111328125,
+      250.6425018310547
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      256.6455993652344,
+      477.585205078125,
+      264.6455078125
+    ],
+    "text": "Correction of cognitive biases"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      270.5918273925781,
+      475.2556457519531,
+      278.59173583984375
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.692928314208984,
+      284.5948486328125,
+      353.8802490234375,
+      319.63763427734375
+    ],
+    "text": "3\n17-year old male patient from Afghanistan, living in a CYW facility and attending\njunior high school. His family was threatened by the Taliban, family members died,\nflight with many traumatizing experiences. He presents with sleeping disorders\n(<2 h), severe intrusions, depressed and sad mood."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      284.5956726074219,
+      480.7579650878906,
+      292.5955810546875
+    ],
+    "text": "Reduction of sleeping disorder"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      298.59869384765625,
+      456.4495544433594,
+      306.5986022949219
+    ],
+    "text": "Reduction of intrusions"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      312.6017150878906,
+      501.06964111328125,
+      320.60162353515625
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      326.3873291015625,
+      536.8461303710938,
+      343.6189270019531
+    ],
+    "text": "Correction of cognitive biases (e.g., “I didn’t care\nenough for my mum”)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      349.6220397949219,
+      475.2556457519531,
+      357.6219482421875
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.69293975830078,
+      363.62506103515625,
+      355.84759521484375,
+      398.6110534667969
+    ],
+    "text": "4\n16-year old girl from Iran, living with her two sisters in a CYW facility and attending\njunior high school. Parents are alive, but not in Germany. She is in contact with\nmother and siblings. Father threatened to kill family, she was abused during flight.\nPresents with massive sleeping disorders and severe intrusions."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      363.62506103515625,
+      480.7579650878906,
+      371.6249694824219
+    ],
+    "text": "Reduction of sleeping disorder"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      377.6280822753906,
+      456.4495544433594,
+      385.62799072265625
+    ],
+    "text": "Reduction of intrusions"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      391.6311340332031,
+      501.06964111328125,
+      399.63104248046875
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      405.6341552734375,
+      475.2556457519531,
+      413.6340637207031
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.69295120239258,
+      419.6371765136719,
+      353.6564636230469,
+      463.6374206542969
+    ],
+    "text": "5\n18-year old male patient from Afghanistan, living in his own apartment that is part\nof a CYW facility. He completed junior high school during therapy and started an\napprenticeship. His parents and siblings are alive; one brother disappeared during\nflight. He presents with sleeping disorders, nightmares, flashbacks, dissociative\nsymptoms and strong headache."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      419.6379699707031,
+      480.7579650878906,
+      427.63787841796875
+    ],
+    "text": "Reduction of sleeping disorder"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      433.6409912109375,
+      497.56170654296875,
+      441.6408996582031
+    ],
+    "text": "Reduction of dissociative symptoms"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      447.6440124511719,
+      457.76953125,
+      455.6439208984375
+    ],
+    "text": "Reduction of flashbacks"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      461.5902404785156,
+      501.06964111328125,
+      469.59014892578125
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      475.59326171875,
+      498.3529357910156,
+      483.5931701660156
+    ],
+    "text": "Correction of cognitive biases (guilt)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.22247314453125,
+      489.5962829589844,
+      475.2556457519531,
+      497.59619140625
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.69295883178711,
+      503.59930419921875,
+      354.3531494140625,
+      565.628173828125
+    ],
+    "text": "6\n17-year old male patient from Afghanistan, living in a CYW residential group. He\nattends a preparatory class for secondary school and did several internships during\ntherapy. He has no contact to his family except for one uncle in Germany. In\nAfghanistan he lived in the desert and had no previous experience of urban life.\nHis brother was murdered. Presents with massive sleeping disorders (nightmares,\nsleepwalk, waking up during night), severe intrusions, strong headache, depressive\nand sad mood."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2225036621094,
+      503.6001281738281,
+      480.7579650878906,
+      511.60003662109375
+    ],
+    "text": "Reduction of sleeping disorder"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2225036621094,
+      517.6030883789062,
+      456.4495544433594,
+      525.60302734375
+    ],
+    "text": "Reduction of intrusions"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2225036621094,
+      531.6061401367188,
+      501.0697021484375,
+      539.6060791015625
+    ],
+    "text": "Habituation to traumatic experiences"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2225036621094,
+      545.3917846679688,
+      538.6333618164062,
+      562.6233520507812
+    ],
+    "text": "Correction of cognitive biases (e.g., “I walked out\non my family.”)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      382.2232971191406,
+      568.62646484375,
+      475.2565002441406,
+      576.6264038085938
+    ],
+    "text": "Enhancing a feeling of safety"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      56.69375991821289,
+      33.39179229736328,
+      538.5797119140625,
+      42.42367935180664
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 5 of 9"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      89.53626251220703,
+      530.206298828125,
+      109.53424835205078
+    ],
+    "text": "Table 3 Age, sex, country of origin, and individual scores of patients; change of symptom severity in %, median and range of sum\nscores for sub-samples"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      114.4603500366211,
+      538.6475830078125,
+      122.46025085449219
+    ],
+    "text": "No\nAge\nSex\nCountry of origin\nScore pre\nScore post\nChange"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      366.405029296875,
+      127.61299896240234,
+      467.7933044433594,
+      135.61289978027344
+    ],
+    "text": "CAPS-CA\nCAPS-CA"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      139.8557586669922,
+      529.7858276367188,
+      149.6161346435547
+    ],
+    "text": "1a\n17\nFemale\nSomalia\n50\n5\n90 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69334030151367,
+      153.8589324951172,
+      529.7858276367188,
+      163.61936950683594
+    ],
+    "text": "2a\n17\nMale\nAfghanistan\n54\n17\n69 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69334030151367,
+      169.62252807617188,
+      529.7858276367188,
+      177.62242126464844
+    ],
+    "text": "3\n17\nMale\nAfghanistan\n61\n20\n67 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69334030151367,
+      181.86521911621094,
+      529.7858276367188,
+      191.6255340576172
+    ],
+    "text": "4a\n16\nFemale\nIran\n38\n12\n68 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69334030151367,
+      197.4113006591797,
+      474.3417053222656,
+      205.6305694580078
+    ],
+    "text": "Md (range)\n17 (16–17)\n52 (38–61)\n14.5 (5–20)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      366.40625,
+      223.59396362304688,
+      452.3067321777344,
+      231.59385681152344
+    ],
+    "text": "PDS\nPDS"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.694129943847656,
+      237.59695434570312,
+      529.78662109375,
+      245.5968475341797
+    ],
+    "text": "5\n18\nMale\nAfghanistan\n33\n14\n58 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.694129943847656,
+      251.60000610351562,
+      529.78662109375,
+      259.59991455078125
+    ],
+    "text": "6\n17\nMale\nAfghanistan\n31\n10\n68 %"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.694129943847656,
+      265.3855895996094,
+      472.9817199707031,
+      273.6048583984375
+    ],
+    "text": "Md (range)\n17.5 (17–18)\n32 (31–32)\n12 (10–14)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      279.3389892578125,
+      373.7855529785156,
+      295.0346984863281
+    ],
+    "text": "CAPS-CA clinician administered PTSD scale for children and adolescents, PDS posttraumatic diagnostic scale\naparticipated in RCT"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      312.28265380859375,
+      234.65621948242188,
+      321.28265380859375
+    ],
+    "text": "Table 4 Treatment modifications of each patient"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      326.208251953125,
+      492.4801025390625,
+      334.2081604003906
+    ],
+    "text": "No\nNumber of treatment sessions\nModification regarding treatment content (PRACTICE), material and setting"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      339.3608703613281,
+      529.66064453125,
+      347.36077880859375
+    ],
+    "text": "1\n12 sessions\nA: terms for emotions were not known in mother tongue; practicing naming feelings,"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      262.5439147949219,
+      348.37518310546875,
+      388.88543701171875,
+      356.3750915527344
+    ],
+    "text": "use of face feelings cards and skills box"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24644470214844,
+      362.3782043457031,
+      435.7320861816406,
+      370.37811279296875
+    ],
+    "text": "T: creating a life-line before starting the trauma narrative"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24644470214844,
+      376.3812255859375,
+      435.6112060546875,
+      384.3811340332031
+    ],
+    "text": "C: therapist was more directive in cognitive processing II"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      390.3842468261719,
+      493.4920654296875,
+      398.3841552734375
+    ],
+    "text": "2\n12 sessions\nP: psychoeducation about asylum procedure and asylum right in Germany"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24644470214844,
+      404.38726806640625,
+      417.5281982421875,
+      412.3871765136719
+    ],
+    "text": "R: practicing several different relaxation techniques"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24644470214844,
+      418.3902893066406,
+      516.7109985351562,
+      426.39019775390625
+    ],
+    "text": "A: using a feelings game; more time was spent describing and classifying feelings"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69289016723633,
+      432.393310546875,
+      435.8656005859375,
+      440.3932189941406
+    ],
+    "text": "3\n25 sessions\nA: 6 sessions were spent naming and regulating feelings"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      446.33953857421875,
+      431.4232482910156,
+      454.3394470214844
+    ],
+    "text": "T: 12 sessions were spent creating the trauma narrative"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      460.3425598144531,
+      528.6757202148438,
+      468.34246826171875
+    ],
+    "text": "E: focus on enhancing a feeling of safety over 4 sessions (What makes me feel safe in"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      261.5799255371094,
+      469.3568420410156,
+      430.9304504394531,
+      477.35675048828125
+    ],
+    "text": "Germany? How can I get a perspective in Germany?)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      483.36187744140625,
+      532.5012817382812,
+      500.37603759765625
+    ],
+    "text": "Less caregiver involvement (3 sessions). The patient was accompanied by a translator especially at\nthe beginning of therapy and during trauma narrative. He only translated when necessary."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69289016723633,
+      506.1597595214844,
+      257.2463684082031,
+      514.3770751953125
+    ],
+    "text": "4\n12 sessions\n–"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69289016723633,
+      520.3801879882812,
+      377.2815856933594,
+      528.380126953125
+    ],
+    "text": "5\n25 sessions\nP: psychoeducation about dissociation"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      534.3832397460938,
+      506.6221618652344,
+      542.3831787109375
+    ],
+    "text": "R: practicing more relaxation techniques over 3 sessions; PMR was practiced in"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      261.9767150878906,
+      543.3406982421875,
+      329.1189880371094,
+      551.3406372070312
+    ],
+    "text": "almost every session."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      557.3436889648438,
+      504.6887512207031,
+      565.3436279296875
+    ],
+    "text": "A: feelings were named in both languages; skills for emotion regulation; more"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      262.5439147949219,
+      566.3579711914062,
+      422.9969177246094,
+      574.35791015625
+    ],
+    "text": "time was spent describing and classifying feelings"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      580.3610229492188,
+      512.3717651367188,
+      588.3609619140625
+    ],
+    "text": "T: trauma narrative was written in both languages, was created over 15 sessions;"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      261.63671875,
+      589.3753051757812,
+      538.630615234375,
+      597.375244140625
+    ],
+    "text": "to prevent dissociation the patient walked around during the creation of the narrative"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      603.3783569335938,
+      415.5411376953125,
+      611.3782958984375
+    ],
+    "text": "C: more time was spent on cognitive processing II"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      617.38134765625,
+      469.7132568359375,
+      625.3812866210938
+    ],
+    "text": "E: enhancing feeling of safety regarding Germany as a safe country"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.69289016723633,
+      631.3843994140625,
+      435.8656005859375,
+      639.3843383789062
+    ],
+    "text": "6\n28 sessions\nA: 5 sessions were spent naming and regulating feelings"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      645.3873901367188,
+      528.8165283203125,
+      653.3873291015625
+    ],
+    "text": "T: the trauma narrative has been audio-recorded without stopping to translate; it was"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      261.63671875,
+      654.3449096679688,
+      534.2882080078125,
+      662.3448486328125
+    ],
+    "text": "translated in full afterwards; 16 sessions were spent on creating the trauma narrative."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      668.347900390625,
+      537.1820068359375,
+      676.3478393554688
+    ],
+    "text": "E: focus on feeling of safety and looking back (4 sessions; e.g. feeling safe in Germany; how"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      261.5799255371094,
+      677.3622436523438,
+      536.1395874023438,
+      694.37646484375
+    ],
+    "text": "would life have been different if there had been peace in Afghanistan; how to deal with\nuncertainty about whether family is alive)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.24642944335938,
+      700.3815307617188,
+      519.076904296875,
+      717.3389282226562
+    ],
+    "text": "Less caregiver involvement (3 sessions). A translator attended therapy as a companion\nand the trauma narrative was shared with him."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      723.0742797851562,
+      432.99774169921875,
+      730.26611328125
+    ],
+    "text": "P psychoeducation, R relaxation, A affective modulation, C cognitive processing II, T trauma narrative, E enhancing future safety"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 6 of 9"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.692901611328125,
+      88.93528747558594,
+      290.5253601074219,
+      111.23575592041016
+    ],
+    "text": "permanency of residents’ permits and their family’s\nsafety were obvious in almost all patients."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.69388961791992,
+      113.45447540283203,
+      290.548828125,
+      195.25230407714844
+    ],
+    "text": "Our results show a clinically significant symptom re-\nduction at posttest for all cases after receiving TF-CBT.\nStatistically significant changes were indicated by the\nWilcoxon signed rank tests, however the results have to\nbe interpreted carefully due to the very small sample\nsize. Shortly after treatment all but one case were con-\nsidered recovered on the individual level."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.69388961791992,
+      197.47100830078125,
+      290.62921142578125,
+      555.2418212890625
+    ],
+    "text": "Therapists reported few treatment modifications and\nhardly any difficulties in comparison to other TF-CBT\ncases. As URMs, by definition, have no parents, profes-\nsional caregivers were involved. Whereas TF-CBT is regu-\nlarly conducted with parents or caregivers in an equal\nnumber of sessions, in our study some caregivers were less\ninvolved in therapies. This is consistent with a review of\nLang, Ford, and Fitzgerald [53] and with the above-\nmentioned study with young refugees [37]. They back the\neffectiveness of TF-CBT with low levels of parental in-\nvolvement. Furthermore, the TF-CBT study in Cambodia\n[39] was promising without any parent sessions. We ob-\nserved another modification in the affective modulation\ncomponent, but not in its core elements. Our findings\nrather suggest that this component should be expanded in\nthe treatment of URMs as adolescents were not familiar\nwith the concept or naming of feelings triggered by\ncultural diversities. To overcome this problem, therapists\nused additional materials. Similar to our therapists’ feed-\nback, Murray and Skavenski [38] report on additional help\nfor the work on affective modulation with children in\nZambia and Cambodia. Furthermore, in accordance with\ntheir publication, the narrative work was supported with\nlifelines or required more than the customary four\nsessions. In vivo mastery was scarcely used within our\nsample. The latter can be explained by completely differ-\nent environments regarding traumatization and therapy.\nAltogether, the modifications mentioned are similar to\nthose reported for the TF-CBT treatment of adolescents\nwith complex trauma [54]."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.69388961791992,
+      557.4605102539062,
+      290.5488586425781,
+      735.2366333007812
+    ],
+    "text": "URMs seem to be a group that can be successfully\ntreated for PTSS, even though cultural differences exist,\nas demonstrated in the treatment applications for TF-\nCBT [38–41]. Nevertheless, mental healthcare profes-\nsionals rarely use TF-CBT or other evidence-based\ntrauma-focused therapies with URMs. Some authors\nprefer\nmultimodal\ninterventions\nto\ntrauma-focused\ntherapy. However, as demonstrated in our case series,\ntrauma-focused psychotherapy adds significantly to the\nprovision of close-meshed support for URMs in terms of\ntheir basic and social needs (e.g., school, health care,\nlegal support), support which is usually already provided\nin industrialized countries like Germany. Also with\nregard to cost-effectiveness and immediate symptom\nimprovement, short TF-CBT focusing on traumatic"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.7244567871094,
+      89.45844268798828,
+      538.5657958984375,
+      159.23765563964844
+    ],
+    "text": "stress symptoms may be sufficient for URMs whose\nbasic needs are already met. Even though for our group\nof URMs TF-CBT seemed highly appropriate, we cannot\nstate any conclusions for the whole population of URMs,\nconsisting of many nationalities, different ages, and\ndiverse cultures."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.72430419921875,
+      175.44143676757812,
+      538.6528930664062,
+      449.0618591308594
+    ],
+    "text": "Limitations\nSeveral limitations should be considered. First, the results\ncannot be generalized due to the small sample size and\ndue to the specific expertise and treatment settings in\nboth involved pediatric trauma clinics. In addition, six\ncases can hardly represent the heterogeneity of the group\nof URMs. Given the pilot nature of our study, we did not\ninclude a control group. Hence, our results do not permit\nany\nconclusions\nabout\ncomparisons\nto\nspontaneous\nimprovement or alternative treatments. It cannot be ruled\nout that simply the fact of receiving more attention and\nhaving regular appointments with a professional could be\nsufficient to reduce symptoms in our patient group.\nSecond, we examined a healthcare utilization sample with\nseveral differences in terms of number of sessions,\ninvolvement of caregivers and assessment (e.g., different\ninstruments, some assessors were blind to study group as-\nsignment, others were the therapists themselves). Finally,\nsince we do not report any follow-up data, the long-term\ntreatment success remains to be seen. Especially in this\ngroup attaining the age of majority seems to be a risk\nfactor for inter alia depressive symptoms due to the risk of\ndeportation."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.72430419921875,
+      464.4054870605469,
+      538.584228515625,
+      558.8245239257812
+    ],
+    "text": "Conclusions\nOur results are promising: TF-CBT is applicable and\nfeasible for URMs with severe PTSS. Our therapists’\nreports may encourage other clinicians to treat this\ngroup of minors, even in cases where an interpreter is\nneeded. Future research should focus on controlled trials\nwith follow-up assessment to permit statements on\ntreatment efficacy and generalizability of results."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.72430419921875,
+      570.3741455078125,
+      538.2705078125,
+      649.8736572265625
+    ],
+    "text": "Abbreviations\nCAPS-CA: Clinician administered PTSD scale for children and adolescents;\nCYW: Child and youth welfare; CBT: Cognitive behavioral therapy;\nDSM-IV: Diagnostic and statistical manual of mental disorders, 4th edition;\nKIDNET: Narrative exposure therapy for children; NET: Narrative exposure\ntherapy; PDS: Posttraumatic diagnostic scale; PTSD: Posttraumatic stress\ndisorder; PTSS: Posttraumatic stress symptoms; RCT: Randomized controlled trial;\nTF-CBT: Trauma-focused cognitive behavioral therapy; URMs: Unaccompanied\nrefugee minors."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.7243957519531,
+      662.159912109375,
+      463.1926574707031,
+      678.6740112304688
+    ],
+    "text": "Competing interests\nThe authors have no competing interests to declare."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.7236633300781,
+      690.7557373046875,
+      530.1309204101562,
+      734.458984375
+    ],
+    "text": "Authors’ contributions\nThe study was designed by LG, RR, JU, and RES. MR, TS, and JU carried out\nthe treatments. The data was analyzed and the manuscript was drafted\nby JU and RES. All authors read and approved the final version of the\nmanuscript."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 7 of 9"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.692901611328125,
+      90.97908782958984,
+      287.2196044921875,
+      125.46440124511719
+    ],
+    "text": "Acknowledgements\nThe authors would like to thank all adolescents and caregivers for their\nparticipation and consent to publish data. The RCT was funded by the German\nFederal Ministry of Education and Research (project number 01GY1141)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.692779541015625,
+      135.93576049804688,
+      281.22418212890625,
+      170.4789276123047
+    ],
+    "text": "Author details\n1Catholic University Eichstätt-Ingolstadt, Clinical and Biological Psychology,\nOstenstrasse 25, 85071 Eichstätt, Germany. 2University Ulm, Clinic for Child\nand Adolescent Psychiatry, Steinhövelstrasse 5, 89075 Ulm, Germany."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.692779541015625,
+      180.95213317871094,
+      213.89300537109375,
+      188.45204162597656
+    ],
+    "text": "Received: 1 May 2015 Accepted: 12 October 2015"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.6893196105957,
+      218.93490600585938,
+      290.1937561035156,
+      734.4097290039062
+    ],
+    "text": "References\n1.\nUnited Nations High Commissioner for Refugees: Asylum Trends 2013.\nLevels and trends in industrialized countries. 2014. http://unhcr.org/\ntrends2013/. Accessed 27 Nov 2014.\n2.\nUnited Nations High Commissioner for Refugees: Refugee children.\nGuidelines on protection & care. Geneva: UNHCR: 1994.\n3.\nEhntholt KA, Yule W. Practitioner review: assessment and treatment of\nrefugee children and adolescents who have experienced war-related\ntrauma. J Child Psychol Psyc. 2006;47:1197–210.\n4.\nLustig SL, Kia-Keating M, Grant-Knight W, Geltman P, Ellis H, Birman D, et al.\nReview of child and adolescent refugee mental health. J Am Acad Child\nAdolesc Psychiatry. 2004;43:24–36.\n5.\nHodes M, Jagdev D, Chandra N, Cunniff A. Risk and resilience for\npsychological distress amongst unaccompanied asylum seeking\nadolescents. J Child Psychol Psyc. 2008;49:723–32.\n6.\nThomas S, Nafees B, Bhugra D. ‘I was running away from death’- the\npre-flight experiences of unaccompanied asylum seeking children in\nthe UK. Child Care Hlth Dev. 2004;30:113–22.\n7.\nVervliet M, Lammertyn J, Broekaert E, Derluyn I. Longitudinal follow-up of\nthe mental health of unaccompanied refugee minors. Eur Child Adoles Psy.\n2014;23:337–46.\n8.\nKinzie JD, Sack WH, Angell RH, Manson SM, Rath B. The psychiatric effects of\nmassive trauma on Cambodian children: I. The children. J Am Acad Child\nAdolesc Psychiatry. 1986;25:370–6.\n9.\nPapageorgiou V, Frangou-Garunovic A, Iordanidou R, Yule W, Smith P,\nVostanis P. War trauma and psychopathology in Bosnian refugee children.\nEur Child Adoles Psy. 2000;9:84–90.\n10.\nServan-Schreiber D, Le Lin B, Birmaher B. Prevalence of posttraumatic stress\ndisorder and major depressive disorder in Tibetan refugee children. J Am\nAcad Child Adolesc Psychiatry. 1998;37:874–9.\n11.\nFazel M, Wheeler J, Danesh J. Prevalence of serious mental disorder in 7000\nrefugees resettled in western countries: a systematic review. Lancet.\n2005;365:1309–14.\n12.\nRuf M, Schauer M, Elbert T. Prävalenz von traumatischen Stresserfahrungen\nund seelischen Erkrankungen bei in Deutschland lebenden Kindern von\nAsylbewerbern (translation of title: Prevalence of traumatic stress and\nmental health problems in children of asylum seekers in Germany). Z Klin\nPsychol-Forsc. 2010;39:151–60.\n13.\nSmid GE, Lensvelt-Mulders GJLM, Knipscheer JW, Gersons BPR, Kleber RJ.\nLate-onset PTSD in unaccompanied refugee minors: exploring the\npredictive utility of depression and anxiety symptoms. J Clin Child Adolesc.\n2011;40:742–55.\n14.\nAlmqvist K, Brandell-Forsberg M. Refugee children in Sweden: post-\ntraumatic stress disorder in Iranian preschool children exposed to organized\nviolence. Child Abuse Negl. 1997;21:351–66.\n15.\nMollica RF, McInnes K, Poole C, Tor S. Dose-effect relationships of trauma to\nsymptoms of depression and post-traumatic stress disorder among\nCambodian survivors of mass violence. Br J Psychiatry. 1998;173:482–8.\n16.\nMollica RF, Poole C, Son L, Murray CC, Tor S. Effects of war trauma on\nCambodian refugee adolescents’ functional health and mental health status.\nJ Am Acad Child Adolesc Psychiatry. 1997;36:1098–106.\n17.\nBean T, Derluyn I, Eurelings-Bontekoe E, Broekaert E, Spinhoven P.\nComparing psychological distress, traumatic stress reactions, and\nexperiences of unaccompanied refugee minors with experiences of\nadolescents accompanied by parents. J Nerv Ment Dis. 2007;195:288–97.\n18.\nDerluyn I, Mels C, Broekaert E. Mental health problems in separated refugee\nadolescents. J Adolescent Health. 2009;44:291–7."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      304.7213439941406,
+      91.11944580078125,
+      538.03662109375,
+      734.4112548828125
+    ],
+    "text": "19.\nMichelson D, Sclare I. Psychological needs, service utilization and provision\nof care in a specialist mental health clinic for young refugees: A\ncomparative study. Clin Child Psychol Psychiatry. 2009;14:273–96.\n20.\nWiese EBP, Burhorst I. The mental health of asylum-seeking and refugee\nchildren and adolescents attending a clinic in the Netherlands. Transcult\nPsychiatry. 2007;44:596–613.\n21.\nHeptinstall E, Sethna V, Taylor E. PTSD and depression in refugee children:\nassociations with pre-migration trauma and post-migration stress. Eur Child\nAdoles Psy. 2004;13:373–80.\n22.\nHuemer J, Karnik NS, Voelkl-Kernstock S, Granditsch E, Dervic K, Friedrich\nMH, et al. Mental health issues in unaccompanied refugee minors. Child\nAdolesc Psychiatry Ment Health. 2009;3:13.\n23.\nThommessen S, Laghi F, Cerrone C, Baiocco R, Todd BK. Internalizing and\nexternalizing symptoms among unaccompanied refugee and Italian\nadolescents. Child Youth Serv Rev. 2013;35:7–10.\n24.\nHuemer J, Karnik N, Voelkl-Kernstock S, Granditsch E, Plattner B, Friedrich M,\net al. Psychopathology in African unaccompanied refugee minors in Austria.\nChild Psychiat Hum D. 2011;42:307–19.\n25.\nVervliet M, Demott M, Melinda A, Jakobsen M, Broekaert E, Heir T, et al. The\nmental health of unaccompanied refugee minors on arrival in the host\ncountry. Scand J Psychol. 2014;55:33–7.\n26.\nBean TM, Eurelings-Bontekoe E, Spinhoven P. Course and predictors of\nmental health of unaccompanied refugee minors in the Netherlands: One\nyear follow-up. Soc Sci Med. 2007;64:1204–15.\n27.\nJensen TK, Skårdalsmo EMB, Fjermestad KW. Development of mental health\nproblems −a follow-up study of unaccompanied refugee minors. Child\nAdolesc Psychiatry Ment Health. 2014;8:29.\n28.\nBean T, Eurelings-Bontekoe E, Mooijaart A, Spinhoven P. Factors associated\nwith mental health service need and utilization among unaccompanied\nrefugee adolescents. Adm Policy Ment Hlth. 2006;33:342–55.\n29.\nCohen JA, Mannarino AP, Deblinger E. Treating trauma and traumatic grief\nin children and adolescents. New York: Guilford Press; 2006.\n30.\nLeenarts LEW, Diehle J, Doreleijers TAH, Jansma EP, Lindauer RJL.\nEvidence-based treatments for children with trauma-related\npsychopathology as a result of childhood maltreatment: a systematic\nreview. Eur Child Adoles Psy. 2013;22:269–83.\n31.\nTyrer RA, Fazel M. School and community-based interventions for refugee\nand asylum seeking children: a systematic review. PLoS One. 2014;9:2.\n32.\nEberle-Sejari R, Nocon A, Rosner R. Zur Wirksamkeit von\npsychotherapeutischen Interventionen bei jungen Flüchtlingen und\nBinnenvertriebenen mit posttraumatischen Symptomen – ein\nsystematischer Review (translation of title: Efficacy of psychotherapeutic\ninterventions for young refugees and internally displaced persons – a\nsystematic review). Kindh Entwickl. 2015;24:156–69.\n33.\nCary CE, McMillen JC. The data behind the dissemination: a systematic\nreview of trauma-focused cognitive behavioral therapy for use with children\nand youth. Child Youth Serv Rev. 2012;34:748–57.\n34.\nDiehle J, Opmeer BC, Boer F, Mannarino AP, Lindauer RJL. Trauma-focused\ncognitive behavioral therapy or eye movement desensitization and\nreprocessing: what works in children with posttraumatic stress\nsymptoms? A randomized controlled trial. Eur Child Adoles Psy.\n2015;24:227–36.\n35.\nJensen TK, Holt T, Ormhaug SM, Egeland K, Granly L, Hoaas LC, et al. A\nrandomized effectiveness study comparing trauma-focused cognitive\nbehavioral therapy with therapy as usual for youth. J Clin Child Adolesc.\n2014;43:356–69.\n36.\nMurray LK, Cohen JA, Ellis BH, Mannarino A. Cognitive behavioral therapy\nfor symptoms of trauma and traumatic grief in refugee youth. Child Adol\nPsych Cl. 2008;17:585–604.\n37.\nSchottelkorb AA, Doumas DM, Garcia R. Treatment for childhood refugee\ntrauma: a randomized controlled trial. Int J Play Ther. 2012;21:57–73.\n38.\nMurray LK, Skavenski SA. International settings. In: Cohen JA, Mannarino AP,\nDeblinger E, editors. Trauma-focused CBT for children and adolescents:\ntreatment applications. New York: Guilford Press; 2012. p. 225–52.\n39.\nBass J, Bearup L, Bolton P, Murray L, Skavenski S. Implementing\ntrauma-focused cognitive behavioral therapy (TF-CBT) among formerly\ntrafficked-sexually abused girls in Cambodia: a feasibility study.\nBaltimore: John Hopkins Bloomberg School of Public Health; 2011.\n40.\nMurray LK, Familiar I, Skavenski S, Jere E, Cohen J, Imasiku M, et al. An\nevaluation of trauma focused cognitive behavioral therapy for children in\nZambia. Child Abuse Negl. 2013;37:1175–85."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.692901611328125,
+      33.39044952392578,
+      538.578857421875,
+      42.42233657836914
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 8 of 9"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      56.69145965576172,
+      91.1258544921875,
+      290.2799987792969,
+      467.3889465332031
+    ],
+    "text": "41.\nMurray LK, Dorsey S, Skavenski S, Kasoma M, Imasiku M, Bolton P, et al.\nIdentification, modification, and implementation of an evidence-based\npsychotherapy for children in a low-income country: the use of TF-CBT in\nZambia. Int J Ment Health Syst. 2013;7:24.\n42.\nKliethermes M, Wamser R. Adolescents with complex trauma. In: Cohen JA,\nMannarino AP, Deblinger E, editors. Trauma-focused CBT for children and\nadolescents: treatment applications. New York: Guilford Press; 2012. p. 175–96.\n43.\nUniversity of Ulm, Federal Ministry of Education and Research. Effectiveness of\ntrauma-focused cognitive-behavioral therapy for children with post-traumatic\nstress disorder (TreatChildTrauma; TCT). https://clinicaltrials.gov/ct2/show/\nNCT01516827 (2011). Accessed 27 Nov 2014.\n44.\nNader KO, Kriegler JA, Blake DD, Pynoos RS. Clinical Administered PTSD\nScale, Child and Adolescent Version (CAPS-CA). White River Junction,\nVT: National Center for PTSD; 1994.\n45.\nFoa EB, Cashman L, Jaycox L, Perry K. The validation of a self-report measure\nof posttraumatic stress disorder: the posttraumatic diagnostic scale. Psychol\nAssessment. 1997;9:445–51.\n46.\nKaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, et al. Schedule for\nAffective Disorders and Schizophrenia for School-Age Children-Present and\nLifetime Version (K-SADS-PL): initial reliability and validity data. J Am Acad\nChild Adolesc Psychiatry. 1997;36:980–8.\n47.\nWechsler D. The Wechsler intelligence scale for children. 4th ed. London:\nPearson Assessment; 2004.\n48.\nSteil R, Füchsel G. Interviews zu Belastungsstörungen bei Kindern und\nJugendlichen. Göttingen: Hogrefe; 2006.\n49.\nGriesel D, Wessa M, Flor H. Psychometric qualities of the German version of\nthe posttraumatic diagnostic scale (PDS). Psychol Assessment. 2006;18:262–8.\n50.\nJacobson NS, Truax P. Clinical significance: a statistical approach to defining\nmeaningful change in psychotherapy research. J Consult Clin Psych.\n1991;59:12–9.\n51.\nMatulis S, Resick PA, Rosner R, Steil R. Developmentally adapted cognitive\nprocessing therapy for adolescents suffering from posttraumatic stress\ndisorder after childhood sexual or physical abuse: A pilot study. Clin Child\nFam Psych. 2014;17:173–90.\n52.\nOgles BO. Measuring change in psychotherapy research. In: Lambert M,\neditor. Handbook of psychotherapy research and behavior change.\nNew Jersey: Wiley; 2013. p. 134–66.\n53.\nLang JM, Ford JD, Fitzgerald MM. An algorithm for determining use of\ntrauma-focused cognitive-behavioral therapy. Psychother-Theor Res.\n2010;47:554–69.\n54.\nCohen JA, Mannarino AP, Kliethermes M, Murray LA. Trauma-focused CBT\nfor youth with complex trauma. Child Abuse Negl. 2012;36:528–41."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.8551025390625,
+      608.2691040039062,
+      522.9494018554688,
+      627.8304443359375
+    ],
+    "text": "Submit your next manuscript to BioMed Central\nand take full advantage of:"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      641.5086669921875,
+      423.3979797363281,
+      648.3086547851562
+    ],
+    "text": "• Convenient online submission"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      653.9186401367188,
+      398.6256103515625,
+      660.7186279296875
+    ],
+    "text": "• Thorough peer review"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      666.3285522460938,
+      467.1015930175781,
+      673.1285400390625
+    ],
+    "text": "• No space constraints or color ﬁgure charges"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      678.7384643554688,
+      446.456787109375,
+      685.5384521484375
+    ],
+    "text": "• Immediate publication on acceptance"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      691.1481323242188,
+      498.95953369140625,
+      697.9481201171875
+    ],
+    "text": "• Inclusion in PubMed, CAS, Scopus and Google Scholar"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.1460876464844,
+      703.5580444335938,
+      491.4656066894531,
+      710.3580322265625
+    ],
+    "text": "• Research which is freely available for redistribution"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.8551025390625,
+      724.2897338867188,
+      418.4136657714844,
+      737.5896606445312
+    ],
+    "text": "Submit your manuscript at \nwww.biomedcentral.com/submit"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      56.692901611328125,
+      33.39038848876953,
+      538.578857421875,
+      42.42227554321289
+    ],
+    "text": "Unterhitzenberger et al. BMC Psychiatry  (2015) 15:260 \nPage 9 of 9"
+  }
+]

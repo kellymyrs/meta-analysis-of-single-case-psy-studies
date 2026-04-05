@@ -1,0 +1,1778 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      253.90509033203125,
+      102.0831069946289,
+      354.0030822753906,
+      120.0831069946289
+    ],
+    "text": "Case Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      120.06968688964844,
+      131.99703979492188,
+      487.8043518066406,
+      150.24903869628906
+    ],
+    "text": "Adjunctive Quetiapine for Treatment-Resistant",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      95.46728515625,
+      151.99685668945312,
+      512.4031372070312,
+      170.2488555908203
+    ],
+    "text": "Adolescent Major Depressive Disorder: A Case Series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      120.29010009765625,
+      196.45860290527344,
+      487.655029296875,
+      210.28143310546875
+    ],
+    "text": "Sanjeev Pathak, M.D., 1,2 Erin S. Johns, B.S., 1 and Robert A. Kowatch, M.D. 1,2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99969482421875,
+      285.1799621582031,
+      538.02001953125,
+      400.17828369140625
+    ],
+    "text": "Background: Major depressive disorder (MDD) is a leading cause of disability and mortality in adolescents. Empirical evidence suggests that many adolescents with MDD do not respond or respond only partially to commonly used interventions (antidepressants, psychotherapy, or a combination of antidepressants and psychotherapy). There is preliminary data in adults that adjunctive second-generation antipsychotics may be useful in treatment-resistant depression. Objective: The aim of this study was to obtain preliminary data regarding the safety, tolerability, and clinical usefulness of quetiapine as adjunctive therapy for adolescents (13–18 years of age) diagnosed with treatment-resistant MDD. Treatment-resistant MDD was defined as a failure to respond to an adequate dose for at least 8 weeks of a selective serotonin reup-",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      415.1778564453125,
+      538.0098876953125,
+      465.1772155761719
+    ],
+    "text": "Methods: The medical charts of 10 adolescents (13–18 years of age) diagnosed with treatment-resistant MDD, who were treated with adjunctive quetiapine, were evaluated. Doses of preexisting antidepressants remained unchanged during the period of evaluation. Response to treatment was defined as a Clinical Global Impression—Improvement (CGI-I) score of 1",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      480.1767883300781,
+      538.010986328125,
+      517.1763916015625
+    ],
+    "text": "Results: Seven adolescents (70%) qualified as responders to treatment with adjunctive quetiapine. The median dose of quetiapine was 200 mg (mean ± SD = 275 ± 190.4 mg, range; 150–800 mg). Side effects included sedation (40%) and weight gain (mean ± SD = 4.5 ± 7.24",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      532.1759643554688,
+      538.0130004882812,
+      556.17578125
+    ],
+    "text": "Conclusions: This case series suggests that there may be a role for adjunctive quetiapine in treatment-resistant adolescent depression. Clinical safety and efficacy trials of quetiapine in",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      79.0,
+      683.5606079101562,
+      485.73602294921875,
+      714.6864013671875
+    ],
+    "text": "1 Children’s Hospital Medical Center, Division of Child and Adolescent Psychiatry, Cincinnati, Ohio. 2 University of Cincinnati, Department of Psychiatry, Cincinnati, Ohio. There was no financial support for this work. Dr Kowatch is on the speaker’s bureau for AstraZeneca.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.0,
+      40.99906921386719,
+      179.93321228027344,
+      70.12482452392578
+    ],
+    "text": "Volume 15, Number 4, 2005 Mary Ann Liebert, Inc. Pp. 696–702",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      272.91778564453125,
+      259.1803894042969,
+      335.0271301269531,
+      270.1803894042969
+    ],
+    "text": "ABSTRACT",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99971008300781,
+      402.1780700683594,
+      178.63465881347656,
+      413.1780700683594
+    ],
+    "text": "take inhibitor (SSRI).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      467.177001953125,
+      297.0275573730469,
+      478.177001953125
+    ],
+    "text": "(very much improved) or 2 (much improved).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      519.1761474609375,
+      298.6423034667969,
+      530.1761474609375
+    ],
+    "text": "pounds). There was no serious adverse event.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.99970245361328,
+      558.175537109375,
+      269.8058776855469,
+      569.175537109375
+    ],
+    "text": "this population appear to be warranted.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      136.93490600585938,
+      592.4715576171875,
+      231.01678466796875,
+      603.4715576171875
+    ],
+    "text": "INTRODUCTION",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      69.32569885253906,
+      618.233154296875,
+      98.50569915771484,
+      647.4131469726562
+    ],
+    "text": "M",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      98.5,
+      618.4185791015625,
+      298.01031494140625,
+      642.5723876953125
+    ],
+    "text": "AJOR DEPRESSIVE DISORDER (MDD) is a leading cause of disability and mortality in",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.0000991821289,
+      644.418212890625,
+      298.0124816894531,
+      668.572021484375
+    ],
+    "text": "adolescents (Angold et al. 1998; Shaffer et al. 1996). In the United States, the incidence of de-",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      310.0002746582031,
+      592.037353515625,
+      538.0269165039062,
+      668.1903076171875
+    ],
+    "text": "pression is approximately 4%–8% in adolescents (Fleming and Offord 1990; Kashani et al. 1987; Lewinsohn et al. 1993). Despite the issue of failed trials and adverse effects with selective serotonin reuptake inhibitors (SSRIs) in children and adolescents diagnosed with depression,",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      70.0,
+      53.9990119934082,
+      298.0322265625,
+      234.150634765625
+    ],
+    "text": "they are the first-line pharmacological treatment for adolescent depression (Birmaher et al. 1998; Brent and Birmaher 2004; Koplewicz 2004). However, they produce a symptomatic response in approximately 60% of patients and syndrome remission in approximately 33% of patients (Emslie et al. 2002; Emslie et al. 1997; Keller et al. 2001; Treatment for Adolescents with Depression Study Team 2004; Wagner et al. 2003; Wagner et al. 2004). Similar rates of remission/response have been noted in trials with SSRIs in adults (Entsuah et al. 2001; Rudolph and Feiger 1999; Thase et al. 2001). Augmentation of SSRIs with cognitive behav-",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      70.0,
+      235.99644470214844,
+      298.0355224609375,
+      715.14306640625
+    ],
+    "text": "ioral psychotherapy produces an approximately 70% response rate and a much lower remission rate, as seen in the Treatment for Adolescents with Depression Study (Treatment for Adolescents with Depression Study Team 2004). Thus, only a minority of patients experience total symptom relief and many do not respond to monotherapy with an antidepressant. Nonremission and nonresponse to treatment causes suffering, compromises quality of life, and can endanger life because of the inherent risk of suicide. In addition, patients who do not achieve complete remission are at a higher risk of experiencing relapse, along with an associated risk of disability, comorbidity, and mortality (Kennedy et al. 2002). Thus, alternative pharmacological options for the treatment of MDD in adolescents are needed. There is emerging evidence of the utility of augmentation of SSRIs with second-generation antipsychotics in adults. Shelton et al. conducted an 8-week, double-blind study with 28 adult patients who were diagnosed with recurrent, unipolar, treatment-resistant depression without psychotic features (Shelton et al. 2001). Subjects were randomly assigned to one of three groups: olanzapine plus placebo, fluoxetine plus placebo, or olanzapine plus fluoxetine. Olanzapine plus fluoxetine produced significantly greater improvement than either monotherapy on the Montgomery-Asberg Depression Rating Scale after 1 week. Masand et al., in an open-label study, found that adjunctive aripiprazole resulted in symptom response in 70% of adults with MDD who had failed at least one adequate trial of an antidepressant (Masand et al. 2004). Rapaport et al. reported,",
+    "line_count": 37,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      310.00018310546875,
+      53.98918533325195,
+      538.03564453125,
+      715.1332397460938
+    ],
+    "text": "in an open-label trial with adults ( n = 386) with MDD who had failed at least one antidepressant, that risperidone augmentation provided a rapid, robust improvement in depressive symptoms (Rapaport et al. 2004). Encouraging preliminary results have been obtained with quetiapine in treatment-resistant MDD in adults as well. Doree et al. studied adjunctive quetiapine versus lithium in the treatment of resistant depression in adults. Their results showed that quetiapine was associated with greater improvement than lithium. A greater number of patients responded to treatment (88% versus 50%) and were in remission (88% versus 38%) in the quetiapine group compared with the lithium group, based on scores on the HAM-D (Hamilton Depression Rating Scale; Doree et al. 2004). In another brief report, Adson et al. assessed quetiapine as adjunctive therapy to SSRIs for adult patients with residual anxiety symptoms complicating a depressive or anxiety disorder (Adson et al. 2004). Patients receiving a stable dosage of an SSRI for at least 6 weeks and who also had persistent anxiety symptoms (Hamilton Anxiety Scale [HAM-A] at least 16), were enrolled in a 9- week, open-label, variable-dose study of quetiapine. Changes in clinical status were assessed with the HAM-D and HAM-A. While their primary hypothesis was that adjunctive quetiapine would be associated with a reduction in anxiety symptoms, they also noted statistically and clinically significant reductions of at least 50% in depressive symptoms on the HAM-D by the 2nd week of treatment in 10 of the 11 patients. These improvements continued throughout the study. Adjunctive quetiapine was generally well tolerated in this study. Sajatovic et al. compared the efficacy and tolerability of quetiapine and risperidone for the treatment of depressive symptoms in outpatients with psychosis (Sajatovic et al. 2002). In this 4-month, multicenter, open-label trial, patients were randomly assigned to quetiapine or risperidone, and both drugs were flexibly dosed. All enrolled patients had psychoses as part of a Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV) Axis I disorder. The HAM-D was used to assess the level of depressive symptoms. Although both agents produced improvements in mean HAM-D scores, queti-",
+    "line_count": 51,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.0,
+      53.9990119934082,
+      298.0717468261719,
+      117.15228271484375
+    ],
+    "text": "apine produced a greater improvement than risperidone in all patients ( p = 0.0015). This suggests that quetiapine may have a role in the treatment of adolescent treatmentresistant MDD.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      154.17970275878906,
+      145.05174255371094,
+      213.76451110839844,
+      156.05174255371094
+    ],
+    "text": "METHODS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.0,
+      170.9983367919922,
+      297.98712158203125,
+      234.151611328125
+    ],
+    "text": "The institutional review board (IRB) approved this study, and the study protocol adhered to the privacy requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). The medical charts of",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.0,
+      235.99742126464844,
+      298.0343322753906,
+      715.14404296875
+    ],
+    "text": "10 adolescents (13–18 years of age) who had a diagnosis of DSM-IV-TR MDD, and who had failed to respond to at least an 8-week trial of an SSRI with an adequate dose and had been treated with adjunctive quetiapine, were identified. An adequate dose was defined as a minimum dose of 20 mg of fluoxetine, 20 mg of citalopram, 10 mg of escitalopram, 50 mg of sertraline, or 20 mg of paroxetine. These adolescents were treated at Cincinnati Children’s Hospital Medical Center’s (Cincinnati, OH) psychiatry outpatient department between January 2003 and June 2004. Quetiapine was chosen as an adjunctive therapy owing to minimal risk for extrapyramidal symptoms (EPS), lack of prolactin elevation, low probability of tardive dyskinesia, and, more importantly, evidence of safety and efficacy in adolescent mood disorders (Delbello et al. 2002). A structured chart review form was utilized to collect data. The data gathering and review included a comprehensive review of all notes, such as the child psychiatrist’s note, vitals, and laboratory results. In addition, the charts were reviewed for documentation of adverse effects to medication. Adverse events were defined as any unwanted health changes identified after the initiation of quetiapine, or a medical symptom present at admission, which increased in severity. Clinical Global Impression of Severity (CGI-S; 1 = not mentally ill to 7 = severely ill) and Improvement scores (CGI-I; 1 = very much improved to 7 = very much worse), which had been prospectively assigned by a trained rater (SP), were used to assess the overall severity of illness and improvement of depressive symptoms, respectively (Guy 1976). The CGI-S rat-",
+    "line_count": 37,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      310.00018310546875,
+      53.99016189575195,
+      538.0379028320312,
+      286.14105224609375
+    ],
+    "text": "ings were prospectively assigned at baseline (the visit during which quetiapine was initiated) and at endpoint (the first visit at which a new medication was prescribed, quetiapine was discontinued, or a dose of a concomitant medication was adjusted). CGI-I ratings were also prospectively assigned for every outpatient visit following baseline and at endpoint. Subjects were included only if all medications, with the exception of quetiapine, were kept at a stable dose during the rating period. Treatment response was defined as a final CGI—improvement score of 1 (very much improved) or 2 (much improved), based on published clinical trials in adolescent depression (Emslie et al. 1997; Keller et al. 2001; Treatment for Adolescents with Depression Study Team 2004; Wagner et al. 2004).",
+    "line_count": 18,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      398.8592834472656,
+      314.0404968261719,
+      449.0919189453125,
+      325.0404968261719
+    ],
+    "text": "RESULTS",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      310.00018310546875,
+      339.9871520996094,
+      538.0346069335938,
+      715.1353149414062
+    ],
+    "text": "Ten outpatients with treatment-resistant MDD were identified who were treated with adjunctive quetiapine. Demographic and clinical characteristics of these patients are shown in Table 1. Six patients were female and 4 were males, and their mean age ± SD (range) was 15.7 ± 1.7 years (13–18 years). All 10 patients met DSM-IV-TR criteria for MDD, with MDD as their primary diagnosis. Two patients were also assessed with the Schedule for Affective Disorders and Schizophrenia for School-Age Children—Present and Lifetime version (KSADS-PL; Kaufman et al. 1997). These 2 patients’ case reports are presented as examples. The other 8 patients had DSM-IV-TR diagnoses assigned based on a comprehensive clinical interview with the patients and their guardians. All 10 patients displayed persistent, pervasive depressive symptoms that impaired their functioning. The mean duration ± SD of the episode was 27 ± 16 months. Four patients (40%) had a history of suicide attempts. Another three patients (30%) complained of experiencing suicidal ideation in the recent past. Thus, seven patients (70%) had experienced some suicidal behavior in the past. Three patients (30%) had self-harm behavior (cutting, and so forth) without any intent to die at the time of initiation of quetiapine (at baseline). One patient’s father",
+    "line_count": 29,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      113.46479797363281,
+      55.02240753173828,
+      133.54559326171875,
+      91.03582763671875
+    ],
+    "text": "of current Duration",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      56.41370391845703,
+      155.54598999023438,
+      89.71014404296875
+    ],
+    "text": "(months) episode",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.464599609375,
+      102.75653839111328,
+      155.54598999023438,
+      129.29034423828125
+    ],
+    "text": "Weight (lbs.) gain",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.464599609375,
+      140.98672485351562,
+      144.54539489746094,
+      179.049560546875
+    ],
+    "text": "quetiapine treatment",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      102.46499633789062,
+      142.84890747070312,
+      111.5459976196289,
+      177.1533203125
+    ],
+    "text": "Duration",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.46499633789062,
+      144.59487915039062,
+      155.54598999023438,
+      175.5152587890625
+    ],
+    "text": "in weeks",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      78.46499633789062,
+      146.3257598876953,
+      87.59120178222656,
+      579.6296997070312
+    ],
+    "text": "C LINICAL C HARACTERISTICS OF S UBJECTS WITH M AJOR D EPRESSIVE D ISORDER T REATED WITH A DJUNCTIVE Q UETIAPINE",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      113.46479797363281,
+      156.7287139892578,
+      122.5457992553711,
+      163.2698974609375
+    ],
+    "text": "of",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      190.90345764160156,
+      155.54598999023438,
+      225.20782470703125
+    ],
+    "text": "Endpoint CGI-I",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.464599609375,
+      237.85824584960938,
+      155.54598999023438,
+      268.1666259765625
+    ],
+    "text": "Baseline severity CGI-S",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      289.1609802246094,
+      155.54598999023438,
+      318.92218017578125
+    ],
+    "text": "Adverse effects",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.46502685546875,
+      296.5470275878906,
+      282.59100341796875,
+      331.59576416015625
+    ],
+    "text": "Sedation",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      196.464599609375,
+      311.70587158203125,
+      205.59060668945312,
+      331.5418701171875
+    ],
+    "text": "none",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.4650115966797,
+      311.75885009765625,
+      249.5910186767578,
+      331.5921630859375
+    ],
+    "text": "none",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      163.46510314941406,
+      311.8067321777344,
+      172.5911102294922,
+      331.6373291015625
+    ],
+    "text": "none",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      207.4644012451172,
+      343.6351013183594,
+      227.59019470214844,
+      397.5316162109375
+    ],
+    "text": "escitalopram, nortryptline",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      351.754150390625,
+      205.59060668945312,
+      406.6343994140625
+    ],
+    "text": "Other SSRIs tried in past Citalopram, sertraline Fluoxetine,",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.4650115966797,
+      364.1865539550781,
+      249.5910186767578,
+      406.60443115234375
+    ],
+    "text": "Fluoxetine",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.46502685546875,
+      365.5491638183594,
+      282.59100341796875,
+      406.60711669921875
+    ],
+    "text": "Sertraline,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.464599609375,
+      419.558349609375,
+      155.54598999023438,
+      460.4561767578125
+    ],
+    "text": "Quetiapine (mg/day) dose",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      174.46490478515625,
+      471.55133056640625,
+      183.59091186523438,
+      526.13916015625
+    ],
+    "text": "Adderall XR ®",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.46499633789062,
+      473.50079345703125,
+      155.54598999023438,
+      534.5388793945312
+    ],
+    "text": "(dose in mg/day)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      251.4647979736328,
+      473.6660461425781,
+      260.5907897949219,
+      526.1350708007812
+    ],
+    "text": "Adderall XR",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      218.4641876220703,
+      475.979248046875,
+      227.59019470214844,
+      526.145263671875
+    ],
+    "text": "Adderall XR",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.46502685546875,
+      478.2030029296875,
+      282.59100341796875,
+      535.22509765625
+    ],
+    "text": "Citalopram 40",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      163.46510314941406,
+      479.29412841796875,
+      172.5911102294922,
+      535.2417602539062
+    ],
+    "text": "Fluoxetine 60,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.464599609375,
+      480.20574951171875,
+      144.54539489746094,
+      527.7978515625
+    ],
+    "text": "Concomitant medications",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.4650115966797,
+      485.2167053222656,
+      249.5910186767578,
+      535.2278442382812
+    ],
+    "text": "Sertraline 50",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      196.464599609375,
+      488.2732849121094,
+      216.5904083251953,
+      535.2010498046875
+    ],
+    "text": "Venlafaxine (375),",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      196.464599609375,
+      547.2232666015625,
+      205.59060668945312,
+      618.0551147460938
+    ],
+    "text": "Anorexia nervosa",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.4650115966797,
+      549.8168334960938,
+      249.5910186767578,
+      618.0611572265625
+    ],
+    "text": "ADHD, cannabis",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      163.46510314941406,
+      551.8818359375,
+      172.5911102294922,
+      618.06787109375
+    ],
+    "text": "Trichotillomania",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      207.4644012451172,
+      553.1326904296875,
+      227.59019470214844,
+      608.9686889648438
+    ],
+    "text": "type), ADHD, (binge purge",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.46502685546875,
+      562.749755859375,
+      282.59100341796875,
+      618.0611572265625
+    ],
+    "text": "Social anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      564.0291137695312,
+      155.54598999023438,
+      599.99853515625
+    ],
+    "text": "Comorbid diagnoses",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      174.46490478515625,
+      580.4172973632812,
+      183.59091186523438,
+      608.9688720703125
+    ],
+    "text": "ADHD",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      251.4647979736328,
+      585.7619018554688,
+      260.5907897949219,
+      608.9692993164062
+    ],
+    "text": "abuse",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      78.46499633789062,
+      587.8197021484375,
+      87.59099578857422,
+      619.6353149414062
+    ],
+    "text": "T ABLE 1.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      229.46397399902344,
+      588.0473022460938,
+      238.58998107910156,
+      608.9686889648438
+    ],
+    "text": "GAD",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      135.4644012451172,
+      630.9756469726562,
+      144.54539489746094,
+      673.034423828125
+    ],
+    "text": "Age/gender",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.4650115966797,
+      635.5805053710938,
+      249.5910186767578,
+      673.2230224609375
+    ],
+    "text": "16/M/W",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.46502685546875,
+      635.5805053710938,
+      282.59100341796875,
+      673.2230224609375
+    ],
+    "text": "16/M/W",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      196.464599609375,
+      639.0845336914062,
+      205.59060668945312,
+      673.2214965820312
+    ],
+    "text": "18/F/W",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.46499633789062,
+      639.095458984375,
+      172.5911102294922,
+      673.2235107421875
+    ],
+    "text": "13/F/W race",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.46499633789062,
+      680.6997680664062,
+      155.54598999023438,
+      707.4550170898438
+    ],
+    "text": "Patient",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      273.4643859863281,
+      701.754638671875,
+      282.5903625488281,
+      712.0004272460938
+    ],
+    "text": "D b",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.46376037597656,
+      702.6492309570312,
+      249.5897674560547,
+      711.9998168945312
+    ],
+    "text": "C a",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      163.46510314941406,
+      704.9979858398438,
+      172.5911102294922,
+      712.0
+    ],
+    "text": "A",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      196.464599609375,
+      706.5007934570312,
+      205.59060668945312,
+      711.9998168945312
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      490.46490478515625,
+      75.4632339477539,
+      499.59088134765625,
+      703.9998779296875
+    ],
+    "text": "ADHD = Attention-deficit/hyperactivity disorder; CGI-I = Clinical Global Impression—Improvement; CGI-S = Clinical Global Impression—Severity; GAD =",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      295.464599609375,
+      279.3460998535156,
+      326.59014892578125,
+      322.5119323730469
+    ],
+    "text": "with doses intolerable",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      361.46331787109375,
+      288.3686218261719,
+      370.58929443359375,
+      322.5083312988281
+    ],
+    "text": "sedation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.4643859863281,
+      288.3722229003906,
+      348.5897216796875,
+      322.5119323730469
+    ],
+    "text": "sedation over 200 mg/day",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      394.4626770019531,
+      294.24664306640625,
+      403.5886535644531,
+      331.5894775390625
+    ],
+    "text": "Sedation,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      471.46502685546875,
+      296.5438537597656,
+      480.59100341796875,
+      331.5925598144531
+    ],
+    "text": "Sedation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      372.4631042480469,
+      303.0828552246094,
+      381.5890808105469,
+      331.5849304199219
+    ],
+    "text": "Weight",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.46246337890625,
+      303.7613830566406,
+      414.58843994140625,
+      331.5938720703125
+    ],
+    "text": "weight",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      284.4648132324219,
+      304.0745544433594,
+      293.5907897949219,
+      322.50384521484375
+    ],
+    "text": "with",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      416.4622497558594,
+      305.0186767578125,
+      458.58758544921875,
+      331.59039306640625
+    ],
+    "text": "gain none none",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      312.2080078125,
+      359.5895080566406,
+      331.5912780761719
+    ],
+    "text": "Mild",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      383.462890625,
+      314.1104736328125,
+      392.5888671875,
+      331.603759765625
+    ],
+    "text": "gain",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      284.4648132324219,
+      351.0140380859375,
+      293.5907897949219,
+      397.51702880859375
+    ],
+    "text": "venlafaxine",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.46246337890625,
+      351.55419921875,
+      436.5880126953125,
+      406.5972595214844
+    ],
+    "text": "Fluvoxamine, paroxetine",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      438.4618225097656,
+      359.65509033203125,
+      447.5877990722656,
+      397.50994873046875
+    ],
+    "text": "sertraline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      361.8852233886719,
+      381.5890808105469,
+      406.6035461425781
+    ],
+    "text": "Fluoxetine, Bupropion",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      471.46502685546875,
+      363.9061584472656,
+      480.59100341796875,
+      406.6057434082031
+    ],
+    "text": "Paroxetine",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      394.4626770019531,
+      364.1838684082031,
+      403.5886535644531,
+      406.60174560546875
+    ],
+    "text": "Fluoxetine",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      449.46160888671875,
+      364.1847839355469,
+      458.58758544921875,
+      406.6026611328125
+    ],
+    "text": "Fluoxetine",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      500.46478271484375,
+      407.77490234375,
+      509.59075927734375,
+      711.9999389648438
+    ],
+    "text": "Generalized Anxiety Disorder; SSRI = selective serotonin reuptake inhibitor.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      427.4620361328125,
+      478.9743347167969,
+      458.58758544921875,
+      535.2252197265625
+    ],
+    "text": "Adderall 40 Fluoxetine 80, Sertraline 100",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      482.4339294433594,
+      359.5895080566406,
+      535.2269287109375
+    ],
+    "text": "Escitalopram",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      471.46502685546875,
+      483.5719299316406,
+      480.59100341796875,
+      535.2301025390625
+    ],
+    "text": "fluoxetine 60",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      372.4631042480469,
+      496.4613037109375,
+      403.5886535644531,
+      535.2279052734375
+    ],
+    "text": "Sertraline Sertraline",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      549.8159790039062,
+      359.5895080566406,
+      618.0602416992188
+    ],
+    "text": "ADHD, cannabis",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      510.46502685546875,
+      560.7442626953125,
+      519.5910034179688,
+      704.0
+    ],
+    "text": "a Probable bipolar disorder in father.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      449.46160888671875,
+      562.7498779296875,
+      480.59100341796875,
+      618.0616455078125
+    ],
+    "text": "Social anxiety ADHD, GAD disorder",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      427.4620361328125,
+      578.4279174804688,
+      447.5877990722656,
+      618.0593872070312
+    ],
+    "text": "Tourette’s ADHD",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      361.46331787109375,
+      585.7610473632812,
+      403.5886535644531,
+      618.0611572265625
+    ],
+    "text": "abuse ADHD ADHD",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      520.4650268554688,
+      590.9254760742188,
+      529.5910034179688,
+      704.0
+    ],
+    "text": "b Family history unavailable.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      630.0806884765625,
+      381.5890808105469,
+      673.22216796875
+    ],
+    "text": "18//M/W 15/M/W",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      394.4626770019531,
+      639.0896606445312,
+      403.5886535644531,
+      673.22216796875
+    ],
+    "text": "15/F/W",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      449.46160888671875,
+      639.0897216796875,
+      480.59100341796875,
+      673.2225952148438
+    ],
+    "text": "16/F/W 14/F/W",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      427.4620361328125,
+      653.6759643554688,
+      436.5880126953125,
+      673.22216796875
+    ],
+    "text": "F/W",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      427.4620361328125,
+      704.5115966796875,
+      436.5880126953125,
+      711.9995727539062
+    ],
+    "text": "H",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      394.4626770019531,
+      705.132568359375,
+      403.5886535644531,
+      711.9995727539062
+    ],
+    "text": "G",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      350.4635314941406,
+      706.50048828125,
+      381.5890808105469,
+      711.99951171875
+    ],
+    "text": "E F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      449.46160888671875,
+      708.966552734375,
+      480.59100341796875,
+      712.0
+    ],
+    "text": "I J",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      70.0,
+      53.9990119934082,
+      298.02447509765625,
+      234.150634765625
+    ],
+    "text": "may have suffered from bipolar disorder, based on information gathered from the mother. Another patient’s family history was not available owing to the patient being adopted, and 8 patients (80%) did not have a family history of bipolar disorder. The median dose of quetiapine prescribed was 200 mg (mean ± SD = 275 ± 190.4 mg; range, 150–800 mg). The patient who received the highest dose (800 mg) had a history of hearing “noises.” She did not have any hallucinations at the time of quetiapine initiation. No other patient had a past or present history of psychotic symptoms. Dosing was once a day, before bedtime for all subjects. This",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      70.0,
+      235.99644470214844,
+      298.03662109375,
+      468.1469421386719
+    ],
+    "text": "was done to avoid daytime sedation. Seven subjects (70%) showed much or very much improvement (CGI-I score of 1 or 2) and were classified as responders. Three subjects (patients A, B, and F) who had self-harm behavior (cutting) at baseline, experienced relief from self-mutilation approximately 2 weeks after starting quetiapine. While 2 patients’ selfcutting completely stopped (patients B and F), 1 patient had significant reduction in selfcutting. Interestingly, 2 of these patients (patients A and B) were classified as nonresponders. Sedation was seen in 40% of patients, which usually resolved in the first few weeks of treatment. Weight gain was noted with large individual variability (mean ± SD (range) = 4.5 ± 7.24 (0–23) pounds). There were no serious adverse events.",
+    "line_count": 18,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      141.44281005859375,
+      502.0458068847656,
+      226.49481201171875,
+      513.0458374023438
+    ],
+    "text": "CASE REPORTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      70.00000762939453,
+      527.992431640625,
+      298.0321960449219,
+      714.6437377929688
+    ],
+    "text": "Patient C (Table 1) C was a 16-year-old white male whose symptoms of depression began after a breakup with his girlfriend approximately 16 months prior to his first visit to the outpatient clinic. An evaluation was done using the K-SADS-PL. He met DSM-IV-TR diagnostic criteria for MDD, attention-deficit/hyperactivity disorder and cannabis abuse. He was having significant academic problems at school and behavioral problems at home, resulting in conflicts with his mother. His father had committed suicide when he was 2 years of age and may have suffered from bipolar disorder. At presentation, his",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      310.00018310546875,
+      53.9892463684082,
+      538.03564453125,
+      364.1388854980469
+    ],
+    "text": "CDRS-R (Children’s Depression Rating Scale— Revised) total score was 66, with a CGI-S score of 6. He reported feeling depressed and irritable every day, with noticeable worsening in the afternoon. He had prominent rejection sensitivity, hypersomnia, tiredness, and feelings of worthlessness. He had recurrent thoughts of death but did not have active suicidal ideation or plan. He was started on fluoxetine 10 mg/ day, which was increased to 60 mg over 12 weeks. He also received weekly cognitive behavioral therapy. At week 16, his CDRS-R score was 55 and, therefore, his antidepressant was changed to sertraline 100 mg. After 8 weeks of treatment with sertraline (week 24 from initial visit, CDRS-R score 60), with no clinical improvement, quetiapine was added at 50 mg QHS, which was increased to 200 mg in 2 weeks. Later (week 26), it was increased to 300 mg. At week 30, his CDRS-R score was 23, CGI-I score was 1, and he did not meet criteria for major depressive disorder. At a follow-up visit on week 34, his CGI-I score was stable at “very much improved” (CDRS-R score unavailable).",
+    "line_count": 24,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      310.00018310546875,
+      385.4844055175781,
+      538.0333862304688,
+      715.1333618164062
+    ],
+    "text": "Patient D (Table 1) D was a 16-year-old white female who complained of depression for approximately 10 years. She had been adopted as an infant, and her family history was not available. She had a past history of “activation” on sertraline and venlafaxine. An evaluation was done using the K-SADS-PL. She met criteria for major depressive disorder, with prominent hypersomnia and an increase in appetite. She also had significant depression, anhedonia, tiredness, and hopelessness. She also met criteria for social anxiety disorder. At the initial visit, she reported taking citalopram (40mg/day) for the past 4 months. Though there were no adverse effects, there was no improvement in depressive symptoms. She was started on quetiapine 25 mg QHS, which was gradually increased to 300 mg QHS over 3 weeks. Her mood symptoms improved significantly; however, she was extremely sedated and slept in school. She was having significant problems waking up in the morning. Therefore, her dose was decreased to 200 mg QHS. With this reduction in dose, the adverse effects of sedation resolved. Six weeks",
+    "line_count": 25,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      70.0,
+      53.9990119934082,
+      298.0222473144531,
+      91.15264892578125
+    ],
+    "text": "after treatment with adjunctive quetiapine she did not meet criteria for a major depressive episode, and her CGI-I score was 1.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      147.37840270996094,
+      119.0521011352539,
+      220.57351684570312,
+      130.05210876464844
+    ],
+    "text": "DISCUSSION",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      70.0,
+      144.9987030029297,
+      298.0223693847656,
+      234.151611328125
+    ],
+    "text": "Seven of ten adolescents (70%) with treatment-resistant depression responded to treatment with open-label adjunctive quetiapine with SSRIs. This suggests that quetiapine may have a role in the management of treatmentresistant depression in adolescents. There has been substantial concern raised over problems",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      70.0,
+      235.99742126464844,
+      298.0354919433594,
+      546.1466674804688
+    ],
+    "text": "with obesity, weight gain, and diabetes with second-generation antipsychotics (Boehm et al. 2004). This is of more concern in children and adolescents, as there is well-documented morbidity and mortality associated with obesity, especially when it starts early in life (Dietz 1998). The associated weight gain with quetiapine needs to be taken into consideration while calculating the risk-benefit ratio in the management of treatment-resistant depression. These preliminary observations have several methodological limitations. This data was obtained from an open-label design without randomization to a control group. Thus, the possibility that the observations could be the result of a rater or patient bias, placebo effect, or spontaneous remission cannot be ruled out. In addition, as quetiapine was utilized as an adjunctive agent with SSRIs, a late response to SSRIs cannot be excluded either. Moreover, all patients were Caucasian and lacked ethnic diversity. These findings are, therefore, provisional and are in need of further scrutiny in blinded, randomized, controlled trials.",
+    "line_count": 24,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      140.9401092529297,
+      574.046142578125,
+      227.01510620117188,
+      585.046142578125
+    ],
+    "text": "CONCLUSIONS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      70.00000762939453,
+      599.9927368164062,
+      297.99261474609375,
+      715.1451416015625
+    ],
+    "text": "Despite these limitations, this case series provides preliminary evidence for quetiapine as an adjunctive treatment for treatment-resistant adolescent MDD and thus makes a case for conducting randomized, controlled trials with quetiapine in this population. A positive response in 70% of patients is encouraging, as all had failed to respond to multiple trials with SSRIs. Also noteworthy is the reduction in self-",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      310.00018310546875,
+      53.99126052856445,
+      538.0333862304688,
+      169.143798828125
+    ],
+    "text": "mutilating behavior noticed in 3 patients. To our knowledge, this is the first case series of quetiapine or any second-generation antipsychotic used as an adjunctive agent in treatment-resistant adolescent MDD. If proven effective in blinded, randomized, controlled trials, this would be a very useful addition to our armamentarium for treating resistant unipolar depression.",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      387.37860107421875,
+      198.04319763183594,
+      460.57373046875,
+      209.04319763183594
+    ],
+    "text": "REFERENCES",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      310.0,
+      220.7320098876953,
+      538.0330810546875,
+      714.8720092773438
+    ],
+    "text": "Adson D, Kushner M, Eiben K, Schulz S: Preliminary experience with adjunctive quetiapine in patients receiving selective serotonin reuptake inhibitors. Depress Anxiety 19:121–126, 2004. Angold A, Messer SC, Stangl D, Farmer EM, Costello EJ, Burns BJ: Perceived parental burden and service use for child and adolescent psychiatric disorders. Am J Public Health 88:75–80, 1998. Birmaher B, Brent D, Benson R: Summary of the practice parameters for the assessment and treatment of children and adolescents with depressive disorders. American Academy of Child and Adolescent Psychiatry. J Am Acad Child Adolesc Psychiatry 37:1234–1238, 1998. Boehm G, Racoosin J, Laughren T, Katz R: Consensus Development Conference on Antipsychotic Drugs and Obesity and Diabetes: Response to consensus statement. Diabetes Care 27:2088– 2089, 2004. Brent DA, Birmaher B: British warnings on SSRIs questioned. J Am Acad Child Adolesc Psychiatry 43:379–380, 2004. Delbello MP, Schwiers ML, Rosenberg HL, Strakowski SM: A double-blind, randomized, placebo-controlled study of quetiapine as adjunctive treatment for adolescent mania. J Am Acad Child Adolesc Psychiatry 41:1216–1223, 2002. Dietz WH: Health consequences of obesity in youth: Childhood predictors of adult disease. Pediatrics 101:518–525, 1998. Doree JP, Tourjman SV, Kunicki S, Desrosiers J, Vanier C, Elie R, Lew VA: Comparison of Quetiapine Versus Lithium Treatment of Resistant Depression. [abstract] New York, American Psychiatric Association, 2004. Emslie GJ, Heiligenstein JH, Wagner KD, Hoog SL, Ernest DE, Brown E, Nilsson M, Jacobson JG: Fluoxetine for acute treatment of depression in children and adolescents: A placebo-controlled, randomized clinical trial. J Am Acad Child Adolesc Psychiatry 41:1205–15, 2002. Emslie GJ, Rush AJ, Weinberg WA, Kowatch RA, Hughes CW, Carmody T, Rintelmann J: A doubleblind, randomized, placebo-controlled trial of",
+    "line_count": 45,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      70.0,
+      53.99909973144531,
+      298.0300598144531,
+      229.13909912109375
+    ],
+    "text": "fluoxetine in children and adolescents with depression. Arch Gen Psychiatry 54:1031–1037, 1997. Entsuah AR, Huang H, Thase ME: Response and remission rates in different subpopulations with major depressive disorder administered venlafaxine, selective serotonin reuptake inhibitors, or placebo. J Clin Psychiatry 62:869–877, 2001. Fleming JE, Offord DR: Epidemiology of childhood depressive disorders: A critical review. J Am Acad Child Adolesc Psychiatry 29:571–580, 1990. Guy W: ECDEU Assessment Manual for Psychopharmacology. Rockville, (MD), U.S. Department of Health, Education, and Welfare publciation (ADM), 1976. Kashani JH, Carlson GA, Beck NC, Hoeper EW, Corcoran CM, McAllister JA, Fallahi C, Rosen-",
+    "line_count": 16,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      9.628999710083008,
+      227.70703125,
+      18.966999053955078,
+      562.2999877929688
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/08/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      70.0,
+      229.9990997314453,
+      298.06402587890625,
+      647.1390991210938
+    ],
+    "text": "berg TK, Reid JC: Depression, depressive symptoms, and depressed mood among a community sample of adolescents. Am J Psychiatry 144:931– 934, 1987. Kaufman J, Birmaher B, Brent D, Rao U, Flynn C, Moreci P, Williamson D, Ryan N: Schedule for Affective Disorders and Schizophrenia for School-Age Children—Present and Lifetime Version (K-SADSPL): Initial reliability and validity data. J Am Acad Child Adolesc Psychiatry 36:980–988, 1997. Keller MB, Ryan ND, Strober M, Klein RG, Kutcher SP, Birmaher B, Hagino OR, Koplewicz H, Carlson GA, Clarke GN, Emslie GJ, Feinberg D, Geller B, Kusumakar V, Papatheodorou G, Sack WH, Sweeney M, Wagner KD, Weller EB, Winters NC, Oakes R, McCafferty JP: Efficacy of paroxetine in the treatment of adolescent major depression: A randomized, controlled trial. J Am Acad Child Adolesc Psychiatry 40:762–772, 2001. Kennedy S, McIntyre R, Fallu A, Lam R: Pharmacotherapy to sustain the fully remitted state. J Psychiatry Neurosci 27:269–280, 2002. Koplewicz HS: Misguided resistance to appropriate treatment for adolescent depression. J Child Adolesc Psychopharmacol 14:vii, 2004. Lewinsohn PM, Hops H, Roberts RE, Seeley JR, Andrews JA: Adolescent psychopathology: I. Prevalence and incidence of depression and other DSM-III-R disorders in high school students. J Abnorm Psychol 102:133–144, 1993. Masand P, Mago R, Patkar A, Peindl K, Purcell C: An Open-Label, Rater-Blinded Study of Aripiprazole as an Augmenting Agent in Patients with Treatment-Resistant Depression. [abstract] Phoenix, (AZ), NCDEU, 2004. Rapaport M, Canuso C, Rouillon R, Leblanc J, Young A, Loescher A, Bossie C, Turkoz I, Gharabawi G: Results From the Augmentation",
+    "line_count": 38,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      310.0,
+      53.99909973144531,
+      538.0332641601562,
+      526.1390991210938
+    ],
+    "text": "with Risperidone in Resistant Depression Trial. [abstract] New York, American Psychiatric Association, 2004. Rudolph RL, Feiger AD: A double-blind, randomized, placebo-controlled trial of once-daily venlafaxine extended release (XR) and fluoxetine for the treatment of depression. J Affect Disord 56: 171–181, 1999. Sajatovic M, Mullen JA, Sweitzer DE: Efficacy of quetiapine and risperidone against depressive symptoms in outpatients with psychosis. J Clin Psychiatry 63:1156–1163, 2002. Shaffer D, Gould MS, Fisher P, Trautman P, Moreau D, Kleinman M, Flory M: Psychiatric diagnosis in child and adolescent suicide. Arch Gen Psychiatry 53:339–348, 1996. Shelton RC, Tollefson GD, Tohen M, Stahl S, Gannon KS, Jacobs TG, Buras WR, Bymaster FP, Zhang W, Spencer KA, Feldman PD, Meltzer HY: A novel augmentation strategy for treating resistant major depression. Am J Psychiatry 158:131– 134, 2001. Thase ME, Entsuah AR, Rudolph RL: Remission rates during treatment with venlafaxine or selective serotonin reuptake inhibitors. Br J Psychiatry 178:234–241, 2001. Treatment for Adolescents with Depression Study Team: Fluoxetine, cognitive-behavioral therapy, and their combination for adolescents with depression: Treatment for adolescents with depression study (TADS) randomized controlled trial. JAMA 292:807–820, 2004. Wagner KD, Ambrosini P, Rynn M, Wohlberg C, Yang R, Greenbaum MS, Childress A, Donnelly C, Deas D: Efficacy of sertraline in the treatment of children and adolescents with major depressive disorder: Two randomized controlled trials. JAMA 290:1033–1041, 2003. Wagner KD, Robb AS, Findling RL, Jin J, Gutierrez MM, Heydorn WE: A randomized, placebo-controlled trial of citalopram for the treatment of major depression in children and adolescents. Am J Psychiatry 161:1079–1083, 2004.",
+    "line_count": 43,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      401.7637023925781,
+      545.26611328125,
+      538.0261840820312,
+      556.4201049804688
+    ],
+    "text": "Address reprint requests to:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      439.845703125,
+      558.2659301757812,
+      538.0020751953125,
+      569.3649291992188
+    ],
+    "text": "Sanjeev Pathak, M.D.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      379.3258972167969,
+      571.2657470703125,
+      538.0040893554688,
+      582.36474609375
+    ],
+    "text": "Children’s Hospital Medical Center",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      503.5081787109375,
+      584.2655029296875,
+      537.9986572265625,
+      595.364501953125
+    ],
+    "text": "D-3014",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      435.4775695800781,
+      597.2653198242188,
+      537.999755859375,
+      621.3641357421875
+    ],
+    "text": "3333 Burnet Avenue Cincinnati, OH-45229",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      371.9195556640625,
+      636.2647094726562,
+      538.008544921875,
+      647.418701171875
+    ],
+    "text": "E-mail: sanjeev.pathak@cchmc.org",
+    "line_count": 1,
+    "column": 1
+  }
+]

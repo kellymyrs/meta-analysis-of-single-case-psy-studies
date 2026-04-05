@@ -1,0 +1,1992 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      485.48040771484375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "Vol.:(0123456789)\n1 3"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      32.36515808105469,
+      253.30755615234375,
+      53.26666259765625
+    ],
+    "text": "Child Psychiatry & Human Development (2022) 53:1391–1404 \nhttps://doi.org/10.1007/s10578-021-01237-z"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.787899017333984,
+      64.21063995361328,
+      143.27589416503906,
+      75.81964111328125
+    ],
+    "text": "ORIGINAL ARTICLE"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      104.40694427490234,
+      483.2747802734375,
+      158.58294677734375
+    ],
+    "text": "Eye Movement Desensitization and Reprocessing in Young Children \n(Ages 4–8) with Posttraumatic Stress Disorder: A Multiple‑Baseline \nEvaluation"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      173.5699005126953,
+      264.9432373046875,
+      186.8739013671875
+    ],
+    "text": "Eline Olivier1,4 · Carlijn de Roos2 · Anika Bexkens1,3"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      205.3279266357422,
+      411.2527770996094,
+      224.8948974609375
+    ],
+    "text": "Accepted: 23 August 2021 / Published online: 6 September 2021 \n© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      242.33509826660156,
+      546.9412231445312,
+      369.5850830078125
+    ],
+    "text": "Abstract\nTo reduce the acute and long-term effects of trauma, early and effective treatment is necessary. Eye movement desensiti-\nzation and reprocessing (EMDR) therapy is a brief treatment for posttraumatic stress disorder (PTSD), with a substantial \nevidence base for children and adolescents aged 8 to 18 years. In the present study we aimed to provide preliminary evidence \nof EMDR as a trauma treatment for young children. We studied 9 children, aged 4 to 8 years old with a DSM-5 diagnosis of \nPTSD. A non-concurrent multiple baseline experimental design was used combined with standardized measures. Partici-\npants received six 1-h sessions of EMDR. Results post-treatment showed that EMDR was effective in reaching diagnostic \nremission of PTSD (85.7%), and decreasing severity of PTSD symptoms and emotional and behavioral problems. All gains \nwere maintained at follow-up 3 months after treatment. EMDR appears an effective treatment for PTSD in young children \naged 4 to 8 years. Further research is warranted."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      379.4950866699219,
+      522.4806518554688,
+      407.0850830078125
+    ],
+    "text": "Keywords  Posttraumatic stress disorder · Eye movement desensitization and reprocessing · Young children · Multiple \nbaseline experimental design"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      427.85711669921875,
+      118.66641235351562,
+      442.7251281738281
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.023590087890625,
+      454.4951171875,
+      291.7606506347656,
+      557.0850830078125
+    ],
+    "text": "Following exposure to traumatic events, young children \nmay develop posttraumatic stress disorder (PTSD), as well \nas a range of other mental health problems, such as anxiety, \ndepression or behavioral problems [1, 2]. Young children \nare at higher risk for exposure to trauma than older children \nand adults [3]. For instance, compared to other age groups, \npreschool-aged children have the highest prevalence of mal-\ntreatment, including psychical and sexual abuse and neglect"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1435241699219,
+      429.4951171875,
+      546.9415893554688,
+      719.5850830078125
+    ],
+    "text": "[4]. Young children are also more vulnerable to experiencing \nadverse outcomes following traumatic events, as they have \nlimited coping skills and are strongly dependent on their \ncaregivers for protection and emotional support [2]. Addi-\ntionally, exposure to trauma during this critical period of \nbrain development can have far-reaching and potentially irre-\nversible consequences on the neurophysiological regulation \nsystems (i.e., structural and functional brain abnormalities \nin children) [5]. Prospective longitudinal studies show that \nif left untreated, PTSD during early childhood may follow a \nchronic and unremitting course. Initial PTSD diagnosis was \npredictive of that diagnosis three years later [6, 7]. Moreo-\nver, childhood adversities are significantly associated with \nadult psychiatric disorders such as mood disorders, anxiety, \nsubstance abuse and disruptive behavior [8]. To reduce the \nacute and long-term effects of trauma and PTSD, early and \neffective treatment is necessary.\nUnfortunately, effective treatment of PTSD and other \ntrauma-related symptoms in young children (< 8 years old) \nhas been a largely neglected area of research until recently \n[9]. Practice guidelines for pediatric PTSD recommend two \ntrauma-focused psychological therapies, trauma-focused \ncognitive behavioral therapy (TF-CBT) and eye movement"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      571.179931640625,
+      229.72927856445312,
+      584.0064086914062
+    ],
+    "text": "Eline Olivier: no longer employed at GGZ Delfland."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.38610076904297,
+      591.7244262695312,
+      149.75111389160156,
+      614.546875
+    ],
+    "text": "*\t Eline Olivier \n\t\nelineolivier@icloud.com"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      620.9964599609375,
+      197.3876953125,
+      634.6143188476562
+    ],
+    "text": "1\t\nGGZ Delfland, Delft, The Netherlands"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      636.0279541015625,
+      261.94268798828125,
+      669.6378173828125
+    ],
+    "text": "2\t\nAcademic Centre for Child and Adolescent Psychiatry \nLevvel, Amsterdam University Medical Centre (Location \nAMC), Amsterdam, The Netherlands"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      671.0594482421875,
+      252.95729064941406,
+      694.67333984375
+    ],
+    "text": "3\t\nDepartment of Psychology, Leiden University, Leiden, \nThe Netherlands"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      696.0910034179688,
+      241.26040649414062,
+      719.704833984375
+    ],
+    "text": "4\t\nPsymens, Korenmolenlaan 1D, 3447 GG Woerden, \nThe Netherlands"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1392\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.0235710144043,
+      55.02579879760742,
+      291.78955078125,
+      720.1157836914062
+    ],
+    "text": "desensitization and reprocessing, EMDR [10–12]. TF-CBT \ninvolves a combination of coping skills training, cogni-\ntive restructuring, exposure and parent interventions [13]. \nEMDR is a brief, trauma-focused treatment for PTSD. The \ncore feature is that the patient holds a disturbing image from \nthe traumatic memory in mind while engaging in sets of sac-\ncadic eye movements [14]. TF-CBT has the largest evidence \nbase. However, as children under the age of eight were often \nnot included in the randomized controlled trials leading up \nto these guidelines and age was not used as a moderator in \nthese trials, research into efficacy of these treatments for \nyoung children (< 8 years) is in its infancy.\nA limited number of studies have explored the efficacy \nof TF-CBT and EMDR in young children, and those were \nmainly focused on TF-CBT. To date, four randomized \ncontrolled studies examined the treatment efficacy of TF-\nCBT in young children (range 2–8 years old) with PTSD \n[15–18]. The preliminary conclusion from these studies is \nthat TF-CBT is effective in reducing PTSD and emotional \nand behavioral problems in young children and treatment \ngains were maintained at follow-up (range 3 to 12 months). \nHowever, two of the four studies focused on very specific \nsamples (i.e., children exposed to sexual abuse) [15, 16].\nIn comparison to TF-CBT, EMDR puts less demands on \nthe cognitive and verbal skills and it therefore seems particu-\nlarly well-suited for young children with PTSD. However, \nonly two non-controlled studies examined the treatment effi-\ncacy of EMDR in young children. Hensel [19] conducted a \nstudy (N = 32, age range 1.9–18 years old) to compare the \neffectiveness of EMDR in 18 young children (< 8 years old) \nversus 14 older children who were exposed to single-inci-\ndent trauma. He found no evidence of a differential treatment \neffect in younger and older children, suggesting that EMDR \nmay be equally effective for different age groups in reduc-\ning parent-reported PTSD symptoms post-treatment and at \n6-month follow-up. However, there are important limitations \nsuch as no randomization, progress was measured by one \nmeasure only (no diagnostic interview), the author was both \nassessor and therapist, and data were not analyzed by an \nindependent evaluator. The second study that focused on \nEMDR in young children is a pilot study by Lempertz et al. \n[20], comparing pre and post intervention PTSD symptoms \n(15 items from the Child Behavior Check List) to assess \nEMDR-based group therapy for traumatized refugee pre-\nschoolers (N = 10, age range 4–6 years old). This study has \nthe same limitations as the study by Hensel [19]. Addition-\nally, attrition was high (40% for the parents, 20% for the \nteachers) and no follow-up measurement was included. In \nconclusion, there is a gap in knowledge on the efficacy of \ntrauma treatment for young children with PTSD and other \ntrauma-related symptoms. Especially on the efficacy of \nEMDR, while this treatment seems very well suited for this \nspecific age group."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1435546875,
+      55.02579879760742,
+      546.9553833007812,
+      282.61578369140625
+    ],
+    "text": "In the present study we aim to provide preliminary \nevidence of EMDR as a treatment for young children \n(< 8 years). We focused on children between the age of 4 \nand 8 years old, since the use of EMDR in children younger \nthan 4 years requires a different adaptation of the EMDR \nprotocol. We used a multiple baseline experimental design \nas it is an ideal experimental strategy for a first evaluation of \ntreatment for a specific group and allows both the interven-\ntion process and outcomes to be analyzed [21].1 We used \ndaily diary measures of the two main PTSD symptoms of \neach child, thus generating rich data focusing on the con-\ncerns that made the caregivers seek help for their child in the \nfirst place. This was combined with standardized measures at \npre-, post-test and 3-month follow-up. We expected a signifi-\ncant decrease of PTSD symptoms, to the degree that children \nwould no longer meet DSM-5 criteria for PTSD after EMDR \ntherapy. In addition, we expected also a significant decrease \nin emotional and behavioral problems."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      303.3878173828125,
+      353.4217529296875,
+      318.2558288574219
+    ],
+    "text": "Methods"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      330.42181396484375,
+      361.338623046875,
+      343.0058288574219
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      355.02581787109375,
+      546.862548828125,
+      632.6158447265625
+    ],
+    "text": "The participants (N = 9) were referred to a Dutch outpa-\ntient mental health clinic for children and adolescents2 and \nwere recruited between November 2018 and November \n2019. Eleven participants were assessed for eligibility. Two \nchildren were excluded because they did not meet the full \nDSM-5 criteria for PTSD. Although there is no universal \nguideline depicting the minimal replications required to \nobtain good power in SCED research [23], it is assumed \nthat a sample as small as N = 3 can be sufficient to show \ntreatment effects in multiple baseline experimental designs \n[24]. With nine replications divided among three EMDR \ntherapists, on two different locations of the clinic, the design \nwas robust. Inclusion criteria were (a) age 4 to 8 years, (b) \nmeeting full DSM-5 [25] diagnostic criteria for PTSD estab-\nlished through the Diagnostic Infant and Preschool Assess-\nment, DIPA [26], (c) caregivers were in the possession of a \nsmart phone, (d) participants were to refrain from another \nform of psychological treatment during the treatment phase \nof the trial. An exclusion criterium was ongoing trauma \n(abuse, threats by perpetrator). In that case the primary goal \nwas safety for the child, before trauma treatment could take \nplace."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      643.7160034179688,
+      546.385498046875,
+      687.3218383789062
+    ],
+    "text": "1  The Single-Case Reporting Guideline in Behavioural Interven-\ntions, SCRIBE [22] was applied in this article. The SCRIBE guide-\nline describes a set of 26 items to guide and structure the reporting of \nSCED research."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.1416931152344,
+      686.0910034179688,
+      546.4032592773438,
+      719.7008056640625
+    ],
+    "text": "2  In the Netherlands, all children require a referral by the general \npractitioner, medical specialists or specialized youth teams in order to \nreceive treatment."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1393\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      542.7428588867188,
+      111.44660949707031,
+      555.3268432617188
+    ],
+    "text": "Study Design"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      567.3468627929688,
+      291.5835876464844,
+      594.9368286132812
+    ],
+    "text": "Two different measurement series were performed (see \nflow chart, Fig. 1):"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023597717285156,
+      604.8468627929688,
+      291.6324768066406,
+      719.9368286132812
+    ],
+    "text": "1.\t At three single time points (pre-treatment, post-treat-\nment, 3-month follow up) PTSD diagnostic status was \nassessed using a semi-structured diagnostic interview \nand PTSD symptoms and emotional and behavioral \nproblems were evaluated by standardized questionnaires \n(parent-report).\n2.\t Non-concurrent multiple baseline experimental design \nthat comprised of daily measures of the two idiosyn-\ncratic main PTSD symptoms by the primary caretaker."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.14117431640625,
+      541.5568237304688,
+      546.8194580078125,
+      669.142822265625
+    ],
+    "text": "The non-concurrent multiple baseline experimental \ndesign was a randomized replicated sequential phase design \n[21]. The design was made using the RoBiNT Scale [27], a \nmethod quality rating scale for internal and external validity \nof single-case experimental designs.3 The caregivers of the \nparticipants completed daily measures during a no-interven-\ntion baseline (phase A), during treatment (phase B) and at \n3-month follow-up (phase FU).\nThe power of individual randomization tests with AB \nphase designs is usually low. However, replicating the"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.023597717285156,
+      55.435298919677734,
+      158.1576385498047,
+      138.2335968017578
+    ],
+    "text": "Fig. 1   Flow diagram of partici-\npant recruitment and trial pro-\ngress. DIPA Diagnostic Infant \nand Preschool Assessment, \nTSCYC​ Trauma Symptoms \nChecklist for Young Children, \nSDQ Strengths and Difficulties \nQuestionnaire"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.8384094238281,
+      55.31198501586914,
+      490.3485107421875,
+      70.34679412841797
+    ],
+    "text": "Measurement series"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      192.9315948486328,
+      105.34616088867188,
+      272.2405090332031,
+      147.2371368408203
+    ],
+    "text": "Enrollment:  \nAssessed for \neligibility (N=11)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      192.9315948486328,
+      155.9265594482422,
+      265.65057373046875,
+      184.71449279785156
+    ],
+    "text": "Eligible for trial \n(N=9)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.8392639160156,
+      105.34719848632812,
+      431.9251708984375,
+      154.39756774902344
+    ],
+    "text": "Multiple baseline \nexperimental design \n(daily diary 2 main PTSD \nsymptoms)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      452.1293029785156,
+      105.34817504882812,
+      534.8208618164062,
+      131.61961364746094
+    ],
+    "text": "Single time points\n(DIPA, TSCYC, SDQ)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      192.93060302734375,
+      218.58250427246094,
+      283.00439453125,
+      269.3580322265625
+    ],
+    "text": "Randomly allocated \nstart of the \nintervention (day 11-\n24)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.8432922363281,
+      192.98818969726562,
+      523.4360961914062,
+      219.32127380371094
+    ],
+    "text": "Baseline phase (at least \n10 days)\nPre-treatment"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      192.9315948486328,
+      341.42852783203125,
+      290.74603271484375,
+      370.27947998046875
+    ],
+    "text": "Treatment completers \nN=9"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.8375244140625,
+      265.7962341308594,
+      427.6387634277344,
+      292.1350402832031
+    ],
+    "text": "Intervention phase\n(6 weekly sessions, N= 9)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      452.1292724609375,
+      378.4891662597656,
+      528.8851928710938,
+      425.26885986328125
+    ],
+    "text": "Post-treatment\n(one week after last \nsessions, DIPA N=7; \nTSCYC, SDQ N=6)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.84228515625,
+      434.20318603515625,
+      434.58416748046875,
+      470.6989440917969
+    ],
+    "text": "Follow-up phase\n(10 days, 3 months after \ntreatment completion, N=7)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      452.1293029785156,
+      434.20318603515625,
+      540.9813232421875,
+      470.6989440917969
+    ],
+    "text": "3-month follow-up \n(DIPA N= 8; TSCYC, \nSDQ N=6)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.8432922363281,
+      484.0927734375,
+      442.7271423339844,
+      523.5258178710938
+    ],
+    "text": "Analyzed with \nrandomization tests and \nmeta-analysis (N=9)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      452.1293029785156,
+      484.0927734375,
+      544.1632690429688,
+      508.3504638671875
+    ],
+    "text": "Analyzed with RCI’s \n(N=9)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.1416931152344,
+      686.0910034179688,
+      546.367431640625,
+      719.7008056640625
+    ],
+    "text": "3  The design meets 12 of the 15 items, it was not possible to incor-\nporate blinding of the therapists or assessor and inter-rater reliability, \nsince only the primary caregiver filled in the daily diary."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1394\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.74163818359375,
+      181.73585510253906
+    ],
+    "text": "experiment nine times in a randomized multiple baseline \ndesign, to differentiate between time effects and effects of \nthe intervention, increases the power considerably [21]. \nSince participants enrolled at different dates during 1 year, \na non-concurrent design was used. For each participant the \nprocedure started as soon as the participant was included. \nThe length of baseline was randomized for each participant \nbetween 10 and 24 days. A minimum baseline of 10 days \nwas chosen to observe potential variation in participants \nbefore the intervention started."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02370071411133,
+      192.04185485839844,
+      98.6207046508789,
+      204.6258544921875
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02370071411133,
+      216.64585876464844,
+      291.7828674316406,
+      594.23583984375
+    ],
+    "text": "EMDR is a brief, trauma-focused treatment for PTSD and \ntrauma-related symptoms. Treatment followed the stand-\nard 8-phase protocol of Shapiro [28], with age-appropriate \nmodifications suggested by Tinker and Wilson [29] and \nGreenwald [30]. The phases are: history taking, treatment \nplanning, preparation, reprocessing, installation of a positive \ncognition, check for and processing any residual disturbing \nbody sensations, positive closure and evaluation. We used \nthe Dutch translation of the EMDR protocol for children \nand adolescents [31]. If the child was exposed to traumatic \nevents before the age of 4, a combined EMDR procedure \nwas used [32] (de Roos ans Beer 2017): EMDR storytell-\ning [33] followed by the standard protocol to ensure com-\nplete processing and maximize treatment effect. Participants \nreceived six weekly treatment sessions of 1 h. The parents \nof children 4–6 years old were present in the treatment room \nduring the sessions to support their child and as informant \nand observer. The parents of the children 6–8 years were \npresent in the room at the beginning and end of each session \n(about ten minutes in total), informing the therapist about \ntheir child’s functioning over the past week. At the end of the \nsession the therapist informed the parents about the progress \nof the session.\nAll participants were treated by a team of three licensed \npsychologists who had been trained in EMDR for children \nlevel 1 and 2 according to the standards of EMDR Europe.\nThe therapists followed monthly supervision sessions \nusing video recordings of the sessions from an accredited \nEMDR Europe trainer for children and adolescents (C.deR.) \nfor the duration of the study to optimize treatment adherence."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02370071411133,
+      604.5418701171875,
+      94.60570526123047,
+      617.1258544921875
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02370071411133,
+      630.515869140625,
+      270.8307189941406,
+      641.8758544921875
+    ],
+    "text": "The Diagnostic Infant and Preschool Assessment (DIPA)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02370071411133,
+      654.1458740234375,
+      291.50885009765625,
+      681.73583984375
+    ],
+    "text": "The DIPA is a semi-structured diagnostic interview admin-\nistered to the caregivers of children aged between 2 and"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1437072753906,
+      54.14579391479492,
+      546.87890625,
+      294.23577880859375
+    ],
+    "text": "8 years old [26, 34]. It is a diagnostic interview for clas-\nsifying 16 psychiatric disorders based on DSM-5 for use in \nresearch and clinical practice. The PTSD module was used \nfor this present study, to determine inclusion and PTSD \ndiagnostic status post-treatment and at 3-month follow-up. \nCriteria of PTSD being: (a) the child was exposed to death, \nthreatened death, actual or threatened serious injury, or \nactual or threatened sexual violence, (b) had one or more \nintrusion symptoms, (c) had one or more avoidance symp-\ntoms or changes in thoughts or mood, and (d) experienced \ntwo or more changes in arousal or reactivity. Additionally, \nsymptoms were present at least 1 month and resulted in con-\nsiderable distress or difficulties in relationships or in school \nbehavior. Internal consistency of the PTSD module was \ntested good (Cronbach’s α = 0.84), test–retest reliability was \nalso good with a correlation of 92%. Concurrent criterion \nvalidity compared to the PTSD Total scale of the Trauma \nSymptoms Checklist for Young Children, TSCYC [35] was \ngood, as evidenced by a correlation of 0.82 [34]."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1437072753906,
+      305.51580810546875,
+      499.5506896972656,
+      316.87579345703125
+    ],
+    "text": "Daily Measures of the Two Main PTSD Symptoms"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1437072753906,
+      329.1457824707031,
+      546.8653564453125,
+      531.7357788085938
+    ],
+    "text": "To monitor whether, how and when treatment modified \nPTSD symptoms, the primary caregiver reported daily on \nthe two main PTSD symptoms of the child. Selection of the \nitems was determined in a pre-trial session with the primary \ninvestigator.\nThe parents selected the two main symptoms of their \nchild by sorting cards with all the PTSD symptoms, derived \nfrom the DIPA interview. The items were administered \nusing a secure eHealth app which was placed on the par-\nent’s smartphone. The items were constructed using visual \nanalogue scales (VAS), with a range from 0 (symptom not \nobserved) to 100 (symptom observed to the most serious \ndegree) according to the following formulation: “To what \nextent did your child suffer from ….today?” Every day at 8 \np.m. a reminder was sent to the primary caregiver to fill in \nthe diary."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1437072753906,
+      543.0158081054688,
+      524.7396850585938,
+      554.3757934570312
+    ],
+    "text": "Trauma Symptom Checklist for Young Children (TSCYC)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1437072753906,
+      566.6458129882812,
+      546.8055419921875,
+      719.2357788085938
+    ],
+    "text": "The TSCYC [35, 36] is a questionnaire for caregivers of \nchildren between 3 and 12 years old. This questionnaire con-\nsists of 90 items and measures posttraumatic stress symp-\ntoms and related emotional and behavioral problems. On \neach item caregivers score the frequency of symptoms dur-\ning the previous month, between 1 (not at all) and 4 (very \noften). The 27-item posttraumatic stress subscale was used \nfor the present study to asses PTSD symptoms (total score \nrange = 27–108). To asses other emotional and behavioral \nproblems that can occur following trauma, we used the five \nemotional and behavioral subscales of the TSCYC: Disso-\nciation, Depression, Anxiety, Anger and Sexual Problems,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1395\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.00361251831055,
+      54.14585494995117,
+      291.73553466796875,
+      244.23585510253906
+    ],
+    "text": "each subscale containing nine items (total score range of \neach subscale = 9–36). Raw scores were converted to \nT-scores (M = 50, SD = 10, range = 35–110). T-scores ≤ 64 \nare considered to be within the normal range, T-scores in \nthe range 65 ≤ 69 are considered as possibly problematic and \nT-scores ≥ 70 are considered clinically significant.\nThe PTSD subscale has good internal consistency \n(α = 0.92), with a test–retest reliability of 0.89 [35]. The \ninternal consistency for the emotional and behavioral sub-\nscales ranged from α = 0.78 to 0.90, test–retest reliability \nranging from 0.78 to 0.85.\nTierolf et al. found that the TSCYC significantly corre-\nlated with the Child Behavior Checklist scales which meas-\nure similar constructs (correlations ranging from r = 0.28 \nto 0.82) [36]."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.033599853515625,
+      255.51585388183594,
+      258.5006103515625,
+      279.3758544921875
+    ],
+    "text": "Strengths and Difficulties Questionnaire for Parents \n(SDQ‑P)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.033599853515625,
+      291.6458435058594,
+      291.7665100097656,
+      506.73583984375
+    ],
+    "text": "The SDQ [37] is a widely used behavioral screening ques-\ntionnaire that covers children’s behavior, emotions and rela-\ntionships, and focusses on both difficulties and strengths in \nfunctioning in children 4 to 17 years old. The 25 items in the \nSDQ comprise 5 scales of 5 items each: Emotional problems \nscale, Conduct problems scale, Hyperactivity scale, Peer \nproblems scale and Prosocial scale, the last one measuring \nstrengths of the child (e.g. empathy, friendliness). Items are \nscored on a three-point Likert-scale (0 = Not True, 1 = Some-\nwhat True, 2 = Certainly True). The total difficulty score is a \nsum of scores on 4 of 5 subscales (emotional problems, con-\nduct problems, hyperactivity, peer problems), ranging from \n0 to 40. Scores below 14 are considered within the normal \nrange, scores between 14 and 16 are considered in the bor-\nderline range, and scores between 17 and 40 are considered \nto be clinically significant [38]. Internal consistency is good \n(Cronbach’s α between 0.70 and 0.80) [39]."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      517.0418701171875,
+      97.80659484863281,
+      529.6258544921875
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.023590087890625,
+      541.6458740234375,
+      291.7026062011719,
+      719.23583984375
+    ],
+    "text": "The Medical Ethics Committee of the Erasmus Medical Cen-\ntre approved the study protocol. The caregivers of the children \nbetween 4 and 8 years old, who had experienced one or more \ntraumatic events and were referred with substantial PTSD \nsymptoms, were approached by the primary investigator to \ninform them about the study. Caregivers who agreed to par-\nticipate and signed informed consent, were administered the \nDIPA by an independent assessor, to determine if the child met \nfull DSM-5 criteria for PTSD. If the inclusion criteria were ful-\nfilled, caregivers were administered the pre-test (i.e., TSCYC, \nSDQ) and selected the two main PTSD symptoms of their child \nwhich were entered into the diary app that was installed on the \ncaregiver’s smartphone. The primary caregiver completed the \ndaily measures starting on the day of the pre-test and ending one"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1435852050781,
+      54.14579391479492,
+      546.9362182617188,
+      119.23579406738281
+    ],
+    "text": "week after the completion of EMDR therapy. One week after \nthe sixth session, the post-test measures were administered. (i.e. \nDIPA, TSCYC, SDQ). At follow-up 3 months after treatment, \nthe primary caregiver filled in the diary for another 10 days and \nthe DIPA interview and questionnaires were re-administered."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1416931152344,
+      129.54185485839844,
+      391.3124694824219,
+      142.1258544921875
+    ],
+    "text": "Statistical Analysis"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.14166259765625,
+      154.14585876464844,
+      546.942626953125,
+      706.73583984375
+    ],
+    "text": "To analyze the diary data, randomization tests were conducted \nfor each main symptom of each participant. Randomization \ntests are non-parametric significance tests that are valid for \nsinge-case designs, without making distributional assump-\ntions [21, 40]. The difference between the mean VAS scores \nin the baseline phase and treatment phase was applied as the \nobserved test statistic for the randomization test. To test if the \noutcomes are real treatment effects instead of natural varia-\ntion, a permutation test is done comparing the observed test \nstatistic to all potential test statistics, had the intervention \nstarted at any other day than it actually started, days 11–24 \nafter start of the baseline phase. The test statistics are sorted in \nascending order. The proportion of potential test statistic val-\nues that is as extreme or more extreme than the observed test \nstatistic is calculated and used to define the individual p value \nof the randomization test. A more detailed description of the \nrandomization tests for single-case experimental designs can \nbe found in Heyvaert and Onghena [40] and Onghena and \nEdgington [21]. In order to examine the long- term effects of \nEMDR, randomization tests were done comparing differences \nbetween the 3-month follow-up phase and the baseline phase. \nAs the sequential replicated single-case experiments in this \nstudy provided independent tests of the same null hypothesis, \nwe were able to combine the p values of individual randomi-\nzation tests by using Edgington’s additive method [41]. A \ndetailed description of this meta-analytic procedure can be \nfound in Onghena and Edgington [21].\nEffect sizes were calculated for the daily measures accord-\ning to the standardized mean differences (SMD) method. We \ninterpreted the magnitude of the SMD’s using Cohen’s guide-\nlines [42]. All analyses of the daily measures were performed \nusing the Shiny app for Single Case Data Analysis (Shiny \nSCDA) developed by Bulté and Onghena [43].\nTo calculate whether a participant’s change on the non-\ndaily measures (TSCYC, SDQ) was reliable and large enough \nto be regarded as statistically relevant, taking into account \nmeasurement error, we used the reliable change index (RCI). \nThe RCI is calculated based on the standard error of meas-\nurement (SEM) of the questionnaire. RCIs were calculated \nby subtracting the participant’s post-treatment score from \nthe pre-treatment score and dividing by the standard error \nof difference ­(Sdiff) of the questionnaire, with the formula \nRCI = ­x1 − ­x2/Sdiff and ­Sdiff = √2(SEM)2. RCI ≥ 1.96 are \nconsidered to be statistically significant (at the 0.05 level)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1396\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      266.5527038574219,
+      291.4836120605469,
+      294.1427001953125
+    ],
+    "text": "Missing items on the TSCYC were handled in accordance \nwith the manual, there were no missing items on the SDQ."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      314.9148254394531,
+      89.59160614013672,
+      329.7828369140625
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      341.9488525390625,
+      185.22137451171875,
+      354.5328369140625
+    ],
+    "text": "Compliance and Missing Data"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023590087890625,
+      366.5528259277344,
+      291.79864501953125,
+      569.142822265625
+    ],
+    "text": "All nine participants received six sessions of EMDR. There \nwas no drop-out from treatment, but the caregivers of three \nparticipants (1,7,8) partially failed to complete the assess-\nments post-treatment and the 3-month follow-up. Reasons \nprovided by the caregivers for not finishing the research \nassessment were that they were overburdened with other per-\nsonal problems (participants 7 and 8) and lack of motivation \nto finish the research assessment after treatment (participant \n1). The caregiver of participant 1 filled in the questionnaires \nat post-treatment, but the post-treatment DIPA interview is \nmissing, as well as all follow-up measurements. For partici-\npant 7 all post-treatment measurements are missing, but the \ncaregiver filled in the diary at follow-up and also the DIPA \ninterview was administered at follow-up. For participant 8, \nthe questionnaires and diary data are missing at follow up. \nOnly the DIPA interview was administered at follow-up."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      591.94873046875,
+      154.74148559570312,
+      604.53271484375
+    ],
+    "text": "Sample Characteristics"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023597717285156,
+      616.552734375,
+      291.66766357421875,
+      706.6427001953125
+    ],
+    "text": "Table 1 provides information about gender, age, and type, \nfrequency and duration of trauma. Our sample consisted of \nfive boys and four girls with a mean age of 5.1 years old \n(mean = 61 months, SD = 13). As can be seen in Table 1, \nchildren had experienced different types of traumatic events. \nAll participants suffered from PTSD following multiple or \nchronic traumatic events."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      267.74285888671875,
+      390.5876159667969,
+      280.32684326171875
+    ],
+    "text": "Primary Outcomes"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      293.7168273925781,
+      325.2216796875,
+      305.0768127441406
+    ],
+    "text": "DIPA"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      317.3468017578125,
+      546.8059692382812,
+      394.9367980957031
+    ],
+    "text": "Posttreatment, six of the seven tested participants no longer \nmet the criteria for PTSD, which is an 85.7% remission. At \n3-month follow-up, seven of the eight tested participants no \nlonger met the criteria for PTSD, which is an 87.5% remis-\nsion. Both after treatment and at 3-month follow up, only \nparticipant 6 still met the criteria for PTSD."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      406.2168273925781,
+      499.5486755371094,
+      417.5768127441406
+    ],
+    "text": "Daily Measures of the Two Main PTSD Symptoms"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416320800781,
+      429.8468017578125,
+      546.8992309570312,
+      719.936767578125
+    ],
+    "text": "Figure 2 shows the individual graphs of the scores on the \nVAS scale (0–100) of the two idiosyncratic main PTSD \nsymptoms as reported by the primary caregivers for each \nchild during the baseline (A, N = 9), treatment (B, N = 9) and \nfollow-up (FU, N = 7) phases, including trendlines for each \nphase, using least square regression. Visual inspection sug-\ngests a modest decline of PTSD symptoms in the treatment \nphase for most participants. In addition, scores in the follow-\nup phase seem lower compared to the scores in the treatment \nphase for most participants, except for the sleeping problems \nof participant 4 and for both symptoms of participant 6. It is \nalso clear from visual inspection that variability in scores in \nall phases is high for most participants.\nResults of the randomization tests on the daily meas-\nures for each participant are displayed in Table 2. While \nvisual inspection suggests a modest decline of the PTSD \nsymptoms, this is not confirmed by the individual rand-\nomization tests. This was the case for neither the differ-\nence between baseline phase (A) and treatment phase (B) \nnor between baseline phase and follow up phase (FU) (all \np values > 0.05). However, as individual randomization \ntests tend to lack power [21] we used Edgington’s addi-\ntive method to assess overall effect [41]. This method, that"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      55.435298919677734,
+      156.66929626464844,
+      68.26179504394531
+    ],
+    "text": "Table 1   Sample characteristics"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.58309936523438,
+      196.2547607421875,
+      474.10162353515625,
+      209.0812530517578
+    ],
+    "text": "Chronic trauma is defined as ongoing domestic violence, constant threat and escalation"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.5825958251953,
+      208.30059814453125,
+      445.5062255859375,
+      221.9184112548828
+    ],
+    "text": "a Was diagnosed with ADHD after 3-month follow-up and received medication"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.5825958251953,
+      221.13525390625,
+      544.2594604492188,
+      244.7490997314453
+    ],
+    "text": "b Received family treatment after 3-month follow-up and trauma treatment was offered to the mother (pri-\nmary caretaker)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.5825958251953,
+      59.318843841552734,
+      536.1944580078125,
+      72.14533996582031
+    ],
+    "text": "Participant\nSex\nAge\nTrauma type\nFrequency (duration)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.55715942382812,
+      78.04436492919922,
+      543.728271484375,
+      190.7241973876953
+    ],
+    "text": "1\nMale\n4.5\nMedical trauma\nMultiple (2.0–3.6)\n2\nMale\n5.1\nDomestic violence\nChronic (prenatal–4.1)\n3a\nMale\n5.3\nMedical trauma\nMultiple (0–4.0)\n4\nFemale\n7.5\nDomestic violence\nMultiple (0–4.0)\n5\nMale\n5.4\nMedical trauma, domestic violence\nMultiple (prenatal–4.6)\n6b\nFemale\n6.0\nDomestic violence\nChronic (0.3–5.6)\n7\nFemale\n7.9\nTraumatic grief after death of sibling\nMultiple (7.6–7.7)\n8a\nMale\n5.5\nDomestic violence, medical trauma\nChronic (prenatal–5.1)\n9\nFemale\n5.11\nDomestic violence\nMultiple (0–5.4)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1397\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      50.993560791015625,
+      379.0528259277344,
+      291.8167419433594,
+      719.142822265625
+    ],
+    "text": "combines p-values using meta-analysis, demonstrated a sig-\nnificant overall decrease of PTSD symptoms post-treatment \n(p = 0.03) and at 3- months follow-up (p = 0.02). Table 2 \nalso gives an overview of the standardized mean differ-\nence (SMD), comparing the mean of the baseline condition \n(A) with either the mean of the treatment condition (B) \nor the mean of the follow-up condition (FU) of the PTSD \nsymptoms per participant. Comparing the baseline phase \nand treatment phase (N = 9), small (SMD > 0.2) medium \n(SMD > 0.5) and large effects (SMD > 0.8) were found. \nFor five participants (participants 1, 2, 3, 8 and 9) medium \nand large effect sizes were found for both symptoms. For \ntwo participants effect sizes for one symptom was large, \nwhereas for the other symptom a small effect size was found \n(participants 4 and 5). A small effect was found for par-\nticipant 7 for both symptoms. No effect was found on both \nsymptoms for participant 6. Comparing baseline phase and \nfollow up phase (N = 7), large effect sizes were found for \nfive participants (participants 2, 3, 5, 7, 9) for both symp-\ntoms. A large effect size was found for participant 4 in one \nsymptom, whereas for the other symptom a small effect was \nfound. A large reverse effect in both symptoms was found \nfor participant 6 in the follow-up phase compared to the \nbaseline phase.\nTaken together, result on diary data indicate a decline \nin the two main PTSD symptoms during treatment and a \nfurther decline at the 3 months follow up for all participants"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1135559082031,
+      379.0528259277344,
+      546.814453125,
+      406.642822265625
+    ],
+    "text": "except for participant 6 and for one of the symptoms for \npatient 4."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1135559082031,
+      417.9228515625,
+      376.80255126953125,
+      429.2828369140625
+    ],
+    "text": "TSCYC PTSD Scale"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.113525390625,
+      441.5528259277344,
+      546.91357421875,
+      556.642822265625
+    ],
+    "text": "Table 3 displays the mean T-scores pre-treatment, post-treat-\nment and at 3-month follow-up, and percentages of partici-\npants showing a reliable change, comparing post-treatment \nT-scores and follow-up T-scores with pre-treatment T-scores. \nFor all participants the RCI’s were statistically significant, \nindicating a significant decline in symptoms between base-\nline and post-treatment and between baseline and 3-month \nfollow-up. Table 4 in the “Appendix” shows the individual \nT-scores and reliable change indices for each participant."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      566.94873046875,
+      402.4346008300781,
+      579.53271484375
+    ],
+    "text": "Secondary Outcomes"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      592.9227294921875,
+      463.0496520996094,
+      604.28271484375
+    ],
+    "text": "TSCYC Emotional and Behavioral Scales"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.1416931152344,
+      616.552734375,
+      546.8390502929688,
+      719.1427001953125
+    ],
+    "text": "Table 3 displays the mean T-scores pre-treatment, post-treat-\nment and at 3-month follow-up, and percentages of partici-\npants showing a reliable change, comparing post-treatment \nT-scores and follow-up T-scores with pre-treatment T-scores. \nAll participants showed a reliable reduction on the anxiety \nscale, both post-treatment and at 3-month follow-up. On the \ndepression scale post-treatment all participants except par-\nticipant 2 showed a reliable reduction. At 3-month follow-up"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.023597717285156,
+      55.435298919677734,
+      163.60610961914062,
+      148.2295684814453
+    ],
+    "text": "Table 2   Primary outcome \nvariable: daily measures of the \ntwo main PTSD symptoms: \nrandomization test (p-value) and \nstandardized mean differences \n(SMD) between baseline (A), \nintervention (B) and 3-month \nfollow-up (FU) per participant \nand meta-analysis"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      178.58309936523438,
+      338.2215576171875,
+      262.24017333984375,
+      351.0480651855469
+    ],
+    "text": "TS observed test statistic"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      178.58309936523438,
+      351.0565490722656,
+      535.3195190429688,
+      363.883056640625
+    ],
+    "text": "*p < 0.05, SMD > 0.2 is small effect size, SMD > 0.5 is medium effect size, SMD > 0.8 is large effect size"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      178.5825958251953,
+      59.318843841552734,
+      470.2019958496094,
+      72.14533996582031
+    ],
+    "text": "Participant\nSymptom\nA–B\nA–FU"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      343.3905029296875,
+      75.59636688232422,
+      539.33251953125,
+      88.42286682128906
+    ],
+    "text": "TS\np\nSMD\nTS\np\nSMD"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      178.10772705078125,
+      94.32189178466797,
+      543.658935546875,
+      331.80377197265625
+    ],
+    "text": "1\nAngry outbursts\n20.67\n0.09\n − 0.83\n–\n–\n–\nSleep disturbance\n11.35\n0.52\n − 0.68\n–\n–\n–\n2\nHypervigilance\n9.72\n0.42\n − 0.65\n19.07\n0.05\n − 1.28\nSleep disturbance\n14.18\n0.56\n − 0.85\n21.62\n0.09\n − 1.30\n3\nNegative emotional states\n29.07\n0.13\n − 1.06\n27.55\n0.67\n − 1.01\nAngry outbursts\n36.35\n0.09\n − 1.49\n29.79\n0.50\n − 1.22\n4\nSleep disturbance\n4.05\n0.53\n − 0.46\n2.2\n0.95\n − 0.25\nAngry outbursts\n17.18\n0.11\n − 0.91\n49.26\n0.05\n − 2.60\n5\nAngry outbursts\n7.83\n0.27\n − 0.33\n32.38\n0.44\n − 1.38\nNegative emotional states\n23.2\n0.15\n − 0.94\n46.23\n0.06\n − 1.88\n6\nAngry outbursts\n − 1.83\n0.82\n0.10\n − 26.63\n0.92\n1.47\nSleep disturbance\n − 1.28\n0.19\n0.07\n − 16.38\n0.77\n0.85\n7\nNightmares\n6.93\n0.53\n − 0.48\n35.91\n0.07\n − 2.50\nAngry outbursts\n6.65\n0.51\n − 0.39\n36.77\n0.07\n − 2.16\n8\nAngry outbursts\n18.37\n0.19\n − 0.87\n–\n–\n–\nPosttraumatic play\n12.06\n0.60\n − 0.83\n–\n–\n–\n9\nIntense distress\n58.7\n0.13\n − 2.68\n72.68\n0.05\n − 3.31\nFear of abandonment\n46.46\n0.87\n − 2.15\n80.26\n0.10\n − 3.79\nMeta-analysis\n0.03*\n0.02*"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1398\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.023597717285156,
+      682.643310546875,
+      546.3355712890625,
+      705.4658203125
+    ],
+    "text": "Fig. 2   Primary outcome variable: visual analysis of daily measures (two main PTSD symptoms) for all participants showing the trend of each \nphase using least square regression"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1399\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.023590087890625,
+      591.7598266601562,
+      291.7694396972656,
+      706.8497924804688
+    ],
+    "text": "participant 2 showed a reliable reduction as well, and the \npercentage of significant reductions comparing follow-up to \npre-treatment was 100%. On the anger scale all participants \nexcept participant 4 showed a reliable reduction at post-treat-\nment, and all participants including participant 4 showed a \nreliable reduction at 3-month follow-up. In conclusion, these \nresults suggest that treatment had a positive effect on anxious, \ndepressive symptoms and anger and the effects remained or \nfurther improved at 3-month follow-up."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1435852050781,
+      591.7598266601562,
+      546.9253540039062,
+      719.3497924804688
+    ],
+    "text": "On the dissociation scale, all participants except partici-\npants 3 and 8 showed a reliable reduction post-treatment and at \n3-month follow-up. Participant 3 showed an increased T-score \nat 3-month follow-up compared to pre-treatment score and \nposttreatment score, however the RCI of this increase was not \nsignificant. As the caregiver of participant 8 did not fill in the \nquestionnaires at follow-up, RCI comparing follow-up to pre-\ntreatment scores are missing. On the sexual problems scale, \nonly for two participants sexual problems were reported at the \ninitial assessment. Post-treatment, for both of them there was"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      362.36322021484375,
+      113.56659698486328,
+      375.1897277832031
+    ],
+    "text": "Fig. 2   (continued)"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.023597717285156,
+      393.1417236328125,
+      160.7841339111328,
+      475.94024658203125
+    ],
+    "text": "Table 3   Means and standard \ndeviations at pre-, post-\ntreatment and 3-month \nfollow-up and percentages of \nparticipants showing a reliable \nchange, comparing post-\ntreatment scores and follow up \nscores with pre-treatment scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      178.58309936523438,
+      538.9337768554688,
+      546.394287109375,
+      571.752197265625
+    ],
+    "text": "TSCYC​ Trauma Symptoms Checklist for Young Children, PTSD PTSD Total scale, DIS Dissociation scale, \nDEP Depression scale, ANX Anxiety scale, ANG Anger scale, SEX Sexual problems scale, SDQ TDS \nStrengths and Difficulties Questionnaire Total Difficulties Score"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      242.02369689941406,
+      397.0257263183594,
+      543.7642822265625,
+      409.85223388671875
+    ],
+    "text": "Pretreatment\nPosttreatment\n3 month FU\nReliable change\nReliable change"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      421.7646789550781,
+      409.8012390136719,
+      516.05517578125,
+      422.62774658203125
+    ],
+    "text": "Pre–post\nPre–FU"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      242.0321807861328,
+      426.0787353515625,
+      524.2236328125,
+      438.9052429199219
+    ],
+    "text": "M (SD)\nM (SD)\nM (SD)\n(%, N = 8)\n(%, N = 6)"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      178.60516357421875,
+      444.8042297363281,
+      504.5376281738281,
+      532.5496826171875
+    ],
+    "text": "TSCYC PTSD\n99.33 (11.3)\n68.12 (11.52)\n66 (16.19)\n100\n100\nTSCYC DIS\n69.67 (15.43)\n53.13 (11.9)\n51.17 (16.76)\n75\n83.3\nTSCYC DEP\n74.22 (16.74)\n53.88 (9.64)\n52.83 (11.84)\n87.5\n100\nTSCYC ANX\n89.44 (10.31)\n70.63 (10.17)\n66.33 (14.08)\n100\n100\nTSCYC ANG\n77.56 (18.72)\n58 (13.99)\n50 (7.24)\n87.5\n100\nTSCYC SEX\n53.33 (12.98)\n49.12 (5.84)\n46.5 (0.55)\nSDQ TDS\n22.9 (3.6)\n16.5 (4)\n15 (3.5)\n37.5\n50"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1400\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.6905517578125,
+      131.73585510253906
+    ],
+    "text": "a significant reduction that was retained at 3-month follow-\nup. For the other participants there were no sexual problems \nreported, which is understandable as none of the participants \nhad sexual trauma. In Table 4 in the “Appendix” the individual \nT-scores and RCIs for each participant are displayed for the \nfive emotional and behavioral subscales of the TSCYC."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.03361511230469,
+      143.01585388183594,
+      76.65361785888672,
+      154.3758544921875
+    ],
+    "text": "SDQ‑P"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.033599853515625,
+      166.64585876464844,
+      291.82464599609375,
+      294.23583984375
+    ],
+    "text": "Table 3 displays the mean scores pre-treatment, post-treatment \nand at 3-month follow-up, and percentages of participants \nshowing a reliable change, comparing post-treatment scores \nand follow-up scores with pre-treatment scores. Three of eight \ntested participants post-treatment showed a reliable reduction \nposttreatment (37.5%, participants 4, 5 and 9). At 3-month fol-\nlow-up, 50% of the participants showed a reliable reduction on \nthe Total difficulty score, compared to pre-treatment (partici-\npants 5, 6 and 9). Table 5 in “Appendix” displays the individual \nTotal Difficulties Scores and the RCIs for each participant."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.033599853515625,
+      305.515869140625,
+      131.8225860595703,
+      316.8758544921875
+    ],
+    "text": "Course of Treatment"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.033599853515625,
+      329.1458435058594,
+      291.83673095703125,
+      456.73583984375
+    ],
+    "text": "For all participants the emotionally loaded traumatic memo-\nries were all sufficiently reprocessed in six one-hour sessions. \nBased on the clinical judgement of the therapist none of the \nparticipants required extra sessions. Afterwards, all caregivers \nindicated acceptability of and satisfaction with EMDR ther-\napy. Participant 6 received another form of trauma treatment \nafter the 3-month follow-up, since EMDR was not effective \nfor her. Participants 3 and 8 were diagnosed with attention \ndeficit and hyperactivity disorder (ADHD) after the 3 months \nfollow up, and received medical treatment for ADHD."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      477.5078125,
+      107.98760986328125,
+      492.3758239746094
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      504.1458435058594,
+      291.83251953125,
+      719.23583984375
+    ],
+    "text": "This study was designed to provide preliminary evidence \nthat EMDR is an effective treatment for young children \n(4–8 years old) with PTSD. The results of this study sug-\ngest that EMDR was indeed effective as remission rate from \nPTSD diagnosis was 85.7%. Significant reductions in parent-\nreported PTSD symptoms and comorbid anxiety, depression \nand anger were found. Importantly, all treatment gains were \nmaintained at the 3-month follow-up. There was no attrition \nduring treatment, supporting the feasibility and tolerance \nof EMDR in young children. Together the results showed \nthat EMDR had a positive effect on the daily lives of the \nparticipants. Since all children suffered from PTSD after \nmultiple or chronic traumatic events (e.g. domestic violence \nand medical traumas) these results demonstrate that even \nfor these severely traumatized children a brief, six session \nEMDR therapy was successful in significantly reducing \nsymptomatology."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1235656738281,
+      54.14579391479492,
+      546.9187622070312,
+      719.2357788085938
+    ],
+    "text": "Our promising and positive results are in line with the \nfindings of previous studies on the effectiveness of TF-CBT \nand EMDR in young children. The two previous studies [17, \n18], that, similar to the present study, also evaluated diag-\nnostic status and comorbid problems besides PTSD symp-\ntoms, found a remission rate of 82.4% in diagnostic status \nafter 12 sessions TF-CBT [17] and 83.3% and 77.1% after \nstepped-Care TF-CBT and regular TF-CBT (12 sessions) \nrespectively [18]. Both studies also found large treatment \neffects on emotional and behavioral problems. Treatment \neffects in our EMDR study were reached in less sessions (6 \nsessions of 60 min) compared to the abovementioned TF-\nCBT studies (12 sessions of 90 min). The findings of our \nstudy are also consistent with the results of the non-con-\ntrolled EMDR studies focusing on young children [19, 20], \nshowing significant reduction of PTSD symptoms for chil-\ndren with single trauma in a mean number of 3 sessions of \n50 min maximum [19] and 5 daily sessions of group therapy \n(50–60 min each) for traumatized refugee preschoolers [20].\nThe meta-analysis of the individual effects on the daily \nmeasures of the two idiosyncratic main PTSD symptoms \nyielded statistically significant reductions in the treatment \nphase compared to the baseline phase and in the follow-\nup phase compared to the baseline phase. However, the \neffects of the daily measures in the present study were not \nstatistically significant on the individual level, which may \nbe understandable since the power of single cases with an \nA–B phase design is low [21] and the variability in ratings \non the daily measures was high for most participants, in all \ntreatment phases. A possible explanation for this unexpected \nhigh variability in ratings can be found in the type of PTSD \nsymptoms that were selected by the parents. Most parents \nindicated angry outbursts and sleep disturbance as the main \nPTSD symptoms. This is perhaps understandable as these \nsymptoms tend to interfere most in daily life. However, in \nparticular these two symptoms are also common reactions to \nminor stressors in young children, which is understood to be \npart of normal emotional development [44]. Therefore, some \nvariability in these symptoms is to be expected. A diary \nwith a broader range of PTSD symptoms or a short PTSD \nquestionnaire might be less susceptible to normal variations \nin emotional states in young children.\nWe found stronger reductions in emotional and behav-\nioral problems on the TSCYC questionnaire than the SDQ, \nwhich is consistent with previous findings. The SDQ has \nbeen found to have limited sensitivity to change after treat-\nment. For instance, Wolpert et al. [45] examined the RCI \non the SDQ for a large group of children and adolescents \n(N = 9764) after treatment of various mental health prob-\nlems. Only 16.5% of the children were found to show a \nreliable reduction post-treatment in total difficulties scores. \nThis is much lower than in the present study, where we \nfound reliable reduction in 37.5% of the tested participants"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1401\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      54.14585494995117,
+      291.7807312011719,
+      669.23583984375
+    ],
+    "text": "post-treatment and in 50% of the tested participants at \n3-month follow-up.\nThe present study benefitted from several strengths. First, \nthe use of a multi method and multi informant approach \nwith a diagnostic interview, standardized questionnaires, \nand daily idiosyncratic measures of the two main PTSD \nsymptoms throughout the different phases of the study. This \nprovided a detailed insight in the course of the symptoms \nin real-life. Secondly, the multiple baseline experimental \ndesign with nine replications allowed the use of advanced \nstatistical analyses of single case data and enabled us to test \nwhether change in symptoms was related to the onset of the \ntreatment phase. Finally, the treatment was manualized and \ntherapists were supervised to optimize treatment adherence.\nThere were also limitations. As there was no active \ncontrol condition, we did not control for potential placebo \neffects. The non-concurrent design limits the inferences that \ncan be made based on our findings, as it does not control \nfor history as a threat to validity. Future studies could use a \npartially non-concurrent multiple baseline design (e.g. have \ntwo participants start the procedure at the same time) to \ncontrol for historical factors. Obviously, caregivers were not \nblinded to the treatment phase their child was in, neither \nwere the independent assessors who evaluated the diagnostic \nstatus. Additionally, the small sample-size that is inherent \nof the case series design limits the generalizability of our \nfindings. However, the participants were a heterogeneous \ngroup with different types of chronic traumatic experiences. \nFurther research is warranted. In the present study, we did \nnot focus on children younger than four years old, for whom \nEMDR may also be well suited [46]. We suggest replica-\ntion of this study with young children aged 1.5–4 years old, \nfollowed by a randomized controlled trial into the effective-\nness of EMDR in a large group of children aged 1.5–8 years \nold with PTSD compared to wait-list. While all children \ncompleted treatment, three caregivers failed to complete \nall measurements. A suggestion for researchers to improve \nresponse rates post-treatment and at follow-up is to combine \nthe measurements with a brief face to face meeting with \nthe therapist. Future research could also examine if children \nwith certain characteristics or types of trauma can benefit \nmore from EMDR than others.\nIn conclusion, this study shows that EMDR is a feasible, \neffective and brief treatment of pediatric PTSD in young \nchildren aged 4–8 years, who experienced multiple trau-\nmatic events. Remission rate of PTSD status was high, and \nwe found strong declines of PTSD symptoms and trauma-\nrelated emotional and behavioral problems. These results \nare promising, as early and effective treatment is essential"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1435852050781,
+      54.14585494995117,
+      546.7200927734375,
+      81.73585510253906
+    ],
+    "text": "in order to divert the invasive acute and long-term effects of \nPTSD in this high-risk group."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      102.50785827636719,
+      357.64453125,
+      117.3758544921875
+    ],
+    "text": "Summary"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.14166259765625,
+      129.14585876464844,
+      546.8644409179688,
+      456.73583984375
+    ],
+    "text": "To reduce the acute and long-term effects of trauma, early \nand effective treatment is necessary. Effective treatment of \nPTSD and other trauma-related symptoms in young children \n(< 8 years old) has been a largely neglected area of research \nuntil recently. EMDR therapy is a brief, trauma-focused \ntreatment for PTSD, with a substantial evidence base for \nolder children and adolescents. In the present study we \naimed to provide preliminary evidence of EMDR as treat-\nment for young children. We studied nine children, aged \n4 to 8 years old, who were exposed to multiple or chronic \ntraumatic events and diagnosed with a DSM-5 diagnosis \nof PTSD, established with the DIPA. A non-concurrent \nmultiple baseline experimental design was used combined \nwith standardized measures pre- and post-treatment and at \na 3-month follow-up. Participants received six 1-h sessions \nof EMDR. There was neither treatment dropout nor any \nadverse events. Results post-treatment showed that EMDR \nwas effective in reaching diagnostic remission of PTSD in all \nparticipants except one and in decreasing severity of PTSD \nsymptoms (meta-analysis daily measures p = 0.03 and reli-\nable changes on PTSD scale TSCYC) and emotional and \nbehavioral problems (reliable changes on emotional and \nbehavioral scales TSCYC). All gains were maintained at \n3-month follow-up. EMDR appears an effective treatment \nfor PTSD in young children. Further research is warranted, \nincluding randomized controlled trials."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      481.4901123046875,
+      358.36572265625,
+      496.3581237792969
+    ],
+    "text": "Appendix"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      508.1281433105469,
+      384.20166015625,
+      523.2181396484375
+    ],
+    "text": "See Tables 4 and 5."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      544.6351318359375,
+      391.2394714355469,
+      557.4616088867188
+    ],
+    "text": "Funding  Not applicable."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      568.5166625976562,
+      366.11370849609375,
+      581.1006469726562
+    ],
+    "text": "Declarations"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      592.1551513671875,
+      546.3599853515625,
+      624.9736328125
+    ],
+    "text": "Conflict of interest  C.de.R. receives income for training postdoctoral \nprofessionals in EMDR. The other authors declare that they have no \nconflict of interest."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1416931152344,
+      632.1221313476562,
+      546.3828735351562,
+      694.9285888671875
+    ],
+    "text": "Ethical Approval  All procedures performed in studies involving human \nparticipants were in accordance with the ethical standards of the Insti-\ntutional and National Research Committee and with the 1964 Helsinki \nDeclaration and its later amendments or comparable ethical standards. \nThe study was approved by the Medical Ethics Committee of the Eras-\nmus Medical Centre NL66334.078.18."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1402\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      51.023597717285156,
+      55.435298919677734,
+      159.3561248779297,
+      128.2376251220703
+    ],
+    "text": "Table 4   Trauma Symptom \nChecklist for Young Children \n(TSCYC), T-scores determined \npre-treatment, post-treatment \nand at 3-month follow-up, and \nreliable change indices (RCI), \nper participant"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.5825958251953,
+      59.318843841552734,
+      540.631591796875,
+      72.14533996582031
+    ],
+    "text": "Participant\nT pre\nT post\nT FU\nRCI post\nRCI FU"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.57406616210938,
+      78.04436492919922,
+      539.501953125,
+      115.82337951660156
+    ],
+    "text": "PTSD total\n 1\n76\n61a\n–\n − 5.05b\n–\n 2\n84\n61a\n64a\n − 7.74b\n − 6.73b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      114.6773681640625,
+      539.501953125,
+      128.2952423095703
+    ],
+    "text": "3\n103\n83\n80\n − 6.73b\n − 7.74b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      127.15240478515625,
+      539.501953125,
+      140.7703399658203
+    ],
+    "text": "4\n96\n79\n75\n − 5.72b\n − 7.07b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      139.62738037109375,
+      539.501953125,
+      153.24525451660156
+    ],
+    "text": "5\n80\n50a\n50a\n − 10.1b\n − 10.1b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      152.10235595703125,
+      539.501953125,
+      165.72035217285156
+    ],
+    "text": "6\n104\n79\n83\n − 8.42b\n − 7.07b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.57406616210938,
+      165.36871337890625,
+      543.751953125,
+      203.1482696533203
+    ],
+    "text": "7\n107\n–\n–\n–\n–\n 8\n90\n62a\n–\n − 9.43b\n–\n 9\n100\n70\n44a\n − 10.1b\n − 18.18b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.57359313964844,
+      202.79376220703125,
+      528.876953125,
+      253.04823303222656
+    ],
+    "text": "Mean (SD)\n93.33 (11.3)\n68.12 (11.52)\n66.0 (16.19)\nDissociation\n 1\n56a\n46a\n–\n − 6.13b\n–\n 2\n55a\n49a\n42a\n − 3.68b\n − ­8b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.57406616210938,
+      252.69384765625,
+      539.501953125,
+      277.9983825683594
+    ],
+    "text": "3\n82\n82\n85\n0\n1.84\n 4\n59a\n43a\n43a\n − 9.81b\n − 9.81b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      276.8523864746094,
+      543.751953125,
+      290.4702453613281
+    ],
+    "text": "5\n79\n52a\n45a\n − 16.56b\n − 20.86b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      289.3273620605469,
+      539.501953125,
+      302.94525146484375
+    ],
+    "text": "6\n59a\n52a\n49a\n − 4.29b\n − 6.13b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.57406616210938,
+      302.5937194824219,
+      543.751953125,
+      340.37322998046875
+    ],
+    "text": "7\n76\n–\n–\n–\n–\n 8\n61a\n58a\n − 1.84\n–\n 9\n100\n43a\n43a\n − 34.97b\n − 34.97b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.57359313964844,
+      340.01873779296875,
+      535.251953125,
+      390.2732238769531
+    ],
+    "text": "Mean (SD)\n69.67 (15.43)\n53.13 (11.9)\n51.17 (16.76)\nDepression\n 1\n56a\n52a\n–\n − 2.8b\n–\n 2\n47a\n46a\n43a\n − 0.7\n − 2.8b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      389.12738037109375,
+      543.751953125,
+      402.7452392578125
+    ],
+    "text": "3\n83\n72\n65\n − 7.69b\n − 12.59b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      401.6023864746094,
+      543.751953125,
+      415.2202453613281
+    ],
+    "text": "4\n73\n51a\n54a\n − 15.38b\n − 13.29b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      414.0773620605469,
+      543.751953125,
+      427.69525146484375
+    ],
+    "text": "5\n76\n43a\n43a\n − 23.08b\n − 23.08b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      426.5524597167969,
+      535.251953125,
+      440.17022705078125
+    ],
+    "text": "6\n73\n58a\n69\n − 10.49b\n − 2.8b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.57406616210938,
+      439.8187255859375,
+      543.751953125,
+      477.5982360839844
+    ],
+    "text": "7\n77\n–\n–\n–\n–\n 8\n76\n62a\n–\n − 9.79b\n–\n 9\n107\n47a\n43a\n − 40.56b\n − 44.76b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.57359313964844,
+      477.2437438964844,
+      539.501953125,
+      527.4981689453125
+    ],
+    "text": "Mean (SD)\n74.22 (16.74)\n53.88 (9.64)\n52.83 (11.84)\nAnxiety\n 1\n90\n82\n–\n − 6.59b\n–\n 2\n84\n77\n74\n − 4.23b\n − 5.49b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      526.3523559570312,
+      539.501953125,
+      539.97021484375
+    ],
+    "text": "3\n90\n80\n80\n − 5.49b\n − 5.49b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      538.827392578125,
+      539.501953125,
+      552.4451904296875
+    ],
+    "text": "4\n93\n65\n65\n − 15.4b\n − 15.4b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      551.302490234375,
+      543.751953125,
+      564.9202270507812
+    ],
+    "text": "5\n80\n55a\n55a\n − 13.74b\n − 13.74b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      563.7774047851562,
+      539.501953125,
+      577.3952026367188
+    ],
+    "text": "6\n97\n76\n79\n − 11.54b\n − 9.89b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.57406616210938,
+      577.0437622070312,
+      543.751953125,
+      614.8232421875
+    ],
+    "text": "7\n93\n–\n–\n–\n–\n 8\n71\n58a\n–\n − 7.14b\n–\n 9\n107\n72\n45a\n − 19.23b\n − 34.07b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      178.57359313964844,
+      614.46875,
+      539.501953125,
+      664.7232055664062
+    ],
+    "text": "Mean (SD)\n89.44 (10.31)\n70.63 (10.17)\n66.33 (14.08)\nAnger\n 1\n86\n71\n–\n − 8.98b\n–\n 2\n49a\n41a\n41a\n − 4.79b\n − 4.79b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      663.577392578125,
+      543.751953125,
+      677.1951904296875
+    ],
+    "text": "3\n85\n55a\n55a\n − 17.96b\n − 17.96b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      676.0523681640625,
+      535.251953125,
+      689.6702270507812
+    ],
+    "text": "4\n49a\n49a\n45a\n0\n − 2.4b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      688.5274658203125,
+      539.501953125,
+      702.1453247070312
+    ],
+    "text": "5\n66\n52a\n55a\n − 8.38b\n − 6.59b"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      181.5825958251953,
+      701.0023803710938,
+      539.501953125,
+      714.6202392578125
+    ],
+    "text": "6\n65\n59a\n59a\n − 3.59b\n − 3.59b"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.022796630859375,
+      31.764999389648438,
+      544.252197265625,
+      41.33599853515625
+    ],
+    "text": "1403\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      503.659912109375,
+      736.017822265625,
+      544.2498779296875,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.023597717285156,
+      604.9033203125,
+      291.3050231933594,
+      627.725830078125
+    ],
+    "text": "Informed Consent  Informed consent was obtained from all individual \ncaregivers included in this study."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      658.2021484375,
+      109.8716049194336,
+      673.0701293945312
+    ],
+    "text": "References"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      683.8746337890625,
+      291.2150573730469,
+      706.6971435546875
+    ],
+    "text": "1.\t Beer R (2018) Efficacy of EMDR therapy for children with PTSD: \na review of the literature. J EMDR Pract Res 12(4):177–195"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.1424560546875,
+      342.0896301269531,
+      546.527587890625,
+      704.7761840820312
+    ],
+    "text": "2.\t De Young AC, Kennardy JA, Cobham VE (2011) Trauma in early \nchildhood: a neglected population. Clin Child Fam Psychol Rev \n14(3):231–250\n\t 3.\t Lieberman AF, Van Horn P (2009) Giving voice to the unsayable: \nrepairing the effects of trauma in infancy and early childhood. \nChild Adolesc Psychiatr Clin N Am 18(3):707–720\n\t 4.\t U.S. Department of Health and Human Services, Administration \nfor Children and Families, Administration on Children, Youth \nand Families, Children’s Bureau (2021) Child maltreatment 2019. \nhttps://​www.​acf.​hhs.​gov/​cb/​report/​child-​maltr​eatme​nt-​2019\n\t 5.\t Milani ACC, Hoffmann EV, Fossaluza V, Jackowski AP, Mello \nMF (2017) Does pediatric post-traumatic stress disorder alter \nthe brain? Systematic review and meta-analysis of structural and \nfunctional magnetic resonance imaging studies. Psychiatry Clin \nNeurosci 71:154–169. https://​doi.​org/​10.​1111/​pcn.​12473\n\t 6.\t Scheeringa MS, Zeanah CH, Myers L, Putman FW (2005) Pre-\ndictive validity in a prospective follow-up of PTSD in preschool \nchildren. J Am Acad Child Adolesc Psychiatry 44(9):899–906\n\t 7.\t Meiser-Stedman R, Smith P, Yule W, Glucksman E, Dagleish T \n(2017) Posttraumatic stress disorder in young children three years \npost-trauma: prevalence and longitudinal predictors. J Clin Psy-\nchiatry 78(3):334–339\n\t 8.\t Green JG, McLaughlin KA, Berglund PA, Gruber MJ, Sampson \nNA, Zaslavsky AM (2010) Childhood adversities and adult psy-\nchiatric disorders in the national comorbidity survey replication \nI: associations with first onset of DSM-IV disorders. Arch Gen \nPsychiatry 67(2):113–123\n\t 9.\t Smith P, Meiser-Stedman R, Dagleish T (2019) Practitioner \nreview: posttraumatic stress disorder and its treatment in chil-\ndren and adolescents. J Child Psychol Psychiatry 60(5):500–515. \nhttps://​doi.​org/​10.​1111/​jcpp.​12983\n\t10.\t National Institute for Health and Care Excellence (2018). Posttrau-\nmatic stress disorder. NG116. Management of PTSD in children, \nyoung people and adolescents (1.6.13). https://​www.​nice.​org.​\nuk/​guida​nce/​ng116/​resou​rces/​postt​rauma​tic-​stress-​disor​der-​pdf-​\n66141​60177​7861"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.0234375,
+      55.291194915771484,
+      540.631591796875,
+      72.14533996582031
+    ],
+    "text": "Table 4   (continued)\nParticipant\nT pre\nT post\nT FU\nRCI post\nRCI FU"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      181.56600952148438,
+      77.76384735107422,
+      543.751953125,
+      115.53987121582031
+    ],
+    "text": "7\n88\n–\n–\n–\n–\n 8\n96\n88\n − 3.59b\n–\n 9\n96\n49a\n45a\n − 28.14b\n − 30.54b"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      178.57359313964844,
+      115.18523406982422,
+      517.9525146484375,
+      265.2908020019531
+    ],
+    "text": "Mean (SD)\n75.56 (18.72)\n58 (13.99)\n50 (7.24)\nSexual problems\n 1\n55a\n51a\n–\n − 4\n–\n 2\n46a\n46a\n46a\n0\n0\n 3\n46a\n46a\n46a\n0\n0\n 4\n47a\n47a\n47a\n0\n0\n 5\n46a\n46a\n46a\n0\n0\n 6\n47a\n47a\n47a\n0\n0\n 7\n51a\n–\n–\n–\n–\n 8\n86\n63a\n–\n − 23\n–\n 9\n47a\n47a\n47a\n0\n0\n Mean (SD)\n53.33 (12.98)\n49.12 (5.84)\n46.5 (.55)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      178.57301330566406,
+      270.82427978515625,
+      544.2310180664062,
+      293.64678955078125
+    ],
+    "text": "T-scores are norm scores (mean 50, SD = 10, range = 35–110). T scores ≤ 64 normal, 65 ≥ 69 possible prob-\nlematic, ≥ 70 clinically significant"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      178.5825958251953,
+      292.862060546875,
+      262.79034423828125,
+      306.4799499511719
+    ],
+    "text": "a T score in normal range"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      178.5825958251953,
+      305.6966857910156,
+      218.6855926513672,
+      319.3145446777344
+    ],
+    "text": "b RCI ≥ 1.96"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.023101806640625,
+      343.1400451660156,
+      291.2842102050781,
+      385.9545593261719
+    ],
+    "text": "Table 5   Strength and Difficulties Questionnaire (SDQ): Total Diffi-\nculty Score determined at pre-treatment, post-treatment and 3-month \nfollow-up and reliable change indices (RCI) at post-treatment and \n3-month follow-up, compared to pre-treatment, per participant"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.023101806640625,
+      539.9490356445312,
+      291.2322692871094,
+      562.7715454101562
+    ],
+    "text": "Total Difficulties Scores range from 0 to 40. Normal range: 0–13, \nborderline: 14–16, abnormal: 17–40"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      562.0076904296875,
+      189.03549194335938,
+      575.6254272460938
+    ],
+    "text": "a Total Difficulties Score in normal range"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      574.84228515625,
+      91.12660217285156,
+      588.4600830078125
+    ],
+    "text": "b RCI ≥ 1.96"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      390.13604736328125,
+      288.62408447265625,
+      402.9625549316406
+    ],
+    "text": "Participant\nT pre\nT post\nT FU\nRCI post\nRCI FU"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.00657653808594,
+      408.8615417480469,
+      287.4951171875,
+      471.5905456542969
+    ],
+    "text": "1\n24\n21\n–\n − 0.92\n–\n2\n18\n12a\n12a\n − 1.84\n − 1.84\n3\n18\n15\n19\n − 0.92\n0.3\n4\n19\n11a\n15\n − 2.45b\n − 1.23\n5\n27\n15\n16\n − 3.68b\n − 3.37b"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      470.4446716308594,
+      287.4951171875,
+      484.0625305175781
+    ],
+    "text": "6\n25\n22\n18\n − 0.92\n − 2.15b"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.00657653808594,
+      483.7110290527344,
+      287.4951171875,
+      521.4935302734375
+    ],
+    "text": "7\n25\n–\n–\n–\n–\n8\n24\n19\n–\n − 1.53\n–\n9\n26\n17\n10a\n − 2.76b\n − 4.91b"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      51.02360153198242,
+      521.18603515625,
+      209.36160278320312,
+      534.0125122070312
+    ],
+    "text": "Mean (SD)\n22.9 (3.6)\n16.5 (4)\n15 (3.5)"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.02360153198242,
+      31.765121459960938,
+      544.2511596679688,
+      41.33612060546875
+    ],
+    "text": "1404\n\t\nChild Psychiatry & Human Development (2022) 53:1391–1404"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      52.49760055541992,
+      736.017822265625,
+      93.08760070800781,
+      752.0078735351562
+    ],
+    "text": "1 3"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      51.023597717285156,
+      54.687313079833984,
+      291.4028015136719,
+      707.25732421875
+    ],
+    "text": "11.\t World Health Organization (2013) Guidelines for the management \nof conditions that are specifically related to stress. WHO, Geneva\n\t12.\t International Society for Traumatic Stress Studies (2019) Posttrau-\nmatic stress disorder prevention and treatment guidelines: method-\nology and recommendations. https://​istss.​org/​getat​tachm​ent/​Treat​\ning-​Trauma/​New-​ISTSS-​Preve​ntion-​and-​Treat​ment-​Guide​lines/​\nISTSS_​Preve​ntion​Treat​mentG​uidel​ines_​FNL-​March-​19-​2019.​\npdf.​aspx\n\t13.\t Cohen JA, Mannarino AP, Deblinger E (2006) Treating trauma \nand traumatic grief in children and adolescents. Guilford Press, \nNew York\n\t14.\t Shapiro F (2018) Eye movement desensitization and reprocess-\ning (EMDR): basic principles, protocols and procedures, 3rd edn. \nGuilford Press, London\n\t15.\t Cohen JA, Mannarino AP (1996) Factors that mediate treatment \noutcome in sexually abused preschool children. J Am Acad Child \nAdolesc Psychiatry 35:1402–1410\n\t16.\t Deblinger E, Stauffer LB, Steer RA (2001) Comparative efficacies \nof supportive and cognitive behavioral group therapies for young \nchildren who have been sexually abused and their non-offending \nmothers. Child Maltreat 6:332–343\n\t17.\t Scheeringa MS, Weems CF, Cohen JA, Amaya-Jackson L, Gutrie \nD (2011) Trauma-focused cognitive–behavioral therapy for \nposttraumatic stress disorder in three though six year-old chil-\ndren: a randomized controlled trail. J Child Psychol Psychiatry \n52(8):853–860\n\t18.\t Salloum A, Wang W, Robst J, Murphy TK, Scheeringa MS, Cohen \nJA et al (2016) Stepped care versus standard trauma-focused cog-\nnitive behavioral therapy for young children. J Child Psychol Psy-\nchiatry 57(5):614–622\n\t19.\t Hensel T (2009) EMDR with children and adolescents after \nsingle-incident trauma an intervention study. J EMDR Pract Res \n3(1):2–9\n\t20.\t Lempertz D, Wichmann M, Enderle E, Stellermann-Strehlow K, \nPawils S, Metzner F (2020) Pre–post study to asses EMDR-based \ngroup therapy for traumatized refugee preschoolers. J EMDR \nPract Res 14(1):31–45\n\t21.\t Onghena P, Edgington ES (2005) Customization of pain treat-\nments: single-case design and analysis. Clin J Pain 21(1):56–68\n\t22.\t Tate RL, Perdices M, Rosenkoetter U, McDonald S, Togher L, \nShadish W et al (2016) The single-case reporting guideline in \nbehavioral interventions (SCRIBE) 2016: explanation and elabo-\nration. Arch Sci Psychol 4:10–31\n\t23.\t McDonald S, Quinn F, Vieira R, O’Brien N, White M, Johnston \nDW et al (2017) The state of the art and future opportunities for \nusing longitudinal n-of-1 methods in health behavior research: a \nsystematic literature overview. Health Psychol Rev 11(4):307–323\n\t24.\t Kratochwill TR, Hitchcock JH, Horner RH, Levin JR, Odom SL, \nRindskopf DM et al (2013) Single-case intervention research \ndesign standards. Remedial Spec Educ 34(1):26–38. https://​doi.​\norg/​10.​1177/​07419​32512​452794\n\t25.\t American Psychiatric Association (2013) The Diagnostic and Sta-\ntistical Manual of Mental disorders, 5th edn. APA, Washington, \nDC\n\t26.\t Scheeringa MS (2004) Diagnostic Infant and Preschool Assess-\nment (DIPA). Tulane University, New Orleans\n\t27.\t Tate RL, Perdices M, Rosenkoetter U, Wakim D, Godbee K, \nTogher L et al (2013) Revision of a method quality rating scale \nfor single-case experimental designs and n-of-1 trials: the 15-item \nRisk of Bias in N-of-1 Trials (RoBiNT) Scale. Neuropsychol \nRehabil 23(5):619–638. https://​doi.​org/​10.​1080/​09602​011.​2013.​\n824383\n\t28.\t Shapiro F (2001) Eye movement desensitization and reprocessing \n(EMDR): basic principles, protocols and procedures, 2nd edn. \nGuilford Press, New York"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.1511535644531,
+      54.431880950927734,
+      546.5595703125,
+      627.0338134765625
+    ],
+    "text": "29.\t Tinker RH, Wilson SA (1999) Through the eyes of a child: EMDR \nwith children. Norton, New York\n\t30.\t Greenwald R (1999) Eye movement desensitization and repro-\ncessing (EMDR) in child and adolescent psychotherapy. Jaron \nAronson, Northvale\n\t31.\t De Roos C, Beer R, de Jongh A, ten Broeke E (2018) EMDR \nprotocol voor kinderen en jongeren tot 18 jaar, versie 2018. http://​\nwww.​emdr.​nl/​leden​gedee​lte/​downl​oad/​proto​collen/​kinde​rprot​\nocol.​pdf\n\t32.\t De Roos C, Beer R (2017) EMDR-verhalenmethode: traumaver-\nwerking bij preverbaal trauma. In: De Roos C, Beer R (eds) Hand-\nboek EMDR bij kinderen en Jongeren. Lannoo Campus, Houten, \npp 125–140\n\t33.\t Lovett J (2015) Trauma-attachment tangle: modifying EMDR to \nhelp children resolve trauma and develop loving relationships. \nRoutledge, New York\n\t34.\t Gigengack MR, Hein IM, van Meijel EPM, Lindeboom R, van \nGoudoever JB, Lindauer RJL (2020) Accuracy of the Diagnos-\ntic Infant and Preschool Assessment (DIPA) in a Dutch sample. \nCompr Psychiatry 100:152177. https://​doi.​org/​10.​1016/j.​compp​\nsych.​2020.​152177\n\t35.\t Briere J (2005) Trauma symptom checklist for young children: \nprofessional manual. Psychological Assessment Resources, \nOdessa\n\t36.\t Tierolf B, Lamers-Winkelman F (2014) TSCYC Vragenlijst \nover traumasymptomen bij jonge kinderen. Hogrefe Uitgevers, \nAmsterdam\n\t37.\t Goodman R (2001) Psychometric properties of the strengths \nand difficulties questionnaire. J Am Acad Child Adolesc \n40:1337–1345\n\t38.\t Scoring the Strengths and Difficulties Questionnaire for age 4–17 \n(2016, June 20). https://​sdqin​fo.​org/​py/​sdqin​fo/​c0.​py\n\t39.\t Van Widenfelt BM, Goedhart AW, Treffers PDA, Goodman R \n(2003) Dutch version of the strengths and difficulties question-\nnaire (SDQ). Eur Child Adolesc Psychiatry 12:281–289\n\t40.\t Heyvaert M, Onghena P (2014) Randomization tests for single \ncase experiments: state of the art, state of the science and state of \nthe application. J Context Behav Sci 3:51–64\n\t41.\t Edgington ES (1972) An additive method for combining probabil-\nity values from independent experiments. J Psychol 80:351–363\n\t42.\t Cohen J (1988) Statistical power analysis for the behavioral sci-\nences, 2nd edn. Erlbaum, Hillsdale\n\t43.\t Bulté I, Onghena P (2013) The Single-Case Data Analysis pack-\nage: analyzing single-case experiments with R software. J Mod \nAppl Stat Methods 12(2):450–478\n\t44.\t Zeanah CH (2009) Handbook of infant mental health, 3rd edn. \nGuilford Press, New York\n\t45.\t Wolpert M, Görzig A, Deighton J, Fugard AJ, Newman R, Ford \nT (2015) Comparison of indices of clinically meaningful change \nin child and adolescent mental health services: difference scores, \nreliable change, crossing clinical thresholds and ‘added value’—\nan exploration using parent rated scores on the SDQ. Child Ado-\nlesc Ment Health 20:94–101\n\t46.\t Barron IG, Bourgaize C, Lempertz D, Swinden C, Darker-Smith \nS (2019) Eye movement desensitization and reprocessing for chil-\ndren and adolescents with posttraumatic stress disorder: a system-\natic narrative review. J EMDR Pract Res 13(4):270–283"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      306.1512451171875,
+      634.7688598632812,
+      546.4035034179688,
+      657.59130859375
+    ],
+    "text": "Publisher's Note  Springer Nature remains neutral with regard to \njurisdictional claims in published maps and institutional affiliations."
+  }
+]

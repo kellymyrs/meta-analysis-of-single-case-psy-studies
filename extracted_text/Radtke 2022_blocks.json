@@ -1,0 +1,1272 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      32.967140197753906,
+      232.59451293945312,
+      52.59834289550781
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\nhttps://doi.org/10.1007/s10826-022-02304-2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.97639846801758,
+      62.93231201171875,
+      138.69093322753906,
+      72.39691162109375
+    ],
+    "text": "ORIGINAL PAPER"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      105.45246887207031,
+      451.4376525878906,
+      139.72450256347656
+    ],
+    "text": "Bibliotherapy for Speciﬁc Phobias of Dogs in Young Children:\nA Pilot Study"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      154.3743438720703,
+      389.6116943359375,
+      165.54345703125
+    ],
+    "text": "Sarah R. Radtke1\n●Ashley Muskett1\n●Mary F. Coffman2\n●Thomas H. Ollendick1"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      187.39308166503906,
+      425.96844482421875,
+      205.78260803222656
+    ],
+    "text": "Accepted: 18 March 2022 / Published online: 18 April 2022\n© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.0235595703125,
+      225.5920867919922,
+      544.236083984375,
+      360.1965637207031
+    ],
+    "text": "Abstract\nBibliotherapy, particularly when supplemented with therapist contact, has emerged as an effective treatment for anxiety\nsymptoms in children. However, its effectiveness in treating speciﬁc phobias in young children has been explored in only\none study which targeted nighttime fears. The current study tested a novel bibliotherapy for fears of dogs in four to seven-\nyear-old children. The therapy was conducted over four weeks and was supplemented with brief, weekly videoconference\ncalls with a therapist. A non-concurrent multiple baseline design was used to evaluate the effectiveness of this treatment in a\nsample of seven children between four and seven years of age. Signiﬁcant reductions in speciﬁc phobia diagnostic severity,\nparent and child fear ratings, and child avoidance during a behavioral approach task were all observed. Additionally,\ntreatment adherence, retention, and satisfaction were all high. Future research is needed to replicate the ﬁndings in larger,\nmore heterogeneous samples and to explore possible predictive variables; however, this study provides initial support for\nbibliotherapy as a non-intensive, ﬁrst-line intervention for speciﬁc phobias in young children."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.024566650390625,
+      369.01116943359375,
+      126.73534393310547,
+      379.1314697265625
+    ],
+    "text": "Keywords Anxiety"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      130.16690063476562,
+      368.75433349609375,
+      201.12420654296875,
+      379.1349182128906
+    ],
+    "text": "●Speciﬁc phobias"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      204.49130249023438,
+      369.17230224609375,
+      260.82452392578125,
+      379.1349182128906
+    ],
+    "text": "●Dog phobias"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      264.1322021484375,
+      369.17230224609375,
+      303.7412414550781,
+      379.1349182128906
+    ],
+    "text": "●Children"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      307.10540771484375,
+      369.17230224609375,
+      366.4354248046875,
+      379.1349182128906
+    ],
+    "text": "●Bibliotherapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02447509765625,
+      398.4486083984375,
+      97.16626739501953,
+      408.4112243652344
+    ],
+    "text": "Highlights"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      411.01171875,
+      411.2740783691406,
+      420.9743347167969
+    ],
+    "text": "●\nThe effectiveness of bibliotherapy for fears of dogs in young children was examined."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      423.4841003417969,
+      331.7605285644531,
+      433.44671630859375
+    ],
+    "text": "●\nTreatment adherence, retention, and parent satisfaction were high."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      435.9565124511719,
+      399.7891845703125,
+      445.91912841796875
+    ],
+    "text": "●\nImprovements in phobia severity, fear ratings, and child avoidance were observed."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      447.9542236328125,
+      384.8682556152344,
+      458.3348083496094
+    ],
+    "text": "●\nResults support the use of bibliotherapy as a ﬁrst-line intervention for phobias."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      492.7764892578125,
+      117.68524169921875,
+      504.7315979003906
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.023597717285156,
+      518.9337158203125,
+      289.12774658203125,
+      616.5059814453125
+    ],
+    "text": "Speciﬁc phobias are one of the most common problems\nfaced by young children (Oar et al., 2019). Deﬁned in the\nDSM-5 as persistent and interfering fear of a speciﬁc object\nor situation (American Psychiatric Association (2013)),\nspeciﬁc phobias go above and beyond the typical fears\ncommon in early childhood and create signiﬁcant distress,\ninterference, and impairment for children and families.\nAdditionally, studies have shown that these phobias are not"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.1408386230469,
+      494.044189453125,
+      544.240966796875,
+      716.111083984375
+    ],
+    "text": "only detrimental in children’s day to day lives but they also\ncontribute to the development of additional anxiety dis-\norders over time (De Vries et al., 2019; Lieb et al., 2016;\nOar et al., 2019). As a result, early intervention in the form\nof evidence-based treatments may be fundamental to giving\nchildren the protection they need to avoid later additional\npsychiatric disorders. Although speciﬁc phobias have been\nfound to be similarly prevalent, if not more prevalent in\nyounger children than older children, there has been much\nless research conducted with young children (Egger &\nAngold, 2006).\nFor older children and adolescents, cognitive-behavioral\ntherapy (CBT) has been shown to be a “well-established,”\nevidence-based treatment for several anxiety disorders\n(Banneyer et al., 2018; Farrell et al, 2019). Furthermore,\nseveral studies have been conducted to examine various\nCBT-based treatment programs speciﬁcally designed for\nyoung children with fears and anxieties as well (e.g.,"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      651.770263671875,
+      121.08016204833984,
+      670.57177734375
+    ],
+    "text": "* Sarah R. Radtke\nsryan42@vt.edu"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      680.8104858398438,
+      288.5901184082031,
+      700.8457641601562
+    ],
+    "text": "1\nChild Study Center, Virginia Tech, 460 Turner Street, Suite 207,\nBlacksburg, VA 24060, USA"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      51.02360153198242,
+      705.6986694335938,
+      289.1312255859375,
+      715.8126220703125
+    ],
+    "text": "2\n408 8 ½ Ave. NW, Apt. W306 NW, Rochester, MN 55901, USA"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      8.696342468261719,
+      301.83740234375,
+      13.677641868591309,
+      334.0346374511719
+    ],
+    "text": "1234567890();,:"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      16.2144775390625,
+      304.92352294921875,
+      21.195777893066406,
+      334.0346374511719
+    ],
+    "text": "1234567890();,:"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.023590087890625,
+      58.60858917236328,
+      289.20733642578125,
+      716.1148071289062
+    ],
+    "text": "Banneyer et al., 2018; Monga et al., 2015; Ruocco et al.,\n2016; Waters et al., 2009).\nRegarding treating speciﬁc phobias in young children, a\nsingle case study conducted in 2017 by Kershaw et al.\n(2017) examined the efﬁcacy of One-Session Treatment\n(Ollendick et al., 2009; Öst, 1989) for the treatment of a\nspeciﬁc phobia of dogs in a 4-year-old child. This treatment\nincorporated play-based activities into 3 h of concentrated\nCBT in which child and parent were both involved. At the\nend of treatment, the child no longer met criteria for speciﬁc\nphobia. Additional studies have utilized non-concurrent,\nmultiple-baseline, single-case designs to examine initial\nefﬁcacy of treatment in small samples of preschool age\nchildren. For example, one study examined play-based, one-\nsession treatment for speciﬁc phobia of dogs in four pre-\nschool aged children (Farrell et al., 2018). This study found\nthat three of the four children no longer met criteria for\nspeciﬁc phobia of dogs by the end of treatment and all four\nchildren evidenced clinically signiﬁcant reductions in\nsymptoms. Additionally, all the children demonstrated\nstable symptoms across varying multiple baselines prior to\nthe intervention, suggesting that it was the intervention\nitself, not the simple passage of time or some confounding\nthird variable, that resulted in the decrease in symptoms.\nBibliotherapy, which utilizes books and other print\nmaterial to provide the instruction that would normally be\nprovided by a therapist, is another treatment used for youth\nanxiety disorders. It is currently considered to be a “prob-\nably efﬁcacious” intervention (see Davis et al., 2011). For\nchildren receiving bibliotherapy, parents are typically used\nas at-home therapist proxies. Bibliotherapy efforts range\nfrom simply educating people about a problem in a non-\nﬁction, “how-to” book to incorporating evidence-based\ntechniques within both ﬁctional and nonﬁctional stories\n(Coffman et al., 2013).\nIn one of the ﬁrst studies examining the efﬁcacy of bib-\nliotherapy for children’s anxiety disorders, Rapee et al. (2006)\ncompared bibliotherapy (e.g., parents were provided a com-\nmercially available consumer book, “Helping Your Anxious\nChild: A Step-by-Step Guide”, and children were provided a\ncompanion workbook) to nine sessions of standard in-person\ngroup CBT and a waitlist condition in 6 to 12-year-old chil-\ndren with various anxiety disorders. Importantly, participants\nin the bibliotherapy condition had no contact with a therapist\nor any study personnel during treatment. The authors found\nthat while bibliotherapy was more effective than the waitlist,\nthe bibliotherapy condition was less effective than the standard\ngroup condition (i.e., about 25% of the children in the bib-\nliotherapy condition versus about 60% of youth in the group\nCBT condition were free of their primary anxiety disorder at\npost-treatment). In a second study, Lyneham and Rapee\n(2006) supplemented the same bibliotherapy intervention uti-\nlized by Rapee et al. (2006) for 6 to 12-year-old children with"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      306.138916015625,
+      58.60913848876953,
+      544.3416748046875,
+      716.1151733398438
+    ],
+    "text": "therapist contact under three conditions (i.e., nine scheduled\ntelephone calls between parent and therapist; nine scheduled\nemails from the therapist to the parent and then unlimited\nemails to answer any questions; parents allowed unlimited\ntelephone or email contact with their therapist). Findings\nindicated that 58% of children across the conditions were free\nof their primary anxiety disorder at post-treatment assessment\nwith the highest percentage of children being diagnosis free in\nthe telephone condition (89%). Similar results were found by\nCobham (2012) when 95% of 7 to 14-year-old children who\nreceived therapist-supported bibliotherapy (i.e., parents atten-\nded a two-hour group training session and were given one\nparent- and one child-focused workbook to complete at home\nwhile participating in phone calls every other week) were\nanxiety diagnosis free following treatment and this number did\nnot statistically differ from the children who received 12 ses-\nsion of in-person, individual, family-focused CBT. Collec-\ntively these studies demonstrate that bibliotherapy for children\nis likely more effective when supplemented with therapist-\nparent contact. Furthermore, bibliotherapy may be ideal for\nfamilies who cannot receive standard services (i.e., due to lack\nof access, ﬁnancial concerns, or time constraints) and may\nfunction as a low-intensity intervention in a stepped care\napproach to treatment (Ollendick et al., 2018).\nComparatively few studies have focused speciﬁcally on the\ntreatment of speciﬁc phobia in young children. However,\nUncle Lightfoot (Coffman (1981–1987)) a children’s book that\nis based on cognitive behavioral principles and includes\nexposure games embedded in the story, has been tested,\nrevised, and retested over a number of years for the treatment\nof fear of the dark. After early experiments (Mikulas et al.,\n1986; Mikulas & Coffman, 1989) with 89 young children\nbetween the ages of 4 and 7-years-old, suggested that the book\nheld promise as a treatment for fear of the dark, a later inde-\npendent study (Santacruzet al., 2006) examined the treatment\neffects between Uncle Lightfoot (i.e., bibliotherapy/games),\nin vivo exposure, and a waitlist control over ﬁve weeks on\nfears of darkness in 78 children, ages 4 to 8. This study found\nthat both active treatment conditions resulted in signiﬁcant fear\nreductions compared to the waitlist control. In another study\n(Lewis et al., 2015), Uncle Lightfoot, Flip That Switch (i.e., the\n2012 edition of Uncle Lightfoot; Coffman, 2012−2020) was\nused to treat nine children who had been diagnosed with a\nspeciﬁc phobia of darkness. This study found that eight of the\nnine children had signiﬁcant reductions in fear and signiﬁcant\nincreases in nights spent in their own bed, with symptom\nstability across multiple baselines prior to treatment (Lewis\net al., 2015). After Uncle Lightfoot, Flip That Switch was\ntranslated into Hungarian, it was compared with a waitlist\ngroup in a sample of 73 children, ages 3 to 8, who evidenced\nvarying levels of fear, from mild to severe (Kopsco et al.,\n2021). Although the dosage (i.e., amount the book was read)\nin this study was considerably lower than in the Lewis et al."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "374\nJournal of Child and Family Studies (2023) 32:373–383"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.0225830078125,
+      58.60858917236328,
+      289.1784973144531,
+      342.5047912597656
+    ],
+    "text": "(2015) study and many of the children were less fearful than\nthose in the Lewis et al. (2015) study, the results supported\nprevious ﬁndings of the efﬁcacy of the Uncle Lightfoot book\nand games approach, which was delivered via parents.\nNighttime adaptive behavior and darkness phobia symptoms\nimproved signiﬁcantly in the intervention group and the\nauthors found that the more time dedicated to the exposure\ngames the greater the increase of nighttime adaptive behaviors.\nInterestingly, parents of children who had the most intense\nfears reported greater post-treatment satisfaction with the\ntreatment.\nThe current pilot study aimed to provide preliminary\nevidence regarding whether an intervention similar to\nUncle Lightfoot (i.e., ﬁctional children’s book and activ-\nities) could be applied to the treatment of speciﬁc phobias\nof dogs in 4 to 7-year-old children. It was hypothesized that\nchildren would demonstrate stable symptoms across mul-\ntiple baseline sessions prior to treatment but would\ndemonstrate signiﬁcant reductions in symptom severity\nthroughout treatment and at post-treatment and follow-up\nassessments. Additionally, it was hypothesized that this\ntreatment would be acceptable to children and their\nfamilies."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      368.2221984863281,
+      92.56758117675781,
+      380.17730712890625
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      393.9254455566406,
+      105.06240844726562,
+      404.88446044921875
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      419.7423095703125,
+      289.1537780761719,
+      653.8634033203125
+    ],
+    "text": "Study participants included seven children ages 4 to 7-\nyears-old (mean = 5.0-years) who met diagnostic criteria\nfor a speciﬁc phobia of dogs. Four of the seven participants\nwere male; ﬁve were Caucasian and two were Hispanic; all\nlived in two parent homes; and all had at least one parent\nwho had an advanced education degree. Children’s recep-\ntive language abilities (PPVT-4; Dunn & Dunn, 2007) fell\nin the average and moderately high ranges (M = 117.86,\nSD = 11.34). Their expressive language abilities (EVT-2;\nWilliams, 2007) fell in the average to extremely high ran-\nges (M = 121.71, SD = 15.02). For ﬁve of the seven chil-\ndren speciﬁc phobia of dogs was the only disorder for\nwhich diagnostic criteria were met. The remaining two\nchildren also met diagnostic criteria for other anxiety dis-\norders (i.e., separation anxiety disorder, social anxiety\ndisorder, generalized anxiety disorder, other speciﬁc pho-\nbias). Although one of the seven families did have a pet\ndog living in their home, the child reportedly avoided\ncontact with this dog and remained highly fearful."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      667.8654174804688,
+      182.80775451660156,
+      678.8244018554688
+    ],
+    "text": "Study Design and Procedure"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      693.7391357421875,
+      289.13165283203125,
+      716.1170654296875
+    ],
+    "text": "The current study was conducted under the approval of the\n[Masked for Review] Institutional Review Board (IRB #"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.140869140625,
+      58.19343185424805,
+      544.277587890625,
+      716.1050415039062
+    ],
+    "text": "Masked for Review). Families were recruited via ﬂyers in\nthe community (an incorporated, university town in a rural\ncounty) and advertisements on local listservs. Interested\nparents (N = 9) completed a brief phone screen with a\nresearch associate to determine probable eligibility (i.e.,\npresence of signiﬁcant fear of dogs, absence of autism\nspectrum disorder and intellectual disability, not currently\nin treatment for the phobia or a related anxiety disorder).\nInformed consent and verbal assent were obtained during\nthe family’s ﬁrst assessment session at the clinic. At this\nsession, parents completed a diagnostic interview and\nquestionnaires regarding their child’s fear of dogs and\ngeneral psychopathology. All children also completed a\nshort interview about their fear of dogs, a behavioral\napproach task, and measures of receptive and expressive\nlanguage. Consistent with recent literature, the current study\nutilized a non-concurrent, multiple baseline design. Fol-\nlowing the ﬁrst session, families were randomized to a\nthree- or four-week baseline waiting period during which\nparents and children submitted ratings of the child’s fear of\ndogs once per week. This baseline period was used to assess\nthe stability of children’s fear over time. Baseline data,\nwhen combined with replication, has been found useful in\ngaining preliminary information during the initial develop-\nment of novel treatments (Barlow et al., 1984; Lewis et al.,\n2015; Ollendick et al., 2018). A multiple baseline was the\ndesign of choice because it controls for the primary weak-\nness (i.e., threat to validity) associated with changes related\nto using just one time phase. The multiple baseline design\nprovides replication of phase changes through more than\none series (see Barlow et al., 1984).\nAfter this baseline period, families were scheduled to\nenter the treatment phase of the study. Two of the nine\nfamilies declined to begin treatment at this time (i.e., one\nchild’s fear had reportedly improved; one parent had time\nconstraints). Following this, families were mailed the child\nbook and a parent guidebook (see below) so that they were\nreceived prior to their ﬁrst videoconference session. The\nbooks were accompanied by a letter encouraging the par-\nents to begin reviewing the parent guidebook but request-\ning that they not begin reading the book to their child until\nafter their ﬁrst videoconference session.\nDuring the treatment phase, parents met once a week\nwith their assigned therapist via videoconference (see\nbelow) for a total of four 15-to-20-minute sessions. Each\nweek, parents and children continued to submit ratings of\nthe child’s fear of dogs. Additionally, parents completed a\nlog of their child’s interactions with dogs and details\nregarding their reading of the treatment book. Although\ntreatment has been recommended to be at “full force” when\na treatment phase begins (Barlow et al., 1984), because a\nbook was being read to the child over a period of four\nweeks, leading to increasing levels of exposure across"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\n375"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      58.60858917236328,
+      289.150634765625,
+      205.53799438476562
+    ],
+    "text": "treatment, the expectation was that the improvement in\nscores after baseline would occur on a more gradual\ntreatment slope than would occur if the child were given a\npotent, full-strength intervention at the ﬁrst treatment\ndata point.\nBoth one week and three months following their last\nvideoconference session, families returned to the clinic for\nfollow-up assessments. At these sessions, parents com-\npleted an abbreviated diagnostic interview and assorted\nquestionnaires while children completed a short interview\nabout their fear of dogs and the behavioral approach task\n(see below)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      219.53802490234375,
+      98.5746841430664,
+      230.4970245361328
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02357482910156,
+      245.4116973876953,
+      289.1687316894531,
+      703.6912231445312
+    ],
+    "text": "Cognitive behavioral bibliotherapy was delivered via an\nunpublished 9-chapter, 66-page story book entitled “Addie\nand that Rambunctious Dog: From Fear to Friendship”\n(Masked for Review). Addie, the main character in the\nbook, had a speciﬁc phobia of dogs and learns to overcome\nher fears and to develop friendships with various dogs in\nvarious settings (e.g., friend’s home, walking in the\nneighborhood, the playground, and at an animal rescue\nshelter). The spiral-bound book was written speciﬁcally for\nthis study and includes chapters oriented around speciﬁc\ninformation about dogs and their habits as well as a set of\nspeciﬁc activities Addie could engage in to overcome her\nfear (e.g., approaching dogs, petting them, leading them,\nplaying ball with them, and feeding them). These activities\nwere designed to parallel exposure activities delivered in\nstandard in vivo exposure treatments for a speciﬁc phobia\nof dogs.\nCognitive behavioral techniques embedded into the\nstory include reframing the child’s thoughts that include\ncatastrophic thinking or exaggeration, the modeling of\nverbal and tangible reinforcement for behavioral approach\ntasks, and exposing the child visually to a desensitization-\nlike hierarchy of scenes that show a child’s modeling\nappropriate behavior in her interactions with dogs. Below\nis an example of the dialogue in Addie and That Ram-\nbunctious Dog manuscript and the scene that occurs after\nshe and her dad were watching dogs in the park. Addie is\njust beginning to challenge her catastrophic thinking:\n“After watching the children and dogs playing for a\ncouple of hours, Dad asked, “Addie, do you think all dogs\nmight be really mean and eat you up?” Addie thought about\nthe question. “No, Dad. I didn’t see any really mean dogs.\nThere was one dog that growled. He acted like he was going\nto bite. That was because another dog was trying to steal his\nfood. I also saw that dogs play a lot like children play.\nSometimes dogs play kind of rough, but so do my friends\nsometimes…” (p. 15)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      306.1416931152344,
+      58.60095977783203,
+      544.2963256835938,
+      703.6953125
+    ],
+    "text": "All the illustrations (one for each of the 66 pages) are in\ncolor and were created by a professional artist, Dianne\nDusevitch. The story involves a Caucasian child but\nincludes diverse characters and illustrations in the book\n(e.g., African American child and adult; Hispanic child and\nHispanic mother). Although the reading level of Addie and\nThat Rambunctious Dog is Grade 3.3 on the Flesch-\nKincaid Grade Level, parents were advised to read the\nbook to their child at least twice, even if the child could\nread, before allowing the child to read it alone.\nParents were provided a 14-page guidebook that directed\nthem on reading the book, setting up speciﬁc exposure\nactivities, rewarding their child for engaging in the activ-\nities, and celebrating the successes of their child. They\nwere encouraged to “try to spend at least several hours a\nweek reading the book and participating in the activities\nthat your child is willing to complete”. The parent guide-\nbook requires an 8.3 grade level in reading skills (Flesch-\nKincaid), making the materials potentially useful to a broad\npopulation. The parent guidebook provides 16 parent-child\ngames/activities, an average of 1.8 activities per chapter.\nOne of the early activities is for the parents to let the child\nobserve dogs from the safety of a car, or through a store\nwindow. Later, in another activity the parent is asked to\nhave the child come in supervised contact with dogs,\nbeginning with newborn puppies and ending with a large\ndog. Parents were not provided with explicit instructions on\nhow to ﬁnd dogs but were encouraged to consider various\noptions:\ndogs\nowned\nby\nextended\nfamily\nmembers,\nneighbors, and friends; dogs at pet stores, breeders, and\nanimal shelters; dogs at the park or other recreation areas.\nThe stated goal was to read the entire book at least twice\nduring the 4-week period and to complete the activities\nassociated\nwith\neach\nchapter.\nImportantly,\nchildren\nengaged in speciﬁc activities like those in the book but only\nwhen the child willingly agreed to do so. If the child was\nnot ready to engage in certain activities, they were asked to\nperform activities they were previously able to accomplish\nand then to try the new, more difﬁcult activities.\nEach family was assigned a master’s-level therapist and\nduring this four-week treatment phase the clinician called\nthe parents weekly to discuss how their child was doing\nand if they had any questions about implementing the\nactivities. These videoconference calls lasted 15–20 min on\naverage. Therapists were instructed to provide support for\nparents and to reinforce information provided in the\nguidebook as appropriate (e.g., help parents problem-solve\nany difﬁculties they had completing the activities). The\ntherapists attended weekly, group supervision meetings\nwith a doctorate-level clinician to ensure adherence to the\nCBT principles outlined in the parent guidebook and\nreview any difﬁculty addressing parents’ concerns."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "376\nJournal of Child and Family Studies (2023) 32:373–383"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      57.6798095703125,
+      94.0047836303711,
+      68.63880920410156
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      83.33914184570312,
+      276.4871520996094,
+      105.77391052246094
+    ],
+    "text": "Anxiety disorders interview schedule for DSM-5, parent\nversion (ADIS-P; Silverman & Albano, 1996)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02264404296875,
+      120.85657501220703,
+      289.1755676269531,
+      404.8095397949219
+    ],
+    "text": "The ADIS-P is a semi-structured diagnostic interview\nwhich assesses for the presence of a variety of anxiety\nand non-anxiety related disorders. Following the inter-\nview, clinicians provide a Clinician Severity Rating\n(CSR) on a 9-point scale (0–8) for each disorder for\nwhich symptoms are endorsed. Higher scores indicate\ngreater symptom severity and a score of four or higher is\nused to indicate that a clinical level of severity is present.\nPrevious versions of the ADIS (i.e., for DSM-IV and\nDSM-III-R) have been found to possess good to excellent\ninterrater and test-retest reliability (Lyneham et al., 2007;\nSilverman et al., 2001). In the current study, the complete\nADIS-P was administered to parents at the initial\nassessment session and the disorders endorsed at this\nsession were re-assessed at the post-treatment and three-\nmonth follow-up sessions. Assessors were graduate stu-\ndents enrolled in a clinical science program and advanced\nundergraduate research assistants trained to reliability via\nco-coding of previously recorded ADIS administrations.\nCSR inter-rater reliability estimates (ICCs) from prior\nprojects from the current lab which utilized the same\ntraining approach ranged from 0.48 to 0.96 indicating fair\nto excellent reliability."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02168273925781,
+      419.5768127441406,
+      289.1158447265625,
+      442.0115966796875
+    ],
+    "text": "Behavioral approach task (Ollendick et al., 2009; Öst et al.,\n2001)"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.0206298828125,
+      457.09423828125,
+      289.2134094238281,
+      716.1029052734375
+    ],
+    "text": "The Behavioral Approach Task (BAT) was designed to\nmeasure children’s approach and avoidance behaviors when\nexposed to a dog in vivo in the clinic. Each child was taken to\nthe hallway outside of a closed room and told that there was a\nfriendly dog being held on a leash by one of our assistants on\nthe opposite side of the room. They were instructed: “I want to\nsee if you can go into the room, walk up to the dog and pet it\non the head for about one minute. I want you to try your best,\nbut you only have to do as much as you like”. A few minutes\nafter completing the task alone, each child completed the task\na second time with a parent present. Parents were told that they\nwere free to help their child as much as they would like. Each\nchild’s approach behavior was rated by the clinician on an 11-\npoint scale on which each step was labeled and represented\nincreased approach behavior (e.g., 0 = does not open door; 3\n= Enters room, takes 1–3 steps toward the dog; 7 = Reaches\nout to dog but does not actually touch/pet it; 10 = Pets dog for\nfull 60 seconds). The BAT was completed at the pre-treatment,\none-week post-treatment, and three-month post-treatment\nassessment sessions. The same dog was used for all seven\nchildren and at each time point."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1379089355469,
+      58.17927169799805,
+      447.799072265625,
+      68.40214538574219
+    ],
+    "text": "Speciﬁc phobia of dogs fear rating"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1379089355469,
+      83.06684875488281,
+      544.2369995117188,
+      255.37252807617188
+    ],
+    "text": "Parents were asked to rate their child’s fear of dogs on an\n11-point scale ranging from 0 (Not Afraid at All) to 10\n(Extremely Afraid). Children were asked to rate their own\nfear of dogs on a ﬁve-point scale ranging from 0 (Not at All)\nto 4 (Very Much). For the children, each number was\naccompanied by a face displaying gradually increased levels\nof fear. Children rated their fear of “little” dogs, “mid-sized”\ndogs, and “big” dogs separately. Fear ratings from parents\nand children were obtained at the initial assessment session,\nonce per week during the baseline period, once per week\nduring the treatment period, and at the post-treatment and\nfollow-up assessments. The child’s highest of the three size-\nbased fear ratings at each time point was used for analyses\nin the current paper."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.142578125,
+      270.1398010253906,
+      531.818359375,
+      292.5745849609375
+    ],
+    "text": "Section 2.4.4 adaptive behavior scale for dog approach\nbehaviors"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.142578125,
+      307.2392578125,
+      544.3164672851562,
+      641.3853759765625
+    ],
+    "text": "The My Child’s Interactions with Dogs (MCID) instru-\nment serves as an adaptive behavior scale for dog\napproach behaviors. It asks the parent to report on the\nchild’s behavior “at this time” for a series of 42 behaviors\ninvolving dogs. Possible responses are “Yes, easily,” “Yes\nbut with difﬁculty” and “No”. The items cover a range of\nsituations, from the child’s observing dog pictures in a\nbook or watching dogs pass by the window, to situations\nthat require the child to pet, walk, or play with a dog.\nWhile the laboratory BAT is designed to measure on-site\nbehaviors as the child approaches a medium-sized dog, the\nMCID is designed to assess naturalistic situations with a\nnumber of different dogs in different settings (e.g., home,\npark, neighborhood). The questions on Section C of the\nMCID are very speciﬁc. For example, one item states “If\nthere is a dog on a leash, my child can continue to walk\ndown the street with me if the dog is 10 feet away”.\nAnother item states, “My child can spend the night with a\nfriend who has a dog”. Items require the parent to respond\nbased on three sizes of dogs: small, medium, large. Total\nscores range from 0 to 84 with higher scores indicating\nincreased ability to interact with dogs of various sizes in\nvarious settings. A Pearson Product Moment Correlation\nrevealed a one-week test-retest reliability of 0.97 based on\nBaseline 1 and Baseline 2 comparisons and a three-week\ntest-retest reliability of 0.858 on Baseline 1 and 4\ncomparisons."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1455383300781,
+      656.20947265625,
+      396.2253723144531,
+      666.1720581054688
+    ],
+    "text": "Treatment satisfaction"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.1455383300781,
+      681.2556762695312,
+      544.263671875,
+      716.1058349609375
+    ],
+    "text": "At the three-month follow-up assessment, parents com-\npleted a 9-item measure of treatment satisfaction. Items\nwere answered on either a 9-point scale (0 = Not at all,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\n377"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.023590087890625,
+      244.9937286376953,
+      289.1846008300781,
+      379.8689270019531
+    ],
+    "text": "8 = Very, very much; 3-items) or a 5-point scale (1 =\nStrongly disagree, 5 = Strongly agree; 6-items). Questions\nasked how the child’s fear and avoidance compared to\nsame-age peers (9-point scale), how much the child’s\nphobia currently interfered in his/her life (9-point scale),\nhow the program helped the parents learn about fears and\ncope better with their child’s phobia (5-point scale), and\nhow effective they felt the treatment program was (5-point\nscale). Parents were also invited to write any qualitative\ncomments they wished to share about their experience with\nthe intervention."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      393.9254455566406,
+      115.76058959960938,
+      404.88446044921875
+    ],
+    "text": "Data Analyses"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      419.7423095703125,
+      289.0998229980469,
+      516.8965454101562
+    ],
+    "text": "Because of the small sample size, data were analyzed using\nnonparametic tests. Friedman tests were conducted to\nexamine changes in the ADIS-P CSRs, parent and child fear\nratings, MCID total scores, and BAT steps completed\nacross time. Wilcoxon signed-rank tests were used as post-\nhoc tests to explore signiﬁcant differences between time\npoints. Means and frequency counts were used to assess\nparent satisfaction."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      542.6095581054688,
+      88.83757781982422,
+      554.5646362304688
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      568.2560424804688,
+      219.99600219726562,
+      579.2150268554688
+    ],
+    "text": "Treatment Adherence and Retention"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02262878417969,
+      594.072998046875,
+      289.1936340332031,
+      716.1148071289062
+    ],
+    "text": "During treatment, parents reported reading an average of\n31 pages of Addie and That Rambunctious Dog and\ncompleting ﬁve activities per week. Although not all\nactivities involved interacting with a dog (e.g., touching,\npetting, feeding a treat, giving a toy), families reported that\non average their children interacted with a dog 2.33 times\nper week over the course of treatment. Qualitative infor-\nmation from parents about their children’s completion of\nactivities and interest in the book throughout treatment are\nprovided in Table 2. All seven families completed"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.138916015625,
+      245.41090393066406,
+      544.3015747070312,
+      367.4527282714844
+    ],
+    "text": "treatment and also completed the post-treatment assess-\nment one week after the last video-conferencing session.\nSix of the seven families completed the three-month fol-\nlow-up assessment. The family who did not complete the\nfollow-up assessment did not respond to the clinic after\nthree attempts were made to contact them. The child in this\nfamily did not differ from the other children at the pre- or\npost-treatment assessments and exhibited reductions in\nparent-report fear and clinician-rated phobia severity at\npost-treatment."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      381.45294189453125,
+      477.1973876953125,
+      392.4119567871094
+    ],
+    "text": "Changes in Phobia Severity (Table 1)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      406.8519287109375,
+      544.3230590820312,
+      541.7841186523438
+    ],
+    "text": "Analyses demonstrated a signiﬁcant reduction in SP severity\nper the ADIS-P (χ2(2) = 10.21, p = 0.006, W = 0.85) across\nthe assessment sessions. CSR means changed from 5.00 at\npre-treatment, to 2.86 at post-treatment, and 2.33 at follow-up.\nPost-hoc Wilcoxon signed-rank tests found signiﬁcant reduc-\ntions in phobia severity from pre to post (Z = −2.23, p =\n0.026), but not from post to follow-up (Z = −1.41, p =\n0.157). At both the post-treatment and follow-up assessments\nthree children no longer met diagnostic criteria for their SP\n(i.e., CSC < 4). Nonetheless, the CSRs were reduced for all\nseven children."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      555.7836303710938,
+      537.9716796875,
+      566.7426147460938
+    ],
+    "text": "Changes in Parent Report of Fear (Fig. 1; Table 1)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      581.6572265625,
+      544.2237548828125,
+      604.0352172851562
+    ],
+    "text": "Results were similar for parent reported fear ratings. Ana-\nlyses demonstrated a signiﬁcant reduction in fear ratings (χ2"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      306.1416931152344,
+      606.1275634765625,
+      544.2229614257812,
+      716.1151733398438
+    ],
+    "text": "(2) = 7.68, p = 0.021, W = 0.64). Means reduced from 7.66\non our 11-point scale at pre-treatment, to 4.57 at post-\ntreatment, and 3.50 at follow-up. Post-hoc Wilcoxon\nsigned-rank tests found signiﬁcant reductions in fear ratings\nfrom pre to post (Z = −1.99, p = 0.046), but not from post\nto follow-up (Z = −1.89, p = 0.059). Furthermore, there\nwas a signiﬁcant correlation between parent-reported fear at\nthe 3-month follow-up and total number of book pages read\n(r(4) = −0.78, p = 0.035)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      56.37587356567383,
+      161.2219696044922,
+      94.8556137084961
+    ],
+    "text": "Table 1 Means, Standard\nDeviations, and Main Effects of\nTime for Treatment Outcome\nMeasures"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.5826416015625,
+      59.56972885131836,
+      523.7371826171875,
+      79.66194915771484
+    ],
+    "text": "Measure\nPre\nM (SD)\nPost\nM (SD)\nFollow-up\nM (SD)\n(χ2)\nEffect\nSize (W)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      90.0157699584961,
+      512.1686401367188,
+      98.48397064208984
+    ],
+    "text": "Parent CSR\n5.00 (0.82)\n2.86 (1.86)\n2.33 (1.97)\n10.21**\n0.851"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      102.94161224365234,
+      512.1686401367188,
+      111.4098129272461
+    ],
+    "text": "Parent Fear Rating\n7.67 (1.54)\n4.57 (3.05)\n3.50 (3.39)\n7.68*\n0.640"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      115.9242172241211,
+      512.1686401367188,
+      124.39241790771484
+    ],
+    "text": "Child Fear Rating\n3.00 (0.82)\n0.71 (1.25)\n1.00 (1.67)\n6.30*\n0.525"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      128.8500518798828,
+      512.16943359375,
+      137.31825256347656
+    ],
+    "text": "BAT Steps Completed Alone\n5.57 (3.46)\n8.14 (3.24)\n9.33 (0.82)\n4.63\n0.385"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      141.77589416503906,
+      512.1686401367188,
+      160.22218322753906
+    ],
+    "text": "BAT Steps Completed\nwith Parent\n6.86 (3.44)\n9.43 (0.79)\n9.67 (0.52)\n6.86*\n0.571"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      164.73658752441406,
+      512.1677856445312,
+      173.2047882080078
+    ],
+    "text": "MCID Total\n21.98 (12.87)\n46.86 (27.03)\n57.17 (25.69)\n10.33**\n0.861"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.582763671875,
+      181.04928588867188,
+      544.2216796875,
+      199.85084533691406
+    ],
+    "text": "CSR Clinician Severity Rating, BAT Behavioral Approach Task, MCID My Child’s Interactions with Dogs;\nEffect size: >0.10 = small effect; >0.30 = medium effect; >0.50 = large effect"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.58358764648438,
+      204.2218475341797,
+      250.77667236328125,
+      212.7766876220703
+    ],
+    "text": "*p < 0.05; **p < 0.01"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "378\nJournal of Child and Family Studies (2023) 32:373–383"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      667.8654174804688,
+      243.62255859375,
+      678.8244018554688
+    ],
+    "text": "Changes in Child Report of Fear (Table 1)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      693.7391357421875,
+      289.0968322753906,
+      716.1170654296875
+    ],
+    "text": "When child-reported fear ratings were explored, analyses\nalso demonstrated a signiﬁcant reduction in fear ratings"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.139892578125,
+      666.8646850585938,
+      544.2224731445312,
+      716.1165161132812
+    ],
+    "text": "(χ2(2) = 6.30, p = 0.043, W = 0.53). Means reduced from\n3.00 at pre-treatment on our 5-point scale, to 0.71 at post-\ntreatment, and then slightly increased to 1.0 at follow-up.\nPost-hoc Wilcoxon signed-rank tests found signiﬁcant"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      118.11323547363281,
+      493.86016845703125,
+      129.456298828125,
+      584.7423706054688
+    ],
+    "text": "0\n2\n4\n6\n8\n10"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      103.15233612060547,
+      514.7046508789062,
+      114.52953338623047,
+      563.6630249023438
+    ],
+    "text": "Fear Level"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      196.80099487304688,
+      471.7876892089844,
+      424.48492431640625,
+      483.1648864746094
+    ],
+    "text": "Part. 1\nPart. 3\nPart. 7\nPart. 6"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      118.93063354492188,
+      363.259765625,
+      130.27369689941406,
+      458.2980651855469
+    ],
+    "text": "0\n10\n20\n30\n40\n50\n60\n70"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      103.96964263916016,
+      373.3157653808594,
+      115.34683990478516,
+      429.86273193359375
+    ],
+    "text": "MCID Total"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      117.43327331542969,
+      193.28062438964844,
+      128.77633666992188,
+      278.91900634765625
+    ],
+    "text": "0\n2\n4\n6\n8\n10"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      102.47113800048828,
+      211.46922302246094,
+      113.84833526611328,
+      260.4276123046875
+    ],
+    "text": "Fear Level"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      230.04600524902344,
+      171.1412811279297,
+      390.5569152832031,
+      182.5184783935547
+    ],
+    "text": "Part. 2\nPart. 4\nPart. 5"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      116.54569244384766,
+      60.63731384277344,
+      127.88990020751953,
+      163.91954040527344
+    ],
+    "text": "0\n10\n20\n30\n40\n50\n60\n70\n80"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      101.5849380493164,
+      80.98014068603516,
+      112.9621353149414,
+      137.527099609375
+    ],
+    "text": "MCID Total"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\n379"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      207.6331329345703,
+      289.09381103515625,
+      242.90127563476562
+    ],
+    "text": "reductions in fear ratings from pre to post (Z = −2.23, p =\n0.026), but no signiﬁcant changes in fear from post to\nfollow-up (Z = −0.27, p = 0.785)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      256.89862060546875,
+      269.85614013671875,
+      280.3300476074219
+    ],
+    "text": "Changes in Approach Behavior (BAT and MCID;\nTable 1)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      295.1880187988281,
+      289.1242370605469,
+      566.6737670898438
+    ],
+    "text": "Although improvements were noted in the child-alone BAT,\nresults of a Friedman test demonstrated no signiﬁcant\nreduction in avoidance between pre-treatment assessment to\nfollow-up\n(χ2(2) = 4.63,\np = 0.099,\nW = 0.39).\nNone-\ntheless, all but one child completed eight or more steps of\nthe 10 step BAT at posttreatment and all six of the children\nwho completed the follow-up assessment completed eight\nor more steps. In contrast, a Friedman test demonstrated that\nwhen completing the BAT with their parent, children\ndemonstrated signiﬁcant reduction in avoidance between\nthe pre-treatment and follow-up assessments (χ2(2) = 6.86,\np = 0.032, W = 0.57). At both the post-treatment and\nfollow-up assessments all children completed at least\n8 steps (i.e., petting the dog but discontinuing before\n30 seconds) of the 10 possible steps Table 1.\nAnalyses also indicated a signiﬁcant increase in MCID\ntotal scores from the pre-treatment to follow-up assessments\n(χ2(2) = 10.33, p = 0.006, W = 0.86). Post-hoc Wilcoxon\nsigned-rank tests found signiﬁcant increases in approach\nbehaviors from pre to post (Z = −2.20, p = 0.028), but no\nsigniﬁcant changes from post to follow-up (Z = −1.78, p =\n0.075)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      580.7284545898438,
+      140.32411193847656,
+      591.6874389648438
+    ],
+    "text": "Satisfaction Results"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      606.1275634765625,
+      289.1067810058594,
+      716.1151733398438
+    ],
+    "text": "On average, parents reported being highly satisﬁed with the\ntreatment and their child’s improvement. They reported that\nthree months following treatment their children were\nbetween “a little bit fearful” and “somewhat fearful” com-\npared to other kids their age (9-point scale; M = 2.83, SD =\n2.56) and that their child’s fear interfered in his/her life\nbetween “not at all” and “a little bit” (9-point scale; M =\n1.17, SD = 1.17). Additionally, ﬁve of the six parents\nreported that they “agreed” or “strongly agreed” with the"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1448669433594,
+      681.2650146484375,
+      544.2033081054688,
+      716.1151733398438
+    ],
+    "text": "statements that treatment helped them cope better with their\nchild’s fear and that the treatment was helpful and effective.\nAll six parents indicated that they “agreed” or “strongly"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.024169921875,
+      59.60737991333008,
+      289.13470458984375,
+      177.7982940673828
+    ],
+    "text": "Fig. 1 Changes in Parent Report of Child Fear Levels and Dog\nApproach Behaviors across Time. Note. Parent rating of child fear and\ndog approach behaviors during pre-treatment baseline phase (3 or\n4 weeks), during treatment, and at post-treatment and follow-up\nassessments. Range of possible fear ratings was 0–10; lower scores\nrepresent improvement. Range of possible MCID Total scores was 0 to\n84; higher scores represent improvement. Participants 4 and 5 had\nidentical fear ratings at the post-treatment and follow-up assessments\n(i.e., 1 and 0). Participants 1 and 3 had near identical MCID scores\nduring the baseline sessions. Participant 6 did not complete the\n3-month follow-up. Part. Participant, MCID My Child’s Interactions\nwith Dogs"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1416931152344,
+      56.891639709472656,
+      455.1870422363281,
+      65.7151107788086
+    ],
+    "text": "Table 2 Parents’ Free Response Comments"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1417236328125,
+      75.60094451904297,
+      414.1653137207031,
+      84.06914520263672
+    ],
+    "text": "Comments During Treatment"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1417236328125,
+      88.29935455322266,
+      538.2684326171875,
+      166.8559112548828
+    ],
+    "text": "Participant 1: “[Child] is interested since she has questions and likes\nthe pictures, she can relate because she has a little brother, she was a\nlittle anxious when we got to the point of Addie petting the puppies,\nshe did not like that idea”. “This week [Child] was able to pet a\nChihuahua, she was afraid at the beginning but she did it two times\nwhile she was carried by myself and her father”. “[Child] likes the\nbook and she looks forward to keep reading and she sometimes even\nremember about the book when we see dogs”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1417236328125,
+      170.95828247070312,
+      538.2725830078125,
+      229.6154327392578
+    ],
+    "text": "Participant 2: “[Child] was able to pet some puppies that we visited.\nHe got a little startled when they barked but did well. They were six\nweeks old and I think pit bulls. The mother was outside at the time”.\n“[Child] has been very willing to try all the activities we have\nattempted so far”. “[Child] initiated petting a dog when we came\nacross it unexpectedly”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1426086425781,
+      233.71780395507812,
+      538.2835693359375,
+      322.2525329589844
+    ],
+    "text": "Participant 3: “She seems to already be more comfortable. We were\nable to go for a walk and two unknown dogs passed by. She did\nmove away, but she did not stop or cry and we did not have to hold\nher… which was the norm!” “We were unable to ﬁnd newborn\npuppies, but we looked at pictures, etc”. “Every day we drive by a\nfenced-in dog park that is near our house, so she sees dogs playing\nthere daily. She likes to play “doggy”, where she pretends to be a\ndog. She has spoken fondly of dogs several times (e.g., “He’s so\ncute!”). She has watched movies involving dogs as main characters”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1477355957031,
+      326.4116516113281,
+      538.2870483398438,
+      375.09075927734375
+    ],
+    "text": "Participant 4: “She seemed very happy to look at dogs and interacted\nwith a small, calm dog. She was much less anxious than in the past”.\n“She was very excited to pet several dogs over the weekend. She also\npetted a very small puppy and large rottweiler at a t-ball practice and\ndidn’t want to leave the dogs”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1502990722656,
+      379.1931457519531,
+      532.1316528320312,
+      397.9947204589844
+    ],
+    "text": "Participant 5: “He was excited to pet several dogs at a food truck\nrodeo. He did not seem scared. They were small and big dogs”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.15032958984375,
+      402.09710693359375,
+      533.2040405273438,
+      430.87677001953125
+    ],
+    "text": "Participant 6: “[Child] pet a small dog numerous times”. “Will be\ncompleting some more activities with a planned encounter in the\nupcoming days”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.1419372558594,
+      434.9765625,
+      538.2828979492188,
+      553.3887329101562
+    ],
+    "text": "Participant 7: “One of the ﬁrst times [Child] encountered a dog since\nstarting the Addie book, he said “Here is a chance for me to be\nbrave”. We were ﬂoored (and beaming with pride) when he said it,\nand now we re-use his phrase whenever he sees a dog”. “There were\n3 dogs at a family birthday party over the weekend. [Child] was\nnervous, but didn’t run away, scream, or cry. He pet one of the small,\ncalm dogs”. “We went to [pet store]. We looked at the puppies\nthrough the windows for a long time and discussed what they look\nlike and what they were doing. Eventually, we asked to pet some\ndogs. He pet 2 small, calm puppies. He didn’t want to hold them. He\ntried to get him to pet an Alaskan Malamute, which was bigger and\nmore energetic. He refused”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14532470703125,
+      557.8321533203125,
+      459.8793640136719,
+      566.3003540039062
+    ],
+    "text": "Comments Regarding Overall Satisfaction"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14532470703125,
+      570.4738159179688,
+      538.2838745117188,
+      589.2753295898438
+    ],
+    "text": "Participant 2: “I really liked the progressiveness of the treatment and\nhow it set him up for success”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14617919921875,
+      593.3777465820312,
+      536.4750366210938,
+      612.1792602539062
+    ],
+    "text": "Participant 4: “Very effective. Kids had a lot of fun and were very\nengaged in the process”."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14788818359375,
+      616.33837890625,
+      462.1261901855469,
+      625.1618041992188
+    ],
+    "text": "Participant 7: “The story helped immensely!”"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      306.14874267578125,
+      629.6195068359375,
+      531.1807861328125,
+      648.0657348632812
+    ],
+    "text": "Note. Comments During Treatment were captured throughout the\nfour weeks of intervention."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "380\nJournal of Child and Family Studies (2023) 32:373–383"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.022605895996094,
+      58.19062423706055,
+      289.0818176269531,
+      105.9309310913086
+    ],
+    "text": "agreed” that they would recommend the program to a friend\nwhose child has a similar problem. Of the six parents, three\nchose to write additional comments on the satisfaction\nmeasure (see Table 2)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      131.6427459716797,
+      106.99738311767578,
+      143.59783935546875
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      158.21803283691406,
+      289.1725158691406,
+      716.1046142578125
+    ],
+    "text": "The current pilot study explored the initial effectiveness of a\ntherapist-supported bibliotherapy intervention for speciﬁc\nphobias of dogs in young children. While substantial evi-\ndence supports the efﬁcacy of cognitive-behavioral treat-\nments for speciﬁc phobias in school-aged children and\nadolescents (Davis et al., 2011; 2019), less research has\nexplored whether these interventions are equally as effec-\ntive for preschool and early elementary school aged chil-\ndren. Furthermore, to our knowledge, only two prior studies\nhave utilized bibliotherapy to target young children’s spe-\nciﬁc phobias (Lewis et al., 2015; Santacruz et al., 2006).\nAlthough both studies supported the effectiveness of bib-\nliotherapy, they exclusively targeted speciﬁc phobias of\ndarkness.\nOverall, the study hypotheses were conﬁrmed; the\ntherapist-supported bibliotherapy intervention was found to\nbe acceptable to families and successful at reducing chil-\ndren’s fears of dogs. All seven families who began the\nintervention completed all four weekly videoconference\nsessions. Parents reported that they read approximately half\nof Addie and that Rambunctious Dog with their child each\nweek and completed an assortment of the exposure activ-\nities described in the book and parent guidebook. Addi-\ntionally, parent-reported satisfaction with the intervention\nwas high. Clinician rated speciﬁc phobia severity, and both\nparent and child fear ratings, reduced following treatment\nand remained stable at the three-month follow-up assess-\nment. Furthermore, the children’s avoidance of dogs\ndecreased per parent report of their behavior in the com-\nmunity as well as during the behavioral approach task\ncompleted in the clinic. Following treatment all children\ncould approach and pet an unfamiliar dog, whereas only\nthree of the seven children could do so before treatment.\nIt is also important to note that visual inspection of the\nchildren’s fear levels across the baseline sessions (Fig. 1)\nconﬁrms that the children’s fear levels were relatively stable\nprior to treatment. After the ﬁrst week of treatment, six of\nthe seven children’s fear ratings had reduced from their ﬁnal\nbaseline rating and the seventh child’s fear rating reduced\nfollowing the second week of treatment. This conﬁrms that\nthe post-treatment changes in phobia severity and fear rat-\nings was likely due to the intervention rather than to the sole\npassage of time.\nBased on the responses of parents during the weekly\nvideoconference calls, as well as written comments on"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.1422424316406,
+      58.59894561767578,
+      544.3346557617188,
+      716.103759765625
+    ],
+    "text": "forms (see Table 2), it appears that participants enjoyed the\nstory. Although some parents reported some difﬁculty\nlocating dogs, all eventually found creative ways to locate\nappropriate dogs (e.g., stores, hiking on park trails). Based\non parental comments (Table 2), it also appears that par-\nents understood from the children’s book or the parental\ninstructions that it was important to help the child\napproach dogs in a progressive manner from less threa-\ntening to more threatening dogs (e.g., from small to large\ndogs). There did appear to be at least one reported instance\nin which the parent probably moved too quickly from\nsuccess with a small dog to a large dog (a failed effort),\nsuggesting the need to further clarify some of the\ninstructions.\nDespite promising reductions in the children’s speciﬁc\nphobia severity following the intervention, this pilot study is\nnot without limitations and there are multiple domains in\nwhich future research can expand upon these ﬁndings.\nImportantly, the current sample was small and was largely\nhomogenous: all children lived in intact families with highly\neducated parents, ﬁve of the seven children were Caucasian,\nand all children had average or above average receptive and\nexpressive language abilities. As a result, the current ﬁnd-\nings may not generalize to more diverse samples. Particu-\nlarly, given the nature of bibliotherapy, children’s language\nabilities may play an important role in their ability to\ninternalize the information presented in the book. Addi-\ntionally, parents’ education level likely inﬂuences the time\nand resources they have available to read with their children\nand complete the recommended activities. Qualitatively, a\ncommon challenge parents discussed during the video-\nconference sessions was their ability to identify and access\nappropriate dogs to expose their children to in vivo. This\nchallenge may be more signiﬁcant in families with fewer\nresources, which could subsequently hinder children’s\nprogress. If a similar study is done in the future, researchers\nshould consider identifying resources for participants, such\nas agencies with comfort dogs available or local veterinar-\nians who may be able to help families locate dogs with\nwhich to practice exposure.\nFuture studies including larger, more diverse samples\ncould identify for which children and families the inter-\nvention is most effective. Furthermore, parental psycho-\npathology was not measured in the current study. However,\nparental\npsychopathology,\nparticularly\nanxiety,\ncould\ninﬂuence parents’ ability to facilitate their child’s exposure\nto dogs via the recommended activities and future studies\nshould explore the inﬂuence of parental psychopathology\non the implementation of bibliotherapy. Lastly, the asses-\nsors who completed the diagnostic interviews and assigned\nCSRs were not blind to the goals of the study and thus may\nhave been biased in their ratings of improvement following\ntreatment. Nonetheless, the assessors and therapist assigned"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\n381"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      58.60858917236328,
+      289.1327819824219,
+      716.1022338867188
+    ],
+    "text": "to each family were distinct and no individuals served as\nboth the assessor and therapist for the same family.\nWhile all children experienced reductions in their spe-\nciﬁc phobia clinical severity rating and fear ratings from the\ninitial baseline session to the three-month follow-up, at the\nthree-month follow-up three of the six children continued to\nmeet minimal diagnostic criteria for a speciﬁc phobia of\ndogs. Although it is possible that a longer-term follow-up\nwould ﬁnd that these children continue to improve, it is also\npossible that individual and familial differences could have\nreduced the effectiveness of the intervention. In addition to\nexploring these potential predictor variables, it is important\nthat bibliotherapy continue to be viewed as a low-intensity,\nnon-intrusive treatment method that can be increased for the\nchildren who do not experience clinically signiﬁcant change\nin their phobia. These children should be recommended for\nfurther, more intensive treatment, using a stepped care\napproach (Ollendick et al., 2018).\nFuture studies may also want to examine the effective-\nness of a higher dosage of the treatment. Following the four\nweeks the current book was used, 42.8% of the children no\nlonger met the diagnostic criteria for their primary Speciﬁc\nPhobia. This remission rate is lower than that found in other\nstudies\nthat\nincluded\ntherapist-supported\nbibliotherapy\n(Cobham, 2012; Rapee et al., 2006); however, those studies\ninvolved nine and twelve weeks of intervention, respec-\ntively. Considering that the current treatment only lasted for\nfour weeks and that most traditional CBT treatments last\nfrom 8 to 16 weeks, it would be useful to determine how\nfeasible it would be for families to engage in the reading\nand activities for a longer time and to determine how suc-\ncessful the book would be if used for a longer time. Nota-\nbly, two of the bibliotherapy studies utilizing Uncle\nLightfoot (Lewis et al., 2015; Santacruz et al., 2006) had\nshorter intervention windows (4 and 5-weeks, respectively)\nand high efﬁcacy. Whereas children have opportunities to\nbe exposed to darkness each day, and access to the dark is\nnot impacted by family schedules or resources, families of\nchildren with speciﬁc phobias of dogs may beneﬁt from a\nlonger intervention duration in order to complete more\nexposure activities.\nAn additional area of future research is the precise con-\ntent of the bibliotherapy book. Approximately 50% of\nchildren diagnosed with a speciﬁc phobia also meet criteria\nfor a second phobia diagnosis (Ollendick et al., 2010) and\nresearch has demonstrated that CBT for a targeted speciﬁc\nphobia results in signiﬁcant improvement in comorbid, non-\ntargeted speciﬁc phobias (Ryan et al., 2017). However,\nwhether this effect is also found for children who receive\nbibliotherapy has not yet been explored. The current study,\nas well as the two prior studies which targeted phobias of\ndarkness, utilized phobia-speciﬁc children’s books: the\nstories and illustrations speciﬁcally discussed fears of dogs"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      58.59656524658203,
+      544.2382202148438,
+      305.1465759277344
+    ],
+    "text": "and fears of the dark, respectively. It is possible that these\nphobia-speciﬁc books will have generalized effects similar\nto phobia-speciﬁc CBT; however, if this is not empirically\nsupported, development of a bibliotherapy book which\ntargets phobias generally may allow for a larger degree of\nimprovement in a subset of children.\nIn conclusion, the current pilot study provides initial\nsupport for the effectiveness of therapist-supported bib-\nliotherapy for young children with speciﬁc phobias of dogs.\nTogether with previous research involving children with\nspeciﬁc phobias of darkness, these studies support the use\nof bibliotherapy as a ﬁrst-line treatment for speciﬁc phobias\nin young children. This is especially promising for families\nwho live in underserviced areas or who have other restric-\ntions that would interfere with their ability to attend stan-\ndard, in-person, weekly therapy sessions. Additionally, the\nuse of bibliotherapy, supplemented with brief video-\nconference sessions with a therapist, is particularly relevant\nduring the current Covid-19 pandemic as it provides an\nalternative treatment method for all families."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      319.2041320800781,
+      466.20233154296875,
+      330.16314697265625
+    ],
+    "text": "Compliance with Ethical Standards"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      343.3041687011719,
+      524.163818359375,
+      352.1276550292969
+    ],
+    "text": "Conﬂict of Interest The authors declare no competing interests."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.14166259765625,
+      365.2444152832031,
+      544.2528076171875,
+      383.9892578125
+    ],
+    "text": "Publisher’s note Springer Nature remains neutral with regard to\njurisdictional claims in published maps and institutional afﬁliations."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.1416931152344,
+      410.0614929199219,
+      363.8608703613281,
+      422.0166015625
+    ],
+    "text": "References"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      306.14093017578125,
+      435.24517822265625,
+      544.2683715820312,
+      712.81103515625
+    ],
+    "text": "American Psychiatric Association. (2013). Diagnostic and statistical\nmanual of mental disorders (5th ed.). Arlington, VA.\nBanneyer, K. N., Bonin, L., Price, K., Goodman, W. K., & Storch, E.\nA. (2018). Cognitive behavioral therapy for childhood anxiety\ndisorders: a review of recent advances. Current Psychiatry\nReports, 20(8), 65.\nBarlow, D. H., Hayes, S. C., & Nelson, R. O. (1984). The scientist\npractitioner: Research and accountability in clinical and educa-\ntional settings. New York: Pergamon Press.\nCobham, V. E. (2012). Do anxiety-disordered children need to come\ninto the clinic for efﬁcacious treatment? Journal of Consulting\nand Clinical Psychology, 80(3), 465.\nCoffman,\nM.\nF.\n(1981–1987).\nUncle\nLightfoot.\nUnpublished\nmanuscripts.\nCoffman, M. F. (2012–2020). Uncle Lightfoot ﬂip that switch: Over-\ncoming fear of the dark. St. Petersburg, FL: Footpath Press LLC\n(D.C. Dusevitch, Illustrator).\nCoffman, M., Andrasik, F., & Ollendick, T. H. (2013). Bibliotherapy\nfor anxious and phobic youth. In C. A. Essau & T. H. Ollendick\n(Eds.), The Wiley-Blackwell handbook of the treatment of\nchildhood\nand\nadolescent\nanxiety\n(pp.\n275–300).\nWiley\nBlackwell.\nDavis, III, T. E., May, A., & Whiting, S. E. (2011). Evidence-based\ntreatment of anxiety and phobia in children and adolescents:\nCurrent status and effects on the emotional response. Clinical\nPsychology Review, 31(4), 592–602.\nDavis, III, T. E., Ollendick, T. H., & Öst, L. G. (2019). One-Session\ntreatment of speciﬁc phobias in children: Recent developments"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "382\nJournal of Child and Family Studies (2023) 32:373–383"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02057647705078,
+      59.65476608276367,
+      289.1531066894531,
+      606.1702270507812
+    ],
+    "text": "and a systematic review. Annual Review of Clinical Psychology,\n15, 233–256.\nDe Vries, Y. A., Al-Hamzawi, A., Alonso, J., Borges, G., Bruffaerts,\nR., Bunting, B., & Esan, O. (2019). Childhood generalized spe-\nciﬁc phobia as an early marker of internalizing psychopathology\nacross the lifespan: Results from the World Mental Health Sur-\nveys. BMC Medicine, 17(1), 1–11.\nDunn, L. M. Dunn, D. M. (2007). PPVT-4: Peabody picture voca-\nbulary test (4th ed.). Minneapolis, MN: Pearson Assessments.\nEgger, H. L., & Angold, A. (2006). Common emotional and beha-\nvioral disorders in preschool children: presentation, nosology,\nand epidemiology. Journal of Child Psychology and Psychiatry,\n47(3–4), 313–337.\nFarrell, L. J., Kershaw, H., & Ollendick, T. (2018). Play-modiﬁed one-\nsession treatment for young children with a speciﬁc phobia of\ndogs: A multiple baseline case series. Child Psychiatry & Human\nDevelopment, 49(2), 317–329.\nFarrell, L., Ollendick, T. H., & Muris, P. (Eds.) (2019). Innovations in\nCBT treatment for childhood anxiety, OCD, and PTSD. Cam-\nbridge: Cambridge University Press.\nKershaw, H., Farrell, L. J., Donovan, C., & Ollendick, T. H. (2017).\nCognitive behavioral therapy in a one-session treatment for a\npreschooler with speciﬁc phobias. Journal of Cognitive Psy-\nchotherapy, 31, 7–22.\nKopcsó, K., Láng, A., & Coffman, M. F. (2021). Reducing the\nnighttime fears of young children through a brief parent-delivered\ntreatment—Effectiveness of the Hungarian version of Uncle\nLightfoot. Child Psychiatry & Human Development, 1–12.\nLewis, K. M., Amatya, K., Coffman, M. F., & Ollendick, T. H. (2015).\nTreating nighttime fears in young children with bibliotherapy:\nEvaluating anxiety symptoms and monitoring behavior change.\nJournal of Anxiety Disorders, 30, 103–112.\nLieb, R., Miché, M., Gloster, A. T., Beesdo‐Baum, K., Meyer, A. H.,\n& Wittchen, H. U. (2016). Impact of speciﬁc phobia on the risk of\nonset of mental disorders: A 10‐year prospective‐longitudinal\ncommunity study of adolescents and young adults. Depression\nand Anxiety, 33(7), 667–675.\nLyneham, H. J., Abbott, M. J., & Rapee, R. M. (2007). Interrater\nreliability of the Anxiety Disorders Interview Schedule for DSM-\nIV: child and parent version. Journal of the American Academy of\nChild & Adolescent Psychiatry, 46(6), 731–736.\nLyneham, H. J., & Rapee, R. M. (2006). Evaluation of therapist-\nsupported parent-implemented CBT for anxiety disorders in rural\nchildren. Behaviour Research and Therapy, 44(9), 1287–1300.\nMikulas, W. L., Coffman, M. G., Dayton, D., Frayne, C., & Maier, P.\nL. (1986). Behavioral bibliotherapy and games for treating fear of\nthe dark. Child and Behavior Therapy, 7, 1–7. https://doi.org/10.\n1300/J019v07n03_01.\nMikulas, W. L., & Coffman, M. F. (1989). Home-based treatment of\nchildren’s fear of the dark. In C. E. Schaefer & J. M. Briesmeister\n(Eds.), Handbook of parent training: Parents as co-therapists for\nchildren’s behavior problems (pp. 179–202). John Wiley & Sons.\nMonga, S., Rosenbloom, B. N., Tanha, A., Owens, M., & Young, A.\n(2015). Comparison of child–parent and parent-only cognitive-\nbehavioral therapy programs for anxious children aged 5 to 7"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.1374206542969,
+      59.65775680541992,
+      544.2724609375,
+      606.1726684570312
+    ],
+    "text": "years: Short-and long-term outcomes. Journal of the American\nAcademy of Child & Adolescent Psychiatry, 54(2), 138–146.\nOar, E. L., Farrell, L. J., & Ollendick, T. H. (2019). Speciﬁc phobia. In\nS. N. Compton, M. A. Villabø, & H. Kristensen (Eds.) Pediatric\nAnxiety Disorders (pp. 127-150). San Diego, CA: Academic\nPress\nOllendick, T. H., Öst, L. G., & Farrell, L. J. (2018). Innovations in the\npsychosocial treatment of youth with anxiety disorders: Impli-\ncations for a stepped care approach. Evidence-based Mental\nHealth, 21(3), 112–115.\nOllendick, T. H., Öst, L. G., Reuterskiöld, L., Costa, N., Cederlund,\nR., Sirbu, C., & Jarrett, M. A. (2009). One-session treatment of\nspeciﬁc phobias in youth: a randomized clinical trial in the United\nStates and Sweden. Journal of Consulting and Clinical Psy-\nchology, 77(3), 504 https://doi.org/10.1037/a0015158.\nOllendick, T. H., Raishevich, N., Davis III I. I. I., T. E., Sirbu, C., &\nÖst, L. G. (2010). Speciﬁc phobia in youth: Phenomenology and\npsychological characteristics. Behavior Therapy, 41(1), 133–141.\nÖst, L. G. (1989). One-session treatment for speciﬁc phobias. Beha-\nviour Research and Therapy, 27(1), 1–7.\nÖst, L. G., Svensson, L., Hellström, K., & Lindwall, R. (2001). One-\nsession treatment of speciﬁc phobias in youths: A randomized\nclinical trial. Journal of Consulting and Clinical Psychology, 69\n(5), 814.\nRapee, R. M., Abbott, M. J., & Lyneham, H. J. (2006). Bibliotherapy\nfor children with anxiety disorders using written materials for\nparents: A randomized controlled trial. Journal of Consulting and\nClinical Psychology, 74(3), 436.\nRuocco, S., Gordon, J., & McLean, L. A. (2016). Effectiveness of a\nschool-based early intervention CBT group programme for chil-\ndren with anxiety aged 5–7 years. Advances in School Mental\nHealth Promotion, 9(1), 29–49.\nRyan, S. M., Strege, M. V., Oar, E. L., & Ollendick, T. H. (2017). One\nsession treatment for speciﬁc phobias in children: Comorbid\nanxiety disorders and treatment outcome. Journal of Behavior\nTherapy and Experimental Psychiatry, 54, 128–134.\nSantacruz, I., Méndez, F. J., & Sánchez-Meca, J. (2006). Play therapy\napplied by parents for children with darkness phobia: Comparison\nof two programmes. Child & Family Behavior Therapy, 28(1),\n19–35.\nSilverman, W. K., & Albano, A. M. (1996). Anxiety disorders inter-\nview schedule for DSM-IV: Child version. Oxford University\nPress.\nSilverman, W. K., Saavedra, L. M., & Pina, A. A. (2001). Test-retest\nreliability of anxiety symptoms and diagnoses with the Anxiety\nDisorders Interview Schedule for DSM-IV: child and parent\nversions. Journal of the American Academy of Child & Adoles-\ncent Psychiatry, 40(8), 937–944.\nWaters, A. M., Ford, L. A., Wharton, T. A., & Cobham, V. E. (2009).\nCognitive-behavioural therapy for young children with anxiety\ndisorders: Comparison of a child + parent condition versus a\nparent only condition. Behaviour Research and Therapy, 47(8),\n654–662.\nWilliams, K. T. (2007). Expressive vocabulary test (2nd ed.). Min-\nneapolis, MN: Pearson Assessments."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      51.02360153198242,
+      32.910560607910156,
+      544.2344970703125,
+      41.59999084472656
+    ],
+    "text": "Journal of Child and Family Studies (2023) 32:373–383\n383"
+  }
+]

@@ -1,0 +1,1512 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      55.20000076293945,
+      42.61790466308594,
+      139.26284790039062,
+      73.5311050415039
+    ],
+    "text": "~) Pergamon"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      281.2799987792969,
+      46.64202117919922,
+      442.35589599609375,
+      54.64602279663086
+    ],
+    "text": "J. Behav. Ther & Exp. Psychiat. Vol. 27, No. 3, pp. 281-290,19%"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      203.0399932861328,
+      52.88201141357422,
+      441.58203125,
+      74.85757446289062
+    ],
+    "text": "Copyright © 1996 Elsevier Science Ltd \nPrinted in Great Britain. All rights reserved \nS0005-7916(96)00023-7 \n0005-7916/96 $15.00 + 0.00"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      70.31999969482422,
+      115.07197570800781,
+      426.98699951171875,
+      131.6919708251953
+    ],
+    "text": "A SYSTEMATIC REPLICATION OF THE PRESCRIPTIVE"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      74.63999938964844,
+      129.7119903564453,
+      421.24078369140625,
+      146.3319854736328
+    ],
+    "text": "TREATMENT OF SCHOOL REFUSAL BEHAVIOR IN A"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      191.27999877929688,
+      144.5919952392578,
+      306.0654296875,
+      161.2119903564453
+    ],
+    "text": "SINGLE SUBJECT"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      111.5999984741211,
+      172.67201232910156,
+      385.9884033203125,
+      202.4919891357422
+    ],
+    "text": "BRUCE F. CHORPITA, ANNE MARIE ALBANO, \nRICHARD G. HEIMBERG and DAVID H. BARLOW"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      155.52000427246094,
+      199.09121704101562,
+      342.1920166015625,
+      211.89761352539062
+    ],
+    "text": "State University of New York, New York, U.S.A."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      103.19999694824219,
+      249.97119140625,
+      393.5686950683594,
+      428.85760498046875
+    ],
+    "text": "Summary -- We employed a multiple-baseline design to test the \nefficacy of a recently developed approach for reducing school refusal \nbehavior. This approach uses a systematic method for conducting a \nfunctional analysis for the target behaviors and. suggests specific \nintervention strategies based upon this analysis. To maximize external \nvalidity, the intervention was tested using a systematic replication \nstrategy, whereby only the major conceptual elements of the \nintervention were retained from previous applications. The subject \nwas a 10 year old girl who attended school with great difficulty and \nresistance and who was assigned DSM-III-R diagnoses of separation \nanxiety disorder and social phobia prior to treatment. Following \n8 weeks of treatment, she showed marked reductions in problem \nbehavior and no longer met criteria for any anxiety disorder diagnoses. \nThe results highlight the importance of the use of functional analytic \nstrategies to effect behavior change. Copyright © 1996 Elsevier \nScience Ltd"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      54.959999084472656,
+      468.3711853027344,
+      441.6038513183594,
+      588.9375610351562
+    ],
+    "text": "School refusal is a broad term used to describe the childhood syndrome characterized by \nunwillingness to attend school and recurrent absenteeism. Perhaps its most comprehensive \ndefinition comes from Pilkington and Piersel, 1991 (p. 291): \"the hallmark symptom...is refusal \nto attend school or remain in school once there, despite pressure, punishment, and/or \nrecrimination from parents, teachers and other school authorities\". The term \"school refusal \nbehavior\" need not include actual absenteeism, but can refer also to the syndrome of associated \nbehaviors that interfere with the child's family, peer relations, or academic functioning. These \ncommonly include features such as recurrent somatic complaints, chronic visits to the school \nnurse, crying before Or during school, tantrums, aggression, or truancy. Until recently, there has \nbeen difficulty arriving at a clear formulation of the syndrome (Kearney, in press), and"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      55.20000076293945,
+      607.0911865234375,
+      441.4627685546875,
+      619.8975830078125
+    ],
+    "text": "Requests for reprints should be sent to David H. Barlow, Center for Anxiety and Related"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      67.19999694824219,
+      617.8911743164062,
+      441.2345275878906,
+      641.737548828125
+    ],
+    "text": "Disorders, Boston University, 648 Beacon Street, 6th Floor, Boston, MA 02215-2002, \nU.S.A."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      242.8800048828125,
+      642.6111450195312,
+      257.9952392578125,
+      655.4175415039062
+    ],
+    "text": "281"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.439998626708984,
+      44.75847625732422,
+      304.173828125,
+      58.12502670288086
+    ],
+    "text": "282 \nBRUCE F. CHORPITA et al."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.20000076293945,
+      62.75847625732422,
+      440.4515075683594,
+      87.8850326538086
+    ],
+    "text": "therefore, traditional approaches to treatment have been quite heterogeneous and lacked \nconceptual direction."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      54.959999084472656,
+      86.75847625732422,
+      441.4509582519531,
+      233.08505249023438
+    ],
+    "text": "With regard to internalizing syndromes, school refusal behavior has historically been \nconceptualized in a number of different ways. For example, several attempts have been made to \nunderstand school refusal as a symptom of DSM-III and DSM-III-R anxiety or affective \ndisorders (Bernstein & Garfinkel, 1986; Last & Francis, 1988; Last, Francis, Hersen, Kazdin, & \nStrauss, 1987; Last & Strauss, 1990; Ollendick & Mayer, 1984). Further, there is question as to \nwhether the phenomenon is principally related to simple phobia (e.g., excessive fear of \nteachers), social phobia, separation anxiety, agoraphobia (e.g., afraid of feeling sick in school \nand having no way out), or an anxiety disorder not otherwise specified (e.g., test anxiety \nunrelated to social concerns). This diagnostic uncertainty has served to complicate school \nrefusal nosology; for example, some researchers continue to use the terms \"school phobia\" and \n\"school refusal\" interchangeably, considering them to be more or less conceptual equivalents \n(cf. Burke & Silverman, 1987; Kearney, in press)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      54.959999084472656,
+      231.95848083496094,
+      441.201171875,
+      257.0850524902344
+    ],
+    "text": "Current research on school refusal behavior acknowledges the prevailing conceptual \ninadequacy and speaks to the possibility of alternative nosological approaches (e.g., Kearney,"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      54.959999084472656,
+      255.95848083496094,
+      441.5404968261719,
+      414.2850341796875
+    ],
+    "text": "1995a; Pilkington & Piersel, 199l). One approach stems from basic behavioral principles of \nstandardized functional assessment (Kearney & Silverman, 1990). This approach draws from \nthe work of Durand (1990), who has focused on modifying challenging behaviors in children \nwith developmental disabilities and has developed a programmatic functional assessment \nstrategy for problem behaviors in children. In the context of treating school refusal behavior, \nthis method has been termed the \"prescriptive approach\"* (Burke & Silverman, 1987; Kearney \n& Silverman, 1990). It attempts to identify functional components of the school refusal \nbehavior, pointing to variables that may maintain the behavior. It most notably departs from a \ndiagnostic approach in that school refusal behavior is classified based on function rather than \ntopography. Although much of behavior therapy has always diverged from an emphasis on \ndiagnosis (Nelson, 1988), the present approach is nevertheless unique in that, in contrast to \ntraditional functional analysis, the assessment is mainly questionnaire-driven and therefore \nallows a rapid and unconstrained case formulation."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.20000076293945,
+      413.39849853515625,
+      441.3081359863281,
+      474.7650451660156
+    ],
+    "text": "Kearney and Silverman (1990) identified four functional aspects of school refusal behavior: \n(1) specific fearfulness or general over-anxiousness; (2) escape from aversive social stimuli; (3) \nattention-getting or separation anxious behavior; and (4) tangible reinforcement. Functional \nassessment of school refusal should suggest one or a combination of these categories and have \nclear implications for treatment."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      54.959999084472656,
+      473.87847900390625,
+      441.75018310546875,
+      534.7650146484375
+    ],
+    "text": "The purpose of the present study was to empirically evaluate prescriptive treatment of school \nrefusal behavior. Although the prescriptive approach is theoretically compelling and has \npreliminary support for its efficacy (Kearney & Silverman, 1990), no systematic replication has \nbeen conducted. Sidman (1960) highlights the critical difference between direct and systematic \nreplication in that the former represents identical duplication of the experimental design"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.91999816894531,
+      562.198486328125,
+      441.15020751953125,
+      575.3250122070312
+    ],
+    "text": "*The term \"prescriptive treatment\" has been used elsewhere in the literature to refer to"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      67.19999694824219,
+      573.2384643554688,
+      441.23797607421875,
+      629.8049926757812
+    ],
+    "text": "empirically based interventions differentially applied to specific disorders or their subtypes \n(e.g., Hersen & Ammerman, 1994). For the purposes of this manuscript, the term \nprescriptive treatment refers to the somewhat more general usage as articulated by Burke \nand Silverman (1987) to denote empirically-based interventions differentially applied to \nspecific behavior problems or syndromes as an outcome of functional analysis."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      201.83999633789062,
+      45.01119613647461,
+      441.45361328125,
+      57.817596435546875
+    ],
+    "text": "School Refusal Behavior \n283"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.959999084472656,
+      63.25118637084961,
+      441.6866149902344,
+      160.77761840820312
+    ],
+    "text": "whereas the latter allows several conditions to vary (cf. Kazdin, 1993). In the interest of \nevaluating the external validity of the prescriptive approach, treatment was conducted using the \nbasic conceptual ingredients of functional assessment and treatment as suggested by Kearney \nand Silverman (1990). No attempt was made to duplicate factors such as length of treatment, \nspecific session content, or session length; and no written protocol was used. In such a manner, \nthis study attempted to strengthen the external validity of the prescriptive approach and at the \nsame time to illustrate some of the challenges and critical features of a successful prescriptive \nintervention."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      231.60000610351562,
+      176.29122924804688,
+      264.8060607910156,
+      189.09762573242188
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      55.20000076293945,
+      195.37623596191406,
+      138.87965393066406,
+      209.73519897460938
+    ],
+    "text": "Subject Description"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.959999084472656,
+      220.69119262695312,
+      441.6866149902344,
+      341.97760009765625
+    ],
+    "text": "The subject was a 10 year, 2 month old girl in the fourth grade, referred for assessment due \nto difficulties with school refusal behavior. She had no previous treatment history and was not \non medication at the time of assessment or treatment. The initial assessment entailed the \nadministration of the Anxiety Disorders Interview Schedule, Child and Parent Versions (ADIS- \nC/P; Silverman, 1991). These are separate structured clinical interviews focusing on the \ndiagnosis of DSM-III-R anxiety disorders and their accompanying mood and behavioral \ndisturbances. These instruments have demonstrated adequate diagnostic reliability for \nchildhood anxiety disorders (Silverman & Eisen, 1992). Based on the information in the \ninitial diagnostic interviews, the child was assigned a principal DSM-III-R diagnosis of \nSeparation Anxiety Disorder and an additional diagnosis of Social Phobia."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      55.20000076293945,
+      341.17120361328125,
+      441.2995300292969,
+      426.9375915527344
+    ],
+    "text": "According to the parents, the child had a history of school refusal behavior since the first \ngrade, and it had been a daily struggle to get her to attend school. These problems abated during \nthe second and third grades and reappeared at the start of fourth grade. Typically, school refusal \nbehavior intensified each year in December and even more in January, following the winter \nholidays. According to the parents, the child cried daily about having to go to school and \nexhibited poor appetite and restless sleep. Despite these difficulties, however, the child had no \nextended periods of absenteeism, but rather, she endured school with marked distress."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      55.20000076293945,
+      426.1311950683594,
+      441.6575927734375,
+      523.6575927734375
+    ],
+    "text": "At intake, the child reported that she often worried about her parents' well-being (especially \nher mother's) when she was separated from them. In particular, she worried that her parents \ncould be hurt in some kind of accident. She was also concerned that something might happen to \nher while she was away from her parents. Accordingly, she usually felt sick or nauseous when it \nwas time to leave home to go to school. During separation, she experienced moderate to strong \nlevels of nausea, hot flushes, palpitations, breathlessness, derealization, lightheadedness, and a \nfear of dying. She claimed that these feelings had been present for as long as she could \nremember."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      55.439998626708984,
+      522.8511962890625,
+      441.574462890625,
+      595.4175415039062
+    ],
+    "text": "In addition to these fears of separation, the child experienced persistent apprehension about \ndoing or saying something to embarrass herself in social situations. She worried that classmates \nwould negatively evaluate her or make fun of her. Situations she reported as anxiety provoking \nincluded gym class, eating in the cafeteria, parties, riding on the school bus, speaking up in \nclass, and talking to teachers or the principal. Once again, despite considerable discomfort, she \ndid not avoid most of these situations."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      55.68000030517578,
+      594.3711547851562,
+      442.4066162109375,
+      630.9375610351562
+    ],
+    "text": "In addition to her difficulties with school-related anxiety, the child was also observed to \nperiodically engage in idiosyncratic speech. Specifically, she spoke in a style characteristic of \nmuch younger children, described by her parents as \"baby talk\". She spoke this way quite often,"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.91999816894531,
+      45.25118637084961,
+      304.1381530761719,
+      58.057586669921875
+    ],
+    "text": "284 \nBRUCE F. CHORPITA et al."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.68000030517578,
+      63.01119613647461,
+      440.67828369140625,
+      99.81759643554688
+    ],
+    "text": "although usually just among adults, and especially when the situation was aversive or boring. \nHer parents often scolded her for talking this way but stated they had minimal success in \nreducing its frequency."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.439998626708984,
+      99.01119232177734,
+      441.0679626464844,
+      136.05758666992188
+    ],
+    "text": "At pretreatment assessment, her levels of crying, b.rguing, tantruming, and complaining about \nminor somatic distress or school were reported by her mother to be at a steady and frequent \nlevel, at least one or two episodes per day."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.439998626708984,
+      147.78565979003906,
+      150.8063507080078,
+      160.38638305664062
+    ],
+    "text": "Functional Assessment"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      53.7599983215332,
+      171.73123168945312,
+      441.2607727050781,
+      244.777587890625
+    ],
+    "text": "As part of the diagnostic evaluation, the child and parents completed the School Refusal \nAssessment Scale (SRAS; Keamey, 1993). The SRAS is a 24-item self report measure for \nchildren and their parents designed to identify maintaining variables and functional \nrelationships associated with school refusal behavior. The SRAS has previously demonstrated \nadequate validity and reliability (Kearney, 1993). For this subject, scores from the mother, \nfather, and child versions of the SRAS were combined into a composite set of scores that are"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.20000076293945,
+      244.21121215820312,
+      441.0071105957031,
+      317.2575988769531
+    ],
+    "text": "illustrated in Figure 1. Because the variability of the scores is often limited, the scores are not \nmeant to be interpreted in terms of their absolute magnitude; rather, the relative ranking of the \nfactors is of greatest interest (Durand, 1990; Kearney, 1993). The assessment suggested that \n\"attention getting/separation anxious\" was the principle factor score, and hence, the primary \nfunction of the child's school refusal behavior. In accordance with the logic of prescriptive \ntreatment, a treatment plan involving shaping and differential reinforcement was chosen."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.68000030517578,
+      329.2256774902344,
+      194.332275390625,
+      341.826416015625
+    ],
+    "text": "Treatment Design And Procedure"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.20000076293945,
+      352.93121337890625,
+      441.34619140625,
+      498.6976013183594
+    ],
+    "text": "Treatment was administered by the first author, a clinical psychology doctoral candidate, in \nthe course of weekly sessions. During the first session, the practice of daily monitoring was \ndiscussed with the child and her mother. Monitoring was described as a necessary part of \nunderstanding the problems and how they might change over time. The child was instructed to \nwrite down in her diary any anxious or upsetting episodes as well as associated subjective units \nof distress (SUDS), a rating of fear on a scale ranging from 0 to 8. In addition, after the child \nhad been excused from the session, her mother was asked to keep a diary recording all of the \nchild's problem behaviors related to school refusal. The mother's monitoring was inteaded to \nbe done outside of the child' s awareness in order to minimize reactivity that was expected from \nthe childl This formulation was derived from information from the SRAS, which suggested that \nmother's attention (e.g., overt monitoring) might be a reinforcer for attention seeking behavior \nand could thus increase the occurrence of target behaviors."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      54.959999084472656,
+      498.1311950683594,
+      441.4466247558594,
+      629.49755859375
+    ],
+    "text": "The second session was used to ensure that monitoring was going as instructed and to begin \nto organize the target behaviors into meaningful domains for a multiple-baseline intervention. \nBy this session, the mother's monitoring was proceeding in a systematic and organized manner. \nThe girl's diary, however, was poorly completed. She made only a few entries, and these were \nlimited to rather trivial somatic complaints (e.g., \"my thumb was itchy\"). It was clear from the \ndiscrepancy in monitoring that the child's self-report would not be a reliable source of \nassessment data. Although the child diary was continued throughout the course of treatment for \ngeneral clinical purposes, those data were not used to evaluate the intervention. The mother's \ndata, on the other hand, were extensive and were thus organized into four general categories of \nproblem behaviors: somatic complaints, anger and tantrums, tears, and other complaints. By the \nend of the second session, it was agreed that these four domains would be examined in a"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      201.36000061035156,
+      45.51663589477539,
+      440.1228332519531,
+      57.682716369628906
+    ],
+    "text": "School Refusal Behavior \n285"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      100.55999755859375,
+      135.99325561523438,
+      111.44383239746094,
+      154.2863311767578
+    ],
+    "text": "0 \n0 u~"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      119.5199966430664,
+      71.16400146484375,
+      147.9711151123047,
+      85.013916015625
+    ],
+    "text": "3.5 \n'"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      118.80000305175781,
+      135.3159942626953,
+      135.97584533691406,
+      147.8468780517578
+    ],
+    "text": "2.5"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      128.16000366210938,
+      160.34561157226562,
+      185.85858154296875,
+      196.03746032714844
+    ],
+    "text": "2 d"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      119.27999877929688,
+      197.9560089111328,
+      135.60983276367188,
+      210.4868927001953
+    ],
+    "text": "1.5"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      136.8000030517578,
+      205.80401611328125,
+      330.01165771484375,
+      220.61392211914062
+    ],
+    "text": "s )ecific fear \nsocial \nattention \ntangibles"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      221.0399932861328,
+      223.63600158691406,
+      251.06781005859375,
+      236.16688537597656
+    ],
+    "text": "factor"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      352.32000732421875,
+      114.60400390625,
+      384.907470703125,
+      128.45391845703125
+    ],
+    "text": "E3child"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      352.0799865722656,
+      129.4840087890625,
+      393.4295654296875,
+      143.33392333984375
+    ],
+    "text": "nmother"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      352.0799865722656,
+      144.1240234375,
+      389.66546630859375,
+      157.97393798828125
+    ],
+    "text": "Eafather"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      98.16000366210938,
+      339.631103515625,
+      103.20240020751953,
+      354.6757507324219
+    ],
+    "text": "0 \n0"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      124.08000183105469,
+      271.2351989746094,
+      130.42108154296875,
+      283.1324768066406
+    ],
+    "text": "3"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      116.16000366210938,
+      298.3551940917969,
+      130.2677459716797,
+      310.2524719238281
+    ],
+    "text": "2.8"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      115.91999816894531,
+      325.7151794433594,
+      130.18614196777344,
+      337.6124572753906
+    ],
+    "text": "2.6"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      115.91999816894531,
+      353.55517578125,
+      130.02774047851562,
+      365.45245361328125
+    ],
+    "text": "2.4"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      115.68000030517578,
+      380.4351806640625,
+      129.78775024414062,
+      392.33245849609375
+    ],
+    "text": "2.2"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      123.12000274658203,
+      408.2751770019531,
+      129.46107482910156,
+      420.1724548339844
+    ],
+    "text": "2"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      129.36000061035156,
+      360.3980712890625,
+      314.46954345703125,
+      429.29248046875
+    ],
+    "text": "s \nN"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      136.32000732421875,
+      416.7640075683594,
+      312.54449462890625,
+      430.6139221191406
+    ],
+    "text": ")ecific fear social \nattention tangibles"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      208.8000030517578,
+      433.6360168457031,
+      238.82781982421875,
+      446.1668701171875
+    ],
+    "text": "factor"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      319.44000244140625,
+      291.7659912109375,
+      328.4673767089844,
+      296.0528869628906
+    ],
+    "text": "\"\" \nI"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      319.44000244140625,
+      326.2936096191406,
+      397.9524230957031,
+      350.41864013671875
+    ],
+    "text": "...... I ~c°mp°site I"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      314.1600036621094,
+      409.3782653808594,
+      316.5284118652344,
+      416.358642578125
+    ],
+    "text": "/"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.720001220703125,
+      448.9566345214844,
+      440.25927734375,
+      471.2027282714844
+    ],
+    "text": "Figure 1. Individual and composite scores from the School Refusal Assessment Scale. Note: \"specific \nfear\" = specific fearfulness or general over-anxiousness; \"social\" = escape from aversive social stimuli;"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      55.439998626708984,
+      469.11663818359375,
+      430.2941589355469,
+      481.28271484375
+    ],
+    "text": "\"attention\" = attention-getting or separation anxious behavior; \"tangibles\" = tangible reinforcement."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.959999084472656,
+      499.5966491699219,
+      440.0462646484375,
+      536.0027465820312
+    ],
+    "text": "multiple baseline across behaviors. Both the child and her mother were instructed to continue \nmonitoring for another week before beginning any part of the intervention, thus providing a \n2 week initial baseline."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.720001220703125,
+      535.836669921875,
+      441.23358154296875,
+      619.28271484375
+    ],
+    "text": "The intervention was introduced in the third session. Consistent with the prescriptive \napproach for \"attention seeking or separation anxious\" behavior, differential reinforcement was \nsuggested to minimize problem behaviors. The intervention was described as the consistent and \nvigilant delivery of parents' attention only to those child behaviors other than the one chosen \nfor intervention for that week. That is, the target behavior would be completely ignored and \nplaced on an extinction schedule. The child and her mother were told how certain problems can \nbe made to persist simply by \"poor communication\" among family members. The purpose of"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.68000030517578,
+      45.263916015625,
+      303.7916259765625,
+      57.99014663696289
+    ],
+    "text": "286 \nBRUCE F. CHORPITA et al."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.20000076293945,
+      63.263916015625,
+      440.778564453125,
+      99.99014282226562
+    ],
+    "text": "the intervention, it was explained, was to change these communication patterns and to see if \nthat helped to reduce difficulties associated with school attendance. Parents were told not to \n\"ignore their child\", but simply to ignore her problem behaviors."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.959999084472656,
+      99.50390625,
+      440.6455383300781,
+      208.71014404296875
+    ],
+    "text": "In addition, activities in the family were used as functional substitutes for the child's school \nrefusal behavior. That is, other ways to get attention were set up so that the child would have \nefficient and appropriate methods to get the attention she desired from her parents. For \nexample, she chose cooking with her mother as an activity she would like to do for herself and \nher family. Her mother was instructed to give her much praise for these behaviors and to have \nthe father do the same. The goal was to create a reinforcement schedule for behaviors \nfunctionally equivalent to the target behaviors. The use of naturally occurring reinforcers over \ncontrived praise or other types of reinforcers was selected because of more favorable \nimplications for relapse prevention (cf. Ferster, 1967)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.959999084472656,
+      208.22390747070312,
+      440.9622497558594,
+      365.670166015625
+    ],
+    "text": "Session 3, then, began with the application of this intervention to the first domain of \nbehavior, somatic complaints. Mother was told that any other problems behaviors were to be \nattended to as usual. This was continued through session 4, which involved fine-tuning of some \nproblems using role play and discussion. For example, the child was asked to act out a \nchallenging episode of school refusal behavior (e.g., complaining, seeking reassurance, saying \n\"you don't care about me\") in the session to allow the mother the opportunity to practice \nselectively ignoring these target behaviors. These role-plays allowed for identification of the \nmore challenging behaviors (i.e., most difficult to ignore) and hence allowed the mother to be \nalert and more prepared for their occurrence at home. In addition, specific feedback was \nprovided following these role-plays to reinforce the mother for proper administration and to \npoint out where she had either failed to ignore or had over-generalized the intervention (i.e., \nignored non-target behaviors). Finally, these role plays also assisted the child in understanding \nthe nature of the contingency being established for home."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.959999084472656,
+      365.4239196777344,
+      440.11077880859375,
+      414.150146484375
+    ],
+    "text": "In sessions 5 and 6, anger and tantrums were targeted using the differential reinforcement \nintervention for 2 weeks, and then crying was targeted in the following two weeks (sessions 7 \nand 8). Other complaints were never targeted directly but were not observed following session \n8 (see Figure 2)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      232.0800018310547,
+      437.6639099121094,
+      262.9544982910156,
+      450.150146484375
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.720001220703125,
+      462.1439208984375,
+      440.9622497558594,
+      510.8701477050781
+    ],
+    "text": "Results are summarized in Figure 2. Baseline monitoring demonstrated substantial school \nrefusal behavior across all four domains. Although variability during baseline was moderate, \nthe trend and level of these behaviors were rather stable and indicated a steady presentation of \nschool refusal behavior before the intervention was introduced."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.959999084472656,
+      510.1439208984375,
+      440.1584777832031,
+      629.190185546875
+    ],
+    "text": "The somatic complaints targeted in the first phase of the intervention decreased to zero \nfrequency after the first 3 days. During the last 2 of those same 3 days, the behaviors in the \nnon-targeted domains were not observed. Thereafter, these non-targeted behaviors returned to \ntheir baseline level for the remainder of the first phase of treatment. Somatic complaints \nremained at a reduced level throughout treatment, occurring only once in the remaining \n60 days. The second phase change was marked by immediate decrease in the target behavior. \nAnger and tantrum behavior returned at day 40 to day 45, but was not observed again. The \nremaining non-targeted behaviors initially decreased to minimal levels during this second phase \nof treatment, but returned to near baseline level at approximately day 35. The third phase \nchange also showed immediate termination of the targeted behavior. All other target behaviors"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      201.60000610351562,
+      46.52751541137695,
+      440.69219970703125,
+      57.41295623779297
+    ],
+    "text": "School Refusal Behavior \n287"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.0,
+      71.08597564697266,
+      102.14291381835938,
+      81.96805572509766
+    ],
+    "text": "5"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.0,
+      89.3260269165039,
+      102.14291381835938,
+      100.2081069946289
+    ],
+    "text": "4"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.0,
+      107.5660171508789,
+      102.14291381835938,
+      118.4480972290039
+    ],
+    "text": "3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.0,
+      126.0459976196289,
+      102.14291381835938,
+      136.92807006835938
+    ],
+    "text": "2"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.72000122070312,
+      144.28598022460938,
+      102.8629150390625,
+      155.16806030273438
+    ],
+    "text": "1"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.23999786376953,
+      162.52597045898438,
+      102.3829116821289,
+      173.40805053710938
+    ],
+    "text": "0"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      102.4800033569336,
+      170.92599487304688,
+      108.62291717529297,
+      181.80807495117188
+    ],
+    "text": "0"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.4800033569336,
+      276.0459899902344,
+      102.62291717529297,
+      286.9280700683594
+    ],
+    "text": "1"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      66.0,
+      291.98199462890625,
+      109.86972045898438,
+      311.046875
+    ],
+    "text": "° \no \nt,- \no"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      66.23999786376953,
+      322.4440002441406,
+      81.06953430175781,
+      337.31561279296875
+    ],
+    "text": "ET"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      63.36000061035156,
+      341.32598876953125,
+      102.8629150390625,
+      364.5668640136719
+    ],
+    "text": "t_ \n5 \nLL"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      121.68000030517578,
+      170.68600463867188,
+      149.4958038330078,
+      181.56808471679688
+    ],
+    "text": "5 \n10"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      217.9199981689453,
+      68.04397583007812,
+      306.7629089355469,
+      82.91557312011719
+    ],
+    "text": "Somatic Complaints"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      162.47999572753906,
+      170.68600463867188,
+      416.0751953125,
+      181.56808471679688
+    ],
+    "text": "5 \n20 \n25 \n30 \n35 \n40 \n45 \n50 \n55 \n60 \n65 \n70 \n/\n~"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      216.47999572753906,
+      194.76400756835938,
+      307.5299072265625,
+      209.63560485839844
+    ],
+    "text": "Anger and Tantrums"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.27999877929688,
+      214.44400024414062,
+      214.20394897460938,
+      229.3155975341797
+    ],
+    "text": "i"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.27999877929688,
+      228.15280151367188,
+      211.9966583251953,
+      244.45672607421875
+    ],
+    "text": "I \nI"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      209.52000427246094,
+      289.352783203125,
+      211.9966583251953,
+      298.93670654296875
+    ],
+    "text": "I"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      121.91999816894531,
+      301.96600341796875,
+      427.9625244140625,
+      312.84808349609375
+    ],
+    "text": "5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n45 \n50 \n55 \n60 \n65 \n70 \n/ 4m2~--~"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      251.75999450683594,
+      342.60400390625,
+      278.6697998046875,
+      357.4756164550781
+    ],
+    "text": "Tears"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.4800033569336,
+      360.0459899902344,
+      102.62291717529297,
+      370.9280700683594
+    ],
+    "text": "4"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.72000122070312,
+      378.0459899902344,
+      102.8629150390625,
+      388.9280700683594
+    ],
+    "text": "3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      97.19999694824219,
+      411.8075256347656,
+      294.04925537109375,
+      422.6929626464844
+    ],
+    "text": "1 \nJ"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      96.95999908447266,
+      432.9275207519531,
+      102.65160369873047,
+      443.8129577636719
+    ],
+    "text": "0"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      103.19999694824219,
+      440.8475341796875,
+      418.18560791015625,
+      451.73297119140625
+    ],
+    "text": "0 \n5 \n10 \n15 \n20 \n25 \n30 \n35 \n40 \n45 I 50 \n55 \n60 \n65 \n70 \n24mfu"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      289.67999267578125,
+      450.10430908203125,
+      291.8270263671875,
+      466.3715515136719
+    ],
+    "text": "I \nI"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      97.91999816894531,
+      472.5160217285156,
+      302.24786376953125,
+      485.046875
+    ],
+    "text": "5 \nOther Complaints"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      97.91999816894531,
+      497.43280029296875,
+      101.63497161865234,
+      507.0167236328125
+    ],
+    "text": "4"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      98.16000366210938,
+      514.3660278320312,
+      104.30291748046875,
+      525.2481079101562
+    ],
+    "text": "3"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      98.16000366210938,
+      532.8460083007812,
+      104.30291748046875,
+      543.7280883789062
+    ],
+    "text": "2"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      98.87999725341797,
+      550.8460083007812,
+      105.02291107177734,
+      561.7280883789062
+    ],
+    "text": "1"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      98.63999938964844,
+      568.8460083007812,
+      104.78291320800781,
+      579.7280883789062
+    ],
+    "text": "0"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      104.63999938964844,
+      576.0460205078125,
+      421.0381164550781,
+      587.8881225585938
+    ],
+    "text": "0 \n20 \n25 \n30 \n35 \n40 \n45 \n50 \n55 \n60 \n65 \n70 \n24mfu"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      255.1199951171875,
+      591.9639892578125,
+      280.94537353515625,
+      606.8356323242188
+    ],
+    "text": "Days"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      54.720001220703125,
+      617.967529296875,
+      388.1122131347656,
+      628.8529663085938
+    ],
+    "text": "Figure 2. Multiple baseline across four target behaviors demonstrating frequency per day."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.68000030517578,
+      45.02392578125,
+      304.2716369628906,
+      57.75015640258789
+    ],
+    "text": "288 \nBRUCE F. CHORPITA et al."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.439998626708984,
+      63.02392578125,
+      440.7010803222656,
+      87.51016235351562
+    ],
+    "text": "were also observed to have ceased or remained at zero frequency, and thus, no further \nintervention was introduced targeting other complaints."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.20000076293945,
+      87.02392578125,
+      441.4422912597656,
+      172.23013305664062
+    ],
+    "text": "These reductions in the frequency of school refusal behavior were maintained at a 2 week \npost-treatment assessment. Post-treatment independent diagnostic evaluation yielded diagnoses \nof Separation Anxiety Disorder, full remission and Social Phobia, full remission. At the \n24 month follow-up assessment, no criteria were met for any diagnosis, and 1 week of \nmonitoring demonstrated no occurrence of problem behaviors. In addition, retrospective \nreporting at the follow-up assessment indicated no notable recurrence of the target behaviors or \ndiagnoses during the 2 year interval."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      225.1199951171875,
+      195.98391723632812,
+      270.8237609863281,
+      208.47015380859375
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.959999084472656,
+      220.22390747070312,
+      441.4422607421875,
+      305.4301452636719
+    ],
+    "text": "The present study is informative in that it demonstrates a successful intervention while \ndeparting rather dramatically from the typical topographical approach of matching diagnosis to \ntreatment. Indeed, the comprehensive treatment for separation anxiety disorder and social \nphobia would have involved other interventions focused on these specific diagnoses while only \nindirectly addressing the concomitant school refusal behavior. The data suggest that in cases of \nschool refusal, a functional, prescriptive approach directed primarily at the child's school \nrefusal behavior may be the most parsimonious strategy."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.959999084472656,
+      305.1839294433594,
+      440.8984680175781,
+      438.3901672363281
+    ],
+    "text": "One notable pattern in the data concerns the potential role of rule governance in modifying \nchildren's behavior. That is, the therapist's having described each phase change and associated \ncontingency shift to the child might well have facilitated the extinction of attention-seeking \nbehavior. Indeed, in this particular case, the \"extinction burst\" one would typically expect in an \nextinction paradigm did not occur. The child did test the contingency during the first extinction \nphase, but not thereafter. One would not typically expect behavior to extinguish immediately in \nthe absence of rule governance. Of course, such a hypothesis would have been better tested by \nonly alerting the child to some phase changes and not others. Thereby, one could compare the \nrate of extinction for rule-governed vs purely operant conditioning trials. Nevertheless, the \npattern suggests the importance of stating contingency changes clearly to the child in order to \nminimize extinction bursts or other potential problems."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.959999084472656,
+      437.9039306640625,
+      440.5946960449219,
+      570.1502075195312
+    ],
+    "text": "One particular problem in assessing the integrity of the intervention involved inadequate \nmonitoring of positive behavior. The prescriptive approach hypothesizes that a functional \nsubstitute for the problem behavior is an integral part of the intervention. However, there was \nno parent monitoring of the child's positive behaviors (e.g., cooking) to support the hypothesis \nthat increases in functionally equivalent positive behaviors will assist with decreases in the \ntarget behaviors. One would susPect that if this positive behavior showed an increase \ncorresponding with the decrease of negative attention seeking, then the inclusion of a functional \nsubstitute was a key ingredient in the treatment. Otherwise, one might argue that extinction \nalone was sufficient for.treatment. Although the frequency of positive attention seeking was \nnoted to increase, such data were not gathered systematically. Future studies should evaluate \nthe necessity of this positive behavior component of treatment."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.20000076293945,
+      569.6639404296875,
+      441.2022705078125,
+      617.43017578125
+    ],
+    "text": "Another concern involved the reliability of the diary measurements. The use of multiple \nraters as a reliability check is not often feasible in the treatment of child cases. Because much of \nthe behavior involved the mother-child dyad, it was especially difficult to identify a second \nadult who would be able to accurately monitor the child's behavior."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      65.04000091552734,
+      616.7039184570312,
+      440.28070068359375,
+      629.190185546875
+    ],
+    "text": "Another pattern worth noting involved the apparent lack of treatment specificity within"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      201.83999633789062,
+      45.02392578125,
+      441.4679870605469,
+      57.51016616821289
+    ],
+    "text": "School Refusal Behavior \n289"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      54.959999084472656,
+      63.263916015625,
+      441.6822204589844,
+      209.19015502929688
+    ],
+    "text": "phases. That is, treatment seemed to generalize a bit to domains not yet targeted by the \ndifferential reinforcement intervention, particularly to the last target. This may reflect a number \nof different phenomena. First, it is possible that some exogenous or non-specific variable had \nits effect on all problem behaviors. For example, not wanting to come to treatment any more \nmay have made the child work harder to control her behavior. What seemed to be more \nprobable, however, was that the final category represented non-specific behaviors. For \nexample, over the course of treatment, it became clear that \"other complaints\" almost never \noccurred in the absence of \"anger and tantrums\". Thus, the behavior change noted in the fourth \ndomain may not represent generalization of the intervention. This highlights the difficulty of \nestablishing well-defined and independent categories within which to intervene in a multiple- \nbaseline design, a process often conducted at the beginning of treatment, when one is least \nfamiliar with the child."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.20000076293945,
+      208.70391845703125,
+      441.2521057128906,
+      293.91015625
+    ],
+    "text": "One final comment involves the assessment instrument itself. The SRAS used in this study \nwas a preliminary version of a measure that has recently been updated. Psychometric support \nfor the SRAS is somewhat limited, and its validity stems mainly from earlier treatment- \noutcome work (Kearney, 1995a). Future study investigating a functional treatment approach for \nschool refusal behavior should include and evaluate the School Refusal Assessment Scale-- \nRevised (Kearney, 1995b), a measure conceptually identical to the SRAS that has been revised \nto improve its administration and psychometrics (see Kearney, 1995b)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.20000076293945,
+      293.4239196777344,
+      441.1671142578125,
+      402.8701477050781
+    ],
+    "text": "In general, school refusal behavior reflects an enormous complexity and diversity, often \nchallenging to the clinician. An increased understanding of school refusal will most likely \nresult from the continued dissemination of expedient approaches to functional analysis, rather \nthan those approaches that employ non-specific strategies or that are limited to diagnosis-to- \ntreatment matching. The prescriptive approach (Kearney & Silverman, 1990; Burke & \nSilverman, 1987), while perhaps not providing a definitive division or classification of the \nphenomenon, appears to have preliminary support. Unquestionably, the value of research that \ncontinues to evaluate and refine the meaningful dimensions of school refusal behavior and their \nappropriate treatments cannot be overstated."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      207.83999633789062,
+      422.3039245605469,
+      288.798828125,
+      434.7901611328125
+    ],
+    "text": "Acknowledgements"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.439998626708984,
+      442.46392822265625,
+      441.0350646972656,
+      465.0301513671875
+    ],
+    "text": "This research was supported in part by NIMH grant #MH49691. A portion of this research was presented \nat the 1994 meeting of the Anxiety Disorders Association of America, Santa Monica, California."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      225.60000610351562,
+      496.94390869140625,
+      272.0520935058594,
+      509.4301452636719
+    ],
+    "text": "References"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.91999816894531,
+      519.98388671875,
+      441.4397277832031,
+      532.4701538085938
+    ],
+    "text": "Bernstein, G. A., & Garfinkel, B. D. (1986). School phobia: The overlap of affective and"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.91999816894531,
+      531.263916015625,
+      440.6673583984375,
+      554.6416015625
+    ],
+    "text": "anxiety disorders. Journal of the American Academy of Child Psychiatry, 25, 235-241. \nBurke, A. E., & Silverman, W. K. (1987). The prescriptive treatment of school refusal. Clinical"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.91999816894531,
+      553.5839233398438,
+      439.032958984375,
+      576.7216186523438
+    ],
+    "text": "Psychology Review, 7, 353-362. \nDurand, V. M. (1990). Severe behavior problems: A ,functional approach to communication"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.68000030517578,
+      575.1838989257812,
+      441.46221923828125,
+      598.5615844726562
+    ],
+    "text": "training. New York: Guilford. \nFerster, C. F. (1967). Arbitrary and natural reinforcement. The Psychological Record, 17, 341-"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      56.15999984741211,
+      597.263916015625,
+      441.18450927734375,
+      620.401611328125
+    ],
+    "text": "347. \nHersen, M., & Ammerman, R. T. (Eds) (I 994). Handbook of prescriptive treatments.fi~r adults."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      68.16000366210938,
+      618.8638916015625,
+      176.3158416748047,
+      631.3501586914062
+    ],
+    "text": "New York: Plenum Press."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.959999084472656,
+      44.99846649169922,
+      303.864501953125,
+      58.12502670288086
+    ],
+    "text": "290 \nBRUCE F. CHORPITA et al."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.720001220703125,
+      61.79845428466797,
+      440.4355163574219,
+      74.92501068115234
+    ],
+    "text": "Kazdin, A. E. (1993). Research design in clinical psychology (2nd ed.). Boston: Allyn &"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.47999954223633,
+      73.07848358154297,
+      439.5612487792969,
+      97.0050277709961
+    ],
+    "text": "Bacon. \nKearney, C. A. (1993). Measuring the function of school refusal behavior: The School Refusal"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.47999954223633,
+      94.91851043701172,
+      440.2322692871094,
+      119.08504486083984
+    ],
+    "text": "Assessment Scale. Journal of Clinical Child Psychology, 22, 85-96. \nKeamey, C. A. (in press). The evolution and reconciliation of taxonomic strategies for school"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.47999954223633,
+      117.23845672607422,
+      440.05224609375,
+      141.40505981445312
+    ],
+    "text": "refusal behavior. Clinical Psychology: Science and Practice. \nKearney, C. A. (1995a). School refusal behavior. In A. R. Eisen, C. A. Kearney, & C. E."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      139.31846618652344,
+      438.591552734375,
+      174.76504516601562
+    ],
+    "text": "Shaefer (Eds), Clinical handbook of anxiety disorders in children and adolescents. \nNorthvale: Aronson Inc. \nKearney, C. A. (1995b, July). The assessment of school refusal behavior in youngsters: Facts,"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      64.55999755859375,
+      172.67845153808594,
+      439.6445007324219,
+      185.80502319335938
+    ],
+    "text": "fallacies and future directions. Symposium presented at the meeting of the World Congress"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.47999954223633,
+      183.7184600830078,
+      440.9766845703125,
+      207.88504028320312
+    ],
+    "text": "of Behavioural and Cognitive Therapies, Copenhagen, Denmark. \nKearney, C. A., & Silverman, W. K. (1990). A preliminary analysis of a functional model of"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      205.79847717285156,
+      440.2334899902344,
+      229.96505737304688
+    ],
+    "text": "assessment of school refusal behavior. Behavior Modification, 14, 340-366. \nLast, C. G., & Francis, G. (1988). School phobia. In B. B. Lahey & A. E. Kazdin (Eds),"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      228.1184844970703,
+      439.90899658203125,
+      252.2850341796875
+    ],
+    "text": "Advances in Clinical Child Psychology (Vol. 11, pp. 193-222). New York: Plenum Press. \nLast, C. G., Francis, G., Hersen, M., Kazdin, A. E., & Strauss, C. C. (1987). Separation anxiety"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.0,
+      250.43846130371094,
+      440.0289611816406,
+      285.6450500488281
+    ],
+    "text": "and school phobia: A comparison using DSM-III criteria. American Journal of Psychiatry, \n144, 653-657. \nLast, C. G., & Strauss, C. C. (1990). School refusal in anxiety disordered children and"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      283.5585021972656,
+      439.2747802734375,
+      307.48504638671875
+    ],
+    "text": "adolescents. Journal of the American Academy of Child Adolescent Psychiatry, 29, 31-35. \nNelson, R. O. (1988). Relationships between assessment and treatment within a behavioral"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      305.63848876953125,
+      439.80059814453125,
+      329.8050537109375
+    ],
+    "text": "perspective. Journal of Psychopathology and Behavioral Assessment, 2, 155-170. \nOllendick, T. H., & Mayer, J. A., (1984). School phobia. In S. M. Turner (Ed.), Behavioral"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.0,
+      327.7184753417969,
+      439.3824462890625,
+      351.8850402832031
+    ],
+    "text": "treatment of anxiety disorders (pp. 367-406). New York: Plenum Press. \nPilkington, C. L., & Piersel, W. C. (1991). School phobia: A critical analysis of the separation"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      350.0384826660156,
+      439.99676513671875,
+      396.2850341796875
+    ],
+    "text": "anxiety theory and an alternative conceptualization. Psychology in the Schools, 28, 290- \n303. \nSidman, M. (1960). Tactics of scientific research. New York: Basic Books. \nSilverman, W. K. (1991). The anxiety disorders interview schedule for children: Child and"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.2400016784668,
+      394.198486328125,
+      439.50006103515625,
+      418.60504150390625
+    ],
+    "text": "parent versions. Albany, NY: Graywind Publications. \nSilverman, W. K., & Eisen, A. R. (1992). Age differences in the reliability of parent and child"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.27999877929688,
+      416.51849365234375,
+      439.15875244140625,
+      440.68505859375
+    ],
+    "text": "reports of anxious symptomatology using a structured interview. Journal of the American \nAcademy of Child and Adolescent Psychiatry, 32, 117-124."
+  }
+]

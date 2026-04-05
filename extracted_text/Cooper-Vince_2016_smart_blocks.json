@@ -1,0 +1,4394 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      130.7076416015625,
+      17.409997940063477,
+      529.4119262695312,
+      71.13800811767578
+    ],
+    "text": "HHS Public Access Author manuscript Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      18.176000595092773,
+      66.86399841308594,
+      34.66400146484375,
+      163.93199157714844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.48681640625,
+      71.86200714111328,
+      194.08779907226562,
+      84.13800811767578
+    ],
+    "text": "November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.0,
+      89.41999816894531,
+      515.7099609375,
+      112.58000183105469
+    ],
+    "text": "Published in final edited form as: Evid Based Pract Child Adolesc Ment Health. 2016 ; 1(1): 24–39. doi:10.1080/23794925.2016.1191976.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.00199890136719,
+      127.66999816894531,
+      501.64385986328125,
+      164.3300018310547
+    ],
+    "text": "Videoteleconferencing Early Child Anxiety Treatment: A Case Study of the Internet-Delivered PCIT CALM (I-CALM) Program",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.00402069091797,
+      177.9199981689453,
+      368.19403076171875,
+      239.8000030517578
+    ],
+    "text": "Christine E. Cooper-Vince , Psychiatry, Massachusetts General Hospital, Boston, MA, USA Tommy Chou , Florida International University, Miami, FL, USA",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      18.176000595092773,
+      235.93199157714844,
+      34.66400146484375,
+      332.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.00402069091797,
+      246.20001220703125,
+      504.61383056640625,
+      356.0799865722656
+    ],
+    "text": "Jami M. Furr , Center for Children and Families, Florida International University, Miami, FL, USA Anthony C. Puliafico , and Columbia University Medical Center, New York, NY, USA Jonathan S. Comer Mental Health Interventions and Technology (MINT) Program, Florida International University, Miami, FL, USA",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      89.99404907226562,
+      369.41998291015625,
+      501.7060852050781,
+      415.14398193359375
+    ],
+    "text": "Abstract Anxiety disorders are one of the most prevalent and impairing classes of mental health difficulties affecting young children. Though the vast majority of supported programs for child anxiety focus",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      18.176000595092773,
+      404.9999694824219,
+      34.66400146484375,
+      502.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      107.99594116210938,
+      417.9839782714844,
+      505.7260437011719,
+      583.1439819335938
+    ],
+    "text": "on youth ages 7 years and up, preliminary support has emerged for exposure-based adaptations of parent-coaching interventions, i.e., the Parent Child Interaction Therapy (PCIT) CALM Program, to address anxiety disorders in early childhood. Despite these advances, low rates of community service use and accessibility persist. The increased ubiquity of Internet access has positioned videoteleconferencing (VTC) as a powerful tool to overcome traditional barriers to care. The present case study details the VTC delivery of the PCIT CALM Program in the treatment of a 6 year-old boy presenting with generalized anxiety disorder and separation anxiety disorder. This case provides qualitative support for the feasibility of delivering integrated real-time parent coaching and exposure therapy to address early childhood anxiety disorders via VTC. The remission of the patient’s anxiety across treatment sessions suggests that the telehealth format may be a useful modality for the delivery of early childhood anxiety treatment. The technical considerations for the delivery of VTC therapy as well as the implications for treatment are",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      18.176000595092773,
+      574.0679931640625,
+      34.66400146484375,
+      671.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      107.99594116210938,
+      585.9840087890625,
+      148.82594299316406,
+      597.1439819335938
+    ],
+    "text": "discussed.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      149.99594116210938,
+      616.4840087890625,
+      518.5359497070312,
+      669.6439819335938
+    ],
+    "text": "Anxiety disorders are one of the most prevalent and impairing classes of mental health difficulties affecting youth, with up to 32% having met criteria for an anxiety disorder by adolescence (Costello, Mustillo, Erkanli, Keeler & Angold, 2003). Child anxiety is associated with considerable impairments in school performance and peer relationships and",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      89.99996948242188,
+      702.7160034179688,
+      509.6080322265625,
+      720.64404296875
+    ],
+    "text": "CONTACT Christine E. Cooper-Vince ccooper-vince@mgh.harvard.edu Massachusetts General Hospital, Psychiatry, Boston, MA 02114-2696, USA.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      513.9200439453125,
+      86.58000183105469
+    ],
+    "text": "high comorbidity (e.g., Kendall et al., 2010; Verduin & Kendall, 2008). Childhood anxiety also places youth at higher risk for suicidality (Borges et al., 2008) and later life substance",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      515.6900634765625,
+      114.58000183105469
+    ],
+    "text": "use, psychopathology, and poorer health-related quality of life in adulthood (Colman et al., 2007; Comer, Blanco, Grant et al., 2011; Wu et al., 2010).",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.99990844726562,
+      127.41999816894531,
+      517.739990234375,
+      250.57998657226562
+    ],
+    "text": "Early intervention is critical. Although up to 9% of youth already meet criteria for an anxiety disorder in early childhood (Egger & Angold, 2006), the most supported programs for child anxiety focus on youth over 7 years old (Walkup et al., 2008; Silverman, Pina, & Viswesvaran, 2008). These well-established cognitive-behavioral programs for anxiety in middle childhood and adolescence often include considerable content focused on recognizing bodily symptoms of anxiety and implementing emotion regulation strategies to address physiological arousal, as well as identifying maladaptive cognitions and replacing them with more adaptive coping thoughts (Silverman et al., 2008). Treatment content then shifts to therapist-led graded exposure, during which children practice using their newly",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.9998779296875,
+      253.4199981689453,
+      506.9998474121094,
+      306.5799865722656
+    ],
+    "text": "acquired coping skills in increasingly difficult anxiety-provoking situations. Substantial evidence supports such treatment methods in children 7 and older with benefits enduring into adulthood (Albano, Comer, Compton et al., under review; Benjamin et al., 2013; Kendall et al., 1997; Silverman, Pina, & Visersvaran, 2008; Walkup et al., 2008).",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.99984741210938,
+      319.41998291015625,
+      522.0298461914062,
+      414.5799865722656
+    ],
+    "text": "In contrast to the considerable evidence supporting interventions for anxious children 7 and older, those for anxiety in early childhood have been less well evaluated. Supported anxiety interventions for older youth—with their focus on cognitive strategies, self-monitoring, and out-of-session child homework completion—require abstract thinking, perspective taking, metacognition, expressive language, and organizational skills that are beyond the developmental capacities typically found in early childhood (Flavell, Miller, & Miller, 2001; Zhang & Zheng, 1999). Further, treating anxiety in early childhood may require greater",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.9998016357422,
+      417.41998291015625,
+      503.10986328125,
+      484.5799865722656
+    ],
+    "text": "focus on parent training to reduce parental accommodation of child anxiety (ThompsonHollands et al., 2014), and to manage tantrums, outbursts, and oppositionality related to anxiety and avoidance. Accordingly, for early child populations simple downward extensions of supported anxiety interventions for older youth appear to be misguided (Carpenter et al., 2014).",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.99977111816406,
+      497.41998291015625,
+      524.31982421875,
+      592.5800170898438
+    ],
+    "text": "Fortunately, the past decade has witnessed enormous progress in the development and evaluation of anxiety treatments for children below the age of 7 (e.g., Cartwright-Hatton et al., 2011; Comer et al., 2012; Donovan & March, 2009; Hirshfeld-Becker et al., 2010; Kennedy, Rapee, & Edwards, 2009; Puliafico, Comer, & Albano, 2013; Rapee et al., 2005). These programs all emphasize exposures as an active ingredient in successful treatment, while being developmentally sensitive to the more limited cognitive abilities characteristic of early childhood. Moreover, all share a greater emphasis on parental involvement than most",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      149.99977111816406,
+      595.4200439453125,
+      518.1497802734375,
+      648.5800170898438
+    ],
+    "text": "supported treatments for older anxious youth. A guiding conceptual model that underlies these programs is that parental overprotection, high parental control, and/or parental accommodation of child anxiety can function to maintain early child anxiety and avoidance patterns.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      89.9999771118164,
+      62.86000061035156,
+      514.1519775390625,
+      77.13999938964844
+    ],
+    "text": "Adaptations of Parent-Child Interaction Therapy for the Treatment of Early",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      90.00008392333984,
+      82.86400604248047,
+      166.68008422851562,
+      97.14400482177734
+    ],
+    "text": "Child Anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.0,
+      105.42800903320312,
+      519.6099853515625,
+      242.58798217773438
+    ],
+    "text": "In recent years, a small handful of research groups have successfully adapted Parent-Child Interaction Therapy (PCIT; Eyberg & Funderburk, 2011)—originally developed to treat early externalizing problems—to treat various early child internalizing problems (Carpenter et al., 2014; Comer et al., 2012; Chronis-Tuscano et al., 2015; Pincus et al., 2005; Puliafico, Comer, & Pincus, 2012; Luby et al., 2012). Relative to other parent training protocols for early child behavior problems, PCIT is unique in its use of live and unobtrusive parent coaching delivered through a parent-worn bug-in-the-ear receiver from a therapist separated from the family and situated behind a one-way mirror. This format allows for real-time coaching during more naturalistic parent-child interactions than afforded in treatments in which the therapist is in the room with the family or in which the therapist simply advises",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.0000457763672,
+      245.42799377441406,
+      399.53009033203125,
+      256.5879821777344
+    ],
+    "text": "parent-child interactions that occur beyond treatment sessions.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.00006103515625,
+      269.427978515625,
+      523.9700927734375,
+      364.5879821777344
+    ],
+    "text": "PCIT targets child problems indirectly by directing changes in parental consistency, positive attention, appropriate discipline, and communication, circumventing the need for the child to utilize advanced cognitive skills, language abilities, self-reflection, organizational skills, and insight to participate in treatment. Preliminary support has emerged for several PCIT adaptations that address anxiety disorders in early childhood (Comer et al., 2012; Pincus et al., 2010). As in standard PCIT, these adaptations indirectly shift child behavior by directly reshaping the primary context of child development—parent-child interactions.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      90.00019073486328,
+      380.86798095703125,
+      232.440185546875,
+      395.1479797363281
+    ],
+    "text": "The PCIT CALM Program",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.0001678466797,
+      403.4319763183594,
+      492.8101501464844,
+      414.59197998046875
+    ],
+    "text": "The PCIT CALM Program (Coaching Approach behavior and Leading by Modeling;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.0001220703125,
+      417.4319763183594,
+      523.5802001953125,
+      582.5919799804688
+    ],
+    "text": "Puliafico, Comer, & Albano, 2013) represents one of the first real-time coaching-based interventions for the range of early childhood anxiety disorders. In the initial segment of the PCIT CALM Program, parents collaborate with their provider to learn basic Child Directed Interaction (CDI; Eyberg, 2010) skills for following their child’s lead in play and building a positive interaction, including the use and importance of selective attention (i.e., direct, labeled praise for positive behaviors and active ignoring of inappropriate behaviors), behavioral descriptions of the child’s appropriate play, and reflections of child verbalizations. Parents are also taught to refrain from commands, questions and criticisms during child-led play. These skills are thought to be important in the treatment of child anxiety, as they strengthen the parent-child relationship and develop parental expertise in use of differential attention in low-stress play before the parent attempts to use these skills during more stressful in-vivo exposures. The therapist provides psychoeducation regarding",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      150.00006103515625,
+      585.4320068359375,
+      524.35009765625,
+      680.5919799804688
+    ],
+    "text": "factors that may maintain anxiety in their child, including parental accommodation. This is followed by coaching parents in strategies to model and promote approach behaviors in their child as opposed to avoidance, first during play then in low-level in-vivo exposures within and between session guided by the child’s individualized fear hierarchy (Comer et al., 2012). During the second portion of treatment, parents learn—and then practice while being coached—a set of steps for more directly engaging their child in exposure tasks: the “DADS” exposure scaffolding skills, which include Describing the exposure situation,",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      149.2916717529297,
+      61.42000198364258,
+      510.07000732421875,
+      86.58000183105469
+    ],
+    "text": "Approaching the situation themselves, giving the child Direct commands to engage in the exposure, and providing Selective attention to reinforce exposure approach behaviors.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      150.0000457763672,
+      89.41999816894531,
+      493.5400085449219,
+      100.58000183105469
+    ],
+    "text": "Further illustration of the DADS steps can be found elsewhere (Puliafico et al., 2013).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      149.99990844726562,
+      113.41999816894531,
+      523.3599243164062,
+      250.57998657226562
+    ],
+    "text": "In standard CALM, the provider is located behind a one-way mirror in a separate room from the family and provides real-time coaching to parents through a parent-worn bug-in-the-ear system. This allows for unobtrusive observation and support during more naturalistic family interactions, and puts the parent(s) on the frontlines of navigating child anxiety and avoidance patterns. A recent multiple-baseline pilot trial evaluating the feasibility and utility of PCIT CALM in a small sample of children (N=9) suffering from a range of anxiety disorders found substantial functional and diagnostic improvements in all but one participant (Comer et al., 2012). A retention rate of 80% was comparable to larger trials of anxiety treatments for older youth (Kendall et al., 2008), highlighting the feasibility and acceptability of the PCIT CALM program for families.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      89.99403381347656,
+      266.8599853515625,
+      504.8459777832031,
+      301.14398193359375
+    ],
+    "text": "Problems in the Accessibility and Utilization of Evidence-Based Care for Youth",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      149.9999237060547,
+      309.427978515625,
+      524.1900024414062,
+      418.5879821777344
+    ],
+    "text": "Despite exciting advances in the development of promising treatments for early childhood anxiety, as little as one-fifth of youth in need of mental health services for anxiety actually receive appropriate care (Merikangas et al., 2011). There have been large-scale efforts in recent years focused on dissemination and implementation of evidence-based practices in frontline settings (Barlow et al., 2013). However, providers are not evenly dispersed and tend to cluster in major metropolitan regions and academic hubs. Large numbers of U.S. counties have no psychologist, psychiatrist, or social worker, and over four-fifths of federally designated Mental Health Professional Shortage Areas are in rural regions (Bird, Dempsey,",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      149.9999237060547,
+      421.427978515625,
+      520.14990234375,
+      474.5879821777344
+    ],
+    "text": "& Hartley, 2001; National Advisory Committee on Rural Health, 2002). Given considerable regional mental health workforce shortages, simply training regional providers in evidencebased care cannot alone sufficiently improve the accessibility of evidence-based practices (Comer & Barlow, 2014).",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      90.00396728515625,
+      490.86798095703125,
+      519.5918579101562,
+      525.1520385742188
+    ],
+    "text": "Telehealth Treatment Delivery Formats Can Meaningfully Extend the Reach of Care",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      150.0039825439453,
+      533.43603515625,
+      519.3441162109375,
+      586.5960083007812
+    ],
+    "text": "Innovative telehealth methods drawing on new technologies offer tremendous opportunities for overcoming regional workforce shortages in mental health care, and for delivering supported services to traditionally underserved populations and families with constrained schedules and transportation accessibility (Comer & Barlow, 2014; Comer & Myers, 2015).",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      150.00405883789062,
+      589.43603515625,
+      522.26416015625,
+      684.5960083007812
+    ],
+    "text": "The increased ubiquity of Internet access and the rapid advancement of technology available to consumers across geographic and economic groups have positioned videoteleconferencing (VTC) as a powerful tool for overcoming barriers to treatment. Mental health care relies primarily on visual observation and verbal communication, and as such it has been argued that across health care disciplines mental health care may be particularly well suited for VTC delivery (Comer & Barlow, 2014). Moreover, in addition to improving the accessibility of care, VTC-delivered formats may in fact improve the",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      503.3099670410156,
+      86.58000183105469
+    ],
+    "text": "generalizability and ecological validity of care by treating youth in their natural settings (e.g., home environments).",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.0,
+      99.41999816894531,
+      523.1900634765625,
+      250.57998657226562
+    ],
+    "text": "There have been several exciting advances in recent years in the use of web-based preschool and child anxiety treatment platforms, such as self-guided and therapist mediated CBT programs (Donovan & March, 2014; March, Spence & Donovan, 2009). However, these programs do not offer the same degree of therapist contact as traditional clinic-based treatment models, which may be useful in the treatment of more complex and severe cases. While this greater therapist contact is afforded by VTC technology, which has been used to remotely deliver real-time treatment for early childhood problems (e.g., Comer et al., 2013; Comer et al., 2015; Crum & Comer, 2015; Jones et al., 2014), to date no published programs have used VTC formats to remotely deliver real-time treatment for early child anxiety. Across promising programs for early child anxiety, PCIT CALM may be particularly amenable to a VTC format, given that even in standard clinic-based PCIT CALM the",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      149.9999542236328,
+      253.4199981689453,
+      522.2499389648438,
+      390.5799865722656
+    ],
+    "text": "therapist is not situated in the same room as the family, but rather unobtrusively monitoring from a separate room and providing live feedback via a discreet parent-worn bug-in-the-ear device. In recent years, our laboratory has been leveraging VTC technologies to extend the reach of supported care to provide in-the-moment feedback and live coaching to parents of young anxious children directly in their homes, regardless of their geographic proximity to a mental health facility. This Internet format for the delivery of the PCIT CALM Program (i.e., I-CALM) uses VTC technology and parent-worn Bluetooth earpieces to afford a comparable quantity of therapist contact and to remotely deliver real-time parent-coaching throughout child exposure tasks. The present case study details the treatment of a young anxious child whose family participated in the I-CALM treatment program.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      90.0040512084961,
+      406.8599853515625,
+      401.9440002441406,
+      421.1399841308594
+    ],
+    "text": "Case Introduction, Presenting Complaints, and History",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.00210571289062,
+      429.4239807128906,
+      522.1441040039062,
+      538.583984375
+    ],
+    "text": "“Martín” is a 6 year-old Hispanic boy in South Florida who presented for treatment with his biological mother and father at a university-based psychology clinic due to excessive worry and fear of separation from his parents. Martín lived with his parents and two older siblings approximately 45 minutes from the clinic and from any other expert child anxiety center. Martín’s parents were married and his mother had earned an associates degree and his father had earned a high school diploma. Both of Martín’s parents were gainfully employed and the family relied on an annual income of over $100,000. Martín was in the 1 st grade in a public elementary school.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.0020751953125,
+      551.4240112304688,
+      517.7821655273438,
+      590.5840454101562
+    ],
+    "text": "For at least one year, Martín had worried about his school performance, particularly about not understanding new lessons and making mistakes on his class work and homework. This worry interfered with his ability to concentrate and participate in classroom lessons and",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      150.0020751953125,
+      593.424072265625,
+      521.6322021484375,
+      674.5840454101562
+    ],
+    "text": "resulted in below grade-level performance in the previous academic year. In an attempt to reduce Martín’s anxiety, his mother had begun pre-teaching him new lessons before they were presented in the classroom. However, his parents noted that he continued to spend over one hour each day seeking reassurance regarding the accuracy of his homework responses. In addition, Martín worried about changes to his schedule and daily routine. He often required that his parents tell him the exact schedule of events when they left the home to run",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      509.2400817871094,
+      86.58000183105469
+    ],
+    "text": "errands, and would become very distressed if they attempted to change the schedule once they were on an outing.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      150.0000457763672,
+      99.41999816894531,
+      521.170166015625,
+      236.57998657226562
+    ],
+    "text": "Martín also feared separating from his parents and worried that his parents would be killed or he would be lost if they were separated. Martín’s separation fears were present since toddlerhood and were most pronounced when he was separated from his parents unexpectedly (e.g., if his parents were late to pick him up from school) and at nighttime. As a result of this fear, Martín often co-slept with family members. Due to his separation fears, his parents rarely left home without him, and in these cases only left him in the care of very close family members and arranged playdates only with cousins. Though Martín separated from his parents to attend school, he completed an extended series of hugs and kisses before separating in the morning and was withdrawn upon separating. Martín’s parents denied any other clinically significant emotional or medical concerns at intake.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      89.9961929321289,
+      252.8599853515625,
+      202.7061767578125,
+      286.9540100097656
+    ],
+    "text": "Assessment Diagnostic Assessment",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      149.9961700439453,
+      293.4239807128906,
+      522.3262939453125,
+      416.583984375
+    ],
+    "text": "The Anxiety Disorders Interview Schedule for the DSM-IV, Parent Version (ADIS-IV-P; Silverman & Albano, 1997) is a semi-structured clinical interview focusing on the diagnosis of childhood anxiety and related disorders and accompanying mood and behavioral disturbances. Based on interview data, clinical severity ratings (CSR) are assigned on 0–8 scales for each disorder to denote symptom severity and associated impairment. CSR ratings of 4 or higher indicate disorders meeting full diagnostic criteria, whereas ratings of 3 or lower represent subclinical symptom presentations. The ADIS-IV is the most widely used interview schedule in child anxiety research, and demonstrates strong reliability, validity, and sensitivity to change (Silverman & Ollendick, 2005). The ADIS-IV-P was administered",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      149.9962921142578,
+      419.4239807128906,
+      522.04638671875,
+      528.583984375
+    ],
+    "text": "to Martín’s parents at pretreatment by the treating clinicians and at posttreatment by an independent evaluator masked to treatment progress. Due to Martín’s young age, only his parents were interviewed with the ADIS-IV and interview items endorsed were probed further to determine if the anxiety described was persistent, elevated relative to same-age peers, and interfering with developmental expectations (e.g., separating to attend school, being cared for by a babysitter). Prior to the administration of the ADIS-IV and all other assessment procedures, written informed consent for assessment and treatment was obtained from Martín’s parents.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      149.28799438476562,
+      541.4240112304688,
+      524.1963500976562,
+      580.583984375
+    ],
+    "text": "Child anxiety symptoms were assessed by parent-report on the Fear Hierarchy (FH). The FH is adapted from the Fear and Avoidance Hierarchy (FAH; Pincus, Ehrenreich, Mattis, Craske, & Barlow, 2008) and is an individualized list of approximately 10 anxiety-provoking",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      149.99632263183594,
+      583.424072265625,
+      514.9763793945312,
+      664.5840454101562
+    ],
+    "text": "situations collaboratively generated by the therapist and parents during the first treatment session. Each situation listed on the FH is rated on a 0–8 scale (0=no anxiety to 8=extreme anxiety), from which a mean FH score is generated. To provide clinically useful exposure targets across treatment, situations eliciting very mild to severe anxiety were included. Martín’s parents re-rated the FH at each treatment session affording observation of continuous change in Martín’s anxiety across time.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.2916717529297,
+      61.42000198364258,
+      497.0800476074219,
+      86.58000183105469
+    ],
+    "text": "Global severity and global improvement of Martín’s symptoms were measured via the Clinical Global Impression Scale (CGI; Guy, 1976). The CGI is a widely used generic",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      150.0000457763672,
+      89.41999816894531,
+      519.7799682617188,
+      198.57998657226562
+    ],
+    "text": "measure of clinician-rated global severity (CGI-S) and improvement (CGI-I). CGI-S ratings are made on a 7-point Likert-style scale ranging from 1 (“normal, not at all ill”) to 7 (“among the most extremely ill”). The CGI-I is also rated on a 7-point Likert-style Scale ranging from 1 (“very much improved”) to 7 (“very much worse”). In clinical trials, “excellent response” is typically operationalized as a posttreatment CGI-I score of 1 or 2 (e.g., Walkup et al., 2008). CGI ratings were made by the assessor after completing the diagnostic interview at baseline and at posttreatment. CGI ratings were also made collaboratively by the treating therapists at each treatment visit.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.29171752929688,
+      211.4199981689453,
+      512.1900634765625,
+      250.57998657226562
+    ],
+    "text": "Positive parenting skills were coded during adult-child play tasks using the Dyadic Parentchild Interaction Coding System-3 rd Ed (DPICS-III; Eyberg, McDirmid, Duke, & Boggs, 2004). The DPICS-III is a structured behavioral observation coding system with strong",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      150.0040283203125,
+      253.4199981689453,
+      517.9339599609375,
+      348.5799865722656
+    ],
+    "text": "psychometric properties that is used to assess behaviors during parent-child interactions, including use of parents’ positive reinforcement for appropriate behavior during play-based parent-child interactions. The DPICS was used to code parent-child interactions during child-led play at each session for appropriate parental CDI skills that are taught to parents and coached (i.e., labeled praise, reflections, and behavior descriptions of appropriate and brave child behaviors). Codings in each session are then used to inform parental skill acquisition and directly inform within-session skills coaching targets.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      149.29571533203125,
+      361.41998291015625,
+      523.1541137695312,
+      414.5799865722656
+    ],
+    "text": "Therapeutic Alliance was measured via the Working Alliance Inventory (WAI; Horvath & Greenberg, 1989). The WAI is a widely used measure of therapeutic alliance in treatment trials and assesses consumer agreement with the methods utilized within sessions (i.e., Task) and the goals of therapy (i.e., Goal), as well as the personal attachment between the therapist",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      150.00405883789062,
+      417.41998291015625,
+      522.4840698242188,
+      442.5799865722656
+    ],
+    "text": "and consumer (i.e., Bond). Martín’s mother completed the WAI-Client version after sessions 6 and 14 regarding her relationship with the therapist.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      89.994140625,
+      458.8599853515625,
+      225.3541259765625,
+      473.1399841308594
+    ],
+    "text": "Case Conceptualization",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      150.00413513183594,
+      481.4239807128906,
+      521.2242431640625,
+      590.5840454101562
+    ],
+    "text": "Based on the pretreatment clinical interview, Martín met criteria for a principal diagnosis of generalized anxiety disorder (CSR: 5) due to his excessive and uncontrollable worry. A secondary diagnosis of separation anxiety disorder (CSR: 4) was assigned to account for his fear of separating from his parents. Given Martín’s age and the familial context in which the majority of his symptoms were presenting, family-based behavior therapy was recommended to address Martín’s anxiety. The PCIT CALM Program (Puliafico, Comer, & Albano, 2013) was selected, as this program integrates parental psychoeducation about anxiety with live coaching in the use of parental differential attention during in-vivo",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      150.00413513183594,
+      593.424072265625,
+      521.0740966796875,
+      674.5840454101562
+    ],
+    "text": "exposures to anxiety producing stimuli. As noted above, the PCIT CALM program was remotely delivered from the clinic via VTC (I-CALM) directly to Martín’s family in their own home. Martín’s treatment was delivered by two graduate student therapists who both completed formal training in PCIT by a PCIT Master Trainer as well as advanced clinical training in exposure based therapy for pediatric anxiety disorders. A co-therapist model of treatment was used to provide real-time training for the junior therapist. The senior graduate",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      481.2000427246094,
+      86.58000183105469
+    ],
+    "text": "student served as the primary therapist throughout the case, though both clinicians contributed to Martín’s entire course of treatment.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      90.00005340576172,
+      102.86000061035156,
+      203.83204650878906,
+      117.13999938964844
+    ],
+    "text": "Course of treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.0020294189453,
+      125.42399597167969,
+      518.1720581054688,
+      192.583984375
+    ],
+    "text": "In total, Martín and his parents participated in 14 sessions of therapy within the I-CALM protocol. Of these 14 sessions, Martín’s parents participated in two 90-minute parent-only didactic sessions (i.e., sessions 1 and 6) and Martín participated with his parents in twelve 60-minute sessions during which his parents were live-coached in using the treatment skills with him.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      90.00202178955078,
+      207.0540008544922,
+      232.1120147705078,
+      218.95399475097656
+    ],
+    "text": "Technological Considerations",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.0020294189453,
+      225.4239959716797,
+      514.1619873046875,
+      250.583984375
+    ],
+    "text": "Prior to initiating treatment, the family was mailed a set of equipment for VTC use with their own home computer. This VTC set consisted of an omnidirectional floor microphone",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.0019073486328,
+      253.4239959716797,
+      524.411865234375,
+      404.583984375
+    ],
+    "text": "used to capture high quality audio in the home during sessions, a Bluetooth earpiece used for coaching, a USB hub to extend available input slots, a USB Bluetooth adapter with which to pair the headset to computing devices without native Bluetooth systems, and a highdefinition (HD) webcam for sharpest video quality and greater flexibility in camera placement as needed (see [blinded for review] for further equipment details). This equipment set cost approximately $300, although importantly most of these components do not need to be sent when treating the roughly 65% of U.S. families who already have high speed internet and built-in webcams in their home computers or tablets that offer HD video quality and placement flexibility. Nonetheless, we provided this equipment to Martín’s family so that any failure in treatment could not be attributed to idiosyncratic factors related to his family’s pre-existing equipment.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.0019073486328,
+      417.4239807128906,
+      522.4620361328125,
+      582.5840454101562
+    ],
+    "text": "Prior to initiating intervention, the treating therapists verbally reviewed the VTC treatment program and associated risks and benefits to obtain further verbal consent for use of VTC. Following this, they conducted a 1-hour parent-only technical setup appointment during which time clinicians guided Martín’s mother and father through the process of installing Cisco WebEx, the secure webconferencing program used to hold VTC sessions for this case, and using the new software to join online meetings each week. This program was selected for its HIPAA compliant data security, VTC and screen sharing functions, and the ability to conduct sessions from a master account held by the provider at no cost to the patient and a provider cost of ~$20/month. Martín’s parents were also taught to install all necessary drivers and software for their new equipment, pair the Bluetooth earpiece, select the newlyinstalled hardware in their system’s settings, and switch between audio and video settings in WebEx as needed. In addition to the initial technical setup, therapists provided minor",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.001953125,
+      585.424072265625,
+      523.68212890625,
+      666.5840454101562
+    ],
+    "text": "technological support as needed throughout the course of treatment and were able to adequately troubleshoot related difficulties in order to complete the full I-CALM treatment protocol. Additional information about technological considerations and software needs for the use of VTC to deliver real-time child mental health care can be found elsewhere (Chou et al., 2015). General information about legal, regulatory, and ethical concerns related to the practice of VTC-delivered mental health care, as well as risk management issues and matters",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      499.9200134277344,
+      86.58000183105469
+    ],
+    "text": "of data security that were incorporated into the treatment of this case can also be found elsewhere (Kramer et al., 2014).",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      90.0,
+      101.04999542236328,
+      206.49998474121094,
+      112.94999694824219
+    ],
+    "text": "Assessment of progress",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.0,
+      119.41999816894531,
+      522.02001953125,
+      186.57998657226562
+    ],
+    "text": "Treatment progress was monitored through weekly ratings of anxiety on the FH (see Figure 1), CGI severity ratings (see Figure 2), and parental use of reinforcement skills, as coded via the DPICS-III. Diagnostic response and improvement status were assessed at posttreatment via the ADIS-IV-P and CGI-I, respectively, which were both conducted by an independent evaluator masked to treatment protocol, modality, and progress.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      90.0000228881836,
+      201.0500030517578,
+      136.69000244140625,
+      212.9499969482422
+    ],
+    "text": "Session 1",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.0,
+      219.4199981689453,
+      511.35003662109375,
+      244.57998657226562
+    ],
+    "text": "As in the standard PCIT CALM Protocol (see Table 1), the first session was a parent-only didactic session. During the first session, the VTC was conducted using the family",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      149.9999542236328,
+      247.4199981689453,
+      524.4600219726562,
+      356.5799865722656
+    ],
+    "text": "computers’ built-in microphones/speakers and the provided HD webcam (i.e., “conferencing configuration”), which allowed the parents and therapists to hear and see each other all while participating in the session in real time. Conferencing configuration using the built-in speakers allows all participants in the room to hear the therapist. The session began with a discussion of treatment goals and parent psychoeducation on anxiety. Martín’s parents identified primary goals of enhancing Martín’s engagement in class and increasing independence in completing homework, and a secondary goal of enhancing his ability to cope with unplanned separations.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      149.9999237060547,
+      369.41998291015625,
+      513.1499633789062,
+      422.5799865722656
+    ],
+    "text": "Psychoeducation about anxiety and the role of parental overprotection in maintaining anxiety was discussed, after which a hierarchy of his feared situations was developed (i.e., the FH). The FH was constructed using a Google Docs form (using only a confidential ID number) that was simultaneously viewable by both the therapists and parents via a screen",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      149.99984741210938,
+      425.41998291015625,
+      520.349853515625,
+      562.5800170898438
+    ],
+    "text": "sharing function within the VTC interface (see Figure 3), enabling real-time discussions of FH ratings. Comer and colleagues (2013) provide a more thorough discussion of this exercise and other online interactive treatment tools for anxious youth treated through VTC. Psychoeducation was also provided on the rationale for and use of differential attention and positive reinforcement skills utilized in the child directed interaction (CDI) phase of PCIT. These skills were taught via therapists’ demonstrations and coaching of both parents during CDI role-plays with Martín’s toys in the home. Both parents were fully engaged in the exercises and utilized coaching to enhance their use of labeled praise and behavior descriptions during the role-plays. Handouts summarizing the CDI skills and homework tracking forms were emailed to Martín’s parents following the session.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      89.99984741210938,
+      577.0499877929688,
+      160.58982849121094,
+      588.9500122070312
+    ],
+    "text": "Sessions 2 & 3",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      149.99972534179688,
+      595.4200439453125,
+      520.4697875976562,
+      690.5800170898438
+    ],
+    "text": "Sessions 2 and 3 were conducted via VTC initiated in “conference configuration” (i.e., faceto-face conversation mediated by VTC software and equipment, in which all participants could hear the therapists) to allow for a group discussion of CDI homework completion and problem-solve challenges in differentiating CDI appropriate activities (e.g., coloring) from more general positive one-on-one time (e.g., riding bikes). To deliver CDI skills coaching in these sessions, and all following sessions, Martín’s parents were then guided through reconfiguring the VTC settings. Specifically, within the WebEx settings, they changed the",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      518.199951171875,
+      86.58000183105469
+    ],
+    "text": "audio input from the default speakers on their computer to the provided Bluetooth earpiece, while keeping the video feed and omnidirectional microphone capture of sound unaltered.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      515.6600341796875,
+      128.5800018310547
+    ],
+    "text": "This configuration (i.e., “coaching configuration”) allowed the therapists to clearly see and hear Martín and his parent’s during play, while also providing unobtrusive coaching only audible to the parent wearing the Bluetooth earpiece.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      149.99993896484375,
+      141.4199981689453,
+      523.7100830078125,
+      250.57998657226562
+    ],
+    "text": "During coaching Martín quickly and warmly engaged in play with each parent using his own toys (coloring and dominoes) in the family’s living room. Within each coaching session, Martín’s mother attended well to his appropriate behaviors and his father showed improvement in the use of behavioral descriptions and praise. As both parents often asked questions when trying to describe Martín’s actions by raising their tone or inflection at the end of statements, the importance of using an even tone to reduce questions (which can be perceived by young children as critical or as leading the play; Eyberg & Funderburk, 2011) was reviewed with parents over the Bluetooth earpiece without Martín’s knowledge.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      90.0,
+      265.04998779296875,
+      136.6899871826172,
+      276.9499816894531
+    ],
+    "text": "Session 4",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      149.99984741210938,
+      283.41998291015625,
+      521.0399780273438,
+      420.5799865722656
+    ],
+    "text": "Session 4 focused on coaching each parent in using CDI skills to reinforce brave behavior during a mildly distressing in-vivo exposure with Martín: playing alone in a dark room. Due to the technological capabilities of the VTC, the therapists were able to continuously monitor Martín’s behavior via the webcam and omnidirectional microphone in the family’s living room, while unobtrusively coaching each parent through leaving the room via the Bluetooth earpiece. During each exposure, Martín continued playing with each parent after the lights were dimmed, and his parents subsequently reinforced this brave behavior with behavior descriptions and labeled praise. When his parents left the playroom for short periods, Martín initially displayed mildly inhibited behavior, looking around the room, but his initial hesitation quickly remitted and he created a game of jumping out from beneath",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      149.99984741210938,
+      423.41998291015625,
+      515.059814453125,
+      476.5799865722656
+    ],
+    "text": "furniture to joyfully surprise each parent when they reentered the room. Over the course of CDI coaching within play and the low-level exposures it was qualitatively noted that Martín’s father showed marked improvement in the use of behavioral descriptions and his mother demonstrated increased use of labeled praise and differential attention.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      89.99989318847656,
+      491.0500183105469,
+      136.68988037109375,
+      502.95001220703125
+    ],
+    "text": "Session 5",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      149.99984741210938,
+      509.4200134277344,
+      520.9197998046875,
+      590.5800170898438
+    ],
+    "text": "At the start of the fifth session, Martín’s parents noted that over the last week he had displayed decreased separation anxiety, resulting in riding his bike on one occasion out of his parents’ view. At this session, Martín first completed an exposure to playing an online game over VTC with an unfamiliar adult confederate located at the therapists’ office. The game was played using a WebEx screen share function, which allowed both the confederate and Martín’s family to view and interact with the game in real time. Though the confederate",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      149.99984741210938,
+      593.4200439453125,
+      523.669921875,
+      674.5800170898438
+    ],
+    "text": "was only visible on the VTC, the therapist sat out of view of the camera, but close enough to monitor the exposure progress and provide parent coaching. In the game, Martín and the confederate were prompted by the game to ask each other “personal facts” (e.g., What is your favorite food? What is your favorite TV show?). During the game, the therapist coached Martín’s parents in using CDI skills to reinforce his eye contact and speech with the confederate. Initially, Martín frequently looked to his parents to speak for him, but with",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      522.6900634765625,
+      86.58000183105469
+    ],
+    "text": "parents’ differential attention Martín increasingly answered game questions directly with the confederate, even after his parents left the room.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      90.0000228881836,
+      101.04999542236328,
+      136.69000244140625,
+      112.94999694824219
+    ],
+    "text": "Session 6",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.00003051757812,
+      119.41999816894531,
+      521.670166015625,
+      242.57998657226562
+    ],
+    "text": "The sixth session was a parent-only didactic session focusing on the “DADS” exposure scaffolding skills (i.e., Describe the exposure situation, model Approaching the situation, give a Direct command for the child to engage in the exposure, and provide Selective attention for child approach behaviors). This material was first taught orally with accompanying PowerPoint visual aids presented via screen share within the VTC program. Both parents were actively engaged in the presentation and asked questions to enhance their understanding of the DADS sequence. Additionally, the therapists also coached both parents through role-playing skills with each other. Martín’s parents both reported confidence in their ability to use the DADS skills with Martín to complete exposures to using public",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0000457763672,
+      245.4199981689453,
+      344.8200988769531,
+      256.5799865722656
+    ],
+    "text": "restrooms independently before the next session.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      90.0,
+      271.04998779296875,
+      136.6899871826172,
+      282.9499816894531
+    ],
+    "text": "Session 7",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0,
+      289.41998291015625,
+      520.2600708007812,
+      412.5799865722656
+    ],
+    "text": "At this session Martín completed a mid-level exposure to playing basketball alone in his backyard while his parents remained inside the house out of view. For this exposure, the family’s laptop was positioned so that the therapists could view Martín’s backyard basketball hoop through the VTC, while each parent continued to receive coaching from the therapists via the Bluetooth earpiece. To limit the impact of the therapists’ virtual presence on Martín’s experience of separation, the therapists also switched off their webcam during the exposure, so Martín could not view the therapists or his parents when playing alone outside. However, the therapists were still able to view Martín and monitor his emotional response to the exposure while his parents were out of eyeshot, and coach them through the",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0001220703125,
+      415.41998291015625,
+      523.1602172851562,
+      454.5799865722656
+    ],
+    "text": "separation exposure. This technological advantage seemed to enhance the ecological validity of the exposure and therapist coaching, while also strengthening parental confidence in this early separation exposure.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0001220703125,
+      467.41998291015625,
+      518.860107421875,
+      590.5800170898438
+    ],
+    "text": "During the exposure, Martín’s parents were coached to provide three descriptions of the exposure (i.e., “This is a great basketball hoop. You can keep playing while I get something from the house. I’ll be back in one minute”) followed by a direct command to remain outside for several minutes playing basketball while they returned to the house (i.e., “Keep playing here until I come back”). Martín complied with the exposure command, but did make several attempts to check on the location of his parents by looking through the back door. However, he returned to playing when he did not receive parental attention, and was ultimately rewarded with considerable parental labeled praise for exposure completion (i.e., “Nice job playing outside on your own”). Given this exposure success, they agreed to",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0001220703125,
+      593.4200439453125,
+      373.3600769042969,
+      604.5800170898438
+    ],
+    "text": "continue to complete this exposure daily for homework.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      90.00010681152344,
+      619.0499877929688,
+      136.69009399414062,
+      630.9500122070312
+    ],
+    "text": "Session 8",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      150.0001220703125,
+      637.4200439453125,
+      523.9002075195312,
+      690.5800170898438
+    ],
+    "text": "Session 8 was completed in Martín’s community library to allow for more challenging insession exposures to developmentally appropriate public separations. Verbal consent for VTC public exposures was obtained prior to initiating exposures. The session was conducted using a consumer-grade mobile VTC program built into the family’s smartphone. The",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      512.0800170898438,
+      86.58000183105469
+    ],
+    "text": "session began with a review of exposure homework and reported reductions in Martín’s separation anxiety. This review was conducted from the family’s parked car outside of the",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      520.5800170898438,
+      128.5800018310547
+    ],
+    "text": "library to protect patient privacy. During the preceding week Martín had been ill and did not attempt to play basketball outside alone, but did continue daily CDI practice and complete exposures to using public bathroom stalls independently.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0,
+      141.4199981689453,
+      522.1199951171875,
+      250.57998657226562
+    ],
+    "text": "To enable coaching in the library, Martín’s parents paired the Bluetooth earpiece with their smartphone, so that the therapists were able to view Martín and his parents completing the exposure while still providing discreet coaching heard only by the parent. For the exposures, Martín’s mother and father each used the DADS skills to leave the reading table for several minutes to find a new book out of Martín’s view, while he remained seated until his parents returned. During the exposure, the smartphone remained upright on the table allowing therapists to view Martín when his parents were out of view. This enabled the therapists to provide real-time information to his parents about his adaptive coping with the separation,",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0001220703125,
+      253.4199981689453,
+      515.820068359375,
+      362.5799865722656
+    ],
+    "text": "which further enhanced his parents’ comfort and confidence in separating from Martín in a public place. As in previous exposures, the therapists’ video feed was configured so that Martín could not view the therapists and could thereby fully experience the exposure to separation from trusted adults. Though he initially left his seat to scan the room for his parents, over repeated exposure trials Martín became able to remain seated and independently read his book, and his parents provided considerable labeled praise, high fives, and hugs to reinforce this brave behavior. For homework following this session, Martín’s family agreed to complete daily exposure to playing in the backyard alone.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      90.00010681152344,
+      377.0500183105469,
+      136.69009399414062,
+      388.95001220703125
+    ],
+    "text": "Session 9",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0001220703125,
+      395.41998291015625,
+      520.4901123046875,
+      420.5799865722656
+    ],
+    "text": "The ninth session was also completed outside of Martín’s home using consumer-grade VTC software to allow for an in-session playdate exposure at a friend’s home. During the review",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0000762939453,
+      423.41998291015625,
+      524.0001220703125,
+      518.5800170898438
+    ],
+    "text": "of symptoms and treatment homework, completed from the family’s parked car to protect privacy, Martín’s mother noted a slight increase in Martín’s academic anxiety displayed through reassurance seeking on typically easy homework questions. However, she also reported decreases in separation anxiety, including self-initiated independent play in the yard each day and expectedly spending a whole day in the care of extended family members without distress. These gains were also noted to promote reductions in parents’ own anxiety about leaving Martín in the care of others.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0001220703125,
+      531.4200439453125,
+      520.14013671875,
+      584.5800170898438
+    ],
+    "text": "Following the check-in, Martín and his mother entered the friend’s home and obtained consent for video recording of the friend’s family and home. As in the previous session, the smartphone was then positioned so that the therapists could see and hear activity in the play area and discreet coaching was delivered via a Bluetooth earpiece worn by Martín’s mother.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      150.0001220703125,
+      587.4200439453125,
+      522.7801513671875,
+      682.5800170898438
+    ],
+    "text": "During warm-up CDI play and coaching, an unplanned exposure arose when Martín’s friend expectedly released a new family pet into the play area, startling Martín and causing him to run out of the room. This experience provided therapists with the opportunity to coach Martín’s mother in the use of DADS skills to model bravery in approaching the new pet. Planned exposures began with his mother leaving the room for several minutes and progressed to her leaving the home while the friend’s parent supervised the playdate. During exposures, Martín continued playing with his friend in his mother’s absence, displaying",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      520.0199584960938,
+      86.58000183105469
+    ],
+    "text": "positive affect and attending to his friend and the game upon his mother’s direct command, “You stay playing in this room”, and subsequent departure. For homework, Martín’s mother",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      524.1500244140625,
+      114.58000183105469
+    ],
+    "text": "agreed to continue daily exposures to using the bathroom independently and to complete two playdate separation exposures.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      90.0,
+      129.0500030517578,
+      158.9299774169922,
+      140.9499969482422
+    ],
+    "text": "Session 10–12",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.9998779296875,
+      147.4199981689453,
+      513.3200073242188,
+      242.57998657226562
+    ],
+    "text": "Session 10 and all subsequent sessions were again conducted in Martín’s home using WebEx VTC. Over these sessions, Martín parents reported “tremendous” reductions in anxiety about planned and spontaneous separations (e.g., an unplanned sleepover at a cousin’s home without anxiety), as well as academic worries. Further, his parents reported greater confidence in their ability to coach Martín through more distressing exposures. Across these sessions the application of the DADS skills to guide Martín through higherdifficulty exposures to academic worries and completing exposures “on the fly” was",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.99984741210938,
+      245.4199981689453,
+      184.5298614501953,
+      256.5799865722656
+    ],
+    "text": "targeted.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.99984741210938,
+      269.41998291015625,
+      523.4598388671875,
+      420.5799865722656
+    ],
+    "text": "In-session exposures included answering math questions without parental assistance in an online game and then with his own math workbook and homework, to enhance the ecological validity of the exposure. To complete the online math game, the WebEx’s screen sharing function was used to enable both the therapists and Martín to view and participate in a math game. Martín’s parents were coached to describe the math game to Martín, model answering a question, and when needed, give a direct command to say his answers to the therapists via the webcam. Martín readily began solving the math problems following the description and parental modeling, but initially looked to his mother and father for confirmation when providing answers. Martín increased his engagement with the therapists following his parent’s removal of their attention for reassurance seeking in combination with labeled praise for providing answers to the therapists. He also continued to actively",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.9998779296875,
+      423.41998291015625,
+      504.33990478515625,
+      448.5799865722656
+    ],
+    "text": "participate in the game with the therapists via webcam when his parents left the room to allow for completely independent question answering.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.99984741210938,
+      461.41998291015625,
+      522.1898193359375,
+      584.5800170898438
+    ],
+    "text": "Later exposures in which Martín was guided to independently attempt several math problems from his schoolwork elicited higher anxiety and irritability. During initial trials of this exposure with his father sitting nearby, Martín repeatedly stated, “I need help” and played with his pencil. Martín’s father was coached to use differential attention by describing approximations toward question completion, and Martín reengaged with the exposure to complete several problems independently. As his father further withdrew parental assistance by turning away from the table, Martín displayed greater negative affect, pushed his papers to the floor, and left the room. This response provided therapists with an opportunity to coach the family through an exposure challenge that often occurs in the home",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      149.99969482421875,
+      587.4200439453125,
+      523.6397705078125,
+      682.5800170898438
+    ],
+    "text": "where children can more easily leave the room to avoid exposure tasks. Martín’s father was coached through gently guiding Martín back to the exposure room, and using differential attention to reinforce approximation towards homework engagement (i.e., sitting at the table, looking at the paper, counting) in combination with a reward chart to enhance his motivation for exposure completion. Martín continued to display negative affect, but rejoined his father at the table and completed multiple math questions while his father sat nearby, reinforcing effort but not providing feedback on answer accuracy. Following these sessions, Martín and",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      522.1699829101562,
+      86.58000183105469
+    ],
+    "text": "his parents completed between-session exposures including separation exposures “on the fly” in public, unplanned outings under the care of other adults, and independent completion",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      228.25,
+      100.58000183105469
+    ],
+    "text": "of math homework.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      90.0,
+      115.04999542236328,
+      142.24998474121094,
+      126.94999694824219
+    ],
+    "text": "Session 13",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.0,
+      133.4199981689453,
+      518.4400634765625,
+      242.57998657226562
+    ],
+    "text": "Sessions 13 and 14 were tapered across a month to promote independent skill practice in preparation for treatment termination. At the start of session 13, Martín’s parents noted further reductions in his anxiety and ease of separating in unplanned public settings, but continued anxiety when learning new concepts in math class. Accordingly, both Martín’s mother and father were coached in using the DADS skills to lead Martín through an in-vivo exposure to asking questions about math problems taught by an unknown adult. Given the importance of completing the exposure without his parents present to replicate the school settings, the DADS steps for a separation exposure were applied. Martín’s mother switched",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      149.9999542236328,
+      245.4199981689453,
+      523.1099853515625,
+      410.5799865722656
+    ],
+    "text": "the VTC to “conferencing configuration”, provided 3 descriptive statements about the exposure and moved to the other side of the room with a direct command to raise his hand to ask the VTC “teacher” for help (i.e., a confederate from the therapists’ treatment center). The “teacher” then presented Martín with progressively complex addition problems using the screen share feature of the VTC. Following his mother’s initial description of the exposure task, Martín promptly provided answers to the confederate on easier questions, but initially sat quietly when unsure of an answer. During the exposure, the therapists were sitting off camera and monitoring the exposure; this enabled them to provide feedback to the confederate to shape the exposure difficulty for Martín and join the exposure to model asking the “teacher” questions, enhancing Martín’s ability to raise his hand to ask the confederate for help. The completion of similar exposures in the school setting was assigned for exposure homework.",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      90.00000762939453,
+      425.0500183105469,
+      142.25,
+      436.95001220703125
+    ],
+    "text": "Session 14",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.0,
+      443.41998291015625,
+      515.8200073242188,
+      538.5800170898438
+    ],
+    "text": "During the final treatment session review, Martín’s parents reported that treatment helped them to learn “how far to push [Martín] and how to guide him,” which boosted their confidence as parents, even when he appeared anxious. They also reported that through the treatment Martín had become much more confident and independent, to the point that they now needed to set limits on where he was allowed to go without adult supervision. The session was closed with a final game played by Martín and his family to celebrate his treatment accomplishments.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      89.998046875,
+      554.8599853515625,
+      296.4219970703125,
+      569.1400146484375
+    ],
+    "text": "Assessment of Treatment Response",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.00209045410156,
+      577.424072265625,
+      514.10205078125,
+      588.5840454101562
+    ],
+    "text": "At posttreatment, Martín no longer met diagnostic criteria for generalized anxiety disorder",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      150.00204467773438,
+      591.424072265625,
+      518.89208984375,
+      686.5840454101562
+    ],
+    "text": "or separation anxiety disorder, as determined via the ADIS-IV-P conducted by an independent evaluator (Table 2). Over the course of treatment, Martín also showed considerable reductions in anxiety symptoms reported via his mother’s and father’s FH ratings, which declined from 2.92 and 3.46, respectively, at pretreatment to 0.23 and 0.38 at posttreatment, respectively (see Figure 1). Similarly, therapist rated global severity (CGI) displayed substantial reductions across treatment, declining from a score of 5 (“markedly ill”) at the first treatment session to a score of 2 (“borderline mentally ill”) at the final",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      508.3999938964844,
+      86.58000183105469
+    ],
+    "text": "treatment session (Figure 2). Regarding Martín’s overall functioning, he improved from “severe impairment of functioning” (as reflected by a pretreatment CGAS score of 48) to",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      150.0000457763672,
+      89.41999816894531,
+      515.9300537109375,
+      142.57998657226562
+    ],
+    "text": "“good functioning in all areas” (as reflected by a posttreatment CGAS score of 85). Moreover, at posttreatment the independent evaluator assigned Martín a CGI-Improvement score of 1 (“very much improved”), classifying his improvements as an “excellent response.”",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      150.0000762939453,
+      155.4199981689453,
+      515.880126953125,
+      222.57998657226562
+    ],
+    "text": "Over the course of treatment, Martín’s parents both displayed improvements in their use of reinforcement skills, as coded via the DPICS-III “Do” skills (i.e., labeled praise, behavior description, and reflections) during 5 minutes of child-led play. Throughout treatment, Martín’s mother increased her use of “Do” skills from 12 to 40, and Martin’s father increased his use of “Do” skills from 4 to 20.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      150.00009155273438,
+      235.4199981689453,
+      494.380126953125,
+      246.57998657226562
+    ],
+    "text": "In addition to large reductions in symptom severity and improvements in functioning,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      150.0001220703125,
+      249.4199981689453,
+      521.740234375,
+      400.5799865722656
+    ],
+    "text": "Martín’s mother also reported experiencing a strong working alliance with the therapists throughout the Internet-delivered treatment as rated on the WAI (Maximum score = 84). WAI data were not available for Martín’s father. At session six, Martín’s mother reported strongly allying with the therapists on the treatment techniques used (Task subscale=78) and treatment goals (Goals subscale=78), and also reported the highest possible rating of interpersonal bond with therapists (Bond subscale=84). At posttreatment, Martín’s mother’s therapeutic alliance was further strengthened, resulting in the highest possible ratings in all domains of alliance (Task=84, Goals=84, Bond=84). Further, at posttreatment Martín’s parents also reported to the independent evaluator being highly satisfied with the VTC treatment they received, feeling that the therapists provided an optimal balance of warmth and structure.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      89.99812316894531,
+      416.8599853515625,
+      212.26611328125,
+      431.1399841308594
+    ],
+    "text": "Complicating Factors",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      149.9960174560547,
+      439.4239807128906,
+      524.3761596679688,
+      590.5840454101562
+    ],
+    "text": "Overall, the treatment course progressed as expected with minimal complications. The few complications that arose were associated with the technological demands of the VTC format. Prior to the initial treatment session, clinic personnel completed a remote installation to set up the necessary VTC equipment and software and train Martín’s parents in the use of the VTC interface. This remote set-up approach not only reduced the provider burden that would have come with a home visit for equipment set-up, but also enhanced the opportunity to demonstrate the feasibility of delivering remote treatment to families residing in more remote regions for which a home visit would not have been possible. However, at the start of treatment, clinic personnel were required to make one home visit to trouble-shoot a technical issue with the Bluetooth earpiece. For cases in which geographic proximity precludes a home visit, such a technical issue could be addressed via shipment of a new earpiece.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      149.99594116210938,
+      603.424072265625,
+      520.676025390625,
+      684.5840454101562
+    ],
+    "text": "In addition to the initial VTC installation and troubleshooting, the start of sessions was delayed by technical issues on a couple of occasions due to difficulty logging into the VTC or difficulty adjusting audio settings within the VTC. However, such technological concerns typically occurred at the start of session and were easily resolved by the therapists within several minutes. On only two occasions (i.e., sessions 2 and 8) did technical concerns consume more than 10 minutes of session time, and only once was a session rescheduled",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      510.57012939453125,
+      86.58000183105469
+    ],
+    "text": "due to a technical error preventing initiation of the VTC. In line with this finding, a controlled evaluation of clinic-based vs. VTC treatment suggests that such delays in VTC",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      150.0,
+      89.41999816894531,
+      505.6800842285156,
+      114.58000183105469
+    ],
+    "text": "treatment are equivalent to the session delays observed in clinic-based treatment, though larger controlled evaluations are still needed (Comer et al., 2016).",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.9999542236328,
+      127.41999816894531,
+      514.0499267578125,
+      194.57998657226562
+    ],
+    "text": "Moreover, no sessions were missed due to patient no shows, and at posttreatment Martín’s parents reported that traditional barriers to care (as assessed via the Barriers to Treatment Participation Scale; Kazdin, Holland, Crowley, & Breton. 1997)—including transportation issues, scheduling difficulties, dislike of sessions and therapists—were “never a problem” during the treatment.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      89.99597930908203,
+      210.8599853515625,
+      295.3759765625,
+      225.13998413085938
+    ],
+    "text": "Implications and Recommendations",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.9959716796875,
+      233.4239959716797,
+      484.4159240722656,
+      244.583984375
+    ],
+    "text": "The present case study adds to a growing literature documenting the important role",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.99594116210938,
+      247.4239959716797,
+      522.635986328125,
+      356.583984375
+    ],
+    "text": "technology may play in expanding the scope of children’s mental health care (Comer, 2015; Comer & Barlow, 2014; Comer et al., 2013; Donovan & March, 2014; Jones et al., 2014; Khanna & Kendall, 2010; Myers et al., 2015; Spence et al., 2011), and provides the first illustration of a VTC format to treat anxiety in early childhood. Given the high prevalence and considerable burden associated with anxiety problems in very young children, as well as serious problems in the broad availability of quality care, with continued support the ICALM program may prove to offer a relatively feasible and transformative format for meaningfully extending the reach of evidence-based care for affected young children.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.9959716796875,
+      369.4239807128906,
+      507.4561462402344,
+      422.583984375
+    ],
+    "text": "This case study builds on previous preliminary evaluations of the PCIT CALM program (Comer et al., 2012) and provides a qualitative indication of the feasibility of delivering integrated real-time parent coaching and exposure therapy to address early child anxiety disorders via VTC. The remission of Martín’s anxiety across treatment sessions suggests",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.9959716796875,
+      425.4239807128906,
+      522.9859619140625,
+      506.583984375
+    ],
+    "text": "that the telehealth format may be a useful modality for the delivery of early childhood anxiety treatment. Additionally, the delivery of care within Martín’s home and local community via VTC may have enhanced the ecological validity of his family’s in-session skills practice. For example, it is possible that treatment gains would not have been so positive had the therapist not been able to coach parents through separation exposures in real time in the very settings in which many of the child’s symptoms were most interfering.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.99594116210938,
+      519.4240112304688,
+      520.4859619140625,
+      586.5840454101562
+    ],
+    "text": "Moreover, given research suggesting working alliance and involvement can promote treatment engagement and symptom change within child anxiety treatment (Chu & Kendall, 2004; Marker, Comer, Abramova, & Kendall, 2013; McLeod et al., 2014), the very strong therapeutic alliance reported throughout this VTC treatment is encouraging. Although these findings are limited to the experiences of one family, similar patterns of therapeutic alliance",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      149.99594116210938,
+      589.424072265625,
+      522.615966796875,
+      684.5840454101562
+    ],
+    "text": "and patient satisfaction have also been observed in larger trials of VTC-facilitated treatment conducted in adult populations (see Simpson & Reid, 2014 for a review). Further, given that a large proportion of practitioners perceive the relationship between the therapist and family to be one of the best predictors of treatment response (Boisvert & Faust, 2006; Kazdin, Siegel, & Bass. 1990), the present illustration adds to a growing literature that may be useful to draw upon as part of efforts to promote the uptake of technology-facilitated treatment formats by practitioners in the community.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      508.8199462890625,
+      86.58000183105469
+    ],
+    "text": "In order to more rigorously examine the utility of the I-CALM protocol for extending the reach of evidence-based practices and overcoming traditional barriers to care, future",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.0000457763672,
+      89.41999816894531,
+      523.9400634765625,
+      254.57998657226562
+    ],
+    "text": "controlled evaluations are needed to formally investigate the efficacy and effectiveness of the VTC-delivered I-CALM protocol relative to clinic-based treatments. Future work should also explore the potential for delivery of this VTC treatment in community clinics that typically lack PCIT expertise and have more limited time and financial resources. It is possible that the favorable results presently found may not generalize to treatment delivered by non-specialty providers. However expanding the geographic reach of specialty clinics through VTC therapy is poised to significantly benefit patients in need of specialty care (Comer & Barlow, 2014). Payer issues related to technology-facilitated mental health care also need to be further resolved. Using existing CPT codes, it is not always readily apparent how VTC providers are to most appropriately characterize their work, and third party payers are inconsistent in their coverage of technology-facilitated care. Clarifying this issue will be critical for ensuring that evidence-based programs offered through VTC are available to the",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.0000457763672,
+      257.41998291015625,
+      524.0901489257812,
+      394.5799865722656
+    ],
+    "text": "full spectrum of families in need. For example, Medicaid coverage for behavioral telehealth services varies across states, with some states fully reimbursing for such services, some states reimbursing for such services only if the covered individual can document that they live in a professionally underserved region, and some states providing no reimbursement for such services. In addition to technology barriers to reimbursement, some insurers do not provide coverage for home-based family services. Further, matters of licensure and practice jurisdiction are critical. At present, providers in most states are not eligible to provide care to individuals located in other states. Accordingly, despite the ability for technology to extend the potential reach of care beyond physical limits, providers are best advised to only conduct VTC-delivered services within state.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.00015258789062,
+      407.41998291015625,
+      513.6202392578125,
+      418.5799865722656
+    ],
+    "text": "The practice of VTC-delivered services presents new legal and ethical concerns. Providers",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.0001983642578,
+      421.41998291015625,
+      524.3801879882812,
+      572.5800170898438
+    ],
+    "text": "considering behavioral telehealth formats must pay special attention to the management of patient behavior and emergency intervention systems. Particularly, in the treatment of young children, the presence of a parent or other adult within the session is essential to enhance management of disruptive or problematic patient behaviors as well as technological difficulties. Additionally, patients presenting with significant safety risks (e.g., families with histories of maltreatment) may not be appropriate for remote treatment until these acute risks have been adequately managed. Further, VTC providers must obtain emergency contact information, including the family’s phone number, an emergency contact, and the physical address from which the patient is participating in sessions. This information offers the provider with multiple methods for contacting and supporting the patient in the event that the VTC is terminated and/or emergency intervention is indicated.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      150.00030517578125,
+      585.4200439453125,
+      518.6802978515625,
+      694.5800170898438
+    ],
+    "text": "On a final note, disparities in technological literacy and Internet access may at present restrict the broad availability of VTC-services for some of the very families most in need of services. Although roughly one quarter of families currently lack household Internet access (United States Census Bureau, 2011), national trends find that the demographic groups that currently show the poorest Internet connectivity (e.g., low-income and rural-dwelling families) are showing the most rapid growth in household Internet adoption (Horrigan, 2009). As noted elsewhere, recent trends and large federal investments in the expansion of broadband Internet to underserved areas suggest it is conceivable that high-speed Internet",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.0,
+      61.42000198364258,
+      522.7900390625,
+      86.58000183105469
+    ],
+    "text": "will soon show household ubiquity, regardless of geography or income. Against this exciting backdrop, advances in VTC formats for improving access to services for common and",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.0000457763672,
+      89.41999816894531,
+      514.3399658203125,
+      128.5800018310547
+    ],
+    "text": "debilitating child mental health problems—such as early anxiety disorders—are essential. Continued development and evaluation of the I-CALM program may be a critical effort on this front.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      89.998046875,
+      145.8599853515625,
+      195.59805297851562,
+      160.13998413085938
+    ],
+    "text": "Acknowledgments",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      149.99806213378906,
+      167.2659912109375,
+      475.35009765625,
+      196.71400451660156
+    ],
+    "text": "Funding This work was supported by the National Institute of Mental Health [Grant number K23 MH090247].",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      89.9941177368164,
+      211.8599853515625,
+      154.5661163330078,
+      226.13998413085938
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.00311279296875,
+      233.82199096679688,
+      501.9212646484375,
+      254.86599731445312
+    ],
+    "text": "Albano, AM., Comer, JS., Compton, SN., Piacentini, J., Kendall, PC., Birmaher, B., Walkup, JT., Ginsburg, GS., Rynn, MA., McCracken, J., Keeton, C., Sakolsky, DJ., Sherrill, JT. Secondary",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.0030975341797,
+      255.82199096679688,
+      521.6944580078125,
+      418.8659973144531
+    ],
+    "text": "outcomes from the Child/Adolescent Anxiety Multimodal Study (CAMS): Implications for clinical practice. under review Barlow DH, Bullis JR, Comer JS, Armetaj AA. Evidence-based psychological treatments: An update and a way forward. Annual Review of Clinical Psychology. 2013; 9:1–27. http://dx.doi.org/10.1146/ annurev-clinpsy-050212-185629 . Benjamin CL, Harrison JP, Settipani CA, Brodman DM, Kendall PC. Anxiety and related outcomes in young adults 7 to 15 years after receiving treatment of child anxiety. Journal of Consulting and Clinical Psychology. 2013; 81:865–876. http://dx.doi.org/10.1037/a0033048 . [PubMed: 23688146] Bird, DC., Dempsey, P., Hartley, D. Addressing mental health workforce needs in underserved rural areas: Accomplishments and challenges. Portland, ME: Maine Rural Health Research Center; 2001. Boisvert CM, Faust D. Practicing psychologists’ knowledge of general psychotherapy research findings: Implications for science-practice relations. Professional Psychology: Research and Practice. 2006; 37:708–716. http://dx.doi.org/10.1037/0735-7028.37.6.708 . Borges G, Angst J, Nock MK, Ruscio AM, Kessler RC. Risk factors for the incidence and persistence",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.0033416748047,
+      419.8219909667969,
+      514.8814697265625,
+      589.8660278320312
+    ],
+    "text": "of suicide-related outcomes: A 10-year follow-up study using the national comorbidity surveys. Journal of Affective Disorders. 2008; 105(1–3):25–33. DOI: 10.1016/j.jad.2007.01.036 [PubMed: 17507099] Carpenter AL, Puliafico AC, Kurtz SMS, Pincus DB, Comer JS. Extending Parent-Child Interaction Therapy for early childhood internalizing problems: New advances for an overlooked population. Clinical Child and Family Psychology Review. 2014; 17:340–356. http://dx.doi.org/10.1007/ s10567-014-0172-4 . [PubMed: 25212716] Cartwright-Hatton S, McNally D, Field AP, Rust S, Laskey B, Dixon C, Gallagher B, Harrington R, Miller C, Pemberton K, Symes W, White C, Woodham A. A new parenting-based group intervention for young anxious children: Results of a randomized controlled trial. Journal of the American Academy of Child and Adolescent Psychiatry. 2011; 50:242–251. http://dx.doi.org/ 10.1016/j.jaac.2010.12.015 . [PubMed: 21334564] Chou T, Comer JS, Turvey CL, Karr A, Spargo G. Technical considerations for the delivery of realtime child telemental health care. Journal of Child and Adolescent Psychopharmacology. 2015 Manuscript in press.",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      150.00343322753906,
+      592.8220825195312,
+      522.0185546875,
+      692.8660278320312
+    ],
+    "text": "Chronis-Tuscano A, Rubin KH, O’Brien KA, Coplan RJ, Thomas SR, Dougherty LR, Cheah CS, Watts K, Heverly Fitt S, Huggins SL, Menzer Begle AS, Wimsatt M. Preliminary evaluation of a multimodal early intervention program for behaviorally inhibited preschoolers. Journal of Consulting and Clinical Psychology. 2015; 83:534–540. http://dx.doi.org/10.1037/a0039043 . [PubMed: 25798728] Chu BC, Kendall PC. Positive association of child involvement and treatment outcome within a manual-based cognitive-behavioral treatment for children with anxiety. Journal of Consulting and Clinical Psychology. 2004; 72:821–829. http://dx.doi.org/10.1037/0022-006X.72.5.821 . [PubMed: 15482040]",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 18,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      150.00299072265625,
+      60.81800079345703,
+      497.6012268066406,
+      81.86199951171875
+    ],
+    "text": "Colman I, Wadsworth MEJ, Croudace TJ, Jones PB. Forty-year psychiatric outcomes following assessment for internalizing disorder in adolescence. American Journal of Psychiatry. 2007;",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      150.0030059814453,
+      82.81800079345703,
+      520.1912841796875,
+      254.86199951171875
+    ],
+    "text": "164(1):126–133. DOI: 10.1176/appi.ajp.164.1.126 [PubMed: 17202554] Comer JS. Introduction to the special section: Applying new technologies to extend the scope and accessibility of mental health care. Cognitive and Behavioral Practice. 2015; 22:253–257. http:// dx.doi.org/10.1016/j.cbpra.2015.04.002 . Comer JS, Barlow DH. The occasional case against broad dissemination and implementation: Retaining a role for specialty care in the delivery of psychological treatments. American Psychologist. 2014; 69(1):1–18. http://dx.doi.org/10.1037/a0033582 . [PubMed: 23915401] Comer JS, Blanco C, Grant B, Hasin D, Liu SM, Turner JB, Olfson M. Health-related quality of life and across the anxiety disorders: Results from the National Epidemiologic Survey on Alcohol and Related Conditions. Journal of Clinical Psychiatry. 2011; 72:43–50. http://dx.doi.org/10.4088/JCP. 09m05094blu . [PubMed: 20816036] Comer, JS., Furr, JM., Cooper-Vince, CE., Kerns, CE., Chan, PT., Edson, AL., Khanna, M., Franklin, ME., Garcia, AM., Freeman, JB. Internet-delivered, family-based treatment for early-onset OCD: A preliminary case series. Journal of Clinical Child and Adolescent Psychology. 2013. http:// dx.doi.org/10.1080/15374416.2013.855127",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      150.00308227539062,
+      257.8179931640625,
+      523.7373657226562,
+      416.86199951171875
+    ],
+    "text": "Comer JS, Furr JM, Cooper-Vince C, Madigan RJ, Chow C, Chan PT, Idrobo F, Chase RM, McNeil CB, Eyberg SM. Rationale and considerations for the Internet-based delivery of Parent-Child Interaction Therapy. Cognitive and Behavioral Practice. 2015; 22:302–316. http://dx.doi.org/ 10.1016/j.cbpra.2014.07.003 . [PubMed: 26120268] Comer, JS., Furr, JM., Miguel, E., Coxe, S., Cornacchio, D., DeSerisy, M., Freeman, JB. Internetdelivered, family-based treatment for early-onset OCD: A pilot randomized trial. 2016. Manuscript in preparation Comer JS, Myers KM. Future directions in the use of telemental health to improve the accessibility and quality of children’s mental health services. Journal of Child and Adolescent Psychopharmacology. 2015 Manuscript in press. Comer JS, Puliafico AC, Aschenbrand SG, McKnight K, Robin JA, Goldfine ME, Albano AM. A pilot feasibility evaluation of the CALM program for anxiety disorders in early childhood. Journal of Anxiety Disorders. 2012; 26(1):40–49. http://dx.doi.org/10.1016/j.janxdis.2011.08.011 . [PubMed: 21917417]",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      150.00318908691406,
+      419.8179931640625,
+      522.990478515625,
+      582.8619995117188
+    ],
+    "text": "Costello EJ, Mustillo S, Erkanli A, Keeler G, Angold A. Prevalence and development of psychiatric disorders in childhood and adolescence. Archives of General Psychiatry. 2003; 60(8):837–844. DOI: 10.1001/archpsyc.60.8.837 [PubMed: 12912767] Crum KI, Comer JS. Using synchronous videoconferencing to deliver family-based mental health care. Journal of Child and Adolescent Psychopharmacology. 2015 Manuscript in press. Donovan CL, March S. Online CBT for preschool anxiety disorders: A randomised control trial. Behaviour Research and Therapy. 2014; 58:24–35. DOI: 10.1016/j.brat.2014.05.001 [PubMed: 24927471] Egger HL, Angold A. Common emotional and behavioral disorders in preschool children: Presentation, nosology, and epidemiology. Journal of Child Psychology and Psychiatry. 2006; 47:313–337. DOI: 10.1111/j.1469-7610.2006.01618.x [PubMed: 16492262] Eyberg, SM., McDirmid, MM., Duke, M., Boggs, SR. Manual for the Dyadic Parent-Child Interaction Coding System. 3rd. Gainesville, FL: University of Florida; 2004. Eyberg, SM., Funderburk, B. Parent-Child Interaction Therapy protocol. Gainesville, FL: PCIT",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      150.0033416748047,
+      583.8180541992188,
+      518.373779296875,
+      685.8619995117188
+    ],
+    "text": "International; 2011. Guy, W. ECDEU Assessment Manual for Psychopharmacology – Revised. Rockville, MD: U.S. Department of Health, Education, and Welfare, Public Health Service, Alcohol, Drug Abuse, and Mental Health Administration, NIMH Psychopharmacology Research Branch, Division of Extramural Research Programs; 1976. Hirshfeld-Becker DR, Masek B, Henin A, Blakely LR, Pollock-Wurman RA, McQuade J, Biederman J. Cognitive behavioral therapy for 4- to 7-year-old children with anxiety disorders: a randomized clinical trial. Journal of Consulting and Clinical Psychology. 2010; 78(4):498–510. DOI: 10.1037/ a0019055 [PubMed: 20658807]",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 19,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      150.00299072265625,
+      60.81800079345703,
+      496.21514892578125,
+      81.86199951171875
+    ],
+    "text": "Horrigan, J. Home Broadband Adoption 2009. Washington, DC: Pew Internet & American Life Project; 2009.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      150.00299072265625,
+      84.81800079345703,
+      523.4132690429688,
+      245.86199951171875
+    ],
+    "text": "Horvath AO, Greenberg LS. Development and validation of the Working Alliance Inventory. Journal of Counseling Psychology. 1989; 36:223–233. DOI: 10.1037/0022-0167.36.2.223 Jones DJ, Forehand R, Cuellar J, Parent J, Honeycutt A, Khavjou O, Gonzalez M, Anton M, Newey GA. Technology-enhanced program for child disruptive behavior disorders: Development and pilot randomized control trial. Journal of Clinical Child and Adolescent Psychology. 2014; 43:88–101. http://dx.doi.org/10.1080/15374416.2013.822308 . [PubMed: 23924046] Kazdin AE, Holland L, Crowley M, Breton S. Barriers to Treatment Participation Scale: Evaluation and validation in the context of child outpatient treatment. Journal of Child Psychology and Psychiatry. 1997; 38:1051–1062. Retrieved from http://ezproxy.fiu.edu/login?url=http:// search.proquest.com/docview/619204270?accountid=10901 . [PubMed: 9413802] Kazdin AE, Siegel TC, Bass D. Drawing on clinical practice to inform research on child and adolescent psychotherapy: Survey of practitioners. Professional Psychology: Research and Practice. 1990; 21:189–198. http://dx.doi.org/10.1037/0735-7028.21.3.189 . Khanna MS, Kendall PC. Computer-assisted cognitive behavioral therapy for child anxiety: Results of",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      150.00299072265625,
+      246.8179931640625,
+      523.9442749023438,
+      418.86199951171875
+    ],
+    "text": "a randomized clinical trial. Journal of Consulting and Clinical Psychology. 2010; 78:737–745. http://dx.doi.org/10.1037/a0019739 . [PubMed: 20873909] Kendall PC, Flannery-Schroeder F, Panichelli-Mindel SM, Southam-Gerow M, Henin A, Warman M. Therapy for youths with anxiety disorders: A second randomized clinical trial. Journal of Consulting and Clinical Psychology. 1997; 65(3):366–380. DOI: 10.1037/0022-006X.65.3.366 [PubMed: 9170760] Kendall PC, Hudson JL, Gosch E, Flannery-Schroeder E, Suveg C. Cognitive-behavioral therapy for anxiety disordered youth: A randomized clinical trial evaluating child and family modalities. Journal of Consulting and Clinical Psychology. 2008; 76(2):282–297. DOI: 10.1037/0022-006X. 76.2.282 [PubMed: 18377124] Kennedy SJ, Rapee RM, Edwards SL. A selective intervention program for inhibited preschool-aged children of parents with an anxiety disorder: Effects on current anxiety disorders and temperament. Journal of the American Academy of Child and Adolescent Psychiatry. 2009; 48:602–609. http:// dx.doi.org/10.1097/CHI.0b013e31819f6fa9 . [PubMed: 19454916] Kramer GM, Kinn JT, Mishkind MC. Legal, regulatory, and risk management issues in the use of",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      150.00299072265625,
+      419.8179931640625,
+      522.2523193359375,
+      591.8619995117188
+    ],
+    "text": "technology to deliver mental health care. Cognitive and Behavioral Practice. 2015; 22:258–268. http://dx.doi.org/10.1016/j.cbpra.2014.04.008 . Luby J, Lenze S, Tillman R. A novel early intervention for preschool depression: Findings from a pilot randomized controlled trial. Journal of Child Psychology and Psychiatry. 2012; 53:313–322. http:// dx.doi.org/10.1111/j.1469-7610.2011.02483.x . [PubMed: 22040016] March S, Spence SH, Donovan CL. The efficacy of an Internet-based cognitive-behavioral therapy intervention for child anxiety disorders. Journal of Pediatric Psychology. 2009; 34:474–487. DOI: 10.1093/jpepsy/jsn099 [PubMed: 18794187] Marker CD, Comer JS, Abramova V, Kendall PC. The reciprocal relationship between alliance and symptom improvement across the treatment of childhood anxiety. Journal of Clinical Child & Adolescent Psychology. 2013; 42:22–33. DOI: 10.1080/15374416.2012.723261 [PubMed: 23009693] McLeod BD, Islam NY, Chiu AW, Smith MM, Chu BC, Wood JJ. The Relationship Between Alliance and Client Involvement in CBT for Child Anxiety Disorders. Journal of Clinical Child & Adolescent Psychology. 2014; 43:735–741. DOI: 10.1080/15374416.2013.850699 [PubMed:",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      150.0030517578125,
+      592.8180541992188,
+      522.7202758789062,
+      694.8619995117188
+    ],
+    "text": "24245994] Merikangas KR, He J, Burstein M, Swendsen J, Avenevoli S, Case B, Olfson M. Service utilization for lifetime mental disorders in U.S. adolescents: Results of the national comorbidity surveyadolescent supplement (NCSA). Journal of the American Academy of Child & Adolescent Psychiatry. 2011; 50(1):32–45. http://dx.doi.org/10.1016/j.jaac.2010.10.006 . [PubMed: 21156268] Myers K, Vander Stoep A, Zhou C, McCarty CA, Katon W. Effectiveness of a telehealth service delivery model for treating attention-deficit/hyperactivity disorder: A community-based randomized controlled trial. Journal of the American Academy of Child and Adolescent Psychiatry. 2015; 54:263–274. http://dx.doi.org/10.1016/j.jaac.2015.01.009 . [PubMed: 25791143]",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 20,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      150.00299072265625,
+      60.81800079345703,
+      519.3181762695312,
+      81.86199951171875
+    ],
+    "text": "National Advisory Committee on Rural Health. A Targeted Look at the Rural Health Care Safety Net: A Report to the Secretary, US Department of Health and Human Services. Washington, DC:",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      150.00302124023438,
+      82.81800079345703,
+      522.63916015625,
+      254.86199951171875
+    ],
+    "text": "National Advisory Committee on Rural Health; 2002. Pincus, DB., Chase, R., Chow, CW., Weiner, CL., Cooper-Vince, C., Eyberg, SM. Efficacy of modified Parent–Child Interaction Therapy for young children with separation anxiety disorder; Paper presented at the 44th annual meeting of the Association of Behavioral and Cognitive Therapies; 2010. Pincus, DB., Ehrenreich, JT., Mattis, SG., Craske, MG., Barlow, DH. Mastery of anxiety and panic for adolescents: Riding the wave, therapist guide. New York, NY: Oxford University Press; 2008. Pincus DB, Eyberg SM, Choate ML. Adapting Parent-Child Interaction Therapy for young children with separation anxiety disorder. Education and Treatment of Children. 2005; 28:163–181. Retrieved from http://ezproxy.fiu.edu/login?url=http://search.proquest.com/docview/621304185? accountid=10901 . Puliafico AC, Comer JS, Albano AM. Coaching Approach behavior and Leading by Modeling: Rationale, principles, and a case illustration of the CALM Program for anxious preschoolers. Cognitive and Behavioral Practice. 2013; 20:517–528. http://dx.doi.org/10.1016/j.cbpra. 2012.05.002 .",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      150.00340270996094,
+      257.8179931640625,
+      520.3087158203125,
+      418.86199951171875
+    ],
+    "text": "Puliafico AC, Comer JS, Pincus DB. Adapting Parent-Child Interaction Therapy to treat anxiety disorders in young children. Child and Adolescent Psychiatry Clinics of North America. 2012; 21:607–619. http://dx.doi.org/10.1016/j.chc.2012.05.005 . Rapee RM, Kennedy S, Ingram M, Edwards SL, Sweeney L. Prevention and early intervention of anxiety disorders in inhibited preschool children. Journal of Consulting and Clinical Psychology. 2005; 73:488–497. http://dx.doi.org/10.1037/0022-006X.73.3.488 . [PubMed: 15982146] Silverman, WK., Albano, AM. The Anxiety Disorders Interview Schedule for children for DSM-IV: Child and parent versions. San Antonio, TX: Psychological Corporation; 1997. Silverman WK, Ollendick TH. Evidence-based assessment of anxiety and its disorders in children and adolescents. Journal of Clinical Child and Adolescent Psychology. 2005; 34:380–411. http:// dx.doi.org/10.1207/s15374424jccp3403_2 . [PubMed: 16026211] Silverman WK, Pina AA, Viswesvaran C. Evidence-based psychosocial treatments for phobic and anxiety disorders in children and adolescents. Journal of Clinical Child and Adolescent Psychology. 2008; 37(1):105–130. DOI: 10.1080/15374410701817907 [PubMed: 18444055]",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      150.00347900390625,
+      421.8179931640625,
+      524.2056884765625,
+      582.8619995117188
+    ],
+    "text": "Simpson SG, Reid CL. Therapeutic alliance in videoconferencing psychotherapy: a review. Australian Journal of Rural Health. 2014; 22:280–299. DOI: 10.1111/ajr.12149. [PubMed: 25495622] Spence SH, Donovan CL, March S, Gamble A, Anderson RE, Prosser S, Kenardy J. A randomized controlled trial of online versus clinic-based CBT for adolescent anxiety. Journal of Consulting and Clinical Psychology. 2011; 79:629–642. http://dx.doi.org/10.1037/a0024512 . [PubMed: 21744945] Thompson-Hollands J, Kerns CE, Pincus DB, Comer JS. Parental accommodation of child anxiety and related symptoms: Range, impact, and correlates. Journal of Anxiety Disorders. 2014; 28:765–773. http://dx.doi.org/10.1016/j.janxdis.2014.09.007 . [PubMed: 25261837] United States Census Bureau. Statistical abstract of the United States: 2011. 2011. Available at: http:// www.census.gov/compendia/statab/2011/tables/11s1154.pdf Verduin TL, Kendall PC. Peer perceptions and liking of children with anxiety disorders. Journal of Abnormal Child Psychology. 2008; 36:459–469. DOI: 10.1007/s10802-007-9192-6 [PubMed: 18027084]",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      150.0035858154297,
+      585.8180541992188,
+      522.9818725585938,
+      687.8619995117188
+    ],
+    "text": "Walkup JT, Albano AM, Piacentini J, Birmaher B, Compton SN, Sherrill JT, Kendall PC. Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety. New England Journal of Medicine. 2008; 359(26):2753–2766. DOI: 10.1056/NEJMoa0804633 [PubMed: 18974308] Wu P, Goodwin RD, Fuller C, Liu X, Comer JS, Cohen P, Hoven CW. The relationship between anxiety disorders and substance use among adolescents in the community: Specificity and gender differences. Journal of Youth and Adolescence. 2010; 39:177–188. DOI: 10.1007/ s10964-008-9385-5 [PubMed: 20084563] Zhang W, Zheng J. The development of children’s social perspective taking and the differences between perspective taking subtypes. Psychological Science (China). 1999; 22:116–119. Retrieved",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 21,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      164.9969940185547,
+      60.81800079345703,
+      477.3061828613281,
+      81.86199951171875
+    ],
+    "text": "from http://ezproxy.fiu.edu/login?url=http://search.proquest.com/docview/619411832? accountid=10901 .",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 22,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      18.176008224487305,
+      75.86399841308594,
+      34.66400909423828,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      18.176008224487305,
+      244.9320068359375,
+      34.66400909423828,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      149.99801635742188,
+      282.28399658203125,
+      498.3481140136719,
+      305.8599853515625
+    ],
+    "text": "Figure 1. Mother and father average fear ratings across all of child’s feared situations, by session",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      18.176008224487305,
+      413.9999694824219,
+      34.66400909423828,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      18.176008224487305,
+      583.0679931640625,
+      34.66400909423828,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 23,
+    "bbox": [
+      110.9693603515625,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      149.9980010986328,
+      289.340087890625,
+      322.528076171875,
+      312.91607666015625
+    ],
+    "text": "Figure 2. Therapist-rated clinical severity, by session",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 24,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      18.176000595092773,
+      75.86399841308594,
+      34.66400146484375,
+      172.9320068359375
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      18.176000595092773,
+      244.9320068359375,
+      34.66400146484375,
+      341.9999694824219
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      149.9979705810547,
+      288.28399658203125,
+      510.7180480957031,
+      325.8599853515625
+    ],
+    "text": "Figure 3. FH constructed using Google Docs viewable by both the therapists and parents within the VTC interface",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      18.176000595092773,
+      413.9999694824219,
+      34.66400146484375,
+      511.0679626464844
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      18.176000595092773,
+      583.0679931640625,
+      34.66400146484375,
+      680.1359252929688
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 25,
+    "bbox": [
+      110.96935272216797,
+      714.2160034179688,
+      446.4639892578125,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10987854003906,
+      146.31500244140625,
+      434.5949401855469,
+      162.68499755859375
+    ],
+    "text": "•Psychoeducation about child anxiety, parenting, and rationale for exposures •Teach CDI skills (Praise, Reflection, Imitation, Description, Enthusiasm)",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10987854003906,
+      276.31500244140625,
+      338.0398864746094,
+      284.68499755859375
+    ],
+    "text": "•Live coach CDI during mild-level exposure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10987854003906,
+      318.31500244140625,
+      405.6973876953125,
+      350.68499755859375
+    ],
+    "text": "•Teach DADS steps for parent-directed exposure •Discuss upcoming moderate-level exposure •Assign CDI home practice and between-session exposure practice",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      363.31500244140625,
+      439.7474365234375,
+      371.68499755859375
+    ],
+    "text": "•Review child anxiety, CDI practice, and between-session xposure completion",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10980224609375,
+      387.31500244140625,
+      509.3773498535156,
+      419.68499755859375
+    ],
+    "text": "•Coaching of DADS steps during moderate- to severe-level exposure tasks completed at home and in local community (difficulty of exposure tasks increase sessions 7–13) •Provide feedback on parent use of DADS steps •Assign CDI home practice and between-session exposure practice using DADS steps",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10986328125,
+      566.3150024414062,
+      442.96490478515625,
+      590.6849975585938
+    ],
+    "text": "•Review child anxiety, CDI practice, and between-session exposure completion •Review progress made towards treatment goals •Create plan for continued exposure practice following termination",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      77.46875,
+      610.3150024414062,
+      505.0538024902344,
+      631.60498046875
+    ],
+    "text": "Note. CALM=Coaching Approach behavior and Leading by Modeling; CDI=Child Directed Interactions, DPICS-III=Dyadic Parent-Child Interaction Coding System, 3 rd Ed.; P=Parent; C=Child; DADS steps=Describe situation, Approach situation, give Direct Command, provide",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      110.9693374633789,
+      714.2160034179688,
+      446.4640197753906,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 26,
+    "bbox": [
+      77.99500274658203,
+      97.41999816894531,
+      228.2550048828125,
+      108.58000183105469
+    ],
+    "text": "I- CALM program content by session",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      19.176000595092773,
+      108.0,
+      35.66400146484375,
+      205.06800842285156
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      83.0,
+      122.35874938964844,
+      106.33999633789062,
+      132.74624633789062
+    ],
+    "text": "Session",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      122.35874938964844,
+      160.11758422851562,
+      132.74624633789062
+    ],
+    "text": "Session Focus",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      122.35874938964844,
+      280.8674011230469,
+      132.74624633789062
+    ],
+    "text": "Treatment Components",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      138.31500244140625,
+      185.23509216308594,
+      146.68499755859375
+    ],
+    "text": "CDI Teach+ Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      138.31500244140625,
+      312.3074035644531,
+      146.68499755859375
+    ],
+    "text": "•Program overview and goal setting",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      146.31500244140625,
+      174.4200897216797,
+      154.68499755859375
+    ],
+    "text": "Hierarchy Building",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10986328125,
+      162.31500244140625,
+      287.5123596191406,
+      178.68499755859375
+    ],
+    "text": "•CDI skill role-play •Assign CDI home practice",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      191.31500244140625,
+      155.91758728027344,
+      199.68499755859375
+    ],
+    "text": "CDI Coach 1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      191.31500244140625,
+      324.2098693847656,
+      215.68499755859375
+    ],
+    "text": "•Welcome child to program •Review child anxiety and CDI practice •DPICS-III coding of parent CDI skills",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      212.31500244140625,
+      194.10009765625,
+      220.68499755859375
+    ],
+    "text": "CDI Coach 2 + Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10987854003906,
+      215.31500244140625,
+      332.0924072265625,
+      223.68499755859375
+    ],
+    "text": "•Live coach CDI and give parent feedback",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      220.31500244140625,
+      143.0100860595703,
+      228.68499755859375
+    ],
+    "text": "Planning",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10987854003906,
+      223.31500244140625,
+      324.1873474121094,
+      239.68499755859375
+    ],
+    "text": "•Discuss upcoming mild-level exposure •Assign CDI home practice",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      252.3149871826172,
+      194.10009765625,
+      260.68499755859375
+    ],
+    "text": "CDI Coach 3 + Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      252.3149871826172,
+      332.0924072265625,
+      276.68499755859375
+    ],
+    "text": "•Review child anxiety and CDI practice •DPICS-III coding of parent CDI skills •Live coach CDI and give parent feedback",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      19.176000595092773,
+      277.0679931640625,
+      35.66400146484375,
+      374.135986328125
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      281.31500244140625,
+      194.10009765625,
+      289.68499755859375
+    ],
+    "text": "CDI Coach 4 + Exposure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10986328125,
+      284.31500244140625,
+      287.5123596191406,
+      292.68499755859375
+    ],
+    "text": "•Assign CDI home practice",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      310.31500244140625,
+      156.12759399414062,
+      318.68499755859375
+    ],
+    "text": "DADS Teach",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      310.31500244140625,
+      324.2098693847656,
+      334.68499755859375
+    ],
+    "text": "•Review child anxiety and CDI practice •DADS steps role-play",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      363.31500244140625,
+      171.09759521484375,
+      379.68499755859375
+    ],
+    "text": "DADS Coach 1 + Exposure 3",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10989379882812,
+      371.31500244140625,
+      322.5149230957031,
+      387.68499755859375
+    ],
+    "text": "•DPICS-III coding of parent CDI skills •Abbreviated coaching of CDI skills",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      392.31500244140625,
+      171.09759521484375,
+      408.68499755859375
+    ],
+    "text": "DADS Coach 2 + Exposure 4",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      421.31500244140625,
+      171.09759521484375,
+      437.68499755859375
+    ],
+    "text": "DADS Coach 3 + Exposure 5",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      19.176000595092773,
+      446.135986328125,
+      35.66400146484375,
+      543.2039794921875
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      450.31500244140625,
+      171.09759521484375,
+      466.68499755859375
+    ],
+    "text": "DADS Coach 4 + Exposure 6",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      479.31500244140625,
+      171.09759521484375,
+      495.68499755859375
+    ],
+    "text": "DADS Coach 5 + Exposure 7",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      508.31500244140625,
+      171.09759521484375,
+      524.6849975585938
+    ],
+    "text": "DADS Coach 6 + Exposure 8",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      537.3150024414062,
+      171.09759521484375,
+      553.6849975585938
+    ],
+    "text": "DADS Coach 7 + Exposure 9",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      116.340087890625,
+      566.3150024414062,
+      180.60009765625,
+      574.6849975585938
+    ],
+    "text": "Review + Graduation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      205.10984802246094,
+      590.3150024414062,
+      303.5848693847656,
+      598.6849975585938
+    ],
+    "text": "•Treatment graduation ceremony",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      19.176000595092773,
+      615.2039794921875,
+      35.66400146484375,
+      712.2719116210938
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      77.99652862548828,
+      633.2349853515625,
+      227.97402954101562,
+      641.60498046875
+    ],
+    "text": "Selective attention to promote exposure approach.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 26,
+    "bbox": [
+      284.9010009765625,
+      79.64500427246094,
+      315.10498046875,
+      90.3550033569336
+    ],
+    "text": "Table 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 27,
+    "bbox": [
+      77.99500274658203,
+      97.41999816894531,
+      516.47509765625,
+      108.58000183105469
+    ],
+    "text": "Clinical characteristics at pretreatment and posttreatment, as assessed by an independent evaluator masked to",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 27,
+    "bbox": [
+      272.68017578125,
+      202.81500244140625,
+      358.29266357421875,
+      211.18499755859375
+    ],
+    "text": "2 (“Borderline mentally ill”)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 27,
+    "bbox": [
+      274.6751708984375,
+      235.81500244140625,
+      356.29766845703125,
+      244.18499755859375
+    ],
+    "text": "1 (“Very Much Improved”)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 27,
+    "bbox": [
+      77.46875762939453,
+      258.31500244140625,
+      370.5148620605469,
+      266.68499755859375
+    ],
+    "text": "Note: CSR=Clinical Severity Rating (range: 0–8, with scores >4 denoting diagnostic criteria met)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 27,
+    "bbox": [
+      110.96934509277344,
+      714.2159423828125,
+      446.4640197753906,
+      723.14404296875
+    ],
+    "text": "Evid Based Pract Child Adolesc Ment Health. Author manuscript; available in PMC 2017 November 03.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 27,
+    "bbox": [
+      19.176000595092773,
+      108.0,
+      35.66400146484375,
+      205.06800842285156
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      77.99500274658203,
+      111.41999816894531,
+      274.89501953125,
+      122.58000183105469
+    ],
+    "text": "treatment selection, Internet format, and progress",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      214.12506103515625,
+      136.35874938964844,
+      256.74755859375,
+      146.74624633789062
+    ],
+    "text": "Pretreatment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      83.0,
+      158.31500244140625,
+      198.18499755859375,
+      213.68499755859375
+    ],
+    "text": "Diagnoses 1 Generalized anxiety disorder (CSR) Separation anxiety disorder (CSR) Global Severity 2",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      208.18505859375,
+      202.81500244140625,
+      262.6800537109375,
+      211.18499755859375
+    ],
+    "text": "5 (“Markedly ill”)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      83.0,
+      219.31500244140625,
+      151.41334533691406,
+      246.68499755859375
+    ],
+    "text": "Global Functioning 3 Global Improvement 2",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      233.55755615234375,
+      235.81500244140625,
+      237.30755615234375,
+      244.18499755859375
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      77.46875762939453,
+      272.31500244140625,
+      335.1524963378906,
+      285.68499755859375
+    ],
+    "text": "1Assessed via the Anxiety Disorders Interview Schedule for Children (Parent Report)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      19.176000595092773,
+      277.0679931640625,
+      35.66400146484375,
+      374.135986328125
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      77.46878814697266,
+      291.31500244140625,
+      297.5700988769531,
+      323.68499755859375
+    ],
+    "text": "2Assessed via the Clinical Global Impressions (CGI) Scale 3Assessed via the Children’s Global Assessment of Functioning (CGAS)",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      19.176000595092773,
+      446.135986328125,
+      35.66400146484375,
+      543.2039794921875
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      19.176000595092773,
+      615.2039794921875,
+      35.66400146484375,
+      712.2719116210938
+    ],
+    "text": "Author Manuscript",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 27,
+    "bbox": [
+      284.9010009765625,
+      79.64500427246094,
+      315.10498046875,
+      90.3550033569336
+    ],
+    "text": "Table 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 27,
+    "bbox": [
+      292.93017578125,
+      136.35874938964844,
+      338.0426940917969,
+      146.74624633789062
+    ],
+    "text": "Posttreatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 27,
+    "bbox": [
+      313.61517333984375,
+      188.81500244140625,
+      317.36517333984375,
+      197.18499755859375
+    ],
+    "text": "–",
+    "line_count": 1,
+    "column": 2
+  }
+]

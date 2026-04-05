@@ -1,0 +1,5234 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      45.35431671142578,
+      50.393131256103516,
+      327.225341796875,
+      58.39545440673828
+    ],
+    "text": "Journal of Child Psychology and Psychiatry 58:11 (2017), pp 1229–1238",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      88.95120239257812,
+      88.6982650756836,
+      506.2945861816406,
+      108.62356567382812
+    ],
+    "text": "Intensive prolonged exposure treatment for",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      61.00197982788086,
+      110.63802337646484,
+      534.2816772460938,
+      130.56332397460938
+    ],
+    "text": "adolescent complex posttraumatic stress disorder:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      204.3784637451172,
+      132.57778930664062,
+      390.799560546875,
+      152.50308227539062
+    ],
+    "text": "a single-trial design",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      197.1212158203125,
+      169.59141540527344,
+      519.0859985351562,
+      185.426025390625
+    ],
+    "text": "Rianne A. de Kleine, 1,3 Mieke Heyvaert, 4 Eni S. Becker, 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      159.3638153076172,
+      181.5536346435547,
+      435.90802001953125,
+      197.38824462890625
+    ],
+    "text": "Gert-Jan Hendriks, 1,2,5 and Agnes van Minnen 1,2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.3528938293457,
+      197.90530395507812,
+      549.923828125,
+      238.7733154296875
+    ],
+    "text": "1 Overwaal Centre of Expertise for Anxiety Disorders, OCD and PTSD, Institution for Integrated Mental Health Care Pro Persona, Nijmegen; 2 Behavioural Science Institute, NijCare, Radboud University, Nijmegen; 3 Institute of Psychology, Leiden University, Leiden, The Netherlands; 4 Faculty of Psychology and Educational Sciences, Methodology of Educational Sciences Research Group, Catholic University of Leuven, Leuven, Belgium; 5 Department",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      126.02676391601562,
+      239.728271484375,
+      469.21112060546875,
+      248.694580078125
+    ],
+    "text": "of Psychiatry, Radboud University Medical Centre, Nijmegen, The Netherlands",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.35248565673828,
+      274.4638977050781,
+      550.0360717773438,
+      458.794677734375
+    ],
+    "text": "Background: The current study evaluated the effectiveness and safety of intensive prolonged exposure (PE) targeting adolescent patients with complex posttraumatic stress disorder (PTSD) and comorbid disorders following multiple interpersonal trauma. Methods: Ten adolescents meeting full diagnostic criteria for PTSD were recruited from a specialized outpatient mental health clinic and offered a standardized intensive PE. The intensive PE consisted of three daily 90-min exposure sessions delivered on ﬁve consecutive weekdays, followed by 3 weekly 90-min booster sessions. In a single-trial design, the participants were randomly allocated to one of ﬁve baseline lengths (4 – 8 weeks) before starting the intensive PE. Before, during, and after intensive PE completion, self-reported PTSD symptom severity was assessed weekly as a primary outcome (a total of 21 measurements). Furthermore, clinician-administered PTSD diagnostic status and symptom severity (primary outcome), as well as self-reported comorbid symptoms (secondary outcomes), were assessed at four single time points (baseline-to-6-month follow-up). Results: Time-series analyses showed that self-reported PTSD symptom severity signiﬁcantly declined following treatment ( p = .002). Pre-postgroup analyses demonstrated signiﬁcant reductions of clinician-administered PTSD symptom severity and self-reported comorbidity that persisted during the 3- and 6-month follow-ups (all ps < .05), where 80% of adolescents had reached diagnostic remission of PTSD. There was neither treatment dropout nor any adverse events. Conclusions: The results of this ﬁrst proof of concept trial suggest that intensive PE can be effective and safe in an adolescent population with complex PTSD, although the gains achieved need to be conﬁrmed in a randomized controlled trial. Keywords: Complex PTSD; treatment outcome; adolescents; prolonged exposure; intensive treatment.",
+    "line_count": 17,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      76.19529724121094,
+      172.04273986816406,
+      179.03250122070312,
+      185.426025390625
+    ],
+    "text": "Lotte Hendriks, 1,2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.35431671142578,
+      488.6190490722656,
+      286.3277587890625,
+      762.396240234375
+    ],
+    "text": "Introduction Posttraumatic stress disorder (PTSD) is a severe and very debilitating disorder. A meta-analysis evaluating 43 independent samples showed that the overall PTSD rate in trauma-exposed children and adolescents was 15.9%, with children and adolescents having been exposed to interpersonal trauma, for example sexual and physical abuse, showing the highest risk (Alisic et al., 2014). In clinical guidelines across the world, traumafocused therapy (TFT) is considered the ﬁrst-line treatment for these children and adolescents (International Society for Traumatic Stress Studies, Foa, Keane, Friedman, & Cohen, 2009; National Institute for Health and Clinical Excellence Guidelines on PTSD, NICE, 2005). A recent meta-analysis evaluating 14 studies describing the effects of PTSD treatments in children and adolescents indeed concluded that TFT provided the best evidence of effectiveness (Gillies, Taylor, Gray, O’Brien, & D’Abrew, 2013). Proven effective TFT protocols include the traumafocused cognitive behavioral therapy (TF-CBT) of Cohen, Mannarino, and Deblinger (2006), comprising",
+    "line_count": 23,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      45.35431671142578,
+      785.0789794921875,
+      247.3621826171875,
+      793.0491943359375
+    ],
+    "text": "Conﬂict of interest statement: No conﬂicts declared.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      454.4520263671875,
+      50.393131256103516,
+      549.9168701171875,
+      58.36333084106445
+    ],
+    "text": "doi:10.1111/jcpp.12756",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      308.9765625,
+      483.924072265625,
+      549.939697265625,
+      792.2760009765625
+    ],
+    "text": "gradual exposure and other trauma-focused techniques (e.g. cognitive processing), and the prolonged exposure (PE) protocol by Foa, McLean, Capaldi, and Rosenﬁeld (2013). In both protocols, treatment is delivered in weekly sessions over the course of several months. Given that most RCTs thus far focused on the effectiveness of TFT for children or adolescents with PTSD following single trauma exposure (Gillies et al., 2013), the effectiveness of such programs for young patients having suffered multiple trauma is still largely unknown. There is also only limited research available about the effectiveness of TFT in young populations showing symptoms of complex PTSD, such as affect dysregulation, negative self-concept, and interpersonal problems, or in populations showing other comorbid symptoms (Smith et al., 2013). In response to this research gap, it has recently been suggested that, for safety reasons, in clinical practice, a phase-based approach, in which a stabilizing phase is offered prior to starting the traumafocused treatment phase, would be advisable for this group of complex PTSD patients (Leenarts, Diehle, Doreleijers, Jansma, & Lindauer, 2013). This recommendation was partly based on the incorporation of additional modules (e.g. affective coping",
+    "line_count": 26,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      88.49759674072266,
+      51.699649810791016,
+      168.53033447265625,
+      59.66984939575195
+    ],
+    "text": "Lotte Hendriks et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      45.35430145263672,
+      78.4542465209961,
+      286.3182678222656,
+      566.126708984375
+    ],
+    "text": "techniques) in the most researched TF-CBT protocol of Cohen et al. (2006); however, the effects of those additional modules have not been clariﬁed (Leenarts et al., 2013). Furthermore, as a stand-alone treatment, PE is underutilized in clinical practice in general and clinicians perceive barriers to the treatment in terms of dropout, adverse events, and symptom exacerbation (Van Minnen, Hendriks, & Olff, 2010). Because it is especially children and adolescents who are exposed to interpersonal trauma that are most likely to develop PTSD, it is of paramount importance to establish TFT effectiveness in pediatric patients with complex PTSD following interpersonal traumas. Furthermore, in view of the recent suggestions of a phase-based approach and the lack of evidence supporting its beneﬁts, it would be interesting to learn whether stand-alone TFT, that is without any stabilizing phase or additional module (s), is safe for this population. A factor that stands in the way of an effective treatment of PTSD in adolescents is premature discontinuation. Dropout rates were as high as 33% in the studies using Cohen’s TF-CBT protocol (Cohen, Mannarino, & Iyengar, 2011) and 21% for PE (Gilboa-Schechtman et al., 2010). A plausible explanation for these high dropout rates is lengthy treatment duration, which increases the likelihood of dropout. This would be in line with a meta-analysis of PTSD effect studies that showed that dropout among adult patients increased with increasing numbers of (weekly) sessions, and thus longer therapy duration (Imel, Laska, Jakupcak, & Simpson, 2013), warranting the assumption that premature termination may be prevented by treatments that offer sessions in a shorter period of time. Intensive TFT programs for adults with PTSD have recently been developed and tested, and one RCT found that intensive cognitive therapy delivered within a 1-week timeframe was equally effective in reducing PTSD symptoms",
+    "line_count": 41,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      101.82010650634766,
+      556.662109375,
+      168.87680053710938,
+      566.126708984375
+    ],
+    "text": "as a regular",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      177.9012908935547,
+      556.662109375,
+      239.96063232421875,
+      566.126708984375
+    ],
+    "text": "weekly-based",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      248.93685913085938,
+      556.662109375,
+      286.274658203125,
+      566.126708984375
+    ],
+    "text": "protocol",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      45.35430145263672,
+      568.6244506835938,
+      286.4015197753906,
+      793.2970581054688
+    ],
+    "text": "(Ehlers et al., 2014). Other studies were exploratory and also showed that intensive TFT reduced PTSD symptoms (Hendriks, de Kleine, Hendriks, & van Minnen, 2016). More importantly, very few patients left the programs early and adverse events did not occur. There are two uncontrolled PTSD studies that showed an intensive TFT delivered in the course of 4 weeks to be effective in reducing self-reported and clinician-rated PTSD symptoms in children and adolescents having experienced multiple interpersonal traumas (Matulis, Resick, Rosner, & Steil, 2014; Silverstone, Greenspan, Silverstone, Sawa, & Linder, 2016). Although these initial outcomes are encouraging, the effectiveness of intensive TFT for pediatric PTSD populations needs to be further established. The purpose of the present study accordingly was to investigate the effectiveness and safety of an intensive PE therapy for adolescents in an experimental design",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      358.98065185546875,
+      51.699649810791016,
+      550.0066528320312,
+      59.66984939575195
+    ],
+    "text": "J Child Psychol Psychiatr 2017; 58(11): 1229–38",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      308.9765319824219,
+      78.45955657958984,
+      550.0037841796875,
+      195.52792358398438
+    ],
+    "text": "that controlled for time effects. The program was speciﬁcally developed for adolescents who developed PTSD due to multiple interpersonal traumas and who show high levels of complex PTSD symptoms as well as fulﬁlling criteria for other comorbid disorders. We hypothesized that our intensive PE would ameliorate their PTSD symptoms, as well as depressive, general anxiety, and dissociative symptoms, and second, that it would be low in dropout and safe.",
+    "line_count": 10,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      308.9762878417969,
+      220.6884765625,
+      549.9252319335938,
+      261.3831787109375
+    ],
+    "text": "Methods The trial design was approved by the medical ethics committee of the Radboud University Medical Centre and registered in the Dutch trial register with number NTR4301 (trialregister.nl).",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      308.9754638671875,
+      281.2123718261719,
+      550.0064086914062,
+      566.277099609375
+    ],
+    "text": "Participants The participants ( N = 10) were regular referrals to a Dutch outpatient mental health clinic specialized in the treatment of anxiety disorders who were recruited between 2013 and 2014 (see participant ﬂow diagram, Figure 1). Inclusion criteria were (a) age 12 – 18 years; (b) history of multiple interpersonal trauma; (c) meeting full DSM-IV-TR (APA, 2000) diagnostic criteria for PTSD established through the Kiddie-Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version PTSD section (K-SADS-PL-PTSD; Kaufman et al., 1997); (d) written informed adolescent and (if under 18) parental consent. Exclusion criteria were (a) suicide attempt within 8 weeks prior to study entry (i.e. suicidality without imminent threat was not an exclusion criterion); (b) inability to speak and write Dutch; (c) mental retardation (IQ ≤ 70); (d) changes in psychoactive medication within 8 weeks prior to enrollment; (e) ongoing trauma by a caregiver who is part of the child’s current primary-care system; (f) current DSM-IV PTSD diagnosis of the caregiver when involved in the child’s current treatment as established with the Mini-International Neuropsychiatric Interview (M.I.N.I.; Sheehan et al., 1998) as well as a clinical cut-off score of ≥ 20 on the PTSD self-report symptom scale (PSS-SR; Foa, 1995; Foa, Riggs, Dancu, & Rothbaum, 1993). In view of our aims, the presence of complex PTSD or other comorbid disorders was no exclusion criterion. The DSM-IV Axis I diagnoses of any comorbid disorders were assessed with the K-SADS-PL (Kaufman et al., 1997).",
+    "line_count": 28,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      308.9762878417969,
+      586.050048828125,
+      550.0088500976562,
+      791.4046020507812
+    ],
+    "text": "Treatment Our intensive PE therapy program was largely based on Foa’s PE protocol (Foa, Hembree, & Rothbaum, 2007), with the difference that, instead of weekly sessions, the intervention was delivered in ﬁve successive weekdays (of the same week) and comprised a total of 15 PE sessions. Each of the ﬁve treatment days, the adolescents received three individual, manualized 90-min sessions. The ﬁrst of these daily sessions comprised prolonged imaginal exposure during which the participant was asked to recount aloud the traumatic memory as vividly as possible, with closed eyes, in the present tense, and as detailed as possible. The second session concerned exposure by drawing in that the participants were instructed to draw the scene(s) of the trauma-memory hotspots and to include all anxiety-provoking details of this hotspot in the drawing. The third session of the day involved exposure in vivo, where participants were exposed to trauma-related material and situations. As an add-on to the manualized PE treatment, parents attended daily sessions involving psychoeducation and social support skill training, which we included based on",
+    "line_count": 20,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.35430145263672,
+      582.8267822265625,
+      549.9397583007812,
+      620.674072265625
+    ],
+    "text": "Figure 1 Flow diagram of participant recruitment and trial progress. BDI-II, Beck Depression Inventory Second Edition; BPD-47 Diss, Paranoid/dissociation subscale of the Borderline Personality Disorder symptom checklist; iPE, intensive Prolonged Exposure Therapy, ﬁrst ﬁve treatment days in 1 week; K-SADS-PL, PTSD section (current episode) of the Kiddie-Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version; PTSD, Posttraumatic stress disorder; SCARED, Screen for Child Anxiety-Related Emotional",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.35430145263672,
+      51.697452545166016,
+      140.81100463867188,
+      59.66765213012695
+    ],
+    "text": "doi:10.1111/jcpp.12756",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      185.41909790039062,
+      79.83203125,
+      266.6234130859375,
+      87.09772491455078
+    ],
+    "text": "Enrollment & intervention",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      243.47940063476562,
+      140.7158966064453,
+      285.88201904296875,
+      147.98159790039062
+    ],
+    "text": "Not suitable,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.79122924804688,
+      141.67897033691406,
+      180.72694396972656,
+      148.94467163085938
+    ],
+    "text": "Enrollment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      243.47940063476562,
+      150.34510803222656,
+      274.9754943847656,
+      157.61080932617188
+    ],
+    "text": "no PTSD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.98770141601562,
+      158.63157653808594,
+      192.1464080810547,
+      166.36563110351562
+    ],
+    "text": "• Assessed for",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      243.47940063476562,
+      159.962158203125,
+      265.9253234863281,
+      167.24002075195312
+    ],
+    "text": "( N = 4)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.98770141601562,
+      167.40338134765625,
+      204.989990234375,
+      192.01358032226562
+    ],
+    "text": "eligibility ( N = 15) • Eligible for Trial",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      243.74139404296875,
+      186.5872344970703,
+      286.1513366699219,
+      193.85293579101562
+    ],
+    "text": "Did not want",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      148.9198455810547,
+      193.05279541015625,
+      177.42465209960938,
+      200.33065795898438
+    ],
+    "text": "( N = 11)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      243.74139404296875,
+      196.2150421142578,
+      292.536376953125,
+      213.02352905273438
+    ],
+    "text": "to involve parents ( N = 1)",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.98770141601562,
+      209.9105682373047,
+      216.52508544921875,
+      234.40463256835938
+    ],
+    "text": "• Randomly allocated to 1 out of 5 baseline lengths ( N = 10)",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.79269409179688,
+      302.58551025390625,
+      220.74786376953125,
+      309.8633728027344
+    ],
+    "text": "iPE (completers N = 10)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      142.792724609375,
+      336.12451171875,
+      205.3780517578125,
+      377.0209655761719
+    ],
+    "text": "Booster session 1 Booster session 2 Booster session 3",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.35430145263672,
+      622.6817626953125,
+      240.0408477783203,
+      630.6519775390625
+    ],
+    "text": "Disorders; UCLA PTSD-RI, UCLA PTSD Reaction Index",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      45.35430145263672,
+      655.5923461914062,
+      286.3899230957031,
+      793.048828125
+    ],
+    "text": "the work of Thrasher, Power, Morant, Marks, and Dalgleish (2010) that showed that social support in dealing with the effects of trauma is predictive of better treatment gains. Parents were trained to improve the quality of their social support when responding to the adolescent sharing the trauma narrative with the aim to reduce the adolescent’s traumarelated avoidance behavior. The parent sessions were for the greater part conducted in the absence of the adolescents but at the end of the session, the adolescent was invited to also attend and share the traumatic narrative (s)he had processed that day with his/her parent(s) to provide them with the opportunity to apply their newly learned skills. One week after treatment completion, the adolescents received up to 3 weekly 90-min PE booster sessions within 1 month.",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      353.02874755859375,
+      51.697452545166016,
+      506.3682556152344,
+      59.66765213012695
+    ],
+    "text": "Intensive PE for adolescents with PTSD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      355.46478271484375,
+      79.83203125,
+      421.2884826660156,
+      87.09772491455078
+    ],
+    "text": "Measurement series",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.448486328125,
+      95.09125518798828,
+      383.33380126953125,
+      102.3569564819336
+    ],
+    "text": "Time-series design",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.93499755859375,
+      95.09125518798828,
+      459.51983642578125,
+      102.3569564819336
+    ],
+    "text": "Single time points",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.448486328125,
+      103.58124542236328,
+      365.5612487792969,
+      110.8469467163086
+    ],
+    "text": "(weekly UCLA",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.93499755859375,
+      103.58124542236328,
+      454.4416809082031,
+      110.8469467163086
+    ],
+    "text": "(K-SADS-PL, BDI-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.448486328125,
+      111.98621368408203,
+      349.0273742675781,
+      119.25191497802734
+    ],
+    "text": "PTSD-RI)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.93499755859375,
+      111.98621368408203,
+      454.8916015625,
+      127.6554183959961
+    ],
+    "text": "II, SCARED, BPD47 Diss)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.4499206542969,
+      243.85951232910156,
+      370.35003662109375,
+      259.6152038574219
+    ],
+    "text": "Baseline phase (4–8 weekly",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.95050048828125,
+      260.66656494140625,
+      445.48468017578125,
+      267.9322814941406
+    ],
+    "text": "Baseline (one",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.4499206542969,
+      260.75372314453125,
+      367.92626953125,
+      268.0194396972656
+    ],
+    "text": "measurements)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.95050048828125,
+      269.15655517578125,
+      438.553955078125,
+      284.8265075683594
+    ],
+    "text": "week before treatment)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45068359375,
+      302.59765625,
+      384.2653503417969,
+      326.6653137207031
+    ],
+    "text": "Intervention phase , consisting of: •",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.9512634277344,
+      319.4053955078125,
+      447.827880859375,
+      326.6711120605469
+    ],
+    "text": "Posttreatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      322.8047790527344,
+      320.01861572265625,
+      357.9344482421875,
+      327.2843322753906
+    ],
+    "text": "Treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.9512634277344,
+      327.80963134765625,
+      449.9610900878906,
+      335.0753479003906
+    ],
+    "text": "(after iPE before",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      323.5938415527344,
+      328.33349609375,
+      358.3151550292969,
+      335.5992126464844
+    ],
+    "text": "(5 weekly",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.9512634277344,
+      336.21240234375,
+      457.1968994140625,
+      343.4781188964844
+    ],
+    "text": "boosters sessions;",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      323.5938415527344,
+      336.73846435546875,
+      374.33685302734375,
+      344.0041809082031
+    ],
+    "text": "measurements)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      396.9512634277344,
+      344.5303955078125,
+      420.9847412109375,
+      351.8082580566406
+    ],
+    "text": "N = 10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.6051025390625,
+      394.9894714355469,
+      373.9801330566406,
+      419.47808837890625
+    ],
+    "text": "• Posttreatment (4–8 weekly measurements)",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.9365234375,
+      454.0540771484375,
+      449.2904968261719,
+      461.3197937011719
+    ],
+    "text": "3-month follow-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45001220703125,
+      454.0548095703125,
+      374.9631652832031,
+      461.3205261230469
+    ],
+    "text": "Follow-up phase",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.9365234375,
+      462.4447021484375,
+      432.3853759765625,
+      469.7225646972656
+    ],
+    "text": "up ( N = 10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45001220703125,
+      462.5455017089844,
+      376.3180847167969,
+      495.0428161621094
+    ],
+    "text": "(4 measurements; 3 months after treatment completion)",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.9365234375,
+      504.41046142578125,
+      449.28466796875,
+      520.0803833007812
+    ],
+    "text": "6-month followup ( N = 10)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45074462890625,
+      538.0130615234375,
+      364.3603515625,
+      545.2787475585938
+    ],
+    "text": "Analyzed with",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.937255859375,
+      538.0130615234375,
+      439.8327941894531,
+      545.2787475585938
+    ],
+    "text": "Analyzed with",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45074462890625,
+      546.4158325195312,
+      382.53619384765625,
+      553.6815185546875
+    ],
+    "text": "randomization tests",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.937255859375,
+      546.4158325195312,
+      451.0736083984375,
+      553.6815185546875
+    ],
+    "text": "Wilcoxon Signed",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45074462890625,
+      554.7314453125,
+      370.75921630859375,
+      561.9971313476562
+    ],
+    "text": "and combining p",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      394.937255859375,
+      554.7314453125,
+      460.3038635253906,
+      561.9971313476562
+    ],
+    "text": "Rank Tests (N = 10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      317.45074462890625,
+      563.1334838867188,
+      366.9671936035156,
+      570.399169921875
+    ],
+    "text": "values (N = 10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      308.9774475097656,
+      655.591552734375,
+      550.0030517578125,
+      693.4388427734375
+    ],
+    "text": "All participants were treated by a team of qualiﬁed therapists who were specially trained in PE; all had twice weekly group supervision from a senior therapist (AVM) for the duration of the trial.",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      308.9762878417969,
+      717.1807250976562,
+      550.0119018554688,
+      793.0490112304688
+    ],
+    "text": "Primary outcome measures Self-reported PTSD severity over the last week was monitored using the University of California at Los Angeles PTSD Reaction Index (UCLA PTSD-RI; Steinberg, Brymer, Decker, & Pynoos, 2004), adolescent version. This 22-item self-report scale has been shown to have good to excellent internal consistency reliability (Cronbach’s alpha between .88 and",
+    "line_count": 7,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      88.49759674072266,
+      51.699649810791016,
+      168.53033447265625,
+      59.66984939575195
+    ],
+    "text": "Lotte Hendriks et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.353515625,
+      78.57209014892578,
+      286.4002685546875,
+      146.2965545654297
+    ],
+    "text": ".91) and convergent validity (Steinberg et al., 2013). Clinicianadministered PTSD diagnostic status and symptom severity were measured by independent trained assessors, in accordance with the PTSD section (current episode) of the K-SADSPL (Kaufman et al., 1997), whose interrater agreement is high, while its test – retest reliability j coefﬁcients represent good agreement (Kaufman et al., 1997).",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35430145263672,
+      166.12574768066406,
+      183.7895965576172,
+      194.14981079101562
+    ],
+    "text": "Secondary outcome measures Comorbid symptoms.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      157.49290466308594,
+      185.66497802734375,
+      286.40289306640625,
+      193.6351776123047
+    ],
+    "text": "Severity of depressive symptoms",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35377502441406,
+      195.64288330078125,
+      286.4284362792969,
+      333.09954833984375
+    ],
+    "text": "was assessed with the Beck Depression Inventory (BDI; Beck, Ward, Mendelson, Mock, & Erbaugh, 1961), a 21-itemself-report questionnairewithhigh internal consistency (amean Cronbach’s alpha of .86; Beck, Steer, & Garbin, 1988). General anxiety symptoms were quantiﬁed using the 69-item self-report Screen for Child Anxiety-Related Emotional Disorders (SCARED), a measure showing good internal consistency (Cronbach’s alpha between .74 and .93), test – retest reliability, and discriminative validity (Birmaher et al., 1997). Dissociative symptoms were evaluated with the eight-item ‘Paranoid/Dissociation’ subscale of the Borderline Personality Disorder symptom checklist (BPD47 symptom checklist; Arntz & Dreessen, 1992), which selfreport questionnaire (full version) has shown excellent internal consistency (Cronbach’s alpha = .94; Arntz et al., 2003).",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35430145263672,
+      347.06622314453125,
+      141.88693237304688,
+      357.02880859375
+    ],
+    "text": "Dropout and safety.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      150.689697265625,
+      348.5436706542969,
+      286.3567810058594,
+      356.5138854980469
+    ],
+    "text": "Dropout was recorded by the ther-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35394287109375,
+      358.5215759277344,
+      286.370361328125,
+      416.32470703125
+    ],
+    "text": "apist and adverse events were monitored by self-report. Participants reported suicidal ideation, self-harm, and aggressive behavior on an 11-point Likert scale ranging from ‘no, not at all’ (0) to ‘yes, very much’ (10), while the use of alcohol and illicit or prescription drugs, crisis contacts with mental health providers,",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      91.44561767578125,
+      408.3544921875,
+      156.4481658935547,
+      416.32470703125
+    ],
+    "text": "and psychiatric",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      163.84291076660156,
+      408.3544921875,
+      220.998779296875,
+      416.32470703125
+    ],
+    "text": "hospitalization",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      228.30267333984375,
+      408.3544921875,
+      246.29937744140625,
+      416.32470703125
+    ],
+    "text": "were",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      253.64471435546875,
+      408.3544921875,
+      286.33050537109375,
+      416.32470703125
+    ],
+    "text": "reported",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35394287109375,
+      418.2757873535156,
+      139.22216796875,
+      426.2460021972656
+    ],
+    "text": "dichotomously (yes/no).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35430145263672,
+      446.07537841796875,
+      286.3316955566406,
+      511.9656982421875
+    ],
+    "text": "Design As is shown in Figure 1, two different measurement series were performed: a time-series design that comprised frequent selfreports, and four single time points (baseline, posttreatment, 3-, and 6-month follow-up) that comprised a clinician-administered interview as well as self-report measures.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35430145263672,
+      525.9323120117188,
+      139.16712951660156,
+      535.8949584960938
+    ],
+    "text": "Time-series design.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      147.968505859375,
+      527.4097900390625,
+      286.347900390625,
+      535.3800048828125
+    ],
+    "text": "This time-series design is an ideal",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35377502441406,
+      537.3310546875,
+      95.77804565429688,
+      545.30126953125
+    ],
+    "text": "experimental",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      103.40792083740234,
+      537.3310546875,
+      134.4279327392578,
+      545.30126953125
+    ],
+    "text": "strategy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      142.016357421875,
+      537.3310546875,
+      200.47933959960938,
+      545.30126953125
+    ],
+    "text": "for evaluating",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      208.00718688964844,
+      537.3310546875,
+      240.71368408203125,
+      545.30126953125
+    ],
+    "text": "a novel",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      248.3164520263672,
+      537.3310546875,
+      286.29766845703125,
+      545.30126953125
+    ],
+    "text": "treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35377502441406,
+      547.3089599609375,
+      286.36865234375,
+      714.6990966796875
+    ],
+    "text": "approach, like our intensive PE, as it allows both the intervention process and outcome to be evaluated (Morgan & Morgan, 2001). The severity of self-reported PTSD symptoms was assessed repeatedly: during the baseline phase and then continued during the intervention phase (weekly, 17 times in total). Baseline length varied between 4 and 8 weeks, with participants being randomly allocated to one of ﬁve baseline lengths (two participants per length). The intervention phase comprised a 5-week treatment phase (ﬁve consecutive weekdays of intensive PE, 1 week without treatment, and 3 weeks with weekly booster sessions) and a posttreatment phase that also varied from 4 to 8 weeks. Symptoms were further assessed (weekly, four measurements) during a 1-month follow-up phase, 3 months after treatment completion. Within this design, PTSD symptom severity scores during the intervention phase are compared with baseline scores.",
+    "line_count": 17,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.35430145263672,
+      728.6660766601562,
+      138.1509552001953,
+      738.6287231445312
+    ],
+    "text": "Single time points.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.947998046875,
+      730.1435546875,
+      286.34918212890625,
+      738.11376953125
+    ],
+    "text": "Clinician-administered PTSD diag-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      45.354248046875,
+      740.1214599609375,
+      286.3754577636719,
+      787.8900756835938
+    ],
+    "text": "nostic status and symptom severity, as well as self-reported comorbid symptoms, were evaluated at baseline (1 week before treatment), posttreatment (after intensive PE completion and before booster sessions), and at a 3-month and 6-month follow-up.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      358.98065185546875,
+      51.699649810791016,
+      550.0066528320312,
+      59.66984939575195
+    ],
+    "text": "J Child Psychol Psychiatr 2017; 58(11): 1229–38",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9762878417969,
+      78.3084945678711,
+      401.2210693359375,
+      106.33255004882812
+    ],
+    "text": "Data analysis Time-series design.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      410.00311279296875,
+      97.84766387939453,
+      549.9886474609375,
+      105.81786346435547
+    ],
+    "text": "A randomization test was conducted",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9760437011719,
+      107.82556915283203,
+      550.0159301757812,
+      245.3387908935547
+    ],
+    "text": "for each participant. Randomization tests are nonparametric signiﬁcance tests that are valid for single-case designs, without making distributional assumptions (Heyvaert & Onghena, 2014; Onghena & Edgington, 2005). The a priori null hypothesis for the randomization test was that intensive PE has no effect: participant responses are independent of the condition (i.e. ‘baseline’ vs. ‘intensive PE’) under which they are observed. The alternative hypothesis was that there are positive effects of the intensive PE on the UCLA PTSD-RI (directional, one-tailed), whereby a lower UCLA PTSD-RI scale score is expected in the intervention phase (B), compared to the baseline phase (A), for each participant. In accordance with this alternative hypothesis, the difference between the means for the baseline and intervention phase was applied as",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      462.9548645019531,
+      237.36859130859375,
+      549.9249877929688,
+      245.3387908935547
+    ],
+    "text": "test statistic for the",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9752197265625,
+      245.0574951171875,
+      549.9879760742188,
+      295.11517333984375
+    ],
+    "text": "randomization test: T ¼ \u0001 A \u0002 \u0001 B . The incorporation of randomization for each within-subject experimental design concerned the moment of phase change (i.e. the start of the intervention phase), resulting in ﬁve design possibilities: AAAAABBBB BBBBBBBB,",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      365.1014099121094,
+      287.14495849609375,
+      464.5950012207031,
+      295.11517333984375
+    ],
+    "text": "AAAAAABBBBBBBBBBB,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      471.1178283691406,
+      287.14495849609375,
+      549.9093627929688,
+      295.11517333984375
+    ],
+    "text": "AAAAAAABBBBBBB",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9752197265625,
+      295.3301086425781,
+      550.0223388671875,
+      544.1669311523438
+    ],
+    "text": "BBB, AAAAAAAABBBBBBBBB, and AAAAAAAAABBBBBBBB. 1 The test statistic was calculated based on the data collected for each participant. For instance, for participant 1, the following UCLA PTSD-RI total scores were collected for the different time points in the A phase: 37; 31; 32; 30; and 36 and B phase: 17; 20; 15; 15; 16; 17; 17; 15; 16; 18; 20; and 15. Accordingly, the observed test statistic for participant 1 was ((37 + 31 + 32 + 30 + 36)/5) – ((17 + 20 + 15 + 15 + 16 + 17 + 17 + 15 + 16 + 18 + 20 + 15)/12) = 16.45. Next, for each participant, the test statistic was calculated for all ﬁve design possibilities. These ﬁve test statistics were then sorted in ascending order, reﬂecting the randomization distribution under the null hypothesis. Following up on the example, for participant 1, the test statistics for the ﬁve possible permutations were 16.45, 13.77, 12.60, 10.69, and 9.14, respectively. The proportion of possible test statistic values that is as extreme as or even more extreme than the value of the test statistic based on the collected data is calculated and used to deﬁne the individual p value of the randomization test (Heyvaert & Onghena, 2014; Onghena & Edgington, 2005). The 10 individual p values that were the outcomes from the randomization tests were afterwards combined using the additive method (Edgington, 1972; Onghena & Edgington, 2005), and analyzed with the R software package developed by Bult \u0003 e and Onghena (SCDA package; Bult \u0003 e & Onghena, 2013).",
+    "line_count": 25,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9762878417969,
+      558.1338500976562,
+      397.18023681640625,
+      568.0964965820312
+    ],
+    "text": "Single time points.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      405.9779052734375,
+      559.611328125,
+      549.957275390625,
+      567.58154296875
+    ],
+    "text": "Analyses were conducted with statis-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9749755859375,
+      569.5892333984375,
+      550.0044555664062,
+      667.247314453125
+    ],
+    "text": "tical software (SPSS 22; IBM SPSS). Baseline scores on the measures assessing PTSD severity, depressive symptoms, general anxiety, and dissociative symptoms were compared with the posttreatment and 3- and 6-month follow-up scores using the nonparametric Wilcoxon signed rank tests because general assumptions for parametric testing were violated. Effect sizes were calculated with the formula r = Z / √ N , where N is the number of observations, and indicated using Cohen’s (1988) criteria (.1 = small effect; .3 = medium effect; and .5 = large effect).",
+    "line_count": 10,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      308.9762878417969,
+      699.91357421875,
+      549.94873046875,
+      788.360107421875
+    ],
+    "text": "Results Sample characteristics Our sample consisted of eight girls and two boys with a mean age of 15.90 years ( SD = 1.52, RANGE 13 – 18). Table 1 shows their baseline demographic, trauma, and clinical characteristics. All 10 had experienced multiple interpersonal traumas in the",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.354095458984375,
+      51.697818756103516,
+      140.810791015625,
+      59.66801834106445
+    ],
+    "text": "doi:10.1111/jcpp.12756",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35430145263672,
+      78.55713653564453,
+      167.37567138671875,
+      86.54228973388672
+    ],
+    "text": "Table 1 Sample characteristics",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.354305267333984,
+      97.4862060546875,
+      165.93544006347656,
+      133.42784118652344
+    ],
+    "text": "Characteristics ( N = 10) Education, No. (%) Lower level secondary school",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.5772705078125,
+      125.45764923095703,
+      245.00778198242188,
+      133.42784118652344
+    ],
+    "text": "5 (50)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29103469848633,
+      135.435546875,
+      194.12045288085938,
+      143.40574645996094
+    ],
+    "text": "Intermediate/higher level secondary",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.57647705078125,
+      135.435546875,
+      245.00698852539062,
+      143.40574645996094
+    ],
+    "text": "4 (40)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29103088378906,
+      145.4134521484375,
+      168.41339111328125,
+      163.36155700683594
+    ],
+    "text": "school Lower level tertiary education",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.5772705078125,
+      155.391357421875,
+      245.00778198242188,
+      163.36155700683594
+    ],
+    "text": "1 (10)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.354305267333984,
+      165.31268310546875,
+      139.0232696533203,
+      183.2607879638672
+    ],
+    "text": "Trauma history, No. (%) Multiple sexual abuse",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.5772705078125,
+      175.29058837890625,
+      245.00778198242188,
+      183.2607879638672
+    ],
+    "text": "7 (70)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29103088378906,
+      185.26849365234375,
+      192.21636962890625,
+      193.2386932373047
+    ],
+    "text": "Multiple violent (nonsexual) assault",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.5764617919922,
+      185.26849365234375,
+      245.00697326660156,
+      193.2386932373047
+    ],
+    "text": "9 (90)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29103088378906,
+      195.24639892578125,
+      119.01092529296875,
+      203.2165985107422
+    ],
+    "text": "Emotional abuse",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      217.6453399658203,
+      195.24639892578125,
+      249.98916625976562,
+      203.2165985107422
+    ],
+    "text": "10 (100)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29103088378906,
+      205.167724609375,
+      81.32221221923828,
+      213.13792419433594
+    ],
+    "text": "Neglect",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      210.1039276123047,
+      205.167724609375,
+      276.5897521972656,
+      223.11582946777344
+    ],
+    "text": "8 (80) 9.30 (3.89), 1 – 13",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.354305267333984,
+      215.1456298828125,
+      199.48683166503906,
+      233.09373474121094
+    ],
+    "text": "Time since trauma in years, mean ( SD ), range",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      205.11376953125,
+      234.73956298828125,
+      281.5774841308594,
+      243.01499938964844
+    ],
+    "text": "48.30 (6.50), 37 – 61",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.352691650390625,
+      235.0447998046875,
+      223.18618774414062,
+      272.94873046875
+    ],
+    "text": "UCLA PTSD-RI baseline, mean ( SD ), range BPD-47 subscales baseline, mean ( SD ), range Affect dysregulation a",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      205.11489868164062,
+      264.673095703125,
+      286.5671691894531,
+      272.94854736328125
+    ],
+    "text": "36.80 (10.56), 22 – 60",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29054260253906,
+      273.1631164550781,
+      138.7783660888672,
+      282.869873046875
+    ],
+    "text": "Negative self-concept b",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      205.11489868164062,
+      274.59429931640625,
+      281.57861328125,
+      282.8697509765625
+    ],
+    "text": "21.30 (6.20), 12 – 29",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.29054260253906,
+      283.1410827636719,
+      147.05154418945312,
+      292.84765625
+    ],
+    "text": "Interpersonal problems c",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      210.10308837890625,
+      284.57220458984375,
+      276.5897216796875,
+      302.8255615234375
+    ],
+    "text": "8.30 (2.11), 6 – 13 2.50 (1.27), 0 – 4",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35264587402344,
+      294.8553466796875,
+      187.74664306640625,
+      322.7247314453125
+    ],
+    "text": "Total amount of comorbid disorders, mean ( SD ), range Axis I comorbidity (current), No. (%)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.5748291015625,
+      314.7545166015625,
+      245.00534057617188,
+      322.7247314453125
+    ],
+    "text": "9 (90)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.289371490478516,
+      324.42718505859375,
+      140.95361328125,
+      332.70263671875
+    ],
+    "text": "1 – 2 comorbid disorder",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.57643127441406,
+      324.732421875,
+      245.00694274902344,
+      332.70263671875
+    ],
+    "text": "3 (30)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      53.28936767578125,
+      334.40509033203125,
+      140.44908142089844,
+      342.6805419921875
+    ],
+    "text": "≥ 3 comorbid disorders",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.57562255859375,
+      334.7103271484375,
+      245.00613403320312,
+      342.6805419921875
+    ],
+    "text": "6 (60)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35264205932617,
+      344.6316223144531,
+      194.15863037109375,
+      352.6018371582031
+    ],
+    "text": "Comorbid depressive disorder, No. (%)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.57717895507812,
+      344.6316223144531,
+      245.0076904296875,
+      352.6018371582031
+    ],
+    "text": "7 (70)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35264205932617,
+      354.6095275878906,
+      182.28225708007812,
+      362.5797424316406
+    ],
+    "text": "Receiving psychotropic medication,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      222.57562255859375,
+      354.6095275878906,
+      245.00613403320312,
+      362.5797424316406
+    ],
+    "text": "6 (60)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35264587402344,
+      364.5874328613281,
+      183.87109375,
+      382.535888671875
+    ],
+    "text": "No. (%) Total treatment history d in months,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      205.1148681640625,
+      374.26043701171875,
+      281.5785827636719,
+      382.535888671875
+    ],
+    "text": "30.40 (28.32), 4 – 96",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      49.60589599609375,
+      384.4869689941406,
+      116.49102783203125,
+      392.4892883300781
+    ],
+    "text": "mean ( SD ), range",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.353790283203125,
+      403.93267822265625,
+      286.34466552734375,
+      461.7358703613281
+    ],
+    "text": "BPD-47, Borderline Personality Disorder Checklist; UCLA PTSD-RI, UCLA PTSD Reaction Index. a Sum score of the ‘Mood’, ‘Impulsivity’, and ‘Anger’ subscales. b As measured by the ‘Identity/Self-concept’ subscale. c As measured by the ‘Relationships’ subscale. d Mental health care treatment history.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35430145263672,
+      497.01788330078125,
+      68.30595397949219,
+      506.48248291015625
+    ],
+    "text": "past:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      76.70484161376953,
+      497.01788330078125,
+      102.59999084472656,
+      506.48248291015625
+    ],
+    "text": "seven",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      111.00360870361328,
+      497.01788330078125,
+      149.24058532714844,
+      506.48248291015625
+    ],
+    "text": "multiple",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      157.6044464111328,
+      497.01788330078125,
+      187.55043029785156,
+      506.48248291015625
+    ],
+    "text": "sexual",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      195.92849731445312,
+      497.01788330078125,
+      223.61244201660156,
+      506.48248291015625
+    ],
+    "text": "abuse",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      231.98483276367188,
+      497.01788330078125,
+      268.83807373046875,
+      506.48248291015625
+    ],
+    "text": "(for six",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35430145263672,
+      508.6177062988281,
+      286.2784423828125,
+      518.4447631835938
+    ],
+    "text": "age ≤ 12 years) and nine multiple violent (nonsex-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      192.01678466796875,
+      520.580078125,
+      265.51605224609375,
+      530.4071044921875
+    ],
+    "text": "age ≤ 12 years).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35430145263672,
+      520.9425048828125,
+      62.99631881713867,
+      530.4071044921875
+    ],
+    "text": "ual)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.65927124023438,
+      520.9425048828125,
+      110.27483367919922,
+      530.4071044921875
+    ],
+    "text": "assaults",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      118.94062042236328,
+      520.9425048828125,
+      134.30166625976562,
+      530.4071044921875
+    ],
+    "text": "(for",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      142.9778594970703,
+      520.9425048828125,
+      165.63609313964844,
+      530.4071044921875
+    ],
+    "text": "eight",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      174.32838439941406,
+      520.9425048828125,
+      183.39547729492188,
+      530.4071044921875
+    ],
+    "text": "at",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35523986816406,
+      532.90478515625,
+      286.3116455078125,
+      578.1995239257812
+    ],
+    "text": "reported affect dysregulation, negative self-concept, and interpersonal problems (BPD-47 subscales), resembling criteria for complex PTSD as proposed by the WHO",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      119.1119155883789,
+      568.7349243164062,
+      152.51248168945312,
+      578.1995239257812
+    ],
+    "text": "ICD-11",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      160.44097900390625,
+      568.7349243164062,
+      196.98379516601562,
+      578.1995239257812
+    ],
+    "text": "(Cloitre,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      204.94447326660156,
+      568.7349243164062,
+      242.7650146484375,
+      578.1995239257812
+    ],
+    "text": "Garvert,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      250.69540405273438,
+      568.7349243164062,
+      286.25390625,
+      578.1995239257812
+    ],
+    "text": "Brewin,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35334777832031,
+      580.697265625,
+      286.3049621582031,
+      673.8411865234375
+    ],
+    "text": "Bryant, & Maercker, 2013). Nine participants met criteria for a comorbid disorder: depressive disorder ( n = 7) with some also reporting psychotic features ( n = 2), other anxiety disorder(s) ( n = 9), eating disorders ( n = 3), conversion disorder ( n = 1), autism spectrum disorder ( n = 1), and alcohol dependence ( n = 1). In addition, six participants reported suicidal ideations and four (urges of) self-harming behavior.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.35430145263672,
+      693.7665405273438,
+      177.8190460205078,
+      721.8474731445312
+    ],
+    "text": "Primary outcomes Self-reported PTSD severity.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      186.63299560546875,
+      712.22412109375,
+      286.3141174316406,
+      721.688720703125
+    ],
+    "text": "The individual graphs",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      45.353973388671875,
+      724.1864624023438,
+      286.295166015625,
+      793.4058227539062
+    ],
+    "text": "(Figure 2) show the UCLA PTSD-RI scores for all 10 participants during the baseline (A), intervention (B), and follow-up (C) phases. Visual inspection suggests that PTSD symptoms decreased in the intervention phase and that UCLA PTSD-RI follow-up scores are lower compared to the",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      353.0285339355469,
+      51.697818756103516,
+      506.3680419921875,
+      59.66801834106445
+    ],
+    "text": "Intensive PE for adolescents with PTSD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9761962890625,
+      78.4547348022461,
+      549.9241333007812,
+      183.56082153320312
+    ],
+    "text": "baseline values in all but one participant (participant 10). The results of the time-series analysis are displayed in Table S1, available online. Applying Edgington’s (1972) additive method, the combined p value across all 10 participants showed a statistically signiﬁcant decrease of PTSD symptoms ( p = .002). Together, our results show that PTSD symptoms were signiﬁcantly lowered by the intensive PE.",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9762878417969,
+      197.6803741455078,
+      549.8751831054688,
+      219.60507202148438
+    ],
+    "text": "PTSD diagnostic status and symptom severity (clinician-administered",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      427.68975830078125,
+      209.64247131347656,
+      477.6612243652344,
+      219.60507202148438
+    ],
+    "text": "interview).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      486.42510986328125,
+      209.9817657470703,
+      520.9132080078125,
+      219.44638061523438
+    ],
+    "text": "Table 2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      530.8150634765625,
+      209.9817657470703,
+      549.9241333007812,
+      219.44638061523438
+    ],
+    "text": "lists",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9732666015625,
+      221.9440460205078,
+      549.93994140625,
+      350.91796875
+    ],
+    "text": "the descriptive statistics. There was a signiﬁcant baseline-to-posttreatment reduction in K-SADS-PLPTSD section total scores ( z = \u0002 2.81, p = .005) with a large effect size ( r = .63), as well as for baseline-to3-month follow-up ( z = \u0002 2.81, p = .005, r = .63) and 6-month follow-up ( z = \u0002 2.81, p = .005, r = .63). The number of adolescents meeting the K-SADS-PLPTSD diagnosis decreased from 10 to 6 (40% remission) from baseline to posttreatment and from 10 to 2 (80% remission) from baseline to follow-up at 3 and 6 months.",
+    "line_count": 11,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9762878417969,
+      370.8438720703125,
+      411.1299133300781,
+      398.9247131347656
+    ],
+    "text": "Secondary outcomes Comorbid symptoms.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      419.86761474609375,
+      389.3013916015625,
+      549.9273681640625,
+      398.7659912109375
+    ],
+    "text": "Table 2 lists the descriptive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9765625,
+      401.2637023925781,
+      353.59271240234375,
+      410.7283020019531
+    ],
+    "text": "statistics.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      361.18994140625,
+      401.2637023925781,
+      387.2933044433594,
+      410.7283020019531
+    ],
+    "text": "There",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      394.864990234375,
+      401.2637023925781,
+      425.7810974121094,
+      410.7283020019531
+    ],
+    "text": "was a",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      433.3594055175781,
+      401.2637023925781,
+      481.4395751953125,
+      410.7283020019531
+    ],
+    "text": "signiﬁcant",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      489.0311279296875,
+      401.2637023925781,
+      533.2687377929688,
+      410.7283020019531
+    ],
+    "text": "reduction",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      540.8479614257812,
+      401.2637023925781,
+      549.9151000976562,
+      410.7283020019531
+    ],
+    "text": "in",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9755554199219,
+      413.22601318359375,
+      549.939697265625,
+      458.55889892578125
+    ],
+    "text": "depressive symptoms (BDI-II total scores) from baseline to posttreatment ( z = \u0002 2.24, p = .025) with a large effect size ( r = .50) as well as to the 3-month ( z = \u0002 2.65, p = .008, r = .59) and 6-month follow-",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      334.25927734375,
+      460.6559753417969,
+      385.4267883300781,
+      470.5212097167969
+    ],
+    "text": "( z = \u0002 2.81,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      393.5038757324219,
+      460.6559753417969,
+      435.31658935546875,
+      470.5212097167969
+    ],
+    "text": "p = .005,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      443.3936767578125,
+      460.6559753417969,
+      480.16552734375,
+      470.5212097167969
+    ],
+    "text": "r = .63).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9745788574219,
+      461.0184631347656,
+      326.2190856933594,
+      470.4830627441406
+    ],
+    "text": "ups",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      488.2378845214844,
+      461.0184631347656,
+      549.8997192382812,
+      470.4830627441406
+    ],
+    "text": "Furthermore,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.97454833984375,
+      472.98077392578125,
+      549.9148559570312,
+      506.40814208984375
+    ],
+    "text": "there was a signiﬁcant baseline-to-posttreatment reduction in general anxiety symptoms (SCARED total scores) ( z = \u0002 2.40, p = .017) with a large effect",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      277.2256164550781,
+      497.01788330078125,
+      286.2926940917969,
+      506.48248291015625
+    ],
+    "text": "at",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9736022949219,
+      508.5052185058594,
+      549.9149169921875,
+      530.2759399414062
+    ],
+    "text": "size ( r = .54), as well for the baseline-to-3-month ( z = \u0002 2.70, p = .007, r = .60) and 6-month follow-",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      274.16668701171875,
+      520.9425048828125,
+      286.29083251953125,
+      530.4071044921875
+    ],
+    "text": "All",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9716796875,
+      532.373046875,
+      549.9261474609375,
+      566.124755859375
+    ],
+    "text": "ups ( z = \u0002 2.50, p = .013, r = .56). We also computed a signiﬁcant reduction in dissociative symptoms (BPD-47, paranoid/dissociation subsection score)",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      498.7207336425781,
+      568.260009765625,
+      549.889404296875,
+      578.1251831054688
+    ],
+    "text": "( z = \u0002 2.81,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9716796875,
+      568.6224365234375,
+      330.34271240234375,
+      578.0870361328125
+    ],
+    "text": "from",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      344.4610595703125,
+      568.6224365234375,
+      382.58447265625,
+      578.0870361328125
+    ],
+    "text": "baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      396.731201171875,
+      568.6224365234375,
+      484.61846923828125,
+      578.0870361328125
+    ],
+    "text": "to posttreatment",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.970703125,
+      580.2222900390625,
+      549.931884765625,
+      614.0121459960938
+    ],
+    "text": "p = .005) with a large effect size ( r = .63), as well as to the 3-month ( z = \u0002 2.60, p = .009, r = .58) and 6- month follow-ups ( z = \u0002 2.61, p = .009, r = .58).",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9762878417969,
+      628.0361938476562,
+      346.80035400390625,
+      637.9988403320312
+    ],
+    "text": "Dropout",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      354.9537353515625,
+      628.0361938476562,
+      373.7332458496094,
+      637.9988403320312
+    ],
+    "text": "and",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      381.939453125,
+      628.0361938476562,
+      414.80609130859375,
+      637.9988403320312
+    ],
+    "text": "safety.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      423.60931396484375,
+      628.3753662109375,
+      447.0531311035156,
+      637.8399658203125
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      455.0166320800781,
+      628.3753662109375,
+      549.8907470703125,
+      637.8399658203125
+    ],
+    "text": "of the participants",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.9759826660156,
+      640.337646484375,
+      549.9163208007812,
+      709.6138305664062
+    ],
+    "text": "dropped out of the treatment and no adversities (suicidal behavior, crisis contact, or psychiatric hospitalization) occurred during the intervention phase. In addition, none of the participants showed increased PTSD symptoms (see Figure 2 for the individual",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      364.7612609863281,
+      700.1492309570312,
+      402.4871520996094,
+      709.6138305664062
+    ],
+    "text": "graphs).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      411.9290466308594,
+      700.1492309570312,
+      438.03240966796875,
+      709.6138305664062
+    ],
+    "text": "There",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      447.53204345703125,
+      700.1492309570312,
+      468.9031066894531,
+      709.6138305664062
+    ],
+    "text": "were",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      478.3724365234375,
+      700.1492309570312,
+      549.9059448242188,
+      709.6138305664062
+    ],
+    "text": "(nonsigniﬁcant)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.97503662109375,
+      711.6923217773438,
+      549.896484375,
+      745.4821166992188
+    ],
+    "text": "reductions in suicidal ideation (baseline M = 3.00, post M = 2.20), self-harm (baseline M = 2.20, post M = 1.00),",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      368.1051330566406,
+      735.9793701171875,
+      385.74713134765625,
+      745.4439697265625
+    ],
+    "text": "and",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      397.7548828125,
+      735.9793701171875,
+      445.11578369140625,
+      745.4439697265625
+    ],
+    "text": "aggressive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      457.1121520996094,
+      735.9793701171875,
+      496.9107666015625,
+      745.4439697265625
+    ],
+    "text": "behavior",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      508.9289245605469,
+      735.9793701171875,
+      549.9107055664062,
+      745.4439697265625
+    ],
+    "text": "(baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.97503662109375,
+      747.5792236328125,
+      549.9088134765625,
+      781.3308715820312
+    ],
+    "text": "M = 0.20, post M = 0.00), and none of the participants reported having abused alcohol, drugs, or prescription",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      372.9803161621094,
+      771.8662719726562,
+      423.91876220703125,
+      781.3308715820312
+    ],
+    "text": "medication",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      432.22393798828125,
+      771.8662719726562,
+      462.87030029296875,
+      781.3308715820312
+    ],
+    "text": "during",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      471.2284851074219,
+      771.8662719726562,
+      549.9067993164062,
+      781.3308715820312
+    ],
+    "text": "the intervention",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      308.97503662109375,
+      783.82861328125,
+      339.5078430175781,
+      793.293212890625
+    ],
+    "text": "phase.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      45.35430145263672,
+      753.0756225585938,
+      549.9299926757812,
+      770.9671020507812
+    ],
+    "text": "Figure 2 Primary outcome variable: weekly measures of PTSD symptom severity (total UCLA PTSD-RI scores) across the baseline (A), intervention (B), and follow-up (C) phases. x -axis = measurement occasions; y -axis = outcome scores; phases are divided by vertical lines",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      88.49759674072266,
+      51.699649810791016,
+      168.53033447265625,
+      59.66984939575195
+    ],
+    "text": "Lotte Hendriks et al.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      167.5596923828125,
+      80.32017517089844,
+      201.50424194335938,
+      94.30764770507812
+    ],
+    "text": "Participant 1 A",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      225.70986938476562,
+      88.89195251464844,
+      229.3221435546875,
+      94.30764770507812
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      266.6823425292969,
+      88.89195251464844,
+      272.0779724121094,
+      94.30764770507812
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      166.54209899902344,
+      213.0146942138672,
+      198.9810791015625,
+      227.09500122070312
+    ],
+    "text": "Participant 3 A",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      225.61727905273438,
+      221.67930603027344,
+      229.22955322265625,
+      227.09500122070312
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      266.5897521972656,
+      221.67930603027344,
+      271.9853820800781,
+      227.09500122070312
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      167.66470336914062,
+      348.30096435546875,
+      200.12046813964844,
+      363.1586608886719
+    ],
+    "text": "Participant 5 A",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      232.24777221679688,
+      357.7429504394531,
+      235.86004638671875,
+      363.1586608886719
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      267.20343017578125,
+      357.7429504394531,
+      272.5990905761719,
+      363.1586608886719
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      167.5718994140625,
+      483.4572448730469,
+      200.02496337890625,
+      497.7598571777344
+    ],
+    "text": "Participant 7 A",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      234.79400634765625,
+      492.3441467285156,
+      238.40628051757812,
+      497.7598571777344
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      266.7872619628906,
+      492.3441467285156,
+      272.1828918457031,
+      497.7598571777344
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      166.1367950439453,
+      620.802490234375,
+      198.59255981445312,
+      633.7633666992188
+    ],
+    "text": "Participant 9 A",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      228.2667999267578,
+      628.34765625,
+      231.8790740966797,
+      633.7633666992188
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      266.23193359375,
+      628.34765625,
+      271.62652587890625,
+      633.7633666992188
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      358.98065185546875,
+      51.699649810791016,
+      550.0066528320312,
+      59.66984939575195
+    ],
+    "text": "J Child Psychol Psychiatr 2017; 58(11): 1229–38",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      325.8692626953125,
+      79.68760681152344,
+      358.33685302734375,
+      94.32278442382812
+    ],
+    "text": "Participant 2 A",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      383.6944885253906,
+      88.90708923339844,
+      387.3067626953125,
+      94.32278442382812
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      424.6675109863281,
+      88.90708923339844,
+      430.0631408691406,
+      94.32278442382812
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      323.77557373046875,
+      212.4676971435547,
+      356.2454528808594,
+      227.04733276367188
+    ],
+    "text": "Participant 4 A",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      383.821533203125,
+      221.6316375732422,
+      387.4338073730469,
+      227.04733276367188
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      423.4525451660156,
+      221.6316375732422,
+      428.84820556640625,
+      227.04733276367188
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      323.6476135253906,
+      349.96795654296875,
+      356.1163024902344,
+      363.39166259765625
+    ],
+    "text": "Participant 6 A",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      387.7217102050781,
+      357.9759521484375,
+      391.333984375,
+      363.39166259765625
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      424.20458984375,
+      357.9759521484375,
+      429.5563659667969,
+      363.39166259765625
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      324.2026062011719,
+      483.13226318359375,
+      356.6593933105469,
+      497.34307861328125
+    ],
+    "text": "Participant 8 A",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      388.8324890136719,
+      491.9273681640625,
+      392.44476318359375,
+      497.34307861328125
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      422.3063659667969,
+      491.9273681640625,
+      427.7020263671875,
+      497.34307861328125
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      324.09259033203125,
+      619.4134521484375,
+      359.5599670410156,
+      633.5772094726562
+    ],
+    "text": "Participant 10 A",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      391.9155578613281,
+      628.1614990234375,
+      395.52783203125,
+      633.5772094726562
+    ],
+    "text": "B",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      423.9088134765625,
+      628.1614990234375,
+      429.304443359375,
+      633.5772094726562
+    ],
+    "text": "C",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35430145263672,
+      78.266845703125,
+      495.4514465332031,
+      86.57440948486328
+    ],
+    "text": "Table 2 Means, medians, and SD s for Wilcoxon signed rank tests for the primary and secondary outcomes ( N = 10)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      181.07293701171875,
+      549.984375,
+      208.94236755371094
+    ],
+    "text": "BDI-II, Beck Depression Inventory Second Edition; BPD-47 Diss, Paranoid/dissociation subscale of the Borderline Personality Disorder symptom checklist; K-SADS-PL, PTSD section (current episode) of the Kiddie-Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version; SCARED, Screen for Child Anxiety-Related Emotional Disorders.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      51.699161529541016,
+      140.81015014648438,
+      59.66936111450195
+    ],
+    "text": "doi:10.1111/jcpp.12756",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      140.65557861328125,
+      97.79145050048828,
+      173.6681365966797,
+      105.76165008544922
+    ],
+    "text": "Baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      242.64703369140625,
+      97.79145050048828,
+      297.2142333984375,
+      105.76165008544922
+    ],
+    "text": "Posttreatment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      108.45358276367188,
+      114.00525665283203,
+      129.77386474609375,
+      121.97545623779297
+    ],
+    "text": "Mean",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      142.80992126464844,
+      114.00525665283203,
+      171.51856994628906,
+      121.97545623779297
+    ],
+    "text": "Median",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      221.21597290039062,
+      114.00525665283203,
+      242.5362548828125,
+      121.97545623779297
+    ],
+    "text": "Mean",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      257.3297424316406,
+      114.00525665283203,
+      286.0384216308594,
+      121.97545623779297
+    ],
+    "text": "Median",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      189.6946258544922,
+      114.0373764038086,
+      200.64569091796875,
+      122.00757598876953
+    ],
+    "text": "SD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      131.7501220703125,
+      89.41272735595703,
+      139.72032165527344
+    ],
+    "text": "K-SADS-PL",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      107.88605499267578,
+      131.7501220703125,
+      130.37796020507812,
+      139.72032165527344
+    ],
+    "text": "31.60",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      145.92701721191406,
+      131.7501220703125,
+      168.4188995361328,
+      139.72032165527344
+    ],
+    "text": "32.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      188.90072631835938,
+      131.7501220703125,
+      206.41123962402344,
+      139.72032165527344
+    ],
+    "text": "3.10",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      218.89178466796875,
+      131.7501220703125,
+      244.82443237304688,
+      139.75244140625
+    ],
+    "text": "26.40 *",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      260.44683837890625,
+      131.7501220703125,
+      282.93878173828125,
+      139.72032165527344
+    ],
+    "text": "26.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      141.72802734375,
+      68.98509979248047,
+      149.69822692871094
+    ],
+    "text": "BDI-II",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      107.88605499267578,
+      141.72802734375,
+      130.37796020507812,
+      149.69822692871094
+    ],
+    "text": "32.50",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      145.92701721191406,
+      141.72802734375,
+      168.4188995361328,
+      149.69822692871094
+    ],
+    "text": "35.50",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      183.96795654296875,
+      141.72802734375,
+      206.4598388671875,
+      149.69822692871094
+    ],
+    "text": "14.97",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      218.89096069335938,
+      141.72802734375,
+      244.82443237304688,
+      149.7303466796875
+    ],
+    "text": "21.70 *",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      260.44683837890625,
+      141.72802734375,
+      282.93878173828125,
+      149.69822692871094
+    ],
+    "text": "20.50",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      151.64935302734375,
+      79.70500946044922,
+      159.6195526123047
+    ],
+    "text": "SCARED",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      107.88604736328125,
+      151.64935302734375,
+      130.37796020507812,
+      159.6195526123047
+    ],
+    "text": "71.40",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      145.92701721191406,
+      151.64935302734375,
+      168.4188995361328,
+      159.6195526123047
+    ],
+    "text": "79.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      183.96795654296875,
+      151.64935302734375,
+      206.4598388671875,
+      159.6195526123047
+    ],
+    "text": "27.99",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      218.89096069335938,
+      151.64935302734375,
+      244.82443237304688,
+      159.65167236328125
+    ],
+    "text": "45.20 *",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      260.44683837890625,
+      151.64935302734375,
+      282.93878173828125,
+      159.6195526123047
+    ],
+    "text": "51.50",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      161.62725830078125,
+      95.3800048828125,
+      169.5974578857422
+    ],
+    "text": "BPD-47 Diss",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      107.88604736328125,
+      161.62725830078125,
+      130.37796020507812,
+      169.5974578857422
+    ],
+    "text": "21.90",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      145.92701721191406,
+      161.62725830078125,
+      168.4188995361328,
+      169.5974578857422
+    ],
+    "text": "22.00",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      188.90072631835938,
+      161.62725830078125,
+      206.41123962402344,
+      169.5974578857422
+    ],
+    "text": "7.06",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      218.89178466796875,
+      161.62725830078125,
+      244.86663818359375,
+      169.5974578857422
+    ],
+    "text": "14.30*",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      260.44757080078125,
+      161.62725830078125,
+      282.93951416015625,
+      169.5974578857422
+    ],
+    "text": "12.50",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35345458984375,
+      210.64483642578125,
+      164.60995483398438,
+      218.952392578125
+    ],
+    "text": "*p ≤ .05 compared to baseline.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35430145263672,
+      244.72625732421875,
+      286.3116149902344,
+      626.050537109375
+    ],
+    "text": "Discussion Our results of this ﬁrst proof of concept trial investigating an intensive PE therapy program targeting adolescents (aged 12 – 18 years, N = 10) with complex PTSD and comorbid disorders, suggest that the intervention was effective in reducing PTSD symptoms and achieving remission of PTSD diagnosis. In addition, in line with the results of the open studies into intensive TFT (Matulis et al., 2014; Silverstone et al., 2016), symptoms declined within a short period of time, with our study showing gains persisting over time (6 months) as well. Our results were also in agreement with studies showing the effectiveness of weekly-based PE in adolescents with PTSD after single trauma (Gilboa-Schechtman et al., 2010) and expand the evidence base on the effectiveness of PE for adolescents having suffered multiple interpersonal traumas before the age of 12 and who show more complex pathology indicative of complex PTSD as well as high levels of comorbid disorders (Foa et al., 2013). In addition, along with the PTSD symptom reduction, also symptoms of depression, general anxiety, and dissociation were reduced signiﬁcantly, even though these were not directly addressed in the treatment. The amelioration of comorbid depressive symptoms we observed is consistent with the ﬁndings of a meta-analysis evaluating the effectiveness of TFT on symptoms of PTSD and comorbid depression in children and adolescents (Lenz & Hollenbaugh, 2015), which showed TFT to be more effective in reducing depressive",
+    "line_count": 32,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      71.37628173828125,
+      616.5859375,
+      118.86018371582031,
+      626.050537109375
+    ],
+    "text": "symptoms",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      127.27516174316406,
+      616.5859375,
+      148.75979614257812,
+      626.050537109375
+    ],
+    "text": "than",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      157.09527587890625,
+      616.5859375,
+      181.22999572753906,
+      626.050537109375
+    ],
+    "text": "other",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      189.63645935058594,
+      616.5859375,
+      286.2795104980469,
+      626.050537109375
+    ],
+    "text": "(nontrauma-focused)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      45.35430908203125,
+      628.5482788085938,
+      286.3201599121094,
+      793.4093017578125
+    ],
+    "text": "treatments. Lastly, our data are also in line with studies in adult PTSD populations that consistently found that secondary symptoms decreased along with the PTSD symptoms with exposure-based treatments (Van Minnen, Zoellner, Harned, & Mills, 2015). One of the reasons that prompted us to develop a short and intensive PE program for adolescents was to prevent dropout. The fact that, despite their complex PTSD and comorbid problems, all 10 participants completed the program shows that intensive PE does just that, whereas dropout rates in other studies treating children and adolescents with PTSD for longer periods were relatively high (Cohen",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      353.02789306640625,
+      51.699161529541016,
+      506.3674011230469,
+      59.66936111450195
+    ],
+    "text": "Intensive PE for adolescents with PTSD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      348.3805236816406,
+      97.79145050048828,
+      420.52679443359375,
+      105.76165008544922
+    ],
+    "text": "3-month follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      462.8445739746094,
+      97.79145050048828,
+      535.0474853515625,
+      105.76165008544922
+    ],
+    "text": "6-month follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      335.73577880859375,
+      114.00525665283203,
+      357.0560607910156,
+      121.97545623779297
+    ],
+    "text": "Mean",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      371.84954833984375,
+      114.00525665283203,
+      400.5582275390625,
+      121.97545623779297
+    ],
+    "text": "Median",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      450.2555847167969,
+      114.00525665283203,
+      471.57586669921875,
+      121.97545623779297
+    ],
+    "text": "Mean",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      486.3127746582031,
+      114.00525665283203,
+      515.0214233398438,
+      121.97545623779297
+    ],
+    "text": "Median",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      304.2144470214844,
+      114.0373764038086,
+      315.1654968261719,
+      122.00757598876953
+    ],
+    "text": "SD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      418.7342529296875,
+      114.0373764038086,
+      429.685302734375,
+      122.00757598876953
+    ],
+    "text": "SD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      533.2540283203125,
+      114.0373764038086,
+      544.205078125,
+      122.00757598876953
+    ],
+    "text": "SD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      303.42059326171875,
+      131.7501220703125,
+      320.93115234375,
+      139.72032165527344
+    ],
+    "text": "4.12",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      333.41168212890625,
+      131.7501220703125,
+      359.3865966796875,
+      139.72032165527344
+    ],
+    "text": "23.20*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      374.91094970703125,
+      131.7501220703125,
+      397.40289306640625,
+      139.72032165527344
+    ],
+    "text": "23.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      417.9413146972656,
+      131.7501220703125,
+      435.4518737792969,
+      139.72032165527344
+    ],
+    "text": "3.55",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      447.9324035644531,
+      131.7501220703125,
+      473.9073181152344,
+      139.72032165527344
+    ],
+    "text": "23.30*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      489.4316711425781,
+      131.7501220703125,
+      511.9236145019531,
+      139.72032165527344
+    ],
+    "text": "22.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      532.4620361328125,
+      131.7501220703125,
+      549.9725952148438,
+      139.72032165527344
+    ],
+    "text": "4.99",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      298.48785400390625,
+      141.72802734375,
+      320.97979736328125,
+      149.69822692871094
+    ],
+    "text": "14.94",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      333.4109191894531,
+      141.72802734375,
+      359.3858337402344,
+      149.69822692871094
+    ],
+    "text": "20.10*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      374.9101867675781,
+      141.72802734375,
+      397.4021301269531,
+      149.69822692871094
+    ],
+    "text": "21.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      412.9512023925781,
+      141.72802734375,
+      435.4431457519531,
+      149.69822692871094
+    ],
+    "text": "13.76",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      447.93084716796875,
+      141.72802734375,
+      473.90576171875,
+      149.69822692871094
+    ],
+    "text": "17.00*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      489.43011474609375,
+      141.72802734375,
+      511.92205810546875,
+      149.69822692871094
+    ],
+    "text": "12.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      527.4711303710938,
+      141.72802734375,
+      549.9630737304688,
+      149.69822692871094
+    ],
+    "text": "13.40",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      298.48785400390625,
+      151.64935302734375,
+      320.97979736328125,
+      159.6195526123047
+    ],
+    "text": "22.39",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      333.4109191894531,
+      151.64935302734375,
+      359.3858337402344,
+      159.6195526123047
+    ],
+    "text": "37.70*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      374.9101867675781,
+      151.64935302734375,
+      397.4021301269531,
+      159.6195526123047
+    ],
+    "text": "44.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      412.9512023925781,
+      151.64935302734375,
+      435.4431457519531,
+      159.6195526123047
+    ],
+    "text": "24.87",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      447.93084716796875,
+      151.64935302734375,
+      473.90576171875,
+      159.6195526123047
+    ],
+    "text": "41.50*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      489.43011474609375,
+      151.64935302734375,
+      511.92205810546875,
+      159.6195526123047
+    ],
+    "text": "45.50",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      527.4711303710938,
+      151.64935302734375,
+      549.9630737304688,
+      159.6195526123047
+    ],
+    "text": "25.27",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      303.42132568359375,
+      161.62725830078125,
+      320.931884765625,
+      169.5974578857422
+    ],
+    "text": "5.54",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      333.41241455078125,
+      161.62725830078125,
+      359.3873291015625,
+      169.5974578857422
+    ],
+    "text": "13.10*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      374.91168212890625,
+      161.62725830078125,
+      397.40362548828125,
+      169.5974578857422
+    ],
+    "text": "11.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      417.9420471191406,
+      161.62725830078125,
+      435.4526062011719,
+      169.5974578857422
+    ],
+    "text": "6.45",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      447.9331359863281,
+      161.62725830078125,
+      473.9080505371094,
+      169.5974578857422
+    ],
+    "text": "12.50*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      489.4324035644531,
+      161.62725830078125,
+      511.9243469238281,
+      169.5974578857422
+    ],
+    "text": "11.00",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      532.4627685546875,
+      161.62725830078125,
+      549.9733276367188,
+      169.5974578857422
+    ],
+    "text": "5.93",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      308.9765319824219,
+      245.8717803955078,
+      549.9500122070312,
+      518.336669921875
+    ],
+    "text": "et al., 2011; Gilboa-Schechtman et al., 2010). Moreover, given that, on average, 18% of adult PTSD patients drops out of treatment (Imel et al., 2013), with some studies reporting rates as high as 52%, and that dropout rates range from 28% up to 75% for pediatric outpatient mental health care in general (De Haan, Boon, de Jong, Hoeve, & Vermeiren, 2013), our results, if corroborated, have important clinical implications. Even though some clinicians are concerned that with its quick succession of trauma-focused interventions, intensive PE treatment may worsen symptoms or induce adverse events (Tarrier et al., 1999), the results of our trial show that, despite the massed sessions, our intensive PE protocol was safe and did not cause any adverse events. In addition, by achieving signiﬁcant symptom reduction in adolescents in just 1 week, intensive PE, if implemented soon after the trauma, may reduce the likelihood of developing the severe longterm consequences typically associated with PTSD (Kessler, 2000), such as the increased risk of revictimization",
+    "line_count": 23,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      365.8956298828125,
+      508.8721008300781,
+      400.35626220703125,
+      518.336669921875
+    ],
+    "text": "(Risser,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      411.1364440917969,
+      508.8721008300781,
+      475.2591552734375,
+      518.336669921875
+    ],
+    "text": "Hetzel-Riggin,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      486.0838317871094,
+      508.8721008300781,
+      531.4949340820312,
+      518.336669921875
+    ],
+    "text": "Thomsen,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      542.3224487304688,
+      508.8721008300781,
+      549.9130859375,
+      518.336669921875
+    ],
+    "text": "&",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      308.9765319824219,
+      520.8343505859375,
+      549.9434204101562,
+      661.770751953125
+    ],
+    "text": "McCanne, 2006) or suicidal attempts (Wilcox, Storr, & Breslau, 2009), while, ideally, further beneﬁts of rapid symptom reduction, such as a timely return to school and prevention of developmental stagnation, may be anticipated. As to limitations, obviously the small sample size must be mentioned. The small sample size does restrict the generalizability of our ﬁndings (Gliner, Morgan, & Harmon, 2000), although the sample is highly representative of adolescents with complex PTSD, as typically seen in clinical practice. Furthermore,",
+    "line_count": 12,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      362.04071044921875,
+      652.30615234375,
+      394.27239990234375,
+      661.770751953125
+    ],
+    "text": "it was",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      402.23590087890625,
+      652.30615234375,
+      462.88409423828125,
+      661.770751953125
+    ],
+    "text": "not possible",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      470.8334045410156,
+      652.30615234375,
+      527.2708129882812,
+      661.770751953125
+    ],
+    "text": "to replicate",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      535.2362060546875,
+      652.30615234375,
+      549.9158325195312,
+      661.770751953125
+    ],
+    "text": "the",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      308.9765319824219,
+      664.2684936523438,
+      549.9386596679688,
+      793.2993774414062
+    ],
+    "text": "intervention by offering the treatment again separated by an adequate washout period, as is typically done in experimental studies (Onghena & Edgington, 2005), which lowers the external validity of our ﬁndings as well. Another limitation is that no control or placebo treatment was offered to indicate that the observed treatment effects were treatment speciﬁc instead of ‘attention alone’. Note, however, that all adolescents already received mental health care treatment (with an average of 2.5 years of treatment) when entering the intensive PE, which",
+    "line_count": 11,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.080299377441406,
+      501.6864013671875,
+      544.1996459960938,
+      575.4448852539062
+    ],
+    "text": "• Current treatment for PTSD, including prolonged exposure (PE), usually lasts several months with sessions • In this study, PE is administered in an accelerated way for adolescents with complex PTSD. • There was neither treatment dropout nor any symptom exacerbation or adverse events. • The results of this ﬁrst proof of concept trial suggest that intensive PE is effective, safe, and well tolerated.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      88.49759674072266,
+      51.699649810791016,
+      168.53033447265625,
+      59.66984939575195
+    ],
+    "text": "Lotte Hendriks et al.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.35430145263672,
+      78.4542465209961,
+      286.32769775390625,
+      159.63577270507812
+    ],
+    "text": "suggests that it is unlikely that the ﬁndings should be attributed to placebo or nonspeciﬁc effects of treatment (rather than exposure effects). We further point out that, although we did not offer additional nontrauma-focused modules to the adolescents, the intensive PE did include parent sessions, the effects of which",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      97.5118179321289,
+      150.17115783691406,
+      139.4910888671875,
+      159.63577270507812
+    ],
+    "text": "we have",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      147.6278076171875,
+      150.17115783691406,
+      221.59268188476562,
+      159.63577270507812
+    ],
+    "text": "not elucidated.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      229.71804809570312,
+      150.17115783691406,
+      286.2784729003906,
+      159.63577270507812
+    ],
+    "text": "Dismantling",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.35430145263672,
+      162.13343811035156,
+      286.3106384277344,
+      279.2018127441406
+    ],
+    "text": "studies will need to establish whether parent sessions are critical to intensive PE outcome. Another limitation is that the chosen design with weekly repeated assessments is vulnerable to carryover effects; however, visual inspection of the results provides no clear indication for those test effects in the current study. The treatment outcomes we obtained and the absence of dropout and adverse events may have important",
+    "line_count": 10,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      100.40231323242188,
+      269.7372131347656,
+      157.05738830566406,
+      279.2018127441406
+    ],
+    "text": "implications",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      166.16517639160156,
+      269.7372131347656,
+      220.8251190185547,
+      279.2018127441406
+    ],
+    "text": "for clinical",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      229.9442596435547,
+      269.7372131347656,
+      266.68585205078125,
+      279.2018127441406
+    ],
+    "text": "practice",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.35430145263672,
+      281.6994934082031,
+      286.321044921875,
+      446.5604553222656
+    ],
+    "text": "together these results expand the effectiveness of TFT – or more speciﬁcally PE – for young PTSD patients suffering from more complex pathology as a result of multiple interpersonal trauma. Importantly, our intervention did not include any nontraumafocused techniques, showing that, despite hesitations of clinicians (Allen & Johnson, 2011; Van Minnen et al., 2010), intensive TFT can be effectively and safely applied in adolescent populations with complex PTSD and comorbid mental problems. Our work thus contrasts with the recommendation to start treatment with a stabilizing phase before initiating TFT especially when traumas were repeated and interpersonal or when patients are suffering",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.080299377441406,
+      484.3671569824219,
+      106.48133850097656,
+      495.3261413574219
+    ],
+    "text": "Key points",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      60.377899169921875,
+      515.68212890625,
+      213.90220642089844,
+      525.146728515625
+    ],
+    "text": "being delivered on a weekly basis.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      51.080299377441406,
+      537.572998046875,
+      293.2373352050781,
+      551.5205688476562
+    ],
+    "text": "• Intensive PE reduced PTSD symptoms in just 1 week.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.354740142822266,
+      617.6430053710938,
+      68.11710357666016,
+      627.1076049804688
+    ],
+    "text": "Note",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.35430145263672,
+      641.8115234375,
+      286.2984313964844,
+      663.2384643554688
+    ],
+    "text": "1. Note that for the ﬁrst design possibility, the A phase",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      81.52427673339844,
+      653.7738647460938,
+      119.14606475830078,
+      663.2384643554688
+    ],
+    "text": "consists",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      127.89892578125,
+      653.7738647460938,
+      160.72215270996094,
+      663.2384643554688
+    ],
+    "text": "of ﬁve",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      169.39834594726562,
+      653.7738647460938,
+      232.64077758789062,
+      663.2384643554688
+    ],
+    "text": "measurement",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      241.34063720703125,
+      653.7738647460938,
+      286.2501525878906,
+      663.2384643554688
+    ],
+    "text": "occasions",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      45.35436248779297,
+      665.6793823242188,
+      286.2956237792969,
+      758.880126953125
+    ],
+    "text": "although the baseline for the ﬁrst permutation consisted of 4 weeks. The measurement occasion on the ﬁrst day of the ﬁfth week was also labeled ‘A’ because the UCLA PTSD-RI, completed the ﬁrst day of each week, assessed PTSD symptoms within the last week and an intervention effect during the actual intensive PE phase (ﬁrst week) was not expected.",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      358.98065185546875,
+      51.699649810791016,
+      550.0066528320312,
+      59.66984939575195
+    ],
+    "text": "J Child Psychol Psychiatr 2017; 58(11): 1229–38",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9765319824219,
+      78.45662689208984,
+      330.3475646972656,
+      87.92122650146484
+    ],
+    "text": "from",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      339.3067626953125,
+      78.45662689208984,
+      377.4301452636719,
+      87.92122650146484
+    ],
+    "text": "complex",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      386.3609313964844,
+      78.45662689208984,
+      411.9910583496094,
+      87.92122650146484
+    ],
+    "text": "PTSD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      420.8868408203125,
+      78.45662689208984,
+      498.2220764160156,
+      87.92122650146484
+    ],
+    "text": "psychopathology",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      507.1727600097656,
+      78.45662689208984,
+      549.9243774414062,
+      87.92122650146484
+    ],
+    "text": "(Leenarts",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9765319824219,
+      90.41890716552734,
+      549.9376831054688,
+      183.56271362304688
+    ],
+    "text": "et al., 2013). Although the cohort size is small, with our results we are, to our knowledge, the ﬁrst to demonstrate the effectiveness and safety of a stand-alone intensive PE treatment targeting a complex pediatric PTSD population and with the favorable results of this ﬁrst proof of concept trial offering strong support for a randomized controlled study.",
+    "line_count": 8,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9762878417969,
+      208.72625732421875,
+      549.9403686523438,
+      253.9100341796875
+    ],
+    "text": "Supporting information Additional Supporting Information may be found in the online version of this article: Table S1. Results of the time-series analysis.",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      275.8646240234375,
+      269.7372131347656,
+      286.3040771484375,
+      279.2018127441406
+    ],
+    "text": "as",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9762878417969,
+      279.1954345703125,
+      549.9232788085938,
+      355.7874755859375
+    ],
+    "text": "Acknowledgements This work was supported by ZonMw, the Netherlands Organization for Health Research and Development. The authors have declared they have no competing or potential conﬂicts of interest to declare. They thank all participants, therapists, research assistants, and all others who contributed to this study.",
+    "line_count": 7,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9762878417969,
+      380.7891540527344,
+      392.4191589355469,
+      402.6157531738281
+    ],
+    "text": "Correspondence Lotte",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      338.4001159667969,
+      393.6494445800781,
+      381.5190734863281,
+      402.6157531738281
+    ],
+    "text": "Hendriks,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      389.0839538574219,
+      393.6494445800781,
+      429.6833801269531,
+      402.6157531738281
+    ],
+    "text": "Overwaal",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      437.21685791015625,
+      393.6494445800781,
+      466.3304443359375,
+      402.6157531738281
+    ],
+    "text": "Centre",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      473.9544982910156,
+      393.6494445800781,
+      530.4888305664062,
+      402.6157531738281
+    ],
+    "text": "of Expertise",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      538.0751953125,
+      393.6494445800781,
+      549.919677734375,
+      402.6157531738281
+    ],
+    "text": "for",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.9762878417969,
+      404.5910339355469,
+      549.94482421875,
+      435.49700927734375
+    ],
+    "text": "Anxiety Disorders, OCD and PTSD, Tarweweg 2, 6543 AM Nijmegen, The Netherlands; Email: l.hendriks01@propersona.nl",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      308.97540283203125,
+      621.6206665039062,
+      550.02001953125,
+      752.0353393554688
+    ],
+    "text": "References Alisic, E., Zalta, A.K., van Wesel, F., Larsen, S.E., Hafstad, G.S., Hassanpour, K., & Smid, G.E. (2014). Rates of posttraumatic stress disorder in trauma-exposed children and adolescents: Meta-analysis. The British Journal of Psychiatry , 204 , 335 – 340. Allen, B., & Johnson, J.C. (2011). Utilization and implementation of trauma-focused Cognitive-Behavioral therapy for the treatment of maltreated children. Child Maltreatment , 17 , 80 – 85. American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders (4th edn, text revision), DSM-IV-TR . Washington, DC: Author.",
+    "line_count": 13,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.353424072265625,
+      51.695804595947266,
+      140.81011962890625,
+      59.6660041809082
+    ],
+    "text": "doi:10.1111/jcpp.12756",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.35430145263672,
+      78.57209014892578,
+      286.3180847167969,
+      86.57440948486328
+    ],
+    "text": "Arntz, A., & Dreessen, L. (1992). Borderline Personality Disor-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      73.41815185546875,
+      88.54999542236328,
+      153.086669921875,
+      96.55231475830078
+    ],
+    "text": "Symptom Checklist .",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      159.47796630859375,
+      88.54999542236328,
+      286.29742431640625,
+      96.52019500732422
+    ],
+    "text": "Internal document, Maastricht",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      45.352783203125,
+      88.58211517333984,
+      286.3940124511719,
+      783.9530029296875
+    ],
+    "text": "der University. Arntz, A., van den Hoorn, M., Cornelis, J., Verheul, R., van den Bosch, W.M., & de Bie, A.J. (2003). Reliability and validity of the borderline personality disorder severity index. Journal of Personality Disorders , 17 , 45 – 59. Beck, A.T., Steer, R.A., & Garbin, M.G. (1988). Psychometric properties of the Beck Depression Inventory: Twenty-ﬁve years of evaluation. Clinical Psychology Review , 8 , 77 – 100. Beck, A.T., Ward, C.H., Mendelson, M., Mock, J., & Erbaugh, J. (1961). An inventory for measuring depression. Archives of General Psychiatry , 4 , 561 – 571. Birmaher, B., Khetarpal, S., Brent, D., Cully, M., Balach, L., Kaufman, J., & Neer, S.M. (1997). The screen for child anxiety related emotional disorders (SCARED): Scale construction and psychometric characteristics. Journal of the American Academy of Child and Adolescent Psychiatry , 36 , 545 – 553. Bult \u0003 e, I., & Onghena, P. (2013). The Single-Case Data Analysis package: Analysing single- case experiments with R software. Journal of Modern Applied Statistical Methods , 12 , 450 – 478. Cloitre, M., Garvert, D.W., Brewin, C.R., Bryant, R.A., & Maercker, A. (2013). Evidence for proposed ICD-11 PTSD and complex PTSD: A latent proﬁle analysis. European Journal of Psychotraumatology , 4 , 20706. https://doi.org/ 10.3402/ejpt.v4i0.20706. Cohen, J.W. (1988). Statistical power analysis for the behavioral sciences (2nd edn). Lawrence Erlbaum. Cohen, J.A., Mannarino, A.P., & Deblinger, E. (2006). Treating trauma and traumatic grief in children and adolescents . New York: Guilford Press. Cohen, J.A., Mannarino, A.P., & Iyengar, S. (2011). Community treatment of posttraumatic stress disorder for children exposed to intimate partner violence: A randomized controlled trial. Archives of Pediatrics and Adolescent Medicine , 165 , 16 – 21. De Haan, A.M., Boon, A.E., de Jong, J.T., Hoeve, M., & Vermeiren, R.R. (2013). A meta-analytic review on treatment dropout in child and adolescent outpatient mental health care. Clinical Psychology Review , 33 , 698 – 711. Edgington, E.S. (1972). An additive method for combining probability values from independent experiments. Journal of Psychology , 80 , 351 – 363. Ehlers, A., Hackmann, A., Grey, N., Wild, J., Liness, S., Albert, I., . . . & Clark, D.M. (2014). A randomized controlled trial of 7-day intensive and standard weekly cognitive therapy for PTSD and emotion-focused supportive therapy. American Journal of Psychiatry , 171 , 294 – 304. Foa, E.B. (1995). PDS (Posttraumatic Stress Diagnostic Scale) manual . Minneapolis, MN: National Computer Systems. Foa, E.B., Hembree, E.A., & Rothbaum, B.O. (2007). Prolonged exposure therapy for PTSD: Emotional processing of traumatic experiences: Therapist guide . Oxford, England: Oxford University Press. Foa, E.B., Keane, T.M., Friedman, M.J., & Cohen, J.A. (2009). Effective treatments for PTSD: Practice guidelines from the International Society for Traumatic Stress Studies (2nd edn). New York: Guilford Press. Foa, E.B., McLean, C.P., Capaldi, S., & Rosenﬁeld, D. (2013). Prolonged exposure vs supportive counseling for sexual abuse – related PTSD in adolescent girls: A randomized clinical trial. JAMA , 310 , 2650 – 2657. Foa, E.B., Riggs, D.S., Dancu, C.V., & Rothbaum, B.O. (1993). Reliability and validity of a brief instrument for assessing posttraumatic stress disorder. Journal of Traumatic Stress , 6 , 459 – 473. Gilboa-Schechtman, E., Foa, E.B., Shafran, N., Aderka, I.M., Powers, M.B., Rachamim, L., . . . & Apter, A. (2010). Prolonged exposure versus dynamic therapy for adolescent PTSD: A pilot randomized controlled trial. Journal of the",
+    "line_count": 70,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      353.0278625488281,
+      51.695804595947266,
+      506.36737060546875,
+      59.6660041809082
+    ],
+    "text": "Intensive PE for adolescents with PTSD",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.97674560546875,
+      78.56855010986328,
+      549.9373779296875,
+      126.39379119873047
+    ],
+    "text": "American Academy of Child and Adolescent Psychiatry , 49 , 1034 – 1042. Gillies, D., Taylor, F., Gray, C., O’Brien, L., & D’Abrew, N. (2013). Psychological therapies for the treatment of posttraumatic",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      362.6648254394531,
+      118.42359161376953,
+      385.7146301269531,
+      126.39379119873047
+    ],
+    "text": "stress",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      392.1449890136719,
+      118.42359161376953,
+      424.24896240234375,
+      126.39379119873047
+    ],
+    "text": "disorder",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      430.6968688964844,
+      118.42359161376953,
+      476.7447204589844,
+      126.39379119873047
+    ],
+    "text": "in children",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      483.2515869140625,
+      118.42359161376953,
+      549.9312133789062,
+      126.39379119873047
+    ],
+    "text": "and adolescents",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.9742431640625,
+      128.4014892578125,
+      550.0147094726562,
+      544.84716796875
+    ],
+    "text": "(Review). Evidence-Based Child Health: A Cochrane Review Journal , 8 , 1004 – 1116. Gliner, J.A., Morgan, G.A., & Harmon, R.J. (2000). Singlesubject designs. Journal of the American Academy of Child and Adolescent Psychiatry , 39 , 1327 – 1329. Hendriks, L., de Kleine, R.A., Hendriks, G.J., & van Minnen, A. (2016). Intensive cognitive- behavioural treatment of PTSD: An overview of massed outpatient treatment programmes. In C.R. Martin, V.R. Preedy & V.B. Patel (Eds.), Comprehensive guide to post-traumatic stress disorder . Cham, Switzerland: Springer International. Heyvaert, M., & Onghena, P. (2014). Randomization tests for single-case experiments: State of the art, state of the science, and state of the application. Journal of Contextual Behavioral Science , 3 , 51 – 64. Imel, Z.E., Laska, K., Jakupcak, M., & Simpson, T.L. (2013). Meta-analysis of dropout in treatments for posttraumatic stress disorder. Journal of Consulting and Clinical Psychology , 81 , 394 – 404. Kaufman, J., Birmaher, B., Brent, D., Rao, U.M.A., Flynn, C., Moreci, P., . . . & Ryan, N. (1997). Schedule for affective disorders and schizophrenia for school-age children-present and lifetime version (K-SADS-PL): Initial reliability and validity data. Journal of the American Academy of Child and Adolescent Psychiatry , 36 , 980 – 988. Kessler, R.C. (2000). Posttraumatic stress disorder: The burden to the individual and to society. The Journal of Clinical Psychiatry , 61 , 4 – 12. Leenarts, L.E., Diehle, J., Doreleijers, T.A., Jansma, E.P., & Lindauer, R.J. (2013). Evidence- based treatments for children with trauma-related psychopathology as a result of childhood maltreatment: A systematic review. European Child and Adolescent Psychiatry , 22 , 269 – 283. Lenz, A.S., & Hollenbaugh, K.M. (2015). Meta-analysis of trauma-focused cognitive behavioral therapy for treating PTSD and co-occurring depression among children and adolescents. Counseling Outcome Research and Evaluation , 6 , 18 – 32. Matulis, S., Resick, P.A., Rosner, R., & Steil, R. (2014). Developmentally adapted cognitive processing therapy for adolescents suffering from posttraumatic stress disorder after childhood sexual or physical abuse: A pilot study.",
+    "line_count": 42,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      497.7651672363281,
+      546.7982177734375,
+      527.99609375,
+      554.800537109375
+    ],
+    "text": "Review ,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      537.3921508789062,
+      546.7982177734375,
+      549.9364624023438,
+      554.800537109375
+    ],
+    "text": "17 ,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      318.1033020019531,
+      546.830322265625,
+      346.56488037109375,
+      554.800537109375
+    ],
+    "text": "Clinical",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      355.91790771484375,
+      546.830322265625,
+      376.1622009277344,
+      554.800537109375
+    ],
+    "text": "Child",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      385.5686340332031,
+      546.830322265625,
+      400.59246826171875,
+      554.800537109375
+    ],
+    "text": "and",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      409.94708251953125,
+      546.830322265625,
+      436.1770324707031,
+      554.800537109375
+    ],
+    "text": "Family",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      445.55078125,
+      546.830322265625,
+      488.3499755859375,
+      554.800537109375
+    ],
+    "text": "Psychology",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.97576904296875,
+      556.4708862304688,
+      366.2057800292969,
+      574.7242431640625
+    ],
+    "text": "173 – 190. Morgan, D.L.,",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      372.5859375,
+      566.7540283203125,
+      440.301513671875,
+      574.7242431640625
+    ],
+    "text": "& Morgan, R.K.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      446.6840515136719,
+      566.7540283203125,
+      549.976318359375,
+      574.7242431640625
+    ],
+    "text": "(2001). Single-participant",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.9765319824219,
+      576.73193359375,
+      550.0121459960938,
+      734.1441650390625
+    ],
+    "text": "research design: Bringing science to managed care. American Psychologist , 56 , 119 – 127. National Institute for Clinical Excellence (2005). Post-traumatic stress disorder (PTSD): The management of PTSD in adults and children in primary and secondary care . London: Author. Onghena, P., & Edgington, E.S. (2005). Customization of pain treatments: Single-case design and analysis. Clinical Journal of Pain , 21 , 56 – 68. Risser, H.J., Hetzel-Riggin, M.D., Thomsen, C.J., & McCanne, T.R. (2006). PTSD as a mediator of sexual revictimization: The role of reexperiencing, avoidance, and arousal symptoms. Journal of Traumatic Stress , 19 , 687 – 698. Sheehan, D.V., Lecrubier, Y., Sheehan, K.H., Amorim, P., Janavs, J., Weiller, E., . . . & Dunbar, G.C. (1998). The MiniInternational",
+    "line_count": 16,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      375.87445068359375,
+      726.1739501953125,
+      442.07415771484375,
+      734.1441650390625
+    ],
+    "text": "Neuropsychiatric",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      449.349365234375,
+      726.1739501953125,
+      484.8486328125,
+      734.1441650390625
+    ],
+    "text": "Interview",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      492.0393371582031,
+      726.1739501953125,
+      528.2813720703125,
+      734.1441650390625
+    ],
+    "text": "(M.I.N.I.):",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      535.5797119140625,
+      726.1739501953125,
+      549.93408203125,
+      734.1441650390625
+    ],
+    "text": "The",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.9765319824219,
+      736.0952758789062,
+      550.0297241210938,
+      783.92041015625
+    ],
+    "text": "development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. Journal of Clinical Psychiatry , 59 , 22 – 33. Silverstone, P.H., Greenspan, F., Silverstone, M., Sawa, H., & Linder, J. (2016). A complex multimodal 4-week residential",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      88.49759674072266,
+      51.699649810791016,
+      168.53033447265625,
+      59.66984939575195
+    ],
+    "text": "Lotte Hendriks et al.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      45.35282897949219,
+      78.57209014892578,
+      286.3963317871094,
+      235.9845428466797
+    ],
+    "text": "treatment program signiﬁcantly reduces PTSD symptoms in child sexual abuse victims: The be brave ranch. Journal of Child and Adolescent Behavior , 4 , 275. Smith, P., Perrin, S., Dalgleish, T., Meiser-Stedman, R., Clark, D.M., & Yule, W. (2013). Treatment of posttraumatic stress disorder in children and adolescents. Current Opinion in Psychiatry , 26 , 66 – 72. Steinberg, A.M., Brymer, M.J., Decker, K.B., & Pynoos, R.S. (2004). The University of California at Los Angeles posttraumatic stress disorder reaction index. Current Psychiatry Reports , 6 , 96 – 100. Steinberg, A.M., Brymer, M.J., Kim, S., Briggs, E.C., Ippen, C.G., Ostrowski, S.A., . . . & Pynoos, R.S. (2013). Psychometric properties of the UCLA PTSD reaction index: Part I. Journal of Traumatic Stress , 26 , 1 – 9. Tarrier,",
+    "line_count": 16,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      81.41001892089844,
+      228.01434326171875,
+      129.41372680664062,
+      235.9845428466797
+    ],
+    "text": "N., Pilgrim,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      136.28961181640625,
+      228.01434326171875,
+      205.97386169433594,
+      235.9845428466797
+    ],
+    "text": "H., Sommerﬁeld,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      212.88243103027344,
+      228.01434326171875,
+      268.4259338378906,
+      235.9845428466797
+    ],
+    "text": "C., Faragher,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.48030090332031,
+      237.99224853515625,
+      286.3318176269531,
+      285.849609375
+    ],
+    "text": "Reynolds, M., Graham, E., & Barrowclough, C. (1999). A randomized trial of cognitive therapy and imaginal exposure in the treatment of chronic posttraumatic stress disorder. Journal of Consulting and Clinical Psychology , 67 , 13 – 18.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      578.3241577148438,
+      17.00396728515625,
+      585.5677490234375,
+      833.5307006835938
+    ],
+    "text": "14697610, 2017, 11, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12756 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      358.98065185546875,
+      51.699649810791016,
+      550.0066528320312,
+      59.66984939575195
+    ],
+    "text": "J Child Psychol Psychiatr 2017; 58(11): 1229–38",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      308.9743347167969,
+      78.57074737548828,
+      549.990966796875,
+      236.01531982421875
+    ],
+    "text": "Thrasher, S., Power, M., Morant, N., Marks, I., & Dalgleish, T. (2010). Social support moderates outcome in a randomized controlled trial of exposure therapy and (or) cognitive restructuring for chronic posttraumatic stress disorder. The Canadian Journal of Psychiatry , 55 , 187 – 190. Van Minnen, A., Hendriks, L., & Olff, M. (2010). When do trauma professionals choose exposure therapy for PTSD-patients? A controlled study about the inﬂuence of therapist and patient factors. Behaviour Research and Therapy , 48 , 312 – 320. Van Minnen, A., Zoellner, L.A., Harned, M.S., & Mills, K. (2015). Changes in comorbid conditions after prolonged exposure for PTSD: A literature review. Current Psychiatry Reports , 17 , 1 – 16. Wilcox, H.C., Storr, C.L., & Breslau, N. (2009). Posttraumatic stress disorder and suicide attempts in a community sample of urban American young adults. Archives of General Psy-",
+    "line_count": 16,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      275.30181884765625,
+      228.01434326171875,
+      286.3246154785156,
+      235.9845428466797
+    ],
+    "text": "B.,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      318.101806640625,
+      237.6856689453125,
+      401.546630859375,
+      245.99322509765625
+    ],
+    "text": "chiatry , 66 , 305 – 311.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      308.9762878417969,
+      258.89044189453125,
+      476.58343505859375,
+      278.79833984375
+    ],
+    "text": "Accepted for publication: 5 April 2017 First published online: 14 June 2017",
+    "line_count": 2,
+    "column": 1
+  }
+]

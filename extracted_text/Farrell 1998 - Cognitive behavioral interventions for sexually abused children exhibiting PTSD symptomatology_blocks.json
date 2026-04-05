@@ -1,0 +1,2342 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      71.76000213623047,
+      73.31041717529297,
+      202.1370391845703,
+      84.94441986083984
+    ],
+    "text": "BEHAVIOR THERAPY 29, 241-255, 1998"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      132.0,
+      128.2128143310547,
+      338.4737854003906,
+      146.05873107910156
+    ],
+    "text": "Cognitive Behavioral Interventions for"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      134.63999938964844,
+      142.13279724121094,
+      335.67376708984375,
+      159.9787139892578
+    ],
+    "text": "Sexually Abused Children Exhibiting"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      172.32000732421875,
+      155.8127899169922,
+      299.06427001953125,
+      173.65870666503906
+    ],
+    "text": "PTSD Symptomatology"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      184.55999755859375,
+      184.84751892089844,
+      284.4530334472656,
+      195.7329559326172
+    ],
+    "text": "STEPHANIE P. FARRELL"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      189.1199951171875,
+      202.3675079345703,
+      279.5229797363281,
+      213.25294494628906
+    ],
+    "text": "ANTHONY A. HAINS"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      164.8800048828125,
+      218.12686157226562,
+      304.7899169921875,
+      229.26239013671875
+    ],
+    "text": "The University of Wisconsin-Milwaukee"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      192.47999572753906,
+      241.7904052734375,
+      277.0569152832031,
+      253.4243927001953
+    ],
+    "text": "W. HOBART DAVIES"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      177.60000610351562,
+      257.48687744140625,
+      293.5483093261719,
+      268.6224060058594
+    ],
+    "text": "Children's Hospital of Wisconsin"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.72000122070312,
+      281.3275451660156,
+      380.1874694824219,
+      400.4529724121094
+    ],
+    "text": "This investigation examined the effectiveness of a cognitive behavioral intervention \nwith 4 sexually abused children exhibiting posttraumatic stress disorder (PTSD), \nusing a multiple baseline design. Participants ranged in age from 8 to 10 years. Inter- \nvention effectiveness was measured with pre-, post-, and 3-month follow-up assess- \nments of PTSD symptomatology and affective (depression and anxiety) measures. \nIn addition, these instruments were administered during baseline and prior to each \ntreatment session. The intervention focused on the training of relaxation skills, posi- \ntive self-talk, and cognitive restructuring. All 4 participants reported decreases in \ntheir PTSD symptomatology. The 3 participants who had elevated levels of depres- \nsion and anxiety during baseline showed decreases with treatment. The results of \nthis study suggest that cognitive behavioral techniques can be an effective approach \nfor working with this population."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.19999694824219,
+      411.1353759765625,
+      398.86041259765625,
+      516.0009765625
+    ],
+    "text": "Between 156,000 and 300,000 children are identified as sexual abuse vic- \ntims each year (Beutler, Williams, & Zetzer, 1994). These children display \nan increased incidence of depressive symptomatology (Lipovsky, Saunders, \n& Murphy, 1989), elevated anxiety (Gomes-Schwartz, Horowitz, & Carda- \nrelli, 1990), sexualized behaviors, nightmares, social withdrawal, sleep \ndifficulties, anger or acting out, school difficulties (Adams-Tucker, 1982; \nFriedrich, Beilke, & Urquiza, 1987; Kolko, Moser, & Weldy, 1988), and \nphysiological symptoms such as headaches, stomachaches, and vulnerability \nto disease (Kimerling & Calhoun, 1994)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.68000030517578,
+      527.8075561523438,
+      398.1899108886719,
+      548.77294921875
+    ],
+    "text": "This study was conducted in partial fulfillment of a master's degree conducted under the \ndirection of the second author."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.68000030517578,
+      547.487548828125,
+      398.2548828125,
+      568.2129516601562
+    ],
+    "text": "Correspondence should be addressed to Anthony A. Hains, Department of Educational Psy- \nchology, PO Box 413, University of Wisconsin-Milwaukee, Milwaukee, WI 53201."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      196.0800018310547,
+      579.1675415039062,
+      412.84832763671875,
+      597.9729614257812
+    ],
+    "text": "241 \n0005-7894/98/0241-025551.00/0 \nCopyright 1998 by Association for Advancement of Behavior Therapy"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      258.239990234375,
+      595.0075073242188,
+      398.9805908203125,
+      605.8929443359375
+    ],
+    "text": "All rights of reproduction in any form reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      73.71479797363281,
+      264.673095703125,
+      84.92039489746094
+    ],
+    "text": "242 \nFARRELL ET AL."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      97.38575744628906,
+      397.79595947265625,
+      201.31248474121094
+    ],
+    "text": "Recent studies have explored a link between the manifestations of sexual \nabuse and those characteristic of posttraumatic stress disorder (PTSD; \nMcLeer, Deblinger, Atkins, Foa, & Ralphe, 1988). The prevalence of PTSD \nin children who have been sexually abused has been suggested to be as high \nas 90% (Kiser et al., 1988). The likelihood and severity of PTSD are corre- \nlated with the degree of the traumatic stressor (McNally, 1991). Childhood \nabuse often disrupts children's development, producing symptomatology by \nstimulating the development of primitive coping strategies, and by creating \ncognitive distortions of self, others, and one's future (Briere, 1992)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      199.14576721191406,
+      398.1944580078125,
+      394.0325012207031
+    ],
+    "text": "Cognitive factors such as a child's perception of the abuse, the meaning \nascribed to the abuse, and the child's cognitions about him- or herself, rela- \ntionships, and the world are theorized to be relevant in the development of \nPTSD (Lipovsky, 1992). Emotionally healthy individuals assume the world \nis meaningful and benevolent and that the self is worthy. Traumatic events \nprovide information contrary to these healthy assumptions, precipitating indi- \nviduals to accommodate their previously held expectations to be compatible \nwith their experience (Janoff-Bulman, 1989). These assumptions typically \nreflect an overestimation of the amount of danger in the world and an under- \nestimation of an individual's self-efficacy (Briere & Elliot, 1994). The preva- \nlence of inaccurate attributions, guilt, self-blame, and low self-esteem in \nthese sexually abused individuals has been documented (Wozencrafl, \nWagner, & Pellegrin, 1991). Wolfe and Birt (1995) have suggested that alter- \nations to one's cognitive schemas and coping styles may increase the likeli- \nhood of developing long-term adjustment problems, including anxiety, \ndepression, interpersonal relationship problems, and maladaptive coping \nskills, such as avoidance, dissociation, and learned helplessness."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.72000122070312,
+      391.86578369140625,
+      398.15496826171875,
+      518.3524780273438
+    ],
+    "text": "The majority of research with sexually abused children has focused on the \nwide array of psychological problems associated with sexual abuse. Limited \ntreatment outcome research is available (Wolfe & Birt, 1995). However, the \nconceptualization of sexual abuse within the PTSD framework described \nabove indicates that specific interventions, such as anxiety reduction and cog- \nnitive restructuring, may be effective with these children. Cognitive behav- \nioral group interventions have been utilized with sexually abused children \nand their nonoffending mothers. Stauffer and Deblinger (1996) found sig- \nnificant decreases in parental distress and children's sexual behaviors. \nDeblinger, McLeer, and Henry (1990) evaluated the effectiveness of a cog- \nnitive behavioral treatment combining both child and parent interventions on"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.19999694824219,
+      516.1857299804688,
+      398.5150146484375,
+      575.2324829101562
+    ],
+    "text": "19 sexually abused girls, ages 3 to 16, exhibiting PTSD symptomatology. The \nresults indicated significant improvements following the intervention. How- \never, this study lacked a control group, used a broad age range of partici- \npants, obtained few assessment points, and utilized a nonstandardized PTSD \nmeasure."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      73.44000244140625,
+      572.8257446289062,
+      398.7559814453125,
+      608.8324584960938
+    ],
+    "text": "The purpose of the present study was to examine the effectiveness of a cog- \nnitive behavioral intervention with child victims of sexual abuse who were \nexhibiting PTSD symptomatology. This study extends previous research by"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      177.36000061035156,
+      74.97840118408203,
+      396.0000305175781,
+      84.82318878173828
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n243"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.0,
+      97.39849090576172,
+      397.9101257324219,
+      189.96505737304688
+    ],
+    "text": "utilizing a tighter age range of participants, obtaining more frequent assess- \nment points, and using a standardized PTSD measure. In addition, the few \ntreatment outcome studies in the literature have relied on samples of clini- \ncally referred children, rather than a more representative sample, such as \nthose presenting to child protection agencies (Wolfe et al., 1995), as in this \nstudy. It was hypothesized that challenging maladaptive thought processes \nwould result in a reduction in affective concerns frequently reported as \nsequelae of sexual abuse, as well as a decrease in PTSD symptomatology."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      204.7379913330078,
+      253.4776611328125,
+      232.26478576660156
+    ],
+    "text": "Method \nParticipants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      233.4784698486328,
+      398.65673828125,
+      371.1650390625
+    ],
+    "text": "Children referred for sexual abuse to the psychology program at a child \nprotection center at a pediatric hospital of a large Midwestern city were \nrecruited for the study if they met the following four criteria. First, youths \nhad to be between 8 and 12 years of age. Second, a reasonable level of cer- \ntainty of sexual abuse had to exist, rated as probable or definite on a 5-point \nscale by the center's multidisciplinary assessment team. Third, a composite \nscore of 80 or above on the Kaufman Brief Intelligence Test (K-BIT; \nKaufman & Kaufman, 1990) was required. Lastly, those scoring above 25 \non the Childhood Posttmumatic Stress Disorder Reaction Index (PTSD-RI; \nFrederick, Pynoos, & Nader, 1992; indicative of moderate or above level of \nPTSD reaction) were considered. The first 4 children meeting these criteria \nwere selected for inclusion in the study."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      369.7984924316406,
+      398.2579345703125,
+      428.0450439453125
+    ],
+    "text": "Susan was a 10-year-old European American female in 4th grade. She \nmade allegations of sexual abuse by her 20-year-old male cousin, which \nreportedly occurred 2.5 years earlier. Throughout the course of treatment she \nresided with both biological parents and had no contact with the alleged \nperpetrator."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      426.4384765625,
+      398.3766784667969,
+      506.7650451660156
+    ],
+    "text": "Paige was a 10-year-old African American female in 4th grade. She alleged \nsexual abuse by her father, with whom she had been living for the pre- \nvious year. She was then placed with an aunt and her grandmother, and \nher father was incarcerated. Following the initial psychological evaluation, \nthis child was removed from her aunt's home due to allegations of physical \nabuse. Throughout the remainder of her participation, she resided in foster \nplacement."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      505.39849853515625,
+      397.8756103515625,
+      552.125
+    ],
+    "text": "Louise was an 8-year-old African American female in 2nd grade. She \nmade allegations of sexual abuse by her 40-year-old uncle. During her par- \nticipation she resided with her biological mother and had no contact with \nthe alleged perpetrator."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.72000122070312,
+      550.5184936523438,
+      397.89910888671875,
+      608.7650146484375
+    ],
+    "text": "Matt was a 9-year-old Hispanic male referred to the child protection center \nfollowing allegations that two of his older male cousins sexually abused him. \nThis 3rd-grader resided with both of his parents during the course of his treat- \nment. None of the participants received treatment either prior to or concur- \nrently with this study."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      73.19999694824219,
+      75.47110748291016,
+      266.0176696777344,
+      84.75574493408203
+    ],
+    "text": "244 \nFARRELL ET AL."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.95999908447266,
+      98.63040924072266,
+      115.6447982788086,
+      110.35201263427734
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.95999908447266,
+      112.51848602294922,
+      398.2202453613281,
+      309.0050354003906
+    ],
+    "text": "PTSD symptomatology. The PTSD-RI (Frederick et al., 1992) was used \nto assess and detect changes in PTSD symptomatology. This 20-item measure \ncan be completed as a self-report or administered as a structured interview. \nIn this study, the researcher read the items aloud as each child followed \nalong. The participants were required to rate the frequency of their symptoms \non a 5-point Likert scale, ranging from none (0) to most of the time (4). Total \nscores may range from 0 to 80. Empirical comparisons have suggested the \nfollowing guidelines in interpreting the scores: 12 to 24 indicates a mild \nPTSD reaction; 25 to 39 indicates a moderate PTSD reaction; 40 to 59 indi- \ncates a severe PTSD reaction; and >60 indicates a very severe PTSD reaction \n(Frederick et al.). Research has revealed that of those scoring above 40 on \nthe PTSD-RI, 90% met Diagnostic and Statistical Manual of Mental Dis- \norders (DSM-III-R; American Psychiatric Association, 1987) criteria for \nPTSD (Pynoos et al., 1993). The PTSD-RI has been used to assess children \nexposed to a fatal sniper attack (Pynoos et al., 1987), an earthquake (Pynoos \net al., 1993), and a speedboat crash (Martini, Ryan, Nakayama, & Rame- \nnofsky, 1990), and in cases of child sexual and physical abuse (Frederick,"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      73.68000030517578,
+      307.39849853515625,
+      397.05682373046875,
+      331.8050537109375
+    ],
+    "text": "1986). The interrater reliability measured by Cohen's Kappa was found to be \n.878 (Nader, Pynoos, Fairbanks, & Frederick, 1990)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      330.6784973144531,
+      397.8235778808594,
+      447.9650573730469
+    ],
+    "text": "Affective measures. The child's self-reported level of depressive symptoms \nwas assessed through the use of the Reynolds Child Depression Scale \n(RCDS; Reynolds, 1989). This 30-item measure is designed to be used with \nchildren grades 3 to 6. Children are asked to respond to a series of feelings \non a 4-point Likert scale from almost never to all the time. Standardized \ntables are available to convert raw scores into percentiles, according to gender \nand grade level norms. Higher scores are indicative of greater depressive \nsymptomatology. Internal consistency and split-half coefficients have been \nreported in the upper .80s and lower .90s within and across grade level, \ngender, and ethnicity. Test-retest reliabilities have been found to be .82 and"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      73.68000030517578,
+      446.3584899902344,
+      383.6131896972656,
+      459.48504638671875
+    ],
+    "text": ".85. The RCDS correlates .76 with the Children's Depression Inventory."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.95999908447266,
+      457.87847900390625,
+      397.7325439453125,
+      494.0450439453125
+    ],
+    "text": "The child's self-reported level of anxious symptoms was assessed through \nthe use of the Revised Children's Manifest Anxiety Scale (RCMAS; Reynolds \n& Richman, 1985). This 37-item questionnaire is appropriate for 6- to"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      492.4384765625,
+      398.0064392089844,
+      609.7250366210938
+    ],
+    "text": "19-year-old children and adolescents. A child responds with \"yes\" or \"no\" \nto a series of descriptions of feelings and behaviors. A total anxiety score \nis obtained, along with subscores for physiological anxiety, worry/oversensi- \ntivity, social concerns/concentration, and a \"lie\" scale that identifies a fake- \ngood response set. Raw scores are converted to percentiles, based on age, \nethnicity, and gender norms. Higher scores are indicative of greater anxious \nsymptomatology. Across the entire age range, coefficient alpha reliabilities \nwere found to be .84 for white males, .85 for black males, .85 for white \nfemales, and .78 for black females. Construct validity was evaluated with the \nState Trait Anxiety Inventory for Children (STAIC; Spielberger, 1973). A"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      177.83999633789062,
+      72.19847869873047,
+      397.79998779296875,
+      85.32503509521484
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n245"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      97.63848114013672,
+      398.3644714355469,
+      145.56503295898438
+    ],
+    "text": "significant correlation (r = .85, p < .001) was found between the RCMAS \nand the STAIC Trait scale. The STAIC State scale was found not to correlate \nsignificantly (r = .24, p < .05), which supports the construct validity of the \nRCMAS as a measure of chronic manifest anxiety."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      152.9409637451172,
+      119.11825561523438,
+      166.42080688476562
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      168.19847106933594,
+      399.0190734863281,
+      262.2050476074219
+    ],
+    "text": "The therapist, the first author, met with each child and his or her parents \nor guardian to describe the treatment and review the consent form prior to \nobtaining signatures. Once consent was obtained, the children were seen indi- \nvidually at the child protection center. Baseline data were collected for each \nchild on the RCMAS, RCDS, and the PTSD-RI by the first author. In addi- \ntion, each child completed all measures prior to the onset of each session. \nFinally, the measures were administered at posttreatment and follow-up \nassessments."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      260.8385009765625,
+      398.4599609375,
+      343.7807922363281
+    ],
+    "text": "The therapist had completed her course work at the master's level and was \nenrolled in a doctoral program in counseling psychology. She had taken two \ncourses in cognitive behavioral interventions and had spent a year in a prac- \nticum placement at the child protection center conducting assessment and \nindividual and group therapy with sexually and physically abused children. \nThe therapist met with each child for 10 one-hour sessions. A manual was \ncreated, adapting exercises from Cognitive-Behavioral Therapy for Anxious"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      341.8209533691406,
+      398.7056579589844,
+      401.1650390625
+    ],
+    "text": "Children (Kendall, Kane, Howard, & Siqueland, 1989). During the course \nof the intervention project, the therapist met weekly with both her doctoral \nsupervisor and her practicum supervisor to discuss each session and the par- \nticipants' progress and to review the children's completed worksheets and \nhomework assignments."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      399.7984924316406,
+      398.4289245605469,
+      447.48504638671875
+    ],
+    "text": "The intervention program paralleled a three-phase cognitive behavioral \nstress-inoculation training program (Meichenbaum, 1985): the conceptualiza- \ntion phase, the skill acquisition and rehearsal phase, and the application \nphase."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      445.9809265136719,
+      398.8200378417969,
+      586.2050170898438
+    ],
+    "text": "Conceptualization phase. There were two sessions in this phase. Session 1 \nwas characterized by building rapport, discussing the goals of therapy, and \nintroducing the framework of cognitive behavioral therapy. Both positive \nand upsetting situations were identified, along with the accompanying feel- \nings and thoughts. Homework was introduced as an opportunity to practice \nwhat was learned during the session. The child was asked to describe \nstressful situations and the accompanying thoughts, feelings, and behaviors \non assigned self-monitoring sheets. A sticker was given to the child as a \nreward for each completed homework assignment. In session 2 the focus was \non identifying feelings. The child drew a picture of how he or she felt that \nday and drew a picture of a stressful time. Various feelings and affective indi- \ncators were discussed and role played."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.72000122070312,
+      584.9409790039062,
+      397.8789978027344,
+      609.4849853515625
+    ],
+    "text": "Skill acquisition and rehearsal phase. Sessions 3 and 4 involved consid- \nering how the child's body responds in various affect-provoking situations."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.95999908447266,
+      73.95478820800781,
+      264.8386535644531,
+      85.16038513183594
+    ],
+    "text": "246 \nFARRELL ET AL."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      97.38575744628906,
+      397.22540283203125,
+      133.63246154785156
+    ],
+    "text": "Relaxation training, consisting of deep breathing exercises, progressive \nmuscle relaxation, and the creation of a relaxing imagery scene, was audio- \ntaped for each child to take home to practice during the week."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      131.4657745361328,
+      397.37158203125,
+      303.3125
+    ],
+    "text": "The goal of sessions 5 and 6 was to help the child recognize negative cog- \nnitions and to begin restructuring these thoughts into positive self-talk. Car- \ntoons with thought bubbles were used to help each child generate a variety \nof possible thoughts that characters might have in various affect-provoking \nsituations. Several scenarios were also presented, and the child was to \ndescribe what he or she might be thinking and what he or she would do. A \nrole play of an upsetting situation allowed an opportunity to further practice \ncognitive restructuring through the use of challenging questions, such as, \"Is \nthere another way to look at it?\" \"Is it really true?\" and \"What is the evidence \nfor and against this thought?\" Homework assignments included activities \nsuch as cutting out pictures from magazines or newspapers and gluing them \nto a piece of paper, drawing thought bubbles above each character's head, \nand filling in possible thoughts. In addition, the participant was to continue \npracticing with the relaxation tape and self-monitor situations, feelings, \nthoughts, and behaviors."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.95999908447266,
+      301.1457824707031,
+      397.6786193847656,
+      472.99249267578125
+    ],
+    "text": "Session 7 began with a role play of an upsetting situation that occurred \nduring the previous week. The feelings, thoughts, and behaviors were iden- \ntiffed and explored. Alternative behaviors and thoughts were examined, as \nwell as the consequences associated with each. The child was encouraged \nto use positive self-talk as self-reinforcement in various situations. During \nsession 8 the child was presented with several scenarios and maladaptive \ncognitions. The child was to determine what made the thoughts negative, \nand how they could be restructured into more helpful thoughts. Next, the \nchild came up with three of his or her own situations, along with the accom- \npanying feelings and thoughts. Cognitive restructuring of the maladaptive \nthoughts was then practiced with these personal situations. To further solidify \nthis skill, role play of situations and possible helpful thoughts was incorpo- \nrated. Self-monitoring was assigned for homework, but unlike previous \nweeks, the thoughts column was divided into maladaptive and adaptive \nthoughts."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      73.19999694824219,
+      469.07977294921875,
+      397.522705078125,
+      607.8724365234375
+    ],
+    "text": "Application phase. Session 9 was spent preparing for an anticipated \nstressful situation. Relaxation skills, exploration of the thoughts about the \nanticipated event, and role play were used to practice more adaptive behav- \niors and positive thoughts. For homework, the child was asked to practice \nthe relaxation skills and change the maladaptive thoughts surrounding the \nanticipated event. In addition, the child was to log his or her feelings and \nthoughts before the event and afterward. The last session began by discussing \nthe situation that had been prepared for during the previous session. The \nchild was also encouraged to brainstorm potential future situations that \nwould be anxiety-provoking, depressive, or reminiscent of the abuse. A \nreview of the acquired skills was applied to these future concerns. Thoughts \nand feelings surrounding termination were also explored."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      177.1199951171875,
+      71.94575500488281,
+      396.6431579589844,
+      85.3924789428711
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n247"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      71.76000213623047,
+      97.51271057128906,
+      104.3984375,
+      111.28559112548828
+    ],
+    "text": "Design"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.0,
+      111.78578186035156,
+      396.802978515625,
+      204.67247009277344
+    ],
+    "text": "A multiple baseline design across subjects (Barlow & Hersen, 1984) was \nused. After the pre-assessment of PTSD symptomatology, depression, and \nanxiety, participants underwent baseline periods that lasted between 2 and \n5 weeks. Baseline data were collected for each child in a staggered fashion. \nThe completion of the PTSD-RI, RCMAS, and the RCDS at the beginning \nof each session provided a week-by-week evaluation of the child's PTSD \nsymptomatology, depression, and anxiety fluctuations. Following baseline \neach child participated in 10 weeks of treatment."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.4800033569336,
+      223.11000061035156,
+      254.65512084960938,
+      252.16558837890625
+    ],
+    "text": "Results \nPTSD Symptomatology"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.72000122070312,
+      252.90574645996094,
+      397.2397155761719,
+      345.79248046875
+    ],
+    "text": "Figure 1 displays the participants' PTSD symptomatology, based on scores \nobtained from the PTSD-RI. Matt and Louise had slightly decreasing base- \nline levels. However, Matt had scores indicating a moderate level of PTSD \nsymptomatology (baseline mean of 31), and Louise had scores indicating a \nsevere to moderate PTSD level (baseline mean of 41). Paige had increasing \nscores across 4 weeks of baseline, indicating severe to very severe PTSD \nlevels (baseline mean of 61). Susan had varying baseline scores, but the \nscores were primarily within the severe range of PTSD (baseline mean of 44)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.95999908447266,
+      343.6257629394531,
+      398.3448486328125,
+      481.6324768066406
+    ],
+    "text": "Upon introduction of the intervention, Matt, Paige, and Susan displayed \na steady decrease in PTSD scores across treatment sessions. By the end of \ntreatment, all 4 children had scores of 12 or less, suggesting doubtfulness \nof a PTSD response. Matt fell below this clinical cutoff by the 3rd week of \ntreatment, Paige by the 8th week of treatment, and Susan by the 6th week \nof treatment. Louise initially displayed stable PTSD scores at the moderate \nlevel with the initiation of treatment, but then her scores were at or above \npretreatment levels for two sessions before falling below clinical levels of \nPTSD by the 6th week of treatment. At the 3-month follow-up, Matt, Louise, \nand Susan maintained their treatment gains at levels below the clinical cutoff. \nPaige showed an increase to a moderate level of PTSD symptomatology, \nalthough this score was still below baseline levels."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.95999908447266,
+      490.3927001953125,
+      156.6627960205078,
+      504.16558837890625
+    ],
+    "text": "Affective Measures"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      73.19999694824219,
+      504.6658020019531,
+      398.1434020996094,
+      585.5524291992188
+    ],
+    "text": "Figure 2 displays the participants' depression levels as measured by the \ntotal percentile rank on the RCDS. Matt reported a stable pattern of virtually \nno depressive symptomatology (baseline mean of 7%). Louise initially \nshowed a decreasing level of depression but stabilized during the last 2 weeks \nof baseline (mean of 58%). Paige showed high levels of depression across \nbaseline (mean of 98%), and Susan showed moderate but variable baseline \nlevels (mean of 56%)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      73.44000244140625,
+      583.625732421875,
+      398.0810852050781,
+      608.5924682617188
+    ],
+    "text": "Upon introduction of the intervention, Paige and Susan displayed a steady \ndecrease in depression across treatment sessions. Louise displayed a pattern"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      218.63999938964844,
+      315.9638366699219,
+      342.8266906738281,
+      324.9283142089844
+    ],
+    "text": "i\nJ\nl\n,\n,\n,\nl\nl\n,\n~\n,\nl\nt\nl"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      168.9600067138672,
+      80.90998840332031,
+      177.77999877929688,
+      184.19400024414062
+    ],
+    "text": "80 \n75 \n70 \n65 \n60 \n55 \n50 \n45 \n40 \n35 \n30 \n25 \n20 \n15 \n10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      172.0800018310547,
+      182.9099884033203,
+      177.32400512695312,
+      197.63400268554688
+    ],
+    "text": "5 \n0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      169.1999969482422,
+      203.3100128173828,
+      178.47201538085938,
+      240.114013671875
+    ],
+    "text": "6O \n75 \n70 \n65 \n6O"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      169.1999969482422,
+      260.2838134765625,
+      178.1318359375,
+      276.9283142089844
+    ],
+    "text": "4O \n35"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      168.9600067138672,
+      282.36383056640625,
+      177.67999267578125,
+      313.1683044433594
+    ],
+    "text": "25 \n20 \n15 \n10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      172.0800018310547,
+      311.4038391113281,
+      177.1199951171875,
+      327.8083190917969
+    ],
+    "text": "5 \n0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      201.36000061035156,
+      73.95002746582031,
+      214.49798583984375,
+      82.19402313232422
+    ],
+    "text": "Matt"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.55999755859375,
+      85.95002746582031,
+      370.21197509765625,
+      94.43401336669922
+    ],
+    "text": "- Baseline \nTreatment \nFollow-up"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      180.0,
+      207.87001037597656,
+      217.87600708007812,
+      278.7117614746094
+    ],
+    "text": "Louise \n,q"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      194.16000366210938,
+      321.24383544921875,
+      207.5880126953125,
+      324.9002380371094
+    ],
+    "text": "J \na"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      102.95999908447266,
+      293.7960205078125,
+      139.63442993164062,
+      306.3268737792969
+    ],
+    "text": "PTSD-RI"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      109.19999694824219,
+      303.8760070800781,
+      134.91539001464844,
+      316.4068603515625
+    ],
+    "text": "Score"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.75999450683594,
+      328.7220153808594,
+      203.10226440429688,
+      352.1349792480469
+    ],
+    "text": "78•1-"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.52000427246094,
+      327.7008056640625,
+      230.1266326904297,
+      392.518798828125
+    ],
+    "text": "Paige \niI. ."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      341.0400085449219,
+      401.2454528808594,
+      343.8791809082031,
+      409.8878479003906
+    ],
+    "text": "."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.52000427246094,
+      420.8438415527344,
+      340.0799865722656,
+      429.8083190917969
+    ],
+    "text": "20 \n,"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      173.0399932861328,
+      459.1499938964844,
+      215.59800720214844,
+      498.833984375
+    ],
+    "text": "80 \nSusan \n75 \n70 \n65 \n6O \n55"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      173.0399932861328,
+      526.923828125,
+      181.75999450683594,
+      555.5682983398438
+    ],
+    "text": "25 \n20 \n15 \n10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      176.39999389648438,
+      552.8438110351562,
+      240.68399047851562,
+      582.35400390625
+    ],
+    "text": "5 \n0 \n' \nPRE \n2 \n4 \n1 \n3 \n5"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      244.8000030517578,
+      499.458740234375,
+      263.4570617675781,
+      523.1505737304688
+    ],
+    "text": "%"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      245.52000427246094,
+      567.3899536132812,
+      356.1800231933594,
+      582.35400390625
+    ],
+    "text": "6 \n8 \n10 \n12 \n14 \nF-up3 \n7 \n9 \n1t \n13 \n15"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      81.36000061035156,
+      588.8438110351562,
+      389.68365478515625,
+      597.8082885742188
+    ],
+    "text": "FIG. 1. \nPTSD-RI total scores for each child across baseline, treatment, and follow-up."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      78.95999908447266,
+      304.3740234375,
+      139.72296142578125,
+      316.57513427734375
+    ],
+    "text": "RCDS Total %"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.0,
+      77.27398681640625,
+      197.6012725830078,
+      86.1775131225586
+    ],
+    "text": "100"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      88.31402587890625,
+      197.46102905273438,
+      97.2175521850586
+    ],
+    "text": "90"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      99.593994140625,
+      197.70101928710938,
+      108.49752044677734
+    ],
+    "text": "80"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      110.8740234375,
+      197.70101928710938,
+      119.77754974365234
+    ],
+    "text": "70"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      121.67401123046875,
+      197.60821533203125,
+      130.57752990722656
+    ],
+    "text": "60"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      132.7139892578125,
+      197.70101928710938,
+      141.6175079345703
+    ],
+    "text": "50"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      143.75396728515625,
+      197.70101928710938,
+      152.65748596191406
+    ],
+    "text": "40"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      154.79400634765625,
+      197.4066162109375,
+      163.69752502441406
+    ],
+    "text": "30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      165.833984375,
+      197.70101928710938,
+      174.7375030517578
+    ],
+    "text": "20"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.60000610351562,
+      177.35400390625,
+      197.88662719726562,
+      186.2575225830078
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      192.47999572753906,
+      188.39398193359375,
+      197.45196533203125,
+      197.29750061035156
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      185.0399932861328,
+      203.51400756835938,
+      196.64126586914062,
+      212.4175262451172
+    ],
+    "text": "100"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.67999267578125,
+      195.49798583984375,
+      205.2275848388672,
+      254.5250244140625
+    ],
+    "text": "9O !!"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.9199981689453,
+      284.6340026855469,
+      199.24252319335938,
+      293.53753662109375
+    ],
+    "text": "30 ¸"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.9199981689453,
+      308.15399169921875,
+      196.2066192626953,
+      317.0575256347656
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.0,
+      334.5539855957031,
+      197.6012725830078,
+      343.45751953125
+    ],
+    "text": "100"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      345.593994140625,
+      197.46102905273438,
+      354.4975280761719
+    ],
+    "text": "90"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.1199951171875,
+      356.39398193359375,
+      197.9940948486328,
+      365.2975158691406
+    ],
+    "text": "8O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      367.4339904785156,
+      197.9012908935547,
+      376.3375244140625
+    ],
+    "text": "7O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      377.9939880371094,
+      197.9012908935547,
+      386.89752197265625
+    ],
+    "text": "6O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      388.79400634765625,
+      197.9012908935547,
+      397.6975402832031
+    ],
+    "text": "5O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      399.35400390625,
+      197.7541046142578,
+      408.2575378417969
+    ],
+    "text": "4O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      410.39398193359375,
+      197.7541046142578,
+      419.2975158691406
+    ],
+    "text": "3O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      421.1940002441406,
+      197.9012908935547,
+      430.0975341796875
+    ],
+    "text": "2O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      189.36000061035156,
+      432.2340087890625,
+      197.64662170410156,
+      441.1375427246094
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      192.24000549316406,
+      443.27398681640625,
+      197.21197509765625,
+      452.1775207519531
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      184.0800018310547,
+      458.8739929199219,
+      195.347412109375,
+      467.77752685546875
+    ],
+    "text": "IO0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      468.9539794921875,
+      195.54103088378906,
+      477.8575134277344
+    ],
+    "text": "90"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.72000122070312,
+      478.79400634765625,
+      195.301025390625,
+      487.6975402832031
+    ],
+    "text": "80"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      489.114013671875,
+      195.2466278076172,
+      498.0175476074219
+    ],
+    "text": "70"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      498.9539794921875,
+      195.98129272460938,
+      507.8575134277344
+    ],
+    "text": "6O"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      508.79400634765625,
+      195.54103088378906,
+      517.697509765625
+    ],
+    "text": "50"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.72000122070312,
+      518.8739624023438,
+      195.301025390625,
+      527.7774658203125
+    ],
+    "text": "40"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      529.1940307617188,
+      195.54103088378906,
+      538.0975341796875
+    ],
+    "text": "30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      539.2739868164062,
+      195.54103088378906,
+      548.177490234375
+    ],
+    "text": "20"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.1999969482422,
+      549.35400390625,
+      195.4866180419922,
+      558.2575073242188
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      190.0800018310547,
+      559.1940307617188,
+      195.05197143554688,
+      568.0975341796875
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      86.16000366210938,
+      587.1383666992188,
+      197.39520263671875,
+      596.7431640625
+    ],
+    "text": "FxG. 2. \nRCDS total scores for"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      207.36000061035156,
+      73.43402099609375,
+      220.4286346435547,
+      82.3375473022461
+    ],
+    "text": "Matt"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      204.9600067138672,
+      85.67401123046875,
+      391.1608581542969,
+      94.5775375366211
+    ],
+    "text": "Baseline \nTreatment \nFollow-up"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      197.75999450683594,
+      230.8319854736328,
+      258.4505920410156,
+      288.8697509765625
+    ],
+    "text": "- f"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      205.67999267578125,
+      207.833984375,
+      224.7345733642578,
+      216.7375030517578
+    ],
+    "text": "Louisa"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      352.79998779296875,
+      286.27490234375,
+      359.8595886230469,
+      316.61614990234375
+    ],
+    "text": "1 \nJ"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      237.60000610351562,
+      315.6983947753906,
+      367.01519775390625,
+      325.3031921386719
+    ],
+    "text": ".\n.\n.\n.\n \n~\nI\n \n~,"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      221.27999877929688,
+      461.9940185546875,
+      255.46092224121094,
+      470.8975524902344
+    ],
+    "text": "Susan --~"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.0800018310547,
+      566.8739624023438,
+      369.3969421386719,
+      582.4974975585938
+    ],
+    "text": "PRE \n2 \n4 \n6 \n8 \n10 \n12 \n14 \nF-up3 \n1 \n3 \n5 \n7 \n9 \n11 \n13 \n15"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      198.47999572753906,
+      587.37841796875,
+      384.79669189453125,
+      596.9832153320312
+    ],
+    "text": "each child across baseline, treatment, and follow-up."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      80.63999938964844,
+      323.37841796875,
+      148.18301391601562,
+      335.6061706542969
+    ],
+    "text": "RCMAS Total %"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      85.44000244140625,
+      583.613037109375,
+      111.98880004882812,
+      597.3798828125
+    ],
+    "text": "FIG. 3."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      181.1999969482422,
+      76.49302673339844,
+      194.97598266601562,
+      90.25990295410156
+    ],
+    "text": "100"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      97.85301208496094,
+      194.69985961914062,
+      111.61988830566406
+    ],
+    "text": "8O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      111.53306579589844,
+      195.62875366210938,
+      125.29994201660156
+    ],
+    "text": "7o i"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      157.45196533203125,
+      193.33889770507812,
+      166.02572631835938
+    ],
+    "text": "3O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      168.49200439453125,
+      193.33889770507812,
+      177.06576538085938
+    ],
+    "text": "2O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.55999755859375,
+      179.77200317382812,
+      193.2335968017578,
+      188.34576416015625
+    ],
+    "text": "10"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      187.44000244140625,
+      191.052001953125,
+      192.6441650390625,
+      199.62576293945312
+    ],
+    "text": "0"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      181.9199981689453,
+      205.21200561523438,
+      193.71360778808594,
+      213.7857666015625
+    ],
+    "text": "IO0"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      204.24000549316406,
+      74.17200469970703,
+      217.91152954101562,
+      82.74576568603516
+    ],
+    "text": "Matt"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      196.8000030517578,
+      85.45197296142578,
+      387.7588195800781,
+      94.74576568603516
+    ],
+    "text": "Baseline \nTreatment \nFollow-up"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      232.32000732421875,
+      187.69198608398438,
+      353.7000427246094,
+      196.2657470703125
+    ],
+    "text": "~\nC\nC\nC\nC\nC\nC\nC\n~"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      181.9199981689453,
+      463.21197509765625,
+      193.88304138183594,
+      471.7857360839844
+    ],
+    "text": "100"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      472.81201171875,
+      193.47360229492188,
+      481.3857727050781
+    ],
+    "text": "90"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      482.4119873046875,
+      193.47360229492188,
+      490.9857482910156
+    ],
+    "text": "80"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.0399932861328,
+      492.25201416015625,
+      193.71359252929688,
+      509.9457702636719
+    ],
+    "text": "70 \n60"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      511.21197509765625,
+      193.79360961914062,
+      528.90576171875
+    ],
+    "text": "50 \n40"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.0399932861328,
+      530.4119873046875,
+      193.71359252929688,
+      538.9857788085938
+    ],
+    "text": "30"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.27999877929688,
+      540.011962890625,
+      193.95359802246094,
+      548.5857543945312
+    ],
+    "text": "20"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.52000427246094,
+      549.8519897460938,
+      194.03359985351562,
+      558.42578125
+    ],
+    "text": "10"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      188.39999389648438,
+      559.4520263671875,
+      193.60415649414062,
+      568.0258178710938
+    ],
+    "text": "0"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      205.13304138183594,
+      221.28782653808594,
+      226.5799102783203
+    ],
+    "text": "Louise \n9O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      240.97198486328125,
+      193.47360229492188,
+      249.54574584960938
+    ],
+    "text": "70"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      252.49200439453125,
+      194.05889892578125,
+      261.0657653808594
+    ],
+    "text": "6O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      264.49200439453125,
+      194.05889892578125,
+      273.0657653808594
+    ],
+    "text": "5O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.0399932861328,
+      276.49200439453125,
+      194.29888916015625,
+      285.0657653808594
+    ],
+    "text": "4O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.0399932861328,
+      288.49200439453125,
+      194.29888916015625,
+      297.0657653808594
+    ],
+    "text": "3O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.27999877929688,
+      300.2519836425781,
+      194.37889099121094,
+      308.82574462890625
+    ],
+    "text": "2O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      185.27999877929688,
+      312.2519836425781,
+      193.79359436035156,
+      320.82574462890625
+    ],
+    "text": "10"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      183.83999633789062,
+      356.3330383300781,
+      194.69985961914062,
+      381.37994384765625
+    ],
+    "text": "80 \n7O"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      438.8930358886719,
+      358.90679931640625,
+      452.6599426269531
+    ],
+    "text": "ii, \n, , \n1"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      217.1999969482422,
+      458.8919982910156,
+      236.02513122558594,
+      467.46575927734375
+    ],
+    "text": "Susan"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      355.44000244140625,
+      321.0959777832031,
+      364.3270568847656,
+      329.4059753417969
+    ],
+    "text": "AI"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      200.16000366210938,
+      560.181640625,
+      250.7622528076172,
+      564.4778442382812
+    ],
+    "text": ", \n, \n, \n, \n, \n,"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      117.83999633789062,
+      567.1319580078125,
+      392.08697509765625,
+      597.3798828125
+    ],
+    "text": "PRE \n2 \n4 \n1 \n3 \n5 \nRCMAS total scores for each child across baseline, treatment, and follow-up."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      258.4800109863281,
+      566.6519775390625,
+      369.3936767578125,
+      581.94580078125
+    ],
+    "text": "6 \n8 \n10 \n12 \n14 \nF-up3 \n7 \n9 \n11 \n13 \n15"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      359.0400085449219,
+      450.0215759277344,
+      365.7222900390625,
+      454.3178405761719
+    ],
+    "text": ", \nI"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      177.36000061035156,
+      72.18574523925781,
+      397.0955810546875,
+      85.6324691772461
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n251"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.23999786376953,
+      97.86573791503906,
+      398.2552490234375,
+      168.67250061035156
+    ],
+    "text": "of results similar to the PTSD data in Figure 1. Levels of depression remained \nmoderate to high until the 5th week of treatment. By the 5th and 6th week of \ntreatment, Louise, Paige, and Susan had percentile scores at or approaching \none. At the 3-month follow-up, Louise and Susan maintained their treatment \ngains, but Paige showed an increase to the 30th percentile, still far below her \npretreatment level."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.4800033569336,
+      166.50575256347656,
+      397.3472900390625,
+      236.5924835205078
+    ],
+    "text": "Figure 3 displays the participants' anxiety levels as measured by the total \npercentile rank on the RCMAS. Matt displayed a decreasing level of anxiety \nduring baseline to near zero. Louise showed an increasing pattern during \nbaseline (mean of 63%). Paige and Susan showed variable patterns dur- \ning baseline, with Paige stabilizing at a high level of anxiety (mean of 86%) \nand Susan at a more moderate level (mean of 65%)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      234.66575622558594,
+      398.4952392578125,
+      316.0325012207031
+    ],
+    "text": "Upon introduction of the intervention, Susan displayed a steady decrease \nin anxiety across treatment sessions, and by the 5th week of treatment, she \nwas reporting no symptoms. Louise and Paige displayed fluctuating levels of \nanxiety, until the 5th and 6th week of treatment when they were reporting \nvirtually no symptoms. At the 3-month follow-up assessment, all 4 partici- \npants remained below their baseline levels, revealing no clinical anxiety, \nalthough once again Paige had a slight increase."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      332.8080139160156,
+      398.2521057128906,
+      429.552490234375
+    ],
+    "text": "Discussion \nThe results of this study suggest that cognitive behavioral interventions can \nbe valuable with child victims of sexual abuse who are exhibiting posttrau- \nmatic stress symptomatology. As hypothesized, all 4 participants revealed \ndecreases in their PTSD symptomatology. For the 3 youths who had elevated \nbaseline depression and anxiety scores, similar reductions were evident as \nwell following treatment. The patterns of progress, however, differed consid- \nerably among the participants."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.95999908447266,
+      427.3857727050781,
+      398.0988464355469,
+      508.7524719238281
+    ],
+    "text": "Louise displayed fluctuations in her scores on the PTSD-RI, RCMAS, and \nRCDS. It should be noted that following the completion of these instruments \nduring week 4, she reported a hallucination of the devil in the treatment \nroom. The supervising psychologist and a child psychiatrist were consulted, \nand it was deemed appropriate for her to complete her participation in the \nintervention. Decreases in her PTSD, anxious, and depressive symptoma- \ntology occurred the following weeks in therapy."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.95999908447266,
+      506.5857849121094,
+      398.09246826171875,
+      610.512451171875
+    ],
+    "text": "Paige revealed slight to moderate increases in her PTSD, anxious, and \ndepressive symptomatology at the 3-month follow-up, although remaining \nbelow pretreatment baseline levels. Prior to her follow-up visit, Paige had \nbeen moved to another foster home and reported difficulty adjusting, as well \nas behavioral problems in school. It is possible that Paige was unable to \ntransfer the skills gained in treatment to her new environment. The transition \nto a new home may have created further stress and inconsistency for Paige, \nwhich may have contributed to her increased scores. This is not an uncom- \nmon reaction to a new foster placement."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.23999786376953,
+      74.97840118408203,
+      264.5375671386719,
+      84.58319854736328
+    ],
+    "text": "252 \nFARRELL ET AL."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.4800033569336,
+      97.38575744628906,
+      396.9136962890625,
+      190.27247619628906
+    ],
+    "text": "Although Matt met the criteria for inclusion in the study with his moderate \nlevel of PTSD symptomatology, he did not report any depressive or anxious \nsymptoms. Research has suggested that children respond with a wide array \nof symptomatology in the face of a trauma such as sexual abuse. Matt \nreported intrusive thoughts, nightmares, and somatic complaints, character- \nistic of PTSD. Matt reported a high level of social support. Perhaps because \nof this, coupled with a stable family environment, Matt may not have been \nas vulnerable to other manifestations of symptomatology."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.4800033569336,
+      187.8657684326172,
+      397.6131896972656,
+      281.23248291015625
+    ],
+    "text": "The results of this study are consistent with the findings of Deblinger et \nal. (1990), suggesting that cognitive behavioral interventions may be viable \nfor sexually abused children exhibiting PTSD symptomatology. These \nfindings parallel the increasing body of literature illustrating the effectiveness \nof cognitive behavioral interventions for the treatment and prevention of child- \nhood anxiety disorders, including social phobias, generalized anxiety dis- \norder, and separation anxiety (Barrett, Dadds, & Rapee, 1996; Dadds, \nSpence, Holland, Barrett, & Laurens, 1997; Kendall, 1994; Kendall et al.,"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      279.0657653808594,
+      397.7258605957031,
+      428.35247802734375
+    ],
+    "text": "1997). This recent research provides supportive evidence that cognitive behav- \nioral interventions are \"probably efficacious\" for children with anxiety dis- \norders as defined by the criteria from the American Psychological Associa- \ntion Task Force on Promotion and Dissemination of Psychological \nProcedures (1995). PTSD is classified as an anxiety disorder in the Diag- \nnostic and Statistical Manual of Mental Disorders (DSM-IV; American Psy- \nchiatric Association, 1994). It follows that an intervention adapted from the \nprocedures in Kendall et al. (1989), which have been found to be successful \nin previous studies on children with anxiety (Barrett et al., 1996; Dadds et \nal., 1997; Kendall, 1994; Kendall et al., 1997), may be appropriate for chil- \ndren with PTSD. The promise of cognitive behavioral interventions for sex- \nually abused children with PTSD needs to be further examined using the \nguidelines outlined by the American Psychological Association Task Force"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.19999694824219,
+      426.4257507324219,
+      398.3448486328125,
+      473.9524841308594
+    ],
+    "text": "in a manner similar to the research examining anxiety disorders in children \n(e.g., randomized clinical trials comparing the treatment to a waiting list con- \ntrol group, comparison of the procedures to alternative treatment, series of \nsingle-case design studies)."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.44000244140625,
+      471.3057556152344,
+      398.04620361328125,
+      552.6724243164062
+    ],
+    "text": "The treatment package contained educational components, self-monitoring, \nrelaxation training, cognitive restructuring, role-playing, and in vivo practice \nof skills. It is unclear which of these components or combination of compo- \nnents may have contributed to the symptomatic improvement of the children \nin thi s study. Large group, controlled treatment outcome studies would be \nhelpful to evaluate the necessary components for a successful intervention \nusing this framework."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.68000030517578,
+      550.5057373046875,
+      398.1839294433594,
+      609.3124389648438
+    ],
+    "text": "Other limitations of this study should be noted. Assessment was based \nexclusively on the children's self-report. In addition, the questionnaires were \nadministered by the therapist. Expectancy effects, coupled with the child's \ndesire to please the experimenter, may have contributed to the improvement \nseen over the course of treatment."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      177.36000061035156,
+      73.70206451416016,
+      396.2400207519531,
+      85.46781921386719
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n253"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.23999786376953,
+      97.95645904541016,
+      397.26251220703125,
+      191.8372802734375
+    ],
+    "text": "Although the sample was small, it was ethnically diverse. Further research \nis needed to examine the effectiveness of this intervention with sexually \nabused children not exhibiting PTSD, children who have PTSD symptoma- \ntology associated with nonabuse trauma, and various age ranges. Compari- \nsons among gender, cultural groups, and intellectual development would also \nbe important. Children also need to be followed over time to assess the ade- \nquacy of this relatively rapid intervention on later psychological and devel- \nopmental outcomes."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.4800033569336,
+      188.91648864746094,
+      397.5934143066406,
+      260.2372741699219
+    ],
+    "text": "In conclusion, the results of this study strongly suggest that cognitive behav- \nioral interventions can be effective in treating child victims of sexual abuse \nwho are exhibiting PTSD symptomatology. Given the range of problem areas \nfor which sexually abused children are at risk, the availability of a brief, \neffective intervention that can be utilized shortly after abuse disclosure is an \nimportant development."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      206.63999938964844,
+      274.4519958496094,
+      264.8566589355469,
+      289.6209716796875
+    ],
+    "text": "References"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      291.6220703125,
+      397.9593200683594,
+      303.1478271484375
+    ],
+    "text": "Adams-Tucker, C. (1982). Proximate effects of sexual abuse in childhood: A report on 28 chil-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.72000122070312,
+      301.4620666503906,
+      396.772216796875,
+      322.34783935546875
+    ],
+    "text": "dren. American Journal of Psychiatry, 139, 1252-1256. \nAmerican Psychiatric Association. (1987). Diagnostic and statistical manual of mental dis-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.72000122070312,
+      320.42205810546875,
+      396.7722473144531,
+      341.7878112792969
+    ],
+    "text": "orders (3rd ed., rev.). Washington, DC: Author. \nAmerican Psychiatric Association. (1994). Diagnostic and statistical manual of mental dis-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      339.862060546875,
+      397.0181884765625,
+      360.9878234863281
+    ],
+    "text": "orders (4th ed.). Washington, DC: Author. \nAmerican Psychological Association Task Force on Promotion and Dissemination of Psycho-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.72000122070312,
+      359.30206298828125,
+      397.80419921875,
+      390.02783203125
+    ],
+    "text": "logical Procedures. (1995). Training in and dissemination of empirically validated psy- \nchological treatments: Report and recommendations. The Clinical Psychologist, 48, 3-24. \nBarlow, D. H., & Hersen, M. (1984). Single case experimental designs (2nd. ed.). New York:"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      388.1020812988281,
+      398.1946105957031,
+      409.46783447265625
+    ],
+    "text": "Pergamon Press. \nBarrett, P., Dadds, M., & Rapee, R. (1996). Family treatment of child anxiety: A controlled"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      407.5420837402344,
+      398.03802490234375,
+      428.6678161621094
+    ],
+    "text": "trial. Journal of Consulting and Clinical Psychology, 64, 333-342. \nBeutler, L., Williams, R., & Zetzer, H. (1994). Efficacy of treatment for victims of child sexual"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      426.7420654296875,
+      398.09136962890625,
+      447.8678283691406
+    ],
+    "text": "abuse. The Future of Children: Sexual Abuse of Children, 4, 156-175. \nBriere, J. (1992). Child abase trauma: Theory and treatment of the lasting effects. Newbury"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      445.7020568847656,
+      397.9148864746094,
+      467.0678405761719
+    ],
+    "text": "Park, CA: Sage. \nBriere, J. (1996). A self-trauma model for treating adult survivors of severe child abuse. In"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      465.1420593261719,
+      397.78350830078125,
+      495.6278381347656
+    ],
+    "text": "J. Briere, L. Berliner, J. Bulkley, C. Jenny, & T. Reid (Eds.), The APSAC handbook on \nchild maltreatment (pp. 171-191). Newbury Park, CA: Sage. \nBriere, J., & Elliot, D. (1994). Immediate and long-term impacts of child sexual abuse. The"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      493.7020568847656,
+      397.834228515625,
+      514.827880859375
+    ],
+    "text": "Future of Children: Sexual Abuse of Children, 4, 54-69. \nDadds, M. R., Spence, S. H., Holland, D. E., Barrett, P. M., & Laurens, K. R. (1997). Pre-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      512.902099609375,
+      398.2557678222656,
+      543.6278686523438
+    ],
+    "text": "vention and early intervention for anxiety disorders: A controlled trial. Journal of Con- \nsulting and Clinical Psychology, 65, 627-635. \nDeblinger, E., McLeer, S., & Henry, D. (1990). Cognitive behavioral treatment for sexually"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      541.4620971679688,
+      397.9422607421875,
+      572.1878662109375
+    ],
+    "text": "abused children suffering post-traumatic stress: Preliminary findings. Journal of the \nAmerican Academy of Child and Adolescent Psychiatry, 29, 747-752. \nEinbender, A. J., & Friedrich, W. N. (1989). Psychological functioning and behavior of sex-"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      570.2620849609375,
+      398.1452331542969,
+      591.3878784179688
+    ],
+    "text": "ually abused girls. Journal of Consulting and Clinical Psychology, 57, 155-157. \nFrederick, C. J. (1986). Post-traumatic stress disorder and child molestation. In A. Burgess"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      89.27999877929688,
+      589.7020874023438,
+      396.8085021972656,
+      610.3478393554688
+    ],
+    "text": "& C. Hartman (Eds.), Sexual exploitation of clients by mental health professionals (pp. \n133-142). New York: Praeger Publishers."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      73.95478820800781,
+      265.59942626953125,
+      85.16038513183594
+    ],
+    "text": "254 \nFARRELL ET AL."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      99.39479064941406,
+      396.5491027832031,
+      110.63758850097656
+    ],
+    "text": "Frederick, C., Pynoos, R., & Nader, K. (1992). Childhood PTSD reaction index. Unpublished"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.72000122070312,
+      109.23481750488281,
+      397.1764221191406,
+      130.28038024902344
+    ],
+    "text": "manuscript. \nFriedrich, W. N., Beilke, R. L., & Urquiza, A. J. (1987). Children from sexually abusive"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      129.15480041503906,
+      397.252197265625,
+      149.99757385253906
+    ],
+    "text": "families: A behavioral comparison. Journal oflnterpersonal Violence, 2, 391-402. \nGomes-Schwartz, B., Horowitz, J. M., & Cardarelli, A. P. (1990). ChiM sexual abuse: The"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.23999786376953,
+      148.8347930908203,
+      396.92291259765625,
+      169.8804168701172
+    ],
+    "text": "initial effects. Newbury Park, CA: Sage. \nJanoff-Bulman, R. (1989). Assumptive worlds and the stress of traumatic events: Applications"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      168.7548065185547,
+      397.0859680175781,
+      190.0775909423828
+    ],
+    "text": "of the schema construct. Social Cognition, 7, 113-136. \nKaufman, A., & Kaufman, N. (1990). K-BIT Kaufman brief intelligence test manual. Circle"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      188.67478942871094,
+      397.3929138183594,
+      209.7203826904297
+    ],
+    "text": "Pines, MN: American Guidance Services. \nKendall, P. C. (1994). Treating anxiety disorders in children: Results of a randomized clinical-"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      208.3548126220703,
+      396.1504821777344,
+      229.64039611816406
+    ],
+    "text": "trial. Journal of Consulting and Clinical Psychology, 62, 100-110. \nKendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M.,"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.72000122070312,
+      228.27479553222656,
+      397.1361083984375,
+      259.4376220703125
+    ],
+    "text": "Henin, A., & Warman, M. (1997). Therapy for youths with anxiety disorders: A second \nrandomized clinical trial. Journal of Consulting and Clinical Psychology, 65, 366-380. \nKendall, P., Kane, M., Howard, B., & Siqueland, L. (1989). Cognitive-behavioral therapy for"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.72000122070312,
+      257.7947998046875,
+      396.7662353515625,
+      288.92041015625
+    ],
+    "text": "anxious children: Treatment manual. Unpublished manuscript, Temple University, Phila- \ndelphia, PA. \nKimerling, R., & Calhoun, K. S. (1994). Somatic symptoms, social support, and treatment"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.72000122070312,
+      287.7947998046875,
+      396.38763427734375,
+      318.92041015625
+    ],
+    "text": "seeking among sexual assault victims. Journal of Consulting and Clinical Psychology, 62, \n333-340. \nKiser, L. J., Ackerman, B. J., Brown, E., Edwards, N. B., McColgan, E., Pugh, R., & Pruitt,"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      317.3148193359375,
+      396.38763427734375,
+      358.5204162597656
+    ],
+    "text": "D. B. (1988). Post-traumatic stress disorder in young children: A reaction to purported \nsexual abuse. Journal of the American Academy of Child and Adolescent Psychiatry, 27, \n645-649. \nKolko, D. J., Moser, J. T., & Weldy, S. R. (1988). Behavioral/emotional indicators of sexual"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      357.15478515625,
+      396.9830322265625,
+      388.7604064941406
+    ],
+    "text": "abuse in child psychiatric inpatients: A controlled comparison with physical abuse. Child \nAbuse and Neglect, 12, 529-541. \nLipovsky, J. A. (1992). Assessment and treatment of post-traumatic stress disorder in child sur-"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.19999694824219,
+      387.63482666015625,
+      397.42803955078125,
+      419.00042724609375
+    ],
+    "text": "vivors of sexual assault. In D. W. Foy (Ed.), Treating PTSD: Cognitive-behavioral strat- \negies (pp. 127-164). New York: Guilford Press. \nLipovsky, J. A., Saunders, B. E., & Murphy, S. M. (1989). Depression, anxiety, and behavior"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      417.87481689453125,
+      396.9525146484375,
+      449.24041748046875
+    ],
+    "text": "problems among victims of father-child sexual assault and nonabused siblings. Journal \nof Interpersonal Violence, 4, 452-468. \nMartini, D. R., Ryan, C., Nakayama, D., & Ramenofsky, M. (1990). Psychiatric sequelae after"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      448.11480712890625,
+      398.4800109863281,
+      479.48040771484375
+    ],
+    "text": "traumatic injury: The Pittsburgh Regatta accident. Journal of the American Academy of \nChild Psychiatry, 29, 70-75. \nMcLeer, S. V., Deblinger, E., Atkins, M. S., Foa, E. B., & Ralphe, D. L. (1988). Posttraumatic"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.95999908447266,
+      478.59478759765625,
+      397.30145263671875,
+      509.5176086425781
+    ],
+    "text": "stress disorder in sexually abused children. Journal of the American Academy of Child \nand Adolescent Psychiatry, 27, 650-654. \nMcNally, R. (199l). Assessment of posttraumatic stress disorder in children. Journal of Con-"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.19999694824219,
+      508.35479736328125,
+      394.71435546875,
+      539.7203979492188
+    ],
+    "text": "suiting and Clinical Psychology, 3, 531-537. \nMeichenbaum, D. (1985). Stress inoculation training. New York: Pergamon Press. \nNader, K., Pynoos, R. S., Fairbanks, L., & Frederick, C. (1990). Childhood PTSD reactions"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.44000244140625,
+      538.8347778320312,
+      395.04376220703125,
+      560.1204223632812
+    ],
+    "text": "one year after a sniper attack. American Journal of Psychiatry, 147, 1526-1530. \nPynoos, R., Frederick, C., Nader, K., Arroyo, W., Steinberg, A., Eth, S., Nunez, F., & Fair"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      73.44000244140625,
+      558.7547607421875,
+      396.6710510253906,
+      590.3604125976562
+    ],
+    "text": "banks, L. (1987). Life threat and posttraumatic stress in school-age children. Archives o \nGeneral Psychiatry, 44, 1057-1063. \nPynoos, R., Goenjian, A., Tashjian, M., Karakashian, M., Manjikian, R., Manoukian, G.,"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      89.27999877929688,
+      589.2348022460938,
+      397.43255615234375,
+      610.5576171875
+    ],
+    "text": "Steinberg, A,, & Fairbanks, L. (1993). Post-traumatic stress reactions in children after \nthe 1988 Armenian earthquake. British Journal of Psychiatry, 163, 239-247."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      177.60000610351562,
+      72.98209381103516,
+      396.66595458984375,
+      84.74784851074219
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN \n255"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      98.6620864868164,
+      396.732666015625,
+      110.18785095214844
+    ],
+    "text": "Pynoos, R., & Nader, K. (1987). Children who witness the sexual assaults of their mothers."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      108.74210357666016,
+      396.8714904785156,
+      130.1078338623047
+    ],
+    "text": "Journal of the American Academy of Child and Adolescent Psychiatry, 27, 567-572. \nReynolds, W. M. (1989). Reynolds child depression scale: Professional manual. Odessa, FL:"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      128.66209411621094,
+      397.77325439453125,
+      149.78782653808594
+    ],
+    "text": "Psychological Assessment Resources. \nReynolds, C. R., & Richman, B. O. (1985). Revised children's manifest anxiety scale (RCMAS)"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.72000122070312,
+      148.3420867919922,
+      397.2342224121094,
+      169.70787048339844
+    ],
+    "text": "manual. Los Angeles, CA: Western Psychological Services. \nSpielberger, C. D. (1973). Manual for the state trait anxiety inventory for children. Palo Alto,"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.72000122070312,
+      168.26206970214844,
+      397.53118896484375,
+      189.6278533935547
+    ],
+    "text": "CA: Consulting Psychologist Press. \nStauffer, L. B., & Deblinger, E. (1996). Cognitive behavioral groups for nonoffending mothers"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.72000122070312,
+      188.1820831298828,
+      397.8705139160156,
+      219.14784240722656
+    ],
+    "text": "and their young sexually abused children: A preliminary treatment outcome study. Child \nMaltreatment, 1, 65-76. \nTong, L., Oates, K., & McDowell, M. (1987). Personality development following sexual"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      217.7020721435547,
+      398.39276123046875,
+      239.06785583496094
+    ],
+    "text": "abuse. Child Abuse & Neglect, H, 371-383. \nWolfe, V., & Birt, J. (1995). The psychological sequelae of child sexual abuse. In T. Ollendick"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.72000122070312,
+      237.62208557128906,
+      398.2389221191406,
+      268.58782958984375
+    ],
+    "text": "and R. Prinz (Eds.), Advances in clinical child psychology (pp. 233-263). New York: \nPlenum Press. \nWozencraft, T., Wagner, W., & Pellgrin, A. (1991). Depression and suicidal ideation in sexually"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      88.80000305175781,
+      267.1420593261719,
+      285.678955078125,
+      278.6678161621094
+    ],
+    "text": "abused children. Child Abuse and Neglect, 15, 505-511."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.95999908447266,
+      287.06207275390625,
+      171.91917419433594,
+      308.6678161621094
+    ],
+    "text": "RECEIVED: March 28, 1997 \nACCEPTED: March 6, 1998"
+  }
+]

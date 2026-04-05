@@ -1,0 +1,2750 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      68.16000366210938,
+      93.22320556640625,
+      365.8096008300781,
+      110.07769012451172
+    ],
+    "text": "Cognitive Behavioral Treatment of Panic Disorder With",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      117.5999984741211,
+      106.9031982421875,
+      316.3363342285156,
+      137.1976776123047
+    ],
+    "text": "Agoraphobia in Adolescents: A Multiple Baseline Design Analysis",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      165.36000061035156,
+      147.19871520996094,
+      269.4036865234375,
+      159.82992553710938
+    ],
+    "text": "THOMAS H. OLLENDICK",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      129.36000061035156,
+      165.028076171875,
+      302.61114501953125,
+      174.69839477539062
+    ],
+    "text": "Vtrgmta Polytechmc Instttute and State Umverstty",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.72000122070312,
+      188.24566650390625,
+      360.53424072265625,
+      256.97064208984375
+    ],
+    "text": "In this study, four adolescents with Pamc Disorder with Agoraphobia (PDAG) were treated using cogmtlve behawor therapy. A multiple baseline design across subjects was used to dlustrate the controlling effects of treatment. Panic attacks were ehm~- nated, agoraphobic avmdance was reduced, and self-efficacy for coping with future attacks was enhanced as a funcUon of treatment. In add~uon, heightened levels of anxiety sens~tw~ty, trait anxiety, fear, and depression were reduced to normatwe levels. Issues related to use of these procedures, and their extension to chddren, are addressed.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      54.2400016784668,
+      268.29119873046875,
+      379.0480041503906,
+      523.8506469726562
+    ],
+    "text": "The essential feature of panic disorder is the presence of recurrent panic attacks: discrete periods of intense fear or discomfort in which at least 4 of 13 somatic and cognitive symptoms develop abruptly and reach peak intensity within 10 minutes of onset (American Psychiatric Association, 1987, 1994). At least some of the attacks must be unexpected (i.e., \"out of the blue,\" \"uncued\") for the diagnosis to occur. However, it is not uncommon for the attacks to be situationally predisposed and, hence, \"cued\" in the latter course Panic disorder (PD) and panic disorder with agoraphobia (PDAG; anxiety about being in places or situations from which escape might be difficult or embarrassing, or in which help may not be available in the event of havmg a panic attack) have been studied extensively in adults, and effective behavioral and pharmacological treatments have been developed (cf., Barlow, Craske, Cerny, & Klosko, 1989; Beck & Emery, 1985; Clark, Salkovskis, & Chalkley, 1985; Clum, 1989; Marks, 1987; (3st, Westling, & Hellstrom, 1993). Despite advances in understanding the phenomenology of these disorders and their treatment in adults, little is known about these disorders or their treatment in children and adolescents (see Ollendick, Mattis, & King, 1994, for review). Although the occurrence of PD in children is controversial (cf., Klein, Mannuzza, Chapman, & Fyer, 1992; Nelles & Barlow, 1988), there is little doubt that PD, with or without agoraphobia, occurs in adolescents (Bradley & Hood, Correspondence concerning this article should be sent to Thomas H Ollendlck, Chdd Study Center, Department of Psychology, Virginia Polytechnic Institute & State University, Blacksburg,",
+    "line_count": 22,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      162.24000549316406,
+      555.4456787109375,
+      379.4501037597656,
+      565.3706665039062
+    ],
+    "text": "Copyright 1995 by Assooatlon for Advancement of Behavior Therapy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.63999938964844,
+      41.845672607421875,
+      186.42001342773438,
+      51.770633697509766
+    ],
+    "text": "BEHAVIOR THERAPY 26, 517-531, 1995",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      54.959999084472656,
+      343.41119384765625,
+      123.04743957519531,
+      356.21759033203125
+    ],
+    "text": "of the disorder.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      55.20000076293945,
+      523.28564453125,
+      108.31753540039062,
+      533.2106323242188
+    ],
+    "text": "VA 24061-0436.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      279.1199951171875,
+      547.525634765625,
+      375.27191162109375,
+      557.4506225585938
+    ],
+    "text": "0005-7894/95/0517-053151",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      363.8399963378906,
+      547.525634765625,
+      379.6883239746094,
+      557.4506225585938
+    ],
+    "text": "00/0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      230.16000366210938,
+      563.36572265625,
+      377.9393005371094,
+      573.2906494140625
+    ],
+    "text": "All rights of reproducnon m any form reserved",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.91999816894531,
+      66.9311752319336,
+      380.9593505859375,
+      381.8976135253906
+    ],
+    "text": "1993; Last & Strauss, 1989; Moreau, Weissman, & Warner, 1989) and, arguably so, in children as well (see Batlenger, Carek, Steele, & Cornish-McTighe, 1989; Biederman, 1987; Black & Robbins, 1990; Black, Uhde, & Robbins, 1990; Moreau et al.). Yet no studies exist that examine the efficacy of behavioral or cognitive behavioral procedures in the treatment of children and adolescents with PD, even though these procedures have been shown to be singularly effective in the treatment of adults. For example, Barlow, Brown, Craske, Rapee, and Anthony (1991) have shown that progressive muscle relaxation, panic control treatment (interoceptive exposure combined with cognitive restructuring), and a combination of progressive muscle relaxation training and panic control treatment were more effective than no treatment (wait list condition) in reducing panic symptomatology. They also reported the panic control treatment and the combined panic control treatment plus relaxation were more effective than the muscle relaxation procedure alone. Similarly, Clark, Salkovskis, Hackman, and Gelder (1991) demonstrated that cognitive therapy and applied relaxation (relaxation combined with graded exposure to feared stimuli) were more effective than no treatment (wait list control), and Ost et al. (1993) showed that applied relaxation, exposure in vivo, and cognitive methods were all efficacious, although applied relaxation and exposure in vivo evidenced greater clinical improvement than cognitive therapy alone. Finally, Telch (1991) has shown these cognitive behavioral procedures are equally effecAlthough these cognitive behavioral procedures have not been examined in the treatment of PD or PDAG in children or adolescents, they have been successfully used in the treatment of separation anxiety (Ollendick, Hagopian, & Huntzinger, 1991) and overanxious disorder in youth (Kendall, 1994). The primary purpose of the present study was to determine the effectiveness of cognitive behavioral procedures in the treatment of adolescents with PDAG. A controlled, multiple baseline design across four subjects was used to evaluate",
+    "line_count": 28,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.68000030517578,
+      433.4112243652344,
+      379.7679748535156,
+      575.5775756835938
+    ],
+    "text": "The 4 adolescents were seen at an outpatient clinic specializing in anxiety disorders of children and adolescents. Protocol at the clinic includes administration of a standard battery of instruments: the Anxiety Disorders Interview Schedule for Children and Parents (ADIS-C, ADIS-P; Silverman & Nelles, 1988), the Childhood Anxiety Sensitivity Index (CASI; Silverman, Fleisig, Rabian, & Peterson, 1991), the Revised Children's Manifest Anxiety Scale (RCMAS; Reynolds & Richmond, 1978), the Fear Survey Schedule for ChildrenRevised (FSSC-R; Ollendick, 1983), and the Children's Depression Inventory (CDI; Kovacs, 1978). These instruments have been shown to be reliable and valid and have been used frequently and productively in varied research and clinical settings (Ollendick, King, & Yule, 1994). Assessment was conducted by the author, who also served as the therapist for all treatment sessions. An independent assessor, uninformed to assessment occasion, independently",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.91999816894531,
+      293.4912109375,
+      223.67018127441406,
+      306.297607421875
+    ],
+    "text": "tive when provided in a group format.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.91999816894531,
+      379.41119384765625,
+      128.17698669433594,
+      392.21759033203125
+    ],
+    "text": "the intervention.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.91999816894531,
+      419.3409423828125,
+      95.07632446289062,
+      432.82080078125
+    ],
+    "text": "Subjects",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      196.5600128173828,
+      42.565704345703125,
+      240.08428955078125,
+      52.490665435791016
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      198.9600067138672,
+      405.5639953613281,
+      237.0920867919922,
+      419.4139099121094
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      153.1199951171875,
+      43.3238639831543,
+      281.50592041015625,
+      52.28834533691406
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.2400016784668,
+      66.70391845703125,
+      378.31793212890625,
+      283.670166015625
+    ],
+    "text": "reviewed the ADIS-C and ADIS-P protocols and confirmed the presence or absence of PDAG and other diagnoses. The adolescents met full criteria for PDAG on both the ADIS-C and ADIS-P. According to endorsements on the ADIS-C, they reported that \"they sometimes felt really scared, for no reason at all, that out of the blue they felt really scared and that they didn't know why\" and that there were places they didn't want to go because they were afraid they \"would get scared all of a sudden and couldn't get help or get away.\" In all instances, PDAG was determined by the author to be the primary diagnosis based on relative severity and interference with functioning. Only one of the adolescents was comorbid for a second diagnosis ($2, Major Depressive Disorder); however, 3 of the 4 adolescents reported lifetime histories of other disorders (S1, $2, and $3 of Simple Phobia; $3 of Separation Anxiety Disorder; only $4 was free of past disorders). Subject characteristics are summarized in Table 1. S1, a 14-year-old Caucasian female, reported that her first panic attack occurred when she was 12 years old while she was walking home alone from school. According to her report, nothing out of the ordinary happened to cause the attack. \"It just happened... I was walking and all of a sudden my heart started to beat fast and I started to sweat... I didn't know what was going on...",
+    "line_count": 20,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      89.27999877929688,
+      271.1839294433594,
+      377.6342468261719,
+      283.670166015625
+    ],
+    "text": "I just felt weird . . . that something bad was happening to me but",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      54.47999954223633,
+      282.2239074707031,
+      378.39483642578125,
+      574.5501708984375
+    ],
+    "text": "I didn't know what.\" She indicated that her attacks had occurred \"off and on\" since that time but that they had increased in frequency over the past couple of months. She reported six attacks in the past 4 weeks; in addition, she had developed agoraphobic avoidance of school, auditoriums, and restaurants. Based on DSM-III-R criteria, her attacks were judged as moderate and her agoraphobic avoidance as mild. She had a history of Simple Phobia of dogs, having been attacked by a dog when she was 4 years of age. She resided with her biological parents and two younger brothers. The family was of middle income. She was a good student who had a good attendance record at school. $2, a 16-year-old Caucasian female, reported that her first panic attack occurred when she was \"9 or 10 years of age.\" She noted that the attack occurred when she was at a family picnic and that she had just finished playing tag with her cousins. She recalled that she was sitting on a bench and that a \"strange feeling came over me.\" She reported her heart was beating fast, she couldn't catch her breath, she felt dizzy, and she felt like she was \"going to die or something.\" The symptoms reportedly subsided and she didn't think much more about them until she felt the same way about 3 days later when she was sitting at home alone waiting for her mother to return from work. She, too, reported that her symptoms \"would come and go,\" some times and some days being worse than others. At presentation, she and her mother indicated that her attacks had become more severe and frequent in the past 6 months. She had experienced 10 attacks in the past month and had developed agoraphobic avoidance of malls, churches, and parties. Based on DSM-III-R criteria, her attacks were determined to be severe and her agoraphobic avoidance as mild. She had a history of Simple Phobia of enclosed places. Her phobia reportedly developed when she was 7 years of age. She and her mother could not",
+    "line_count": 27,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      283.67999267578125,
+      138.37657165527344,
+      375.0658264160156,
+      147.02088928222656
+    ],
+    "text": "SUBJECT CHARACTERISTICS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.08000183105469,
+      310.1656799316406,
+      578.0525512695312,
+      320.09063720703125
+    ],
+    "text": "PDAG = Panic D~sorder With Agoraphobia, SP = S~mple Phobia; MDD = Major Depressive Disorder; SAD = Separation Anxiety Disorder",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      146.63999938964844,
+      155.36569213867188,
+      174.3791961669922,
+      165.2906494140625
+    ],
+    "text": "Current",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      189.60000610351562,
+      155.36569213867188,
+      213.7917022705078,
+      165.2906494140625
+    ],
+    "text": "Age at",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      228.96002197265625,
+      155.36569213867188,
+      273.3191833496094,
+      165.2906494140625
+    ],
+    "text": "# of Attacks",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      288.72003173828125,
+      155.36569213867188,
+      327.89752197265625,
+      165.2906494140625
+    ],
+    "text": "Severity of",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.31999969482422,
+      165.2056884765625,
+      102.81001281738281,
+      175.13064575195312
+    ],
+    "text": "Subject",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      118.31999969482422,
+      165.2056884765625,
+      131.33999633789062,
+      175.13064575195312
+    ],
+    "text": "Sex",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      152.8800048828125,
+      165.2056884765625,
+      168.03504943847656,
+      175.13064575195312
+    ],
+    "text": "Age",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      191.27999877929688,
+      165.2056884765625,
+      212.4975128173828,
+      175.13064575195312
+    ],
+    "text": "Onset",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      229.67999267578125,
+      165.2056884765625,
+      273.3233642578125,
+      175.13064575195312
+    ],
+    "text": "(past 4 wks)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.31999969482422,
+      183.20567321777344,
+      85.43416595458984,
+      193.13063049316406
+    ],
+    "text": "SI",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      121.68000030517578,
+      183.20567321777344,
+      127.67664337158203,
+      193.13063049316406
+    ],
+    "text": "F",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      288.7200012207031,
+      183.20567321777344,
+      322.53009033203125,
+      193.13063049316406
+    ],
+    "text": "Moderate",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.31999969482422,
+      212.96568298339844,
+      85.93999481201172,
+      222.89064025878906
+    ],
+    "text": "$2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      121.68000030517578,
+      212.96568298339844,
+      127.67664337158203,
+      222.89064025878906
+    ],
+    "text": "F",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      193.1999969482422,
+      212.96568298339844,
+      210.217529296875,
+      222.89064025878906
+    ],
+    "text": "9-10",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      288.7200012207031,
+      212.96568298339844,
+      312.0842590332031,
+      222.89064025878906
+    ],
+    "text": "Severe",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.08000183105469,
+      242.72567749023438,
+      85.3800048828125,
+      252.650634765625
+    ],
+    "text": "$3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      120.24000549316406,
+      242.72567749023438,
+      128.7141571044922,
+      252.650634765625
+    ],
+    "text": "M",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      288.7200012207031,
+      242.72567749023438,
+      322.53009033203125,
+      252.650634765625
+    ],
+    "text": "Moderate",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      76.08000183105469,
+      272.4856872558594,
+      85.69999694824219,
+      282.41064453125
+    ],
+    "text": "$4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      121.44000244140625,
+      272.4856872558594,
+      127.4366455078125,
+      282.41064453125
+    ],
+    "text": "F",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      288.4800109863281,
+      272.4856872558594,
+      322.29010009765625,
+      282.41064453125
+    ],
+    "text": "Moderate",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      598.7999877929688,
+      57.25654602050781,
+      607.219970703125,
+      65.90086364746094
+    ],
+    "text": "tO",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.0400085449219,
+      127.28567504882812,
+      346.0679931640625,
+      137.5751953125
+    ],
+    "text": "TABLE 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      344.1600341796875,
+      155.36569213867188,
+      390.584228515625,
+      165.2906494140625
+    ],
+    "text": "Agoraphobic",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      408.96002197265625,
+      155.36569213867188,
+      443.0975036621094,
+      165.2906494140625
+    ],
+    "text": "Extent of",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      469.44000244140625,
+      155.36569213867188,
+      497.3891906738281,
+      165.2906494140625
+    ],
+    "text": "Current",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      537.1199951171875,
+      155.36569213867188,
+      568.219970703125,
+      165.2906494140625
+    ],
+    "text": "Previous",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      294.0,
+      165.2056884765625,
+      321.5291748046875,
+      175.13064575195312
+    ],
+    "text": "Attacks",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      348.239990234375,
+      165.2056884765625,
+      386.0200500488281,
+      175.13064575195312
+    ],
+    "text": "Avoidance",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      406.79998779296875,
+      165.2056884765625,
+      444.5800476074219,
+      175.13064575195312
+    ],
+    "text": "Avoidance",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      466.3199768066406,
+      165.2056884765625,
+      501.3600158691406,
+      175.13064575195312
+    ],
+    "text": "Diagnosis",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      534.47998046875,
+      165.2056884765625,
+      571.0250244140625,
+      175.13064575195312
+    ],
+    "text": "Diagnoses",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      183.20567321777344,
+      366.0458679199219,
+      193.13063049316406
+    ],
+    "text": "school",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      407.0400085449219,
+      183.20567321777344,
+      424.1308288574219,
+      193.13063049316406
+    ],
+    "text": "Mild",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      459.8399963378906,
+      183.20567321777344,
+      484.431640625,
+      193.13063049316406
+    ],
+    "text": "PDAG",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      522.239990234375,
+      183.20567321777344,
+      557.4492797851562,
+      193.13063049316406
+    ],
+    "text": "SP (dogs)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      193.28567504882812,
+      385.1683044433594,
+      203.21063232421875
+    ],
+    "text": "auditoriums",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      598.0800170898438,
+      193.28567504882812,
+      604.9635009765625,
+      207.26087951660156
+    ],
+    "text": "o r~",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      202.88568115234375,
+      381.85003662109375,
+      212.81063842773438
+    ],
+    "text": "restaurants",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      598.3200073242188,
+      202.88568115234375,
+      605.737548828125,
+      215.93063354492188
+    ],
+    "text": "r, rn",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      212.96568298339844,
+      362.06243896484375,
+      222.89064025878906
+    ],
+    "text": "malls",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      407.0400085449219,
+      212.96568298339844,
+      424.1308288574219,
+      222.89064025878906
+    ],
+    "text": "Mild",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      459.8399963378906,
+      212.96568298339844,
+      506.68914794921875,
+      222.89064025878906
+    ],
+    "text": "PDAG,MDD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      522.0,
+      212.96568298339844,
+      567.4299926757812,
+      222.89064025878906
+    ],
+    "text": "SP (enclosed",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      598.3199462890625,
+      212.96568298339844,
+      604.7257690429688,
+      222.89064025878906
+    ],
+    "text": "Z",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      223.04568481445312,
+      373.9817810058594,
+      232.97064208984375
+    ],
+    "text": "churches",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      529.6799926757812,
+      223.04568481445312,
+      554.7100219726562,
+      232.97064208984375
+    ],
+    "text": "places)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      232.88568115234375,
+      386.7242431640625,
+      252.650634765625
+    ],
+    "text": "parties riding m car",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      407.0400085449219,
+      242.72567749023438,
+      440.610107421875,
+      252.650634765625
+    ],
+    "text": "Moderate",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      459.6000061035156,
+      242.72567749023438,
+      484.3916931152344,
+      252.650634765625
+    ],
+    "text": "PDAG",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      522.0,
+      242.72567749023438,
+      582.717529296875,
+      252.650634765625
+    ],
+    "text": "SP (loud noises),",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.4800109863281,
+      252.80569458007812,
+      370.4384460449219,
+      262.73065185546875
+    ],
+    "text": "theaters",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      529.6799926757812,
+      252.80569458007812,
+      547.8599853515625,
+      262.73065185546875
+    ],
+    "text": "SAD",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.239990234375,
+      262.6456604003906,
+      366.5783996582031,
+      282.41064453125
+    ],
+    "text": "parues malls",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      406.8000183105469,
+      272.4856872558594,
+      423.8908386230469,
+      282.41064453125
+    ],
+    "text": "Mild",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      459.3600158691406,
+      272.4856872558594,
+      484.1517028808594,
+      282.41064453125
+    ],
+    "text": "PDAG",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      521.760009765625,
+      272.4856872558594,
+      541.6550903320312,
+      282.41064453125
+    ],
+    "text": "None",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      342.239990234375,
+      282.565673828125,
+      392.0575256347656,
+      302.33062744140625
+    ],
+    "text": "grocery stores restaurants",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      153.36000061035156,
+      43.34926223754883,
+      280.8526306152344,
+      51.673423767089844
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.47999954223633,
+      67.19662475585938,
+      379.70306396484375,
+      574.7227783203125
+    ],
+    "text": "recall any precipitating events or experiences that might have caused the phobia. She just remembers \"being afraid of elevators, closets, and the like\" at that time. She also reported a major depressive disorder (MDD) at the time of presentation. Onset was relatively recent (about 6 months ago) and reportedly related to the increase in her panic attacks and ongoing conflict between her parents. Her parents divorced when she was 8 years of age, but difficulties surrounding child support and visitation rights remained. Her father was reported to be an alcoholic. She had one older brother who resided with her and her mother; the family was of low-middle income. She was an average student who presented no academic or behavioral difficulties in school. $3 was a 17-year-old Caucasian male. He reported that his first attack occurred when he was 11 years of age. He was sitting at home working on his stamp collection when \"from nowhere, it felt like I couldn't breathe and that I was going to die... I was just sitting there and it happened... I just couldn't breathe.., it reminded me of when my grandfather died.., mom said that he just stopped breathing and died . . . I thought it was happening to me, too.\" He recalled reporting this incident to his mother who reassured him that he \"was ok and probably just coming down with a flu bug.\" About 1 month later, he experienced another attack and continued to do so (\"off and on\") for the next several years. At presentation, his attacks had become more severe and more frequent. He had had seven attacks in the past months and had gradually developed agoraphobic avoidance to riding in a car, going to theaters, and attending parties. Based on DSM-III-R criteria, his panic attacks were judged to be moderate and his avoidance as moderate. A history of Separation Anxiety Disorder and Simple Phobia was reported. His phobia was related to loud noises, presumably dating back to infancy. According to his mother, he was overly sensitive to \"the slightest noises.\" Although still hypersensitive to noises, both he and his mother reported that he was no longer phobic of them. His separation anxiety was first detected when he was taken to preschool at 4 years of age. He refused to stay at the school without his mother remaining there with him. Eventually, this anxiety subsided. Subsequently, he had difficulty in transitioning to elementary school and to middle school, although he had little difficulty upon entering high school. Until about 3 years ago, he was unable to go to summer camps or to stay at friends' homes. He had received cognitive behavioral treatment for separation concerns at that time and responded favorably to treatment. He resided with his biological parents and one younger brother; the family was of highmiddle income. He was a very good student, although somewhat inhibited and shy in his social interactions. $4, a 13-year-old Caucasian female, reported that her first attack occurred approximately 6 months ago. She, like the other adolescents, indicated that the attack \"came from nowhere.\" She was walking to a friend's house when \"pow, it was like something terrible was happening to me, like I couldn't breathe and I was feeling hot and cold at the same time and shaking all over... I thought I must be really sick, like maybe I had cancer or AIDS or something like that.\" She reported that she returned home and rested for awhile and felt better. The next attack occurred 1 week later, as she was getting ready for bed.",
+    "line_count": 47,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      54.959999084472656,
+      66.71664428710938,
+      378.15692138671875,
+      186.6427001953125
+    ],
+    "text": "She reported the attack to her parents who reassured her that she would be ok. However, the attacks gradually increased over the ensuing weeks until at the time of presentation she had reported six attacks in the past 4 weeks. In addition, she reported that she had become avoidant of malls, grocery stores, and restaurants. According to DSM-III-R criteria, her attacks were judged to be moderate and her avoidance as mild. She had no history of previous disorders. She resided with her older sister, mother, and stepfather. Her biological father died in a car accident when she was 2 years of age. Her mother remarried when she was 6 years of age. The family was of middle income, with both mother and stepfather employed outside the home. She was a good student and was well liked by her peers.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.439998626708984,
+      206.87664794921875,
+      379.7692565917969,
+      564.4027099609375
+    ],
+    "text": "Assessment. A multiple baseline design across subjects was used to demonstrate the controlling effects of treatment on self-efficacy for coping with the attacks, frequency of panic attacks, and extent of agoraphobic avoidance. Because these three instruments were created for the current study, reliability and validity data are not currently available. However, all instruments were modeled upon those presently used with adults. Initially, each adolescent and his or her parents were seen for two sessions in which the ADIS-C and ADIS-P, as well as the self-report instruments described earlier, were administered. During the latter half of the second assessment session, the adolescents were asked to provide self-efficacy ratings for coping with panic in each of the three agoraphobic situations identified in the ADIS-C. They were asked to rate how sure they were that they could cope by circling a number from 1 to 5 (1 = not at all sure; 2 = maybe; 3 = probably; 4 = very sure; and 5 = definitely sure) in response to three statements associated with each agoraphobic situation: (a) \"simply being in the [agoraphobic] situation\"; (b) \"first noticing the symptoms of an attack like the ones you usually have\"; and (c) \"experiencing more intense symptoms that continue to worsen and intensify.\" Scores on this scale ranged from 1 to 15 for each of the three agoraphobic situations; the three situations were averaged to obtain a weekly measure of self-efficacy. The scale was modeled after At the end of the second session, the adolescents were also provided a Panic Attack Record (PAR) similar to that of Rapee, Craske, and Barlow (1990). The adolescents were instructed to monitor the date, time, duration, location, circumstance, and symptoms experienced (the 13 DSM symptoms) during their pamc attacks. They were asked to record this information on a dally basis for the upcoming week. The PAR was reviewed at the beginning of each subsequent session, difficulties in monitoring were addressed, and the adolescent was requested to monitor attacks for the next week. At the beginning of the third session, and each session thereafter, the adolescents were asked to rate the extent to which they had actually avoided the three agoraphobic situations. For example, S1 was asked to rate the extent to which she had avoided (because of fear of having a panic attack) going to school,",
+    "line_count": 32,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.20000076293945,
+      194.12686157226562,
+      101.19551849365234,
+      205.26239013671875
+    ],
+    "text": "Procedure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.91999816894531,
+      422.6366271972656,
+      190.8739013671875,
+      434.8027038574219
+    ],
+    "text": "one developed by Clum (1990).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      196.8000030517578,
+      40.07663345336914,
+      242.61550903320312,
+      52.242713928222656
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      155.27999877929688,
+      43.82930374145508,
+      282.7726135253906,
+      52.153465270996094
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      54.720001220703125,
+      66.70391845703125,
+      376.88671875,
+      89.99014282226562
+    ],
+    "text": "being in an auditorium, and going to restaurants on a 5-point scale (1 = did not avoid/escape; 2 -",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      166.5599822998047,
+      77.50390625,
+      377.5393981933594,
+      89.99014282226562
+    ],
+    "text": "occasionally avoided/escaped; 3 = sometimes",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      54.47999954223633,
+      88.06390380859375,
+      378.702392578125,
+      562.7902221679688
+    ],
+    "text": "avoided/escaped, but was able to enter alone; 4 = usually avoided, rarely entered alone; and 5 = always avoided, did not enter even with a safe person). The scale was modeled after one developed by Clum (1990); scores across the three situations could range from 3 to 15. At the end of the third session, and the end of each session thereafter, the adolescents provided self-efficacy ratings for coping with panic attacks should they occur in the upcoming week. In this manner, self-efficacy ratings were obtained prior to the actual occurrence of panic attacks and agoraphobic avoidance in the week that followed. Baseline measures were obtained for 1 week for SI, 2 weeks for $2, 3 weeks for $3, and 4 weeks for $4. During the extended baselines for $2, $3, and $4, PARs were reviewed from the preceding week, agoraphobic avoidance ratings for the past week were obtained, and self-efficacy ratings for the next week were solicited. Although baseline duration was brief, baselines were for the most part stable. Furthermore, the adolescents reported frequent panic attacks in the 4 weeks immediately preceding baseline measurement (SI, 6 attacks; $2, 10 attacks; $3, 7 attacks; and $4, 6 attacks). Treatment. Treatment combined elements of the cognitive behavioral programs developed by Barlow and colleagues (1989) and Ost and colleagues (1993) for PD adults. The first treatment session was largely informational. The nature of panic was examined, differences between it and anxiety were explicated, and the overall treatment strategy was detailed. During the second treatment session, progressive muscle relaxation was taught and breathing retraining (diaphragmatic) practiced. Cue-controlled relaxation and applied relaxation were the focal points of the third treatment session. These skills were practiced at home following clinic sessions. The fourth treatment session was devoted to developing positive selfstatements and cognitive coping procedures as well as using self instruction strategies (Meichenbaum, 1977). At the end of the fourth session, planning for in vivo exposure was begun. The adolescent, with the assistance of the therapist, determined which of the agoraphobic situations to tackle first, and a hierarchy for exposure was developed. A rationale for exposure was provided; namely, if the adolescent remained long enough in the phobic situation instead of escaping or avoiding it, the adolescent would find that the anxiety would dissipate. The adolescent was instructed to use the relaxation and selfinstructional strategies acquired in the preceding sessions to cope with the anxiety experienced during exposure. Therapist-assisted in vivo exposure occurred between the fourth and fifth treatment sessions, after the adolescent had acquired effective strategies to cope with the anxiety (both anticipated and real) accompanying exposure. Two of the three agoraphobic situations were encountered during this first session of exposure. Subsequent exposure trials were undertaken by the adolescent in the presence of the parent (the mother in all instances) and were extended to the third agoraphobic situation. Exposure occurred outside the regularly scheduled clinic sessions.",
+    "line_count": 44,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      138.72000122070312,
+      67.85997772216797,
+      253.33465576171875,
+      77.75277709960938
+    ],
+    "text": "Cognitive-Behavioral Treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      138.24000549316406,
+      302.87664794921875,
+      295.9116516113281,
+      315.042724609375
+    ],
+    "text": "FIG. 1. Frequency of Weekly Pamc Attacks",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.47999954223633,
+      337.1966247558594,
+      378.4031982421875,
+      490.0027160644531
+    ],
+    "text": "In the fifth treatment session, and all subsequent ones, progress made during the exposure trials was reviewed and relaxation and self-instruction strategies were rehearsed. Profuse praise was provided for accomplishments; a problemsolving approach was used to address difficulties and to overcome obstacles. Treatment duration varied for the four adolescents, contingent on response to the treatment regimen. An absence of panic attacks for 2 consecutive weeks was established as the criterion for successful outcome. At termination of treatment, the PD sections of the ADIS-C and ADIS-P, as well as the self-report measures, were re-administered by the author. All adolescents were seen for brief maintenance sessions (approximately 30 minutes in duration) 2 weeks and 1 month following treatment termination, as suggested by Ost (1989). Systematic follow-up, including readmmistration of the pamc sections of the diagnostic interview schedule and the self-report measures by the author, occurred 6 months posttreatment.",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.47999954223633,
+      531.5966796875,
+      378.2925109863281,
+      587.4427490234375
+    ],
+    "text": "As can be seen in Figure 1, the frequency of panic attacks decreased upon implementation of treatment for each of the adolescents. The average number of attacks per week during baseline was 2 for S1, 1.5 for $2, 1.67 for $3, and 1.5 for $4. All adolescents achieved the criterion of 2 consecutive weeks free from panic attacks before discontinuation of treatment. Treatment duration",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      87.5999984741211,
+      69.05998992919922,
+      109.50630187988281,
+      78.95278930664062
+    ],
+    "text": "B-hne",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      98.16000366210938,
+      91.66802978515625,
+      102.19335174560547,
+      96.28466796875
+    ],
+    "text": "I|1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      135.83999633789062,
+      91.66802978515625,
+      137.21548461914062,
+      96.28466796875
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      101.04000091552734,
+      106.73998260498047,
+      104.72293853759766,
+      116.63278198242188
+    ],
+    "text": ",",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      156.0,
+      106.73998260498047,
+      196.88294982910156,
+      116.63278198242188
+    ],
+    "text": ", , ,",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      136.8000030517578,
+      158.8910369873047,
+      193.6755828857422,
+      164.65391540527344
+    ],
+    "text": "i I I I",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      56.880001068115234,
+      165.3000030517578,
+      66.33464050292969,
+      181.14096069335938
+    ],
+    "text": "c #_",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      58.31999969482422,
+      210.71664428710938,
+      65.53392028808594,
+      222.88272094726562
+    ],
+    "text": "~",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      154.79998779296875,
+      210.71664428710938,
+      190.1899871826172,
+      222.88272094726562
+    ],
+    "text": ", . .",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      57.119998931884766,
+      223.86000061035156,
+      65.88575744628906,
+      233.7528076171875
+    ],
+    "text": "u_",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      96.96000671386719,
+      248.33998107910156,
+      119.7272720336914,
+      258.2327880859375
+    ],
+    "text": "- -",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      172.32000732421875,
+      271.9310607910156,
+      192.68014526367188,
+      277.6939392089844
+    ],
+    "text": "! L",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      183.60000610351562,
+      288.4200134277344,
+      208.9964141845703,
+      298.31280517578125
+    ],
+    "text": "Weeks",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      54.2400016784668,
+      518.1621704101562,
+      160.63584899902344,
+      530.1768188476562
+    ],
+    "text": "Pamc Attack Frequency",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      198.24000549316406,
+      40.55661392211914,
+      243.8755340576172,
+      52.722694396972656
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      293.2799987792969,
+      66.6287841796875,
+      329.68145751953125,
+      77.86510467529297
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      229.44000244140625,
+      106.73998260498047,
+      293.27276611328125,
+      128.63278198242188
+    ],
+    "text": ", -, =, ,= 10 6mo",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      322.0799865722656,
+      133.34878540039062,
+      380.6533203125,
+      144.58511352539062
+    ],
+    "text": ".m- $2 PDAG+MDD]",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      210.24000549316406,
+      158.8910369873047,
+      292.3127746582031,
+      175.19281005859375
+    ],
+    "text": "I i I I 10 6mo",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      202.29998779296875,
+      210.71664428710938,
+      276.5299987792969,
+      222.88272094726562
+    ],
+    "text": ". . . . . .",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      297.1199951171875,
+      210.71664428710938,
+      328.07275390625,
+      233.7528076171875
+    ],
+    "text": "= 12 6mo",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      259.67999267578125,
+      271.9310607910156,
+      291.3285827636719,
+      288.7127990722656
+    ],
+    "text": "I 10 6too",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      197.75999450683594,
+      506.0999755859375,
+      228.19027709960938,
+      515.9927368164062
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      141.60000610351562,
+      66.81002807617188,
+      269.1130065917969,
+      78.35162353515625
+    ],
+    "text": "Cognitive-Behavioral Treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      53.279998779296875,
+      358.3039245605469,
+      379.22991943359375,
+      531.8302001953125
+    ],
+    "text": "ranged from six ($4) to nine sessions (S1 and $3); the average number of sesTherapist-assisted in vivo exposure occurred between sessions 4 and 5. The duration of therapist-assisted exposure varied for each of the four adolescents: 1 hour and 35 minutes ($4, malls and grocery stores), 2 hours and 40 minutes ($2, malls and churches), 3 hours and 25 minutes ($3, riding in a car, theaters), and 4 hours and 10 minutes (S1, auditoriums and restaurants). Average duration was approximately 3 hours. In all instances, termination of in vivo exposure was contingent upon successfully entering the agoraphobic situation and remaining there for at least 15 minutes. Coping strategies were rehearsed en route to the agoraphobic situation and practiced in situ. Subsequent to this exposure, mothers were instructed in the importance of in vivo exposure on a weekly basis. They were requested to assist their son or daughter in arranging two, 1-hour exposure trials prior to the next session and between each session thereafter. Thus approximately 2 hours of mother-assisted exposure occurred between subsequent sessions. Adherence to the exposure sessions was",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      53.279998779296875,
+      562.5439453125,
+      378.215576171875,
+      585.8302001953125
+    ],
+    "text": "Figure 2 displays the extent of agoraphobic avoidance for the three situations reported by each adolescent. Scores could range from 3 to 15, with a",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      153.83999633789062,
+      43.33653259277344,
+      172.53529357910156,
+      51.98085403442383
+    ],
+    "text": "PANIC",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      179.27999877929688,
+      43.33653259277344,
+      209.4290008544922,
+      51.98085403442383
+    ],
+    "text": "DISORDER",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      68.63999938964844,
+      66.81002807617188,
+      109.46501922607422,
+      88.19158935546875
+    ],
+    "text": "B-line 15 ~",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      121.68000030517578,
+      112.69657897949219,
+      185.9928741455078,
+      121.34089660644531
+    ],
+    "text": "I I L L",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      55.439998626708984,
+      170.73001098632812,
+      66.96381378173828,
+      182.2716064453125
+    ],
+    "text": "._o",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      57.36000061035156,
+      214.30392456054688,
+      79.55879974365234,
+      226.7901611328125
+    ],
+    "text": "L:~ 6",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      161.75999450683594,
+      229.50599670410156,
+      183.52145385742188,
+      237.09048461914062
+    ],
+    "text": "I I",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      68.16000366210938,
+      244.08477783203125,
+      89.6388168334961,
+      281.759521484375
+    ],
+    "text": "is I",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      98.4000015258789,
+      260.489990234375,
+      143.78347778320312,
+      272.0315856933594
+    ],
+    "text": "_ = :",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      181.1999969482422,
+      288.1365661621094,
+      183.95782470703125,
+      296.7808837890625
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      101.27999877929688,
+      288.7860107421875,
+      142.77598571777344,
+      296.3704833984375
+    ],
+    "text": "I I i",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      307.7699890136719,
+      217.3432159423828,
+      319.31158447265625
+    ],
+    "text": "Weeks",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      112.08000183105469,
+      327.2565612792969,
+      161.03948974609375,
+      335.90087890625
+    ],
+    "text": "FiG. 2. Extent",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      168.9600067138672,
+      327.2565612792969,
+      212.22731018066406,
+      335.90087890625
+    ],
+    "text": "of Agoraphobic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      54.2400016784668,
+      368.8639221191406,
+      123.27239227294922,
+      381.35015869140625
+    ],
+    "text": "sions was eight.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      53.040000915527344,
+      529.9039306640625,
+      161.08676147460938,
+      561.156005859375
+    ],
+    "text": "reported. Agoraphobic Avoidance",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      218.8800048828125,
+      43.33653259277344,
+      272.0477600097656,
+      51.98085403442383
+    ],
+    "text": "IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      365.760009765625,
+      43.33653259277344,
+      376.2250671386719,
+      51.98085403442383
+    ],
+    "text": "~25",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      299.760009765625,
+      66.81002807617188,
+      341.3968811035156,
+      78.35162353515625
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      246.72000122070312,
+      76.64999389648438,
+      267.7208557128906,
+      88.19158935546875
+    ],
+    "text": "scho~",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      201.60000610351562,
+      112.69657897949219,
+      311.2982482910156,
+      133.07159423828125
+    ],
+    "text": "L I I L ~ ~ 10 6mo",
+    "line_count": 7,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      279.1200256347656,
+      170.73001098632812,
+      313.9382629394531,
+      182.2716064453125
+    ],
+    "text": "10 6mo",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      249.36000061035156,
+      184.62599182128906,
+      263.82501220703125,
+      199.89047241210938
+    ],
+    "text": "car theater",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      201.3599853515625,
+      229.50599670410156,
+      351.6182556152344,
+      248.7515869140625
+    ],
+    "text": "I I I I L I 12 6mo",
+    "line_count": 7,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      250.32000732421875,
+      261.736572265625,
+      285.4064636230469,
+      270.3808898925781
+    ],
+    "text": "grocery store",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      201.1199951171875,
+      288.1365661621094,
+      203.87782287597656,
+      296.7808837890625
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      261.1199951171875,
+      288.1365661621094,
+      263.8778076171875,
+      296.7808837890625
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      276.7200012207031,
+      288.1365661621094,
+      312.1773681640625,
+      308.6301574707031
+    ],
+    "text": "L 10 6mo",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      226.8000030517578,
+      327.2565612792969,
+      254.45339965820312,
+      335.90087890625
+    ],
+    "text": "Avoidance",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      265.67999267578125,
+      327.2565612792969,
+      282.9298400878906,
+      335.90087890625
+    ],
+    "text": "(range",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      291.3599853515625,
+      327.2565612792969,
+      315.7101745605469,
+      335.90087890625
+    ],
+    "text": "= 3-15)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      148.8000030517578,
+      66.01802062988281,
+      274.6841125488281,
+      78.87865447998047
+    ],
+    "text": "Cognitive-Behavioral Treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.959999084472656,
+      360.2239074707031,
+      378.94683837890625,
+      458.6301574707031
+    ],
+    "text": "score of 3 indicating \"did not avoid/escape\" (the three situations), 9 indicating \"sometimes avoid, but usually able to enter the situation alone,\" and 15 reflecting \"always avoided, did not enter even with a 'safe' person\" (the three agoraphobic situations). Average scores during baseline were 14 for S1, 10.5 for $2, 10 for $3, and 8 for $4. During the last 2 weeks of treatment (during which the criterion of 0 panic attacks per week was reached for each adolescent), the average avoidance scores were 6.5 for S1, 4 for $2, 6 for $3, and 3.5 for $4. On average, these scores indicate that the adolescents rarely avoided the situations and that they were able to enter and remain in the situations",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.959999084472656,
+      489.34393310546875,
+      379.1314697265625,
+      577.190185546875
+    ],
+    "text": "Figure 3 displays the weekly self-efficacy ratings obtained the week before the panic attack frequency and agoraphobic avoidance ratings were collected. Scores could range from 3 to 15, with 3 indicating that they were not at all sure that they could cope with the agoraphobic situations and potential panic attacks, 9 that they were somewhat sure that they could cope, and 15 that they were absolutely sure that they could cope with the situations and the attacks should they occur. Average self-efficacy ratings during baseline were 5 for S1, 4.5 for $2, 5.34 for $3, and 7.75 for $4. These ratings reflect that the adoles-",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      88.55999755859375,
+      68.53202056884766,
+      112.66011810302734,
+      80.09881591796875
+    ],
+    "text": "B-line",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      84.4800033569336,
+      120.69839477539062,
+      97.20618438720703,
+      182.4981689453125
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      56.880001068115234,
+      146.322021484375,
+      63.44160079956055,
+      170.406005859375
+    ],
+    "text": "C ~",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      144.47999572753906,
+      162.40200805664062,
+      187.5743865966797,
+      170.406005859375
+    ],
+    "text": "J I i",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      56.63999938964844,
+      184.82159423828125,
+      93.16409301757812,
+      222.16583251953125
+    ],
+    "text": "15 I .m ,=.",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      76.08000183105469,
+      215.1719970703125,
+      82.94949340820312,
+      233.91864013671875
+    ],
+    "text": "6 3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      104.87999725341797,
+      229.28399658203125,
+      186.0814208984375,
+      236.53871154785156
+    ],
+    "text": "I I I I I",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      183.36000061035156,
+      287.9219970703125,
+      186.1584014892578,
+      295.9259948730469
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      103.91999816894531,
+      288.5639953613281,
+      164.96141052246094,
+      295.8187255859375
+    ],
+    "text": "I I I :",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      136.32000732421875,
+      327.0419921875,
+      203.2848358154297,
+      335.0459899902344
+    ],
+    "text": "FIG. 3. Self-Efficacy",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      54.959999084472656,
+      456.94390869140625,
+      184.7793426513672,
+      488.87042236328125
+    ],
+    "text": "alone for an extended period. Self-Efficacy Ratings",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      197.04000854492188,
+      45.08063507080078,
+      240.86280822753906,
+      53.174156188964844
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      308.3999938964844,
+      66.73799133300781,
+      348.4473571777344,
+      79.59862518310547
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      278.6400146484375,
+      121.93800354003906,
+      314.2939758300781,
+      134.79864501953125
+    ],
+    "text": "1~ 6 me",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      204.95999145507812,
+      162.40200805664062,
+      247.3583984375,
+      170.406005859375
+    ],
+    "text": "I I I",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      281.03997802734375,
+      169.45799255371094,
+      315.96319580078125,
+      182.31863403320312
+    ],
+    "text": "10 6me",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      204.0,
+      229.28399658203125,
+      225.93081665039062,
+      236.53871154785156
+    ],
+    "text": "I ~",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      263.0400085449219,
+      229.28399658203125,
+      353.80157470703125,
+      248.55865478515625
+    ],
+    "text": "I I I 12 6me",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      203.04000854492188,
+      287.9219970703125,
+      313.0832214355469,
+      308.0786437988281
+    ],
+    "text": "J d I I I I 10 6me",
+    "line_count": 7,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      208.32000732421875,
+      305.7779846191406,
+      236.6614990234375,
+      335.0459899902344
+    ],
+    "text": "Weeks Ratings",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      241.44000244140625,
+      327.0419921875,
+      258.9312438964844,
+      335.0459899902344
+    ],
+    "text": "(range",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      266.8800048828125,
+      327.0419921875,
+      291.436767578125,
+      335.0459899902344
+    ],
+    "text": "= 3-15)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      154.0800018310547,
+      41.80754470825195,
+      283.15673828125,
+      52.69298553466797
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.68000030517578,
+      76.12748718261719,
+      354.847412109375,
+      87.01293182373047
+    ],
+    "text": "SELF-REPORT MEASURES AT PRETREATMENT, POSTTREATMENT, AND FOLLOW-UP",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      276.28753662109375,
+      379.404296875,
+      355.8129577636719
+    ],
+    "text": "l CASI (Childhood Anxiety Sensitivity Index), Range = 18 to 54, Normatwe M and S.D. = 23.9 + 4.2 for males and 28.9 _+ 6.0 for females. RCMAS (Revised Children's Manifest Anxiety Scale), Range = 0 to 28, Normative M and S.D. = 10.7 + 6 for males and 12.6 _+ 5.9 for females. FSSC-R (Fear Survey Schedule for Children-Revised), Range = 80 to 240, Normauve Mand S.D. = 124.9 + 23.8 for males and 143.9 _+ 24.1 for females. CDI (Children's Depression Inventory), Range = 0 to 54, Normative Mand S.D. = 10.3 _+ 7.6 for males and * Marginally significant (greater than 1 SD from normative M); ** Climcally significant (great-",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      54.47999954223633,
+      392.6875305175781,
+      377.30389404296875,
+      489.73297119140625
+    ],
+    "text": "cents were only minimally sure that they could cope with the situations and the panic attacks should they occur. During the last 2 weeks of treatment, these ratings averaged 12.5 for S1, 12.5 for $2, 12.5 for $3, and 14.5 for $4. These scores reflect that they were very sure to absolutely sure they could cope with the situations and the panic attacks should they occur. As evident in Figures 1-3, reductions in panic attack frequency and agoraphobic avoidance were maintained at 6 month follow-up, as were the enhanced self-efficacy ratings. None of the adolescents met criteria for Panic Disorder on the ADIS-C and ADIS-P at termination of treatment or follow-up.",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      54.720001220703125,
+      510.76751708984375,
+      377.8312683105469,
+      554.052978515625
+    ],
+    "text": "Table 2 provides scores for the adolescents on the four self report measures at pretreatment, posttreatment, and follow-up. Decrements in anxiety sensitivity (CASI), trait anxiety (RCMAS), fear (FSSC-R), and depression (CDI) were noted from pretreatment to posttreatment. For the most part, these decre-",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.27999877929688,
+      565.2474975585938,
+      378.25006103515625,
+      576.1329345703125
+    ],
+    "text": "At pretreatment, subjects 1, 2, and 3 reported clinically significant levels",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      54.959999084472656,
+      93.64750671386719,
+      82.35780334472656,
+      104.53295135498047
+    ],
+    "text": "Subject",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.44000244140625,
+      93.64750671386719,
+      153.53160095214844,
+      104.53295135498047
+    ],
+    "text": "Measures 1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      182.63999938964844,
+      93.64750671386719,
+      229.45394897460938,
+      104.53295135498047
+    ],
+    "text": "Pretreatment",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      111.40751647949219,
+      64.81336975097656,
+      122.29296112060547
+    ],
+    "text": "S1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.44000244140625,
+      111.40751647949219,
+      146.3776092529297,
+      152.05296325683594
+    ],
+    "text": "CASI RCMAS FSSC-R CDI",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      151.0075225830078,
+      65.13240051269531,
+      161.89295959472656
+    ],
+    "text": "$2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.44000244140625,
+      151.0075225830078,
+      146.3776092529297,
+      191.17295837402344
+    ],
+    "text": "CASI RCMAS FSSC-R CDI",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      190.1275177001953,
+      65.13240051269531,
+      201.01295471191406
+    ],
+    "text": "$3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.44000244140625,
+      190.1275177001953,
+      146.56358337402344,
+      230.29295349121094
+    ],
+    "text": "CASI RCMAS FSSC-R CDI",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      229.2475128173828,
+      65.28119659423828,
+      240.13294982910156
+    ],
+    "text": "$4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      115.44000244140625,
+      229.2475128173828,
+      146.56358337402344,
+      269.4129638671875
+    ],
+    "text": "CASI RCMAS FSSC-R CDI",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      55.20000076293945,
+      335.0875244140625,
+      178.71229553222656,
+      365.6529541015625
+    ],
+    "text": "9 0 + 7.0 for females er than 2 SDs from normative M).",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      54.720001220703125,
+      496.10565185546875,
+      149.74415588378906,
+      508.7063903808594
+    ],
+    "text": "Self-Report Measures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      54.720001220703125,
+      553.967529296875,
+      189.02159118652344,
+      564.8529663085938
+    ],
+    "text": "ments persisted into follow up.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      198.24000549316406,
+      66.28752136230469,
+      235.37161254882812,
+      77.17296600341797
+    ],
+    "text": "TABLE 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      260.3999938964844,
+      93.64750671386719,
+      310.4433288574219,
+      104.53295135498047
+    ],
+    "text": "Posttreatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      341.2799987792969,
+      93.64750671386719,
+      377.98028564453125,
+      104.53295135498047
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      196.32000732421875,
+      111.40751647949219,
+      216.763427734375,
+      191.17295837402344
+    ],
+    "text": "48** 24* 171\" 20* 43** 21\" 169* 31\"*",
+    "line_count": 8,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      281.5199890136719,
+      180.2875213623047,
+      294.1022033691406,
+      191.17295837402344
+    ],
+    "text": "19\"",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      355.91998291015625,
+      180.2875213623047,
+      368.502197265625,
+      191.17295837402344
+    ],
+    "text": "19\"",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      196.55999755859375,
+      190.1275177001953,
+      216.89544677734375,
+      220.4529571533203
+    ],
+    "text": "41\"* 18\" 152\"",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      54.959999084472656,
+      65.7312240600586,
+      378.81842041015625,
+      197.33761596679688
+    ],
+    "text": "of anxiety sensitivity (greater than 2 SDs from normative means). In addition, $2 reported a clinically significant level of depression (greater than 2 SDs from normative mean), and S1 reported a marginally significant level of depression (greater than 1 SD from normative mean). Using the same criteria, subjects 1, 2, and 3 also reported marginally significant levels of trait anxiety and fear. $4, on the other hand, reported levels of anxiety sensitivity, trait anxiety, fear, and depression that were all within the normative range. At posttreatment and follow-up, scores on all four measures for the four adolescents were within normative levels except for the depression score of $2. Her score of 19 on the CDI at posttreatment and follow-up remained in the marginally significant range (greater than 1 SD, but less than 2 SDs). Thus, overall, the decrements in self-reported negative mood states paralleled reductions in panic",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      189.83999633789062,
+      220.54080200195312,
+      245.34596252441406,
+      235.0819091796875
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      54.959999084472656,
+      235.41119384765625,
+      379.510009765625,
+      571.49755859375
+    ],
+    "text": "This is the first controlled study of cognitive behavior therapy in the treatment of PDAG in adolescents. Use of the multiple baseline design across subjects suggests that the treatment was effective in eliminating panic attacks, reducing agoraphobic avoidance, decreasing negative mood states, and increasing self-efficacy for coping with previously avoided situations and potential panic attacks in the future. Although follow-up was relatively brief, the findings indicate that treatment effects were durable. Of course, these encouraging findings must be viewed with appropriate caution because the author served as both assessor and therapist, and, as a result, demand characteristics for change may have been high. The consistency of findings across informants (adolescent, mother) and across measures (interview, self-reports, self-monitoring), however, argues against such an interpretation. Moreover, an independent assessor who was uninformed of assessment occasion confirmed the diagnostic conclusions of the author. The combined cognitive behavior therapy procedures used in this study have been found to be effective in treating PD, with and without agoraphobia, in adults (cf., Barlow et al., 1989; Ost et al., 1993). Typically, these procedures have been used in combination, addressing the physiological, cognitive, and behavioral components of panic simultaneously or, in some studies, sequentially. In other studies, the component parts of the treatment have been isolated and compared systematically to the combined treatment. In general, the combined treatment has been shown to be more effective than its component parts when used alone (e.g., relaxation training, in vivo exposure, interoceptive exposure, or cognitive therapy alone). Yet there is some support for the efficacy of the component parts, inasmuch as they have been shown to be superior to no treatment and credible control treatments (see Marks, 1987, for a review). Unfortunately, the effective ingredients of change, and the mechanisms of change, have not been identified in these studies. The mechanisms of action in the current study are also unclear. Treatment in the present study included information about panic and its causes, progressive muscle relaxation training, applied relaxation training, cognitive restruc-",
+    "line_count": 31,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      55.439998626708984,
+      195.33120727539062,
+      211.10325622558594,
+      208.13760375976562
+    ],
+    "text": "attacks and agoraphobic avoidance.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      197.27999877929688,
+      40.05117416381836,
+      243.04071044921875,
+      52.857574462890625
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      154.0800018310547,
+      41.832942962646484,
+      282.16986083984375,
+      52.07806396484375
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      54.47999954223633,
+      64.77120208740234,
+      380.549560546875,
+      509.8175964355469
+    ],
+    "text": "turing, self-instruction training, problem-solving training, interoceptive cue exposure, in vivo exposure, participant modeling, praise and social reinforcement, and, perhaps importantly, the use of parents to facilitate and encourage behavior change in their adolescents. Any one of these components, either alone or in concert with other components, might have been responsible for the changes observed. It will be important for future research to identify the effective ingredients in randomized clinical trials with adolescents. In such studies, it will also be important to determine whether these procedures are equally efficacious for adolescents with Panic Disorder without Agoraphobia. In the present study, the adolescents displayed agoraphobic avoidance that was related to fear of panic occurring in those situations. In all cases, the adolescents reported that the panic attacks occurred first and that agoraphobic avoidance developed subsequently, sometimes as long as 1 to 2 years later. Presumably, in the early stages of their panic attacks they would have met criteria for Panic Disorder without Agoraphobia. Would they have been as responsive to treatment at that time? In addition, one might ask why they did not seek treatment at that time. In response to this question, adolescents indicated they did not seek treatment until the agoraphobic avoidance produced significant interference in their day-to-day functioning. The interference, rather than the attacks per se, reportedly led them to seek treatment. Mothers agreed, indicating they thought the panic attacks would go away. This observation, although somewhat puzzling, is consistent with recent survey findings that show adolescents with nonclinical panic attacks rarely seek treatment (King, Gullone, Tonge, & Ollendick, 1993; King, Ollendick, Mattis, & Yang, submitted), even though the attacks result in considerable distress for them. Adolescents, unlike adults, may continue to attribute the symptoms of their panic attacks to sources external to themselves (to an illness, for example) and may seek explanations for their subjective experiences that support these attributions. In the present study, parents may have inadvertently contributed to such attributions and explanations by reassuring them that \"it is probably just a bug\" or \"it will go away.\" Finally, the adolescent case studies presented here do little to advance our understanding and treatment of Panic Disorder, with or without Agoraphobia, in children. To date, no controlled treatment outcome studies have been conducted with children. If Panic Disorder is phenomenologically different in children, as suggested by some (e.g., Abelson & Alessi, 1992; Nelles & Barlow, 1988), then considerable work remains to be done. Still, inasmuch as cognitive behavioral procedures like those used in the present study have been used productively with separation-anxious (Ollendick et al., 1991) and overanxious (Kendall, 1994) children, they might be viewed as a first course of action in understanding and treating PD in children as well.",
+    "line_count": 41,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      187.67999267578125,
+      533.2080078125,
+      244.60899353027344,
+      547.7174072265625
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      53.52000045776367,
+      550.1529541015625,
+      377.82623291015625,
+      570.5880126953125
+    ],
+    "text": "Abelson, J. L., & Alessl, N. E. (1992). Discussion of\"Child panic revimed.\" Journal of the Amencan Academy of ChiM and Adolescent Psychtatry, 31, 114-116.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      54.47999954223633,
+      65.5802230834961,
+      381.7755126953125,
+      576.5880126953125
+    ],
+    "text": "American Psychiatric Association (1987). Diagnostic and statistical manual of mental &sorder American Psychiatric Associauon (1994). Diagnostic and statistical manual of mental disorder Ballenger, J. C., Carek, D. J , Steele, J. J., & Cormsh-McTlghe, D. (1989). Three cases of pamc disorder with agoraphobia m children. Amerwan Journal of Psychtatry, 146, 922-924 Barlow, D H., Brown, T A., Craske, M. G., Rapee, R. M., & Anthony, M. (1991, November). Treatment of pamc disorder: Follow-up and mechanisms of change. Paper presented at the 25th Annual Meeting of the AssoclaUon for Advancement of Behavior Therapy, New York Barlow, D. H., Craske, M G., Cerny, J A., & Klosko, J S. (1989). Behavioral treatment of pamc Beck, A. T., & Emery, G. (1985). Anxwty dtsorders andphobtas.\" A cogmttveperspecttve. New Blederman, J. (1987) Clonazepam m the treatment of prepubertal children with panic-like symptoms. Journal of Chnwal Psychtatry, 48, 38-41. Black, B., & Robbms, D. R (1990). Pamc disorder in chddren and adolescents. Journal of the Amertcan Academy of ChtM and Adolescent Psychtatry, 29, 36-44 Black, B, Uhde, T W, & Robbms, D R (1990) Does panic disorder exist m children? The authors reply. Journal of the A merwan Academy of Chdd and Adolescent Psychtatry, 29, 834-835 Bradley, S. J., & Hood, J (1993). Psychiatrically referred adolescents w~th panic attacks: Presenting symptoms, stressors, and comorbidity Journal of the American Academy of Chdd Clark, D M., Salkovskis, P. M., & Chalkley, A. J. (1985) Respiratory control as a treatment for pamc attacks Journal of Behavtor Therapy and Expertmental Psychtatry, 16, 23-30. Clark, D. M., Salkovskls, P. M. G, Hackman, A., & Gelder, M. (1991, November). Long-term outcome of cognitive therapy for panic disorder Paper presented at the 25th Annual Meeting of the Association for Advancement of Behavior Therapy, New York. Clum, G A. (1989). Psychological mtervenUons vs drugs m the treatment of panic. Behavtor Clum, G. A (1990). Copmg wtth panic: A drug-free approach to dealing wtth anmety attacks. Kendall, P. C. (1994). Treating anxiety disorders m children: Results of a randommed chmcal trial. Journal of Consultmg and Climcal Psychology, 62, 100-110 King, N. J., Gullone, E., Tonge, B. J, & Ollendlck, T. H. (1993). Self-reports of panic attacks and manifest anxiety m adolescents. Behawour Research and Therapy, 31, 111-116. King, N. J., Ollendlck, T H., Mattis, S. G., & Yang, B (submitted). Nonclinical panic attacks in adolescents' Prevalence, symptomatology, and associated features. Journal of Child PsyKlein, D. F., Mannuzza, S., Chapman, T., & Fyer, A. J. (1992) Child pamc revisited. Journal of the Amerwan Academy of Chdd and Adolescent Psychiatry, 31, 112-116 Kovacs, M. (1978). Chddren's Depression Inventory (CDI). Unpublished manuscript, University Last, C. G, & Strauss, C. C. (1989). Panic disorder m children and adolescents. Journal of Anxiety Marks, I M (1987). Fears, phobias, and rituals. Oxford: Umversity Press. Metchenbaum, D (1977) Cogmttve behavtor modtfication: An mtegratlve approach. New York: Moreau, D L., Wetssman, M., & Warner, V (1989). Panic disorder m chddren at high risk for depression Amerwan Journal of Psychtatry, 146, 1059-1060. Nelles, W. B., & Barlow, D. H. (1988). Do children panic? Chnwal Psychology Revtew, 8, 359-372. Ollendlck, T. H (1983). Reliability and validity of the Fear Survey Schedule for Children-Revised (FSSC-R). Behaviour Research and Therapy, 21, 685-692.",
+    "line_count": 41,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      70.55999755859375,
+      75.42024993896484,
+      213.29733276367188,
+      105.42552947998047
+    ],
+    "text": "(3rd ed., rev.) Washington, DC\" Author. (4th ed.) Washington, DC: Author.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      70.80000305175781,
+      163.740234375,
+      213.7174072265625,
+      194.22552490234375
+    ],
+    "text": "disorder. Behavtor Therapy, 20, 261-282. York: Basic Books.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      71.76000213623047,
+      271.9802551269531,
+      212.7574005126953,
+      282.5880126953125
+    ],
+    "text": "and Adolescent Psychtatry, 32, 826-829.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.23999786376953,
+      340.6202392578125,
+      223.5026397705078,
+      371.10552978515625
+    ],
+    "text": "Therapy, 20, 429-457. Belmont, CA: Brooks/Cole Pubhshmg Co.",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.23999786376953,
+      429.2915954589844,
+      154.9179229736328,
+      439.5480041503906
+    ],
+    "text": "chology and Psychtatry.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.0,
+      468.06024169921875,
+      179.32176208496094,
+      498.1080017089844
+    ],
+    "text": "of Pittsburgh Medical School. Dtsorders, 3, 87-95",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.4800033569336,
+      516.7802124023438,
+      123.87911224365234,
+      527.3455200195312
+    ],
+    "text": "Plenum Press.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      195.60000610351562,
+      41.820213317871094,
+      239.20033264160156,
+      52.385494232177734
+    ],
+    "text": "OLLENDICK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 15,
+    "bbox": [
+      153.83999633789062,
+      41.820213317871094,
+      283.5991516113281,
+      52.385494232177734
+    ],
+    "text": "PANIC DISORDER IN ADOLESCENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      54.720001220703125,
+      64.8602523803711,
+      379.9234313964844,
+      320.7055358886719
+    ],
+    "text": "Ollendick, T. H., Hagoplan, L. P., & Huntzinger, R. M. (1991). Cognitive-behavior therapy with nighttime fearful children Journal of Behavior Therapy and Experimental Psychiatry, 22, 113-121. Ollendick, T. H., King, N. J., & Yule, W. (Eds.). (1994) Internatzonal handbook ofphobw and anxwty disorders In children and adolescents. New York: Plenum Press. Ollendick, T. H., Mattis, S G., & King, N. J. (1994). Pamc in children and adolescents: A review. Journal of Child Psychology and Psychiatry, 35, 113-134. Ost, L. G. (1989). A maintenance program for behavioral treatment of anxiety disorders. Behavtour Research and Therapy, 27, 123-130. Ost, L.-G., Westllng, B. E., & Hellstrom, K. (1993) Applied relaxation, exposure in vlvo and cognitive methods in the treatment of panic disorder with agoraphobia. Behavlour Research and Therapy, 31, 383-394. Rapee, R. M., Craske, M. G., & Barlow, D. H. (1990). Subject-described features of panic attacks using self-monitoring. Journal of Anxwty Disorders, 4, 171-181. Reynolds, C. R., & Richmond, B. O. (1978). What I think and feel: A revised measure of children's mamfest anxiety Journal of Abnormal Child Psychology, 2, 271-280. Silverman, W. K., Flelslg, W., Rablan, B., & Peterson, R. A. (1991) Childhood anxiety sensinvlty index. Journal of Chmcal Chdd Psychology, 20, 162-168. Silverman, W K., & Nelles, W. B. (1988). The anxiety disorders interview schedule for children. Journal of the Amerwan Academy of Child and Adolescent Psychiatry, 27, 772-778 Telch, M. J. (1991, November). Group-administered panic inoculation training in the treatment of panic disorder: A controlled trial. Paper presented at the 25th Annual Meeting of the Association for Advancement of Behavior Therapy, New York. RECEIVED: July 8, 1994 ACCEPTED: November 28, 1994",
+    "line_count": 25,
+    "column": 0
+  }
+]

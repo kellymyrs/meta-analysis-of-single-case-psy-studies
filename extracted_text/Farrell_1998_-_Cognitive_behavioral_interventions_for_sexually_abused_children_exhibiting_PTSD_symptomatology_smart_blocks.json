@@ -1,0 +1,1394 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      132.0,
+      128.2128143310547,
+      338.4737854003906,
+      159.9787139892578
+    ],
+    "text": "Cognitive Behavioral Interventions for Sexually Abused Children Exhibiting",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      172.32000732421875,
+      155.8127899169922,
+      299.06427001953125,
+      173.65870666503906
+    ],
+    "text": "PTSD Symptomatology",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      184.55999755859375,
+      184.84751892089844,
+      284.4530334472656,
+      213.25294494628906
+    ],
+    "text": "STEPHANIE P. FARRELL ANTHONY A. HAINS",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      164.8800048828125,
+      218.12686157226562,
+      304.7899169921875,
+      229.26239013671875
+    ],
+    "text": "The University of Wisconsin-Milwaukee",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      177.60000610351562,
+      241.7904052734375,
+      293.5483093261719,
+      268.6224060058594
+    ],
+    "text": "W. HOBART DAVIES Children's Hospital of Wisconsin",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.72000122070312,
+      281.3275451660156,
+      380.1874694824219,
+      390.61297607421875
+    ],
+    "text": "This investigation examined the effectiveness of a cognitive behavioral intervention with 4 sexually abused children exhibiting posttraumatic stress disorder (PTSD), using a multiple baseline design. Participants ranged in age from 8 to 10 years. Intervention effectiveness was measured with pre-, post-, and 3-month follow-up assessments of PTSD symptomatology and affective (depression and anxiety) measures. In addition, these instruments were administered during baseline and prior to each treatment session. The intervention focused on the training of relaxation skills, positive self-talk, and cognitive restructuring. All 4 participants reported decreases in their PTSD symptomatology. The 3 participants who had elevated levels of depression and anxiety during baseline showed decreases with treatment. The results of this study suggest that cognitive behavioral techniques can be an effective approach",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.19999694824219,
+      411.1353759765625,
+      398.86041259765625,
+      504.720947265625
+    ],
+    "text": "Between 156,000 and 300,000 children are identified as sexual abuse victims each year (Beutler, Williams, & Zetzer, 1994). These children display an increased incidence of depressive symptomatology (Lipovsky, Saunders, & Murphy, 1989), elevated anxiety (Gomes-Schwartz, Horowitz, & Cardarelli, 1990), sexualized behaviors, nightmares, social withdrawal, sleep difficulties, anger or acting out, school difficulties (Adams-Tucker, 1982; Friedrich, Beilke, & Urquiza, 1987; Kolko, Moser, & Weldy, 1988), and physiological symptoms such as headaches, stomachaches, and vulnerability",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.68000030517578,
+      527.8075561523438,
+      398.2548828125,
+      568.2129516601562
+    ],
+    "text": "This study was conducted in partial fulfillment of a master's degree conducted under the Correspondence should be addressed to Anthony A. Hains, Department of Educational Psychology, PO Box 413, University of Wisconsin-Milwaukee, Milwaukee, WI 53201.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      196.0800018310547,
+      587.0875244140625,
+      399.31719970703125,
+      597.9729614257812
+    ],
+    "text": "Copyright 1998 by Association for Advancement of Behavior Therapy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      71.76000213623047,
+      73.31041717529297,
+      202.1370391845703,
+      84.94441986083984
+    ],
+    "text": "BEHAVIOR THERAPY 29, 241-255, 1998",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      91.44000244140625,
+      389.5675354003906,
+      209.311279296875,
+      400.4529724121094
+    ],
+    "text": "for working with this population.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.44000244140625,
+      501.3753967285156,
+      253.10704040527344,
+      516.0009765625
+    ],
+    "text": "to disease (Kimerling & Calhoun, 1994).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.68000030517578,
+      537.8875122070312,
+      182.29208374023438,
+      548.77294921875
+    ],
+    "text": "direction of the second author.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      300.9599914550781,
+      579.1675415039062,
+      412.84832763671875,
+      590.052978515625
+    ],
+    "text": "0005-7894/98/0241-025551.00/0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      258.239990234375,
+      595.0075073242188,
+      398.9805908203125,
+      605.8929443359375
+    ],
+    "text": "All rights of reproduction in any form reserved.",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      203.760009765625,
+      75.23111724853516,
+      264.673095703125,
+      84.51575469970703
+    ],
+    "text": "FARRELL ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      97.38575744628906,
+      398.7559814453125,
+      608.8324584960938
+    ],
+    "text": "Recent studies have explored a link between the manifestations of sexual abuse and those characteristic of posttraumatic stress disorder (PTSD; McLeer, Deblinger, Atkins, Foa, & Ralphe, 1988). The prevalence of PTSD in children who have been sexually abused has been suggested to be as high as 90% (Kiser et al., 1988). The likelihood and severity of PTSD are correlated with the degree of the traumatic stressor (McNally, 1991). Childhood abuse often disrupts children's development, producing symptomatology by stimulating the development of primitive coping strategies, and by creating cognitive distortions of self, others, and one's future (Briere, 1992). Cognitive factors such as a child's perception of the abuse, the meaning ascribed to the abuse, and the child's cognitions about him- or herself, relationships, and the world are theorized to be relevant in the development of PTSD (Lipovsky, 1992). Emotionally healthy individuals assume the world is meaningful and benevolent and that the self is worthy. Traumatic events provide information contrary to these healthy assumptions, precipitating individuals to accommodate their previously held expectations to be compatible with their experience (Janoff-Bulman, 1989). These assumptions typically reflect an overestimation of the amount of danger in the world and an underestimation of an individual's self-efficacy (Briere & Elliot, 1994). The prevalence of inaccurate attributions, guilt, self-blame, and low self-esteem in these sexually abused individuals has been documented (Wozencrafl, Wagner, & Pellegrin, 1991). Wolfe and Birt (1995) have suggested that alterations to one's cognitive schemas and coping styles may increase the likelihood of developing long-term adjustment problems, including anxiety, depression, interpersonal relationship problems, and maladaptive coping skills, such as avoidance, dissociation, and learned helplessness. The majority of research with sexually abused children has focused on the wide array of psychological problems associated with sexual abuse. Limited treatment outcome research is available (Wolfe & Birt, 1995). However, the conceptualization of sexual abuse within the PTSD framework described above indicates that specific interventions, such as anxiety reduction and cognitive restructuring, may be effective with these children. Cognitive behavioral group interventions have been utilized with sexually abused children and their nonoffending mothers. Stauffer and Deblinger (1996) found significant decreases in parental distress and children's sexual behaviors. Deblinger, McLeer, and Henry (1990) evaluated the effectiveness of a cognitive behavioral treatment combining both child and parent interventions on 19 sexually abused girls, ages 3 to 16, exhibiting PTSD symptomatology. The results indicated significant improvements following the intervention. However, this study lacked a control group, used a broad age range of participants, obtained few assessment points, and utilized a nonstandardized PTSD measure. The purpose of the present study was to examine the effectiveness of a cognitive behavioral intervention with child victims of sexual abuse who were exhibiting PTSD symptomatology. This study extends previous research by",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      177.36000061035156,
+      74.97840118408203,
+      291.39599609375,
+      84.58319854736328
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.0,
+      97.39849090576172,
+      397.9101257324219,
+      189.96505737304688
+    ],
+    "text": "utilizing a tighter age range of participants, obtaining more frequent assessment points, and using a standardized PTSD measure. In addition, the few treatment outcome studies in the literature have relied on samples of clinically referred children, rather than a more representative sample, such as those presenting to child protection agencies (Wolfe et al., 1995), as in this study. It was hypothesized that challenging maladaptive thought processes would result in a reduction in affective concerns frequently reported as sequelae of sexual abuse, as well as a decrease in PTSD symptomatology.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      233.4784698486328,
+      398.65673828125,
+      597.4849853515625
+    ],
+    "text": "Children referred for sexual abuse to the psychology program at a child protection center at a pediatric hospital of a large Midwestern city were recruited for the study if they met the following four criteria. First, youths had to be between 8 and 12 years of age. Second, a reasonable level of certainty of sexual abuse had to exist, rated as probable or definite on a 5-point scale by the center's multidisciplinary assessment team. Third, a composite score of 80 or above on the Kaufman Brief Intelligence Test (K-BIT; Kaufman & Kaufman, 1990) was required. Lastly, those scoring above 25 on the Childhood Posttmumatic Stress Disorder Reaction Index (PTSD-RI; Frederick, Pynoos, & Nader, 1992; indicative of moderate or above level of PTSD reaction) were considered. The first 4 children meeting these criteria Susan was a 10-year-old European American female in 4th grade. She made allegations of sexual abuse by her 20-year-old male cousin, which reportedly occurred 2.5 years earlier. Throughout the course of treatment she resided with both biological parents and had no contact with the alleged Paige was a 10-year-old African American female in 4th grade. She alleged sexual abuse by her father, with whom she had been living for the previous year. She was then placed with an aunt and her grandmother, and her father was incarcerated. Following the initial psychological evaluation, this child was removed from her aunt's home due to allegations of physical abuse. Throughout the remainder of her participation, she resided in foster Louise was an 8-year-old African American female in 2nd grade. She made allegations of sexual abuse by her 40-year-old uncle. During her participation she resided with her biological mother and had no contact with Matt was a 9-year-old Hispanic male referred to the child protection center following allegations that two of his older male cousins sexually abused him. This 3rd-grader resided with both of his parents during the course of his treatment. None of the participants received treatment either prior to or concur-",
+    "line_count": 28,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      217.3197479248047,
+      126.8761215209961,
+      232.26478576660156
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.72000122070312,
+      358.0384826660156,
+      247.0432891845703,
+      371.1650390625
+    ],
+    "text": "were selected for inclusion in the study.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      414.9184875488281,
+      123.4480972290039,
+      428.0450439453125
+    ],
+    "text": "perpetrator.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      493.63848876953125,
+      121.3424072265625,
+      506.7650451660156
+    ],
+    "text": "placement.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      538.9984741210938,
+      173.6080780029297,
+      552.125
+    ],
+    "text": "the alleged perpetrator.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.72000122070312,
+      595.6384887695312,
+      169.0432891845703,
+      608.7650146484375
+    ],
+    "text": "rently with this study.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      215.75999450683594,
+      204.7379913330078,
+      253.4776611328125,
+      217.5986328125
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      204.72000122070312,
+      75.47110748291016,
+      266.0176696777344,
+      84.75574493408203
+    ],
+    "text": "FARRELL ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      98.63040924072266,
+      398.2202453613281,
+      609.7250366210938
+    ],
+    "text": "Measures PTSD symptomatology. The PTSD-RI (Frederick et al., 1992) was used to assess and detect changes in PTSD symptomatology. This 20-item measure can be completed as a self-report or administered as a structured interview. In this study, the researcher read the items aloud as each child followed along. The participants were required to rate the frequency of their symptoms on a 5-point Likert scale, ranging from none (0) to most of the time (4). Total scores may range from 0 to 80. Empirical comparisons have suggested the following guidelines in interpreting the scores: 12 to 24 indicates a mild PTSD reaction; 25 to 39 indicates a moderate PTSD reaction; 40 to 59 indicates a severe PTSD reaction; and >60 indicates a very severe PTSD reaction (Frederick et al.). Research has revealed that of those scoring above 40 on the PTSD-RI, 90% met Diagnostic and Statistical Manual of Mental Disorders (DSM-III-R; American Psychiatric Association, 1987) criteria for PTSD (Pynoos et al., 1993). The PTSD-RI has been used to assess children exposed to a fatal sniper attack (Pynoos et al., 1987), an earthquake (Pynoos et al., 1993), and a speedboat crash (Martini, Ryan, Nakayama, & Ramenofsky, 1990), and in cases of child sexual and physical abuse (Frederick, 1986). The interrater reliability measured by Cohen's Kappa was found to be .878 (Nader, Pynoos, Fairbanks, & Frederick, 1990). Affective measures. The child's self-reported level of depressive symptoms was assessed through the use of the Reynolds Child Depression Scale (RCDS; Reynolds, 1989). This 30-item measure is designed to be used with children grades 3 to 6. Children are asked to respond to a series of feelings on a 4-point Likert scale from almost never to all the time. Standardized tables are available to convert raw scores into percentiles, according to gender and grade level norms. Higher scores are indicative of greater depressive symptomatology. Internal consistency and split-half coefficients have been reported in the upper .80s and lower .90s within and across grade level, gender, and ethnicity. Test-retest reliabilities have been found to be .82 and .85. The RCDS correlates .76 with the Children's Depression Inventory. The child's self-reported level of anxious symptoms was assessed through the use of the Revised Children's Manifest Anxiety Scale (RCMAS; Reynolds & Richman, 1985). This 37-item questionnaire is appropriate for 6- to 19-year-old children and adolescents. A child responds with \"yes\" or \"no\" to a series of descriptions of feelings and behaviors. A total anxiety score is obtained, along with subscores for physiological anxiety, worry/oversensitivity, social concerns/concentration, and a \"lie\" scale that identifies a fakegood response set. Raw scores are converted to percentiles, based on age, ethnicity, and gender norms. Higher scores are indicative of greater anxious symptomatology. Across the entire age range, coefficient alpha reliabilities were found to be .84 for white males, .85 for black males, .85 for white females, and .78 for black females. Construct validity was evaluated with the State Trait Anxiety Inventory for Children (STAIC; Spielberger, 1973). A",
+    "line_count": 44,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      177.83999633789062,
+      75.21839141845703,
+      291.7960205078125,
+      84.82318878173828
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      72.4800033569336,
+      97.63848114013672,
+      399.0190734863281,
+      609.4849853515625
+    ],
+    "text": "significant correlation (r = .85, p < .001) was found between the RCMAS and the STAIC Trait scale. The STAIC State scale was found not to correlate significantly (r = .24, p < .05), which supports the construct validity of the RCMAS as a measure of chronic manifest anxiety. Procedure The therapist, the first author, met with each child and his or her parents or guardian to describe the treatment and review the consent form prior to obtaining signatures. Once consent was obtained, the children were seen individually at the child protection center. Baseline data were collected for each child on the RCMAS, RCDS, and the PTSD-RI by the first author. In addition, each child completed all measures prior to the onset of each session. Finally, the measures were administered at posttreatment and follow-up assessments. The therapist had completed her course work at the master's level and was enrolled in a doctoral program in counseling psychology. She had taken two courses in cognitive behavioral interventions and had spent a year in a practicum placement at the child protection center conducting assessment and individual and group therapy with sexually and physically abused children. The therapist met with each child for 10 one-hour sessions. A manual was created, adapting exercises from Cognitive-Behavioral Therapy for Anxious Children (Kendall, Kane, Howard, & Siqueland, 1989). During the course of the intervention project, the therapist met weekly with both her doctoral supervisor and her practicum supervisor to discuss each session and the participants' progress and to review the children's completed worksheets and homework assignments. The intervention program paralleled a three-phase cognitive behavioral stress-inoculation training program (Meichenbaum, 1985): the conceptualization phase, the skill acquisition and rehearsal phase, and the application phase. Conceptualization phase. There were two sessions in this phase. Session 1 was characterized by building rapport, discussing the goals of therapy, and introducing the framework of cognitive behavioral therapy. Both positive and upsetting situations were identified, along with the accompanying feelings and thoughts. Homework was introduced as an opportunity to practice what was learned during the session. The child was asked to describe stressful situations and the accompanying thoughts, feelings, and behaviors on assigned self-monitoring sheets. A sticker was given to the child as a reward for each completed homework assignment. In session 2 the focus was on identifying feelings. The child drew a picture of how he or she felt that day and drew a picture of a stressful time. Various feelings and affective indicators were discussed and role played. Skill acquisition and rehearsal phase. Sessions 3 and 4 involved considering how the child's body responds in various affect-provoking situations.",
+    "line_count": 43,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      204.239990234375,
+      75.47110748291016,
+      264.8386535644531,
+      84.75574493408203
+    ],
+    "text": "FARRELL ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.72000122070312,
+      97.38575744628906,
+      397.6786193847656,
+      607.8724365234375
+    ],
+    "text": "Relaxation training, consisting of deep breathing exercises, progressive muscle relaxation, and the creation of a relaxing imagery scene, was audiotaped for each child to take home to practice during the week. The goal of sessions 5 and 6 was to help the child recognize negative cognitions and to begin restructuring these thoughts into positive self-talk. Cartoons with thought bubbles were used to help each child generate a variety of possible thoughts that characters might have in various affect-provoking situations. Several scenarios were also presented, and the child was to describe what he or she might be thinking and what he or she would do. A role play of an upsetting situation allowed an opportunity to further practice cognitive restructuring through the use of challenging questions, such as, \"Is there another way to look at it?\" \"Is it really true?\" and \"What is the evidence for and against this thought?\" Homework assignments included activities such as cutting out pictures from magazines or newspapers and gluing them to a piece of paper, drawing thought bubbles above each character's head, and filling in possible thoughts. In addition, the participant was to continue practicing with the relaxation tape and self-monitor situations, feelings, thoughts, and behaviors. Session 7 began with a role play of an upsetting situation that occurred during the previous week. The feelings, thoughts, and behaviors were identiffed and explored. Alternative behaviors and thoughts were examined, as well as the consequences associated with each. The child was encouraged to use positive self-talk as self-reinforcement in various situations. During session 8 the child was presented with several scenarios and maladaptive cognitions. The child was to determine what made the thoughts negative, and how they could be restructured into more helpful thoughts. Next, the child came up with three of his or her own situations, along with the accompanying feelings and thoughts. Cognitive restructuring of the maladaptive thoughts was then practiced with these personal situations. To further solidify this skill, role play of situations and possible helpful thoughts was incorporated. Self-monitoring was assigned for homework, but unlike previous weeks, the thoughts column was divided into maladaptive and adaptive thoughts. Application phase. Session 9 was spent preparing for an anticipated stressful situation. Relaxation skills, exploration of the thoughts about the anticipated event, and role play were used to practice more adaptive behaviors and positive thoughts. For homework, the child was asked to practice the relaxation skills and change the maladaptive thoughts surrounding the anticipated event. In addition, the child was to log his or her feelings and thoughts before the event and afterward. The last session began by discussing the situation that had been prepared for during the previous session. The child was also encouraged to brainstorm potential future situations that would be anxiety-provoking, depressive, or reminiscent of the abuse. A review of the acquired skills was applied to these future concerns. Thoughts and feelings surrounding termination were also explored.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      177.1199951171875,
+      75.47110748291016,
+      289.9562072753906,
+      84.75574493408203
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.0,
+      111.78578186035156,
+      396.802978515625,
+      204.67247009277344
+    ],
+    "text": "A multiple baseline design across subjects (Barlow & Hersen, 1984) was used. After the pre-assessment of PTSD symptomatology, depression, and anxiety, participants underwent baseline periods that lasted between 2 and 5 weeks. Baseline data were collected for each child in a staggered fashion. The completion of the PTSD-RI, RCMAS, and the RCDS at the beginning of each session provided a week-by-week evaluation of the child's PTSD symptomatology, depression, and anxiety fluctuations. Following baseline each child participated in 10 weeks of treatment.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.72000122070312,
+      252.90574645996094,
+      398.3448486328125,
+      481.6324768066406
+    ],
+    "text": "Figure 1 displays the participants' PTSD symptomatology, based on scores obtained from the PTSD-RI. Matt and Louise had slightly decreasing baseline levels. However, Matt had scores indicating a moderate level of PTSD symptomatology (baseline mean of 31), and Louise had scores indicating a severe to moderate PTSD level (baseline mean of 41). Paige had increasing scores across 4 weeks of baseline, indicating severe to very severe PTSD levels (baseline mean of 61). Susan had varying baseline scores, but the scores were primarily within the severe range of PTSD (baseline mean of 44). Upon introduction of the intervention, Matt, Paige, and Susan displayed a steady decrease in PTSD scores across treatment sessions. By the end of treatment, all 4 children had scores of 12 or less, suggesting doubtfulness of a PTSD response. Matt fell below this clinical cutoff by the 3rd week of treatment, Paige by the 8th week of treatment, and Susan by the 6th week of treatment. Louise initially displayed stable PTSD scores at the moderate level with the initiation of treatment, but then her scores were at or above pretreatment levels for two sessions before falling below clinical levels of PTSD by the 6th week of treatment. At the 3-month follow-up, Matt, Louise, and Susan maintained their treatment gains at levels below the clinical cutoff. Paige showed an increase to a moderate level of PTSD symptomatology, although this score was still below baseline levels.",
+    "line_count": 20,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      73.19999694824219,
+      504.6658020019531,
+      398.1434020996094,
+      608.5924682617188
+    ],
+    "text": "Figure 2 displays the participants' depression levels as measured by the total percentile rank on the RCDS. Matt reported a stable pattern of virtually no depressive symptomatology (baseline mean of 7%). Louise initially showed a decreasing level of depression but stabilized during the last 2 weeks of baseline (mean of 58%). Paige showed high levels of depression across baseline (mean of 98%), and Susan showed moderate but variable baseline Upon introduction of the intervention, Paige and Susan displayed a steady decrease in depression across treatment sessions. Louise displayed a pattern",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      71.76000213623047,
+      97.51271057128906,
+      104.3984375,
+      111.28559112548828
+    ],
+    "text": "Design",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.4800033569336,
+      238.39271545410156,
+      173.18283081054688,
+      252.16558837890625
+    ],
+    "text": "PTSD Symptomatology",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.95999908447266,
+      490.3927001953125,
+      156.6627960205078,
+      504.16558837890625
+    ],
+    "text": "Affective Measures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      73.19999694824219,
+      572.105712890625,
+      169.9408721923828,
+      585.5524291992188
+    ],
+    "text": "levels (mean of 56%).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      216.0,
+      223.11000061035156,
+      254.65512084960938,
+      237.94920349121094
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      114.23999786376953,
+      588.8438110351562,
+      389.68365478515625,
+      597.8082885742188
+    ],
+    "text": "PTSD-RI total scores for each child across baseline, treatment, and follow-up.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      178.55999755859375,
+      73.95002746582031,
+      214.49798583984375,
+      94.19402313232422
+    ],
+    "text": "Matt - Baseline",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      169.1999969482422,
+      203.3100128173828,
+      217.87600708007812,
+      278.7117614746094
+    ],
+    "text": "6O Louise ,q 6O",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      169.1999969482422,
+      260.2838134765625,
+      178.1318359375,
+      269.248291015625
+    ],
+    "text": "4O",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      102.95999908447266,
+      293.7960205078125,
+      139.63442993164062,
+      316.4068603515625
+    ],
+    "text": "PTSD-RI Score",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      194.16000366210938,
+      321.24383544921875,
+      207.5880126953125,
+      324.9002380371094
+    ],
+    "text": "J a",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.52000427246094,
+      327.7008056640625,
+      230.1266326904297,
+      392.518798828125
+    ],
+    "text": "iI. . 78•1- Paige",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      197.51998901367188,
+      459.1499938964844,
+      215.59800720214844,
+      467.3940124511719
+    ],
+    "text": "Susan",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      173.27999877929688,
+      483.6300048828125,
+      182.31201171875,
+      491.8740234375
+    ],
+    "text": "6O",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      182.39999389648438,
+      567.3899536132812,
+      196.04400634765625,
+      575.6339721679688
+    ],
+    "text": "PRE",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      81.36000061035156,
+      588.8438110351562,
+      107.76000213623047,
+      597.8082885742188
+    ],
+    "text": "FIG. 1.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      343.44000244140625,
+      85.95002746582031,
+      370.21197509765625,
+      94.19402313232422
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      240.24000549316406,
+      86.19001770019531,
+      268.3499755859375,
+      94.43401336669922
+    ],
+    "text": "Treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      218.63999938964844,
+      315.9638366699219,
+      334.376708984375,
+      324.9283142089844
+    ],
+    "text": "i J l , , , l l , ~ , l t l",
+    "line_count": 14,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      341.0400085449219,
+      401.2454528808594,
+      343.8791809082031,
+      409.8878479003906
+    ],
+    "text": ".",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      336.7200012207031,
+      420.8438415527344,
+      340.0799865722656,
+      429.8083190917969
+    ],
+    "text": ",",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      244.8000030517578,
+      499.458740234375,
+      263.4570617675781,
+      523.1505737304688
+    ],
+    "text": "%",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      237.1199951171875,
+      559.3238525390625,
+      240.00958251953125,
+      568.288330078125
+    ],
+    "text": "'",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      337.44000244140625,
+      567.3899536132812,
+      356.1800231933594,
+      575.6339721679688
+    ],
+    "text": "F-up3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      293.2799987792969,
+      574.1099853515625,
+      300.2720031738281,
+      582.35400390625
+    ],
+    "text": "1t",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      197.75999450683594,
+      230.8319854736328,
+      258.4505920410156,
+      288.8697509765625
+    ],
+    "text": "- f",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      198.47999572753906,
+      587.37841796875,
+      384.79669189453125,
+      596.9832153320312
+    ],
+    "text": "each child across baseline, treatment, and follow-up.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      204.9600067138672,
+      73.43402099609375,
+      229.112060546875,
+      94.5775375366211
+    ],
+    "text": "Matt Baseline",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.67999267578125,
+      195.49798583984375,
+      224.7345733642578,
+      254.5250244140625
+    ],
+    "text": "9O !! Louisa",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      187.9199981689453,
+      284.6340026855469,
+      199.24252319335938,
+      293.53753662109375
+    ],
+    "text": "30 ¸",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      78.95999908447266,
+      304.3740234375,
+      139.72296142578125,
+      316.57513427734375
+    ],
+    "text": "RCDS Total %",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      188.8800048828125,
+      356.39398193359375,
+      197.9940948486328,
+      430.0975341796875
+    ],
+    "text": "8O 7O 6O 5O 4O 3O 2O",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      184.0800018310547,
+      458.8739929199219,
+      195.347412109375,
+      467.77752685546875
+    ],
+    "text": "IO0",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      186.9600067138672,
+      498.9539794921875,
+      195.98129272460938,
+      507.8575134277344
+    ],
+    "text": "6O",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      196.0800018310547,
+      566.8739624023438,
+      209.994384765625,
+      575.7774658203125
+    ],
+    "text": "PRE",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      86.16000366210938,
+      587.1383666992188,
+      112.24000549316406,
+      596.7431640625
+    ],
+    "text": "FxG. 2.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      119.04000091552734,
+      587.1383666992188,
+      197.39520263671875,
+      596.7431640625
+    ],
+    "text": "RCDS total scores for",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      257.52001953125,
+      85.67401123046875,
+      286.1788024902344,
+      94.5775375366211
+    ],
+    "text": "Treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      364.08001708984375,
+      85.67401123046875,
+      391.1608581542969,
+      94.5775375366211
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      352.79998779296875,
+      292.0185546875,
+      359.8595886230469,
+      316.61614990234375
+    ],
+    "text": "J",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      237.60000610351562,
+      315.6983947753906,
+      262.6499938964844,
+      325.3031921386719
+    ],
+    "text": ". . . .",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      286.08001708984375,
+      315.6983947753906,
+      289.9752197265625,
+      325.3031921386719
+    ],
+    "text": "~",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      310.6152038574219,
+      315.6983947753906,
+      313.0128173828125,
+      325.3031921386719
+    ],
+    "text": "I",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      357.6000061035156,
+      315.6983947753906,
+      367.01519775390625,
+      325.3031921386719
+    ],
+    "text": "~,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      221.27999877929688,
+      461.9940185546875,
+      255.46092224121094,
+      470.8975524902344
+    ],
+    "text": "Susan --~",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      350.8799743652344,
+      566.8739624023438,
+      369.3969421386719,
+      575.7774658203125
+    ],
+    "text": "F-up3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      117.83999633789062,
+      583.613037109375,
+      392.08697509765625,
+      597.3798828125
+    ],
+    "text": "RCMAS total scores for each child across baseline, treatment, and follow-up.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      74.17200469970703,
+      217.91152954101562,
+      125.29994201660156
+    ],
+    "text": "Matt Baseline 8O 7o i",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      157.45196533203125,
+      193.33889770507812,
+      177.06576538085938
+    ],
+    "text": "3O 2O",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      181.9199981689453,
+      205.13304138183594,
+      221.28782653808594,
+      226.5799102783203
+    ],
+    "text": "Louise IO0 9O",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.8000030517578,
+      252.49200439453125,
+      194.37889099121094,
+      308.82574462890625
+    ],
+    "text": "6O 5O 4O 3O 2O",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      80.63999938964844,
+      323.37841796875,
+      148.18301391601562,
+      335.6061706542969
+    ],
+    "text": "RCMAS Total %",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      367.613037109375,
+      194.69985961914062,
+      381.37994384765625
+    ],
+    "text": "7O",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      184.0800018310547,
+      438.8930358886719,
+      196.55868530273438,
+      452.6599426269531
+    ],
+    "text": "ii,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      209.04000854492188,
+      438.8930358886719,
+      224.7912139892578,
+      452.6599426269531
+    ],
+    "text": ", ,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      194.63999938964844,
+      560.181640625,
+      211.16226196289062,
+      575.7057495117188
+    ],
+    "text": ", , PRE",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      85.44000244140625,
+      583.613037109375,
+      111.98880004882812,
+      597.3798828125
+    ],
+    "text": "FIG. 3.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      360.239990234375,
+      85.45197296142578,
+      387.7588195800781,
+      94.0257339477539
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      252.72000122070312,
+      86.17200469970703,
+      281.810302734375,
+      94.74576568603516
+    ],
+    "text": "Treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      232.32000732421875,
+      187.69198608398438,
+      342.9853515625,
+      196.2657470703125
+    ],
+    "text": "~ C C C C C C C ~",
+    "line_count": 9,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      355.44000244140625,
+      321.0959777832031,
+      364.3270568847656,
+      329.4059753417969
+    ],
+    "text": "AI",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      359.0400085449219,
+      450.0215759277344,
+      365.7222900390625,
+      454.3178405761719
+    ],
+    "text": ", I",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      217.1999969482422,
+      458.8919982910156,
+      236.02513122558594,
+      467.46575927734375
+    ],
+    "text": "Susan",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      220.0800018310547,
+      560.181640625,
+      250.7622528076172,
+      564.4778442382812
+    ],
+    "text": ", , , ,",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      351.36004638671875,
+      566.6519775390625,
+      369.3936767578125,
+      575.2257690429688
+    ],
+    "text": "F-up3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      177.36000061035156,
+      75.71109771728516,
+      290.4361877441406,
+      84.99573516845703
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.23999786376953,
+      97.86573791503906,
+      398.4952392578125,
+      316.0325012207031
+    ],
+    "text": "of results similar to the PTSD data in Figure 1. Levels of depression remained moderate to high until the 5th week of treatment. By the 5th and 6th week of treatment, Louise, Paige, and Susan had percentile scores at or approaching one. At the 3-month follow-up, Louise and Susan maintained their treatment gains, but Paige showed an increase to the 30th percentile, still far below her pretreatment level. Figure 3 displays the participants' anxiety levels as measured by the total percentile rank on the RCMAS. Matt displayed a decreasing level of anxiety during baseline to near zero. Louise showed an increasing pattern during baseline (mean of 63%). Paige and Susan showed variable patterns during baseline, with Paige stabilizing at a high level of anxiety (mean of 86%) and Susan at a more moderate level (mean of 65%). Upon introduction of the intervention, Susan displayed a steady decrease in anxiety across treatment sessions, and by the 5th week of treatment, she was reporting no symptoms. Louise and Paige displayed fluctuating levels of anxiety, until the 5th and 6th week of treatment when they were reporting virtually no symptoms. At the 3-month follow-up assessment, all 4 participants remained below their baseline levels, revealing no clinical anxiety, although once again Paige had a slight increase.",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      207.60000610351562,
+      332.8080139160156,
+      263.7826843261719,
+      347.31744384765625
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      348.1857604980469,
+      398.2521057128906,
+      610.512451171875
+    ],
+    "text": "The results of this study suggest that cognitive behavioral interventions can be valuable with child victims of sexual abuse who are exhibiting posttraumatic stress symptomatology. As hypothesized, all 4 participants revealed decreases in their PTSD symptomatology. For the 3 youths who had elevated baseline depression and anxiety scores, similar reductions were evident as well following treatment. The patterns of progress, however, differed considerably among the participants. Louise displayed fluctuations in her scores on the PTSD-RI, RCMAS, and RCDS. It should be noted that following the completion of these instruments during week 4, she reported a hallucination of the devil in the treatment room. The supervising psychologist and a child psychiatrist were consulted, and it was deemed appropriate for her to complete her participation in the intervention. Decreases in her PTSD, anxious, and depressive symptomatology occurred the following weeks in therapy. Paige revealed slight to moderate increases in her PTSD, anxious, and depressive symptomatology at the 3-month follow-up, although remaining below pretreatment baseline levels. Prior to her follow-up visit, Paige had been moved to another foster home and reported difficulty adjusting, as well as behavioral problems in school. It is possible that Paige was unable to transfer the skills gained in treatment to her new environment. The transition to a new home may have created further stress and inconsistency for Paige, which may have contributed to her increased scores. This is not an uncommon reaction to a new foster placement.",
+    "line_count": 23,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      203.51998901367188,
+      74.97840118408203,
+      264.5375671386719,
+      84.58319854736328
+    ],
+    "text": "FARRELL ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.4800033569336,
+      97.38575744628906,
+      398.3448486328125,
+      609.3124389648438
+    ],
+    "text": "Although Matt met the criteria for inclusion in the study with his moderate level of PTSD symptomatology, he did not report any depressive or anxious symptoms. Research has suggested that children respond with a wide array of symptomatology in the face of a trauma such as sexual abuse. Matt reported intrusive thoughts, nightmares, and somatic complaints, characteristic of PTSD. Matt reported a high level of social support. Perhaps because of this, coupled with a stable family environment, Matt may not have been as vulnerable to other manifestations of symptomatology. The results of this study are consistent with the findings of Deblinger et al. (1990), suggesting that cognitive behavioral interventions may be viable for sexually abused children exhibiting PTSD symptomatology. These findings parallel the increasing body of literature illustrating the effectiveness of cognitive behavioral interventions for the treatment and prevention of childhood anxiety disorders, including social phobias, generalized anxiety disorder, and separation anxiety (Barrett, Dadds, & Rapee, 1996; Dadds, Spence, Holland, Barrett, & Laurens, 1997; Kendall, 1994; Kendall et al., 1997). This recent research provides supportive evidence that cognitive behavioral interventions are \"probably efficacious\" for children with anxiety disorders as defined by the criteria from the American Psychological Association Task Force on Promotion and Dissemination of Psychological Procedures (1995). PTSD is classified as an anxiety disorder in the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV; American Psychiatric Association, 1994). It follows that an intervention adapted from the procedures in Kendall et al. (1989), which have been found to be successful in previous studies on children with anxiety (Barrett et al., 1996; Dadds et al., 1997; Kendall, 1994; Kendall et al., 1997), may be appropriate for children with PTSD. The promise of cognitive behavioral interventions for sexually abused children with PTSD needs to be further examined using the guidelines outlined by the American Psychological Association Task Force in a manner similar to the research examining anxiety disorders in children (e.g., randomized clinical trials comparing the treatment to a waiting list control group, comparison of the procedures to alternative treatment, series of single-case design studies). The treatment package contained educational components, self-monitoring, relaxation training, cognitive restructuring, role-playing, and in vivo practice of skills. It is unclear which of these components or combination of components may have contributed to the symptomatic improvement of the children in thi s study. Large group, controlled treatment outcome studies would be helpful to evaluate the necessary components for a successful intervention using this framework. Other limitations of this study should be noted. Assessment was based exclusively on the children's self-report. In addition, the questionnaires were administered by the therapist. Expectancy effects, coupled with the child's desire to please the experimenter, may have contributed to the improvement seen over the course of treatment.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      177.36000061035156,
+      73.94205474853516,
+      292.8315124511719,
+      85.46781921386719
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.23999786376953,
+      97.95645904541016,
+      397.5934143066406,
+      260.2372741699219
+    ],
+    "text": "Although the sample was small, it was ethnically diverse. Further research is needed to examine the effectiveness of this intervention with sexually abused children not exhibiting PTSD, children who have PTSD symptomatology associated with nonabuse trauma, and various age ranges. Comparisons among gender, cultural groups, and intellectual development would also be important. Children also need to be followed over time to assess the adequacy of this relatively rapid intervention on later psychological and developmental outcomes. In conclusion, the results of this study strongly suggest that cognitive behavioral interventions can be effective in treating child victims of sexual abuse who are exhibiting PTSD symptomatology. Given the range of problem areas for which sexually abused children are at risk, the availability of a brief, effective intervention that can be utilized shortly after abuse disclosure is an important development.",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      206.63999938964844,
+      274.4519958496094,
+      264.8566589355469,
+      289.6209716796875
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.72000122070312,
+      291.6220703125,
+      398.2557678222656,
+      610.3478393554688
+    ],
+    "text": "Adams-Tucker, C. (1982). Proximate effects of sexual abuse in childhood: A report on 28 children. American Journal of Psychiatry, 139, 1252-1256. American Psychiatric Association. (1987). Diagnostic and statistical manual of mental disorders (3rd ed., rev.). Washington, DC: Author. American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author. American Psychological Association Task Force on Promotion and Dissemination of Psychological Procedures. (1995). Training in and dissemination of empirically validated psychological treatments: Report and recommendations. The Clinical Psychologist, 48, 3-24. Barlow, D. H., & Hersen, M. (1984). Single case experimental designs (2nd. ed.). New York: Pergamon Press. Barrett, P., Dadds, M., & Rapee, R. (1996). Family treatment of child anxiety: A controlled trial. Journal of Consulting and Clinical Psychology, 64, 333-342. Beutler, L., Williams, R., & Zetzer, H. (1994). Efficacy of treatment for victims of child sexual abuse. The Future of Children: Sexual Abuse of Children, 4, 156-175. Briere, J. (1992). Child abase trauma: Theory and treatment of the lasting effects. Newbury Park, CA: Sage. Briere, J. (1996). A self-trauma model for treating adult survivors of severe child abuse. In J. Briere, L. Berliner, J. Bulkley, C. Jenny, & T. Reid (Eds.), The APSAC handbook on child maltreatment (pp. 171-191). Newbury Park, CA: Sage. Briere, J., & Elliot, D. (1994). Immediate and long-term impacts of child sexual abuse. The Future of Children: Sexual Abuse of Children, 4, 54-69. Dadds, M. R., Spence, S. H., Holland, D. E., Barrett, P. M., & Laurens, K. R. (1997). Prevention and early intervention for anxiety disorders: A controlled trial. Journal of Consulting and Clinical Psychology, 65, 627-635. Deblinger, E., McLeer, S., & Henry, D. (1990). Cognitive behavioral treatment for sexually abused children suffering post-traumatic stress: Preliminary findings. Journal of the American Academy of Child and Adolescent Psychiatry, 29, 747-752. Einbender, A. J., & Friedrich, W. N. (1989). Psychological functioning and behavior of sexually abused girls. Journal of Consulting and Clinical Psychology, 57, 155-157. Frederick, C. J. (1986). Post-traumatic stress disorder and child molestation. In A. Burgess & C. Hartman (Eds.), Sexual exploitation of clients by mental health professionals (pp. 133-142). New York: Praeger Publishers.",
+    "line_count": 33,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      203.760009765625,
+      73.95478820800781,
+      265.59942626953125,
+      85.16038513183594
+    ],
+    "text": "FARRELL ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      72.23999786376953,
+      99.39479064941406,
+      398.4800109863281,
+      610.5576171875
+    ],
+    "text": "Frederick, C., Pynoos, R., & Nader, K. (1992). Childhood PTSD reaction index. Unpublished manuscript. Friedrich, W. N., Beilke, R. L., & Urquiza, A. J. (1987). Children from sexually abusive families: A behavioral comparison. Journal oflnterpersonal Violence, 2, 391-402. Gomes-Schwartz, B., Horowitz, J. M., & Cardarelli, A. P. (1990). ChiM sexual abuse: The initial effects. Newbury Park, CA: Sage. Janoff-Bulman, R. (1989). Assumptive worlds and the stress of traumatic events: Applications of the schema construct. Social Cognition, 7, 113-136. Kaufman, A., & Kaufman, N. (1990). K-BIT Kaufman brief intelligence test manual. Circle Pines, MN: American Guidance Services. Kendall, P. C. (1994). Treating anxiety disorders in children: Results of a randomized clinicaltrial. Journal of Consulting and Clinical Psychology, 62, 100-110. Kendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M., Henin, A., & Warman, M. (1997). Therapy for youths with anxiety disorders: A second randomized clinical trial. Journal of Consulting and Clinical Psychology, 65, 366-380. Kendall, P., Kane, M., Howard, B., & Siqueland, L. (1989). Cognitive-behavioral therapy for anxious children: Treatment manual. Unpublished manuscript, Temple University, Philadelphia, PA. Kimerling, R., & Calhoun, K. S. (1994). Somatic symptoms, social support, and treatment seeking among sexual assault victims. Journal of Consulting and Clinical Psychology, 62, 333-340. Kiser, L. J., Ackerman, B. J., Brown, E., Edwards, N. B., McColgan, E., Pugh, R., & Pruitt, D. B. (1988). Post-traumatic stress disorder in young children: A reaction to purported sexual abuse. Journal of the American Academy of Child and Adolescent Psychiatry, 27, 645-649. Kolko, D. J., Moser, J. T., & Weldy, S. R. (1988). Behavioral/emotional indicators of sexual abuse in child psychiatric inpatients: A controlled comparison with physical abuse. Child Abuse and Neglect, 12, 529-541. Lipovsky, J. A. (1992). Assessment and treatment of post-traumatic stress disorder in child survivors of sexual assault. In D. W. Foy (Ed.), Treating PTSD: Cognitive-behavioral strategies (pp. 127-164). New York: Guilford Press. Lipovsky, J. A., Saunders, B. E., & Murphy, S. M. (1989). Depression, anxiety, and behavior problems among victims of father-child sexual assault and nonabused siblings. Journal of Interpersonal Violence, 4, 452-468. Martini, D. R., Ryan, C., Nakayama, D., & Ramenofsky, M. (1990). Psychiatric sequelae after traumatic injury: The Pittsburgh Regatta accident. Journal of the American Academy of Child Psychiatry, 29, 70-75. McLeer, S. V., Deblinger, E., Atkins, M. S., Foa, E. B., & Ralphe, D. L. (1988). Posttraumatic stress disorder in sexually abused children. Journal of the American Academy of Child and Adolescent Psychiatry, 27, 650-654. McNally, R. (199l). Assessment of posttraumatic stress disorder in children. Journal of Consuiting and Clinical Psychology, 3, 531-537. Meichenbaum, D. (1985). Stress inoculation training. New York: Pergamon Press. Nader, K., Pynoos, R. S., Fairbanks, L., & Frederick, C. (1990). Childhood PTSD reactions one year after a sniper attack. American Journal of Psychiatry, 147, 1526-1530. Pynoos, R., Frederick, C., Nader, K., Arroyo, W., Steinberg, A., Eth, S., Nunez, F., & Fair banks, L. (1987). Life threat and posttraumatic stress in school-age children. Archives o General Psychiatry, 44, 1057-1063. Pynoos, R., Goenjian, A., Tashjian, M., Karakashian, M., Manjikian, R., Manoukian, G., Steinberg, A,, & Fairbanks, L. (1993). Post-traumatic stress reactions in children after the 1988 Armenian earthquake. British Journal of Psychiatry, 163, 239-247.",
+    "line_count": 51,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      177.60000610351562,
+      73.22208404541016,
+      293.071533203125,
+      84.74784851074219
+    ],
+    "text": "SEXUALLY ABUSED CHILDREN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.4800033569336,
+      98.6620864868164,
+      398.39276123046875,
+      308.6678161621094
+    ],
+    "text": "Pynoos, R., & Nader, K. (1987). Children who witness the sexual assaults of their mothers. Journal of the American Academy of Child and Adolescent Psychiatry, 27, 567-572. Reynolds, W. M. (1989). Reynolds child depression scale: Professional manual. Odessa, FL: Psychological Assessment Resources. Reynolds, C. R., & Richman, B. O. (1985). Revised children's manifest anxiety scale (RCMAS) manual. Los Angeles, CA: Western Psychological Services. Spielberger, C. D. (1973). Manual for the state trait anxiety inventory for children. Palo Alto, CA: Consulting Psychologist Press. Stauffer, L. B., & Deblinger, E. (1996). Cognitive behavioral groups for nonoffending mothers and their young sexually abused children: A preliminary treatment outcome study. Child Maltreatment, 1, 65-76. Tong, L., Oates, K., & McDowell, M. (1987). Personality development following sexual abuse. Child Abuse & Neglect, H, 371-383. Wolfe, V., & Birt, J. (1995). The psychological sequelae of child sexual abuse. In T. Ollendick and R. Prinz (Eds.), Advances in clinical child psychology (pp. 233-263). New York: Plenum Press. Wozencraft, T., Wagner, W., & Pellgrin, A. (1991). Depression and suicidal ideation in sexually abused children. Child Abuse and Neglect, 15, 505-511. RECEIVED: March 28, 1997 ACCEPTED: March 6, 1998",
+    "line_count": 20,
+    "column": 0
+  }
+]

@@ -1,0 +1,4274 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      171.64837646484375,
+      54.83262634277344,
+      299.8434143066406,
+      62.80272674560547
+    ],
+    "text": "First published online 7 December 2015",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      86.38200378417969,
+      94.63520050048828,
+      379.4273376464844,
+      108.58290100097656
+    ],
+    "text": "Cognitive Therapy for Social Anxiety Disorder in",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      112.21174621582031,
+      110.58301544189453,
+      353.5558166503906,
+      124.53071594238281
+    ],
+    "text": "Adolescents: A Development Case Series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      60.08399963378906,
+      174.20387268066406,
+      405.7215576171875,
+      183.17027282714844
+    ],
+    "text": "South London and Maudsley NHS Foundation Trust, and Institute of Psychiatry, Psychology and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      157.8599090576172,
+      185.1661834716797,
+      307.9197082519531,
+      194.13258361816406
+    ],
+    "text": "Neuroscience, Kings College London, UK",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      59.09400177001953,
+      243.9449005126953,
+      406.68988037109375,
+      252.9113006591797
+    ],
+    "text": "University of Oxford, and NIHR Oxford Cognitive Health Clinical Research Facility, Oxford, UK",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.52020263671875,
+      283.79693603515625,
+      400.3048400878906,
+      435.31951904296875
+    ],
+    "text": "Background: Social anxiety disorder is common and typically starts in childhood or adolescence. Cognitive Therapy for Social Anxiety Disorder (CT-SAD) in adults is a wellestablished treatment that shows strong evidence of differential effectiveness when compared to other active treatments. In contrast, CBT approaches to social anxiety in young people have yet to demonstrate differential effectiveness and there is some evidence that young people with social anxiety disorder respond less well than those with other anxiety disorders. Aims: To adapt CT-SAD for use with adolescents and conduct a pilot case series. Method: Five adolescents, aged 11–17 years, with a primary DSM-5 diagnosis of social anxiety disorder received a course of CT-SAD adapted for adolescents. Standardized clinical interview and questionnaire assessments were conducted at pre and posttreatment, and 2 to 3-month followup. Results: All ﬁve participants reported severe social anxiety at baseline and achieved remission by the end of treatment. Signiﬁcant improvements were also observed in general anxiety, depression, concentration in the classroom, and putative process measures (social anxiety related thoughts, beliefs and safety behaviours). Conclusions : An adapted form of",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.52017211914062,
+      455.161865234375,
+      321.41387939453125,
+      464.2191162109375
+    ],
+    "text": "Keywords: Cognitive therapy, social anxiety, adolescent, young people.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.5921630859375,
+      494.3302001953125,
+      418.22186279296875,
+      576.032470703125
+    ],
+    "text": "Social anxiety is one of the most common and disabling anxiety disorders (Kessler et al., 2005 ) with a particularly low natural recovery rate (Bruce et al., 2005 ). The condition almost always starts in childhood or adolescence (Kessler et al., 2005 ) and can have profound effects on development that are hard to overcome later in life. A crowded classroom can make socially anxious youths self-conscious, making it difﬁcult for them to follow what the teacher says, and consequently undermine exam performance. The development of social and romantic relationships is also impeded. Clearly, there is a major need for effective treatments that can",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199523925781,
+      605.0660400390625,
+      418.24078369140625,
+      659.8628540039062
+    ],
+    "text": "Reprint requests to Eleanor Leigh, Eleanor Leigh, Michael Rutter Centre for Children and Young People, The Maudsley Hospital, De Crespigny Park, London, SE5 8AZ, UK. E-mail: eleanor.leigh@kcl.ac.uk © British Association for Behavioural and Cognitive Psychotherapies 2015. This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      204.53399658203125,
+      149.63050842285156,
+      261.2451477050781,
+      159.59310913085938
+    ],
+    "text": "Eleanor Leigh",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      201.59100341796875,
+      219.36253356933594,
+      264.2019348144531,
+      229.32513427734375
+    ],
+    "text": "David M. Clark",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.52017211914062,
+      437.3154602050781,
+      263.1933898925781,
+      446.2818603515625
+    ],
+    "text": "CT-SAD shows promise as a treatment for adolescents.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      205.86599731445312,
+      476.3016357421875,
+      259.91802978515625,
+      486.26422119140625
+    ],
+    "text": "Introduction",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59315490722656,
+      578.0220336914062,
+      159.48709106445312,
+      587.984619140625
+    ],
+    "text": "be delivered in adolescence.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      231.13800048828125,
+      44.78924560546875,
+      418.2223815917969,
+      52.84008026123047
+    ],
+    "text": "Behavioural and Cognitive Psychotherapy , 2016, 44, 1–17",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      309.50238037109375,
+      54.83262634277344,
+      418.2430419921875,
+      62.80272674560547
+    ],
+    "text": "doi: 10.1017/S1352465815000715",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56600189208984,
+      74.60627746582031,
+      445.21771240234375,
+      383.45281982421875
+    ],
+    "text": "In adults, individual cognitive therapy for social anxiety disorder (CT-SAD) has a strong evidence base and has been shown to be superior to several other active treatments, including exposure therapy, group CBT, interpersonal psychotherapy, psychodynamic psychotherapy, selective serotonin re-uptake inhibitors, and medication based treatment as usual (MayoWilson et al., 2014 ). The evidence base for CBT with young people is less strong (NICE, 2013 ). Generic CBT interventions for anxiety in young people appear to be less effective with social anxiety than other anxiety disorders (Ginsburg et al., 2011 ; Hudson et al., 2015 ). CBT programmes speciﬁcally developed for social anxiety in youth show a range of positive responses and may have a greater effect on social anxiety than generic CBT for young people. However, this has not yet been demonstrated. In addition, a recent meta-analysis (NICE, 2013 ) failed to establish that either generic or social anxiety speciﬁc CBT for youth is superior to other interventions, including psychological or pill placebos. In this uncertain situation, it is notable that the treatments that are most effective with adults have not, as yet, been trialled with adolescents. For this reason, we decided to conduct a development case series in which we would experiment with delivering individual CT-SAD based on the Clark and Wells ( 1995 ) model to a group of adolescents with severe social anxiety disorder. Our aim was twofold: 1) to provide a preliminary estimate of the potential utility of CT-SAD with adolescents; 2) to learn lessons about how its delivery might need to be modiﬁed for this population. We were encouraged to take this approach by studies that have shown that the psychological processes targeted by CT-SAD for adults are evident in adolescents. These include: similar negative cognitions (Cartwright-Hatton, Tschernitz and Gomersall, 2005 ), self-focused attention (Blote, Miers, Heyne, Clark and Westenberg, 2014 ), negative selfimages (Schreiber and Steil, 2013 ), safety behaviours (Hodson, McManus, Clark and Doll, 2008 ), and postevent processing (Hodson et al., 2008 ). Furthermore, a version of CT-SAD that included some, but not all of the adult procedures, outperformed group CBT for young people and an attention control in a recent RCT with adolescents (Ingul, Aune and Nordahl,",
+    "line_count": 26,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56906127929688,
+      457.17205810546875,
+      445.2087097167969,
+      610.6050415039062
+    ],
+    "text": "Participants were ﬁve young people aged 11 to 17 years who met DSM-5 (American Psychiatric Association, 2013 ) criteria for social anxiety disorder. All were referred to Child and Adolescent Mental Health Services for treatment. Table 1 shows patient characteristics. The Anxiety Disorders Interview Schedule for Children and Parents (ADIS-C/P; Silverman and Albano, 1996 ) was used as standard to diagnose social anxiety disorder and comorbid conditions. As is standard, a Clinician Severity Rating (CSR; 0 [absent or none] to 8 [very severely disturbing/disabling]) was assigned. A CSR of four or more indicates positive diagnosis. CSR scores at assessment are shown in Table 2 . EL, who had extensive prior training with the ADIS C/P, conducted the interviews. Four of the ﬁve had previously received a course of the broad-based CBT that is commonly offered in children’s services; in two cases (Patient 1 and 4) this speciﬁcally targeted social anxiety. Patient 4 had been on a stable dose of ﬂuoxetine (20mg od) for 3 months prior to treatment. Patient 2 was not attending school and Patient 3 was an inconsistent school attender. Box 1 provides clinical",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56904602050781,
+      385.44232177734375,
+      100.28849029541016,
+      395.4049377441406
+    ],
+    "text": "2014 ).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56906127929688,
+      439.1434326171875,
+      123.02613830566406,
+      449.10601806640625
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56910705566406,
+      612.5946044921875,
+      113.02574157714844,
+      622.5571899414062
+    ],
+    "text": "vignettes.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 2,
+    "bbox": [
+      243.2737274169922,
+      421.206787109375,
+      276.4691162109375,
+      431.16937255859375
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 3,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38935089111328,
+      78.3646011352539,
+      125.35575103759766,
+      165.8912353515625
+    ],
+    "text": "Separate from everyone,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.0619659423828,
+      83.9462890625,
+      223.99069213867188,
+      165.89208984375
+    ],
+    "text": "Looking lost, someone who “doesn’t have a",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      127.35167694091797,
+      85.8040771484375,
+      147.27142333984375,
+      157.9263916015625
+    ],
+    "text": "room, like a “stone” in the corner of the",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.86822509765625,
+      97.65693664550781,
+      278.7879943847656,
+      165.89385986328125
+    ],
+    "text": "Someone that “just doesn’t ﬁt in”",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      225.9866180419922,
+      139.01531982421875,
+      234.95301818847656,
+      157.92724609375
+    ],
+    "text": "clue”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      101.13973999023438,
+      139.9999237060547,
+      110.10614013671875,
+      165.890380859375
+    ],
+    "text": "Images",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.86822509765625,
+      177.44976806640625,
+      267.8346252441406,
+      285.78271484375
+    ],
+    "text": "At a birthday party getting the",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38845825195312,
+      180.18191528320312,
+      136.31716918945312,
+      285.78009033203125
+    ],
+    "text": "Standing in front of the class, unable to complete an oral",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      269.82159423828125,
+      184.6847686767578,
+      278.7879943847656,
+      277.80889892578125
+    ],
+    "text": "dress code wrong aged 6y",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.06105041503906,
+      187.39170837402344,
+      234.9521026611328,
+      285.78094482421875
+    ],
+    "text": "unclear how to manage it Losing control of bowels",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      138.3041229248047,
+      199.1189422607422,
+      147.27052307128906,
+      277.8062744140625
+    ],
+    "text": "presentation aged 11y",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      215.02337646484375,
+      202.34861755371094,
+      223.98977661132812,
+      277.80712890625
+    ],
+    "text": "whilst seated in class",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      101.13973999023438,
+      241.5757598876953,
+      110.10614013671875,
+      285.77923583984375
+    ],
+    "text": "Early events",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      236.93905639648438,
+      249.67054748535156,
+      245.90545654296875,
+      277.80712890625
+    ],
+    "text": "aged 7y",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      236.93814086914062,
+      298.5410461425781,
+      245.904541015625,
+      397.68701171875
+    ],
+    "text": "class; follow dominant peer",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      160.22695922851562,
+      298.68646240234375,
+      169.193359375,
+      397.6861572265625
+    ],
+    "text": "saying; plan answers; avoid",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.9059066772461,
+      299.0042419433594,
+      81.963134765625,
+      396.4259948730469
+    ],
+    "text": "Table 1. Participant details",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      291.7435302734375,
+      301.64697265625,
+      322.6256103515625,
+      397.68878173828125
+    ],
+    "text": "avoid asking questions; try plan topics in advance; try",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38664245605469,
+      303.5506591796875,
+      147.26870727539062,
+      405.65997314453125
+    ],
+    "text": "rush what I’m saying; talk Talk less; avoid eye contact;",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      149.26463317871094,
+      304.7772521972656,
+      158.2310333251953,
+      397.6861572265625
+    ],
+    "text": "quietly; monitor what I’m",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      225.9847869873047,
+      305.65228271484375,
+      234.95118713378906,
+      397.68701171875
+    ],
+    "text": "me; avoid participating in",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      182.14263916015625,
+      306.90679931640625,
+      191.10903930664062,
+      397.6861572265625
+    ],
+    "text": "the edge of groups; avoid",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      127.34896087646484,
+      307.39276123046875,
+      136.3153533935547,
+      397.6861572265625
+    ],
+    "text": "try to give short answers;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      171.18031311035156,
+      307.7711181640625,
+      180.14671325683594,
+      397.6861572265625
+    ],
+    "text": "asking questions; stay on",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      215.0224609375,
+      309.2621765136719,
+      223.98886108398438,
+      397.68701171875
+    ],
+    "text": "allow others to speak for",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      280.7812194824219,
+      309.7607116699219,
+      289.74761962890625,
+      397.68878173828125
+    ],
+    "text": "coming across; talk less;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.0601348876953,
+      311.96649169921875,
+      213.0265350341797,
+      405.66082763671875
+    ],
+    "text": "Always agree with others;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.86553955078125,
+      313.27471923828125,
+      267.8319396972656,
+      405.66259765625
+    ],
+    "text": "Rehearse sentences in my",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      302.6968994140625,
+      316.2559509277344,
+      311.6632995605469,
+      397.68878173828125
+    ],
+    "text": "not to attract attention;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      269.81890869140625,
+      320.96148681640625,
+      278.7853088378906,
+      397.68878173828125
+    ],
+    "text": "mind; check how I’m",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      101.13973999023438,
+      341.3583679199219,
+      110.10614013671875,
+      405.6573486328125
+    ],
+    "text": "Safety behaviours",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      193.10496520996094,
+      352.37176513671875,
+      202.0713653564453,
+      397.6861572265625
+    ],
+    "text": "participating",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      247.9004669189453,
+      376.76837158203125,
+      256.86688232421875,
+      397.68701171875
+    ],
+    "text": "group",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      280.7794189453125,
+      420.29034423828125,
+      311.6614990234375,
+      517.57763671875
+    ],
+    "text": "“I will mash up my words” “I will make people feel",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      116.38573455810547,
+      432.9017639160156,
+      125.35213470458984,
+      525.5389404296875
+    ],
+    "text": "“People will laugh at me”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      236.93722534179688,
+      433.6611633300781,
+      245.90362548828125,
+      517.5758666992188
+    ],
+    "text": "“People will reject me”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      138.30140686035156,
+      433.8916320800781,
+      147.26780700683594,
+      517.574951171875
+    ],
+    "text": "“People will think I am",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      258.8637390136719,
+      447.6092529296875,
+      267.83013916015625,
+      525.5415649414062
+    ],
+    "text": "“I am not interesting”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      203.96839904785156,
+      460.31109619140625,
+      213.02561950683594,
+      525.5407104492188
+    ],
+    "text": "“ I am vulnerable”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      368.452880859375,
+      302.63323974609375,
+      377.4192810058594,
+      397.68878173828125
+    ],
+    "text": "sweating; keep arms down",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      324.62152099609375,
+      305.5347900390625,
+      333.5879211425781,
+      397.68878173828125
+    ],
+    "text": "to picture how I appear to",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      335.57489013671875,
+      312.52862548828125,
+      366.4659118652344,
+      397.68878173828125
+    ],
+    "text": "interruptions; check not others; censor what I’m going to say; allow",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.21116638183594,
+      81.71656799316406,
+      196.1775665283203,
+      165.90020751953125
+    ],
+    "text": "A vulnerable, cowering",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.885498046875,
+      98.31253814697266,
+      283.8518981933594,
+      165.9019775390625
+    ],
+    "text": "An “uncool, naïve,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      198.16452026367188,
+      105.872802734375,
+      207.13092041015625,
+      157.9263916015625
+    ],
+    "text": "helpless ﬁgure",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      285.8478088378906,
+      125.05926513671875,
+      294.814208984375,
+      157.92816162109375
+    ],
+    "text": "try-hard”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      171.96072387695312,
+      140.0088348388672,
+      180.9271240234375,
+      165.8992919921875
+    ],
+    "text": "Images",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      296.80029296875,
+      179.4538116455078,
+      305.7666931152344,
+      277.8170166015625
+    ],
+    "text": "band, and the class laughed",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      220.08737182617188,
+      179.54615783691406,
+      229.05377197265625,
+      277.81524658203125
+    ],
+    "text": "being slapped in the face in",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.20936584472656,
+      184.9628143310547,
+      196.17576599121094,
+      285.78009033203125
+    ],
+    "text": "Chronic and severe bullying",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.8846130371094,
+      185.9329376220703,
+      316.72900390625,
+      285.7818603515625
+    ],
+    "text": "Cried in front of class when teacher insulted favourite aged 11y. I thought they",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      198.1627197265625,
+      191.9019012451172,
+      240.0071258544922,
+      277.81524658203125
+    ],
+    "text": "front of peers, unable to possessions stolen and in two schools, having",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      242.0030517578125,
+      214.0721893310547,
+      250.96945190429688,
+      277.81524658203125
+    ],
+    "text": "retaliate aged 11y",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      171.96072387695312,
+      241.5757293701172,
+      180.9271240234375,
+      285.7792053222656
+    ],
+    "text": "Early events",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      296.7984924316406,
+      297.3197937011719,
+      305.764892578125,
+      397.6968688964844
+    ],
+    "text": "advance; monitor what I am",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      198.160888671875,
+      298.27764892578125,
+      207.12728881835938,
+      397.6950988769531
+    ],
+    "text": "face in coat; talk less; avoid",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      252.9635467529297,
+      301.0651550292969,
+      261.9299621582031,
+      397.6950988769531
+    ],
+    "text": "going to say; monitor what",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      307.76080322265625,
+      301.0740661621094,
+      316.7272033691406,
+      397.6968688964844
+    ],
+    "text": "saying; let others guide the",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      242.001220703125,
+      303.74603271484375,
+      250.96762084960938,
+      397.6950988769531
+    ],
+    "text": "behaviour; plan what I am",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      209.1232147216797,
+      304.02679443359375,
+      229.05194091796875,
+      397.6950988769531
+    ],
+    "text": "asking questions; sit away from other people; keep a",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      187.20753479003906,
+      310.02166748046875,
+      196.17393493652344,
+      405.6689147949219
+    ],
+    "text": "Avoid all eye contact; hide",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      285.8451232910156,
+      310.7578125,
+      294.8115234375,
+      397.6968688964844
+    ],
+    "text": "questions; plan topics in",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      143.726806640625,
+      311.3880310058594,
+      152.78402709960938,
+      384.0419006347656
+    ],
+    "text": "Table 1. Continued.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      231.0388946533203,
+      330.196044921875,
+      240.0052947998047,
+      397.6950988769531
+    ],
+    "text": "tight control of my",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.8828125,
+      332.6617431640625,
+      283.8492126464844,
+      405.6706848144531
+    ],
+    "text": "Talk less; ask lots of",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      171.96072387695312,
+      341.35833740234375,
+      180.9271240234375,
+      405.6662902832031
+    ],
+    "text": "Safety behaviours",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      263.91693115234375,
+      359.08941650390625,
+      272.8833312988281,
+      397.6950988769531
+    ],
+    "text": "I’m saying",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      220.0846405029297,
+      421.28656005859375,
+      229.05104064941406,
+      517.574951171875
+    ],
+    "text": "“I will mess up my words”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      307.759033203125,
+      426.1419677734375,
+      316.7254333496094,
+      517.5767822265625
+    ],
+    "text": "“I won’t have anything to",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      209.122314453125,
+      427.94512939453125,
+      218.08871459960938,
+      517.574951171875
+    ],
+    "text": "“People will stare at me”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      274.88104248046875,
+      434.91558837890625,
+      305.76312255859375,
+      525.5496826171875
+    ],
+    "text": "“I am going to embarrass “I will be rejected”",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      198.1599884033203,
+      453.3603210449219,
+      207.1263885498047,
+      517.574951171875
+    ],
+    "text": "“I am vulnerable”",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      318.72491455078125,
+      202.62472534179688,
+      327.6913146972656,
+      277.8170166015625
+    ],
+    "text": "were laughing at me.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      318.7231140136719,
+      310.04852294921875,
+      349.6051940917969,
+      397.6968688964844
+    ],
+    "text": "conversation; agree with other people; pretend to share interests",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      329.6747131347656,
+      423.9639587402344,
+      360.56573486328125,
+      517.5767822265625
+    ],
+    "text": "“I won’t be able to speak” immature and silly” “They’ll think I’m",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.06294631958008,
+      80.57157897949219,
+      411.7563171386719,
+      618.6569213867188
+    ],
+    "text": "Box 1. Vignettes Patient 1 is a 15 year-old-girl with a 4-year history of social anxiety disorder and depression 1 . She has previously received a course of broad-based CBT for social anxiety. At assessment she struggles to speak or make eye contact, does not smile, often ﬁdgets and wrings her hands. In class she struggles to concentrate, explaining that “my mind gets so caught up in my thoughts I can’t focus on what the teacher is saying”. She is worried about her GCSE examinations. She does not participate in class or ask for help when stuck. She pretends to be writing when the teacher passes to avoid being asked a question. She has three friends in school. At home, she does not socialize, fearing she will “ruin the atmosphere because I am so awkward”. She declines invitations from friends. She replies to text messages with brief responses but does not use the telephone. She does not allow herself to be photographed. She wears dark colours so as not to be noticed. For all adolescents, treatment followed the protocol we have outlined. Each adolescent’s key thoughts and safety behaviours are shown in Table 1 . Particularly important interventions for Patient 1 included the use of video feedback and of still photographs of her with her friends to update the distorted image of herself as a “stone”, separate from everyone. These provided realistic information about how she actually appeared to others. As well as recovering from social anxiety, Patient 1 achieved all A ∗ to B GCSE examinations, she developed a large group of friends, attended birthday parties and arranged and hosted her own 16 th birthday celebration. She wore a bright dress to her school prom and shared photos of this with her friends on Facebook. Patient 2 is a 12-year-old girl with a 2-year history of social anxiety disorder with panic attacks and angry outbursts 1 . She has previously received supportive counselling. At assessment she is quiet, frequently says, “I don’t know”, and is quick to agree with suggestions. She often looks to her mother to answer questions. She has not attended school for 9 months. She experienced bullying in school, near her home and on social media for several years. At home, she does not use the telephone or social media. She responds to, but does not initiate, text conversations. She will not travel alone, eat or drink in public, or socialize without her mother. A particularly important intervention for Patient 2 was training in an external focus of attention and learning that “the scariest place is in my head”. As well as recovering from social anxiety, she returned to full-time education, developed a new friendship group, and attended a dance-drama club. Angry outbursts and panic attacks resolved. Patient 3 is a 16-year-old young woman with a 4-year history of social anxiety disorder, generalized anxiety disorder and depression 1 . At assessment she is visibly anxious, concerned to give the “right answer” and physically keyed-up. She is polite and engaged. At a previous assessment for autism spectrum disorder, obsessive and rigid “autistic traits” were observed, but her developmental history and current functioning were not consistent with a diagnosis. Although Patient 3 is extremely intelligent and high achieving, school initiated the referral to CAMHS because of a one-year history of non-compliant, challenging behaviour in lessons (e.g. putting her head on the desk, refusing to answer questions) and intermittent school refusal. At home, she does not use the telephone. She",
+    "line_count": 43,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.04496765136719,
+      73.58955383300781,
+      438.7222595214844,
+      590.6572265625
+    ],
+    "text": "responds to, but will not initiate, text conversations. She has a small social network but no best friend and has always been socially reserved. The attention and safety behaviours experiment was a particularly enlightening intervention for Patient 3. She had ﬁrmly believed her safety behaviours were helpful but was surprised to learn that they made her feel more anxious and led her to think she came across less well. In addition to recovering from social anxiety, the young person obtained all A ∗ -A grades at GCSE and completed an interview that led to her being awarded a scholarship. She attended her school prom and organized a holiday with friends. Patient 4 is a 17-year-old young man with a 6-year history of severe social anxiety disorder, selective mutism and depression 1 . He has not responded to treatment with Fluoxetine (20mg od) nor to a course of exposure based CBT for social anxiety. He experienced severe bullying in two different schools. At assessment he is extremely anxious, struggles to speak, and makes no eye contact. When anxious he chews his hands, which has caused callouses. He has not contributed in class, spoken to another pupil or socialized with a peer for at least 12 months. He sits in a corner of the classroom away from peers and covers his face with his coat (which he wears at all times). He spends his free time in his room on his computer, playing games with others but not interacting beyond this. Particularly important interventions for Patient 4 included imagery rescripting of memories of severe bullying and use of still photographs to update his self-images. As well as recovering from social anxiety, Patient 4 completed his A-Levels and was offered a place at university. His hand biting resolved. He started to meet with friends in his free time and speak to his peers in class. Patient 5 is a 15-year-old girl with a 4-year history of social anxiety and generalized anxiety disorder and depression 1 . She has received treatment for Anorexia Nervosa – restrictive subtype, and has maintained a healthy weight for one year. She has also previously received a course of CBT for Generalised Anxiety Disorder. At assessment she is anxious and tearful but extremely polite and friendly. In school, she does not participate. She is a bright girl but teachers report she is underachieving and she describes difﬁculty concentrating. At home, she does not use the telephone and she responds to, but will not initiate, text conversations. She has a close group of friends, but does not instigate any arrangements to meet them and often turns down invitations. Her sleep is poor. Parents report frequent conﬂict. Particularly important interventions for Patient 5 included spotting her self-critical voice in social situations and using this as a cue to shift attention outwards. As well as recovering from social anxiety, she took the lead role in a play, attended parties, and started making plans to host a small party herself. The family reported a great improvement in relations at home. For example, she and her father described working together to plan her work experience placement. 1 All diagnoses referred to reﬂect the current situation at the pretreatment assessment based on assessment with the ADIS-C/P",
+    "line_count": 41,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      156.48300170898438,
+      44.41862869262695,
+      309.32916259765625,
+      54.3812255859375
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      74.50566101074219,
+      418.1576843261719,
+      114.45797729492188
+    ],
+    "text": "Ethical considerations All patients were treated as part of a routine clinical service and the project was considered clinical audit. All patients provided written consent for the data to be used for publication.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.592803955078125,
+      134.2832489013672,
+      418.22247314453125,
+      204.02346801757812
+    ],
+    "text": "Measures To help guide therapy, participants completed measures of social anxiety, mood and concentration in the classroom, and social anxiety related processes before every session. Some additional measures were completed at pre, mid, and posttreatment and follow-up. Outcome measures.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      147.20486450195312,
+      194.1617889404297,
+      418.18060302734375,
+      204.1243896484375
+    ],
+    "text": "The primary outcome measure was the Liebowitz Social Anxiety",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591819763183594,
+      206.11390686035156,
+      418.2185363769531,
+      329.5471496582031
+    ],
+    "text": "Scale: self-report version (LSAS; Baker, Heinrichs, Kim and Hofmann, 2002 ). The Social Phobia Weekly Summary Scale (SPWSS; Clark et al., 2003 ) was used as an additional measure of social anxiety. This was designed for use with adults but has been used successfully with youths. Concentration in class was assessed by asking young people to rate their ability to concentrate on class or learning activities using a visual analogue scale ranging from 0 (not at all) to 100 (totally).The Revised Child Anxiety and Depression Scale (RCADS; Chorpita, Yim, Mofﬁtt, Umemoto and Francis, 2000 ), which has a social anxiety subscale, was completed by parents (used to refer to parents/carers throughout) pre, mid, and posttreatment and at follow-up. Social anxiety process measures.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      200.7837677001953,
+      319.6854553222656,
+      418.1815185546875,
+      329.6480712890625
+    ],
+    "text": "Several unpublished measures (Clark, 2005 ) covering",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.594818115234375,
+      331.64654541015625,
+      418.2345886230469,
+      538.7716064453125
+    ],
+    "text": "central processes in cognitive models of social anxiety (Clark and Wells, 1995 ; Rapee and Heimberg, 1997 ) were administered and used to help guide therapy. The Social Cognitions Questionnaire (SCQ) is a 22-item scale covering negative automatic thoughts that are commonly reported in social anxiety provoking situations. Two subscales scores are obtained: a mean thought frequency, ranging from 1 (thought never occurs) to 5 (thought always occurs when I am anxious); and a mean belief rating ranging from 0 (I do not believe this thought) to 100 (I am completely convinced this thought is true). The Social Attitudes Questionnaire (SAQ) is a 41-item scale measuring social anxiety related beliefs. Each item is rated from 1 (totally disagree) to 7 (totally agree), and a mean score is obtained. The Social Behaviour Questionnaire (SBQ) is a 29-item scale measuring how often individuals use a range of common safety-seeking behaviours in social situations. The frequency with which each behaviour is used in social situations is rated from 0 (never) to 3 (always), and a mean score is obtained. The SCQ, SBQ and SAQ have been shown to discriminate between high and low socially anxious youth in UK (Hodson et al., 2008 ) and German (Schreiber, Hoeﬂing, Stangier, Bohn and Steil, 2012 ) samples. In the present study, the SCQ was completed weekly. The SAQ and SBQ were completed at pre, mid and posttreatment and at follow-up. General mood measures.",
+    "line_count": 17,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      167.45787048339844,
+      528.909912109375,
+      418.2116394042969,
+      538.8724975585938
+    ],
+    "text": "Depression and general anxiety were assessed fortnightly with",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.5948486328125,
+      540.862060546875,
+      418.22650146484375,
+      580.612548828125
+    ],
+    "text": "the Patient Health Questionnaire-Depression scale (PHQ-9; Kroenke, Spitzer and Williams, 2001 ) and the GAD-7(Spitzer, Kroenke, Williams and Löwe, 2006 ) respectively. Service user feedback.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      160.50099182128906,
+      570.7508544921875,
+      418.2195739746094,
+      580.7134399414062
+    ],
+    "text": "The Experience of Service Questionnaire (CHI-ESQ; Attride-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.595848083496094,
+      582.7029418945312,
+      400.4732666015625,
+      610.5013427734375
+    ],
+    "text": "Stirling, 2002 ) was completed once at the end of treatment by parents and young people. Criteria for assessing remission.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      202.01913452148438,
+      600.6396484375,
+      418.1996154785156,
+      610.6022338867188
+    ],
+    "text": "Remission was assessed in two ways. Jacobson and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.59584045410156,
+      612.5917358398438,
+      418.2165222167969,
+      622.5543212890625
+    ],
+    "text": "Truax’s ( 1991 ) criteria for reliable and clinically signiﬁcant change were applied to LSAS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56497192382812,
+      74.50535583496094,
+      445.18463134765625,
+      144.34756469726562
+    ],
+    "text": "scores. Pre–post change had to exceed the measurement error of the scale and move individuals into the distribution of the non-clinical population (mean ± 2 SD ). Using Fresco et al.’s ( 2001 ) data for a non-clinical population, this equated to a pretreatment to posttreatment fall of at least 12 points on the LSAS and a posttreatment LSAS score of ࣘ 37. In addition, EL reassessed participants on the ADIS-C/P criteria for social anxiety disorder at the end of treatment.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      170.14939880371094,
+      445.1887512207031,
+      257.9191589355469
+    ],
+    "text": "Therapist and supervisor As the aim of the case series was to learn how to adapt CT-SAD for use with adolescents, it was essential that the therapy and supervision were conducted by individuals who were fully trained in CT-SAD for adults. All sessions were delivered by EL, an experienced child clinical psychologist who had been trained in CT-SAD with adults during a clinical placement at the Centre for Anxiety Disorders and Trauma at the Maudsley Hospital in London. DC, one of the originators of CT-SAD, provided weekly supervision via Skype.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56698608398438,
+      283.72003173828125,
+      445.1757507324219,
+      383.45086669921875
+    ],
+    "text": "Treatment Therapy was delivered in line with the standard adult protocol (i.e. 14 individual 1.5 hour sessions with follow-up appointments at 1, 2, and 3 months). After each session, EL carefully reviewed the session videotape and discussed with DC what happened in the session along with her plans for the next session. Any apparent relationships between change in social anxiety and procedures used in a preceding session were noted, as were adaptations or reﬁnements to the treatment procedures that appeared to be helpful. The following treatment components were delivered, supported with worksheets:",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      76.23173522949219,
+      397.4014892578125,
+      445.21673583984375,
+      622.5562133789062
+    ],
+    "text": "1) An individualized version of Clark and Wells’ ( 1995 ) model is collaboratively developed with the young person using their own thoughts, images and safety-behaviours. The model is drawn on a whiteboard as looking at the board, rather than directly facing the therapist, helps the young person to feel less self-conscious in the initial session. Figure 1 depicts Patient 2’s model. 2) Young people undertake an experiential exercise to help them discover the unhelpful consequences of self-focused attention and safety behaviours. In Session 2 they have two conversations with a stranger (due to availability this is usually an adult). In the ﬁrst conversation, they focus their attention on themselves and think how they are coming across to the other person, while also engaging in their habitual safety behaviours (selffocused, evaluative attention condition). In the second conversation, they are encouraged to focus externally, not to think how they are coming across and instead get involved in the topic of the conversation, without doing their safety behaviours (externally focused, non-evaluative attention condition). Typically, young people discover that their habitual approach to social interactions (self-focused, evaluative) makes them feel more anxious and they think they appeared more anxious and performed less well. The young person is not told in advance what to expect because we prefer them to learn these key points through experience. Homework involves repeating this exercise with a peer.",
+    "line_count": 21,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      126.83499908447266,
+      82.29193878173828,
+      295.31781005859375,
+      100.72071075439453
+    ],
+    "text": "Situation : Going into school, a group of girls are standing by the lockers chatting and I join them",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      145.25999450683594,
+      446.2198791503906,
+      320.5467529296875,
+      455.2771301269531
+    ],
+    "text": "Figure 1. Idiosyncratic formulation for Patient 2",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      67.51844787597656,
+      469.1304931640625,
+      418.2108459472656,
+      538.8717041015625
+    ],
+    "text": "Video (and photograph) feedback is used to update distorted negative images and impressions of the way one appears to others. The ﬁrst video feedback exercise occurs in Session 3 when young people are asked to specify how they think they came across in each of the conversations in Session 2 and then to compare their predictions with how they actually look on the video. For behavioural experiments outside the ofﬁce, young people can use their mobile phones to collect a video or pictorial image to compare with",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      67.51844787597656,
+      552.8134155273438,
+      418.208984375,
+      622.5545654296875
+    ],
+    "text": "Young people receive a session of systematic training in externally focused, nonevaluative attention. This starts by attending to external non-social stimuli (street sounds, music, colours) and progresses to social situations. Young people use the classroom setting to practise externally focusing attention on a daily basis. Behavioural experiments are undertaken in most therapy sessions. We collaboratively devise experiments to test out speciﬁc beliefs the young person has about themselves and",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      142.7982940673828,
+      137.72015380859375,
+      257.2968444824219,
+      195.18466186523438
+    ],
+    "text": "Negative thoughts: “I look like an idiot in my uniform”; “They don’t like me”; “I am boring”; “I am stupid”; “I will say the wrong thing and they will tease me and not be friends with me”",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      167.60580444335938,
+      241.96316528320312,
+      239.18601989746094,
+      289.6507873535156
+    ],
+    "text": "Self-focus image of myself: looking blank, not knowing what to do, like an outcast",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      88.65280151367188,
+      330.8211669921875,
+      212.44122314453125,
+      416.89813232421875
+    ],
+    "text": "Things I did to try to “keep safe”: Try really hard to “act normal”; Keep checking how I am coming across; Give lots of compliments; Don’t disagree with anyone; Fiddle with my clothes; Don’t talk about myself; Picture how I come across Plan what to say; Leave mum to speak for me",
+    "line_count": 9,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      49.25699996948242,
+      469.1304931640625,
+      57.55385208129883,
+      479.0931091308594
+    ],
+    "text": "3)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      49.25700378417969,
+      540.8612670898438,
+      191.71820068359375,
+      562.7760009765625
+    ],
+    "text": "their negative self-impressions. 4)",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      49.25700378417969,
+      600.6398315429688,
+      57.55385971069336,
+      610.6024169921875
+    ],
+    "text": "5)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.6860046386719,
+      129.3824462890625,
+      373.84344482421875,
+      176.42303466796875
+    ],
+    "text": "Things from the past: I lost control of my bowels in class at primary school",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      253.24600219726562,
+      332.5461730957031,
+      320.9534912109375,
+      379.80120849609375
+    ],
+    "text": "Anxious feelings: Shaky; hurt in my belly, like someone is grabbing it; feel like I’m in a dream",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      94.49120330810547,
+      74.60627746582031,
+      445.2065734863281,
+      204.12619018554688
+    ],
+    "text": "their social world. The young person is encouraged to drop their safety behaviours and focus their attention externally during the experiment in order to gather new information about their anxious predictions. These aim to help the young person discover that the feared consequence is less likely to occur than they had believed (see Box 2 for an example with Patient 3). Experiments can also involve intentionally behaving in an “unacceptable” way and examining the consequences (see Box 2 for an example with Patient 5), in order to “decatastrophize” the young person’s fears. This latter form of experiment is usually introduced in the second half of therapy. Peer interactions are typically seen as the most threatening by adolescents, but they are difﬁcult to arrange in clinic. To overcome this problem careful planning of homework tasks is required, involving liaison with parents and teachers.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      100.97097778320312,
+      246.81959533691406,
+      438.7379150390625,
+      614.5374145507812
+    ],
+    "text": "Box 2. Example behavioural experiments An experiment examining likelihood of a feared consequence occurring with Patient 3 Situation: Parents’ evening Prediction: “I will speak at the wrong moment, make a stupid comment, the teacher will look at me disapprovingly and I will embarrass mum and dad” [Belief rating: 95%] Experiment: I made a comment when it came to mind, without preparation and focused on the teacher’s reaction. Outcome: The teacher listened to what I said and everyone seemed glad that I’d contributed. What I learned: “I can give my opinions when I want” [Belief rating: 80%] How much I believe my original prediction now: 0% A “decatastrophizing” experiment with Patient 5 Situation: In the park with friends Prediction: “I will not agree with what someone says and they will think I am naïve and a fool, and stop talking to me” [Belief rating: 100%] Experiment: When someone asked if I had watched a movie I said “no”, then stayed focused on the situation to ﬁnd out what happened. Outcome: The person didn’t look unimpressed and it started a whole new conversation about really famous movies we’ve never got round to watching and other people joined in. What I learned: “Differences between people are interesting; I can be honest about myself” [Belief rating: 75%] How much I believe my original prediction now: 0%",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      44.273258209228516,
+      74.60627746582031,
+      418.2294616699219,
+      508.9855041503906
+    ],
+    "text": "6) When young people identify previous, socially traumatic experiences related to their current concerns and negative self-images, discrimination training or memory rescripting (see Wild and Clark, 2011 ) is used. 7) Anticipatory worry and postevent rumination are targeted. The ﬁrst step involves helping the young person discover that these are unhelpful. Once we have done this we explain that instead we will focus on testing out beliefs in action . 8) For those young people with negative beliefs about themselves that are not conﬁned to social performance, a self-esteem component is included. Helpful metaphors include: “treating yourself as a friend, rather than being your own bully”, and “being on your team”. 9) The degree of parental involvement varies depending on the extent to which problematic parental beliefs and behaviours are identiﬁed. Components that will be important with the majority of parents include: psychoeducation about social anxiety and cognitive therapy; and learning about a child’s relapse prevention plan and their role in supporting this. Where problematic beliefs and behaviours have been identiﬁed additional elements include helping parents: recognize their own social attitudes; how these relate to their beliefs about their child; how they impact on their own behaviour and interactions with their child; and then testing out alternative responses. Delivery techniques include: Socratic questioning, modelling and behavioural experiments. 10) Liaison with school is helpful at assessment and throughout treatment. First, in order to obtain information about the young person’s social and academic functioning, concentration and attention, and behaviour. Second, to support school through the young person’s treatment. This might include psychoeducation about social anxiety and cognitive therapy and how teachers can help at the different stages of treatment e.g. planning school-based behavioural experiments. 11) Bullying and its consequences are addressed in various ways. Current bullying is tackled directly in a robust manner through liaison with school and parents. In addition, young people are helped to disengage from victimizing groups and seek out like-minded peers. For example, Patient 2 was enrolled at a dance-drama club that provided a supportive environment in which to test out her social fears. 12) Finally, a therapy blueprint is developed, drawing together what has been covered in sessions and detailing how to continue to build on progress made. Several CBT procedures that are commonly used in other treatment programmes are not used in CT-SAD. These are: repeated exposure to promote habituation; exposure hierarchies; rating anxiety in feared situations (SUDS); thought records; rehearsal of rationale responses in social situations (self-instruction); social skills training.",
+    "line_count": 43,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      217.40631103515625,
+      528.810791015625,
+      248.3999786376953,
+      538.7733764648438
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59478759765625,
+      546.738525390625,
+      418.20050048828125,
+      622.55615234375
+    ],
+    "text": "Clinical outcomes By the end of treatment, all patients had lost the diagnosis of social anxiety disorder and ADIS CSR scores were three or below (see Table 2 ). All met Jacobson and Truax ( 1991 ) reliable and clinically signiﬁcant change criteria. There were large changes in LSAS scores (see Table 2 and Figure 2 ), with the mean decrease being 79.2% at posttreatment and 88.4% at follow-up. There were large reductions in SPWSS scores and consistent increases in",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      185.20199584960938,
+      74.97889709472656,
+      334.5382995605469,
+      84.03612518310547
+    ],
+    "text": "Table 2. Outcomes and process measures",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56400299072266,
+      126.6217269897461,
+      237.18057250976562,
+      146.5504608154297
+    ],
+    "text": "Clinical outcomes – social anxiety measures: LSAS",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      148.54640197753906,
+      256.22442626953125,
+      179.4285125732422
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      181.42442321777344,
+      103.96957397460938,
+      190.3908233642578
+    ],
+    "text": "SPWSS",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      192.37779235839844,
+      256.21990966796875,
+      223.26881408691406
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      225.2557830810547,
+      165.22801208496094,
+      234.22218322753906
+    ],
+    "text": "RCADS-P social anxiety",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      236.2180938720703,
+      256.22442626953125,
+      267.1001892089844
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      269.0960998535156,
+      210.57020568847656,
+      278.0625
+    ],
+    "text": "ADIS-C/P social anxiety CSR ratings",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      280.05841064453125,
+      256.22357177734375,
+      310.94049072265625
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      312.9364013671875,
+      193.8459930419922,
+      332.8561706542969
+    ],
+    "text": "Social anxiety process measures: SCQ-F",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      334.8520812988281,
+      256.21990966796875,
+      365.7341613769531
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      367.7300720214844,
+      101.97723388671875,
+      376.69647216796875
+    ],
+    "text": "SCQ-B",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      378.6834411621094,
+      256.21990966796875,
+      409.574462890625
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      411.5614318847656,
+      93.00006866455078,
+      420.52783203125
+    ],
+    "text": "SAQ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      422.52374267578125,
+      256.21990966796875,
+      453.40582275390625
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      455.4017333984375,
+      93.009033203125,
+      464.3681335449219
+    ],
+    "text": "SBQ",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      466.3640441894531,
+      256.21990966796875,
+      497.24615478515625
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      499.2420654296875,
+      128.84861755371094,
+      508.2084655761719
+    ],
+    "text": "Concentration:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      510.1954040527344,
+      256.21990966796875,
+      541.0864868164062
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56401062011719,
+      543.0733642578125,
+      201.08279418945312,
+      563.0021362304688
+    ],
+    "text": "Clinical outcomes – general mood: GAD-7",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      219.2227783203125,
+      564.998046875,
+      256.22442626953125,
+      595.880126953125
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      342.15301513671875,
+      92.2507553100586,
+      366.9217834472656,
+      101.21715545654297
+    ],
+    "text": "Patient",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      400.1048583984375,
+      111.29377746582031,
+      439.6861877441406,
+      120.35100555419922
+    ],
+    "text": "Mean ( SD )",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      400.1036682128906,
+      148.54640197753906,
+      444.1933898925781,
+      179.4285125732422
+    ],
+    "text": "103.8 (13.1) 21.6 (9.2) 12.0 (10.9)",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.8487548828125,
+      192.37779235839844,
+      285.054931640625,
+      201.3441925048828
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2032775878906,
+      192.37779235839844,
+      309.40948486328125,
+      201.3441925048828
+    ],
+    "text": "5.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0392150878906,
+      192.37779235839844,
+      338.24542236328125,
+      201.3441925048828
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8751525878906,
+      192.37779235839844,
+      367.08135986328125,
+      201.3441925048828
+    ],
+    "text": "5.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.22967529296875,
+      192.37779235839844,
+      391.43585205078125,
+      201.3441925048828
+    ],
+    "text": "6.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.06561279296875,
+      192.37779235839844,
+      439.69659423828125,
+      201.3441925048828
+    ],
+    "text": "5.5 (0.6)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      203.34010314941406,
+      285.05767822265625,
+      212.30650329589844
+    ],
+    "text": "0.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.20599365234375,
+      203.34010314941406,
+      309.41400146484375,
+      212.30650329589844
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0437316894531,
+      203.34010314941406,
+      338.251708984375,
+      212.30650329589844
+    ],
+    "text": "0.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8814392089844,
+      203.34010314941406,
+      367.08941650390625,
+      212.30650329589844
+    ],
+    "text": "2.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.23773193359375,
+      203.34010314941406,
+      391.44573974609375,
+      212.30650329589844
+    ],
+    "text": "2.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0754699707031,
+      203.34010314941406,
+      439.7118225097656,
+      212.30650329589844
+    ],
+    "text": "1.2 (0.9)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      214.3024139404297,
+      285.05584716796875,
+      223.26881408691406
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2041931152344,
+      214.3024139404297,
+      309.410400390625,
+      223.26881408691406
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8760681152344,
+      214.3024139404297,
+      367.082275390625,
+      223.26881408691406
+    ],
+    "text": "1.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2305908203125,
+      214.3024139404297,
+      391.436767578125,
+      223.26881408691406
+    ],
+    "text": "2.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0665283203125,
+      214.3024139404297,
+      439.697509765625,
+      223.26881408691406
+    ],
+    "text": "0.8 (0.8)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      404.587890625,
+      236.2180938720703,
+      439.7112121582031,
+      267.1001892089844
+    ],
+    "text": "18.6 (4.8) 13.8 (2.6) 8.4 (3.2)",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0675354003906,
+      280.05841064453125,
+      439.7110595703125,
+      299.9781799316406
+    ],
+    "text": "6.4 (0.5) 1.6 (1.1)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      275.3569641113281,
+      301.9740905761719,
+      278.3427734375,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      299.71148681640625,
+      301.9740905761719,
+      302.6972961425781,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      328.54742431640625,
+      301.9740905761719,
+      331.5332336425781,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      357.38336181640625,
+      301.9740905761719,
+      360.3691711425781,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      381.7378845214844,
+      301.9740905761719,
+      384.72369384765625,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      410.5738220214844,
+      301.9740905761719,
+      413.55963134765625,
+      310.94049072265625
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.8487548828125,
+      334.8520812988281,
+      285.054931640625,
+      343.8184814453125
+    ],
+    "text": "3.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2032775878906,
+      334.8520812988281,
+      309.40948486328125,
+      343.8184814453125
+    ],
+    "text": "4.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0392150878906,
+      334.8520812988281,
+      338.24542236328125,
+      343.8184814453125
+    ],
+    "text": "3.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8751525878906,
+      334.8520812988281,
+      367.08135986328125,
+      343.8184814453125
+    ],
+    "text": "2.9",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.22967529296875,
+      334.8520812988281,
+      391.43585205078125,
+      343.8184814453125
+    ],
+    "text": "4.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.06561279296875,
+      334.8520812988281,
+      439.69659423828125,
+      343.8184814453125
+    ],
+    "text": "3.5 (0.6)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      345.81439208984375,
+      285.05767822265625,
+      354.7807922363281
+    ],
+    "text": "1.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.20599365234375,
+      345.81439208984375,
+      309.41400146484375,
+      354.7807922363281
+    ],
+    "text": "1.9",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0437316894531,
+      345.81439208984375,
+      338.251708984375,
+      354.7807922363281
+    ],
+    "text": "1.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8814392089844,
+      345.81439208984375,
+      367.08941650390625,
+      354.7807922363281
+    ],
+    "text": "1.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.23773193359375,
+      345.81439208984375,
+      391.44573974609375,
+      354.7807922363281
+    ],
+    "text": "1.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0754699707031,
+      345.81439208984375,
+      439.7118225097656,
+      354.7807922363281
+    ],
+    "text": "1.3 (0.3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      356.76776123046875,
+      285.05584716796875,
+      365.7341613769531
+    ],
+    "text": "1.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2041931152344,
+      356.76776123046875,
+      309.410400390625,
+      365.7341613769531
+    ],
+    "text": "1.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0401306152344,
+      356.76776123046875,
+      338.246337890625,
+      365.7341613769531
+    ],
+    "text": "1.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8760681152344,
+      356.76776123046875,
+      367.082275390625,
+      365.7341613769531
+    ],
+    "text": "1.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2305908203125,
+      356.76776123046875,
+      391.436767578125,
+      365.7341613769531
+    ],
+    "text": "1.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0665283203125,
+      356.76776123046875,
+      437.4478454589844,
+      365.7341613769531
+    ],
+    "text": "1.1(0.1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      269.366455078125,
+      378.6834411621094,
+      285.054931640625,
+      387.64984130859375
+    ],
+    "text": "62.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      293.7209777832031,
+      378.6834411621094,
+      309.40948486328125,
+      387.64984130859375
+    ],
+    "text": "76.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      322.55780029296875,
+      378.6834411621094,
+      338.24627685546875,
+      387.64984130859375
+    ],
+    "text": "49.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      351.3946228027344,
+      378.6834411621094,
+      367.0831298828125,
+      387.64984130859375
+    ],
+    "text": "49.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      375.7491455078125,
+      378.6834411621094,
+      391.4376220703125,
+      387.64984130859375
+    ],
+    "text": "80.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      404.5859680175781,
+      378.6834411621094,
+      444.1815490722656,
+      387.64984130859375
+    ],
+    "text": "63.6 (14.5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      389.645751953125,
+      309.4149169921875,
+      398.6121520996094
+    ],
+    "text": "5.5 14.1",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0446472167969,
+      389.645751953125,
+      338.25262451171875,
+      398.6121520996094
+    ],
+    "text": "3.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8823547363281,
+      389.645751953125,
+      367.09033203125,
+      398.6121520996094
+    ],
+    "text": "0.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2386474609375,
+      389.645751953125,
+      391.4466552734375,
+      398.6121520996094
+    ],
+    "text": "4.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0763854980469,
+      389.645751953125,
+      439.7127380371094,
+      398.6121520996094
+    ],
+    "text": "5.5 (5.3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      400.6080627441406,
+      285.05584716796875,
+      409.574462890625
+    ],
+    "text": "4.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2041931152344,
+      400.6080627441406,
+      309.410400390625,
+      409.574462890625
+    ],
+    "text": "0.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0401306152344,
+      400.6080627441406,
+      338.246337890625,
+      409.574462890625
+    ],
+    "text": "2.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8760681152344,
+      400.6080627441406,
+      367.082275390625,
+      409.574462890625
+    ],
+    "text": "0.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2305908203125,
+      400.6080627441406,
+      391.436767578125,
+      409.574462890625
+    ],
+    "text": "2.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0665283203125,
+      400.6080627441406,
+      439.697509765625,
+      409.574462890625
+    ],
+    "text": "1.8 (1.6)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.8487548828125,
+      422.52374267578125,
+      285.054931640625,
+      431.4901428222656
+    ],
+    "text": "6.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2032775878906,
+      422.52374267578125,
+      309.40948486328125,
+      431.4901428222656
+    ],
+    "text": "6.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0392150878906,
+      422.52374267578125,
+      338.24542236328125,
+      431.4901428222656
+    ],
+    "text": "4.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8751525878906,
+      422.52374267578125,
+      367.08135986328125,
+      431.4901428222656
+    ],
+    "text": "5.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.22967529296875,
+      422.52374267578125,
+      391.43585205078125,
+      431.4901428222656
+    ],
+    "text": "5.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.06561279296875,
+      422.52374267578125,
+      439.69659423828125,
+      431.4901428222656
+    ],
+    "text": "5.5 (0.7)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      433.4860534667969,
+      285.05767822265625,
+      442.45245361328125
+    ],
+    "text": "2.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.20599365234375,
+      433.4860534667969,
+      309.41400146484375,
+      442.45245361328125
+    ],
+    "text": "4.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0437316894531,
+      433.4860534667969,
+      338.251708984375,
+      442.45245361328125
+    ],
+    "text": "2.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8814392089844,
+      433.4860534667969,
+      367.08941650390625,
+      442.45245361328125
+    ],
+    "text": "2.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.23773193359375,
+      433.4860534667969,
+      391.44573974609375,
+      442.45245361328125
+    ],
+    "text": "3.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0754699707031,
+      433.4860534667969,
+      439.7118225097656,
+      442.45245361328125
+    ],
+    "text": "3.2 (0.7)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      444.4394226074219,
+      285.05584716796875,
+      453.40582275390625
+    ],
+    "text": "1.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2041931152344,
+      444.4394226074219,
+      309.410400390625,
+      453.40582275390625
+    ],
+    "text": "1.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0401306152344,
+      444.4394226074219,
+      338.246337890625,
+      453.40582275390625
+    ],
+    "text": "3.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8760681152344,
+      444.4394226074219,
+      367.082275390625,
+      453.40582275390625
+    ],
+    "text": "2.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2305908203125,
+      444.4394226074219,
+      391.436767578125,
+      453.40582275390625
+    ],
+    "text": "3.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0665283203125,
+      444.4394226074219,
+      439.697509765625,
+      453.40582275390625
+    ],
+    "text": "2.4 (0.9)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.8487548828125,
+      466.3640441894531,
+      285.054931640625,
+      475.3304443359375
+    ],
+    "text": "1.7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2032775878906,
+      466.3640441894531,
+      309.40948486328125,
+      475.3304443359375
+    ],
+    "text": "1.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0392150878906,
+      466.3640441894531,
+      338.24542236328125,
+      475.3304443359375
+    ],
+    "text": "1.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8751525878906,
+      466.3640441894531,
+      367.08135986328125,
+      475.3304443359375
+    ],
+    "text": "1.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.22967529296875,
+      466.3640441894531,
+      391.43585205078125,
+      475.3304443359375
+    ],
+    "text": "1.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.06561279296875,
+      466.3640441894531,
+      439.69659423828125,
+      475.3304443359375
+    ],
+    "text": "1.5 (0.3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      477.3174133300781,
+      285.05767822265625,
+      486.2838134765625
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.20599365234375,
+      477.3174133300781,
+      309.41400146484375,
+      486.2838134765625
+    ],
+    "text": "0.9",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0437316894531,
+      477.3174133300781,
+      338.251708984375,
+      486.2838134765625
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8814392089844,
+      477.3174133300781,
+      367.08941650390625,
+      486.2838134765625
+    ],
+    "text": "0.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.23773193359375,
+      477.3174133300781,
+      391.44573974609375,
+      486.2838134765625
+    ],
+    "text": "0.5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0754699707031,
+      477.3174133300781,
+      439.7118225097656,
+      486.2838134765625
+    ],
+    "text": "0.5 (0.3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      273.84967041015625,
+      488.2797546386719,
+      285.05584716796875,
+      497.24615478515625
+    ],
+    "text": "0.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      298.2041931152344,
+      488.2797546386719,
+      309.410400390625,
+      497.24615478515625
+    ],
+    "text": "0.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      327.0401306152344,
+      488.2797546386719,
+      338.246337890625,
+      497.24615478515625
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      355.8760681152344,
+      488.2797546386719,
+      367.082275390625,
+      497.24615478515625
+    ],
+    "text": "0.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      380.2305908203125,
+      488.2797546386719,
+      391.436767578125,
+      497.24615478515625
+    ],
+    "text": "0.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0665283203125,
+      488.2797546386719,
+      439.697509765625,
+      497.24615478515625
+    ],
+    "text": "0.3 (0.2)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      404.5877685546875,
+      510.1954040527344,
+      444.1953430175781,
+      541.0864868164062
+    ],
+    "text": "42.8 (33.6) 77.6 (17.8) 85.0 (15.0)",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      409.0675354003906,
+      564.998046875,
+      439.7074279785156,
+      595.880126953125
+    ],
+    "text": "9.6 (1.1) 3.8 (4.7) 2.8 (2.9)",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.590999603271484,
+      180.09286499023438,
+      417.22467041015625,
+      255.14610290527344
+    ],
+    "text": "Notes: LSAS = Liebowitz Social Anxiety Scale (Baker et al., 2002); SPWSS = Social Phobia Weekly Summary Scale (Clarket al., 2003 ); RCADS = Revised Child Anxiety and Depression Scale (Chorpita et al., 2000 ); ADIS-C/P CSR = Anxiety Disorders Interview Schedule for Children and Parents Clinician Severity Rating (Silverman and Albano, 1996 ); SCQ-F = Social Cognitions Questionnaire – Frequency subscale; SCQ-B = Social Cognitions Questionnaire–Belief subscale; SAQ – Social Attitudes Questionnaire; SBQ = Social Behaviour Questionnaire; PHQ-9 = Patient Health Questionnaire (Kroenke, Spitzer and Williams, 2001 ); GAD-7 = Generalized Anxiety Disorder",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59199905395508,
+      286.1335144042969,
+      418.1769104003906,
+      296.09613037109375
+    ],
+    "text": "classroom concentration (see Table 2 ). Parent reported social anxiety symptoms also reduced",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      346.82965087890625,
+      418.19866943359375,
+      356.7922668457031
+    ],
+    "text": "Scores on the SCQ (frequency and belief subscales), SAQ and SBQ all showed large",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      407.5168151855469,
+      418.19378662109375,
+      417.47943115234375
+    ],
+    "text": "Scores on a measure of depression (PHQ-9) and general anxiety (GAD-7) also reduced (see",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      468.2119445800781,
+      418.1927795410156,
+      490.1266784667969
+    ],
+    "text": "All participants attended all sessions. All CHI-ESQ items were rated as “partly” or “certainly” true, indicating high treatment satisfaction. All participants were attending school full-time by",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      540.8602294921875,
+      418.23065185546875,
+      622.5535278320312
+    ],
+    "text": "Our development case series provides preliminary evidence that CT-SAD can be adapted for adolescents with excellent results. All ﬁve young people initially presented with severe and chronic social anxiety. All had comorbid anxiety disorders and/or depression. By the end of treatment, symptoms of social anxiety, as well as associated anxiety and depression, had reduced to subclinical levels and these gains were maintained at follow-up. These results are particularly impressive when one bears in mind that four of the ﬁve young people had already received a standard course of CBT without apparent response. All the young people",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      196.56900024414062,
+      74.97889709472656,
+      269.2228698730469,
+      84.03612518310547
+    ],
+    "text": "Table 2. Continued.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.590999603271484,
+      126.6217269897461,
+      73.98922729492188,
+      135.58811950683594
+    ],
+    "text": "PHQ-9",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      104.71528625488281,
+      137.5840606689453,
+      141.71693420410156,
+      168.46617126464844
+    ],
+    "text": "Pre Post Follow-up",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.592803955078125,
+      257.14202880859375,
+      247.98043823242188,
+      266.1084289550781
+    ],
+    "text": "Screener (Spitzer, Kroenke, Williams and Löwe, 2006 ).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      298.08563232421875,
+      87.69342041015625,
+      308.0482482910156
+    ],
+    "text": "over time.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      328.7920837402344,
+      175.96507263183594,
+      338.7546691894531
+    ],
+    "text": "Social anxiety process measures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59197998046875,
+      358.7817687988281,
+      145.2832489013672,
+      368.744384765625
+    ],
+    "text": "reductions (see Table 2 ).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      389.48822021484375,
+      104.70758056640625,
+      399.4508056640625
+    ],
+    "text": "General mood",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      419.4779052734375,
+      82.75995635986328,
+      429.4405212402344
+    ],
+    "text": "Table 2 ).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      450.17437744140625,
+      159.92727661132812,
+      460.136962890625
+    ],
+    "text": "Satisfaction and functioning",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.59098815917969,
+      492.12518310546875,
+      131.43423461914062,
+      502.0877990722656
+    ],
+    "text": "the end of follow-up.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      210.47251892089844,
+      522.8226928710938,
+      255.31419372558594,
+      532.7852783203125
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      282.43798828125,
+      92.2507553100586,
+      307.20587158203125,
+      101.21715545654297
+    ],
+    "text": "Patient",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      377.6217346191406,
+      111.29377746582031,
+      417.2038879394531,
+      120.35100555419922
+    ],
+    "text": "Mean ( SD )",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      377.6212158203125,
+      137.5840606689453,
+      412.7362976074219,
+      168.46617126464844
+    ],
+    "text": "10.2 (3.6) 7.8 (6.9) 3.2 (4.4)",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      156.10499572753906,
+      418.22088623046875,
+      363.6412658691406,
+      427.27813720703125
+    ],
+    "text": "Figure 2. Session by session LSAS score for each patient",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.56500244140625,
+      457.16949462890625,
+      445.2018127441406,
+      622.5546875
+    ],
+    "text": "also showed improved functioning, as evidenced by increased social participation and 100% school attendance at follow-up. Excitingly, we have the ﬁrst indication that social anxiety treatment may also have a positive impact on classroom concentration, as evidenced by the self-reported improvement across all ﬁve patients. Patient 5 explained that: “it is easier to understand things in class now because I can listen to the teachers’ whole explanation, not just patches.” This is important as social anxiety disorder has a particularly deleterious effect on academic functioning (Van Ameringen, Mancini and Farvolden, 2003 ). Finally, CT-SAD appears to be acceptable to young people and their families. No one missed a session and feedback from parents and young people was consistently positive. The average change (79%) on the primary outcome measure (LSAS) was greater than observed in our trials of CT-SAD in adults (57% and 63% in Clark et al., 2003 , 2006 ). A similar increase in effect occurred when we adapted our adult cognitive therapy for PTSD for use with children and adolescents (see Smith et al., 2007 vs Ehlers, Clark, Hackmann, McManus and Fennell, 2005 ). This suggests that CT programmes that tightly focus on the",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.5927734375,
+      74.50535583496094,
+      418.2364196777344,
+      538.875244140625
+    ],
+    "text": "maintenance factors that are prominent in the anxiety-related disorder being treated may be particularly effective in young people, a ﬁnding that is perhaps somewhat at odds with the tendency to use more broad-based CBT programmes with youth. However, our ﬁndings are based on a small number of patients and need to be conﬁrmed in a larger sample. As this was a development series, we spent an unusual amount of time reﬂecting on the sessions and discussing them in supervision. The results are promising but randomized controlled trials that compare CT-SAD with other approaches to treating social anxiety in adolescents are required to clearly establish the relative efﬁcacy of the treatment approach. Treatment generally followed the adult protocol, which we found was acceptable to young people. They were able to identify negative social cognitions, a self-focused attentional style, safety behaviours, and distorted self-images. Each of these putative process variables changed with treatment. The self-images often related to earlier socially traumatic events. As in adults, these events appeared to generate a particular (distorted) mental representation that persisted, even though it may no longer be appropriate. The treatment was adapted throughout to ensure it was developmentally sensitive. We also included additional procedures in order to target the following factors: parental cognitions and behaviours; peer victimization and bullying; and low self-esteem. Unhelpful beliefs were identiﬁed and addressed with at least one of the parents of each adolescent. Some parents viewed their child’s the social environment as hostile and/or something their child as unable to cope with it, leading to overprotection. Other parents believed that children had to learn to be “centre-stage” and pushed the child too hard, given their anxious concerns. Towards the end of therapy, we found it powerful to invite parents to hear the therapy blueprint their child had developed. We encouraged young people to take the lead: talking through what they had learned about the development and maintenance of social anxiety, how to tackle it, the progress they had made and future goals, and how to manage setbacks. Unfortunately, four of our ﬁve young people were experiencing peer victimization or bullying. Interventions included liaison with schools and parents to address this, and discussions with young people that helped them develop relationships with children who were not bullies, as well as challenging the idea that the bullies are the arbiters of one’s worth. Low self-esteem was a focus in treatment for all those young people who had been subjected to peer victimization or bullying. Whilst unconditional assumptions such as “I am weird” are common in social anxiety, when young people experience bullying these beliefs are repeatedly (and sometimes explicitly) conﬁrmed by peers, leading to more general low self-esteem. Additional techniques included noticing the self-critical voice and “being your own cheerleader rather than your own bully”. In summary, it appears that although CT-SAD was developed as a treatment for adult social anxiety disorder, it shows promise as a treatment for adolescents when suitably adapted for this population. Further research is required to compare its efﬁcacy with other approaches.",
+    "line_count": 39,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      191.7187042236328,
+      582.6048583984375,
+      274.03375244140625,
+      592.5674438476562
+    ],
+    "text": "Acknowledgements",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.5927734375,
+      600.54150390625,
+      418.1994934082031,
+      622.55712890625
+    ],
+    "text": "Financial support: This research is supported by a Wellcome Trust Programme Grant (069777). DMC is a NIHR Senior Investigator.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      210.2038116455078,
+      44.5986213684082,
+      309.53790283203125,
+      54.56121826171875
+    ],
+    "text": "E. Leigh and D.M. Clark",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      158.52679443359375,
+      74.60627746582031,
+      445.1838684082031,
+      84.56887817382812
+    ],
+    "text": "The authors assert that all procedures contributing to this work comply",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56499481201172,
+      86.56739807128906,
+      445.1407775878906,
+      108.48214721679688
+    ],
+    "text": "with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      161.0463409423828,
+      116.44721984863281,
+      445.1778869628906,
+      126.40982055664062
+    ],
+    "text": "The authors have no conﬂicts of interest with respect to this publication.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56500244140625,
+      174.90589904785156,
+      445.2044372558594,
+      238.7567901611328
+    ],
+    "text": "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th edn.) DSM-5 . Arlington, VA: American Psychiatric Association. Attride-Stirling (2002). Development of Methods to Capture Users’ Views of Child and Adolescent Mental Health Services in Clinical Governance Reviews . Commission for Health Improvement. Baker, S. L., Heinrichs, N., Kim, H.-J. and Hofmann, S. G. (2002). The Liebowitz social anxiety scale as a self-report instrument: a preliminary psychometric analysis. Behaviour Research and Therapy,",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.5658950805664,
+      251.61524963378906,
+      445.19024658203125,
+      282.59710693359375
+    ],
+    "text": "Blote, A. W., Miers, A. C., Heyne, D. A., Clark, D. M. and Westenberg, P. M. (2014). The relation between social anxiety and audience perception: examining Clark and Wells’ (1995) model among adolescents. Behavioural and Cognitive Psychotherapy, 42 , 555–567. doi:",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.5658950805664,
+      295.4555358886719,
+      445.191162109375,
+      326.428466796875
+    ],
+    "text": "Bruce, S. E., Yonkers, K. A., Otto, M. W., Eisen, J. L., Weisberg, R. B., Pagano, M., et al. 2005). Inﬂuence of psychiatric comorbidity on recovery and recurrence in generalized anxiety disorder, social phobia, and panic disorder: a 12-year prospective study. American Journal of Psychiatry, 162 ,",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56407165527344,
+      339.29583740234375,
+      445.20269775390625,
+      403.1467590332031
+    ],
+    "text": "Cartwright-Hatton, S., Tschernitz, N. and Gomersall, H. (2005). Social anxiety in children: social skills deﬁcit, or cognitive distortion? Behaviour Research and Therapy, 43 , 131–141. Chorpita, B. F., Yim, L., Mofﬁtt, C., Umemoto, L. A. and Francis, S. E. (2000). Assessment of symptoms of DSM-IV anxiety and depression in children: a revised child anxiety and depression scale. Behaviour Research and Therapy, 38 , 835–855. doi: 10.1016/j.brat.2004.02.004 Clark, D. M. (2005). Three Questionnaires for Measuring Central Constructs in the Cognitive Model",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56318664550781,
+      416.00518798828125,
+      445.19207763671875,
+      457.8495788574219
+    ],
+    "text": "Clark, D. M., Ehlers, A., Hackmann, A., McManus, F., Fennell, M., Grey, N., et al. (2006). Cognitive therapy versus exposure and applied relaxation in social phobia: a randomized controlled trial. Journal of Consulting and Clinical Psychology, 74 , 568. Clark, D. M., Ehlers, A., McManus, F., Hackmann, A., Fennell, M., Campbell, H., et al.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52667999267578,
+      470.7988586425781,
+      445.184814453125,
+      479.8561096191406
+    ],
+    "text": "placebo-controlled trial. Journal of Consulting and Clinical Psychology, 71 , 1058–1067. doi:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.5623550415039,
+      492.7235107421875,
+      445.19921875,
+      501.78076171875
+    ],
+    "text": "Clark, D. M. and Wells, A. (1995). A cognitive model of social phobia. Social Phobia: diagnosis,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56326293945312,
+      514.63916015625,
+      445.1875915527344,
+      534.6587524414062
+    ],
+    "text": "Ehlers, A., Clark, D. M., Hackmann, A., McManus, F. and Fennell, M. (2005). Cognitive therapy for post-traumatic stress disorder: development and evaluation. Behaviour Research and Therapy, 43 ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56324005126953,
+      547.5172119140625,
+      445.22418212890625,
+      578.4901123046875
+    ],
+    "text": "Ginsburg, G. S., Kendall, P. C., Sakolsky, D., Compton, S. N., Piacentini, J., Albano, A. M., et al. (2011). Remission after acute treatment in children and adolescents with anxiety disorders: ﬁndings from the CAMS. Journal of Consulting and Clinical Psychology, 79 , 806–813. doi:",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56327056884766,
+      591.3575439453125,
+      445.1956481933594,
+      622.3304443359375
+    ],
+    "text": "Hodson, K. J., McManus, F. V., Clark, D. M. and Doll, H. (2008). Can Clark and Wells’ (1995) cognitive model of social phobia be applied to young people? Behavioural and Cognitive Psychotherapy, 36 (Special Issue 04), 449–461. doi: 10.1017/S1352465808004487",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56500244140625,
+      74.50535583496094,
+      148.54627990722656,
+      84.46795654296875
+    ],
+    "text": "Ethical standards:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56499481201172,
+      116.34629821777344,
+      151.083740234375,
+      126.30889892578125
+    ],
+    "text": "Conﬂict of interest:",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52847290039062,
+      240.66188049316406,
+      270.3328857421875,
+      249.71910095214844
+    ],
+    "text": "40 , 701–715. doi: 10.1016/S0005-7967(01)00060-2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52935791015625,
+      284.5840759277344,
+      191.3603515625,
+      293.55047607421875
+    ],
+    "text": "10.1017/s1352465813000271",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52932739257812,
+      328.42437744140625,
+      248.39739990234375,
+      337.3907775878906
+    ],
+    "text": "1179–1187. doi: 10.1176/appi.ajp.162.6.1179",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52664947509766,
+      405.05181884765625,
+      267.7065124511719,
+      414.10906982421875
+    ],
+    "text": "of Social Phobia . London: King’s College London.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52667999267578,
+      459.9363708496094,
+      110.66731262207031,
+      468.90277099609375
+    ],
+    "text": "(2003).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      117.84849548339844,
+      459.9363708496094,
+      186.82516479492188,
+      468.90277099609375
+    ],
+    "text": "Cognitive therapy",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      194.00634765625,
+      459.9363708496094,
+      216.77560424804688,
+      468.90277099609375
+    ],
+    "text": "versus",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52581787109375,
+      481.8520202636719,
+      193.09451293945312,
+      490.81842041015625
+    ],
+    "text": "10.1037/0022-006x.71.6.1058",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52581787109375,
+      503.6768798828125,
+      262.9983825683594,
+      512.734130859375
+    ],
+    "text": "assessment, and treatment, 41 (68), 00022–00023.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.52670288085938,
+      536.6456909179688,
+      118.14440155029297,
+      545.6121215820312
+    ],
+    "text": "413–431.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      84.5267333984375,
+      580.4860229492188,
+      151.51019287109375,
+      589.4524536132812
+    ],
+    "text": "10.1037/a0025933",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 16,
+    "bbox": [
+      236.72622680664062,
+      152.21067810058594,
+      282.9836120605469,
+      162.17327880859375
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      223.9532012939453,
+      459.9363708496094,
+      259.6780090332031,
+      468.90277099609375
+    ],
+    "text": "ﬂuoxetine",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      266.857421875,
+      459.9363708496094,
+      322.33258056640625,
+      468.90277099609375
+    ],
+    "text": "in generalized",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      329.5227355957031,
+      459.9363708496094,
+      350.4368591308594,
+      468.90277099609375
+    ],
+    "text": "social",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      357.6099853515625,
+      459.9363708496094,
+      384.5037841796875,
+      468.90277099609375
+    ],
+    "text": "phobia:",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 16,
+    "bbox": [
+      391.6858825683594,
+      459.9363708496094,
+      445.17230224609375,
+      468.90277099609375
+    ],
+    "text": "a randomized",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      156.48300170898438,
+      44.5986213684082,
+      309.32916259765625,
+      54.56121826171875
+    ],
+    "text": "CT-SAD for adolescents: a case series",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59199905395508,
+      75.27589416503906,
+      418.2314147949219,
+      106.24883270263672
+    ],
+    "text": "Hudson, J. L., Keers, R., Roberts, S., Coleman, J. R., Breen, G., Arendt, K., et al. (2015). Clinical predictors of response to cognitive-behavioral therapy in pediatric anxiety disorders: the genes for treatment (GxT) study. Journal of the American Academy of Child and Adolescent Psychiatry, 54 ,",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.592018127441406,
+      119.11628723144531,
+      418.22430419921875,
+      139.1268768310547
+    ],
+    "text": "Ingul, J. M., Aune, T. and Nordahl, H. M. (2014). A randomized controlled trial of individual cognitive therapy, group cognitive behaviour therapy and attentional placebo for adolescent social",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59111022949219,
+      151.9943389892578,
+      418.2145690917969,
+      172.0049285888672
+    ],
+    "text": "Jacobson, N. S. and Truax, P. (1991). Clinical signiﬁcance: a statistical approach to deﬁning meaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59 ,",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.591064453125,
+      184.8723602294922,
+      418.217041015625,
+      226.8075714111328
+    ],
+    "text": "Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R. and Walters, E. E. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of General Psychiatry, 62 , 593–602. doi: 10.1001/archpsyc.62.6.593 Kroenke, K., Spitzer, R. L. and Williams, J. B. (2001). The PHQ-9: validity of a brief",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.591033935546875,
+      250.6283416748047,
+      418.2136535644531,
+      347.35723876953125
+    ],
+    "text": "Mayo-Wilson, E., Dias, S., Mavranezouli, I., Kew, K., Clark, D. M., Ades, A., et al. (2014). Psychological and pharmacological interventions for social anxiety disorder in adults: a systematic review and network meta-analysis. The Lancet Psychiatry, 1 , 368–376. National Institute for Health and Care Excellence (2013). Social Anxiety Disorder: recognition, assessment and treatment of social anxiety disorder . London: Clinical Guideline, No. 159. Rapee, R. M. and Heimberg, R. G. (1997). A cognitive-behavioral model of anxiety in social phobia. Behaviour Research and Therapy, 35 , 741–756. doi: 10.1016/S0005-7967(97)00022-3 Schreiber, F., Hoeﬂing, V., Stangier, U., Bohn, C. and Steil, R. (2012). A cognitive model of social phobia: applicability in a large adolescent sample. International Journal of Cognitive Therapy, 5 ,",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.590187072753906,
+      360.2156677246094,
+      418.2296447753906,
+      380.2352294921875
+    ],
+    "text": "Schreiber, F. and Steil, R. (2013). Haunting self-images? The role of negative self-images in adolescent social anxiety disorder. Journal of Behaviour Therapy and Experimental Psychiatry, 44 , 158–164.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.58930206298828,
+      393.0936584472656,
+      418.1966552734375,
+      413.11322021484375
+    ],
+    "text": "Silverman, W. K. and Albano, A. M. (1996). The Anxiety Disorders Interview Schedule for DSM-IV: Child and Parent Versions . San Antonio, TX: Graywind Publications, a Division of The Psychological",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.58837890625,
+      425.9716491699219,
+      418.21356201171875,
+      478.86920166015625
+    ],
+    "text": "Smith, P., Yule, W., Perrin, S., Tranah, T., Dalgleish, T. and Clark, D. M. (2007). Cognitivebehavioral therapy for PTSD in children and adolescents: a preliminary randomized controlled trial. Journal of the American Academy of Child and Adolescent Psychiatry, 46 , 1051–1061. Spitzer, R. L., Kroenke, K., Williams, J. B. and Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166 , 1092–1097. doi:",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.58832550048828,
+      491.7276611328125,
+      418.224365234375,
+      533.6629028320312
+    ],
+    "text": "Van Ameringen, M., Mancini, C. and Farvolden, P. (2003). The impact of anxiety disorders on educational achievement. Journal of Anxiety Disorders, 17 , 561–571 Wild, J. and Clark, D. M. (2011). Imagery rescripting of early traumatic memories in social phobia. Cognitive and Behavioral Practice, 18 , 433–443. doi: 10.1016/j.cbpra.2011.03.002",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.55548095703125,
+      108.2447738647461,
+      91.1731948852539,
+      117.21117401123047
+    ],
+    "text": "454–463.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.5545654296875,
+      141.03199768066406,
+      257.1286926269531,
+      150.08921813964844
+    ],
+    "text": "phobia. Psychotherapy and Psychosomatics, 83 , 54–61.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.5545654296875,
+      174.00086975097656,
+      68.76077270507812,
+      182.96726989746094
+    ],
+    "text": "12.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      178.5175323486328,
+      228.70372009277344,
+      206.17974853515625,
+      237.6701202392578
+    ],
+    "text": "Journal",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      213.66848754882812,
+      228.70372009277344,
+      220.64344787597656,
+      237.6701202392578
+    ],
+    "text": "of",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.553619384765625,
+      228.79454040527344,
+      95.90290832519531,
+      237.7609405517578
+    ],
+    "text": "depression",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      103.38985443115234,
+      228.79454040527344,
+      131.41073608398438,
+      237.7609405517578
+    ],
+    "text": "severity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      138.89767456054688,
+      228.79454040527344,
+      171.01531982421875,
+      237.7609405517578
+    ],
+    "text": "measure.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.55450439453125,
+      239.75685119628906,
+      202.23178100585938,
+      248.72325134277344
+    ],
+    "text": "10.1046/j.1525-1497.2001.016009606.x",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.55364990234375,
+      349.3531494140625,
+      91.1713638305664,
+      358.3195495605469
+    ],
+    "text": "341–358.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.552764892578125,
+      382.23114013671875,
+      175.0941619873047,
+      391.1975402832031
+    ],
+    "text": "doi: 10.1016/j.jbtep.2012.10.003",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.55186462402344,
+      415.109130859375,
+      103.1280746459961,
+      424.0755310058594
+    ],
+    "text": "Corporation.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      57.551788330078125,
+      480.8561706542969,
+      165.11537170410156,
+      489.82257080078125
+    ],
+    "text": "10.1001/archinte.166.10.1092",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 17,
+    "bbox": [
+      228.13218688964844,
+      228.70372009277344,
+      257.379638671875,
+      237.6701202392578
+    ],
+    "text": "General",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      264.8773498535156,
+      228.70372009277344,
+      293.76080322265625,
+      237.6701202392578
+    ],
+    "text": "Internal",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      301.2495422363281,
+      228.70372009277344,
+      336.755615234375,
+      237.6701202392578
+    ],
+    "text": "Medicine,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      344.2524108886719,
+      228.70372009277344,
+      396.7668762207031,
+      237.7609405517578
+    ],
+    "text": "16 , 606–613.",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 17,
+    "bbox": [
+      404.263671875,
+      228.79454040527344,
+      418.2126770019531,
+      237.7609405517578
+    ],
+    "text": "doi:",
+    "line_count": 1,
+    "column": 2
+  }
+]

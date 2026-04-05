@@ -1,0 +1,1302 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      106.80940246582031,
+      152.81353759765625,
+      514.825439453125,
+      214.6279296875
+    ],
+    "text": "Cognitive-Behavior Therapy for Disaster-Exposed Youth\nWith Posttraumatic Stress: Results From a\nMultiple-Baseline Examination"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      252.8502960205078,
+      231.0410919189453,
+      368.78778076171875,
+      274.5975036621094
+    ],
+    "text": "Leslie K. Taylor\nCarl F. Weems\nUniversity of New Orleans"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      71.71563720703125,
+      339.3182067871094,
+      298.91278076171875,
+      575.3919677734375
+    ],
+    "text": "Youth traumatized by natural disasters report high levels of\nposttraumatic stress such as symptoms of posttraumatic\nstress disorder, other anxiety disorders, and depression.\nResearch suggests that cognitive behavioral therapies are\npromising interventions for symptom reduction; however,\nfew cognitive behavioral treatments have been systemati-\ncally tested in youth hurricane survivors. The current study\nprovides an examination of the efficacy of an intervention\nmanual designed specifically for hurricane-exposed youth\n(i.e., the StArT manual) using a partially nonconcurrent\nmultiple baseline design. Youth ages 8–13 (n=6) who met\ndiagnostic criteria for posttraumatic stress disorder were\nprovided the individual StArT treatment in their school.\nYouth were assessed at pretreatment, weekly during\ntreatment, and at posttreatment. Results provide initial\nevidence for the efficacy of the StArT manual and suggest\nthe feasibility of conducting the StArT manual in a school\nsetting. The importance of large-scale tests of effectiveness\nand implementation of cognitive behavioral treatments in\nthe wake of disaster among youth are discussed."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      322.80657958984375,
+      328.019287109375,
+      549.989990234375,
+      732.9374389648438
+    ],
+    "text": "A SUBSTANTIAL PORTION OF youth are exposed to\ntraumatic events (Costello, Erkanalli, Fairbank, &\nAngold, 2002) such as abuse (Ackerman, Newton,\nMcPherson, Jones, & Dykman, 1998), violence\n(Stein, Jaycox, Kataoka, Rhodes, & Vestal, 2003),\nand disasters (La Greca, Silverman, Vernberg, &\nRoberts, 2002; Weems & Overstreet, 2008). This is\nconcerning given that youth exposed to traumatic\nstress can suffer from an array of impairing emotional\nand behavioral problems. Youth responses to trauma\ninclude the development of posttraumatic stress\ndisorder (PTSD), which is characterized by high levels\nof negative reexperiencing, hyperarousal, emotional\nnumbing, and avoidance (DSM-IV–TR; American\nPsychiatric Association, 2000), other anxiety disor-\nders, and depression. In terms of long-lasting effects,\nthe experience of childhood trauma increases the\nvulnerability for developing substance abuse pro-\nblems (Copeland, Keeler, Angold, & Costello, 2007),\nchronic PTSD (Widom, 1999), other anxiety dis-\norders (e.g., generalized anxiety disorder [GAD],\nsocial anxiety disorder; Copeland et al., 2007),\ndepression (Bolton et al., 2004; Copeland et al.,\n2007), and disruptive behavior disorders (Copeland\net al., 2007). Further, adults with childhood trauma\nhistories evidence decreased likelihood for obtaining\nsuccessful employment or graduating from high\nschool (McGloin & Widom, 2001).\nGiven the potential lasting impact of trauma\n(Weems et al., 2010), effective interventions are\nparamount for promoting positive adjustment in\ntraumatized youth. Cognitive behavioral therapies\n(CBTs) have garnered positive empirical support\n(e.g., Chemtob, Nakashima, & Hamada, 2002;"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      216.06539916992188,
+      34.81775665283203,
+      385.1943359375,
+      43.84112548828125
+    ],
+    "text": "Available online at www.sciencedirect.com"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      234.48179626464844,
+      88.13116455078125,
+      367.5856628417969,
+      96.33918762207031
+    ],
+    "text": "Behavior Therapy 42 (2011) 349–363"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      456.7179870605469,
+      95.79568481445312,
+      549.9326782226562,
+      103.76588439941406
+    ],
+    "text": "www.elsevier.com/locate/bt"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      71.71510314941406,
+      640.8999633789062,
+      298.92706298828125,
+      702.6730346679688
+    ],
+    "text": "The authors thank Andre Perry, Vera Triplett, and the school\ncounselors of the University of New Orleans charter school network\nfor their facilitation of this study and the New Orleans Institute of\nMental Hygiene for their support of our intervention project.\nAddress correspondence to Leslie K. Taylor or Carl F. Weems,\nDepartment of Psychology, University of New Orleans, New Orleans,\nLA 70148; e-mail: taylorlk@mailbox.sc.edu or cweems@uno.edu."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      71.71649932861328,
+      706.200439453125,
+      298.8558654785156,
+      731.3545532226562
+    ],
+    "text": "0005-7894/11/349–363/$1.00/0\n© 2011 Association for Behavioral and Cognitive Therapies. Published by\nElsevier Ltd. All rights reserved."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      62.07771301269531,
+      64.96420288085938,
+      289.31866455078125,
+      732.9290161132812
+    ],
+    "text": "King et al., 2000; Stein, Jaycox, Kataoka, Wong,\net al., 2003; see Silverman et al., 2008, for review\nand meta-analysis), are typically exposure based,\nand include various additional specific techniques\nsuch as psychoeducation, cognitive coping strate-\ngies, and relapse prevention (see Silverman et al.,\n2008). CBTs have been shown to result in the\nreduction of posttraumatic stress levels in youth\nexposed to several different types of traumas (e.g.,\ndisaster: Chemtob et al., 2002; abuse: King et al.,\n2000;\ncommunity\nviolence:\nStein,\nJaycox,\nKataoka, Wong, et al., 2003) and are considered\nto be an efficacious treatment for traumatized\nyouth (Silverman et al., 2008).\nDespite promising evidence, the odds are against\nmany traumatized youth in terms of receiving an\neffective intervention. The mental health needs of\nmany children and adolescents, particularly those\nwho are uninsured or from low-income families,\noften go untreated (Kataoka, Zhang, & Wells,\n2002). Youth may also encounter additional\nbarriers to receiving treatment in traditional set-\ntings, such as lack of transportation, stigma, or\nchild care (Stephan, Weist, Kataoka, Adelsheim, &\nMills, 2007). School-based implementation of CBT\ncan provide youth greater accessibility to treatment\nthan traditional settings (Evans, 1999), have been\nshown to reduce stigma associated with seeking\nhelp (Nabors, Weist, & Reynolds, 2000), offer\nenhanced opportunities for generalization and\nmaintenance of treatment goals (Evans, 1999),\nand allow interventionists to reach large numbers\nof at-risk youth (Levitt, Saka, Hunter-Romanelli, &\nHoagwood, 2007). Given these potentials, there\nhas been growing interest in offering CBT in school,\nparticularly for youth exposed to natural disaster-\nrelated traumatic stress (e.g., Chemtob et al., 2002;\nSalloum & Overstreet, 2008).\nResearch suggests that youth exposed to hurri-\ncane-related traumatic stress can develop high levels\nof emotional distress (e.g., La Greca, Silverman,\nVernberg, & Prinstein, 1996; Lonigan, Shannon,\nTaylor, Finch, & Sallee, 1994). The research to date\nfor disaster-exposed youth indicate reductions in\nyouths' posttraumatic stress symptoms from pre- to\nposttreatment, as well as maintenance of treatment\ngains at follow-up (Chemtob et al., 2002; Salloum &\nOverstreet, 2008). To date, however, relatively few\nstudies have investigated the efficacy of school-based\ntreatments for youth exposed to natural disasters\n(compared to other types of traumas) and most have\ntaken place in the relatively recent aftermath of the\ndisaster (e.g., earthquakes: Goenjian et al., 2005;\nhurricanes: Chemtob et al., 2002; Salloum &\nOverstreet, 2008; tsunami: Catani et al., 2009).\nIndeed, few treatment manuals exist and no"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      313.11358642578125,
+      64.94320678710938,
+      540.37890625,
+      732.9368286132812
+    ],
+    "text": "treatments for hurricane-exposed youth have\nundergone an idiographic test of efficacy (see\nSilverman et al., 2008; Taylor & Chemtob, 2004).\nThe StArT manual (Saltzman et al., 2007) is a\ntreatment manual for hurricane-exposed youth that\nwas developed by a group sponsored by the National\nChild Traumatic Stress Network (NCTSN) of the\nNational Center for PTSD (2006; Allen, Saltzman,\nBrymer, Oshri, & Silverman, 2006). StArT is a\nhurricane trauma-focused CBT that has multiple\nempirically supported components or modules.\nWhile the components are empirically based, no\nstudies have specifically tested the StArT manual\n(Allen et al., 2006). Efficacy evaluation of the StArT\nmanual (Allen et al., 2006; Saltzman et al., 2007) has\nthe potential to make an important contribution to\nthe disasters intervention database. Youth exposed\nto Hurricane Katrina-related traumatic stress, for\nexample, have been shown to be at risk for long-term\nemotional problems (Weems et al., 2010). Hurricane-\naffected areas often remain in clear need of mental\nhealth services for many years following the disaster\n(Drury, Scheeringa, & Zeanah, 2008; Weems, 2010),\nand in particular youth exposed to Hurricane\nKatrina, perhaps because contextual factors (e.g.,\ndamage and disrepair) contribute to PTSD symptom\nstability (Weems et al., 2010). Thus, initial support\nfor the StArT manual may foster wider application\nand empirical tests of the intervention following\nfuture disasters.\nIn this study, the goal was also to answer the call\nfor the increased use of idiographic strategies in\nintervention research (Barlow & Nock, 2009) to\nprovide initial support for the StArT manual. While\nextant research with disaster-exposed youth in\nschool settings shows promise, these intervention\nstudies have investigated symptom reduction\nthrough nomothetic designs (e.g., Chemtob et al.,\n2002; Salloum & Overstreet, 2008). A limitation of\ngroup comparison studies is the difficulty in\nidentifying individual variation in treatment-related\nsymptom change and individual variation in\nresponse to treatment components (Barlow &\nNock, 2009; Kazdin, 2008). The use of multiple\nbaseline (MBL) designs, for example, can help\nidentify the pattern of symptom reduction across\ntreatment sessions to isolate individual differences\nin treatment response (Kazdin, 2003) and have\nprovided critical evidence of intervention efficacy\nin the child anxiety disorders (e.g., Lumpkin,\nSilverman, Weems, Markham, & Kurtines, 2002;\nOllendick, 1995) and PTSD treatment literature\n(e.g., Feather & Ronan, 2006; Saigh, 1987).\nIn summary, the aim of this study was to provide\nan initial evaluation of the efficacy of the StArT\nmanual for reducing PTSD symptoms. A partially"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "350\nta yl o r & we e ms"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.71649932861328,
+      519.1878051757812,
+      298.992919921875,
+      732.88623046875
+    ],
+    "text": "nonconcurrent MBL was used to identify individual-\nand session- (and/or manual module) level change in\nPTSD symptoms. PTSD symptoms were expected to\nshow relative stability over baseline, with reductions\nat the implementation of therapy and over the course\nof treatment in a manner similar to previous MBL\ndesigns with PTSD (e.g., Feather & Ronan, 2006;\nSaigh, 1987) in particular, and similar to previous\nMBL designs with childhood anxiety disorders\n(e.g., Lumpkin et al., 2002; Ollendick, 1995) in\ngeneral. In addition to examining individual PTSD\nsymptom trajectories over the course of treatment,\nindividual- and group-level changes in related\nsymptoms and problems (e.g., cognitive errors,\nanxiety control, anxious and depressive symptoms)\nwere examined using multitrait (anxiety symptoms,\ncognitive errors) and multi-informant (child and\nparent clinical interviews) data collection. It was"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      322.8099365234375,
+      64.95693969726562,
+      549.9544677734375,
+      87.37943267822266
+    ],
+    "text": "hypothesized that the intervention would improve\nsymptom levels and reduce diagnoses/impairment."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      322.80938720703125,
+      107.90406799316406,
+      549.9758911132812,
+      613.3696899414062
+    ],
+    "text": "Method\nparticipants\nAll participants were exposed to Hurricane Katrina\nand/or its aftermath and were students at public\nschools in New Orleans. These schools are located\nin neighborhoods that received massive hurricane\ndamage, almost total flooding, and continue to\nhave a significant amount of disrepair. Youth\nattending are predominantly from low-income\nfamilies (school data indicate that 97% of the\nstudents receive free lunch, 2% are on a reduced\npayment, and 1% pay for lunch). Through\ncollaboration with these schools, the University of\nNew Orleans Youth and Family Anxiety, Stress,\nand Phobia Laboratory provided school-based\nscreenings to students as an adjunct to traditional\nschool counseling. Youth recruited for this inter-\nvention project reported total scores on the\nPosttraumatic Stress Disorder Reaction Index (RI)\nin the severe to very severe range (see Measures\nsection for a description of RI cutoff scores) at a\nschoolwide screening assessment and the school\ncounselors provided parent contact information\n(n=21). Of these, 15 families were able to be\nreached by the contact information and 13 con-\nsented to a diagnostic evaluation. Seven of these 13\nyouth met inclusion criteria for this study (i.e., met\nPTSD diagnosis upon diagnostic evaluation, see\nbelow). The StArT intervention was implemented\nwith four youth in spring 2009 and three youth in\nfall 2009. One child left treatment after the first\nsession (fall 2009) and was not included in this\nstudy. The family decided they did not want to\nparticipate and referral information was provided\nto the family. To maintain anonymity and for\nconvenience of description, common first names\nwere assigned to each participant. A brief descrip-\ntion of the child exposure experiences and present-\ning problems are provided below. Child report of\npretreatment clinical diagnoses and their severity\nare presented in Table 1; pretreatment posttrau-\nmatic stress symptom levels are shown in Figure 1."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      321.7894592285156,
+      626.8336791992188,
+      549.9691772460938,
+      732.9466552734375
+    ],
+    "text": "Detailed Child and Family Characteristics\nJennifer.\nJennifer is a 13-year-old African\nAmerican girl who resides with her mother,\nstepfather, and four younger siblings. She evacuat-\ned New Orleans with her mother and extended\nfamily, leaving her pets behind. The family reports a\nprolonged evacuation experience that included\nencountering several hours of traffic upon leaving\nthe city. Once 200 miles outside the city, the family"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.71649932861328,
+      64.93551635742188,
+      193.32501220703125,
+      83.8471908569336
+    ],
+    "text": "Table 1\nPre- and Posttreatment ADIS Data"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.71649932861328,
+      90.33334350585938,
+      272.3590393066406,
+      98.30355072021484
+    ],
+    "text": "Child\nPretreatment\nPosttreatment"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      126.08522033691406,
+      104.79049682617188,
+      298.91265869140625,
+      112.76070404052734
+    ],
+    "text": "Diagnosis\nCSR\nDiagnosis\nCSR"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.7160873413086,
+      118.48344421386719,
+      295.3423767089844,
+      446.0017395019531
+    ],
+    "text": "Jennifer\nOCDa\n7\nNone\nN/A\nSPb\n7\nGADc\n6\nPTSDd\n4\nSADe\n4\nJohn\nPTSDd\n8\nNone\nN/A\nGADc\n8\nDysthymia\n8\nOCDa\n6\nADHDf\n4\nMichael\nSADe\n7\nSPb\n7\nSPb\n7\nSocialg\n4\nGADc\n7\nPTSDd\n4\nADHDf\n4\nSarah\nPTSDd\n7\nSPb\n7\nGADc\n7\nDysthymia\n5\nDysthymia\n7\nGADc\n4\nADHDf\n7\nElizabeth\nSRh\n8\nGADc\n8\nADHDf\n8\nADHDf\n8\nGADc\n7\nSocialg\n4\nSocialg\n7\nSADe\n5\nPTSDd\n4\nKelly\nDysthymia\n8\nNone\nN/A\nSADe\n6\nSPb\n6\nGADc\n6\nPTSDd\n4"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      71.54640197753906,
+      450.61932373046875,
+      298.9309387207031,
+      490.3355712890625
+    ],
+    "text": "Note.\naObsessive compulsive disorder;\nbSpecific phobia;\ncGeneralized anxiety disorder; dPosttraumatic stress disorder;\neSeparation anxiety disorder; fAttention-hyperactivity deficit disor-\nder; gSocial phobia; hSchool refusal diagnosis."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "351\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      62.07870101928711,
+      64.96420288085938,
+      289.2307434082031,
+      159.10098266601562
+    ],
+    "text": "sought accommodations at restaurants and hotels,\nand reported that they were denied services due to\ndiscrimination. In addition to these stressful evac-\nuation experiences, Jennifer reported missing pos-\nsessions lost due to the hurricane, and her cats that\nwere left behind. The family also moved and so she\nlost contact with friends from her old school. She\nreceived treatment during spring 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      62.07897186279297,
+      172.56735229492188,
+      289.2403564453125,
+      362.3421936035156
+    ],
+    "text": "John.\nJohn is a 9-year-old African American\nboy. He and his younger sister reside with his\ncousin, who is their legal guardian. John and his\nsister were removed from their mother's custody\ndue to neglect. He came into his cousin's custody\nthe year of Hurricane Katrina. He, his sister, and his\ncousin did not evacuate for the storm. According to\nJohn, he witnessed rising floodwaters and saw\nsomeone drown during the storm. The family's\nhome flooded, but they managed to escape to one of\nthe interstate bridges and were rescued by helicop-\nter. They have since rebuilt their home. At the initial\ninterview, John reported having bad dreams about\nthe hurricane, frequently worrying about his\ncousin's welfare, or about his own personal safety.\nHe received treatment during spring 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      62.078922271728516,
+      375.8113708496094,
+      289.24658203125,
+      553.6246337890625
+    ],
+    "text": "Michael.\nMichael is an 8-year-old African\nAmerican boy residing with his mother and older\nbrother. Though the family was able to evacuate for\nthe hurricane, their home was severely damaged\nand their possessions were destroyed. He reports\ndisturbing memories of hurricane-related television\ncoverage and from seeing the city for the first time\nafter the storm. When his family returned to assess\nhome damages after the storm, he saw the decom-\nposed remains of his grandmother's dog. At the\ninitial interview, his mother indicated that Michael\nwas fearful of and worrisome during separation\nfrom her, and that these symptoms have worsened\nsince her recent divorce from Michael's father. He\nreceived treatment during spring 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      62.07867431640625,
+      567.0933227539062,
+      289.2484436035156,
+      732.9445190429688
+    ],
+    "text": "Sarah.\nSarah is a 12-year-old African American\ngirl who resides with her older sister and her legal\nguardians (her paternal aunt and uncle; her mother\npassed away when Sarah was 5, and she and her\nsiblings have been in their custody since then). She\nevacuated with her sister and her aunt prior to the\nhurricane. They left behind most of their possessions\nand pets. Her uncle left a day later than the rest of\nthe family. He could not be reached for 4 days after\nthe storm and family members were unsure of his\nwhereabouts. While Sarah's guardian reports that\nshe and her siblings handled the evacuation “well,”\nSarah reports being very upset by news coverage of\nthe storm and reports continued grief over lost"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      313.11456298828125,
+      64.95870971679688,
+      540.2800903320312,
+      99.3429946899414
+    ],
+    "text": "possessions. The family home took in 4 feet of water\nand rebuilding began upon their return to the city.\nShe received treatment during fall 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      313.11468505859375,
+      112.81295776367188,
+      540.2947387695312,
+      290.6258544921875
+    ],
+    "text": "Elizabeth.\nElizabeth is a 9-year-old African\nAmerican girl who resides with her mother and\nolder half sister. Before the hurricane made landfall,\nshe and her family evacuated to the northern part of\nthe state and remained there for a month before\nmoving back to the greater New Orleans area.\nWithin 2 months of the storm, Elizabeth's father\npassed away. According to her mother, Elizabeth\nfrequently complained of heart attack-like symp-\ntoms and other types of somatic symptoms (i.e.,\nstomachaches and headaches), and repeatedly\nvisited the emergency room for these symptoms\nduring this time. She continued to report somatic\ncomplaints as well as difficulty sleeping at the initial\ninterview. She received treatment during fall 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      313.1146545410156,
+      304.0948791503906,
+      540.3062133789062,
+      541.6607666015625
+    ],
+    "text": "Kelly.\nKelly is an 8-year-old African American\ngirl who resides with her mother. Their family\nevacuated New Orleans with a car full of their\nbelongings before hurricane landfall. The remain-\ning possessions, including the child's fish, were\ndestroyed during the storm. Kelly experienced\nprolonged evacuation from the city. She and her\nrelatives did not return to the city until 9 months\nafter the storm. During the evacuation period, she\nreported being lonely, not having many friends at\nher new school, and missing friends from her old\nschool. At the initial interview, she became tearful\nwhen talking about Katrina, and reported worrying\nthat her grandmother would lose her home again\nwhen Hurricane Gustav came in 2008. During the\ninitial interview, Kelly indicated worries relative to\nher family's safety, and stated that the sight of\nhomes still in disrepair made it difficult for her to\nstop thinking about Hurricane Katrina. She re-\nceived treatment during spring 2009."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      313.11383056640625,
+      550.4848022460938,
+      540.3140869140625,
+      732.9445190429688
+    ],
+    "text": "measures\nThe Anxiety Disorders Interview Schedule for\nDSM-IV—child and parent versions (ADIS-IV;\nSilverman & Albano, 1996) was administered in\nfull to children and in part to their parents to\ndetermine diagnosis and as part of posttreatment\nassessment. The ADIS-IV is a semistructured inter-\nview designed for youth ages 7 to 17. The ADIS-IV\nprovides assessment of childhood anxiety disorders,\naffective disorders (i.e., dysthmia, major depressive\ndisorder), and externalizing disorders (i.e., atten-\ntion-deficit hyperactivity disorder [ADHD], con-\nduct disorder, oppositional defiant disorder), as well\nas sections for the assessment of other symptoms\nand impairment commonly experienced in"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "352\nta yl o r & we e ms"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.71437072753906,
+      64.96420288085938,
+      298.9112854003906,
+      732.9290161132812
+    ],
+    "text": "childhood (i.e., school refusal behavior, psychosis,\nselective mutism, eating disorders, and somatoform\ndisorders). Items on the ADIS PTSD scale include\ninquiry about specific types of potentially traumatic\nevents experienced (e.g., car accidents, fires, abuse,\nnatural disasters) followed by a series of DSM-based\nquestions regarding the types of PTSD symptoms\nexperiences relative to trauma. For this study, youth\nprovided self-reported trauma history, and were\nqueried about posttraumatic stress symptoms\nrelated to Hurricane Katrina.\nThe parent and child versions of the ADIS-IV\nhave been evaluated for test–retest reliability. For\nthe child version, intraclass coefficients (ICCs) were\nreported in the excellent range (ICC=0.85–0.92)\nfor children ages 7 to 11 and for youth ages 12 to 16\n(ICC=0.81–0.99; Silverman, Saavedra, & Pina,\n2001). For the parent version, reliability estimates\nhave been reported in the excellent range for the\nyounger group (ICC=0.86–0.99), and in the good-\nto-excellent range for the older group (ICC=0.52–\n0.94; Silverman et al., 2001). Parent and child\ninterview schedules are sensitive to treatment effects\n(Kendall, 1994; Silverman, Kurtines, Ginsburg,\nWeems, Lumpkin, et al., 1999). At pretreatment,\nthe therapist (the first author) conducted the ADIS-\nIV with children at their schools.\nBecause a goal was to increase participation and\nconducting an ADIS-IV with parents would be\ndifficult in a school setting (e.g., scheduling;\nadministration of the parent version can take a\ncouple of hours) only the PTSD scale was admin-\nistered to parents and was conducted over the\nphone. ADIS-IV PTSD scale information obtained\nfrom children and their parents was used to assign a\nclinical severity rating (CSR) for PTSD diagnoses.\nCSRs range from 0 to 8, and ratings of 4 or greater\nare indicative of clinical diagnosis. Thus, youth and\nparents reporting CSRs of 4 or greater on the PTSD\nscale were included in this study. Because parents\nwere not administered the entire ADIS, the parent\nreport could not be used when assigning CSRs for\ndiagnoses other than PTSD. CSRs were assigned to\nnon-PTSD diagnoses based on child report only. To\nlimit the influence of demand characteristics on\nresponses to interview items, children's pre- and\nposttreatment interviews were not conducted by the\nsame interviewer and the postinterview was not\nconducted by the therapist. Though interviewers\nwere aware that youth had been exposed to\nHurricane Katrina, they were blind to children's\npretreatment diagnoses. ADIS-IV interviews were\nconducted by master's-level graduate students with\nexperience in clinical interviewing. All interviewers\nhad completed at least two graduate-level courses in\npsychological assessment. Diagnosticians were"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      322.80780029296875,
+      64.94320678710938,
+      549.9722290039062,
+      266.6796569824219
+    ],
+    "text": "trained by observing videotaped interviews and\nwere required to arrive at 100% agreement on at\nleast two observed interviews before conducting an\nADIS on their own.\nYouth reporting high CSRs for non-PTSD\ndiagnoses, but not for PTSD, were excluded from\nthis study; however, their families were provided\nwith referral information. Further, children taking\nmedications were not excluded from this study.\nJohn's guardian reported that he was on medication\nfor encopresis (he began the medication in January\n2009) and according to her mother, Elizabeth has\nbeen taking a mood stabilizer since age 7. Thus,\nneither started medication soon before or during\nthe intervention. None of the six participants in this\nsample was receiving concurrent psychosocial\ntreatments during the StArT manual."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      321.78680419921875,
+      280.1436462402344,
+      549.996826171875,
+      732.94287109375
+    ],
+    "text": "Assessment of Posttraumatic Stress Symptoms\nPTSD symptoms were measured through the\nReaction Index for Children (PTSD-RI; Frederick,\nPynoos, & Nadar, 1992). The RI was developed\nas an interview for the diagnosis of PTSD, has\nbeen adapted into a self-report questionnaire\n(Frederick et al., 1992), and strong test–retest\nreliability estimates of the RI have been reported\nin disaster survivors (r=.93, pb.05; Goenjian et\nal., 2001). Similar to previous research (Vernberg,\nLaGreca, Silverman, & Prinstein, 1996) the RI\nused for this study contains 20 items, with answer\nchoices modified for ease of administration from\nthe original five options to three options: 0 (none\nof the time), 2 (some of the time), and 4 (most of\nthe time). Total RI scores thus range from 0 to\n80. Classification of severity of symptoms were\nbased on the groups developed by Frederick et al.\n(1992), which includes the categories: doubtful\n(score of 0–11), mild (12–24), moderate (25–39),\nsevere (40–59), and very severe (60–80). The RI\nappears sensitive to treatment effects in samples of\nyouth hurricane survivors (Salloum & Overstreet,\n2008). Youth were administered the PTSD-RI as\npart of the pretreatment screening assessment,\nweekly at the baseline assessments, weekly during\ntreatment, and at the posttreatment assessment.\nThe parent report assessment also included the\nDiagnostic Interview Schedule for Children-Predictive\nScales (DISC-PS; Lucas et al., 2001). The DISC-PS\nwas used to minimize parent burden and was\nconducted during the parent phone interview to\nmeasure and identify parent reporting of other\nanxious and depressive symptoms in their children\n(i.e., simple phobia, social phobia, agoraphobia,\npanic disorder, GAD, obsessive-compulsive disor-\nder, and major depressive disorder) and other types\nof psychopathology (i.e., schizophrenia, ADHD,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "353\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      62.07868957519531,
+      64.96420288085938,
+      289.2474670410156,
+      505.8240966796875
+    ],
+    "text": "oppositional defiant disorder, conduct disorder, and\nsubstance use). Parents responded to DISC-PS items\nby choosing 0 (no) or 1 (yes). Findings comparing\nthe DISC-PS to the full Diagnostic Interview\nSchedule for Children indicate excellent specificity\nand sensitivity of the predictive scales (Lucas et al.,\n2001). DISC-PS parent scales evidence good test–\nrest reliability (parent report of children's anxious\nsymptoms, α=.86–.89 and depressive symptoms,\nα=.78–.82; Lucas et al., 2001). The total number of\nDISC-PS items measuring anxious symptoms was\nsummed separately to derive total and anxiety\nscores at pre- and posttreatment.\nYouth reporting additional diagnoses, and/or\nwho did not report PTSD as their primary\ndiagnoses were not excluded from this study.\nGiven research suggesting that youth trauma\nsurvivors typically present with a constellation of\nemotional problems (Bolton, O'Ryan, Udwin,\nBoyle, & Yule, 2000; Cortes et al., 2005; Kiser,\nHeston, Millsap, & Pruitt, 1991; Ruchkin, Schwab-\nStone, Koposov, Vermeiren, & Steiner, 2002; Yule\net al., 2000), it was decided to include youth with\nmultiple diagnoses. Further, there is a gap between\nintervention research and its application in prac-\ntical settings, in part because clinicians do not feel\nthat results from treatment studies generalize to\ntheir clients (Barlow & Nock, 2009). We thought\nthat youth with multiple diagnoses might be more\nexemplary of what would be seen in applied or\nschool settings postdisaster, and we wanted our\nfindings to reflect the treatment process in this\ntype of client. However, referral for additional\nproblems was considered when staffing the child\nwith school counselors, and for youth still meeting\ncriteria for other problems after completion of the\nStArT manual appropriate referral was made."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      61.05877685546875,
+      519.2315673828125,
+      289.24114990234375,
+      732.9300537109375
+    ],
+    "text": "Additional Treatment Outcome Measures\nChanges in factors associated with anxiety disorders\nsuch as negative cognitions (i.e., cognitive errors,\ncontrol beliefs) and anxiety sensitivity were also\nassessed at pre- and posttreatment. Administration\nof the Childhood Anxiety Sensitivity Index (CASI;\nSilverman, Fleisig, Rabian, & Peterson, 1991)\noccurred at pre- and posttreatment. The CASI is\nan 18-item measure designed to assess children's\nfear of different symptoms of anxiety. The CASI\nevidences good test–retest reliability estimates in\npredominately Caucasian and African American\nyouth (e.g., rs in the=.75 to .8 range; Ginsburg &\nDrake, 2002; Silverman et al., 1991) and is sensitive\nto treatment effects in anxiety-disordered youth\n(Ollendick, 1995). The Children's Negative Cogni-\ntive Error Questionnaire (CNCEQ; Leitenberg,\nYost, & Carroll-Wilson, 1986) assessed cognitive"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      313.1166687011719,
+      64.94424438476562,
+      540.359619140625,
+      350.35693359375
+    ],
+    "text": "errors pre- and posttreatment. The CNCEQ is a\n24-item questionnaire with items composed of\nhypothetical vignettes and a negative interpretation.\nIndividuals indicate how closely the interpretation\ndescribed coincides with their own. Good reliability\nand internal consistency estimates, α=.71–.60\n(Leitenberg et al., 1986; Thurber, Crow, Thurber,\n& Woffington, 1990), as well as sensitivity to\ntreatment effects in anxiety-disordered youth\n(Silverman, Kurtines, Ginsburg, Weems, Rabian,\net al., 1999), have been found.\nChildren's control beliefs were measured pre- and\nposttreatment using the short form of the Anxiety\nControl Questionnaire for Children (ACQ-C;\nWeems, Silverman, Rapee, & Pina, 2003). Items\non the ACQ-C measure perceived lack of control\nover anxiety-related events. Findings suggest that the\nACQ-C is sensitive to treatment effects in anxiety-\ndisordered youth (Muris, Mayer, den Adel, Roos, &\nvan Wamelen, 2009) and the short version evidences\na pattern of test–retest correlations similar to that of\nthe full form (1-year test–retest reliability, r=.58),\nand has good internal consistency estimates, α=.85\n(Taylor, Costa, Cannon, Adams, & Weems, 2006)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      312.154296875,
+      363.8208923339844,
+      540.3023071289062,
+      541.6631469726562
+    ],
+    "text": "Clinically Significant Change\nEvidence of clinically significant change has typi-\ncally been assessed through showing real-life\nchange in functioning (e.g., return to attending\nschool/work regularly, improvement in school\ngrades, no longer behaviorally avoiding feared\nobject) or through reduction in symptoms from\nnon-normative to normative levels at the end of\ntherapy (Kendall & Norton-Ford, 1982; Nietzel &\nTrull 1988). For this study, clinically significant\nchange was indexed by no longer meeting diagnos-\ntic criteria for PTSD on the ADIS-C/P PTSD\ninterview and by reduction of PTSD symptoms on\nRI into normative range at posttreatment assess-\nment (i.e., an RI score in the doubtful range (0–11)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      313.1148986816406,
+      550.4848022460938,
+      540.2992553710938,
+      732.9445190429688
+    ],
+    "text": "procedures\nThis project received approval from the Institutional\nReview Board at the University of New Orleans. In\norder for youth to participate in treatment, parents\nprovided consent for their children's participation in\ntreatment; youth were asked to provide their assent.\nThe lead investigator obtained consent, and admin-\nistered the PTSD scale of the ADIS-IV and DISC\nPredictive Scales to parents through phone contact.\nAfter consent and assent were obtained, youth\npretreatment assessment sessions were scheduled.\nPre- and posttreatment assessment was conducted\nby a master's-level graduate student and included\nthe ADIS-IV and other pretreatment measures (the\nCASI, CNCEQ, ACQ-C)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "354\nta yl o r & we e ms"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      71.7160415649414,
+      64.96420288085938,
+      298.9014892578125,
+      123.2720718383789
+    ],
+    "text": "Weekly treatment sessions occurred in a desig-\nnated room and were conducted by a doctoral-level\ngraduate student (the first author) with experience\nin clinical interviewing, assessment, and therapy\nwith youth."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      71.71647644042969,
+      132.0345458984375,
+      298.9114074707031,
+      410.1885681152344
+    ],
+    "text": "treatment overview\nThe StArT treatment protocol is a manual-based 10-\nsession (each lasting approximately an hour)\nintervention designed for traumatized youth and\nconsisting of five main components described below\n(Saltzman et al., 2007; see also Allen et al., 2006).\nThe treatment manual is cognitive–behavioral in\norientation, and in the tradition of CBTs, youth\nare assigned therapeutic homework tasks at the\nend of each session. A typical session began with\nthe therapist reviewing the main points of the\nprevious session, going over homework assigned\nduring the previous session, and setting the\nagenda for the current session (e.g., describes the\nsession objectives). After introducing session\nobjectives, the therapist discussed prescribed\nsession material with the child. The therapist\nfacilitated child engagement in sessions through\nthe use of handouts and other therapeutic\nactivities (e.g., writing and art activities) stipulated\nby the StArT manual. The main treatment\nmodules and an abbreviated description of ses-\nsion-by-session material is provided next."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      70.75304412841797,
+      423.5960388183594,
+      298.98248291015625,
+      685.141845703125
+    ],
+    "text": "Psychoeducation\nDuring psychoeducation, the therapist built rapport\nwith the child through normalization of symptoms\nand problems (e.g., lots of kids and adults change\nafter they have gone through scary things). In Session\n1, children were provided psychoeducation regard-\ning posttraumatic stress symptoms and responses.\nChildren were given homework designed to track\ndistressing, trauma-related reactions/behaviors most\nproblematic to them for Session 2. Session 2 began\nwith a review of Session 1 homework, the introduc-\ntion of the cognitive–behavioral conceptualization of\nanxiety, and the importance of approach behavior.\nTo encourage approach behavior, youth were taught\nto use the acronym “STIC,” or to “show that I can”\nface my fears. During Session 2, youth were also\ntaught breathing and muscle relaxation skills and\nhow to identify other activities that can be done to\nreduce anxiety (e.g., read a book, play outside, go for\na bike ride). At the end of Session 2, the therapist\nassigned STIC tasks and use of relaxation techniques\nfor homework."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      70.75406646728516,
+      698.54931640625,
+      298.9061279296875,
+      732.9336547851562
+    ],
+    "text": "Cognitive Restructuring\nIn Session 3, cognitive restructuring strategies were\nintroduced to help youth cope with troubling,"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      322.8109130859375,
+      64.94784545898438,
+      549.9617919921875,
+      230.79891967773438
+    ],
+    "text": "trauma-related thoughts. The first strategy is called\n“STOP” (recognize you feel Scared, you look at the\nThoughts that make you feel scared, you try to\ncome up with Other thoughts, you Praise yourself).\nThe child and therapist practiced using STOP in\nsession. Youth were asked to use the STOP\ntechnique for homework. In Session 4, the therapist\ntaught the child other types of cognitive restructur-\ning methods for coping with distressing thoughts\nand feelings. Youth were taught to monitor fearful\nthoughts and reframe them through the use of “it is\npossible versus it is likely” (e.g., it is possible that a\nstorm in the Atlantic may turn into a hurricane, but\nit is not necessarily likely)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      321.7910461425781,
+      244.26290893554688,
+      549.9743041992188,
+      732.9351196289062
+    ],
+    "text": "Exposure\nExposure began in Session 5.\nThe therapist\nintroduced and helped the child to define and\ndiscuss trauma and loss reminders while assigning\nfear ratings to them. The therapist and child\ndeveloped a list of helpful coping skills for use\nwhen confronted by trauma and/or loss cues. In\nSession 6, the therapist helped the child begin to\nconstruct a trauma narrative. The therapist began\nby providing the child with a rationale for\nnarrative development (i.e., it helps gain control\nof memories so that reminders are not so painful)\nand then helped the child choose an event for\nnarrative construction. Events chosen for narrative\ndevelopment included incidents directly witnessed\nduring the hurricane, and/or hurricane-related\nmemories causing a lot of distress/problems over\nthe course treatment. The role of the therapist was\nto know when and how to increase and decrease\nthe child's level of engagement during the narrative\n(i.e., going fast vs. slow through some parts of the\nnarrative, keeping the child grounded, and helping\nhim or her relax when the process gets intense).\nThe therapist helped the child to demarcate the\nintensity of these events. In Session 7, the child\nretold the narrative, with the therapist helping the\nchild to identify hurtful or nonhelpful thoughts\nabout things that occurred during the traumatic\nevent. The therapist helped the child challenge and\ncognitively reframe feelings of loss, shame, or\nblame through the cognitive restructuring strate-\ngies covered in Sessions 3 and 4. In Session 8, the\nnarrative is retold to address the child's misunder-\nstandings of what happened (e.g., child's feelings of\nself-blame or shame) in terms of other people's\nactions during the storm. For example, the\ntherapist helped children process anger or sadness\ntoward their parent for refusing to allow them to\nevacuate with all their toys (e.g., there was not\nenough room for all the child's toys in the family\ncar)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "355\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      61.05820083618164,
+      64.96420288085938,
+      289.24053955078125,
+      242.77706909179688
+    ],
+    "text": "Problem Solving\nIn Session 9, the therapist taught the child problem-\nsolving skills through facilitating the identification,\ndevelopment, and prioritization of the current\nproblems list. Then, the therapist introduced the\nABC's of problem solving (i.e., Ask if the problem\nbelongs to you, Brainstorm many possible solu-\ntions, and Choose the best ones). The therapist\nhelped the child identify the problems that are not a\nkid's responsibility to fix (e.g., parents arguing with\nrelatives, parents not having enough money). Then,\nchildren identified one or two problem situations\nthey might encounter before Session 10. For\nhomework, the child was asked to implement the\nproblem-solving model during these situations."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      61.05818176269531,
+      256.2410583496094,
+      289.247802734375,
+      577.5396118164062
+    ],
+    "text": "Relapse Prevention\nIn Session 10, the last session, the therapist taught\nthe child relapse prevention techniques and dis-\ncussed the child's treatment experience with him or\nher. The therapist began the session by reviewing\nthe child's treatment experience and asking the\nchild how his or her life changed over the course of\ntreatment. Then the therapist asked the child to\nanticipate potential challenges that might occur in\nthe next few months (e.g., anniversaries, holidays,\nhurricane season). The therapist helped the child\ncreate a list of challenging events that might occur\nin the next 6 months and initiated a discussion with\nthe child regarding effective ways of coping with\nthese events. Upon completion of the list, the\ntherapist introduced the concept of “slipping,”\n(e.g., times when the child may feel he or she has\nfallen back to where he or she was pretreatment)\nand how “slips” do not mean that the child is back\nwhere he or she started. When slips occur, the child\nshould pick him- or herself back up, try not to get\nfrustrated and give up, and continue to make\nprogress. At the close of Session 10, the therapist\nfacilitated the goodbye process by reminding the\nchild of all the positive changes he or she has made,\nand expressed his or her admiration for the child's\ncourage and hard work."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      62.07870101928711,
+      586.314697265625,
+      289.2642517089844,
+      732.9454956054688
+    ],
+    "text": "treatment fidelity\nA checklist of session-by-session objectives was\ndeveloped based on the treatment manual. The\ntherapist used these checklists as guidelines for\nsessions to ensure treatment fidelity. Two parents\nconsented to having their child's treatment ses-\nsions audiotaped and assessment of treatment\nfidelity was examined by comparing session\nmanual content (through fidelity checklists) with\ninformation covered in the audiotaped sessions.\nTwo trained observers listened to all treatment\nsessions. Observer agreement was measured"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      313.11456298828125,
+      64.95968627929688,
+      540.294677734375,
+      147.13467407226562
+    ],
+    "text": "through calculation of percent agreement between\nraters (i.e., the number of times raters agreed on\nfidelity checklist items was divided by the total\nnumber of checklist items). Across all sessions\nfidelity to treatment content and session goals\nwere 98% for Sarah and 94% for Elizabeth,\nsuggesting adherence to the manual content."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      312.151123046875,
+      160.59866333007812,
+      540.3019409179688,
+      469.9352111816406
+    ],
+    "text": "Intervention Design\nThis study employed a partially nonconcurrent\nMBL (see also Lumpkin et al., 2002). Whereas a\nconcurrent MBL calls for beginning the baseline\nassessment of all participants at a single time point\nwith differing baseline lengths (for each participant\nor behavior of interest) thereafter, the nonconcur-\nrent alternative allows for the continuous assess-\nment of participants as consents are obtained. After\npretreatment assessment, participants were\nassigned a baseline length to treatment. However,\nan issue with using a purely nonconcurrent MBL is\nthat it does not control for the effects of history.\nThus, when possible, two participants were\nassigned to start baseline at the same time (i.e., for\nsome sets of participants the baseline periods were\nconcurrent) to control for historical factors and to\ndemonstrate replication of findings across partici-\npants. In this sample, participants were randomly\nassigned to baselines. Jennifer and Kelly were\nassessed concurrently with Jennifer assigned a 2-\nweek wait and Kelly a 4-week wait. John and\nMichael were assessed concurrently and assigned a\n3-week wait. Sarah and Elizabeth were assessed\nnonconcurrently with Sarah assigned a 3-week wait\nperiod and Elizabeth assigned a 4-week wait."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      313.1148986816406,
+      492.4521179199219,
+      540.2971801757812,
+      601.4783935546875
+    ],
+    "text": "Results\nWeekly summed RI scores were graphed and\nvisually inspected for trends as the main method\nof evaluating treatment efficacy (see Figure 1)\ngiven the MLB design. Overall, the pattern of\nresults suggests declines in PTSD symptoms over\ntime, which is consistent with the expectation of\nreductions in symptoms following initiation of the\nintervention.1 However, there was substantial"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      313.11456298828125,
+      621.2821655273438,
+      540.33447265625,
+      732.3765258789062
+    ],
+    "text": "1 To evaluate the impact of treatment components on specific\ntypes of PTSD symptom cluster symptoms (avoidance and\nnumbing, hyperarousal, and reexperiencing symptoms), graphic\nrepresentation of individual reduction patterns for PTSD symptom\nclusters (taking the mean of PTSD cluster items for comeasur-\nability) were visually inspected. Visual inspection of data indicate\ndownward trends in each RI symptom cluster score across\ntreatment (T1 to T10) and at posttreatment assessment (T11)\nsimilar to total scores and suggesting little or no unique variation in\nsubsymptoms (avoidance and numbing, hyperarousal, and reex-\nperiencing)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "356\nta yl o r & we e ms"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.71649932861328,
+      698.45068359375,
+      298.8924865722656,
+      732.8350219726562
+    ],
+    "text": "individual variation in both treatment response\nand baseline stability. The pattern of results from\nJennifer, Michael, and Elizabeth were highly"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      322.8099060058594,
+      698.4496459960938,
+      550.01513671875,
+      732.833984375
+    ],
+    "text": "consistent with expectations that the initiation of\ntherapy would be associated with decreases\npreceded by a stable baseline. Sarah's declines"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      260.1924133300781,
+      465.50201416015625,
+      290.76153564453125,
+      472.0173034667969
+    ],
+    "text": "Elizabeth"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      101.1051025390625,
+      483.7335205078125,
+      109.5201644897461,
+      542.6096801757812
+    ],
+    "text": "0\n6\n12 \n18 \n24 \n30 \n36 \n42 \n48 \n54 \n60 \n66"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      109.19349670410156,
+      539.9002075195312,
+      530.3244018554688,
+      551.5820922851562
+    ],
+    "text": "B1 \nB2 \nB3 \nB4 \nT1\nT2\nT3\nT4 \nT5 \nT6 \nT7 \nT8 \nT9 \nT10 \nT11"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      99.75749969482422,
+      473.6125183105469,
+      127.26360321044922,
+      479.2292175292969
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      240.5345001220703,
+      62.517242431640625,
+      267.8459777832031,
+      69.03253936767578
+    ],
+    "text": "Jennifer"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.16280364990234,
+      72.99793243408203,
+      104.68966674804688,
+      127.5907211303711
+    ],
+    "text": "0 \n6 \n12 \n18 \n24 \n30 \n36 \n42 \n48"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      104.25070190429688,
+      123.32282257080078,
+      414.59722900390625,
+      135.11703491210938
+    ],
+    "text": "B1 \nB2 \nT1 \nT2 \nT4 \nT5\n T6 \nT7\nT8 \nT9"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      91.66919708251953,
+      66.69711303710938,
+      119.17642211914062,
+      72.31381225585938
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      251.76840209960938,
+      254.74710083007812,
+      275.6991271972656,
+      261.26239013671875
+    ],
+    "text": "Michael"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      99.86979675292969,
+      319.6098937988281,
+      102.49300384521484,
+      324.3279113769531
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      99.86979675292969,
+      311.6348876953125,
+      102.49300384521484,
+      316.3529052734375
+    ],
+    "text": "6"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.94889831542969,
+      298.2524108886719,
+      105.36396789550781,
+      309.934326171875
+    ],
+    "text": "12"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.94889831542969,
+      290.27752685546875,
+      105.36396789550781,
+      301.9594421386719
+    ],
+    "text": "18"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.94889831542969,
+      282.301513671875,
+      105.36396789550781,
+      293.9834289550781
+    ],
+    "text": "24"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.94889831542969,
+      274.32550048828125,
+      105.36396789550781,
+      286.0074157714844
+    ],
+    "text": "30"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      96.94889831542969,
+      266.3505859375,
+      105.36396789550781,
+      278.0325012207031
+    ],
+    "text": "36"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      105.14910125732422,
+      321.6183166503906,
+      524.2579345703125,
+      333.30023193359375
+    ],
+    "text": "B1 \nB2\nB3 \nT1\nT2 \nT3 \nT4 \nT5\n T6 \nT7 \nT8\nT9\nT10\nT11"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      91.33219909667969,
+      254.54562377929688,
+      118.83885955810547,
+      260.1623229980469
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      251.76840209960938,
+      355.95751953125,
+      275.4847412109375,
+      362.4728088378906
+    ],
+    "text": "Sarah"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      99.19550323486328,
+      375.88861083984375,
+      108.50896453857422,
+      434.43231201171875
+    ],
+    "text": "0\n6\n12 \n18\n24\n30\n36\n42\n48\n54\n60\n66"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      107.28389739990234,
+      431.72271728515625,
+      529.154541015625,
+      443.4046325683594
+    ],
+    "text": "B1 \nB2\nB3 \nT1 \nT2 \nT3 \nT4\nT5 \nT6 \nT7\nT8\nT9 \nT10 \nT11"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      91.66919708251953,
+      355.9820251464844,
+      122.20887756347656,
+      361.5987243652344
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      261.9906311035156,
+      575.053466796875,
+      279.52850341796875,
+      581.5687255859375
+    ],
+    "text": "Kelly"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      102.56559753417969,
+      586.4338989257812,
+      111.20526885986328,
+      642.5985717773438
+    ],
+    "text": "0 \n6 \n12 \n18 \n24 \n30 \n36 \n42 \n48"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      110.76229858398438,
+      638.3306274414062,
+      530.2114868164062,
+      664.0235595703125
+    ],
+    "text": "B1\nB2\nB3 \nB4 \nT1 \nT2 \nT3\nT4\nT5 \nT6\nT7\nT8 \nT9 \nT10 \nT11\n \nTime point"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      99.75749969482422,
+      581.14404296875,
+      127.26360321044922,
+      586.7607421875
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      249.07139587402344,
+      158.22463989257812,
+      266.49786376953125,
+      164.7399444580078
+    ],
+    "text": "John"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      95.26390075683594,
+      170.5021514892578,
+      103.9034652709961,
+      222.76480102539062
+    ],
+    "text": "0 \n6 \n12\n18\n24\n30\n36\n42 \n48\n54\n60 \n66"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      103.35169982910156,
+      218.4969024658203,
+      431.55914306640625,
+      230.17880249023438
+    ],
+    "text": "B1\nB2 \nB3 \nT1 \nT2 \nT3 \nT4\nT5 \nT6 \nT7 \nT8"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      91.33219909667969,
+      161.84310913085938,
+      118.83885955810547,
+      167.45980834960938
+    ],
+    "text": "RI Scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      141.67559814453125,
+      677.28759765625,
+      479.95257568359375,
+      686.26123046875
+    ],
+    "text": "FIGURE 1\nIndividual PTSD symptom change across treatment sessions (summed total scores)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "357\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      62.07870101928711,
+      64.96420288085938,
+      289.2412414550781,
+      553.6148681640625
+    ],
+    "text": "occurred later in the intervention, Kelly's occurred\nat the second baseline assessment, and a consis-\ntent pattern of treatment response is difficult to\ndiscern from John's data but a conservative view\nwould suggest that he was either inconsistent in\nhis treatment ratings or did not benefit from the\nintervention. This interpretation is consistent with\nhis termination of therapy at Session 7 (T8 is\nJohn's posttreatment assessment data). A stable\nbaseline is characterized by relatively little vari-\nability and the absence of slope (Kazdin, 2003);\nhowever, assessments using self-report of symp-\ntoms often show more variation than behavioral\nobservations (Lumpkin et al., 2002).\nVisual inspection of data indicates unique vari-\nation in baseline PTSD symptoms. However,\nJennifer, John, Michael, Elizabeth, and Sarah\nreported RI scores ranging from moderate to very\nsevere across baseline assessments indicative of\ngeneral stability in baseline symptoms. In sum,\nvisual inspection of the data in Figure 1 suggest that\nfor Jennifer, Michael, Sarah, and Elizabeth the\ndownward trends in RI scores across treatment (T1\nto T10) and at posttreatment assessment (T11)\nindicate possible treatment efficacy. John showed\nstability in RI scores until intervention and symp-\ntom fluctuation with no identifiable trend during\nintervention. Visual inspection of John's interven-\ntion data did not indicate treatment efficacy at the\nindividual level. Kelly reported scores ranging from\nthe severe to doubtful across baselines and thus her\nbaseline data were not stable enough to make the\nprediction that, without intervention, she would\nreport RI scores in the moderate range.\nA reliable change index (RCI; Jacobson & Traux,\n1991) was also calculated to detect how much\nchange had occurred in RI scores (i.e., PTSD\nsymptoms) during the course of treatment. Five\nyouth in this sample reported reliable change in\nsymptoms; however, John's symptoms did not show\nreliable change."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      62.07868957519531,
+      562.447021484375,
+      289.24853515625,
+      732.9448852539062
+    ],
+    "text": "clinically significant change\nClinically significant change was defined as no\nlonger reporting diagnosis of PTSD at posttreat-\nment assessment and reduction in symptoms on the\nRI to the doubtful range. Table 1 displays\npretreatment and posttreatment diagnoses and\nsymptom levels. As shown in Table 1, all six\nparticipants no longer met criteria for PTSD at\nposttreatment assessment. Fifty percent of youth\n(Jennifer, John, and Kelly) did not meet criteria for\nany diagnoses upon concluding treatment. Michael,\nSarah, and Elizabeth reported diagnoses at post-\ntreatment assessment. Elizabeth reported reduc-\ntions in severity of diagnosis for social phobia (at"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      313.11346435546875,
+      64.95907592773438,
+      540.3082885742188,
+      350.37176513671875
+    ],
+    "text": "pretreatment, 7; at posttreatment, 4). Sarah also\nindicated reductions in severity of diagnoses for\ndysthymia (at pretreatment, 7; at posttreatment, 5)\nand for GAD (at pretreatment, 7; at posttreatment,\n4). Report of diagnoses for Michael and Sarah were\nnot consistent across ADIS-C administrations in\nthat Michael reported diagnoses of social phobia\nand Sarah reported specific phobia at posttreatment\nassessment. Table 2 also shows score categories\n(doubtful, 0–11; mild, 12–24; moderate, 25–39;\nsevere, 40–59; and very severe, 60–80) for individ-\nual RI scores reported at pre- and posttreatment\nassessment. Four children went from reporting RI\nscores in the moderate range (Michael) and severe\nranges (Jennifer, Elizabeth, Kelly) at pretreatment\nto reporting scores in the doubtful range at\nposttreatment. While not all youth reported scores\nin the doubtful range after treatment, all youth\nreported reductions in PTSD symptoms. John\nreported RI scores in the severe range at pretreat-\nment and in the moderate range at posttreatment (a\n6-point reduction). Sarah reported RI scores in the\nsevere range at pretreatment and in the moderate\nrange at posttreatment (an 18-point reduction)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      313.1148986816406,
+      359.2030029296875,
+      540.3777465820312,
+      565.58642578125
+    ],
+    "text": "group level reductions in symptoms\nTo further investigate improvement, Wilcoxon\nsigned rank tests, and calculation of Cohen's d\nwere conducted on the treatment outcome measures\nand results are shown in Table 2. As shown in Table\n2, the RI scores and CNCEQ scores significantly\ndecreased from pre- to posttreatment (M=15,\nSD=17.5), t(5)=4.4, p=.007. There were no statis-\ntically significant differences in CASI, ACQ-C, and\nDISC-PS total and anxiety scores from pre- to\nposttreatment. However, examination of the means\nand standard deviations for the CASI, ACQ-C, and\nDISC-PS total and anxiety scores suggest changes in\nthe expected direction for each participant's scores\nexcept one on each of these measures (i.e., John's\nCASI, and DISC-PS anxiety and total scores\nincreased; Jennifer's ACQ-C score decreased)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      313.1148681640625,
+      588.0929565429688,
+      540.2982788085938,
+      732.9454956054688
+    ],
+    "text": "Discussion\nThe results from this study suggest that the StArT\nmanual (Saltzman et al., 2007), a trauma focused\nCBT for youth disaster survivors, may be helpful in\nthe reduction of child-reported posttraumatic stress\nsymptoms. The results add to the growing support\nfor CBT interventions in youth following exposure\nto disaster (e.g., Chemtob et al., 2002; Salloum &\nOverstreet, 2008). Whereas the StArT components\nare empirically based, this study represents the first\nsystematic evaluation. The pattern of results from\nJennifer, Michael, and Elizabeth were highly"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "358\nta yl o r & we e ms"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71649932861328,
+      697.9971923828125,
+      298.89776611328125,
+      732.3815307617188
+    ],
+    "text": "consistent with the expectation that the initiation of\ntherapy would be associated with decreases in\nPTSD symptoms preceded by a stable baseline."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      322.8099060058594,
+      64.96267700195312,
+      550.0133056640625,
+      732.927490234375
+    ],
+    "text": "Moreover, at posttreatment assessment, none of the\nyouth from this sample reported a diagnosis of\nPTSD, and half of youth reported no anxiety\ndisorder diagnoses. It is important to note that for\nfour of the six youth PTSD was not the most severe\nanxiety problem. This is not surprising since\nmultiple forms of emotional disruption is common\nin disaster-exposed youth (La Greca et al., 2002).\nAt posttreatment assessment, there was a reduction\nin the incidence of these disorders and the severity\nof most of these diagnoses decreased from pre- to\nposttreatment. Further, whereas there were no\nstatistically significant differences in CASI, ACQ-\nC, and DISC-PS total and anxiety scores from pre-\nto posttreatment, examination of individual scores\nsuggest changes in the expected direction for each\nparticipant except one on each of these measures\n(i.e., John's CASI and DISC-PS total and anxiety\nscores increased; Jennifer's ACQ-C score de-\ncreased). Scores on the CNCEQ did show statisti-\ncally significantly reductions but given the small\nsample additional research is necessary to establish\nthe validity and clinical implications of findings\nregarding the effects of the StArT manual on\ncognitive errors.\nThough results indicate a reduction of symptoms\nfor most participants, a conclusion that the\nintervention was solely or invariably responsible\nfor symptom decline does not seem justified as one\nparticipant reported significant reductions at base-\nline (Kelly) and the intervention failed to produce\nsystematic decrease in one other case (John). It is\nalso possible that trauma history influenced partic-\nipant response to intervention. The StArT manual\nwas designed to help youth exposed to hurricanes\nand participants who had more complex trauma\nhistories (John, history of neglect; Sarah parental\nloss) did show less than expected PTSD symptom\nreduction (Figure 1).\nThis study responds to the general call for further\nstudy of treatment change using idiographic designs\n(Barlow & Nock, 2009; Kazdin, 2008); findings\nwere consistent with literature using multiple\nbaseline designs to evaluate treatment efficacy for\nyouth with anxiety disorders (e.g., Lumpkin et al.,\n2002; Ollendick, 1995) and traumatized youth\nmore specifically (e.g., Feather & Ronan, 2006;\nSaigh, 1987). However, future examination of the\nStArT manual might benefit from the inclusion of\nseparate multiple baseline evaluations of treatment\ncomponents through the assessment of the skills\npurportedly learned during each of the modules.\nFor example, multiple baseline evaluation has been\nused to illustrate session-level changes relative to\ntreatment components by showing that skills (e.g.,\ncognitive coping skills) learned upon component"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71649932861328,
+      64.93551635742188,
+      298.9229431152344,
+      94.84529876708984
+    ],
+    "text": "Table 2\nReductions in PTSD-RI and Treatment Outcome Scores and\nTreatment Effects"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      127.55891418457031,
+      99.40553283691406,
+      283.55645751953125,
+      119.22298431396484
+    ],
+    "text": "Pretreatment\nScores\nPosttreatment\nScores\nWilcoxon z d"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71650695800781,
+      124.94645690917969,
+      106.42391967773438,
+      134.64369201660156
+    ],
+    "text": "PTSD-RIa"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      126.39910888671875,
+      294.50701904296875,
+      145.64271545410156
+    ],
+    "text": "(M, SD)\n45.0(11.6)\n15.0(17.5)\n2.20⁎⁎\n2.00"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71017456054688,
+      146.8865203857422,
+      190.66952514648438,
+      156.58497619628906
+    ],
+    "text": "Jennifer\n44d\n0b"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      157.82823181152344,
+      190.75559997558594,
+      167.52626037597656
+    ],
+    "text": "John\n44d\n38c"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      168.7700653076172,
+      190.66952514648438,
+      178.5246124267578
+    ],
+    "text": "Michael⁎\n26c\n0b"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      179.76841735839844,
+      190.75559997558594,
+      189.46632385253906
+    ],
+    "text": "Sarah\n54d\n36c"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      190.7102508544922,
+      191.06643676757812,
+      200.4080352783203
+    ],
+    "text": "Elizabeth\n60e\n10b"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      201.65196228027344,
+      190.66952514648438,
+      211.4064483642578
+    ],
+    "text": "Kelly\n42d\n6b"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71621704101562,
+      210.80636596679688,
+      298.52655029296875,
+      299.0533752441406
+    ],
+    "text": "CASIf (M, SD) 30.8(8.10)\n26.0 (7.22)\n1.36\n.625\nJennifer\n22\n21\nJohn\n26\n36\nMichael\n24\n20\nSarah\n38\n33\nElizabeth\n42\n27\nKelly\n33\n19\nACQ-Cg"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      290.8084411621094,
+      298.9289245605469,
+      309.9954528808594
+    ],
+    "text": "(M, SD)\n14.5(10.2)\n23.0(10.6)\n–1.59\n–.817"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.71611022949219,
+      313.02410888671875,
+      187.94793701171875,
+      386.70068359375
+    ],
+    "text": "Jennifer\n30\n23\nJohn\n13\n20\nMichael\n21\n28\nSarah\n1\n19\nElizabeth\n7\n8\nKelly\n15\n40\nCNCEQh"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      79.71019744873047,
+      378.45574951171875,
+      298.53277587890625,
+      397.6993408203125
+    ],
+    "text": "(M, SD)\n47.0(25.1)\n31.7(7.39)\n2.20⁎⁎\n.826"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.7163314819336,
+      400.6714172363281,
+      298.5267028808594,
+      616.8740844726562
+    ],
+    "text": "Jennifer\n44\n36\nJohn\n41\n32\nMichael\n37\n25\nSarah\n97\n44\nElizabeth\n35\n28\nKelly\n28\n25\nDISCi (M, SD) 26.8(21.6)\n21.6(19.2)\n1.48\n.254\nJennifer\n13\nJohn\n9\n12\nMichael\n30\n18\nSarah\n33\n23\nElizabeth\n58\n53\nKelly\n4\n2\nANXj (M, SD)\n11.2(9.54)\n7.40(7.70)\n1.63\n.438\nJennifer\n5\nJohn\n1\n2\nMichael\n13\n5\nElizabeth\n23\n20\nSarah\n17\n9\nKelly\n2\n1"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      71.54640197753906,
+      621.4908447265625,
+      298.9578552246094,
+      681.1072387695312
+    ],
+    "text": "Note.\naReaction Index total scores; RI categories:\nbDoubtful;\ncModerate; dSevere; eVery severe; fChildhood Anxiety Sensitivity\nIndex; gAnxiety Control Questionnaire for Children; hChildren's\nNegative Cognitive Error Questionnaire; iDISC-PS total scores;\njDISC-PS total anxiety scores; ⁎reported an RI score of 40 at\nscreening; ⁎⁎ pb.05."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "359\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      62.07866668701172,
+      64.96420288085938,
+      289.2651672363281,
+      732.9290161132812
+    ],
+    "text": "introduction increased while PTSD symptoms\ndecreased (Feather & Ronan, 2006).\nAlthough the goal of this study was to provide\nidiographic evaluation, conducting replications of\nthe present study, or randomized control trials of\nthe StArT manual in large samples of youth, appear\njustified and important. The results of this study\nwere generally positive; however, data on the\ngeneralizability of this treatment is still needed. It\nis notable that comparison of effect sizes generated\nin this study with effect sizes based on change in\nPTSD due to time alone from previous longitudinal\nstudies (e.g., youth survivors of the Spitak earth-\nquake, N=89 surveyed at 18-month follow-up,\nestimated normal change as a function of Cohen's\nd=.55; Goenjian et al., 2005; youth survivors of\nHurricane Andrew, N=442 surveyed at 3- and\n10-month follow-up, estimated Cohen's d=.58, La\nGreca et al., 1996) suggest that the average decrease\nwas larger than would be expected by time alone\nand reductions were comparable or larger than\nprevious treatment studies of youth exposed to\nKatrina (Cohen's d=1.16 for the PTSD-RI in\nSalloum & Overstreet, 2008). Conducting growth\ncurve modeling might also indicate the typical\nsymptom change trajectories of hurricane-exposed\nyouth, and further inform efficient intervention\nstrategies for youth surviving natural disasters.\nThe results also highlight single-case designs as\nviable and potentially practical methods for school-\nbased intervention evaluation. In terms of provid-\ning feasibility information for future work, findings\nfrom this study suggest that the StArT manual can\nbe administered in school settings. Research sug-\ngests that minority youth may experience obstacles\nto receiving anxiety disorder treatment (Chavira,\nStein, Bailey, & Stein, 2003) and school settings\nmay provide a useful context for minority youth to\nreceive intervention. However, one logistic issue is\nspace to conduct treatment sessions (Mufson et al.,\n2004; Pincus & Friedman, 2004). For schools\nparticipating in this study, finding a private space to\nhave sessions was at times difficult due to limited\nspace for adjunct services. In order to expand\nmental health services within the school setting,\nfuture work might benefit from evaluation of the\nStArT manual in group format rather than the\nindividual format used here. Reserving one location\nwithin the school for a weekly group may be easier\nto achieve than coordinating several individual\nsessions during the week. Research indicates that\ntraumatized youth who receive school-based treat-\nments in either group or individual format show\nsubstantial and significant reductions in PTSD\nsymptoms (Chemtob et al., 2002; Salloum &\nOverstreet, 2008). Moreover, future implementa-"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      313.1166076660156,
+      64.94320678710938,
+      540.3165893554688,
+      732.9080200195312
+    ],
+    "text": "tion of the StArT manual within schools might\nfollow a multitiered approach to treatment delivery\n(e.g., Cohen et al., 2009; Layne et al., 2008).\nExpanding the framework of the intervention to\ninclude school and community mental health\nprofessionals, parents, and teachers may facilitate\nthe generalization and maintenance of treatment\ncomponents.\nThe results from this study provide promising\noutcomes, but are not without limitation. First, one\nchild from this sample (Kelly) did not maintain\nsymptom stability at baseline. When baseline data\nshows variability, it is difficult to draw conclusions\nabout intervention effects. For cases in which\nbaseline data is not stable, the causal role of the\nintervention cannot be assumed given symptom\nreduction might be occurring for other reasons (e.g.,\nhistory or maturation; Kazdin, 2003). Thus, down-\nward trends in Kelly's baseline data could suggest\nthat symptom reduction would have occurred over\ntime, without intervention. Second, neither exten-\nsive life history of problems nor inter-rater reliabil-\nity were assessed across ADIS administrations.\nSarah and Michael reported new diagnoses at\nposttreatment (for Sarah, specific phobia, and for\nMichael, social phobia; see Table 2). Some of the\nresponse variability across ADIS-IV administrations\nmay be related to emotion-related deficits found in\nanxiety disordered youth. Researchers have theo-\nrized that anxiety disordered youth have difficulties\nunderstanding and managing their own emotional\nexperiences (Suveg, Kendall, Comer, & Robin,\n2006). It is plausible that participating in treatment\nimproved Sarah's and Michael's understandings of\nthe types of situations and experiences that are\nanxiety provoking to them, and this perhaps\naccounts for the variance in reported diagnoses.\nFurther, only one therapist conducted the interven-\ntion in this sample and thus research is needed to\nassess generalizability of the intervention across\nmultiple therapists.\nFinally, generalizability of our findings is also\nlimited by sample composition and size. Howev-\ner, intervention generalizability was not the goal\nof this initial evaluation. Future investigations of\nthe StArT manual might include a larger and\nmore ethnically and socioeconomically diverse\ngroup of youth. Findings are also limited by the\nlack of follow-up data. While initial single-case\ndesign evaluations of interventions often lack\nfollow-up (Nakamura, Schiffman, Lam, Becker,\n& Chorpita, 2010; Ross & Horner, 2009) no\nconclusions about the maintenance of treatment\ncan be drawn from this study and so future\nresearch is needed to examine whether treatment\ngains can be maintained. Assessment of treatment"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "360\nta yl o r & we e ms"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      71.71546173095703,
+      64.96420288085938,
+      298.93133544921875,
+      302.5860900878906
+    ],
+    "text": "satisfaction, and intervention impact on related\noutcomes such as social and academic problems\nwould strengthen the study findings and should\nbe assessed in more comprehensive evaluations of\nthe StArT manual.\nThe apparent chronic nature of mental health\nproblems following Katrina (Kessler et al., 2008;\nWeems et al., 2010) speak to the importance of\nlong-term community and also school-based efforts\nto address the mental health needs of individuals\nfollowing natural disaster that are ongoing and\nnot just\nshort\nterm\nimmediately\npostdisaster\n(Drury et al., 2008; Weems & Overstreet, 2008).\nThe StArT manual evaluated here has promising\npotential for underserved youth. Funding large-\nscale implementation of this or similar programs in\nareas hard hit by a disaster may help reduce the\nmental health burden on youth reducing rates of\nPTSD, fostering symptom decline, and potentially\ntargeting traditionally underserved communities."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      71.71649932861328,
+      318.6475830078125,
+      115.88170623779297,
+      328.6101989746094
+    ],
+    "text": "References"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      71.71648406982422,
+      333.5223083496094,
+      298.8843078613281,
+      730.5116577148438
+    ],
+    "text": "Ackerman, P. T., Newton, J. E. O., McPherson, W. B., Jones,\nJ. G., & Dykman, R. A. (1998). Prevalence of posttrau-\nmatic stress disorder and other psychiatric diagnoses in\nthree groups of abused children (sexual, physical, and\nboth). Child Abuse and Neglect, 22, 759–794.\nAllen, A., Saltzman, W. R., Brymer, M. J., Oshri, A., &\nSilverman, W. K. (2006). An empirically-informed interven-\ntion for use with children following their exposure to severe\nhurricanes. Behavior Therapist, 6, 118–124.\nAmerican Psychiatric Association. (2000). Diagnostic and\nstatistical manual of mental disorders (4th ed., text rev.).\nWashington, DC: Author.\nBarlow, D. H., & Nock, M. K. (2009). Why can't our approach\nto research be more idiographic? Perspectives on Psycho-\nlogical Science, 4, 19–21.\nBolton, D., Hill, J., O'Ryan, D., Udwin, O., Boyle, S., & Yule,\nW. (2004). Long-term effects of psychological trauma on\npsychological functioning. Journal of Child Psychology and\nPsychiatry, 45, 1007–1014.\nBolton, D., O'Ryan, D., Udwin, O., Boyle, S., & Yule, W.\n(2000). The long-term psychological effects of disaster\nexperienced in adolescence, II: General psychopathology.\nJournal of Child Psychology and Psychiatry, 41, 513–523.\nCatani, C., Kohiladevy, M., Martina, R., Schauer, E., Elbert, T.,\n& Neuner, F. (2009). Treating children traumatized by war\nand tsunami: A comparison between exposure therapy and\nmeditation relaxation in North-East Sri Lanka. BMC\nPsychiatry, 9, 1–11.\nChavira, D. A., Stein, M. B., Bailey, K., & Stein, M. T. (2003).\nParental opinions regarding treatment for social anxiety\ndisorder in youth. Journal of Developmental and Behavioral\nPediatrics, 24, 315–322.\nChemtob, C. M., Nakashima, J. P., & Hamada, R. S. (2002).\nPsychosocial intervention for post-disaster trauma symp-\ntoms in elementary school children. Archives of Pediatric\nand Adolescent Medicine, 156, 211–216.\nCohen, J. A., Jaycox, L. H., Walker, D. W., Mannarino, A. P.,\nLangley, A. K., & DuClos, J. L. (2009). Treating trauma-\ntized children after Hurricane Katrina: Project Fleur-de Lis.\nClinical Child and Family Psychology Review, 12, 55–64."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      322.8076477050781,
+      64.52072143554688,
+      549.9762573242188,
+      730.5089721679688
+    ],
+    "text": "Copeland, W. E., Keeler, G., Angold, A., & Costello, E. J.\n(2007). Traumatic events and posttraumatic stress in\nchildhood. Archives of General Psychiatry, 64, 577–584.\nCortes, A. M., Saltzman, K. M., Weems, C. F., Regnault, H. P.,\nReiss, A. L., & Carrion, V. G. (2005). Development of\nanxiety disorders in a traumatized pediatric population: A\npreliminary longitudinal evaluation. Child Abuse and\nNeglect, 29, 905–914.\nCostello, J. E., Erkanalli, A., Fairbank, J. A., & Angold, A.\n(2002). The prevalence of potentially traumatic events in\nchildhood and adolescence. Journal of Traumatic Stress, 15,\n99–112.\nDrury, S. S., Scheeringa, M. S., & Zeanah, C. H. (2008). The\ntraumatic impact of Hurricane Katrina on children in New\nOrleans. Child and Adolescent Psychiatric Clinics of North\nAmerica, 17, 685–702.\nEvans, S. W. (1999). Mental health services in school\nutilization, effectiveness, and consent. Clinical Psychology\nReview, 19, 165–178.\nFeather, J. S., & Ronan, K. R. (2006). Trauma-focused\ncognitive behavioral therapy for abused children and\nposttraumatic stress disorder: A pilot study. New Zealand\nJournal of Psychology, 35, 132–145.\nFrederick, C. J., Pynoos, R. S., & Nadar, K. (1992). Reaction\nindex to psychic trauma form C (child). Unpublished\nmanuscript, University of California, Los Angeles.\nGinsburg, G., & Drake, K. L. (2002). Anxiety sensitivity and\npanic attack symptomatology among low-income African-\nAmerican adolescents. Journal of Anxiety Disorders, 16,\n83–96.\nGoenjian, A. K., Molina, L., Steinberg, A. M., Fairbanks, L. A.,\nAlvearez, M. L., Goenjian, H. A., & Pynoos, R. S. (2001).\nPosttraumatic stress and depressive reactions among Nicar-\naguan adolescents after Hurricane Mitch. American Journal\nof Psychiatry, 158, 788–794.\nGoenjian, A. K., Walling, D., Steinberg, A. M., Karayan, I.,\nNajarian, L. M., & Pynoos, R. (2005). A prospective study\nof posttraumatic stress and depressive reactions among\ntreated and untreated adolescents five years after a\ncatastrophic disaster. American Journal of Psychiatry,\n162, 2302–2308.\nJacobson, N. S., & Traux, P. (1991). Clinical significance: A\nstatistical approach to defining meaning change in psycho-\ntherapy research. Journal of Consulting and Clinical\nPsychology, 59, 12–19.\nKataoka, S. H., Zhang, L., & Wells, K. B. (2002). Unmet need\nfor mental health care among U.S. children: Variation by\nethnicity and insurance status. American Journal of Psychi-\natry, 159, 1548–1555.\nKazdin, A. E. (2003). Research design in clinical psychology.\nBoston: Allyn & Bacon.\nKazdin, A. E. (2008). Evidence-based treatment and practice:\nNew opportunities to bridge clinical research and practice,\nenhance the knowledge base, and improve patient care.\nAmerican Psychologist, 63, 146–159.\nKendall, P. C. (1994). Treating anxiety disorders in children:\nResults of a randomized clinical trial. Journal of Consulting\nand Clinical Psychology, 62, 200–210.\nKendall, P. C., & Norton-Ford, J. D. (1982). Therapy outcome\nresearch methods. In P. C. Kendall & J. N. Butcher (Eds.),\nHandbook of research methods in clinical psychology\n(pp. 429–460). New York: Wiley.\nKessler, R. C., Galea, S., Gruber, M. J., Sampson, N. A.,\nUrsano, R. J., & Wessely, S. (2008). Trends in mental illness\nand suicidality after Hurricane Katrina. Molecular Psychi-\natry, 13, 374–384.\nKing, N. J., Tonge, B. J., Mullen, P., Myerson, N., Heyne, D.,"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "361\ncbt for disaster-exposed youth"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      62.07872009277344,
+      64.51449584960938,
+      289.2187194824219,
+      730.5087280273438
+    ],
+    "text": "Rollings, S., & Ollendick, T. H. (2000). Treating sexually\nabused children with posttraumatic stress symptoms: A\nrandomized clinical trial. Journal of the American Academy\nof Child and Adolescent Psychiatry, 39, 1347–1355.\nKiser, L. J., Heston, J., Millsap, P. A., & Pruitt, D. B. (1991).\nPhysical and sexual abuse in childhood: Relationship with\nposttraumatic stress disorder. Journal of the American\nAcademy of Child\nand Adolescent Psychiatry,\n30,\n776–783.\nLa Greca, A. M., Silverman, W. K., Vernberg, E. M., &\nPrinstein, M. (1996). Symptoms of posttraumatic stress after\nHurricane Andrew: A prospective study. Journal of Con-\nsulting and Clinical Psychology, 64, 712–723.\nLa Greca, A. M., Silverman, W. K., Vernberg, E. M., &\nRoberts, M. C. (2002). Children and disasters: Future\ndirections for research and public policy. Helping children\ncope with disasters. Washington, DC: American Psycholog-\nical Association.\nLayne, C. M., Saltzman, W. R., Poppleton, L., Burlingame, G.\nM., Pasalic, A., Durakovic, E., & Pynoos, R. S. (2008).\nEffectiveness of a school based group psychotherapy\nprogram for war-exposed adolescents: A randomized\ncontrol trial. Journal of the American Academy of Child\nand Adolescent Psychiatry, 47, 1048–1062.\nLeitenberg, H., Yost, L. W., & Carroll-Wilson, M. (1986).\nNegative cognitive errors in children: Questionnaire devel-\nopment, normative data, and comparisons between children\nwith and without self-reported symptoms of depression, low\nself-esteem, and evaluation anxiety. Journal of Consulting\nand Clinical Psychology, 54, 528–536.\nLevitt, J. M., Saka, N., Hunter-Romanelli, L., & Hoagwood, K.\n(2007). Early identification of mental health problems in\nschools: The status of instrumentation. Journal of School\nPsychology, 45, 163–191.\nLonigan, C. J., Shannon, M. P., Taylor, C. M., Finch, A. J., &\nSallee, F. R. (1994). Children exposed to disaster: II. Risk\nfactors for the development of the post-traumatic symptom-\natology. Journal of the American Academy of Child and\nAdolescent Psychiatry, 33, 94–105.\nLucas, C. P., Zhang, H., Fisher, P., Shaffer, D., Reiger, D. A.,\nNarrow, W. E., Bourdon, K., et al. (2001). The DISC\nPredictive Scales (DPS): Efficiently screening for diagnosis.\nJournal of the American Academy of Child and Adolescent\nPsychiatry, 40, 443–449.\nLumpkin, P. W., Silverman, W. K., Weems, C. F., Markham,\nM. R., & Kurtines, W. M. (2002). Treating a heterogeneous\nset of anxiety disorders in youths with group cognitive\nbehavioral therapy: A partially non-concurrent multiple\nbaseline evaluation. Behavior Therapy, 33, 163–179.\nMcGloin, J. S., & Widom, C. S. (2001). Resilience among\nabused and neglected children all grown up. Development\nand Psychopathology, 13, 1021–1038.\nMufson, L., Dorta, K. P., Wickamarante, P., Nomura, Y.,\nOlfson, M., & Weissman, M. M. (2004). A randomized\neffectiveness trial of interpersonal psychotherapy for de-\npressed adolescents. Archives of General Psychiatry, 61,\n577–584.\nMuris, P., Mayer, B., den Adel, M., Roos, T., & van Wamelen,\nJ. (2009). Predictors of change following cognitive behav-\nioral treatment of children with anxiety problems: A\npreliminary investigation on negative automatic thoughts\nand anxiety control. Journal of Child Psychiatry and\nHuman Development, 40, 139–151.\nNabors, L. A., Weist, M. D., & Reynolds, M. W. (2000).\nOvercoming challenges in outcome evaluations of school\nmental health programs. Journal of School Health, 70,\n206–209."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      313.11444091796875,
+      64.51779174804688,
+      540.2711791992188,
+      730.5117797851562
+    ],
+    "text": "Nakamura, B. J., Schiffman, J., Lam, C. W., Becker, K. D., &\nChorpita, B. F. (2010). A modularized cognitive–behavioral\nintervention for water phobia in an adolescent with\nchildhood-onset schizophrenia. Child and Family Behavior\nTherapy, 28, 29–41.\nNational Child Traumatic Stress Network and National Center\nfor PTSD (2006). Psychological first aid: Field operations\nguide (2nd ed.). Los Angeles and White River Junction, VT:\nAuthors.\nNietzel, M. T., & Trull, T. J. (1988). Meta-analytic approaches\nto social comparisons: A method for measuring clinical\nsignificance. Behavioral Assessment, 10, 146–159.\nOllendick, T. H. (1995). Cognitive–behavioral treatment of\npanic disorder with agoraphobia in adolescents: A multiple\nbaseline design analysis. Behavior Therapy, 26, 517–531.\nPincus, D. B., & Friedman, A. G. (2004). Improving children's\ncoping with everyday stress: Transporting treatment inter-\nventions to the school setting. Clinical Child and Family\nPsychology Review, 7, 223–240.\nRoss, S. W., & Horner, R. H. (2009). Bully prevention in\npositive behavior support. Journal of Applied Behavior\nAnalysis, 42, 747–759.\nRuchkin, V. V., Schwab-Stone, M., Koposov, R., Vermeiren,\nR., & Steiner, H. (2002). Violence exposure, posttraumatic\nstress disorder, and personality in juvenile delinquents.\nJournal of the American Academy of Child and Adolescent\nPsychiatry, 41, 322–329.\nSaigh, P. A. (1987). In vitro flooding of an adolescent\nposttraumatic stress disorder. Journal of Clinical Child\nPsychology, 16, 147–150.\nSalloum, A., & Overstreet, S. (2008). Evaluation of individual\nand group grief and trauma interventions for children post-\ndisaster. Journal of Clinical Child and Adolescent Psychology,\n37(3), 495–507.\nSaltzman, W. R., Silverman, W. K., Brymer, M. J., Allen, A.,\nLayne, C., Pynoos, R., & Steinberg, A. (2007). StArT:\nStrength after trauma: A modular intervention for children\nand adolescents affected by hurricanes. Los Angeles:\nNational Child Traumatic Stress Network.\nSilverman, W. K., & Albano, A. M. (1996). The anxiety\ndisorders interview schedule for DSM-IV—Child and parent\nversions. San Antonio, TX: Psychological Corporation.\nSilverman, W. K., Fleisig, W., Rabian, B., & Peterson, B. R.\n(1991). Childhood anxiety sensitivity index. Journal of\nClinical Psychology, 20, 162–168.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., Weems,\nC. F., Lumpkin, P. W., & Carmichael, D. H. (1999).\nTreating anxiety disorders in children with group cognitive–\nbehavioral therapy: A randomized clinical trial. Journal of\nConsulting and Clinical Psychology, 67, 995–1003.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., Weems, C. F.,\nRabian, B., & Serafini, L. (1999). Contingency management,\nself-control, and education support in the treatment of\nchildhood phobic disorders: Arandomized clinical trial. Journal\nof Consulting and Clinical Psychology, 67(5), 675–687.\nSilverman, W. K., Oritz, C. D., Viswesvaran, C., Burns, B. J.,\nKolko, D. J., Putnam, F. W., & Amaya-Jackson, L. (2008).\nEvidence based treatments for children and adolescents\nexposed to traumatic events. Journal of Clinical Child and\nAdolescent Psychology, 37(1), 156–183.\nSilverman, W. K., Saavedra, L. M., & Pina, A. A. (2001). Test–\nretest reliability of anxiety symptoms and diagnoses with the\nanxiety disorders interview schedule for the DSM-IV: Child\nand parent versions. Journal of the Academy of Child and\nAdolescent Psychiatry, 40(8), 937–944.\nStein, B. D., Jaycox, L. H., Kataoka, S., Rhodes, H. J., & Vestal,\nK. D. (2003). Prevalence of child and adolescent exposure to"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      62.07870101928711,
+      32.42498779296875,
+      352.3661804199219,
+      45.662174224853516
+    ],
+    "text": "362\nta yl o r & we e ms"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      71.71734619140625,
+      64.51449584960938,
+      298.8979797363281,
+      371.871337890625
+    ],
+    "text": "community violence. Clinical Child and Family Psychology\nReview, 6, 257–264.\nStein, B. D., Jaycox, L. H., Kataoka, S. H., Wong, M., Tu, W.,\nElliot, M. N., & Fink, A. (2003). A mental health\nintervention for schoolchildren exposed to violence: A\nrandomized controlled trial. Journal for the American\nMedical Association, 290(5), 603–611.\nStephan, S. H., Weist, M., Kataoka, S., Adelsheim, S., & Mills,\nC. (2007). Transformation of children's mental health\nservices: The role of school mental health. Psychiatric\nServices, 58(10), 1330–1338.\nSuveg, C., Kendall, P. C., Comer, J. S., & Robin, J. (2006).\nEmotion focused cognitive behavioral therapy for anxious\nyouth: A multiple baseline evaluation. Journal of Contem-\nporary Psychotherapy, 36, 77–85.\nTaylor, L. K., Costa, N. M., Cannon, M. F., Adams, C. S., &\nWeems, C. F. (2006, August). Developing the Anxiety\nControl Questionnaire for Children (ACQ-C) short form.\nNew Orleans, LA: Annual Convention of American\nPsychological Association.\nTaylor, T. L., & Chemtob, C. M. (2004). Efficacy of treatment\nfor child and adolescent traumatic stress. Archives of\nPediatrics and Adolescent Medicine, 158(8), 786–791.\nThurber, S., Crow, L., Thurber, J. A., & Woffington, L. M.\n(1990). Cognitive distortions and depression in psychiatri-\ncally disturbed adolescent inpatients. Journal of Clinical\nPsychology, 46(1), 57–60.\nVernberg, E. M., LaGreca, A. M., Silverman, W. K., &\nPrinstein, M. J. (1996). Prediction of posttraumatic stress\nsymptoms in children after Hurricane Andrew. Journal of\nAbnormal Psychology, 105, 237–248."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      322.80938720703125,
+      64.51889038085938,
+      549.9492797851562,
+      312.0577697753906
+    ],
+    "text": "Weems, C. F. (2010). Hurricane Katrina and the need for\nchanges in the federal funding of disaster mental health.\nAmerican Journal of Disaster Medicine, 5, 57–60.\nWeems, C. F., & Overstreet, S. (2008). Child and adolescent\nmental health research in the context of Hurricane Katrina:\nAn ecological needs-based perspective and introduction to\nthe special section. Journal of Clinical Child and Adolescent\nPsychology, 37, 487–494.\nWeems, C. F., Silverman, W. K., Rapee, R., & Pina, A. A.\n(2003). The role of control in childhood anxiety disorders.\nCognitive Therapy and Research, 27, 557–568.\nWeems, C. F., Taylor, L. K., Cannon, M. F., Marino, R.,\nRomano, D. M., Scott, B. G., Perry, A. M., et al. (2010).\nPost traumatic stress, context, and the lingering effects of\nthe Hurricane Katrina disaster among ethnic minority\nyouth.\nJournal\nof\nAbnormal\nChild\nPsychology,\n38,\n49–56.\nWidom, C. S. (1999). Posttraumatic stress disorder in abused\nand neglected children grown up. American Journal of\nPsychiatry, 156, 1223–1229.\nYule, W., Bolton, D., Udwin, O., Boyle, S., O'Ryan, D., &\nNurrish, J. (2000). The long term psychological effects of\ndisaster experienced in adolescence: I. The incidence and\ncourse of posttraumatic stress disorder. Journal of Child\nPsychology and Psychiatry, 41, 503–511."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      334.771484375,
+      343.4436340332031,
+      450.12725830078125,
+      371.8677978515625
+    ],
+    "text": "RECEIVED: May 4, 2010\nACCEPTED: September 3, 2010\nAvailable online 2 March 2011"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      204.71875,
+      32.42498779296875,
+      549.9842529296875,
+      45.662174224853516
+    ],
+    "text": "363\ncbt for disaster-exposed youth"
+  }
+]

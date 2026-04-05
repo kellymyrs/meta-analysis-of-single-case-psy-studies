@@ -1,0 +1,1282 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      44.5050048828125,
+      46.53657913208008,
+      357.83270263671875,
+      166.3980255126953
+    ],
+    "text": "Geuke, G. G. M., Maric, M., Mioˇcevi´c, M., Wolters, L. H., & de Haan, E. (2019). Test-\ning mediators of youth intervention outcomes using single-case experimental designs. In\nS. Hein & J. Weeland (Eds.), Randomized Controlled Trials (RCTs) in Clinical and Community\nSettings: Challenges, Alternatives and Supplementary Designs. New Directions for Child and\nAdolescent Development, 167, 39–64.\n3"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.5050048828125,
+      215.8861541748047,
+      363.9384460449219,
+      273.66925048828125
+    ],
+    "text": "Testing Mediators of Youth Intervention\nOutcomes Using Single-Case Experimental\nDesigns"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.5050048828125,
+      284.0290222167969,
+      314.4152526855469,
+      310.05169677734375
+    ],
+    "text": "Gemma G. M. Geuke, Marija Maric\n, Milica Mioˇcevi´c,\nLidewij H. Wolters, Else de Haan"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.505001068115234,
+      332.985595703125,
+      83.6357192993164,
+      343.4463806152344
+    ],
+    "text": "Abstract"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.50461959838867,
+      350.9920654296875,
+      367.2917785644531,
+      586.4764404296875
+    ],
+    "text": "The major aim of this manuscript is to bring together two important topics that\nhave recently received much attention in child and adolescent research, albeit\nseparately from each other: single-case experimental designs and statistical\nmediation analysis. Single-case experimental designs (SCEDs) are increasingly\nrecognized as a valuable alternative for Randomized Controlled Trials (RCTs)\nto test intervention effects in youth populations. Statistical mediation analy-\nsis helps provide understanding about the most potent mechanisms of change\nunderlying youth intervention outcomes. In this manuscript we: (i) describe the\nconceptual framework and outline desiderata for methods for mediation analy-\nsis in SCEDs; (ii) describe the main aspects of several data-analytic techniques\npotentially useful to test mediation in SCEDs; (iii) apply these methods to a\nsingle-case treatment data set from one clinically anxious client; and (iv) dis-\ncuss pros and cons of these methods for testing mediation in SCEDs, and provide\nfuture directions. © 2019 The Authors. New Directions for Child and Adolescent\nDevelopment published by Wiley Periodicals, Inc.\nS"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.504878997802734,
+      542.1995849609375,
+      367.3135986328125,
+      588.5263061523438
+    ],
+    "text": "ingle-Case Experimental Designs (SCEDs) are within-individual\ncomparisons increasingly recognized as a valuable alternative for Ran-\ndomized Controlled Trials (RCTs) (Kazdin, 2019) to test intervention\neffects in youth populations. In SCEDs, the symptoms of interest of one or"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.50434112548828,
+      594.8079833984375,
+      367.3018798828125,
+      617.0643920898438
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT, no. 167, September 2019 © 2019 The Authors. New Directions for Child\nand Adolescent Development published by Wiley Periodicals, Inc.\nPublished online in Wiley Online Library (wileyonlinelibrary.com). • DOI: 10.1002/cad.20310\n39"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      44.505001068115234,
+      619.8770751953125,
+      367.30889892578125,
+      632.8298950195312
+    ],
+    "text": "This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and\nreproduction in any medium, provided the original work is properly cited."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "40\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.05276107788086,
+      58.620567321777344,
+      377.8584899902344,
+      595.1150512695312
+    ],
+    "text": "several participants are tested regularly, for example, monthly, weekly, daily,\nand/or hourly, over a period of time depending on the design of a specific\nSCED study. Examples of SCED designs include (1) an AB design (baseline\nperiod A followed by an intervention period B), (2) A1B1A2B2 design (in\nwhich an intervention is withdrawn during A2 and again introduced dur-\ning B2 period), and (3) the multiple baseline SCEDs in which clients are\nrandomized to different lengths of a baseline period A before introducing\nan intervention phase B, making it possible to account for maturity effects\nin clients or passage of time. Please see Tate et al. (2016) and Barlow, Nock,\nand Hersen (2009) for a more complete overview of different SCEDs.\nGiven the heterogeneous nature of youth and family problems, in some\ncases SCEDs may be the only or the best possible way to investigate inter-\nvention outcomes, either because the psychological condition is rare (e.g.,\ncertain comorbidity) or because analyses on a group level would imply\nloss of information (i.e., finding no intervention effect while an effect is\npresent in a certain subgroup) (Gaynor & Harris, 2008; Maric, Wiers, &\nPrins, 2012). Further, SCEDs can be used to test (novel) interventions\nprior to investigations in potentially demanding and costly RCTs (Jarrett\n& Ollendick, 2012; Norell-Clarke, Nyander, & Jansson-Fr¨ojmark, 2011).\nSCEDs also offer a great opportunity to stimulate collaboration between\nresearch and practice, unifying research questions that emerge from youth\nclinical practice on the one hand, and, on the other hand, research method-\nology to test these questions on the level of a single client (Borckardt et al.,\n2008).\nAs mentioned earlier, these and other benefits of SCEDs are recog-\nnized nowadays. At the same time, several challenges remain, mainly related\nto design and quantitative analysis of SCED data. Presently, various data-\nanalytic techniques exist to test intervention outcomes (i.e., changes in\none symptom over time) in SCEDs (for an overview, see, e.g., Manolov &\nMoeyaert, 2017): These techniques range from indices of improvement of\nthe symptom scores between phases (e.g., the classic percentage of nonover-\nlapping data: Scruggs, Mastropieri & Casto, 1987), to regression-based\napproaches that aim to model the time-series data (e.g., Center, Skiba, &\nCasey, 1985). More recent developments in this field concern, for instance,\nintegrating data of several subjects (e.g., hierarchical linear modeling (Hey-\nvaert et al., 2017) and methods that allow for testing effects with fewer\nobservation points per participant (Borckardt et al., 2008; Maric, de Haan,\nHogendoorn, Wolters, & Huizenga, 2015). However, methods that are able\nto test simultaneous changes in more than one variable (symptom) over\ntime have not received much attention in this field. Developing these meth-\nods could aid in discovering variables that are responsible for changes in\ncore client outcomes, the so-called “mediators”. Identification of mediators\ncan improve youth interventions by identifying effective intervention com-\nponents, and costs of interventions can be reduced by removing less potent\nintervention components (MacKinnon & Dwyer, 1993). In case of SCEDs,"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n41"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      44.50394821166992,
+      58.620567321777344,
+      367.3096618652344,
+      595.1173706054688
+    ],
+    "text": "knowledge about individual clients’ mediators of treatment outcomes could\ninform treatment-decision making and lead to a more evidence-based youth\npractice (Maric, Prins, & Ollendick, 2015).\nTherefore, the purpose of the current paper is to: (i) describe the con-\nceptual framework and outline desiderata for methods for mediation anal-\nysis in SCEDs; (ii) describe the main aspects of several data-analytic tech-\nniques potentially useful to test mediation in SCEDs; (iii) apply these meth-\nods to a single-case treatment data set from one clinically anxious client; and\n(iv) discuss pros and cons of these methods for testing mediation in SCEDs,\nand provide future directions.\nMediators of Intervention Outcomes: Definitions and Criteria.\nIntervention mediators are “mechanisms or processes through which an\nintervention might achieve its effects” (Kraemer, Wilson, Fairburn, &\nAgras, 2002, p. 878). There are many examples of studies that tested\ntreatment mediators using large group designs (i.e., RCTs) in different\nyouth populations (for an overview please see Maric, Prins, & Ollendick,\n2015). Kendall and Treadwell (2007), for example, tested whether cog-\nnitive behavioral therapy influenced changes in negative cognitions, and\nwhether these were, in turn, associated with changes in anxiety outcomes.\nIn youth with ADHD, it was tested whether treatment acceptance and ses-\nsion attendance mediated family treatment outcomes (MTA Cooperative\nGroup, 1999). Dekovic, Asscher, Manders, Prins, and van der Laan (2012)\ntested a sequence of two mediators: changes in parental competence were\nfound to lead to changes in parenting behaviors which in turn led to changes\nin adolescent externalizing behavior following intervention. Thus, the main\nidea of including mediators in the study is that a certain intervention will\nproduce changes in the mediator and that these changes will, in turn, affect\nintervention outcomes. This is a simplification of the goals of mediation\nanalysis, and there are numerous considerations related to mediation anal-\nysis. For a more in-depth treatment about why it is important to test for\nmediation, we refer the reader to the paper by O’Rourke and MacKinnon\n(2018).\nIn more statistical terms, a mediating variable M is a variable that\nlies within the causal chain between an independent variable X and a\ndependent variable Y (MacKinnon, 2008) and represents the mechanism\nof change, as illustrated in Figure 3.1. Panel A indicates a hypothetical\ncausal model in which therapy sessions (X) affect anxiety symptoms (Y). In\nPanel B, this relationship is hypothesized to be mediated: the therapy ses-\nsions (X) are hypothesized to reduce dysfunctional thoughts (M), which\nin turn would relieve the young client of anxiety symptoms (Y). In this\nway, the effect of the therapy on anxiety symptoms should primarily take\nplace through paths a and b, rather than through path c′. In the upcom-\ning sections, we provide an overview of historical tests for mediation and\nthe criteria that are necessary for understanding the framework in this\npaper."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "42\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      70.03800201416016,
+      58.620567321777344,
+      362.83154296875,
+      81.04230499267578
+    ],
+    "text": "Figure 3.1. Hypothesized causal pathway for cognitive therapy,\nwithout and with mediator."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.05326843261719,
+      253.0115966796875,
+      377.85162353515625,
+      350.8751525878906
+    ],
+    "text": "Testing for the Presence of Mediation. The model in Figure 3.1,\npanel A can be described and estimated using the first equation below. The\nmodel in Figure 3.1, panel B can be described and estimated using the sec-\nond and third equation below.\nˆY = i1 + cX\n(1)\nˆM = i2 + aX\n(2)\nˆY = i3 + c′X + bM\n(3)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.04948043823242,
+      357.5918884277344,
+      377.85931396484375,
+      595.2089233398438
+    ],
+    "text": "From these regression equations, several effects can be estimated using\ngroup-level experimental data (Baron & Kenny, 1986; Judd & Kenny, 1981;\nMacKinnon, 2008). First, the so-called total effect of the therapy on the\nsymptom variable, noted by path c here, can be estimated. Second, the\nmediated or indirect effect of therapy on the symptom variable can be esti-\nmated. The indirect effect refers to the part of the effect that is transmitted\nthrough the mediating variable. The remaining effect of the therapy on the\nsymptom variable that is not mediated by the mediator, is called the direct\neffect (path c′). The indirect effect can be computed by either taking the\nproduct of paths a and b, or by subtracting path c′ from path c; these two\napproaches lead to the same estimate of the indirect effect in linear models\nwith no missing data (MacKinnon, Warsi, & Dwyer, 1995). Some of the first\nproposed approaches for testing for mediation consisted of the evaluation\nof whether the c, a, and b paths were significant and whether c′ was smaller\nthan c (Baron & Kenny, 1986; Judd & Kenny, 1981). Note that these so-\ncalled causal steps approaches do not provide an estimate of the numeri-\ncal value of the indirect effect (MacKinnon, Lockwood, Hoffman, West, &\nSheets, 2002). Furthermore, the requirement that the total effect be signif-\nicant before testing for mediation is no longer used in mediation analysis\nbecause it is possible for an indirect effect to exist without a significant"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n43"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      44.505001068115234,
+      58.620567321777344,
+      367.3116455078125,
+      320.1426696777344
+    ],
+    "text": "total effect, and approaches that focus only on the significance of the a- and\nb-paths or their product have more power to detect mediated effects than\nmethods that require a significant total effect and a direct effect smaller than\nthe total effect (MacKinnon et al., 2002). Modern approaches for testing the\nsignificance of the mediated effect consist of constructing confidence inter-\nvals for the mediated effect and evaluating whether zero is in the interval.\nMethods for constructing intervals for the mediated effect that use critical\nvalues from the distribution of the product (MacKinnon et al., 2002) or that\ndo not make any assumptions about the distribution of the mediated effect\n(e.g., the bootstrap; MacKinnon, Lockwood, & Williams, 2004) lead to the\nbest statistical properties.\nCriteria for Establishing Mediation in Clinical Settings and Impli-\ncations for SCEDs. Mediation models posit a causal hypothesis, that is, the\nhypothesis that a certain treatment causes changes in the mediator which\nin turn causes changes in treatment outcomes. To infer causal effects from\ndata, certain criteria need to be established. Kazdin and Nock (2003) sum-\nmarized criteria for causal inference specifically for mediation in youth clin-\nical studies, of which we will focus on the following: (a) temporal prece-\ndence, (b) (strong) association, (c) specificity and (d) experiment. Note\nthat these are in line with criteria for mediation of other authors in a more\ngeneral intervention context, such as Kraemer et al. (2002), MacKinnon\n(2008), and Maric et al. (2012)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      54.65721130371094,
+      333.68524169921875,
+      367.3055114746094,
+      595.2156982421875
+    ],
+    "text": "(a) The criterion of temporal precedence requires that it be possible to\nverify whether the change in the outcome variable indeed resulted\nfrom a preceding effect of the therapy on the mediator. Therefore,\nthe data should demonstrate a change in the mediator between ther-\napy phases, and this change should occur before the change in the\noutcome variable.\n(b) The criterion of (strong) association refers to the strength of a rela-\ntion between the variables. In group-level mediation, the joint sig-\nnificance test (MacKinnon et al., 2002) can be used to establish\nwhether the relation between the independent variable and medi-\nator (a path) and the relation between the mediator and outcome (b\npath) are significant. However, in SCEDs, strong association cannot\nbe measured using group-level analysis methods or effect sizes, since\nthese analysis methods require entirely different data structure and\nbetween-subject comparisons. However, the relation between ther-\napy on the one hand, and mediating variables on the other hand\n(i.e., path a) can be estimated using various statistical methods in\nSCEDs. For instance, data could demonstrate an association between\ntherapy and the mediator if there is a significant difference in average\nlevel of scores of an individual on the mediator between phases, or\nif the trend of the scores on the mediator changes between phases.\nThat is, if adolescents rate their coping skills higher on average (or"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "44\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      65.01615142822266,
+      58.620567321777344,
+      377.85577392578125,
+      595.1173706054688
+    ],
+    "text": "increasingly higher) during the treatment compared to the baseline\nphase, this could be indicative of the treatment effect on coping skills.\nIf this improvement in coping skills is then followed by an improve-\nment in symptoms (by comparing scores of symptoms with coping\nskills at a previous time point), these findings are indicative of a\nnonzero b path, which together with a nonzero a-path suggests medi-\nation. Also, there is currently no clear way to compute the magnitude\nof the mediated effect using analysis methods for SCEDs which is\nwhy we will mainly refer to the joint significance of the SCED equiv-\nalents of the a- and b-paths rather than the strength of the mediated\neffect.\n(c) The specificity criterion requires that the change in the mediator is\ndue to the treatment, and that the change in the outcome is due to the\nmediator. In group designs, this is established using a comparison\nof the treatment and control groups. In SCEDs, specificity can, for\ninstance, be investigated by determining how and whether imme-\ndiate change of the mediator appears after a change in phase, and\nwhether changes in the mediator precede changes in the outcome.\nIn multiple baseline designs, in which a small set of SCEDs are com-\nbined by alternating the length of the baseline phase, specificity can\nalso be established when the timing of the effect does not depend\non the length of the baseline phase. Establishing specificity in the\nrelationship between the mediator and outcome is more challenging\nthan establishing specificity in the relationship between the treat-\nment and mediator because the values of the mediator are not manip-\nulated in the experiment (Pirlott and MacKinnon, 2016) describe\nseveral methods for manipulating the mediator in order to make\ncausal inferences about the relationship between the mediator and\noutcome; however, this is not always feasible nor ethical, and thus\nwe will not entertain these approaches in the current paper).\n(d) The experiment criterion requires all other causes to be ruled out,\nfor instance, by testing the hypothesized causal path in an experi-\nmental design. Although a SCED is an experimental design, clinical-\npsychological therapies can hardly be investigated in a true exper-\nimental setting, that is, a setting in which subjects are completely\nisolated from other influences, comparable to a laboratory setting.\nClinical improvement could have other possible causes that cannot\neasily be ruled out, such as maturation and mood of the client. Maric\net al. (2012) suggested as an alternative that, in therapy research,\nmediating variables can be compared with variables which are not\nintended to change during a specific treatment, that is, the so-called\nnonmediators. If the paths that constitute the indirect effect (i.e.,\nthe equivalents of the a- and b-paths in SCEDs) are stronger for the\nproposed mediators than for the proposed nonmediators, then this\nis additional evidence for mediation."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n45"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      44.50421905517578,
+      58.620567321777344,
+      367.308837890625,
+      595.1173706054688
+    ],
+    "text": "Note that we focused on the criteria Kazdin and Nock (2003) offered\nthat can be assessed using a single dataset. In addition to these minimum\ncriteria, elements such as consistency of evidence of mediation across studies\nand plausibility of the mechanisms of change according to theories are crite-\nria for establishing mediation across studies and contribute to the credibility\nof the observed mediated effect (Kazdin & Nock, 2003). Finally, establish-\ning a gradient, that is, that more of an independent variable or mediator\nresults in more improvement on the dependent variable, is another criterion\nKazdin and Nock offer (2003).\nProposed Framework for Mediation in SCEDs. As mentioned ear-\nlier, most current data-analytic techniques for SCEDs are concerned with\ntests of univariate outcomes (i.e., one variable at the time). However, these\nanalyses cannot automatically be applied to investigate mediators of inter-\nvention outcomes in SCEDs. The framework for mediation analysis in\nSCEDs that we propose in this paper is a combination of the joint sig-\nnificance approach (MacKinnon et al., 2002) and the criteria described\nby Kazdin and Nock (2003). More specifically, our approach concerns the\nSCED equivalents of the a and b paths in group-level mediation analysis\n(which is what makes it akin to the joint significance approach), and we use\nthe Kazdin and Nock (2003) criteria that are possible to evaluate for a given\npath using existing SCEDs analysis methods. Note that we still include\ninformation about the significance of the SCED equivalent of the total effect\n(the so-called c path) because this might be of interest for researchers, but a\nsignificant total effect is not a prerequisite for testing for mediation (Kenny,\nKashy, & Bolger, 1998, p. 260; MacKinnon et al., 2002).\nMethods to Test Mediators of Interventions Effects in SCEDs. Test-\ning potential mediators of therapy effects in SCEDs requires considering at\nleast two variables measured repeatedly over the course of the study, that is,\nat least one potential mediator and one dependent variable, across multiple\nphases (phase represents the independent variable in this mediation model)\nin the same statistical analysis. Drawing from our discussion of criteria\nabove, analysis methods should provide us with information on temporal\nprecedence, specificity and associations between all variables in the single\nmediator model. To our knowledge, there is only one explicit approach\nto assess mediation in SCEDS: the method utilized in a study by Gaynor\nand Harris (2008). The existing method is qualitative in nature because it\ndepends on visual analysis, and it does not conform to any formal frame-\nwork for testing mediation. One of our goals in this paper is to adapt quanti-\ntative methods for SCEDs to an established set of criteria and procedure for\ntesting mediation. The Gaynor and Harris (2008) method deviates from this\ngoal; thus we apply this method to the example data set, but we report the\nprocedure and findings in Appendix A in order to avoid digressing from the\nmain message of the paper. In contrast, we would like to suggest a method\nthat combines several existing analysis methods developed for SCED\ndata, that is, combining the Tau-U and piecewise regression analysis with"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "46\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.05194854736328,
+      58.620567321777344,
+      377.8554992675781,
+      595.1163330078125
+    ],
+    "text": "cross-lagged correlations. We briefly describe these three methods. Due to\nspace constraints and the main focus of the paper being the theoretical\nframework for which the methods are repurposed, we will not explain each\nmethod in detail; instead, we provide references for the interested reader.\nWe identified two promising methods for testing the a-path in media-\ntion analysis in SCEDs: Tau-U and piecewise regression analysis. Analysis\nmethods for SCED in general can evaluate univariate time series with phases\non multiple aspects, such as level, trend, and immediacy of effect (Kra-\ntochwill et al., 2013). Level can be conceptualized as the mean or median\nof the scores of a participant within a phase. Trend can be measured as the\nslope of a fitted regression line for the scores of a participant within a phase,\nindicating whether scores seem to be increasing or decreasing over time. A\nmethod can be used to evaluate immediacy of an effect if it demonstrates to\nwhat extent the effect of the phase variable on the score variable is imme-\ndiate or gradual. For instance, for the first score of a new phase (e.g., B),\npiecewise regression estimates the difference between an estimate of the\nscore based on the trend and level of the previous phase (e.g., A) and an\nestimate of that score based on trend and level of the new phase (e.g., B).\nA large difference could indicate an immediate effect of the introduction\nof therapy. The Tau-U and the piecewise regression analysis are chosen\nbecause they offer information on level, trend and even immediacy of the\neffect simultaneously, along with a significance test for the change between\nphases.\nIn general, tests of between-phase changes in level and between-phase\nchanges in trend can be used to establish the criterion of (strong) asso-\nciation. For instance, an improvement of the mean of a symptom variable\nindicates an association between the therapy (phase) and the symptom, that\nis, the total effect. Methods that provide information about the immediacy\nof an effect can be used to assess whether improvements were immediate\nafter the introduction of a new phase (indicating specificity) and to assess\nwhether most of the improvement in a symptom (outcome) variable took\nplace after improvement in the mediating variable, thus indicating temporal\nprecedence.\nTau-U. Tau-U measures the between-phase change in the level of the\nvariable by quantifying nonoverlap (Parker, Vannest, Davis, & Sauber,\n2011). Pairwise difference scores between all scores from one phase and all\nscore from a previous phase are made. For instance, if we had 4 data points\nin one phase and 5 data points in another, we would have 4 × 5 pairwise\ndifference scores. Using the sign of these difference scores, the number of\ndifference scores that are positive, negative or tied can be computed. The\npercentage of nonoverlapping pairs is computed by subtracting the number\nof negative difference scores from the number of positive difference scores\nand dividing it by the total number of difference scores. Tau-U can also\nbe used to quantify the nonoverlap of scores within phases, which can be\ninterpreted as the within-phase trend. Data points are then compared to"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n47"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      44.505001068115234,
+      58.620567321777344,
+      367.30645751953125,
+      595.1173706054688
+    ],
+    "text": "adjacent scores, such that in a phase with 4 data points, there would be 6\n(i.e., 3 + 2 + 1) difference scores.\nThe criterion of strong association can be established using the esti-\nmates of changes in level. If there appears to be a trend in the base-\nline phase which already indicates clinical improvement of the client,\nthe estimated between-phase change in level can be corrected using\nthe estimated baseline trend. For instance, there might be a significant\nincrease in level between the two phases for a client while the trend of\nimprovement is similar in the two phases, providing no indication that\nthe improvement is related to the introduction of a therapy. Analysis\nemploying Tau-U in this paper can be replicated using the Tau-U calcula-\ntor at http://www.singlecaseresearch.org/calculators/tau-u (Vannest, Parker,\nGonen, & Adiguzel, 2016).\nPiecewise Regression Analysis. Piecewise regression analysis, first pro-\nposed by Center et al. (1985), allows for estimation of the immediacy of\nchange simultaneously with the level and trend (Manolov & Moeyaert,\n2017). Ordinary Least Squares regression lines are fit to scores separately\nfor each phase and the differences between regression lines per phase are\nquantified. For instance, in an AB-design, the regression coefficients of the\npiecewise regression analysis provide estimates of the level of the first time\npoint of phase A (i.e., the intercept), of the trend in phase A (the regression\ncoefficient for a linear time variable), the change in level at the start of phase\nB (difference between the intercept of phase B and the predicted score if this\nwould have been a score in phase A), and of the change in trend between\nthe two phases (the difference in regression coefficients of the linear time\nvariable between phases) (Manolov, Moeyaert, & Evans, 2016). Example\ncode for piecewise regression analysis of an SCED data with an AB-design\nis provided in a tutorial by Manolov et al. (2016).\nCross-Lagged Correlations. To our knowledge, this is the only suit-\nable SCED analysis method for testing the b path in mediation analysis.\nWith cross-lagged correlation the following question could be tested in\nSCED: Are changes in negative cognitions associated with changes in anx-\niety symptoms or vice versa? The analysis allows for the tests of temporal\nprecedence (e.g., Do negative cognitions change before anxiety symptoms\nchange?) and (the direction of) the association between mediator and symp-\ntom variables (e.g., Are decreases in negative cognitions associated with\ndecreases in anxiety symptoms?). Output of the analysis provides us with\ninformation about the cross-lagged correlations—the measures of associa-\ntion between two time series—and the association between two variables is\ntested “forward” and “backward” over time (Borckardt et al., 2008). Note\nthat cross-lagged correlations have been historically considered a method\nfor inferring “causal predominance,” that is, whether changes in variable 1\ncause (precede) changes in variable 2 or vice-versa, but that this method\ncan yield spurious results about the causal predominance of two variables\n(Rogosa, 1980). In this application, we assume that changes in the mediator"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "48\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      55.053001403808594,
+      58.620567321777344,
+      377.8544616699219,
+      152.7657012939453
+    ],
+    "text": "cause changes in the outcome, which subsumes assumptions that the causal\norder of variables in the single mediator model is correct and the assumption\nof no measured confounders of the relationship between the mediator and\noutcome. We use the cross-lagged correlation between the mediator and\nthe outcome as a proxy for the b-path in the single mediator model. Cross-\nlagged correlations can be computed using the Simulation Modeling Anal-\nysis software available at https://www.clinicalresearcher.org/software.htm\nWe describe a dataset used to illustrate the methods below."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      55.053001403808594,
+      171.54600524902344,
+      125.93746185302734,
+      183.0030059814453
+    ],
+    "text": "Case Example"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      55.052391052246094,
+      190.21859741210938,
+      377.8572998046875,
+      595.207275390625
+    ],
+    "text": "The participant was a 9-year-old boy who met inclusion and exclusion\ncriteria1 for a broader study investigating the additional value of cogni-\ntive therapy over and above exposure therapy for youth anxiety. The SCED\nincluded multiple assessments during the first treatment phase (B-phase\n= exposure; EXP) followed by a C-phase (exposure + cognitive therapy;\nEXP+CT) and a follow-up phase, D. All phases had a duration time of 4\nweeks. The study was conducted jointly by the University of Amsterdam,\nDevelopmental Psychology, and de Bascule in Amsterdam, Academic Cen-\ntre for Child and Adolescent Psychiatry. Both youth and parents provided\nwritten informed consent allowing their data to be used for the purposes of\nscientific research. At pretreatment, the participant met criteria for separa-\ntion anxiety disorder (Clinical Severity Rating [CSR]2 = 6), and generalized\nanxiety disorder (CSR = 6), assessed via administration of the Anxiety Dis-\norders Interview Schedule for Children/Parents (ADIS-C/P; Silverman &\nAlbano, 1996).\nFor the purposes of the current study, daily assessments of client’s anxi-\nety symptoms and coping ability were obtained during all phases. The client\nrated two items daily (“How anxious did you feel today?” and “How well\ncould you deal with your anxiety?”) on a 5-point scale3 ranging from “not\nat all” to “very much.” Previous theory and research suggested that coping\ncould be an important mediator of cognitive and exposure therapy out-\ncomes (Hogendoorn et al., 2014; Prins & Ollendick, 2003), and the data\nwas gathered to gain insight into one of the main goals of the broader study,\nnamely: Whether changes in coping ability are associated with the pres-\nence of cognitive therapy (phase) and whether changes in anxiety symp-\ntoms (Anxiety; outcome variable) follow and are negatively associated with\nchanges in coping ability (Coping; mediator). The total number of obser-\nvations per phase was twenty-six, thirty-two, and fourteen for phases B, C,\nand D, respectively. For the purposes of this study, missing data points were\ndeleted, thus resulting in a dataset useful only for illustrating the meth-\nods. The percentage of missing data was 14,5% and data were missing for\ntwo reasons: on some days the participants did not fill out the items, and\non other days the participants reported no anxiety and; thus, there was\nno coping required. For the purposes of the current study this remains"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n49"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      44.505001068115234,
+      58.620567321777344,
+      367.3085632324219,
+      104.94727325439453
+    ],
+    "text": "an interesting data set; however, the deletion of the missing values could\nresult in inaccurate findings about the timing of therapy effects; thus one\nshould not interpret the findings detailed here as the actual effect of this\ntherapy."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      44.505001068115234,
+      135.6809844970703,
+      81.29800415039062,
+      147.1379852294922
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      44.505001068115234,
+      154.35360717773438,
+      367.3138427734375,
+      595.2135620117188
+    ],
+    "text": "Data were analyzed using methods as detailed in the methods section. First,\nwe conducted a visual inspection of the data. Second, the Tau-U, piecewise\nregression analysis, and cross-lagged correlations were carried out.\nFor visual analysis, scores of Coping and Anxiety over time are plotted\nin Figure 3.2. These graphs can be used to inspect visually whether pat-\nterns of the scores (e.g., level or trend) have changed across phases, that is,\nwhether the treatment in phase C and the absence of treatment in phase D\ncould have caused a change in trend or level of Coping and Anxiety scores\nover time.\nFor both Anxiety and Coping, the scores mainly shift between two val-\nues throughout the EXP phase (respectively between 4 and 6 and between 2\nand 4), with minimal shifts to values outside those two. Although scores of\nboth variables somewhat stabilize on 4 at the end of this phase, these scores\nshow no clear (improving) trend in the EXP phase. As the CT treatment\nis introduced at time point 27, Coping scores start to shift between 2 and\n6 until time point 40, and after that show an increasing trend toward the\nhighest score, 8. In that same time, Anxiety scores increase and remain high,\nbetween 6 and 8 until about time point 50, and show a decreasing trend after\ntime point 50. Finally, as treatment is withheld in follow-up phase, after 4\ndays of scores of 6 to 8, Coping scores start to vary between 2 and 8 and\neven 0 and 8, indicating a deterioration of Coping skills compared to the last\npart of the EXP+CT phase. A similar deterioration can be seen for Anxiety,\nas Anxiety scores vary between 2 and 8 again, also indicating an increase in\nAnxiety symptoms.\nOverall, these observed changes in patterns of scores between phases\ncould indicate that values of Anxiety and Coping are affected by the change\nin phases, which could therefore indicate an association between the vari-\nables and the phase, that is, the existence of the a and c paths in the media-\ntion model. Regarding specificity, phase changes are visibly associated with\nchanges in patterns of both Coping and Anxiety. For example, while Coping\nhad stabilized for 5 days around the end of EXP, it started to shift between\n2 and 6 from the start of the EXP+CT phase. The improvement of Coping\nand Anxiety seem to be related to the EXP+CT phase, as both the first phase\nand the follow-up phase are much more variable. However, we cannot rule\nout other possible explanations of this change in variability in Coping and\nAnxiety between therapy phases, such as maturation and the mood of the\nclient."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "50\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      74.58300018310547,
+      58.620567321777344,
+      358.31964111328125,
+      92.99475860595703
+    ],
+    "text": "Figure 3.2. Graphical displays for the hypothesized mediator\n(Coping) and outcome (Anxiety) for the participant. No. of\nobservations: phase B = 26, phase C = 32, phase D = 14."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      55.05326843261719,
+      465.1866149902344,
+      377.8558349609375,
+      595.2059936523438
+    ],
+    "text": "Regarding the association between mediator and outcome and tempo-\nral precedence, the scores of Coping of the participant seem to improve at\nthe start of phase C (EXP+CT), while the improvement in Anxiety mainly\ntakes place after the Coping has reached a stable high level (i.e., after time\npoint 50). Also, as Coping is deteriorating in the follow-up phase, so is\nAnxiety. To conclude, these initial findings of visual analysis suggest that\nthe improvement of Anxiety level might be mediated by the improvement\nin Coping skills of the participant.\nTau-U Method Results. As noted in the Methods section, Tau-U pro-\nvides estimates of trend and between-phase level change. Table 3.1 contains\nthe results using Tau-U."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n51"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      60.56999969482422,
+      58.620567321777344,
+      351.2380065917969,
+      81.04230499267578
+    ],
+    "text": "Table 3.1. Results of the Analysis Using Tau-U for Anxiety and\nCoping for the Participant"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      183.572998046875,
+      89.76145935058594,
+      346.5687561035156,
+      98.72785949707031
+    ],
+    "text": "Tau-U\np-Value\n90% CI"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      44.50423812866211,
+      107.29356384277344,
+      367.28302001953125,
+      255.67495727539062
+    ],
+    "text": "Trend Estimates\nCoping (EXP)\n0.065\n0.64\n[−0.165, 0.294]\nCoping (EXP+CT)\n0.534\n<0.01∗\n[0.330, 0.739]\nCoping (FU)\n−0.275\n0.17\n[−0.605, 0.055]\nAnxiety (EXP)\n0.009\n0.95\n[−0.220, 0.239]\nAnxiety (EXP+CT)\n−0.280\n0.02∗\n[−0.485, −0.076]\nAnxiety (FU)\n0.407\n0.04∗\n[0.076, 0.737]\nBetween-Phase Level Difference\nCoping (EXP vs. EXP+CT)\n0.718\n<0.01∗\n[0.465, 0.970]\nCoping (EXP+CT vs. FU)\n−0.092\n0.62\n[−0.399, 0.216]\nAnxiety (EXP vs. EXP+CT)\n0.160\n0.30\n[−0.093, 0.413]\nAnxiety (EXP+CT vs. FU)\n−0.221\n0.24\n[−0.529, 0.087]\nCorr. Between-Phase Level Difference\nCoping (EXP+CT vs. FU)\n−0.683\n<0.01∗\n[−0.991, −0.375]\nAnxiety (EXP+CT vs. FU)\n0.089\n0.63\n[−0.218, 0.397]"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      44.505001068115234,
+      262.3619384765625,
+      367.29840087890625,
+      281.08184814453125
+    ],
+    "text": "Note. Obtained using the Tau-U web-based calculator (Vannest et al., 2016) ∗p <.05, EXP = expo-\nsure phase (B), EXP+CT = exposure + cognitive therapy phase (C), FU = follow-up phase (D)"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      44.50212860107422,
+      309.7655944824219,
+      367.3078308105469,
+      595.2094116210938
+    ],
+    "text": "Regarding trends, as was concluded in the visual inspection of the data,\nthere is no clear trend in the EXP phase for both Anxiety (Tau-U = .009,\np = .95) and Coping (Tau-U = 0.065, p = .64). In the EXP+CT phase, there\nis a significant trend for both variables, both in the expected direction, that\nis, a decreasing trend in Anxiety level and an increasing trend in Coping\nskills. In the follow-up phase, Anxiety has a significant increasing trend\nand Coping has a nonsignificant decreasing trend.\nFor Coping, there is a significant increase in level between phase B and\nphase C (Tau-U = 0.718, p < .01) and there is a nonsignificant decrease in\nlevel between phase C and phase D (Tau-U = −0.092, p = .62), which turns\ninto a significant decrease in level when corrected for the significant trend\nin phase C (Tau-U = −0.683, p < .01). For Anxiety, there is a nonsignificant\nincrease in level between phase B and phase C (Tau-U = 0.160, p = .30) and\nthere is a nonsignificant decrease in level between phase C and D (Tau-U =\n−0.221, p = .24), which turns into a nonsignificant increase in level when\ncorrected for the trend in phase C (Tau-U = 0.089, p = .63), although it\ncould be attributed to a floor effect.\nRegarding strong association, the significant increase in level between\nphase C and B for Coping indicates that there is a strong association between\nCoping and EXP-CT. Also, when corrected for the trend in the EXP-CT\nphase, the change in level between phase D and C demonstrates a signif-\nicant decrease of Coping skills after treatment is withheld. The results of\nthe Tau-U do not provide information about the immediacy of the change,\nwhich limits the information for the specificity and temporal precedence"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "52\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      59.327999114990234,
+      58.620567321777344,
+      373.5641784667969,
+      92.99475860595703
+    ],
+    "text": "Figure 3.3. Graphical displays of the piecewise regression estimates\nfor the hypothesized mediator (Coping) and outcome (Anxiety)\nof the participant."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      55.053001403808594,
+      482.019775390625,
+      377.8676452636719,
+      516.8905029296875
+    ],
+    "text": "Note: The solid lines across phases indicate the estimated trend in the respective phase and the\nsolid vertical lines at the start of each phase indicate the change in level between the respective\nphase and the previous phase. The blue numbers indicate the (change in) level, the green numbers\nindicate the within-phase trend and the red numbers indicate the change in trend."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      55.053001403808594,
+      536.9165649414062,
+      377.8482666015625,
+      595.2041625976562
+    ],
+    "text": "criteria. However, the trend estimates differ in direction between phases,\nwhich could suggest that the pattern of scores changes specifically due to\nthe changes in phase. However, it would be necessary to test other plausible\ncauses of change to establish specificity as defined by Kazdin and Nock\n(2003)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n53"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      49.805999755859375,
+      58.620567321777344,
+      361.9834899902344,
+      81.04230499267578
+    ],
+    "text": "Table 3.2. Results of Piecewise Regression Analysis for Anxiety and\nCoping of the Participant"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      148.42799377441406,
+      89.76145935058594,
+      365.7366943359375,
+      98.72785949707031
+    ],
+    "text": "B\nSE B\nt-Value\np-Value"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      44.505001068115234,
+      106.6790771484375,
+      366.7959899902344,
+      176.4659423828125
+    ],
+    "text": "Copinga,b\nIntercept\n2.91\n.52\n5.57\n<.001∗∗\nTime1\n.01\n.04\n.21\n.83\nPhase\n.34\n.73\n.47\n.64\nPhase time2\n.15\n.04\n3.28\n.002∗∗\nPhase2\n−1.31\n1.30\n−1.00\n.32\nPhase2 time3\n−.49\n.14\n−3.38\n.002∗∗"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      44.505001068115234,
+      176.91506958007812,
+      366.7959899902344,
+      246.70150756835938
+    ],
+    "text": "Anxietyc,d\nIntercept\n5.15\n.62\n8.31\n<.001∗∗\nTime1\n.01\n.04\n.31\n.76\nPhase\n1.69\n.86\n1.95\n.06\nPhase time2\n−.10\n.05\n−1.99\n.05\nPhase2\n−2.24\n1.20\n−1.86\n.07\nPhase2 time3\n.51\n.13\n3.82\n<.001∗∗"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      44.505001068115234,
+      253.388916015625,
+      124.56367492675781,
+      301.40087890625
+    ],
+    "text": "Note. ∗p <.05; ∗∗p <.01.\nar2 = .154, p = .03.\nbr2 = .319, p < .01.\ncr2 = .637, p <.01.\ndr2 = .348, p <.01."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      44.50421905517578,
+      321.7265930175781,
+      367.3052673339844,
+      595.207275390625
+    ],
+    "text": "Piecewise Regression Method Results. Results of the piecewise\nregression analysis can be seen in Figure 3.3 and Table 3.2. Due to the\nspecific coding of the predictors, the regression coefficients of the piece-\nwise regression analysis provide estimates of the level at the first time point\nin phase B (intercept), the trend in phase C (time1), the change in level at\nthe start of phase D (phase), the change in trend between phases C and D\n(phase time2), the change in level at the start of phase B (phase2), and the\nchange in trend between phases D and B (phase2 time3) (Manolov et al.,\n2016).\nSimilar to the results of Tau-U and the visual analysis, there is no clear\ntrend in the EXP phase for both variables. For Coping, there is a slight\nincrease in level at the start of the EXP+CT phase (B = 0.34, p = .64),\nfollowed by a significant positive change in trend, indicating an increasing\ntrend (B = 0.15, p = .002). At the start of the follow-up phase, the Cop-\ning score drops (B = −1.31, p = .32), followed by a significant negative\nchange in trend, indicating a decreasing trend (B = −0.49, p = .002). For\nAnxiety, there is a nonsignificant increase in level at the start of phase C\n(B = 1.69, p = .06), followed by a marginally significant negative change\nin trend (B = −0.10, p = .05). Although the level of the scores at the start\nof phase D is quite below what was expected from the level of phase C\n(B = −2.24, p = .07), it is followed by a significant positive change in trend\n(B = 0.51, p <.001). The differences between the results obtained using\npiecewise regression and Tau-U can be explained by the fact that piecewise"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "54\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      128.66432189941406,
+      58.620567321777344,
+      304.23419189453125,
+      92.99475860595703
+    ],
+    "text": "Table 3.3. Cross-Lagged Correlations\nBetween Coping and Anxiety Across B\nand C Phase"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      126.78299713134766,
+      100.23580169677734,
+      295.31292724609375,
+      110.68000793457031
+    ],
+    "text": "Lag∗\nr"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      126.78299713134766,
+      118.6348648071289,
+      305.60498046875,
+      177.9586181640625
+    ],
+    "text": "−05\n−.18\n−04\n−.38∗∗\n−03\n−.23∗\n−02\n−.19\n−01\n−.16\n0\n−.56∗∗"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      126.78299713134766,
+      186.3157501220703,
+      306.09600830078125,
+      221.24684143066406
+    ],
+    "text": "Note. Obtained using the Simulation Modeling Analysis\n(SMA) program (Borckardt et al., 2008).\n∗The standard number of lags provided in SMA is five.\n∗p < 0.05, ∗∗p < 0.01."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      55.053001403808594,
+      238.03561401367188,
+      377.85760498046875,
+      595.2112426757812
+    ],
+    "text": "regression provides relative estimates of trend, that is, a change in trend\nrelative to the previous phase, rather than absolute estimates of trend.\nAll in all, the results of piecewise regression analysis provide mod-\nerate support for strong association between the therapy variable and the\nmediator (Coping). Similar to the results of the visual analysis, the imme-\ndiate change-in-level estimate demonstrates that the level of Anxiety first\nreaches a high and stable level, followed by a decreasing trend. The imme-\ndiate change-in-level estimate for Coping demonstrates a slight increase,\nfollowed by an increasing trend, which suggest that Coping is improv-\ning specifically due to therapy. These findings suggest that the increase in\nCoping skills precedes the clinical improvement in Anxiety level, which\nprovides information for the temporal precedence criterion. Although the\nimmediate change-in-level estimates of Anxiety are not in the expected\ndirection, the findings support the hypothesis that Anxiety improves grad-\nually due to therapy.\nCross-Lagged Correlation Results. As described in the Methods sec-\ntion, a cross-lagged correlation is a measure of association between both\ntime series of the mediator and the outcome variable (i.e., Coping and\nAnxiety) and can be used as a proxy for the b-path. Results of cross-lagged\ncorrelation can be found in Table 3.3. The column Lag indicates the number\nof days between the scores, that is, a lag of −01 indicates that each Anxi-\nety scores was compared to the Coping score of 1 day earlier. Therefore, a\nnegative lag means that the change in Coping preceded change in Anxiety.\nAs indicated in Table 3.3, Coping and Anxiety change concurrently (lag\n0 correlation) or changes in Coping precede changes in Anxiety symptoms\n(significant lags −04 and −03). Unexpectedly, Anxiety scores are not signif-\nicantly associated with Coping scores of 1 or 2 days in study earlier, but only\nat the same moment, or 3 or 4 days in study earlier. Therefore, our results\nwith regard to the association between the mediator and the outcome, and\nthe temporal precedence remain inconclusive."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n55"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      44.505001068115234,
+      58.59601974487305,
+      182.250244140625,
+      70.05302429199219
+    ],
+    "text": "Discussion and Conclusion"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      44.50291061401367,
+      77.25948333740234,
+      367.30963134765625,
+      589.8480834960938
+    ],
+    "text": "In the current study we aimed to: (i) describe the conceptual framework\nand outline desiderata for methods for mediation analysis in SCEDs; (ii)\ndescribe the main aspects of several data-analytic techniques potentially\nuseful to test mediation in SCEDs; (iii) apply these methods to a single-case\ntreatment data set from one clinically anxious client; and (iv) discuss pros\nand cons of these methods for testing mediation in SCEDs, and provide\nfuture directions. The results are discussed in the light of criteria set for\nstatistical mediation analysis (Judd & Kenny, 1981; Kazdin & Nock, 2003;\nMacKinnon, 2008). Overall, by using this approach on hypothetical data,\nthere was some evidence that Coping could potentially mediate the effect of\nCBT on Anxiety for this participant. The initial visual analysis was useful to\nobserve the variability between scores (corresponding to the a path) and to\nevaluate whether there was temporal precedence for changes in Coping and\nAnxiety (corresponding to the b path in the mediation model), but it had\nto be followed up with statistical analyses to determine whether the trends\nwithin phases and changes in level and trend between phases (correspond-\ning to the a path in the mediation model) were in the hypothesized direction\nand significant. Crossed-lagged analysis was helpful in determining the b\npath of mediation model.\nTau-U provided significance tests to compare scores between phases,\nand more information about the strong association criterion. Tau-U indi-\ncated that CT led to significant changes in Coping levels but not in Anxiety\nscore levels, which provided additional support for the existence of the a\npath and no support for the existence of the c path.\nPiecewise regression results indicated that there were significant\nchanges in trend of Anxiety between the EXP+CT and follow-up phases,\nthus providing moderate support for the existence of the c path. Results\nof piecewise regression also showed that there was a significant change in\ntrend in Coping between the EXP and EXP+CT phases, thus providing\nevidence for the existence of the a path. Furthermore, the Coping scores\nimproved before the Anxiety scores, thus providing some evidence for the\ncriterion of temporal precedence.\nFollowing these comparisons between the methods, evidence for\nmediation could be found in a conjunction of a significant between-level\ndifferences on the mediator between the baseline and therapy phases (using\nTau-U), a significant changes in both level and trend in the hypothesized\ndirections between baseline and therapy phases for the mediator (using\npiecewise regression), and temporal precedence in changes between\nmediator and outcomes (using cross-lagged correlation).\nOne notable shortcoming of existing methods for SCEDs is that they\ncould not be easily adapted to measure the strength of association between\nthe mediator and outcome controlling for the independent variable (b path)\nand between the independent variable and outcome controlling for the"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "56\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      55.053001403808594,
+      58.3813591003418,
+      377.8586120605469,
+      583.5677490234375
+    ],
+    "text": "mediator (c′ path). Thus, our inferences about the b path could only be\nbased on whether the temporal precedence criterion was satisfied, and for\nthis evidence we had to rely on visual analysis and cross lagged correlations,\nwhich then led to the question of expected timing of the changes in the\nmediator and outcome.\nWhen using cross-lagged correlations, it is unclear how many days\nshould elapse after the introduction of EXP+CT before a change in the\nmediator, and how many days after that should there be a change in the\noutcome for the pattern to suggest an indirect effect of EXP+CT on Anxiety\nthrough changes in Coping. At the same time, this could be an issue related\nto the data sets in general in this type of research that is hard for analysis\nmethods to accommodate to that. In this data set, Coping scores stabilize\nat a value of 8 near the end of EXP+CT; however, the scores in Anxiety are\nstill oscillating and not showing a clear improvement in this time period. To\nestablish temporal precedence of the changes in the mediator and outcome,\nwe would need to find evidence that there was a change in both, and then\nobserve whether this change follows the temporal sequence that matches\nour hypothesis and that occurs in a reasonable time frame. What counts\nas “reasonable” will vary between studies, populations, and therapies being\ntested.\nThe potential proxy for the b path described in this paper is the (lagged)\ncorrelation of Coping and Anxiety. However, this proxy is not equivalent to a\npartial regression coefficient that controls for the effect of the independent\nvariable as in group-level analyses. The analysis in this paper highlights\nthe need for new methods for mediation analysis in SCEDs that can com-\npute the b path and test whether it is statistically different from zero. One\nother issue that was not illustrated in our study per se, but is a common\nchallenge for examining mediators (i.e., mechanisms of change during an\nintervention) in SCEDs is missing data. Even if one were to attempt multiple\nimputation of missing data (Peng & Chen, 2018), there are no studies that\nevaluated how much bias could be introduced in the results. Furthermore,\neven in group-level analyses, the appropriateness of multiple imputation\ndepends on the missingness mechanism (Rubin, 1976), and in clinical set-\ntings, it might be the case that data are missing not at random (MNAR; e.g.,\nparticipants could fail to report their level of Anxiety on a given day because\nthey were too anxious), which cannot be resolved by multiple imputation.\nIn the example data set, there were two reasons for missing data: on some\ndays the participants did not fill out the questionnaires, and on other days\nthe participants reported no Anxiety and thus there was no Coping required.\nIn the above analyses, we used listwise deletion because our goal was\nprimarily to illustrate promising methods; however, it is not clear whether\nthis practice is advisable when analyzing SCEDs.\nIn conclusion, the aims of this article were to illustrate the available\nmethods for SCEDs that can be used for mediation analysis, and to highlight"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n57"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.505001068115234,
+      58.620567321777344,
+      367.3096008300781,
+      296.2376708984375
+    ],
+    "text": "the developments that are still required for mediation analysis in SCEDs.\nWhile these methods still need to be tested in simulation studies, the appli-\ncation of these promising methods to the same real-life data set illustrated\nsome challenges that applied researcher encounter when testing mediated\neffects in SCEDs, and we discussed additional challenges that might arise\nwith more missing data. Next steps for methodologists will be to develop\nmethods that allow for the computation of the b path in the mediation\nmodel in SCEDs, so that all steps of the joint significance approach can be\ntested including the b path. In case of determining full or partial mediation\non a single-client level it would also be interesting to be able to calculate\nthe c′ path, too. It further remains unclear whether the sum of the numer-\nical estimates of indirect and direct effects would add up to equal the total\neffect (as in group-level mediation analysis with continuous outcomes and\nno missing data), and whether we can also compute the indirect effect as\nc-c′. Ideally, methods will be developed for SCEDs that perform better in\ngroup-level mediation analyses, such as the distribution of the product and\nbootstrap confidence limits for the mediated effect (MacKinnon et al., 2002;\nMacKinnon et al., 2004). Mediation analysis in SCEDs is a very promising\napproach for evaluating how and why therapies work for individual clients,\nand the developments of methods for such analyses have only just begun."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.505001068115234,
+      315.1139831542969,
+      141.5916290283203,
+      326.57098388671875
+    ],
+    "text": "Acknowledgements"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.505001068115234,
+      333.7865905761719,
+      367.30023193359375,
+      356.19989013671875
+    ],
+    "text": "We would like to thank families which participated in this SCED study and\nFlorien Riegen, MSc, for her help with collecting the data."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.505001068115234,
+      377.5723876953125,
+      70.92479705810547,
+      388.0331726074219
+    ],
+    "text": "Notes"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.50529098510742,
+      396.60308837890625,
+      367.28936767578125,
+      505.2032165527344
+    ],
+    "text": "1. Inclusion criteria: ages between 8 and 18, primary anxiety disorder (except post-\ntraumatic stress disorder or obsessive–compulsive disorder) according to DSM-IV crite-\nria, had not received protocolized evidence-based CBT in the past half year, no use of\nselective serotonin reuptake inhibitors (SSRIs) at the moment of intake and treatment.\nExclusion criteria: suicidal ideation, psychosis, selective mutism, IQ below 80, problems\nwith drugs or alcohol.\n2. The CSR scale consists of a 5-point Likert scale (0–8 in steps of 2) and allows\nthe clinician to evaluate the severity of each diagnosed condition. A score of 4 or above\nindicates the presence of a clinically significant disorder.\n3. Same 5-point scale was used here to avoid deviation from the scorings matrix was\nalready used to during administration of ADIS-C interview."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.505001068115234,
+      526.9534912109375,
+      93.39250183105469,
+      537.414306640625
+    ],
+    "text": "References"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      44.50410079956055,
+      545.9940795898438,
+      367.28472900390625,
+      594.8809204101562
+    ],
+    "text": "Barlow, D. H., Nock, M. K., & Hersen, M. (2009). Single case experimental designs. Strate-\ngies for studying behaviour change (3rd ed.). Boston, MA: Allyn and Bacon.\nBaron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in\nsocial psychological research: Conceptual, strategic, and statistical considerations.\nJournal of Personality and Social Psychology, 51, 1173–1182."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "58\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      55.04314041137695,
+      59.120967864990234,
+      377.85418701171875,
+      586.2135009765625
+    ],
+    "text": "Borckardt, J. J., Nash, M. R., Murphy, M. D., Moore, M., Shaw, D., & O’Neil, P. (2008).\nClinical practice as natural laboratory for psychotherapy research. American Psychol-\nogist, 63, 77–95.\nCenter, B. A., Skiba, R. J., & Casey, A. (1985). A methodology for the quantitative syn-\nthesis of intra-subject design research. Journal of Special Education, 19, 387–400.\nDekovic, M., Asscher, J. J., Manders, W. A., Prins, P. J. M., & van der Laan, P. (2012).\nWithin-intervention change: Mediators of intervention effects during multisystemic\ntherapy. Journal of Consulting and Clinical Psychology, 80, 574–587.\nGaynor, S. T., & Harris, A. (2008). Single-participant assessment of treatment media-\ntors: Strategy description and examples from a behavioral activation intervention for\ndepressed adolescents. Behavior Modification, 32, 372–402.\nHeyvaert, M., Moeyaert, M., Verkempynck, P., Van Den Noortgate, W., Vervloet, M.,\nUgille, M., & Onghena, P. (2017). Testing the intervention effect in single-case exper-\niments: A Monte Carlo simulation study. Journal of Experimental Education, 85, 175–\n196.\nHogendoorn, S. M., Prins, P. J. M., Boer, F., Vervoort, L., Wolters, L. H., Moorlag, H., ...\nde Haan, E. (2014). Mediators of cognitive behavioral therapy for anxiety-disordered\nchildren and adolescents: Cognition, perceived control, and coping. Journal of Clinical\nChild and AdolescentPsychology, 43, 486–500.\nJarrett, M. A., & Ollendick, T. H. (2012). Treatment of comorbid attention-\ndeficit/hyperactivity disorder and anxiety in children: A multiple baseline design anal-\nysis. Journal of Consulting and Clinical Psychology, 80, 239–244.\nJudd, C. M., & Kenny, D. A. (1981). Process analysis: Estimating mediation in treatment\nevaluations. Evaluation Review, 5, 602–619.\nKazdin, A. E. (2019). Single-case experimental designs. Evaluating interventions in\nresearch and clinical practice. Behaviour Research and Therapy, 117, 3–17.\nKazdin, A. E., & Nock, M. K. (2003). Delineating mechanisms of change in child and\nadolescent therapy: Methodological issues and research recommendations. Journal of\nChild Psychology and Psychiatry and Allied Disciplines, 44, 1116–1129.\nKendall, P. C., & Treadwell, K. R. H. (2007). The role of self- statements as a media-\ntor in treatment for youth with anxiety disorders. Journal of Consulting and Clinical\nPsychology, 75, 380–389.\nKenny, D. A., Kashy, D. A., & Bolger, N. (1998). Data analysis in social psychology. In\nD. Gilbert, S. Fiske, and G. Lindzey (Eds.), The handbook of social psychology (4th ed.,\npp. 233–265). New York: McGraw-Hill.\nKraemer, H. C., Wilson, G. T., Fairburn, C. G., & Agras, W. S. (2002). Mediators and\nmoderators of treatment effects in randomized clinical trials. Archives of General Psy-\nchiatry, 59, 877–883.\nKratochwill, T. R., Hitchcock, J. H., Horner, R. H., Levin, J. R., Odom, S. L., Rindskopf,\nD. M., & Shadish, W. R. (2013). Single-case intervention research design standards.\nRemedial and Special Education, 34(1), 26–38.\nMacKinnon, D. P. (2008). Introduction to statistical mediation analysis. Mahwah, NJ: Erl-\nbaum.\nMacKinnon, D. P., & Dwyer, J. H. (1993). Estimating mediated effects in prevention\nstudies. Evaluation Review, 17, 144–158.\nMacKinnon, D. P., Lockwood, C. M., Hoffman, J. M., West, S. G., & Sheets, V. (2002).\nA comparison of methods to test mediation and other intervening variable effects.\nPsychological Methods, 7(1), 83–104.\nMacKinnon, D. P., Lockwood, C. M., & Williams, J. (2004). Confidence limits for the\nindirect effect: Distribution of the product and resampling methods. Multivariate\nBehavioral Research, 39(1), 99–128.\nMacKinnon, D. P., Warsi, G., & Dwyer, J. H. (1995). A simulation study of mediated\neffect measures. Multivariate Behavioral Research, 30, 41–62."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n59"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      44.4994010925293,
+      59.121395111083984,
+      367.3149108886719,
+      576.1825561523438
+    ],
+    "text": "Manolov, R., & Moeyaert, M. (2017). How can single-case data be analyzed? Software\nresources, tutorial, and reflections on analysis. Behavior Modification, 41, 179–228.\nManolov, R., Moeyaert, M., & Evans, J. J. (2016). Single-case data analysis: Software\nresources for applied researchers. Retrieved from https://www.researchgate.net/\npublication/289098041_Singlecase_data_analysis_Software_resources_for_applied_\nresearchers%0D\nMaric, M., de Haan, E., Hogendoorn, S. M., Wolters, L. H., & Huizenga, H. M. (2015).\nEvaluating statistical and clinical significance of intervention effects in single-case\nexperimental designs: An SPSS method to analyze univariate data. Behavior Therapy,\n46, 230–241.\nMaric, M., Prins, P. J. M., & Ollendick, T. H. (Eds.). (2015). Moderators and mediators\nof youth treatment outcomes. New York: Oxford University Press.\nMaric, M., Wiers, R. W., & Prins, P. J. M. (2012). Ten ways to improve the use of statistical\nmediation analysis in the practice of child and adolescent treatment research. Clinical\nChild and Family Psychology Review, 15, 177–191.\nMTA Cooperative Group (1999). Moderators and mediators of treatment response for\nchildren with attention-deficit/hyperactivity disorder (ADHD). Archives of General\nPsychiatry, 56, 1088–1096.\nMueser, K. T., Yarnold, P. R., & Foy, D. W. (1991). Statistical analysis for single-case\ndesigns. Behavior Modification, 15(2), 134–155.\nNorell-Clarke, A., Nyander, E., & Jansson-Fr¨ojmark, M. (2011). Sleepless in Sweden: A\nsingle subject study of effects of cognitive therapy for insomnia on three adolescents.\nBehavioural and Cognitive Psychotherapy, 39, 367–374.\nO’Rourke, H. P., & MacKinnon, D. P. (2018). Reasons for testing mediation in the\nabsence of an intervention effect: A research imperative in prevention and intervention\nresearch. Journal of Studies on Alcohol and Drugs, 79, 171–181.\nParker, R. I., Vannest, K. J., Davis, J. L., & Sauber, S. B. (2011). Combining nonoverlap\nand trend for single-case research: Tau-U. Behavior Therapy, 42, 284–299.\nPeng, C-Y. J., & Chen, L-T. (2018). Handling missing data in single-case studies. Jour-\nnal of Modern Applied Statistical Methods, 17(1), eP2488. https://doi.org/10.22237/\njmasm/1525133280.\nPirlott, A. G., & MacKinnon, D. P. (2016). Design approaches to experimental media-\ntion. Journal of Experimental Social Psychology: Special Issue on Rigorous and Replicable\nMethods, 66, 29–38.\nPrins, P. J. M., & Ollendick, T. H. (2003). Cognitive change and enhanced coping: Miss-\ning mediational links in cognitive behavior therapy with anxiety-disordered children.\nClinical Child and Family Psychology Review, 6, 87–105.\nRogosa, D. (1980). A critique of cross-lagged correlation. Psychological Bulletin, 88(2),\n245–258.\nRubin, D. B. (1976). Inference and missing data. Biometrika, 63, 581–592.\nScruggs, T. E., Mastropieri, M. A., & Casto, G. (1987a). The quantitative synthesis of\nsingle subject research: Methodology and validation. Remedial and Special Education,\n8, 24–33.\nSilverman, W. K., & Albano, A. M. (1996). Anxiety disorders interview schedule for DSM-\nIV, child and parent versions. San Antonio, TX: Psychological Corporation.\nTate, R. L., Perdices, M., Rosenkoetter, U., Shadish, W., Vohra, S., Barlow, D. H., ...\nWilson, B. (2016). The single-case reporting guideline in behavioural interventions\n(SCRIBE) 2016 statement. Aphasiology, 30, 862–876.\nVannest, K. J., Parker, R. I., Gonen, O., & Adiguzel, T. (2016). Single case research: Web\nbased calculators for SCR analysis (Version 2.0) [Web-based application]. College Sta-\ntion, TX: Texas A&M University. Retrieved from http://www.singlecaseresearch.org/\ncalculators/tau-u"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "60\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.053001403808594,
+      58.59601974487305,
+      113.99352264404297,
+      70.05302429199219
+    ],
+    "text": "Appendix A"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.05326843261719,
+      77.25948333740234,
+      377.846435546875,
+      123.58618927001953
+    ],
+    "text": "The Gaynor and Harris Approach. The Gaynor and Harris (2008)\napproach consists of decision criteria to establish mediation and both visual\nand statistical analyses to evaluate the change in the mediating variable and\ndependent variable. They proposed the following decision criteria:"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      74.97899627685547,
+      137.96109008789062,
+      357.9253234863281,
+      194.7542724609375
+    ],
+    "text": "Single-participant assessment of treatment mediators requires documenting\nthat the participant: (i) received treatment; (ii) improved during treatment;\n(iii) showed change on the proposed mechanism of action, which occurred\nat a reasonably expected time given the treatment protocol; and (iv) preceded\na substantial portion of the clinical improvement. (2008, p. 375)"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.05326843261719,
+      209.41561889648438,
+      377.8505554199219,
+      439.9482116699219
+    ],
+    "text": "To illustrate similarities with the terminology used in this paper, step\n(ii) refers to an association between treatment and outcome (path c), step\n(iii) refers to an association between treatment and mediator (path a) and\nthat this association is demonstrated by the data at the expected time (i.e., to\nestimate that is was specifically due to the treatment), and step (iv) refers\nto the criterion of temporal precedence. Step (i) does not receive explicit\nattention in our conceptual framework, and refers to the investigation of\nreceipt of treatment by the participant.\nAnalysis Method. Regarding analysis, Gaynor and Harris did not pro-\nvide an analysis protocol in their Methods section. The visual part of the\nanalysis in the Results section consists of two elements. First, pretreatment\nand posttreatment levels of mediator and outcome variables are contrasted\nand compared to clinical cut-off scores in order to establish associations.\nSecond, the level and trends of several potential mediators and outcome\nvariables are assessed visually in order to confirm these associations and\nestablish specificity and temporal precedence. This visual analysis is similar\nto the approach used in this paper.\nThe visual analysis is supplemented with the ipsative z-measure: The\nipsative z-scores is calculated using the following formula: zA j = X A j −¯X A"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.05253982543945,
+      433.6719970703125,
+      377.8565368652344,
+      595.2847290039062
+    ],
+    "text": "S A\n(Mueser, Yarnold, & Foy, 1991). This measure is used to compare each score\n(X ) of a variable (A ) at each time point (j) to the mean score ( ¯X A ) by\ndividing the difference by the standard deviation of the scores (S A ). Sub-\nsequently, ipsative z-scores are coded to reveal data patterns: a code of 1 is\nassigned if the symptom score was improving and a score of 0 if the symp-\ntom score was not improving. To establish the significance of the effect, crit-\nical difference values were used as proposed by Mueser et al. (1991). These\nvalues are calculated by computing 1,64J[1−ACF(1)]ˆ(1/2), in which 1,64\nis the one-directional critical value for a z-score, J is the amount of scores\nthat are compared, and ACF(1) stands for the 1-lag autocorrelation of the\nvariable.\nDemonstrating the Use of Ipsative z-Scores Using an Example Dataset.\nThe results for the ipsative z-scores and the binary coding for Coping"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n61"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      44.505001068115234,
+      58.620567321777344,
+      367.3116455078125,
+      547.296875
+    ],
+    "text": "and Anxiety for case example can be found in Table A1. To reveal data\npatterns, the ipsative z-scores were coded 1 when the score was equal\nto zero or higher or lower than the mean, depending on what was con-\nsidered improvement for a given variable, and 0 in all other cases. That\nis, for Anxiety, zeros and negative scores were coded 1, and for Coping,\nzeros and positive scores were coded 1. Finally, the critical difference value\nof Anxiety is 1.64[2(1−.320)]ˆ(1/2) = 1.91 and the value of Coping is\n1.64[2(1−.468)]ˆ(1/2) = 1.69. In case the absolute difference between two\nconsecutive ipsative z-scores equals or exceeds these critical difference val-\nues; this indicates a significant immediate change.\nThe binary coding of Anxiety does not show a clear pattern of improve-\nment: across all three phases, scores coded as clinical improvement remain\nshifting between 0 and 1 and, therefore, do not follow any clear pattern.\nThe binary coding of Coping, however, does indicate an improving pattern:\nin the EXP phase, almost all of the scores are coded 0. In the EXP+CT\nphase, most scores (74%) are coded 1, especially in the second half of the\nphase. In the follow-up phase, only a small majority (57%) of the scores\nare still coded 1. Note that the improving pattern of Coping merely indi-\ncates that the change in phase is associated with an increase in coping skills\nand does not provide enough evidence to indicate mediation. Regarding the\ncritical difference values, none of the one-time sequential differences equal\nor exceed the respective critical difference value, which indicates that there\nis no statistically significant immediate change (i.e., drop or increase) for\nAnxiety or Coping.\nAll in all, the coding provides some support for specificity for Coping,\nas most improved coded scores are in the EXP+CT phase. This also indi-\ncates that there is some support for an association between EXP+CT and\nCoping, but there is no indication of the size of that effect. However, as\nthis measure demonstrates no clear pattern for Anxiety, it is not useful for\ncomparing the timing of improvement between Anxiety and Coping and it\nprovides no support for temporal precedence.\nConclusion. The coding scheme used for ipsative z-scores in the\nGaynor and Harris (2008) method was useful for finding support for the\nexistence of the a path, but not useful for the existence of the b path as\nthe ipsative z-scores method showed changes in one variable (Coping)\nwhen introducing a certain phase (EXP+CT). It was not possible to illus-\ntrate changes in coping preceding changes in anxiety. Further, none of the\nchanges between consecutive time-points were significant; however, this is\nnot an issue unless it is expected that significant changes due to therapy\noccur immediately versus gradually. That expectation was not made in this\nstudy."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "62\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      58.814998626708984,
+      58.620567321777344,
+      374.0888671875,
+      81.04230499267578
+    ],
+    "text": "Table A1. Ipsative z-Scores and Binary Coding for Each Score of the\nParticipant"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      148.4459991455078,
+      89.76145935058594,
+      337.5851135253906,
+      98.72785949707031
+    ],
+    "text": "Anxiety Level\nCoping"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      55.053001403808594,
+      107.39256286621094,
+      377.8299560546875,
+      116.35896301269531
+    ],
+    "text": "Time\nIpsative z\nCoding\nIpsative z\nCoding"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      55.053001403808594,
+      124.31375885009766,
+      377.8334045410156,
+      595.5099487304688
+    ],
+    "text": "1\n0.31\n0\n−1.06\n0\n2\n−0.70\n1\n−1.06\n0\n3\n0.31\n0\n−0.25\n0\n4\n−0.70\n1\n−0.25\n0\n5\n0.31\n0\n−1.06\n0\n6\n−0.70\n1\n−0.25\n0\n7\n−1.72\n1\n0.56\n1\n8\n0.31\n0\n−1.06\n0\n9\n0.31\n0\n−1.06\n0\n10\n0.31\n0\n−0.25\n0\n11\n0.31\n0\n−1.06\n0\n12\n0.31\n0\n−1.06\n0\n13\n−0.70\n1\n−0.25\n0\n14\n−0.70\n1\n−0.25\n0\n15\n1.32\n0\n−1.06\n0\n16\n0.31\n0\n−1.06\n0\n17\n0.31\n0\n−0.25\n0\n18\n0.31\n0\n−1.06\n0\n19\n−0.70\n1\n−1.06\n0\n20\n1.32\n0\n−1.88\n0\n21\n0.31\n0\n−1.06\n0\n22\n0.31\n0\n−0.25\n0\n23\n0.31\n0\n−0.25\n0\n24\n−0.70\n1\n−0.25\n0\n25\n−0.70\n1\n−0.25\n0\n26\n−0.70\n1\n−0.25\n0\n27\n−0.70\n1\n−0.25\n0\n28\n−0.70\n1\n0.56\n1\n29\n0.31\n0\n0.56\n1\n30\n1.32\n0\n−1.06\n0\n31\n1.32\n0\n−0.25\n0\n32\n1.32\n0\n0.56\n1\n33\n0.31\n0\n−0.25\n0\n34\n1.32\n0\n−1.06\n0\n35\n0.31\n0\n0.56\n1\n36\n1.32\n0\n−1.06\n0\n37\n0.31\n0\n0.56\n1\n38\n1.32\n0\n−0.25\n0\n39\n−0.70\n1\n0.56\n1\n40\n1.32\n0\n−1.06\n0\n41\n−0.70\n1\n0.56\n1\n42\n0.31\n0\n0.56\n1\n43\n1.32\n0\n0.56\n1\n44\n0.31\n0\n0.56\n1\n45\n0.31\n0\n−0.25\n0\n46\n0.31\n0\n0.56\n1\n(Continued)"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      84.45600128173828,
+      35.901058197021484,
+      367.2960510253906,
+      44.86745834350586
+    ],
+    "text": "TESTING MEDIATORS OF YOUTH INTERVENTION OUTCOMES USING SCEDS\n63"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      157.3470001220703,
+      58.620567321777344,
+      254.4389190673828,
+      69.08136749267578
+    ],
+    "text": "Table A1. Continued"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      137.8979949951172,
+      77.80955505371094,
+      327.04608154296875,
+      86.77595520019531
+    ],
+    "text": "Anxiety Level\nCoping"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      44.505001068115234,
+      95.44059753417969,
+      367.28289794921875,
+      104.40699768066406
+    ],
+    "text": "Time\nIpsative z\nCoding\nIpsative z\nCoding"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      44.505001068115234,
+      112.90508270263672,
+      346.54443359375,
+      370.9374694824219
+    ],
+    "text": "47\n1.32\n0\n0.56\n1\n48\n0.31\n0\n0.56\n1\n49\n−0.70\n1\n1.38\n1\n50\n−0.70\n1\n1.38\n1\n51\n0.31\n0\n1.38\n1\n52\n1.32\n0\n1.38\n1\n53\n−0.70\n1\n1.38\n1\n54\n−1.72\n1\n1.38\n1\n55\n−1.72\n1\n1.38\n1\n56\n0.31\n0\n1.38\n1\n57\n−0.70\n1\n1.38\n1\n58\n−1.72\n1\n1.38\n1\n59\n−1.72\n1\n1.38\n1\n60\n−1.72\n1\n0.56\n1\n61\n−1.72\n1\n1.38\n1\n62\n−1.72\n1\n1.38\n1\n63\n1.32\n0\n−0.25\n0\n64\n−0.70\n1\n−1.06\n0\n65\n−1.72\n1\n1.38\n1\n66\n−1.72\n1\n1.38\n1\n67\n0.48\n0\n−1.00\n0\n68\n1.32\n0\n−1.88\n0\n69\n1.32\n0\n−1.88\n0\n70\n−0.70\n1\n1.38\n1\n71\n0.48\n0\n−0.57\n0\n72\n0.11\n0\n0.30\n1"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      44.505001068115234,
+      378.80291748046875,
+      367.30194091796875,
+      396.22784423828125
+    ],
+    "text": "Note. The EXP phase ranges from time 1 to 26; the EXP+CT phase ranges from 27 to 58, and the\nFU phase ranges from 59 to 72."
+  },
+  {
+    "page": 25,
+    "bbox": [
+      171.17100524902344,
+      609.5999145507812,
+      367.3110656738281,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.053001403808594,
+      36.279109954833984,
+      372.3186950683594,
+      45.24551010131836
+    ],
+    "text": "64\nRANDOMIZED CONTROLLED TRIALS (RCTS) IN CLINICAL AND COMMUNITY SETTINGS"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.053001403808594,
+      247.42034912109375,
+      377.8346862792969,
+      293.74700927734375
+    ],
+    "text": "GEMMA G. M. GEUKE, BSc, is a research master student in sociology and social\nresearch at Utrecht University, The Netherlands. Her research interests lie in\nsocial and (public) health policy and issues of effectiveness and causality in\nthis field."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.053131103515625,
+      307.1893310546875,
+      377.84100341796875,
+      389.3819274902344
+    ],
+    "text": "MARIJA MARIC, PhD, is an assistant professor of clinical developmental psychol-\nogy in the Department of Developmental Psychology at the University of Ams-\nterdam. Her main research areas include investigation of effectiveness and medi-\nators of interventions for youth anxiety, school refusal, negative self-esteem,\ntrauma, child abuse, and comorbid anxiety and ADHD. Besides RCTs, she uses\nsingle-case design methodology to test personalized outcomes of youth interven-\ntions."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.05289840698242,
+      401.8603210449219,
+      377.84393310546875,
+      508.93829345703125
+    ],
+    "text": "MILICA MIOˇCEVI´C, PhD, is an assistant professor in the Department of Psychol-\nogy at McGill University, Montreal, QC. Her research revolves around medi-\nation analysis and Bayesian methods applied to social science research. More\nspecifically, she has three research lines that focus on: (1) optimal methods for\nusing historical data and pilot studies to create informative prior distributions\nfor Bayesian mediation analysis, (2) methods for synthesizing findings about\nthe mediated effect in the presence of important between-study differences (e.g.,\nsamples from different populations), and (3) mediation analysis in Single Case\nExperimental Designs (SCEDs)."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.05276107788086,
+      522.3883056640625,
+      377.8280029296875,
+      556.754150390625
+    ],
+    "text": "LIDEWIJ H. WOLTERS, PhD, is a mental health psychologist at Amsterdam Medical\nCenter, de Bascule, The Netherlands, and a postdoc researcher at Norwegian\nUniversity of Science and Technology/AMC."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.05253982543945,
+      570.205322265625,
+      377.8299560546875,
+      592.61865234375
+    ],
+    "text": "ELSE DE HAAN, PhD, is emeritus professor in cognitive behavioral psychotherapy\nfor children and adolescents at the University of Amsterdam, The Netherlands."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      55.053001403808594,
+      609.5999145507812,
+      251.1930389404297,
+      615.9456787109375
+    ],
+    "text": "NEW DIRECTIONS FOR CHILD AND ADOLESCENT DEVELOPMENT • DOI: 10.1002/cad"
+  }
+]

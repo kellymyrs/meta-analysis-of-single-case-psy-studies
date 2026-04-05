@@ -31,19 +31,46 @@ Run all commands from the project root.
    python scripts/pdf_text_blocks.py
    ```
 
-3. Extract figure/chart pages as 300 DPI PNGs:
+3. Optional: run the smarter text extractor that rebuilds line order and merges paragraph-like blocks:
+   ```bash
+   python scripts/pdf_text_blocks_smart.py
+   ```
+
+4. Optional: run the GROBID extractor for study/article-aware structure:
+   ```bash
+   python scripts/pdf_text_blocks_grobid.py
+   ```
+
+5. Extract figure/chart pages as 300 DPI PNGs:
    ```bash
    python scripts/pdf_to_images.py
    ```
 
-4. Optional metadata EDA from JSON files (or Excel fallback):
+6. Optional metadata EDA from JSON files (or Excel fallback):
    ```bash
    python scripts/eda_json.py
    ```
 
-5. Run SCED LLM extraction across all papers:
+7. Run SCED LLM extraction across all papers:
    ```bash
    python -m scripts.batch_sced_analysis
+   ```
+
+8. Try sending the full PDF directly to the model:
+   ```bash
+   python -m scripts.batch_sced_analysis --mode full_pdf
+   ```
+
+9. If your proxy does not support PDF file input, send the full extracted paper text instead:
+   ```bash
+   python -m scripts.batch_sced_analysis --mode full_text
+   ```
+
+10. Evaluate extraction results against a gold-standard JSONL file:
+   ```bash
+   python -m scripts.evaluate_sced_results \
+     --predictions extracted_text/sced_results.jsonl \
+     --gold data/sced_gold.jsonl
    ```
 
 ## 3. Script Reference
@@ -66,6 +93,21 @@ Run all commands from the project root.
   - Writes: `processed_images/<paper>_page_<n>.png`
   - Run: `python scripts/pdf_to_images.py`
 
+- `scripts/pdf_text_blocks_smart.py`
+  - What it does: reconstructs page text from line/span data, applies a simple column-aware reading order, filters likely header/footer noise, and merges nearby lines into paragraph-like blocks.
+  - Reads: PDFs in `input/`
+  - Writes: `extracted_text/<paper>_smart_blocks.json`
+  - Run: `python scripts/pdf_text_blocks_smart.py`
+  - Single paper: `python scripts/pdf_text_blocks_smart.py --pdf "Taylor 2011.pdf"`
+
+- `scripts/pdf_text_blocks_grobid.py`
+  - What it does: sends each PDF to a running GROBID server, saves the raw TEI XML, and converts the scholarly structure into JSON blocks for titles, abstract paragraphs, section headings, body paragraphs, figure/table text, and references.
+  - Reads: PDFs in `input/`
+  - Writes: `extracted_text/<paper>_grobid.tei.xml`, `extracted_text/<paper>_grobid_blocks.json`
+  - Requires: a running GROBID service, default `http://localhost:8070`
+  - Run: `python scripts/pdf_text_blocks_grobid.py`
+  - Single paper: `python scripts/pdf_text_blocks_grobid.py --pdf "Taylor 2011.pdf"`
+
 - `scripts/eda_json.py`
   - What it does: calculates metadata frequencies and missing-value reports from JSON study files; if no JSON is found, falls back to the Excel file.
   - Reads: `input/*.json` (preferred), fallback `data/Supplement 3. Case and study characteristics.xlsx`
@@ -73,22 +115,40 @@ Run all commands from the project root.
   - Run: `python scripts/eda_json.py`
 
 - `scripts/sced_extraction.py`
-  - What it does: provides `run_sced_extraction()` for LLM extraction of SCED fields from block JSON.
+  - What it does: provides `run_sced_extraction()` for truncated block-text extraction, `run_sced_extraction_full_text()` for whole-paper chunked text extraction, and `run_sced_extraction_from_pdf()` for full-PDF extraction via the Responses API.
   - Reads: block JSON objects (from `pdf_text_blocks.py`)
   - Writes: none by itself (used by other scripts)
-  - Model config: local GGUF via `MODEL_PATH` (plus optional `LLAMA_THREADS`, `LLAMA_CTX`)
+  - Model config: proxy mode via `LITELLM_KEY` for hosted models; local GGUF via `MODEL_PATH` (plus optional `LLAMA_THREADS`, `LLAMA_CTX`) for block-text mode only
 
 - `scripts/batch_sced_analysis.py`
-  - What it does: runs SCED extraction across all PDFs, reusing existing block JSONs or creating them if missing.
+  - What it does: runs SCED extraction across all PDFs, either from extracted blocks or by attaching the full PDF to the model. Optionally evaluates predictions against a gold-standard JSONL file.
   - Reads: PDFs in `input/`, optional existing `extracted_text/<paper>_blocks.json`
-  - Writes: `extracted_text/<paper>_sced.json`, `extracted_text/sced_results.jsonl`
+  - Writes: `extracted_text/<paper>_sced.json`, `extracted_text/sced_results.jsonl`, plus `_full_pdf` variants when `--mode full_pdf` is used
   - Run: `python -m scripts.batch_sced_analysis`
+  - Full-text run: `python -m scripts.batch_sced_analysis --mode full_text`
+  - Full-PDF run: `python -m scripts.batch_sced_analysis --mode full_pdf`
+  - With evaluation: `python -m scripts.batch_sced_analysis --gold data/sced_gold.jsonl`
+  - Single paper: `python -m scripts.batch_sced_analysis --mode full_pdf --pdf "Taylor 2011.pdf"`
+
+- `scripts/evaluate_sced_results.py`
+  - What it does: compares predicted SCED JSONL records against gold-standard JSONL records and reports micro-averaged precision, recall, F1, per-field metrics, and per-paper details.
+  - Reads: a predictions JSONL file and a gold JSONL file with one record per PDF
+  - Writes: `<predictions>_evaluation.json`
+  - Run: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
 
 ## 4. LLM Model Configuration
 
-The SCED extractor uses one local `llama.cpp` model only.
+The SCED extractor supports two modes.
 
-1. Set your GGUF model path:
+1. Proxy mode for hosted models and full-PDF input:
+   ```bash
+   export LITELLM_KEY=your_token_here
+   export LITELLM_MODEL=gpt-5.1
+   # optional
+   export LITELLM_BASE_URL=https://ai-research-proxy.azurewebsites.net
+   ```
+
+2. Local GGUF mode for block-text extraction only:
    ```bash
    export MODEL_PATH=/absolute/path/to/model.gguf
    ```
@@ -97,15 +157,25 @@ The SCED extractor uses one local `llama.cpp` model only.
    ls "$MODEL_PATH"
    ```
 
-2. Optional performance tuning:
+3. Optional performance tuning for local mode:
    ```bash
    export LLAMA_THREADS=8
    export LLAMA_CTX=4096
    ```
 
-3. Run extraction:
+4. Run block-text extraction:
    ```bash
    python -m scripts.batch_sced_analysis
+   ```
+
+5. Run full-text extraction through chat completions:
+   ```bash
+   python -m scripts.batch_sced_analysis --mode full_text
+   ```
+
+6. Run full-PDF extraction:
+   ```bash
+   python -m scripts.batch_sced_analysis --mode full_pdf
    ```
 
 If you see `Model path does not exist: /absolute/path/to/model.gguf`, your shell still has the placeholder value.
@@ -121,6 +191,13 @@ Set `MODEL_PATH` to your actual `.gguf` file and rerun.
 - `python scripts/pdf_text_blocks.py`
   - `extracted_text/<paper>_blocks.json`
 
+- `python scripts/pdf_text_blocks_smart.py`
+  - `extracted_text/<paper>_smart_blocks.json`
+
+- `python scripts/pdf_text_blocks_grobid.py`
+  - `extracted_text/<paper>_grobid.tei.xml`
+  - `extracted_text/<paper>_grobid_blocks.json`
+
 - `python scripts/pdf_to_images.py`
   - `processed_images/<paper>_page_<n>.png`
 
@@ -134,6 +211,17 @@ Set `MODEL_PATH` to your actual `.gguf` file and rerun.
   - `extracted_text/<paper>_sced.json`
   - `extracted_text/sced_results.jsonl`
 
+- `python -m scripts.batch_sced_analysis --mode full_pdf`
+  - `extracted_text/<paper>_sced_full_pdf.json`
+  - `extracted_text/sced_results_full_pdf.jsonl`
+
+- `python -m scripts.batch_sced_analysis --mode full_text`
+  - `extracted_text/<paper>_sced_full_text.json`
+  - `extracted_text/sced_results_full_text.jsonl`
+
+- `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
+  - `extracted_text/sced_results_evaluation.json`
+
 ## 6. Single-Paper LLM Extraction (Optional)
 
 ```python
@@ -145,3 +233,26 @@ blocks = json.loads(pathlib.Path("extracted_text/<paper>_blocks.json").read_text
 result = run_sced_extraction(blocks)
 print(result)
 ```
+
+## 7. Full-PDF Single-Paper Extraction (Optional)
+
+```python
+from pathlib import Path
+from scripts.sced_extraction import run_sced_extraction_from_pdf
+
+result = run_sced_extraction_from_pdf(Path("input/<paper>.pdf"))
+print(result)
+```
+
+## 8. Evaluation Format
+
+Gold and prediction files should be JSONL with one record per paper and a `pdf` key:
+
+```json
+{"pdf": "Taylor 2011.pdf", "Participant ID": "P1", "Baseline Mean": 12.4, "Treatment Phase Slope": -0.8, "Clinical Contradictions": ["No contradiction reported"]}
+```
+
+Evaluation treats each field as a normalized set of values:
+- scalar fields count as one predicted/gold item
+- list fields are compared item-by-item
+- metrics reported are precision, recall, F1, and exact-match rate

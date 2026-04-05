@@ -1,0 +1,972 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      102.02400207519531,
+      713.864990234375,
+      486.0000305175781,
+      723.0089721679688
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 241"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      148.843994140625,
+      77.73591613769531,
+      443.6279296875,
+      133.9439239501953
+    ],
+    "text": "Cognitive-Behavioral Treatments for \nAnxiety and Phobic Disorders in Children \nand Adolescents: A Review"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      220.4519805908203,
+      158.70411682128906,
+      367.5719299316406,
+      184.89654541015625
+    ],
+    "text": "Neville J. King\nMonash University, Australia"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      204.08999633789062,
+      198.7289581298828,
+      383.9339294433594,
+      224.92138671875
+    ],
+    "text": "David Heyne\nLeiden University, The Netherlands"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      172.18798828125,
+      238.75379943847656,
+      415.8359375,
+      264.94622802734375
+    ],
+    "text": "Thomas H. Ollendick\nVirginia Polytechnic Institute & State University"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      102.02398681640625,
+      289.9720153808594,
+      488.5030212402344,
+      409.1138610839844
+    ],
+    "text": "ABSTRACT: This article provides an overview of cognitive-behavioural  strategies used in the treatment \nof child-anxiety problems, emphasizing the need for exposure and caregiver involvement. Most of \nthe paper focuses on developments in empirically supported cognitive-behavioral intervention \nprotocols for generalized anxiety disorder, separation anxiety disorder, social phobia, speciﬁ c phobia, \nand school refusal. The research status of interventions for phobias and anxiety disorders of children \nwith disabilities, a much neglected area, is also considered. Particular attention is given to randomized \ncontrolled trials. Analogue studies are not included in this particular review, thus strengthening \nconclusions regarding treatment efﬁ cacy. In general, cognitive and behavioral strategies appear \nto be useful for these distressing child-anxiety problems; however, there is a limited understanding \nof the active components in treatment, treatment mechanisms of change, and prediction of \ntreatment outcome."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      102.02398681640625,
+      444.2381896972656,
+      284.5313720703125,
+      695.377685546875
+    ],
+    "text": "Attempts both to understand and modify the \nfears and anxieties of children have a long and \nfascinating history (Freud, 1909/1963; Hall, \n1897; Watson & Rayner, 1920). Fear is often \nthought of as an adaptive response and “makes \nfor caution in the face of existing or reasonably \nanticipated danger” (Kanner, 1972, p. 580). \nChildren display fears and anxiety responses \nover the course of normal development (see \nreviews by King, Hamilton, & Ollendick, 1988; \nGullone, 2000; and Ollendick, King, & Muris, \n2002). Although fear and anxiety are adaptive \nand necessary for survival, such responses \nbecome problematic when they are excessive, \npersist over time, and produce considerable \ndiscomfort for the child (King, Muris, & \nOllendick, 2004; Morris & Kratochwill, 1983). \nIn educational settings, the anxiety-related \nproblems of students may act as barriers to \noptimal academic and/or social development \n(King & Ollendick, 1989a; King, Ollendick, \n& Gullone, 1990). For example, students with \nperformance anxiety experience difﬁ culty"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      305.9999694824219,
+      444.2336120605469,
+      488.50677490234375,
+      695.3731079101562
+    ],
+    "text": "being \non-task \nduring \nsocial \nevaluative \nsituations as a result of their cognitive \nintrusions and somatic arousal compared to \nless anxious students (Beidel & Turner, 1988; \nKing, Mietz, Tinney, & Ollendick, 1995). In \nthe social domain, students with internalizing \nproblems frequently have problems forming \nor maintaining friendships, and may be \nsocially isolated or bullied (Morris, 2004). Not \nsurprisingly, such problems may result in school \navoidance or avoidance of speciﬁ c classes that \nthe student ﬁ nds anxiety-provoking (Heyne & \nKing, 2004). Building on the tripartite model \noriginally developed by Lang (1968, 1977), \nchildhood phobias and anxiety disorders are \nseen as being multidimensional with cognitive, \nphysiological, and overt-behavioral referents \n(Barrios & Hartmann, 1997; Beidel, 1989; \nKing, Ollendick, & Murphy, 1997; Silverman & \nGinsburg, 1995). \nIn the past two decades, epidemiological \nstudies (e.g., Essau, Conradt, & Petermann, \n2000; McGee et al., 1990; Milne et al.,"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   49\nBehaviorDisorders_30(3).indd   49\n7/31/05   8:01:03 PM\n7/31/05   8:01:03 PM"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      126.0,
+      77.84087371826172,
+      308.50750732421875,
+      691.973876953125
+    ],
+    "text": "1995) have estimated that the prevalence of \nanxiety disorders (including phobias) in the \ngeneral community population of children \nand adolescents ranges from 5.7% to 17.7% \n(see Costello & Angold, 1995, for a review). \nIn general, anxiety disorders tend to be more \nprevalent in girls than boys and more prevalent \nin older than younger children (e.g., Essau et al., \n2000). Some children may have one anxiety or \nphobic disorder only, such as separation anxiety \ndisorder, \noveranxious/generalized \nanxiety \ndisorder, social phobia, or speciﬁ c phobia as \nper DSM-IV (American Psychiatric Association \n[APA], 1994). However, most children have \ncomorbid anxiety and phobic disorders. \nComorbid disorders can also include other \ninternalizing problems such as depression and \nexternalizing problems such as oppositional \nbehavior disorder (Last, Strauss, & Francis, \n1987). In their study of 104 children between \n6 and 16 years of age and referred to a phobia \noutpatient treatment program, Silverman and \ncolleagues found that a majority (72%) of the \nchildren had at least one comorbid diagnosis: \n19% had an additional speciﬁ c phobia, 16% \nhad separation anxiety disorder, 14% had \noveranxious disorder, and 6% were diagnosed \nwith attention deﬁ cit hyperactivity disorder. \nThe remaining 17% of the 72% who had a \ncomorbid diagnosis were distributed over eight \nadditional diagnostic categories (Silverman, \nKurtines, Ginsburg, Weems, Rabian, et al., \n1999).\nThus, the clinical picture can be quite \ncomplex due to comorbidity. Studies show \nthat children in clinic samples exhibit greater \nlevels of comorbidity compared to general \ncommunity samples (see review by Ollendick \net al., 2002). Moreover, anxiety disorders and \nphobias have a complex aetiology with genetic \nfactors, temperament characteristics (especially \nbehavioral inhibition), parent-child interactions \n(parenting styles), parental psychopathology \nsuch as anxiety problems and depression, \nspeciﬁ c social learning histories including \ntraumatic experience, and attentional bias \ninformation-processing, all being implicated \n(see Hudson & Manassis, 2004; Vasey & Dadds, \n2001). Fortunately, successful interventions \nhave been developed for anxious and phobic \nchildren and adolescents. The authors now \ncritically review the treatment research, being \ncareful to include all major studies and their \nﬁ ndings.\nGiven the huge volume of literature on \nthe treatment of childhood anxiety disorders"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      329.97601318359375,
+      77.83013153076172,
+      512.4828491210938,
+      581.965087890625
+    ],
+    "text": "and phobias, we will clarify several important \nassumptions in our review of evidence. First, \nmany different schools of thought appear in the \nliterature, including psychodynamic-oriented \ntreatment and many alternate therapies, such \nas hypnosis. Consistent with the overall theme \nof the special issue, and also reﬂ ective of the \nclinical-research orientation of the authors, this \npaper is conﬁ ned to treatment research from a \nbehavioral or cognitive-behavioral perspective. \nSecond, an overview is provided of cognitive \nand behavioral procedures used in the treatment \nof childhood anxiety disorders and phobias, \nincluding the more family-wide interventions \nmodels, thus making further comment on \ntreatment studies more enlightening. Third, \nwhat disorders or problems should the review \npaper include? Sufﬁ cient treatment research \nhas been conducted to focus on DSM-IV \nanxiety disorders: generalized anxiety disorder, \nseparation anxiety disorder, social phobia, and \nspeciﬁ c phobia. However, given the diverse \nreadership interests of Behavioral Disorders \n(BD), this scope was widened to include \nschool refusal as well as the phobias and \nanxiety disorders of children with disabilities. \nFourth, comment is necessary on the sources \nof evidence used to evaluate the efﬁ cacy \nof an intervention. The authors specify the \nkind of investigation under discussion: case \nreport, within-subject controlled investigation, \nmultiple baseline evaluation, open clinical \ntrial, and between-group outcome comparison \ndesign such as the randomized control trial. \nFinally, studies include children with severe \nphobias or anxiety disorders, with a majority \nof studies being conducted in clinical settings; \nso-called \nanalogue \nlaboratory \ntreatment \nstudies, involving mild fears and conducted in \nuniversity settings, were excluded. A literature \nsearch was undertaken of relevant peer-review \njournals (e.g., Journal of Consulting and Clinical \nPsychology, Behaviour Research and Therapy) \nfrom 1980. Excluded from consideration were \narticles \nconcerning \nobsessive-compulsive \ndisorder and posttraumatic stress disorder."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      329.97601318359375,
+      599.5730590820312,
+      481.01995849609375,
+      639.7299194335938
+    ],
+    "text": "Overview of CBT for Phobic \nand Anxiety Disorders in \nChildren and Adolescents"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      329.97601318359375,
+      649.8170776367188,
+      512.4826049804688,
+      691.9605102539062
+    ],
+    "text": "This section brieﬂ y describes cognitive and \nbehavioral strategies frequently used in the \ntreatment of children with anxiety disorders \nand phobias. However, the authors caution"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      126.00001525878906,
+      713.8646850585938,
+      509.9760437011719,
+      723.0086669921875
+    ],
+    "text": "242 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   50\nBehaviorDisorders_30(3).indd   50\n7/31/05   8:01:05 PM\n7/31/05   8:01:05 PM"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      102.02400207519531,
+      77.84087371826172,
+      284.52960205078125,
+      691.973876953125
+    ],
+    "text": "against simplistic assumptions of a cognitive-\nbehavioral treatment (CBT) recipe approach \nignoring sound assessment and treatment \ndesign principles (Barlow, 2001). Conceptually, \nthese strategies are derived from expanding \nconcepts in social learning theory, cognitive \ntheory, and information processing theory \n(King & Ollendick, 1997; Ollendick, Davis, & \nMuris, 2004). In recognition of the complex \ninteraction of cognitive and environmental \nfactors in the cause and maintenance of \nchildren’s phobias and anxiety disorders, \nboth cognitive and behavioral procedures are \nroutinely used in treatment (Ollendick, 1979; \nSilverman & Carmichael, 1999).  \nCommon strategies include relaxation \ntraining aimed at lowering physiological \narousal and somatic symptoms; cognitive \nrestructuring aimed at controlling negative self-\nstatements, correcting faulty assumptions, and \nbuilding self-efﬁ cacy; systematic and graded \nhierarchical exposure to anxiety-provoking \nsituations to address the avoidance of the child; \nsocial skills training to build peer friendships \nand to deal with speciﬁ c assertion problems \nat school or home; contingency management \ntraining (reward system) to increase motivation \nand compliance; and training in relapse \nprevention to help deal with possible future \nsetbacks and stressors at home and school (see \nKendall et al., 1992; Rapee, Wignall, Hudson, \n& Schniering, 2000). Anxiety management \nprocedures have high acceptability or social \nvalidation on the part of children and their \ncaregivers, thus increasing the likelihood of \ncompliance with the intervention program \n(e.g., Heyne, 1999; King & Gullone, 1990; \nKing et al., 1998). \nBest practice interventions are typically \nmulticomponent with an emphasis on ﬂ exibility \nand selection of individual treatment program \ncomponents as required by unique child, \nschool, and family characteristics (Heyne, King, \n& Ollendick, in press; Kendall et al., 1992; \nOllendick, King, & Yule, 1994). In particular, \nfor \nmaximum \neffectiveness, \nintervention \nprograms should be developmentally sensitive \nwith attention to the youth’s verbal and \ncognitive skills (Ollendick, Grills, & King, \n2001). According to Marks (1975), exposure \nis the critical underlying mechanism in the \nuse of behavioral procedures: “an important \nmechanism shared by all of these methods \nis exposure of the frightened subject to a \nfrightening situation until he acclimatizes” (p. \n67). Exposure remains the critical and necessary"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.0,
+      77.83013153076172,
+      488.50775146484375,
+      614.9644775390625
+    ],
+    "text": "ingredient of intervention programs for phobic \nand anxious children and the advice given to \nparents and teachers (Ollendick & King, 1998, \n2000). Intervention is usually offered on an \nindividual basis, but group formats have also \nbeen successfully reported, thus improving \nthe overall cost-efﬁ ciency of CBT (Flannery-\nSchroeder & Kendall, 2000). A group format is \nparticularly useful for the treatment of social \nphobia in children because of the opportunity \nfor multiple peer modeling and social exposure \ntasks (Beidel, Turner, & Morris, 2000).\nAlthough not all parents of anxious or \nphobic children exhibit psychopathology \nthemselves, twin and family studies show that \nmany have a history of an anxiety or depressive \ndisorder at some point in their lives (see \nreviews by Hirshfeld-Becker, Biederman, & \nRosenbaum, 2004; Silverman, Cerny, & Nelles, \n1988). Recognizing the role of parents in the \ndevelopment and/or maintenance of anxious \nand phobic behavior, parental involvement has \nbeen advocated for many years in traditional \nbehavioral programs, such as in the use of in \nvivo systematic desensitization and contin-\ngency management programs (King et al., \n1988). Parents serve as co-therapists responsible \nfor \nthe \nimplementation \nof \nprocedures \ndeveloped by the therapist, and responsible for \ngiving the children ample praise and positive \nreinforcement for their bravery in engaging in \nexposure tasks. Recent years have witnessed \nthe development of several prominent models \nregarding parental involvement in intervention \nprograms for phobic or anxious children (Mattis \n& Pincus, 2004). The “transfer of control” \nmodel (Ginsburg, Silverman, & Kurtines, 1995) \nemphasizes the gradual fading of control from \ntherapist to parent, and then to the child. The \nFamily Anxiety Management model (FAM; \nDadds, Heard, & Rapee, 1992), similar to the \ntransfer of control model, involves training \nparents in contingency management strategies \nto deal with their child’s fears and anxieties and \nto facilitate the child’s exposure to the phobic \nsituations. Moreover, FAM explicitly recognizes \nand targets parental anxiety, problematic family \nrelationships, \nparent-child \ncommunication \nproblems, and parental problem-solving skills."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.0,
+      632.5730590820312,
+      458.1479797363281,
+      658.7294921875
+    ],
+    "text": "Studies on Generalized and \nSeparation Anxiety Disorders"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.0,
+      668.8170166015625,
+      488.50225830078125,
+      688.9608154296875
+    ],
+    "text": "Kendall and his colleagues are major \npioneers in the systematic development and"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      102.02400207519531,
+      713.8646850585938,
+      486.0000305175781,
+      723.0086669921875
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 243"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   51\nBehaviorDisorders_30(3).indd   51\n7/31/05   8:01:09 PM\n7/31/05   8:01:09 PM"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      125.99998474121094,
+      77.84087371826172,
+      308.5074157714844,
+      691.973876953125
+    ],
+    "text": "evaluation of cognitive-behavioral intervention \nprograms for childhood anxiety disorders \nsuch as separation anxiety disorder and \noveranxious/generalized disorder (see chapters \nby Hudson, Hughes, & Kendall, 2004; Mattis & \nPincus, 2004). However, prior to these studies, \nseveral multiple baseline design evaluations \nprovided preliminary evidence for the beneﬁ ts \nof behavioral and cognitive procedures with \nsuch children and adolescents. For example, \nOllendick, Hagopian, and Huntzinger (1991) \ndeveloped \nan \nintervention \nprogram \nfor \nseparation anxious children, as did Kane and \nKendall (1989) for children with overanxious \ndisorder. By and large, the programs involved \nfour major components: (a) recognizing \nanxious \nfeelings \nand \nphysical \nreactions \nto anxiety; (b) identifying and modifying \nnegative \nself-statements; \n(c) \ngenerating \npositive self-statements and other strategies \nto cope effectively in the anxiety-provoking \nsituations; and (d) rating and rewarding efforts \nat coping and exposure in the feared situation. \nMultiple assessment measures were taken pre-, \nmid-, and post-treatment, as well as at 3-\nmonth, 6-month, and 1-year follow-up inter-\nvals. Both interventions were effective in \nas much as improvements occurred on the \noutcome measures. \nIn the ﬁ rst randomized control trial, \nKendall (1994) evaluated the outcome of a CBT \nintervention known as the Coping Cat program. \nForty-seven 9- to 13-year-olds who primarily \nmet diagnoses for overanxious disorder/\ngeneralized anxiety disorder and separation \nanxiety disorder were assigned randomly to \ntreatment or wait-list control conditions. The \ntreatment was of 16 weeks’ duration. Nearly \nall children had a comorbid disorder such as \ndepression, oppositional deﬁ ant disorder, or \nspeciﬁ c phobia. The manual-based but ﬂ exibly \nimplemented intervention incorporated initial \ntraining in cognitive and coping skills (cognitive \ntherapy and relaxation training) followed by \nsystematic exposure to anxiety-provoking \nsituations involving the application of coping \nstrategies. Treated children fared better than \nwait-list children on a majority of the outcome \nmeasures. Perhaps the most dramatic difference \nobserved was the percentage of children not \nmeeting diagnostic criteria for an anxiety \ndisorder at the end of treatment: 5% of the wait-\nlist group versus 64% of the CBT treated cases \n(Kendall). Systematic follow-up evaluations \nat 3 years (Kendall & Southam-Gerow, 1996) \nand at 7 and 1/2 years (Kendall, Safford,"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      329.9759826660156,
+      77.83013153076172,
+      512.5087280273438,
+      691.963134765625
+    ],
+    "text": "Flannery-Schroeder, & Webb, 2004) revealed \nmaintenance and enhancement of treatment \ngains. Kendall and colleagues reafﬁ rmed the \nefﬁ cacy of this procedure with 94 children (age \n9–13) randomly assigned to CBT and wait-list \ncontrol conditions (Kendall et al., 1997). In this \nsystematic replication study, 71% of the treated \nchildren did not meet diagnostic criteria at the \nend of treatment compared to 5.8% of those in \nthe wait-list condition.\nSubsequent \nto \nKendall’s \nrandomized \nclinical trials, the CBT Coping Cat program (see \ndetails presented previously) was evaluated \nindependently in Australia and compared to a \nCBT + FAM condition , which is a higher strength \nintervention with greater parental involvement \n(Barrett, Dadds, & Rapee, 1996). Seventy-nine \nchildren with principal diagnoses primarily \nof overanxious disorder/generalized anxiety \ndisorder and separation anxiety disorder were \ntreated. The children who were between 7 and \n14 years of age were assigned randomly to CBT, \nCBT + FAM, and wait-list control conditions. \nThe treatments were of 12 weeks’ duration. At \nimmediate post-treatment, 74% of the wait-list \ncontrol children still met diagnostic criteria for \nan anxiety disorder versus 43% of the children \nin the CBT condition. However, only 16% of \nthe CBT + FAM met diagnostic criteria at post-\ntreatment. CBT + FAM was signiﬁ cantly better \nthan CBT alone. At follow-up 6 months later, \n71.4% of the CBT children were diagnosis-free \nversus 84% of the CBT + FAM children and at \n1-year follow-up, the CBT + FAM condition \nremained superior to the CBT alone condition \n(95.6% compared to 71.4%). However, at \n6-year follow-up, the two conditions were \nsimilar to one another with approximately 86% \nof the youth in both conditions diagnosis-free \n(Barrett, Duffy, Dadds, & Rapee, 2001). These \nresults for CBT are remarkably similar to those \nobtained by Kendall and colleagues (Kendall et \nal., 2004), afﬁ rming the efﬁ cacy of individual \nCBT as well as the family-enhanced protocol. \nAs previously noted, treatment provided \nin a group format may increase cost-efﬁ ciency \nand provide opportunities for peer modeling \nand social exposure tasks. When such group \ntreatments also include a parent or family \ncomponent, additional beneﬁ ts might be \nobserved. At least one randomized controlled \ntrial has compared group CBT, individual CBT, \nand waiting list controls for children with \nseparation anxiety disorder and overanxious/\ngeneralized \nanxiety \ndisorder \n(Flannery-\nSchroeder & Kendall, 2000). Group CBT and"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      126.00001525878906,
+      713.843017578125,
+      509.9760437011719,
+      722.9869995117188
+    ],
+    "text": "244 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   52\nBehaviorDisorders_30(3).indd   52\n7/31/05   8:01:12 PM\n7/31/05   8:01:12 PM"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      102.02400207519531,
+      77.84087371826172,
+      284.530517578125,
+      691.973876953125
+    ],
+    "text": "individual CBT were equally effective and \nsuperior to wait-list conditions. A series of \nother studies have demonstrated the efﬁ cacy \nof family CBT conducted in a group format \n(Cobham, Dadds, & Spence, 1998; Manassis \net al., 2002; Mendlowitz et al., 1999; Rapee, \n2000; Silverman, Kurtines, Ginsburg, Weems, \nLumpkin et al., 1999; Shortt, Barrett, & Fox, \n2001; Toren et al., 2000). \nFor example, a ten-session family-based \ngroup \ncognitive-behavioral \nintervention \n(FRIENDS) for anxious children was developed \nand evaluated in Australia (Barrett & Turner, \n2004).The program integrates core elements from \na cognitive-behavioral perspective (exposure, \nrelaxation, cognitive restructuring, problem \nsolving, self-reward, relapse prevention) with \nuseful strategies from family therapy and \ninterpersonal approaches (e.g., establishment of \nsocial support network, conﬂ ict management). \nThe theme running through the program is the \nenhancement of skills and competencies to \nhandle anxiety provoking situations. FRIENDS \nis an acronym for each of the skills taught: \nF—Feeling worried?; R—Relax and feel good; \nI—Inner thoughts; E—Explore plans, N—Nice \nwork so reward yourself; D—Don’t forget to \npractice; and S—Stay calm, you know how \nto cope now. The efﬁ cacy of FRIENDS was \nevaluated in a randomized controlled trial with \nclinically anxious children 6–10 years of age \n(n = 71) that compared FRIENDS to a waiting list \ncontrol group (Shortt et al., 2001). All children \nfulﬁ lled diagnostic criteria for a separation \nanxiety disorder, generalized anxiety disorder, \nor social phobia. Results indicated that 69% \nof children who completed FRIENDS were \ndiagnosis-free, compared to 6% for controls, \nwith results being maintained at a 12-month \nfollow-up. \nIn addition to these clinic based studies, \na series of school-based studies have been \nconducted by Dadds, Barrett, Spence, and their \ncolleagues (Dadds, Spence, Holland, Barrett, \n& Laurens, 1997; Shortt et al., 2001). These \nstudies have been designed as both preventive \nand early intervention efforts and have also \nshown considerable success for CBT based \nprocedures. For example, Dadds et al. (1997) \nscreened 1,786 children in the third through \nsixth grades, identiﬁ ed 128 who were anxious, \nand assigned them to 10-week school-based \nchild and parent-focused CBT interventions or \nto a monitoring only group. Intervention was \nbased on the The Coping Koala: Prevention \nManual (Barrett, Dadds, & Holland, 1994), an"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0,
+      77.83013153076172,
+      488.5066833496094,
+      581.965087890625
+    ],
+    "text": "Australian modiﬁ cation of Kendall’s Coping \nCat anxiety program for children, except \nthat it was delivered in group format and, as \nnoted, was 10 weeks in duration. Group sizes \nranged from 5–12 children. Parental sessions \nwere conducted at the participating schools \nfollowing sessions 3, 6, and 9. Basically, \nparents were introduced to child management \nskills (reinforcement skills, planned ignoring, \ngiving and backing up clear instructions) and \nhow to use these skills to manage their child’s \nanxiety. In addition, they were provided \ninformation about what their children were \nlearning in the groups and how they could \nmodel and encourage the use of the strategies \nlearned in the groups. Finally, they were \nencouraged to use some of these same skills \nin addressing their own anxiety. Both groups \nshowed improvements immediately post-\nintervention on the outcome measures. Results \nsix months later favoured the child and parent-\nfocused group over the monitoring only group, \nparticularly in relation to those progressed to a \ndiagnosable disorder (16% vs. 54%).\nIn addition, the FRIENDS program was \nused in a selective prevention trial in Australia \nwith young non-English speaking migrants \nexperiencing anxiety and adjustment problems. \nSelective prevention requires identiﬁ cation of \nrisk factors and it is widely documented that \ncultural change and migration serves as a \nsigniﬁ cant risk for the development of anxiety \nin children and adolescents (Barrett & Turner, \n2004). The school-based study (n = 320) in-\nvolved a comparison of FRIENDS intervention \nwith a waiting list control condition (Barrett, \nSonderegger, & Xenos, 2003). The FRIENDS \nintervention resulted in signiﬁ cantly greater \nself-esteem, fewer internalizing symptoms, and \na less pessimistic future outlook than controls \nat post-treatment, with improvements being \nmaintained at a 6-month follow-up. Clearly, \nefﬁ cacious CBT interventions have been \ndemonstrated for separation anxiety disorder \nand generalized anxiety disorder in children \nand adolescents."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0,
+      599.5730590820312,
+      434.06396484375,
+      611.7290649414062
+    ],
+    "text": "Studies on Social Phobia"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0,
+      621.8170166015625,
+      488.5050048828125,
+      685.9599609375
+    ],
+    "text": "We now consider research developments \nin the treatment of children with social phobia \n(also referred to as social anxiety disorder). (For \na more detailed discussion see Beidel, Morris, \n& Turner, 2004; and Morris, 2004.) Albano and \ncolleagues developed one of the ﬁ rst group"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      102.02401733398438,
+      713.8635864257812,
+      486.0000305175781,
+      723.007568359375
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 245"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   53\nBehaviorDisorders_30(3).indd   53\n7/31/05   8:01:16 PM\n7/31/05   8:01:16 PM"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      126.0,
+      77.84087371826172,
+      308.50836181640625,
+      691.973876953125
+    ],
+    "text": "treatment \nprograms \ndesigned \nspeciﬁ cally \nfor adolescents with social phobia, called \nGroup Cognitive-Behavioral Treatment for \nAdolescents (GCBT-A; Albano, Marten, Holt, \nHeimberg, & Barlow, 1995). Their intervention \nis an adaptation of an effective intervention \ndeveloped for adults with social phobia, as \nreported by Heimberg et al. (1990). The initial \npublication was a series of case studies with \nﬁ ve adolescents. GCBT-A consisted of psycho-\neducation, skill building (such as social skills, \nproblem solving, and assertiveness training), \ncognitive restructuring, and behavioral ex-\nposure to socially distressing or fearful \nsituations. At post-treatment, four of the \nﬁ ve adolescents were assessed to have only \nsubclinical levels of social phobia, and 1year \nlater, four did not meet diagnostic criteria \nfor social phobia. Recently, Haywood et al. \n(2000) undertook a controlled clinical trial \nand randomly assigned adolescent girls (N = \n35) with social phobia to CBGT-A treatment or \ncontrol group. Treatment was conducted in a \nclinic setting. In contrast to previous ﬁ ndings, \nhowever, considerable residual social phobia \nsymptoms remained at post-treatment, and 1 \nyear later there was no signiﬁ cance between \ngroup differences in the frequency of social \nphobia diagnosis or in mean scores on a self-\nreport social phobia inventory.\nBeidel et al. (2000) also published a \nbetween-group randomized control inves-\ntigation on the efﬁ cacy of a multi-component \nbehavioral treatment program for children \nwith social phobia. Sixty-seven children \nwere randomly assigned to either an active \ntreatment labeled Social Effectiveness Therapy \nfor Children (SET-C) or to an active nonspeciﬁ c \ncontrol, called Testbusters. SET-C included \ngroup social skills training, peer-generalization \nexperiences, and individual in vivo exposure. \nAt post-treatment, 67% of those treated with \nSET-C no longer met criteria for social phobia, \ncompared with only 5% for the Testbusters \nintervention. Furthermore, in terms of clinical \nsigniﬁ cance, children in the SET-C group were \nless anxious, less avoidant of social situations, \nmore skilful in their social interactions, and \nengaged in more social discourse, as reported by \nchildren, parents, and independent evaluators. \nAt 3-year follow-up, children treated with SET-\nC maintained their treatment gains. \nSpence, \nDonovan, \nand \nBrechman-\nToussant (2000) have evaluated the efﬁ cacy \nof cognitive-behavioral treatment (CBT) with \nor without parental involvement for children"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      329.9768981933594,
+      77.83013153076172,
+      512.4837036132812,
+      592.9649047851562
+    ],
+    "text": "and adolescents with social phobia. In this \ntrial, 50 children were randomly assigned to \nCBT, CBT plus parental involvement (CBT-PI), \nor a waiting list control condition. The CBT \ncomponents included SST, relaxation training, \npositive self-instruction, cognitive challenge, \nand graded exposure. The purpose of the parent \ninvolvement component was to help parents \nlearn how to model and reinforce the social \nskills taught in CBT, to ignore avoidance and \nsocially anxious behavior, to encourage child \nparticipation in social activities, and to reinforce \nhomework completion. Both interventions \nincluded 12 weekly group sessions and 2 \nbooster sessions (occurring 3 and 6 months \npost-treatment). Although there was a trend \nfor greater improvement in the CBT-PI group, \ndifferences were not statistically signiﬁ cant. \nBoth treatment groups showed improvement \nin social skills from pre-treatment to 12-month \nfollow-up based on parent report. However, \nneither treatment (in comparison to one another \nor to a control group) yielded signiﬁ cant \ndifferences for children’s total number of peer \ninteractions, parental report of competence \nwith peers, or independent observer ratings \nof assertiveness during behavioral observation \nfrom pre- to post-treatment. This shows the \nvalue of multimethod assessment of multiple \ndomains of functioning. \nMasia, Klein, Storch, and Corda (2001) \nrecently reported an uncontrolled investigation \nof a 14-session group treatment program for \nsix adolescents with social anxiety disorder. \nConducted in the school setting, the intervention \nprogram comprised social skills training \nand in vivo exposure sessions. The ﬁ ndings \nshowed signiﬁ cant improvement on clinician \nseverity ratings of social anxiety disorder but \nno signiﬁ cant change in the adolescent’s self-\nreports of social fears. However, the pilot and \nuncontrolled nature of this study means that the \nresults must be considered preliminary. Overall, \nthe treatment of social phobia in children and \nadolescents from a CBT perspective appears \npromising, although it is not yet clear that \nparental involvement is indicated."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      329.97601318359375,
+      610.572998046875,
+      468.0359802246094,
+      622.72900390625
+    ],
+    "text": "Studies on Speciﬁ c Phobia"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      329.9759826660156,
+      632.8170166015625,
+      512.4791870117188,
+      685.960205078125
+    ],
+    "text": "Speciﬁ c phobia refers to a broad group \nof phobias in the DSM-IV (APA, 1994). Five \nsubtypes are identiﬁ ed: Animal Type, Natural \nEnvironment Type, \nBlood-Injection Type, \nSituational Type, and Other Type. Many"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      125.99998474121094,
+      713.8638305664062,
+      509.97601318359375,
+      723.0078125
+    ],
+    "text": "246 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   54\nBehaviorDisorders_30(3).indd   54\n7/31/05   8:01:19 PM\n7/31/05   8:01:19 PM"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      102.02400207519531,
+      77.84087371826172,
+      284.52783203125,
+      691.973876953125
+    ],
+    "text": "multiple \nbaseline \ninvestigations \nstrongly \nendorse the usefulness of behavioral and \ncognitive-behavioral strategies in overcoming \nphobic disorders in children (see Ollendick & \nKing, 1998). For example, Heard, Dadds, and \nConrad (1992) conducted a study with three \nadolescent girls presenting with a principal \nDSM-III-R diagnosis of simple phobia (fears \nof medical procedures, darkness, and school). \nTherapy \nwith \nthe \nadolescents \ninvolved \nrelaxation training, graduated exposure, and \ncognitive restructuring. Home contingency \nmanagement of phobic behavior by parents \nwas also undertaken. This procedure consisted \nof the family minimizing attention to fear \nreactions and positively reinforcing appropriate \nbehavior relative to phobic stimuli. All three \nadolescents, including a girl with comorbid \nseparation anxiety disorder, showed marked \nimprovements on behavioral and self-report \nmeasures of anxiety. The treatment gains were \nmaintained at a 3-month follow-up.\nChildren with speciﬁ c phobia have been \nincluded in three between-group randomized \ncontrol clinical outcome trials (Graziano & \nMooney, 1980; Ost, Svensson, Hellstrom, & \nLindwall, 2001; Silverman, Kurtines, Ginsburg, \nWeems, Rabian, et al., 1999). In the Graziano \nand Mooney investigation, severely night-\ntime fearful children between 6 and 13 years \nof age were randomly assigned to either a \ntreatment group or waiting-list control group. \nTreatment involved teaching relaxation and \nverbal coping skills to the children to counter \nfeelings of being afraid through the night. Over \nthe 3-week program, the parents played an \nimportant role in monitoring home practice \nand rewarding children for their progress with \n“bravery tokens” (exchanged for a McDonald’s \nparty). Results attested to the efﬁ cacy of the \nintervention on multiple outcome measures \nof night-time fear behavior and self-reported \nwillingness to go to sleep. Maintenance of \nimprovement was reported for nearly all \nchildren at 2- and 3-year follow-ups (Graziano & \nMooney, 1982). Silverman, Kurtines, Ginsburg, \nWeems, Rabian, et al., (1999) compared the \nefﬁ cacy of an exposure-based self-control \ntreatment and exposure-based contingency \nmanagement treatment condition relative to \nan education and support control group in \nthe treatment of phobic children age 6–17. \nMulti-informant outcome measures included \ndiagnostic status, child-completed measures \nof emotional distress and negative cognitive \nerrors, and parent-completed measures of"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0,
+      77.83013153076172,
+      488.5041198730469,
+      515.96630859375
+    ],
+    "text": "emotional and behavioral impairment. Perhaps \nsurprisingly, results indicated that all three \nconditions produced effective therapeutic \nchange on the self-report and parent outcome \nmeasures. However, for the more clinically \nsigniﬁ cant measures, changes were noted. \nFor example, results indicated that 88% \nof the participants in the exposure-based \nself-control condition were diagnosis-free \nat post-treatment, compared to 55% in the \nexposure-based \ncontingency \nmanagement \ncondition and 56% in the education/support \ncontrol condition. Furthermore, on a measure \nof distress, 80% of the youth in both the \ncontingency management and the self-control \nconditions reported either no fear or very little \nfear at post-treatment, compared to 25% in \nthe education/support condition. Thus, on \nmeasures of clinical improvement, results \nfavoured the two exposure-based treatments \nin comparison to the control condition. These \ngains were maintained at 3-, 6-, and 12-month \nfollow-ups. Recently, Ost et al. (2001) have \nshown very similar results for an intensive one-\nsession treatment based largely on modeling, \nexposure, and reinforcement. They showed \nthat about 80% of the youth in this intensive \ntreatment were diagnosis-free compared to \nabout 15% of those in a wait-list condition. \nFor a more detailed discussion of research on \nthe treatment of speciﬁ c phobia in children, \nthe reader is referred to other sources (King \net al., 2004; King, Muris, & Ollendick, in \npress; Ollendick et al., 2004). Unfortunately, \nnone of these studies have been conducted in \nschool settings, so we do not know how these \ntreatments would fare in that context; still, it is \nevident that effective psychosocial interventions \ndo exist for children and adolescents with \nspeciﬁ c phobia."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0,
+      533.5730590820312,
+      439.69195556640625,
+      545.7290649414062
+    ],
+    "text": "Studies on School Refusal"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0,
+      555.8170166015625,
+      488.54913330078125,
+      685.9588012695312
+    ],
+    "text": "The research developments previously \npresented in this article are relevant to how \nclinicians and researchers have approached \nschool refusal from a cognitive-behavioral \nviewpoint (see Heyne & King, 2004; Heyne, \nKing, & Tonge, 2004; Heyne & Rollings, 2002; \nKing & Ollendick, 1989b; King, Tonge, Heyne, \n& Ollendick, 2000). Diagnostic studies afﬁ rm \nthat school refusal is a heterogenous problem \nin which there are three primary diagnostic \ngroups: phobic school refusers, separation-\nanxious \nschool \nrefusers, \nand \nanxious-"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      102.02400207519531,
+      713.8624267578125,
+      486.0000305175781,
+      723.0064086914062
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 247"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   55\nBehaviorDisorders_30(3).indd   55\n7/31/05   8:01:22 PM\n7/31/05   8:01:22 PM"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      125.99999237060547,
+      77.84087371826172,
+      308.5434875488281,
+      691.973876953125
+    ],
+    "text": "depressed school refusers (see review by King \n& Bernstein, 2001). \nIn an inﬂ uential report, Mansdorf and \nLukens (1987) successfully combined cognitive \nrestructuring with behavioral procedures in \nthe treatment of two school-refusing children. \nInitially, the children were taught how to \nuse coping self-statements to guide positive \nbehavior at school. Following this cognitive \npreparation, \na \nbehavioral \nprogram \nwas \nimplemented with the children. This involved \ngraduated exposure to the school setting \nand required parents to be ﬁ rm about school \nattendance and ensure that social and activity \nreinforcers were administered contingently. By \nthe fourth week, regular school attendance had \nbeen achieved for both children. A 3-month \nfollow-up showed that school attendance had \nbeen maintained for both children. \nAn important early comparative study \n(Blagg & Yule, 1984) compared three broad \ninterventions in the treatment of school refusal: \n(a) a ﬂ exible behavioral treatment approach \nwith an emphasis on rapid school return; (b) \nhospitalization; and (c) home instruction plus \npsychotherapy (N = 66). The ﬁ ndings endorsed \nthe superior efﬁ cacy of the behavioral approach \nin relation to school attendance. However, \nrandomization did not occur, thus allowing the \npossibility that less complex cases were seen in \nthe behavioral condition.\nKing et al. (1998) randomly assigned 34 \nschool refusers, age 5–15, to either a 4-week \nmanualized cognitive-behavioral intervention \nor a waiting list control condition. Treatment \nwas provided in a clinical setting but with active \ncollaboration in the school setting. Intervention \nwith the young people drew from a range of \nCBT procedures, including relaxation training, \nsocial skills training, cognitive therapy, and \nexposure. Intervention with the parents and \nschool staff focused on behavior management \nstrategies such as instruction-giving, planned \nignoring, and positive reinforcement. Relative \nto waiting list controls, children who received \ntherapy exhibited a clinically signiﬁ cant \nimprovement in school attendance—nearly \nall attained 90% or more school attendance. \nTreated children also underwent improvements \non self-reports of fear, anxiety, and depression. \nAt the same time, the children developed \nconﬁ dence in their ability to cope with \nanxiety-provoking situations, such as parental \nseparation or being teased by peers. Parent \nreport data provided further conﬁ rmation of the \nbeneﬁ cial effects of treatment with reports of"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      329.97601318359375,
+      77.83013153076172,
+      512.4864501953125,
+      691.963134765625
+    ],
+    "text": "improvements for internalizing problems. For \n13 of the 16 young people who received the \ntreatment and who were able to be located at \n3- and  5-year follow-ups, treatment gains were \nmaintained and there were no reports of new \npsychological problems (King et al., 2001).\nHeyne and colleagues evaluated the relative \nefﬁ cacy of the two major components of the \npreviously mentioned CBT intervention for \nschool refusal, (i.e., child therapy and caregiver \ntraining) (Heyne et al., 2002). The families of \n61 school-refusing children and adolescents \n(age 7–14) were randomly allocated to (a) child \ntherapy alone; (b) parent and teacher training \nalone; or (c) the combination of child therapy \nand parent/teacher training. Post-treatment \nresults indicated higher rates of school \nattendance when parents and teachers were \ninvolved in the intervention (either on their \nown, or in conjunction with the child), but \nby 4.5-month follow-up all three approaches \nwere found to be equally effective in increasing \nschool attendance and self-efﬁ cacy and in \nreducing the school refusers’ fear, anxiety, \nand depression. Although the design of this \ncomponent analysis study did not include a \ncontrol group, the results are supportive of the \nuse of CBT in the treatment of school refusal. \nLast, Hansen, and Franco (1998) randomly \nallocated 56 school-refusing children and \nadolescents aged between 6 and 17 years \nof age to either CBT or educational support \ntherapy (EST). CBT consisted of graduated \nin vivo exposure and coping self-statement \ntraining. The EST condition controlled for \nthe nonspeciﬁ c effects of treatment, and \nincorporated \neducational \npresentations, \nencouragement for children to talk about their \nfears, and a daily diary for recording feared \nsituations and associated thoughts and feelings. \nUnlike CBT, EST did not include any skills \ntraining (i.e., no training in the use of coping \nself-statements) or exposure tasks. Both the \nCBT and EST groups displayed improvements in \nattendance and self-reports of fear, anxiety, and \ndepression. At post-treatment, trends favored \nthe CBT condition with 65% of the CBT group \nand 50% of the EST group no longer meeting \ncriteria for their primary anxiety disorder, \nalthough this difference was not signiﬁ cant. \nLast and colleagues (1998) concluded that the \nstructured CBT approach was not signiﬁ cantly \nsuperior to the less-structured treatment method \nencompassed in EST. \nFinally, an investigation of Kearney and \nSilverman (1990) suggests the usefulness of a"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      126.00001525878906,
+      713.843017578125,
+      509.9760437011719,
+      722.9869995117188
+    ],
+    "text": "248 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   56\nBehaviorDisorders_30(3).indd   56\n7/31/05   8:01:26 PM\n7/31/05   8:01:26 PM"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      102.02400207519531,
+      713.864990234375,
+      486.0000305175781,
+      723.0089721679688
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 249"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      102.02403259277344,
+      77.84130096435547,
+      284.53143310546875,
+      680.9744873046875
+    ],
+    "text": "functional analytic approach in the assessment \nand treatment of school-refusing children \n(N = 7). Most of the children met the criteria \nfor an anxiety disorder diagnosis, and several \nchildren received multiple diagnoses. On the \nbasis of how the child scored on the School \nRefusal Assessment Scale (Kearney & Silverman, \n1990, 1993), he/she was assigned to one of \nfour functional categories. These categories \ndescribe the motivating conditions (i.e., the \nfunctions) for school refusal and determine \nthe kind of prescriptive treatment provided \nto the child. The ﬁ rst category consisted of a \nchild who was fearful of a speciﬁ c stimulus or \nexperienced symptoms of negative affectivity \nin the school setting itself (referred to as the \nspeciﬁ c fearfulness/general overanxiousness \ncategory). \nTreatment \nincluded \nrelaxation \ntraining and systematic desensitization. The \nsecond category included children (n = 4) with \nunsatisfying peer relationships or high social \nanxiety in an evaluative setting (escape from \naversive social situations category). Cognitive \nintervention and/or modeling procedures were \napplied for these children to increase social-skills \nproﬁ ciency. The third category included a child \nwho engaged in tantrums and other behaviors \nin order to stay at home with his mother or \nanother caregiver (attention getting/separation-\nanxious category). Shaping and differential \nreinforcement of other behavior formed the \ntreatment. The fourth category included a child \nwho wished to remain at home for tangible \nreasons such as watching television or visiting \nfriends (tangible reinforcement category). This \nchild was treated via contingency contracting \nprocedures. Treatment sessions were conducted \nover 3–9 weeks for all seven children. Full-time \nschool attendance was achieved by six of the \nseven children and was maintained at 6-month \nfollow-up. All reported moderate improvements \nin daily levels of anxiety, depression, and/or \nglobal distress. One of the subjects in the \nsecond category (escape from aversive social \nsituations) did not return to school and began \nwork instead. This study is suggestive of the \nvalue of a thorough functional analysis and \nthe need for individualized treatment when \ndealing with a problem as heterogeneous as \nschool refusal (see also Kearney, 2001). Overall, \nschool refusal has responded to CBT programs \nas demonstrated in a number of controlled \nstudies, with general maintenance of gains. \nThe question of relative efﬁ cacy of the speciﬁ c \nversus nonspeciﬁ c effects of CBT remains."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.0,
+      77.79591369628906,
+      411.9119567871094,
+      103.95233917236328
+    ],
+    "text": "Studies on Children \nWith Disabilities"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.0,
+      114.03990936279297,
+      488.5525207519531,
+      684.1736450195312
+    ],
+    "text": "Children with disabilities often develop a \nphobia or anxiety disorder that can interfere \nwith integration or inclusion in the school or \ncommunity. Unfortunately, however, research \ndevelopments have not kept pace with special \nneeds children. Traditional behavioral strategies \nsuch as real-life (in vivo) desensitization, \nparticipant \nmodeling, \nand \ncontingency \nmanagement have been successfully applied \nto children with intellectual disability or autism \nas shown by case reports and multiple baseline \nevaluations (see review by King, Ollendick, \nGullone, Cummins, & Josephs, 1990). The \ncooperation of caregivers is crucial in program \nimplementation. For example, Jackson and King \n(1982) successfully employed laughter as the \nanxiety inhibitor in the in vivo desensitization \nof a phobia of noises associated with toilet \nﬂ ushing developed by a child with autism. As \nthe child loved being tickled to the point of \nlaughter, this activity was introduced during \nthe toileting and ﬂ ushing procedure. Matson \n(1981) effectively used participant modeling \nin overcoming the long-standing social fears \nof three girls with moderate intellectual \ndisability. As the training was conducted in \na mental health clinic, generalization to the \nhome and school settings was assessed at \nvarious stages of the investigation. Delivered \nin a multiple baseline format, the inter-\nvention \nproved \neffective \nand \ngains \nin \nreduction of fears were maintained at 6-month \nfollow-up.\nThe investigation of Obler and Terwilliger \n(1970) occurred prior to the literature \nsearch period, but it is included because of \nthe dearth of controlled treatment studies. \nThe \nresearchers \nrandomly \nassigned \n30 \n“emotionally \ndisturbed,” \nneurologically \nimpaired children (age 7–14) to a contingency \nmanagement (reinforced practice) or to a \nno-treatment control condition. The children \nall presented clinically with severe mono-\nphobic disorders of either riding on a public \nbus or the sight of a live dog. In the reinforced \npractice condition, children obtained grad-\nuated and repeated practice in approaching \nthe feared stimulus and reinforcement for \ncooperation on the exposure tasks. Results \nindicated that the treated children were \nless fearful and they were able to complete \nperformance approach tasks (i.e., pat a dog,"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   57\nBehaviorDisorders_30(3).indd   57\n7/31/05   8:01:29 PM\n7/31/05   8:01:29 PM"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      126.0,
+      77.84087371826172,
+      308.55145263671875,
+      680.9740600585938
+    ],
+    "text": "ride the bus) that they were unable to do prior \nto treatment. Control children did not evince \nsuch change.\nA recent controlled investigation, carried \nout in Australia, evaluated a group-based \nmulticomponent, early intervention program \nfor parents of children age 4–7 with an \nintellectual disability plus an anxiety disorder \nor phobia (Ciechomski, Jackson, Tonge, King, \n& Heyne, 2001). Called the Creating Conﬁ dent \nChildren Program (CCCP), the program aimed \nto help parents manage the anxiety or phobic \nproblems of their child, and deal with their \nown emotional distress and psychopathology. \nCCCP incorporated skills training in child \nbehavior management, partner support and \nrelationship building, and stress management. \nThe outcome of CCCP was compared to \nthe outcome of a support and educational \nintervention \n(ESI), \nand \nwait-list \ncontrol \ncondition. CCCP and ESI were manual based \nand provided in group format (typically six \nto eight parents per group) over 11 weeks. \nMultiple outcome measures were employed \nand \nincluded—for \nexample, \na \nparent-\ncompleted child behavior checklist (with an \nanxiety subscale), developed particularly for \nspecial populations of children with intellectual \ndisability (Developmental Behaviour Check-\nlist, Einfeld & Tonge, 1992), as well as parental \nself-reports on their own health and emotional \ndistress (e.g., GHQ-28, Goldberg & Hillier, \n1978). These tools were administered pre- and \npost-treatment, and at 12-month follow-up. \nThe DSM-IV diagnostic status of the child \nwas also determined at pre-treatment and \nfollow-up assessments through a parent \nstructured diagnostic interview (Child Version \nof the Anxiety Disorders Interview Schedule \nfor DSM-IV; Silverman & Albano, 1996). \nAnalysis \nof \nvideo-recorded \nintervention \nsessions \nrevealed \noverall \nadherence \nto \nthe CCCP and ESI manuals. Preliminary \nanalyses suggest that both CCCP and ESI are \nassociated with signiﬁ cant improvements \nin child functioning and parent function-\ning (Jackson, Ciechomski, King, Tonge, & \nHeyne, 2002). Thus, the few controlled \ninvestigations that have been reported suggest \nthat behavioral and cognitive procedures \nare useful in the management of anxiety \ndisorders and phobias with special needs \nchildren. Targeting caregiver stress and marital \nrelationship difﬁ culties in intervention forms a \nmore recent research theme."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      329.97601318359375,
+      77.79591369628906,
+      456.56396484375,
+      103.95233917236328
+    ],
+    "text": "Conclusions and Future \nResearch Directions"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      329.9759521484375,
+      114.03990936279297,
+      512.483642578125,
+      431.1783447265625
+    ],
+    "text": "Exciting research advances have occurred \nin relation to the treatment of child anxiety. The \nreview of evidence conﬁ rms that behavioral \nand cognitive procedures are efﬁ cacious in \nthe treatment of childhood anxiety disorders, \nphobic disorders, and school refusal. Between-\ngroup controlled trials have involved the waiting \nlist controls versus treatment design, and the \nmethodologically stronger designs of treatment \nversus education and support (placebo control) \nand waiting list controls versus treatment \nversus enhanced or strengthened treatment. \nGiven the limited number of investigations on \nthe treatment of anxiety or phobic disorders \nin children with disabilities, greater caution is \nnecessary on treatment efﬁ cacy claims for this \nspecial needs population. The usefulness of \nfunctional analysis was suggested through the \ndesign of effective individualized intervention \nprograms attuned to the key motivational \nfactors of school refusal behavior, a problem \nthat has proven difﬁ cult to untangle in terms \nof the complexity of maintenance factors. Yet, \nmany issues remain to be addressed including: \n(a) the question of underlying mechanisms or \nprocesses of treatment; (b) the multicomponent \nnature of intervention programs; and (c) the \nprediction of treatment outcome (see also \nSpecial Issue, Hudson & Manissis, 2004)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      329.97601318359375,
+      445.31597900390625,
+      446.93609619140625,
+      467.44598388671875
+    ],
+    "text": "Underlying Treatment \nMechanisms and Processes"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      329.9759521484375,
+      478.0639953613281,
+      512.5286254882812,
+      685.204345703125
+    ],
+    "text": "Although the review of studies suggests \nthat efﬁ cacious psychosocial interventions \nhave been developed for the management of \nchildhood anxiety disorders and phobias, the \nquestion of underlying processes or mechanism \nhas not been sufﬁ ciently investigated. Can the \nﬁ ndings be explained in terms of an attention-\nplacebo effect (consider the counseling and \nsupport from the adult therapist and build-\nup of positive expectations), rather than the \nspeciﬁ c components of the CBT intervention \n(such as the exposure tasks, cognitive therapy, \nrelaxation training)? Of the four studies that \ninvestigated this question, three studies found \nlittle or no differences between CBT and \nplacebo controls (Jackson et al., 2002; Last \net al., 1998; Silverman, Kurtines, Ginsburg, \nWeems, Rabian, et al., 1999), whereas the \nother study found signiﬁ cant differences in"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      125.99996948242188,
+      713.8612670898438,
+      509.97601318359375,
+      723.0052490234375
+    ],
+    "text": "250 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   58\nBehaviorDisorders_30(3).indd   58\n7/31/05   8:01:32 PM\n7/31/05   8:01:32 PM"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      102.02398681640625,
+      77.84087371826172,
+      284.57818603515625,
+      691.973876953125
+    ],
+    "text": "outcome between the index treatment and the \nplacebo control (Beidel et al., 2000). Further \nresearch is needed to examine what differences \nin procedures, participants, or other variables \nmight explain these divergent outcomes. \nThere are many questions about exposure \nduring intervention that are in need of \nclariﬁ cation and hard data. What are the \nfrequency and duration of exposures during \nthe therapy sessions? How accurately do the \nexposures encapsulate what is intended? Are \nexposures always presented in hierarchical \norder? How is progression through the \nhierarchy determined? What is the mix of \nimaginal, symbolic, and real-life exposure? \nAre ratings taken by the child or therapist to \ngauge anxiety reduction within a session? \nIs there ample post-exposure debrieﬁ ng? \nWhat are the common difﬁ culties of children, \nand how are they handled? Out-of-session \nexposure is considered crucial and usually \npart of homework set by the therapist, but \nthere are little hard data on such issues as \ncompliance rates, the frequency and duration \nof exposures, the child’s reaction following \nexposure, whether graduated exposure is \nbeing followed, the role of caregivers, and \nfollow-up by therapists. A challenge for \nresearchers is to develop a measure or index \nof exposure. Therapy records and daily diaries \nshould be useful in determining more detailed \ninformation about exactly what happens \nin exposure and the presumed relationship \nbetween strength of exposure and therapy \noutcomes.\nWe agree with pleas to also consider \npsychological processes in greater depth. Finer \ngrained analyses of cognitive changes, coping \nstyles, and efﬁ cacy expectations would directly \ntest underlying assumptions and theory about \nkey processes and CBT (see Prins & Ollen-\ndick, 2003). For example, the Self-Efﬁ cacy \nQuestionnaire for School Situations (SEQ-SS; \nHeyne et al., 1998), a psychometrically sound \nself-report measure, was usefully employed \nto measure changes in efﬁ cacy expectations \nin school-refusing children as a result of \nintervention (Heyne et al., 2002; King et al., \n1998). Also consistent with the comments \non exposure, previously presented in this \nreview, another useful research direction of \ntheoretical and practical importance would \nbe to examine the relationship between \nstrength/type of exposure and development \nof self-efﬁ cacy during treatment. Of course, \nexposure/self-efﬁ cacy relationships are likely"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.0,
+      77.83013153076172,
+      488.55535888671875,
+      108.97377014160156
+    ],
+    "text": "to be inﬂ uenced by gender, developmental, \nand racial/cultural factors. Such important \nmatters await further research investigation."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.0,
+      123.1169204711914,
+      468.469970703125,
+      133.24691772460938
+    ],
+    "text": "Comparing Intervention Components"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.0,
+      143.864990234375,
+      488.4588623046875,
+      516.0022583007812
+    ],
+    "text": "Interventions are typically multicomponent \nand incorporate an array of cognitive and \nbehavioral \nstrategies. \nHowever, \nwhich \nparticular component is responsible for most \nof the treatment gains? Many interesting studies \nare possible. Comparing cognitive strategies, \nrelaxation strategies, and the combination of \nstrategies is of theoretical interest because the \nstrategies are reﬂ ective of different models \nof child anxiety (cognitive mediation vs. \nphysiological arousal/conditioning). In addition \nto being of theoretical importance, from a \npractical perspective unnecessary interventions \nare not time or cost efﬁ cient. A limited number \nof multiple baseline evaluations have addressed \nthis crucial question (e.g., Eisen & Silverman, \n1993; Friedman & Ollendick, 1989). For \nexample, Eisen and Silverman compared the \noutcome of cognitive-restructuring skills (plus \nexposure), relaxation skills (plus exposure), \nand a combination of cognitive-restructuring \nand relaxation (plus exposure) with four \nchildren with overanxious disorder. The four \ninterventions produced the same degree of \nimprovement, but all included an exposure \ncomponent suggesting that it might be the \neffective ingredient. Given the small sample size, \nthe ﬁ ndings must be considered as preliminary, \nhowever. Randomized controlled trials have yet \nto be undertaken to explore this issue in greater \ndepth. Thus, as recently expressed by Hudson et \nal. (2004), “Theoretical and applied questions \nabout the active ingredients within CBT persist \nand require research attention” (p. 136)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.0,
+      530.1409912109375,
+      452.2799072265625,
+      540.27099609375
+    ],
+    "text": "Prediction of Treatment Outcome"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.0,
+      550.8889770507812,
+      488.5040588378906,
+      692.0306396484375
+    ],
+    "text": "Prediction of treatment outcome is an \nimportant issue not yet fully understood. The \nfew studies that have addressed this issue \nwith phobic and anxious youth have not \nfound many variables or sets of variables \nthat are associated with treatment outcome. \nFor example, child characteristics such as \ngender, age, and ethnicity were not related to \ntreatment outcome in Kendall’s randomized \ncontrolled trials of cognitive-behavior therapy \n(Treadwell, Flannery-Schoeder, & Kendall, \n1995). Likewise, levels of comorbidity were \nnot related to outcome (Kendall et al., 1997)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      102.02400207519531,
+      713.8628540039062,
+      486.0000305175781,
+      723.0068359375
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 251"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   59\nBehaviorDisorders_30(3).indd   59\n7/31/05   8:01:36 PM\n7/31/05   8:01:36 PM"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      126.0,
+      77.84087371826172,
+      308.5083312988281,
+      438.9785461425781
+    ],
+    "text": "Moreover, Kendall (1994) reported that neither \nthe children’s perceptions of the therapeutic \nrelationships nor the therapist’s perceptions \nof parental involvement were related to \ntreatment outcome. \nRecently, however, Berman and colleagues \nsuggested some important additional factors to \nconsider when examining treatment outcome \nin phobic and anxiety disorders in children \nand adolescents (Berman, Weems, Silverman, \n& Kurtines, 2000). Their study examined \npredictors of treatment outcome for 106 phobic \nand anxious youth (age 6–17) and their parents. \nInitial analyses examining treatment success \nand failure revealed no signiﬁ cant predictors \nof treatment outcome related to socio-\ndemographic variables (e.g., gender, ethnicity, \nfamily income). Further analyses, however, \nrevealed that children with comorbid diagnoses \nof depression were more likely to experience \ntreatment failure. Additionally, higher levels of \nchild self-reported depression and trait anxiety \npredicted \ntreatment \nfailure. \nFurthermore, \nparental indices of psychopathology (e.g., \nelevated levels of depression) also differentiated \ntreatment success or failure. Thus, in this more \nrecent analysis, both diagnostic comorbidity \nand parental psychopathology were associated \nwith adverse outcomes. Such ﬁ ndings suggest \nthe need to address diagnostic comorbidity \n(especially that of depression) and parental \npsychopathology both in the assessment process \nand the design of treatment interventions."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      126.0,
+      453.1169738769531,
+      237.7799835205078,
+      475.2469787597656
+    ],
+    "text": "Implications for Teachers \nand Teacher Training"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      125.99996948242188,
+      485.864990234375,
+      308.50390625,
+      693.00537109375
+    ],
+    "text": "Teachers can expect to see a diversity of \nanxious and phobic behavior in school settings \nsuch as separation anxiety, evaluation anxiety, \nand phobic reactions to speciﬁ c situations (e.g., \nriding on a school bus, animals or buildings. \nAlthough anxiety-related problems sometimes \nimprove over time without treatment, usually \nsuch difﬁ culties require specialist help. Hence \nthe importance of early identiﬁ cation and \nreferral of students with anxiety difﬁ culties by \nschools. Of course, the early recognition of \nsuch problems can be a challenge for teachers, \ngiven the internal nature of anxiety. Anxiety \nsymptoms, such as worry and distress, are not \nalways obvious to the observer.\nAn assessment of the anxiety-phobic \nproblem is required before an intervention \nplan can be formulated. Assessment is multi-\ninformant involving the child, parents, and"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      329.9759521484375,
+      77.83739471435547,
+      512.4827270507812,
+      691.9703369140625
+    ],
+    "text": "teachers. Typically, the child and parents \nundertake a clinical/diagnostic interview, and \nthen complete daily forms on emotional distress \nand coping strategies and instruments such as \nthe Child Behavior Checklist (CBCL) to identify \nthe frequency and intensity of emotional and \nbehavioral problems. The teacher’s perception \nof the problem at school, views on key factors \nthat maintain the problem in the school \nenvironment, knowledge of peer- or teacher-\nrelationship difﬁ culties, and academic strengths \nand weaknesses are typically included in \nthe assessment process. Direct behavioral \nobservations on the part of teachers is also \nessential, this feature being consistent with \nthe principles of sound behavioral assessment \nespoused for many years. Teachers are also often \nrequested to complete behavior checklists such \nas the Teacher Report Form (similar to CBCL). \nFollowing conﬁ rmation of the speciﬁ c \nanxiety/phobic problem and formulation of \nworking hypotheses or postulations about \nkey maintenance factors, an individualized \nintervention program can be developed. \nConsistent with the ﬁ ndings of the review, \nschools should expect psychosocial treatment \naction plans that are time limited and ﬂ exible, \nhave clear and speciﬁ c goals, incorporate \ndevelopmentally \nappropriate \nbehavioral \nand cognitive strategies aimed at graduated \nexposure, and are subject to evaluation for \ntheir immediate- and long-term efﬁ cacy. To \nensure their practical use, such plans should \nspecify in sufﬁ cient detail that the teacher’s \nrole is to encourage or remind the student \nof the graduated exposure plan, to reward \npositive self-statements/coping and bravery for \nany exposure, to monitor peer interactions and \ninvolve supportive buddies if necessary, and \nto modify the school curriculum or timetable \nshould there be speciﬁ c school timetable \nobstacles. The gradual phasing out of teacher \ninvolvement and support should occur as the \nstudent learns effective self-management skills \nin dealing with situations that elicit anxiety. The \nconsistency of teacher behavior in day-to-day \nmanagement is vital to a successful outcome \nthat will be durable and generalize across \nvarious settings that elicit anxiety. \nAs noted in this review, preventive \nprograms have emerged as an exciting \nnew prospect for schools interested in the \nprevention of anxiety symptoms and anxiety \ndisorders. Such interventions are appealing \nbecause of their presumed cost-efﬁ ciency and \nschool-based nature. However, at this stage,"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      125.99995422363281,
+      713.8502807617188,
+      509.9759826660156,
+      722.9942626953125
+    ],
+    "text": "252 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   60\nBehaviorDisorders_30(3).indd   60\n7/31/05   8:01:39 PM\n7/31/05   8:01:39 PM"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02400207519531,
+      77.84087371826172,
+      284.5313720703125,
+      152.98377990722656
+    ],
+    "text": "research on prevention is still in its preliminary \nstages. Early efﬁ cacy ﬁ ndings are promising, \nwith many large scale school-based prevention \nstudies currently in progress. The results of \nthese investigations will give schools a more \nconﬁ dent picture of the short- and long-term \nbeneﬁ ts of such investment."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02490234375,
+      172.839599609375,
+      172.93588256835938,
+      181.9835968017578
+    ],
+    "text": "AUTHORS’ NOTE"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02490234375,
+      195.8634033203125,
+      284.52508544921875,
+      227.0070343017578
+    ],
+    "text": "Please direct all correspondence to Neville J. \nKing, Ph. D., Faculty of Education, Monash \nUniversity, Victoria, 3800, Australia."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02490234375,
+      240.8868408203125,
+      281.7908630371094,
+      250.0308380126953
+    ],
+    "text": "E-mail:neville.king@education.monash.edu.au"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02397918701172,
+      269.88665771484375,
+      284.2807312011719,
+      698.7649536132812
+    ],
+    "text": "REFERENCES\nAlbano, A. M., Marten, P. A.,  Holt, C. S., Heimberg, \nR. G., & Barlow, D. H. (1995). Cognitive-\nbehavioral group treatment for social phobia \nin adolescents: A preliminary study. Journal of \nNervous and Mental Disease, 183, 649–656. \nAmerican Psychiatric Association (1994). Diagnostic \nand Statistical Manual of Mental Disorders (4th \ned.). Washington, DC: Author.\nBarlow, D. (Ed.) (2001). Clinical handbook of \npsychological disorders. New York: Guilford .\nBarrett, P. M., Dadds, M. R., & Holland, D. E. \n(1994). The coping koala: Prevention manual. \nUnpublished \nmanuscript, \nUniversity \nof \nQueensland, Brisbane, Australia.\nBarrett, P. M., Dadds, M. R., & Rapee, R. M. \n(1996). Family treatment of childhood anxiety: \nA controlled trial. Journal of Consulting and \nClinical Psychology, 64, 333–342.\nBarrett, P. M., Duffy, A. L., Dadds, M. R., & Rapee, \nR. M. (2001). Cognitive-behavioral treatment of \nanxiety disorders in children: Long-term (6-year) \nfollow-up. Journal of Consulting and Clinical \nPsychology, 69, 135–141. \nBarrett, P. M., Sonderegger, R., & Xenos, S. (2003). \nUsing \nFRIENDS \nto \ncombat \nanxiety \nand \nadjustment problems among young migrants \nto Australia: A national trial. Clinical Child \nPsychology and Psychiatry, 8, 241–260.\nBarrett, P. M., & Turner, C. M. (2004). Prevention \nof childhood anxiety and depression. In P. M. \nBarrett & T. H. Ollendick (Eds.), Handbook \nof interventions that work with children and \nadolescents: Prevention and treatment (pp. 429–\n474). London: Wiley.\nBarrios, B. A., & Hartmann, D. P. (1997). Fears and \nanxieties. In E. J. Mash & L. G. Terdal (Eds.), \nAssessment of childhood disorders (3rd ed., pp. \n230–327). New York: Guilford.\nBeidel, D. C. (1989). Assessing anxious emotion: A \nreview of psychophysiological assessment in \nchildren. Clinical Psychology Review, 9, 717–\n736."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      306.0,
+      77.85620880126953,
+      488.2310791015625,
+      695.9840698242188
+    ],
+    "text": "Beidel, D. C., Morris, T. L., & Turner, M. W. (2004). \nSocial phobia. In T. L. Morris & J. S. March (Eds.), \nAnxiety disorders in children and adolescents. \n(2nd ed., pp. 141–163), New York: Guilford.\nBeidel, D. C., & Turner, S. M. (1988). Comorbidity \nof test anxiety and other anxiety disorders in \nchildren. Journal of Abnormal Child Psychology, \n16, 275–287.\nBeidel, D. C., Turner, S., & Morris, T. I. (2000). \nBehavioral treatment of childhood social phobia. \nJournal of Consulting and Clinical Psychology, \n68, 1072–1080.\nBerman, S. L., Weems, C. F., Silverman, W. K., & \nKurtines, W. M. (2000). Predictors of outcome \nin exposure-based cognitive and behavioural \ntreatments for phobic and anxiety disorders in \nchildren. Behaviour Therapy, 31, 713–731.\nBlagg, N., & Yule, W. (1984). The behavioural \nmanagement of school refusal: A comparative \nstudy. Behaviour Research and Therapy, 22, \n119–127.\nCiechomski, L., Jackson, K., Tonge, B., King, N. J., \n& Heyne, D. (2001). Intellectual disability and \nanxiety in children: A group-based parent skills-\ntraining intervention. Behaviour Change, 18, \n204–212.\nCobham, V. E., Dadds, M. R., & Spence, S. H. (1998). \nThe role of parental anxiety in the treatment of \nchildhood anxiety. Journal of Consulting and \nClinical Psychology, 66, 893–905. \nCostello, E. G., & Angold, A. (1995). Epidemiology. \nIn J. S. March (Ed.), Anxiety disorders in children \nand adolescents. (pp. 109–122). New York: \nGuilford.\nDadds, M. R., Heard, P. M., & Rapee, R. M. (1992). \nThe role of family intervention in the treatment \nof child anxiety disorders: Some preliminary \nﬁ ndings. Behaviour Change, 9, 171–177.\nDadds, M. R., Spence, S. H., Holland, D. E., Barrett, \nP. M., & Laurens, K. R. (1997). Prevention \nand early intervention for anxiety disorders: \nA controlled trial. Journal of Consulting and \nClinical Psychology, 65, 627–635. \nEinfeld, S. L., & Tonge, B. J. (1992). Manual for the \nDevelopmental Behaviour Checklist. Sydney and \nMelbourne, Australia: University of N.S.W. and \nMonash University Centre for Developmental \nPsychology. \nEisen, A. R., & Silverman, W. (1993). Should I \nrelax and change my thoughts? A preliminary \nexamination of cognitive therapy, relaxation \ntraining, and their combination with overanxious \nchildren. Journal of Cognitive Psychotherapy: An \nInternational Quarterly, 7, 265–279.\nEssau, C. A., Conradt, J., & Petermann, F. (2000). \nFrequency, \ncomorbidity, \nand \npsychosocial \nimpairment of speciﬁ c phobia in adolescents. \nJournal of Clinical Child Psychology, 29, \n221–231.\nFlannery-Schroeder, E., & Kendall, P. C. (2000). \nGroup and individual cognitive-behavioral \ntreatments for youth with anxiety disorders: A"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.02400207519531,
+      713.864990234375,
+      486.0000305175781,
+      723.0089721679688
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 253"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   61\nBehaviorDisorders_30(3).indd   61\n7/31/05   8:01:42 PM\n7/31/05   8:01:42 PM"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      126.0,
+      77.85602569580078,
+      308.23126220703125,
+      695.9840087890625
+    ],
+    "text": "randomized clinical trial. Cognitive Therapy and \nResearch, 24, 251–278.\nFriedman, A. G., & Ollendick, T. H. (1989). \nTreatment programs for severe night-time fears: \nA methodological note. Journal of Behavior \nTherapy and Experimental Psychiatry, 20, \n171–178.\nFreud, S. (1963). The analysis of a phobia in a ﬁ ve-\nyear-old boy. Standard Edition of the Complete \nPsychological Works of Sigmund Freud, Vol. \n10. London: Hogarth Press. (Original work \npublished 1909).\nGinsburg, G. S., Silverman, W. K., & Kurtines, W. K. \n(1995). Family involvement in treating children \nwith phobic and anxiety disorders: A look ahead. \nClinical Psychology Review, 15, 457–473.\nGoldberg, D. P., & Hillier, V. F. (1978). A scaled \nversion of the General Health Questionnaire. \nPsychological Medicine, 9, 139–145.\nGraziano, A. M., & Mooney, K. C. (1980). Family \nself-control instruction for children’s nighttime \nfear reduction. Journal of Consulting and Clinical \nPsychology, 48, 206–213.\nGraziano, A. M., & Mooney, K. C. (1982). \nBehavioral treatment of “nightfears” in children: \nMaintenance of improvement at 21⁄2 to 3-\nyear follow-up. Journal of Consulting Clinical \nPsychology, 50, 598–599.\nGullone, E. (2000). The development of normal \nfear: A century of research. Clinical Psychology \nReview, 20, 429–451.\nHall, G. S. (1897). A study of fears. American Journal \nof Psychology, 8, 147–249.\nHaywood, C., Varady, S., Albano, A. M., Thienemann, \nM., Henderson, L., & Schatzberg, A. F. (2000). \nCognitive-behavioral group therapy for social \nphobia in female adolescents: Results of a pilot \nstudy. Journal of the American Academy of Child \nand Adolescent Psychiatry, 39, 721–726.\nHeard, P. M., Dadds, M., & Conrad, P. (1992). \nAssessment and treatment of simple phobias \nin children: Effects on family and marital \nrelationships. Behaviour Change, 9, 73–82.\nHeimberg, R. G., Dodge, C. S., Hope, D. A., Kennedy, \nC. R., Zollo, L. J., & Becker, R. E. (1990). \nCognitive-behavioral group treatment for social \nphobia: Comparison with a credible placebo \ncontrol. Cognitive Therapy and Research, 14, \n1–23.\nHeyne, D. (1999). Evaluation of child therapy and \ncaregiver training in the treatment of school \nrefusal. \nPh.D. Thesis. \nMonash \nUniversity, \nMelbourne, Australia.\nHeyne, D., & King, N. J. (2004). Treatment of school \nrefusal. In P. M. Barrett & T. H. Ollendick \n(Eds.), Handbook of interventions that work \nwith children and adolescents: Prevention and \ntreatment (pp. 243–272). London: Wiley. \nHeyne, D., King, N. J., & Ollendick, T. (in press). Family \nfactors in school refusal and other problems \nof school non-attendance: A review with \nimplications for assessment and intervention."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      329.9759826660156,
+      77.85602569580078,
+      512.2039794921875,
+      695.9839477539062
+    ],
+    "text": "Clinical Child and Family Psychology Review.\nHeyne, D., King, N. J., & Tonge, B. (2004). School \nrefusal. In T. H. Ollendick & J. S. March \n(Eds.), \nPhobic \nand \nanxiety \ndisorders \nin \nchildren and adolescents: A clinician’s guide \nto effective psychosocial and pharmacological \ninterventions (pp. 236–271). Oxford: Oxford \nUniversity .\nHeyne, D., King, N. J., Tonge, B., Rollings, S., \nPritchard, M., Young, D., et al. (1998). The Self-\nEfﬁ cacy Questionnaire for School Situations: \nDevelopment and psychometric evaluation. \nBehaviour Change, 15, 31–40.\nHeyne, D., King, N., Tonge, B., Rollings, S., Young, D., \nPritchard, M., et al. (2002). Evaluation of child \ntherapy and caregiver training in the treatment \nof school refusal. Journal of the American \nAcademy of Child and Adolescent Psychiatry, \n41, 687–695. \nHeyne, D., & Rollings, S. (2002). School refusal. \nParent, Adolescent and Child Training Series 2 \n(PACTS 2). Oxford: British Psychological Society \nand Blackwell.\nHirshfeld-Becker, D. R., Biederman, J., & Rosenbaum, \nJ. F. (2004). Behavioral inhibition. In T. L. Morris \n& J. S. March (Eds.), Anxiety disorders in children \nand adolescents (2nd ed., pp. 27–58). New York: \nGuilford.\nHudson, J. L., Hughes, A. A., & Kendall, P. C. (2004). \nTreatment of generalized anxiety disorder in \nchildren and adolescents. In P. M. Barrett & T. H. \nOllendick (Eds.), Handbook of interventions that \nwork with children and adolescents: Prevention \nand treatment (pp. 115–143). London: Wiley. \nHudson, J. L., & Manassis, K. (2004). (Guest Eds.). \nSpecial Issue: Current issues and ideas in children \nand adolescents. Cognitive and Behavioral \nPractice, 11(1), 1–2.\nJackson, H. J., & King, N. J. (1982). The therapeutic \nmanagement of an autistic child’s phobia using \nlaughter as the anxiety inhibitor. Behavioural \nPsychotherapy, 10, 364–369.\nJackson, K., Ciechomski, L., King, N. J., Tonge, B., & \nHeyne, D. (2002). Creating conﬁ dent children: \nA group-based parent-skills training program. \nPaper presented at the 25th National Conference \nof the Australian Association for Cognitive and \nBehaviour Therapy, Brisbane.\nKane, M. T., & Kendall, P. C. (1989). Anxiety disorders \nin children: A multiple baseline evaluation \nof a cognitive-behavioral treatment. Behavior \nTherapy, 20, 499–508. \nKanner, L. (1972). Child psychiatry (4th ed.). \nSpringﬁ eld, Ill: Charles C. Thomas.\nKearney, C. A. (2001). School refusal behavior in \nyouth: A functional approach to assessment \nand treatment. Washington, DC: American \nPsychological Association.\nKearney, C. A., & Silverman, W. K. (1990). A \npreliminary analysis of a functional model of \nassessment and treatment for school refusal \nbehavior. Behavior Modiﬁ cation, 14, 340–366."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      126.0,
+      713.864990234375,
+      509.9760437011719,
+      723.0089721679688
+    ],
+    "text": "254 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   62\nBehaviorDisorders_30(3).indd   62\n7/31/05   8:01:46 PM\n7/31/05   8:01:46 PM"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      102.02397155761719,
+      77.85602569580078,
+      284.2542724609375,
+      695.9840087890625
+    ],
+    "text": "Kearney, C. A., & Silverman, W. K. (1993). Measuring \nthe function of school refusal behavior: The \nSchool Refusal Assessment Scale. Journal of \nClinical Child Psychology, 22, 85–96.\nKendall, P. C. (1994). Treating anxiety disorders in \nchildren: Results of a randomized clinical trial. \nJournal of Consulting and Clinical Psychology, \n62, 100–110.\nKendall, P. C., Ellsas, T. E., Kane, M. T., Kim, R. \nS., Kortlander, E., Ronan, K. R., et al. (1992). \nAnxiety disorders in youth: Cognitive-behavioral \ninterventions. Boston: Allyn & Bacon. \nKendall, P. C., Flannery-Schroeder, E., Panichelli-\nMindel, S., Southam-Gerow, M., Henis, A., \n& Warman, M. (1997). Therapy for youths \nwith anxiety disorders: A second randomized \nclinical trial. Journal of Consulting and Clinical \nPsychology, 65, 366–380.\nKendall, P. C., Safford, S., Flannery-Schroeder, E., \n& Webb, A. (2004). Child anxiety treatment: \nOutcomes in adolescence and impact on \nsubstance use and depression at 7.4-year follow-\nup. Journal of Consulting and Clinical Psychology, \n72, 276–287. \nKendall, P. C., & Southam-Gerow, M. A. (1996). \nLong-term follow-up of a cognitive-behavioral \ntherapy for anxiety disordered youth. Journal \nof Consulting and Clinical Psychology, 64, \n724–730.\nKing, N. J., & Bernstein, G. (2001). School refusal in \nchildren and adolescents: A review of the past \n10 years. Journal of the American Academy of \nChild and Adolescent Psychiatry, 40, 197–205.\nKing, N. J., & Gullone, E. (1990). Acceptability of \nfear reduction procedures with children. Journal \nof Behavior Therapy & Experimental Psychiatry, \n21, 1–8.\nKing, N. J., Hamilton, D. I., & Ollendick, T. H. (1988). \nChildren’s phobias:  A behavioural perspective. \nChichester, England: Wiley.\nKing, N. J., Mietz, A., Tinney, L., & Ollendick, T. \nH. (1995). Psychopathology and cognition in \nadolescents experiencing severe test anxiety. \nJournal of Clinical Child Psychology, 24, 49–54.\nKing, N. J., Muris, P., & Ollendick, T. H. (2004). \nSpeciﬁ c phobia. In J. March & T. L. Morris (Eds.), \nAnxiety disorders in children and adolescents \n(2nd ed., pp. 263–279). New York: Guilford.\nKing, N. J., Muris, P., & Ollendick, T. H. (in press). \nFears and phobias in children: Assessment and \ntreatment. Child and Adolescent Mental Health.\nKing, N. J., & Ollendick, T. H. (1989a). Children’s \nanxiety and phobic disorders in school settings: \nClassiﬁ cation, assessment and intervention \nissues. Review of Educational Research, 59, \n431–470.\nKing, N. J., & Ollendick, T. H. (1989b). School refusal: \nGraduated and rapid behavioural treatment \nstrategies. Australian & New Zealand Journal of \nPsychiatry, 23, 213–223.\nKing, N. J., & Ollendick, T. H. (1997). Annotation. \nTreatment of childhood phobias. Journal of Child"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      306.0,
+      77.85602569580078,
+      488.2572937011719,
+      695.9839477539062
+    ],
+    "text": "Psychology and Psychiatry, 38, 389–400.\nKing, N. J., Ollendick, T. H., & Gullone, E. (1990). \nSchool-related fears of children and adolescents. \nAustralian Journal of Education, 34, 99–112.\nKing, N. J., Ollendick, T. H., Gullone, E., Cummins, \nR., & Josephs, A. (1990). Fears and phobias \nin children and adolescents with intellectual \ndisabilities. \nAssessment \nand \nintervention \nstrategies. Australia & New Zealand Journal of \nDevelopmental Disabilities, 16, 97–108.\nKing, N. J., Ollendick, T. H., & Murphy, G. (1997). \nAssessment of childhood phobias. Clinical \nPsychology Review, 17, 667-687.\nKing, N. J., Tonge, B. J., Heyne, D., Pritchard, M., \nRollings, S., Young, D., et al. (1998). Cognitive-\nbehavioral treatment of school-refusing children: \nA controlled evaluation. Journal of the American \nAcademy of Child and Adolescent Psychiatry, \n37, 395–403.\nKing, N., Tonge, B., Heyne, D., Turner, S., Pritchard, \nM., Young, D., et al. (2001). Cognitive-\nbehavioural \ntreatment \nof \nschool-refusing \nchildren: Maintenance of improvement at 3- \nto 5-year follow-up. Scandinavian Journal of \nBehaviour Therapy, 30, 85–89.\nKing, N. J., Tonge, B. J., Heyne, D., & Ollendick, T. \nH. (2000). Research on the cognitive-behavioral \ntreatment of school refusal: A review and \nrecommendations. Clinical Psychology Review, \n20, 495–507.\nLang, P. J. (1968). Fear reduction and fear behaviour. \nProblems in treating a construct. In J. M. Shliem \n(Ed.), Research in psychotherapy. Washington, \nDC: American Psychological Association.\nLang, P. J. (1977). Fear imagery: An information \nprocessing analysis. Behavior Therapy, 8, \n862–886.\nLast, C. G., Hansen, C., & Franco, N. (1998). \nCognitive-behavioral treatment of school phobia. \nJournal of the American Academy of Child and \nAdolescent Psychiatry, 37, 404–411.\nLast, C. G., Strauss, C. C., & Francis, G. (1987). \nComorbidity among childhood anxiety disorders. \nJournal of Nervous and Mental Disease, 175, \n726–730.\nManassis, K., Mendlowitz, S. L., Scapillato, D., Avery, \nD., Fiksenbaum, L., Freire, M., et al. (2002). \nGroup and individual cognitive-behavioral \ntherapy for childhood anxiety disorders: A \nrandomized trial. Journal of the American \nAcademy of Child and Adolescent Psychiatry, \n41, 1423–1430. \nMansdorf, I. J., & Lukens, E. (1987). Cognitive-\nbehavioral psychotherapy for separation anxious \nchildren exhibiting school phobia. Journal of the \nAmerican Academy of Child and Adolescent \nPsychiatry, 26, 222–225.\nMarks, I. M. (1975). Behavioral treatments of phobic \nand obsessive-compulsive disorders: A critical \nappraisal. In M. Hersen, R. M. Eisler, & P. M. \nMiller (Eds.), Progress in behavior modiﬁ cation \n(Vol. 1, pp. 65–158). New York:  Academic."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      102.02400207519531,
+      713.864990234375,
+      486.0000305175781,
+      723.0089721679688
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 255"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   63\nBehaviorDisorders_30(3).indd   63\n7/31/05   8:01:50 PM\n7/31/05   8:01:50 PM"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      125.99995422363281,
+      77.85602569580078,
+      308.25189208984375,
+      685.9840087890625
+    ],
+    "text": "Masia, C. L., Klein, R. G., Storch, E. A., & Corda, \nB. (2001). School-based behavioral treatment for \nsocial anxiety disorder in adolescents: Results of \na pilot study. Journal of the American Academy of \nChild and Adolescent Psychiatry, 40, 780–786.\nMattis, S., & Pincus, D. B. (2004). Treatment of \nSAD and panic disorder in children and \nadolescents. In P. M. Barrett & T. H. Ollendick \n(Eds.), Handbook of interventions that work \nwith children and adolescents: Prevention and \ntreatment (pp. 145–169). London: Wiley.    \nMatson, J. L. (1981). Assessment and treatment of \nclinical fears in mentally retarded children. \nJournal of Applied Behavior Analysis, 14, \n287–294. \nMcGee, R., Feehan, M., Williams, S., Partridge, F., \nSilva, P. A., & Kelly, J. (1990). DSM-III disorders \nin a large sample of adolescents. Journal of the \nAmerican Academy of Child and Adolescent \nPsychiatry, 29, 611–619.\nMendlowitz, S. L., Manassis, K., Bradley, S., \nScapillato, D., Miezitis, S., & Shaw, B. F. (1999). \nCognitive-behavioral \ngroup \ntreatments \nin \nchildhood anxiety disorders: The role of parental \ninvolvement. Journal of the American Academy \nof Child and Adolescent Psychiatry, 38, \n1223–1229.\nMilne, J. M., Garrison, C. Z., Addy, C. L., McKeown, \nR., Jackson, K. L., Cuffe, S. P., et al. (1995). \nFrequency of phobic disorder in a community \nsample of young adolescents. Journal of the \nAmerican Academy of Child and Adolescent \nPsychiatry, 34, 1202–1211.\nMorris, R. J., & Kratochwill, T. R. (1983). Treating \nchildren’s fears and phobias:  A behavioral \napproach. New York: Pergamon.\nMorris, T. L. (2004). Treatment of social phobia in \nchildren and adolescents. In P. M. Barrett & T. H. \nOllendick (Eds.), Handbook of interventions that \nwork with children and adolescents: Prevention \nand treatment (pp. 171–186). London: Wiley. \nObler, M., & Terwilliger, R. F. (1970). Pilot study on \nthe effectiveness of systematic desensitization \nwith neurologically impaired children with \nphobic disorders. Journal of Consulting & Clinical \nPsychology, 34, 314–318.\nOllendick, T. H. (1979). Fear reduction techniques \nwith children. In M. Hersen, R. M. Eisler, & P. M. \nMiller (Eds.), Progress in behavior modiﬁ cation \n(Vol. 8, pp. 127–168). New York: Academic.\nOllendick, T. H., Davis, T. E., & Muris, P. (2004). \nTreatment of speciﬁ c phobia in children and \nadolescents. In P. M. Barrett & T. H. Ollendick \n(Eds.), Handbook of interventions that work \nwith children and adolescents: Prevention and \ntreatment (pp. 273–299). London: John Wiley & \nSons, Ltd. \nOllendick, T. H., Grills, A. E., & King, N. J. (2001). \nApplying developmental theory to the assessment \nand treatment of childhood disorders: Does \nit make a difference? Clinical Psychology and"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      329.9759521484375,
+      77.85602569580078,
+      512.206298828125,
+      685.9839477539062
+    ],
+    "text": "Psychotherapy, 8, 304–315.\nOllendick, T. H., Hagopian, L. P., & Huntzinger, R. \nM. (1991). Cognitive-behavior therapy with \nnighttime fearful children. Journal of Behavior \nTherapy and Experimental Psychiatry, 22, 113–\n121. \nOllendick, T. H., & King, N. J. (1998). Empirically \nsupported treatments for children with phobic \nand anxiety disorders. Journal of Clinical Child \nPsychology, 27, 156–167.\nOllendick, T. H., & King, N. J. (2000). Empirically \nsupported \ntreatments \nfor \nchildren \nand \nadolescents. In P. C. Kendall (Ed.), Child and \nadolescent therapy: Cognitive-behavioral pro-\ncedures (2nd ed., pp. 386–425). New York: \nGuilford Press. \nOllendick, T. H., King, N. J., & Muris, P. (2002). \nFears and phobias in children: Phenomenology, \nepidemiology \nand \nAetiology. \nChild \nand \nAdolescent Mental Health, 7, 98–106.\nOllendick, T. H., King, N. J., & Yule, W. (Eds.) (1994). \nInternational handbook of phobic and anxiety \ndisorders in children and adolescents. New York: \nPlenum.\nOst, L. G., Svensson, L., Hellstrom, K., & Lindwall, \nR. (2001). One-session treatment of speciﬁ c \nphobias in youths: A randomized clinical trial. \nJournal of Consulting and Clinical Psychology, \n69, 814–824.\nPrins, P. M. J., & Ollendick, T. H. (2003). Cognitive \nchange \nand \nenhanced \ncoping: \nMissing \nmediational links in cognitive behavior therapy \nwith anxiety-disordered children. Clinical Child \nand Family Psychology Review, 6, 87–105. \nRapee, R.M. (2000). Group treatment of children \nwith anxiety disorders: Outcomes and predictors \nof treatment response. Australian Journal of \nPsychology, 52, 125–130.\nRapee, R. M., Wignall, A., Hudson, J. L., & Schniering, \nC. A. (2000). Treating anxious children and \nadolescents. Oakland, CA: New Harbinger.\nShortt, A. L., Barrett, P. M., & Fox, T. L. (2001). \nEvaluating the FRIENDS Program: A cognitive-\nbehavioral group treatment for anxious children \nand their parents. Journal of Community \nPsychology, 30, 525–535.\nSilverman, W. K., & Albano, A. M. (1996). Anxiety \nDisorders Interview Schedule for DSM-IV, \nChild and Parent Versions. San Antonio, TX: \nPsychological Corporation.\nSilverman, W. K., & Carmichael, W. K. (1999). Phobic \ndisorders. In R. T. Ammerman, M. Hersen, & Last, \nC. L. (Eds.), Handbook of prescriptive treatments \nfor children and adolescents (2nd ed., pp. 172–\n192). Boston: Allyn and Bacon.\nSilverman, W. K., Cerny, J. A., & Nelles, W. B. (1988). \nThe familial inﬂ uence in anxiety disorders: \nStudies on the offspring of patients with anxiety \ndisorders. In B. B. Lahey & A. E. Kazdin (Eds.), \nAdvances in clinical child psychology (Vol. 11, \npp. 223–248). New York: Plenum."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      126.0,
+      713.864990234375,
+      509.9760437011719,
+      723.0089721679688
+    ],
+    "text": "256 / May 2005  \nBehavioral Disorders, 30 (3), 241–257"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   64\nBehaviorDisorders_30(3).indd   64\n7/31/05   8:01:54 PM\n7/31/05   8:01:54 PM"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      102.02397918701172,
+      77.85602569580078,
+      284.2494812011719,
+      285.9840393066406
+    ],
+    "text": "Silverman, W. K., & Ginsburg, G. S. (1995). Speciﬁ c \nphobias and generalized anxiety disorder. In J. \nS. March (Ed.), Anxiety disorders in children and \nadolescents (pp. 151–180). New York: Guilford.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., \nWeems, C. F., Lumpkin, P. W., & Carmichael, D. \nH. (1999). Treating anxiety disorders in children \nwith group cognitive-behavioral therapy: A \nrandomized clinical trial. Journal of Consulting \nand Clinical Psychology, 67, 995–1003.\nSilverman, W. K., Kurtines, W. M., Ginsburg, G. S., \nWeems, C. F., Rabian, B., & Seraﬁ ni, L. T. (1999). \nContingency management, self-control, and \neducation support in the treatment of childhood \nphobic disorders: A randomized clinical trial. \nJournal of Consulting and Clinical Psychology, \n67, 675–687.\nSpence, S., Donovan, C., & Brechman-Toussant, \nM. (2000). The treatment of childhood social \nphobia: The effectiveness of a social skills-based \ntraining, cognitive-behavioral intervention, with"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      306.0,
+      77.85602569580078,
+      488.2256164550781,
+      275.9840393066406
+    ],
+    "text": "and without parental involvement. Journal of \nChild Psychology and Psychiatry, 41, 713–726. \nToren, P., Wolmer, L., Rosental, B., Eldar, S., Koren, \nS., Lask, M., et al. (2000). Case series: Brief \nparent-child group therapy for childhood anxiety \ndisorders using a manual-based cognitive-\nbehavioral technique. Journal of the American \nAcademy of Child and Adolescent Psychiatry, \n39, 809–822. \nTreadwell, K. R., Flannery-Schroeder, E. C., & Kendall, \nP. C. (1995). Ethnicity and gender relation to \nadaptive functioning, diagnostic status, and \ntreatment outcome. Journal of Anxiety Disorders, \n9, 373–384.\nVasey, M. W., & Dadds, M. (Eds.) (2001). The \ndevelopmental psychopathology of anxiety. \nNew York: Oxford University.\nWatson, J. B., & Rayner, R. (1920). Conditioned \nemotional reactions. Journal of Experimental \nPsychology, 3, 1–14."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      102.02400207519531,
+      713.864990234375,
+      486.0000305175781,
+      723.0089721679688
+    ],
+    "text": "Behavioral Disorders, 30 (3), 241–257 \nMay 2005 / 257"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      64.0,
+      766.3753662109375,
+      553.70654296875,
+      772.3753662109375
+    ],
+    "text": "BehaviorDisorders_30(3).indd   65\nBehaviorDisorders_30(3).indd   65\n7/31/05   8:01:58 PM\n7/31/05   8:01:58 PM"
+  }
+]

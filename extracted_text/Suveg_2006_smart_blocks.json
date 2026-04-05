@@ -1,0 +1,1910 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      50.89500045776367,
+      106.17447662353516,
+      460.2752990722656,
+      122.11477661132812
+    ],
+    "text": "Emotion-focused Cognitive-Behavioral Therapy for Anxious",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89500045776367,
+      44.15998458862305,
+      164.67198181152344,
+      52.62818145751953
+    ],
+    "text": "DOI 10.1007/s10879-006-9010-4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      56.564998626708984,
+      65.43150329589844,
+      145.52845764160156,
+      74.89600372314453
+    ],
+    "text": "ORIGINAL PAPER",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.894989013671875,
+      124.1025161743164,
+      315.114990234375,
+      174.00347900390625
+    ],
+    "text": "Youth: A Multiple-Baseline Evaluation Cynthia Suveg · Philip C. Kendall · Jonathan S. Comer · Joanna Robin",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89500045776367,
+      243.5098419189453,
+      216.2747039794922,
+      261.94097900390625
+    ],
+    "text": "Published online: 25 May 2006 C ⃝ Springer Science + Business Media, Inc. 2006",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89500045776367,
+      283.11962890625,
+      87.95188903808594,
+      293.08221435546875
+    ],
+    "text": "Abstract",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.28086853027344,
+      283.22052001953125,
+      288.9892272949219,
+      293.1831359863281
+    ],
+    "text": "Examined the efﬁcacy of an Emotion-focused",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89500427246094,
+      295.6767578125,
+      289.0120849609375,
+      542.2540283203125
+    ],
+    "text": "Cognitive-Behavioral Therapy (ECBT) for six anxious youths ages 7–13 years. All participants had a principal anxiety disorder (generalized anxiety disorder, separation anxiety disorder, or social phobia) based on the Anxiety Disorder Interview Schedule for Children—Child and Parent versions. Children and parents reported on anxious symptomatology using the Multidimensional Anxiety Scale for Children (MASC). To assess emotion-related competencies, children were administered the Kusche Affective Interview—Revised and children and parents completed the Emotion Expression Scale for Children (EESC) and Emotion Regulation Checklist (ERC), respectively. Cases began treatment after baselines of 0, 2, or 3 weeks. At posttreatment, the majority of children demonstrated improvements in anxious symptomatology, emotion understanding and regulation skills, and overall functioning. Such improvements in emotion-related skills, in addition to anxiety, are signiﬁcant given that emotional competence is a crucial component in children’s adaptive social functioning and psychological adjustment. These ﬁndings provide initial support for ECBT.",
+    "line_count": 20,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.894989013671875,
+      555.2053833007812,
+      262.9628601074219,
+      579.61279296875
+    ],
+    "text": "Keywords Child anxiety . Psychotherapy . Emotion regulation",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.894989013671875,
+      594.5617065429688,
+      288.9920959472656,
+      616.9715576171875
+    ],
+    "text": "Using community populations, Costello, Mustillo, Erkanli, Keeler, & Angold ( 2003 ) estimate a cumulative prevalence",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89418029785156,
+      638.513427734375,
+      230.4750518798828,
+      667.2197875976562
+    ],
+    "text": "C. Suveg ( \u0001 ) · P. C. Kendall · J. S. Comer · J. Robin Temple University, Philadelphia, Pennsylvania e-mail: csuveg@temple.edu",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      50.89418029785156,
+      678.67724609375,
+      269.2143859863281,
+      717.033935546875
+    ],
+    "text": "C. Suveg Child and Adolescent Anxiety Disorders Clinic, Temple University, Weiss Hall, 1701 N. 13th Street, Philadelphia 19122, Pennsylvania",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.0090026855469,
+      283.22052001953125,
+      544.144287109375,
+      716.60546875
+    ],
+    "text": "of anxiety disorders of approximately 8% for boys and 12% for girls. Family and peer relationship difﬁculties as well as academic troubles often accompany anxiety in youth (e.g., Ialongo, Edelsohn, Werthamer-Larsson, Crockett, & Kellam, 1995 ; Strauss, Frame, & Forehand, 1987 ). Further, ﬁndings reported by Woodward and Fergusson ( 2001 ) suggest that anxious youth are at increased risk for psychopathology (e.g., anxiety, depression, drug addiction) and educational underachievement as adults. Indeed, anxiety disorders in youth are a signiﬁcant public health concern and researching effective treatments remains a valued priority. The utilization of cognitive behavioral therapy (CBT) for the treatment of anxiety has been an important contribution to the ﬁeld of child psychology. In general, CBT addresses the physiological, cognitive, and behavioral components of anxiety through psychoeducation and the use of exposure tasks. Children learn to recognize anxious feelings and somatic reactions to anxiety, clarify cognition in anxiety-provoking situations, develop a plan to cope with the situation (e.g., modify anxious self-talk into coping self-talk), evaluate performance, and administer self-reinforcement as appropriate. Behavioral training strategies with demonstrated efﬁcacy (e.g., modeling, exposure, role-play, problem solving, relaxation training, contingent reinforcement) are utilized. To maximize treatment beneﬁts and facilitate generalization from the therapy setting, children are encouraged to practice the skills that are learned each week in real-life anxiety-provoking situations that the child encounters. Kendall and colleagues were among the ﬁrst to evaluate the efﬁcacy of CBT in children (Kendall, 1994 ; Kendall et al., 1997; Kendall, Safford, Flannery-Schroeder, & Webb, 2004; Kendall & Southam-Gerow, 1996 ). In a randomized clinical trial (RCT) Kendall ( 1994 ) evaluated CBT with 9-to-13 yearold youth with a principal anxiety disorder of overanxious disorder, separation anxiety disorder, or avoidant disorder",
+    "line_count": 35,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      514.9619750976562,
+      733.9918212890625,
+      544.1146240234375,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      49.61699676513672,
+      59.05751037597656,
+      287.7550048828125,
+      716.60986328125
+    ],
+    "text": "compared to a waitlist condition. At posttreatment, 64% of the treated children did not meet criteria for their principal anxiety-disorder diagnosis. Treatment gains weremaintained at one-year (Kendall, 1994 ) and at an average of 3.35-years posttreatment (Kendall & Southam-Gerow, 1996 ). Other research teams have likewise reported empirical support for CBT approaches (e.g., Barrett, 1998; Barrett, Dadds, & Rapee, 1996; Flannery-Schroeder & Kendall, 2000 ; Manassis et al., 2002 ; Silverman et al., 1999 ). Using the APA Task Force on the Promotion and Dissemination of Psychological Procedures criteria for empirically-supported treatments (APA Task Force, 1995 ), CBT for anxiety in youth has met the “probably efﬁcacious” criteria (Kazdin & Weisz, 1998 ; Ollendick & King, 2000 ). Despite the advances made in treating anxiety in youth, approximately 1/3 of those treated still meet criteria for an anxiety disorder following treatment. The glass is “twothirds full,” but these statistics are especially noteworthy because they reﬂect treatments that were conducted within controlled research protocols with checks for treatment integrity. Treatment nonresponse rates in the community may be higher given the less rigorous adherence to treatment protocols that typically occurs in nonresearch clinics. In combination with the potential negative sequelae of persistent anxiety in youth, research efforts directed at improving treatment outcomes for anxious youth are needed. To date, studies have identiﬁed both cognitive distortion and behavioral avoidance as factors associated with anxiety in youth, and current psychosocial treatments (e.g., CBT) target these factors. However, CBT treatment programs have yet to fully address the emotion-related deﬁcits of anxious youth identiﬁed through more recent research (e.g., SouthamGerow & Kendall, 2000 ; Suveg & Zeman, 2004 ; Zeman, Shipman, & Suveg, 2002 ). For example, in one study that compared anxiety-disordered and non-anxious youth (ages 7–14 yrs) on several components of emotion understanding, it was found that anxious youth demonstrated less understanding of how to hide and how to change emotions than did non-clinical youth (Southam-Gerow & Kendall, 2000 ). Another study (Suveg & Zeman, 2004 ) compared emotion regulation processes in anxious children to non-anxious counterparts. All children completed self-report measures that assessed the intensity of emotional experience, emotional self-efﬁcacy, and stylized ways of managing sadness, anger, and worry situations. Parents also reported on their children’s ability to manage emotional experiences. Results indicated that children with anxiety disorders experienced their emotions more intensely and perceived themselves as less able to successfully manage emotionally provocative situations than the non-clinical children. When particular patterns of emotion management were examined, children with anxiety disorders reported more dysregulated management (i.e., culturally inappropriate emotional expression)",
+    "line_count": 53,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      59.53499984741211,
+      733.9918212890625,
+      88.68761444091797,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      304.74029541015625,
+      59.07228088378906,
+      542.8656005859375,
+      716.6246337890625
+    ],
+    "text": "and less adaptive coping across all emotions (i.e., sadness, anger, and worry) than did the non-clinical youth. Mothers of anxiety-disordered children also perceived their children as signiﬁcantly more inﬂexible, labile, and emotionally negative than did mothers of non-clinical children. These ﬁndings are commensurate with those reported by Southam-Gerow and Kendall ( 2000 ) and suggest that anxious children have difﬁculty with the regulation of emotional situations, beyond those related to anxiety or worry. Such emotion-related deﬁcits are pertinent given that a considerable body of research has identiﬁed emotional competence as a crucial component in children’s adaptive social functioning and psychological adjustment (e.g., Cicchetti, Ackerman, & Izard, 1995 ; Eisenberg & Fabes, 1992 ; Eisenberg, Fabes, & Losoya, 1997 ; Hubbard & Coie, 1994 ; Saarni, 1999 ). These emotion-related deﬁcits should be considered a meaningful correlate of the socioemotional difﬁculties that children with an anxiety disorder experience (e.g., Ialongo et al., 1995 ; Strauss et al., 1987 ). For example, successful social interactions require appropriate reading of each other’s emotional expressions and ﬂexible modiﬁcation of one’s emotional reaction in response to the demands of the particular social context. This in turn requires an understanding of one’s own emotional experience, understanding of strategies to manage the experience, and the skill to successfully implement the strategy. The difﬁculties that youth with anxiety disorders have negotiating social interactions may, at least in part, be related to their emotion-related deﬁcits. The literature of emotion understanding and emotion regulation in anxiety-disordered youth suggests that an increased attention in CBT to these emotion-related competencies may be worthwhile. Anxiety interventions to date include some components that address emotion understanding and regulation but in large part focus on anxiety. These treatments might do well to include a more central role for the building of emotion skills, beyond anxiety. Studies of intervention programs for other childhood problems are supportive of the inclusion of a focused emotion component (e.g., Denham & Burton, 1996 ; Greenberg, Kusche, Cook, & Quamma, 1995 ). The outcomes of these programs with an emotion focused component have been associated with improved self-control, an enhanced ability to tolerate frustration, and improved social skills as well as decreases in various internalizing (e.g., anxiety/depressive symptoms) and externalizing (e.g., aggression) symptoms for a variety of children in different settings. It is reasonable that an intervention for anxious youth that maintains the demonstrated efﬁcacies of CBT but further addresses anxious youth’s emotion-related deﬁcits could result in improved psychosocial functioning overall (see Southam-Gerow & Kendall, 2002 ). There is also reasoned scientiﬁc justiﬁcation for the design and implementation of developmentally sensitive treatment programs that",
+    "line_count": 53,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.894996643066406,
+      59.05751037597656,
+      289.0120544433594,
+      380.3632507324219
+    ],
+    "text": "consider all aspects of the child’s functioning—including emotional domains. This study is consistent with this notion—ECBT targets the developmental deﬁcits evidenced in AD children’s emotional functioning. Finally, this study directly addresses the call from the National Advisory Mental Health Council’s Behavioral Science Workgroup ( 2000 ) to use basic research to inform the development of prevention and treatment programs. The present study examined an Emotion-focused CBT (ECBT) in 7- to 13-year-old children with a principal anxiety disorder of generalized anxiety disorder (GAD), separation anxiety disorder (SAD), and/or social phobia (SoP). Children ages 7–13 were included given that the studies that have evaluated CBT have included children in this age group. We only included children if they had one of the three aforementioned principal diagnoses given that these disorders frequently cooccur and have been found to respond similarly to CBT (Gould, Buckminster, Pollack, Otto, & Yap, 1997 ; Gould, Otto, Pollack, & Yap, 1997 ). It was hypothesized that there would be no meaningful changes across the various baseline periods but that from pre- to post-treatment, treated children would: (a) experience a decrease in anxiety symptoms; (b) exhibit an increase in the use of emotion-related language; (c) endorse greater understanding of emotion regulation strategies; and (d) demonstrate more adaptive emotion regulation strategies.",
+    "line_count": 26,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.89500427246094,
+      395.70635986328125,
+      84.09039306640625,
+      405.6689453125
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.89500427246094,
+      420.70977783203125,
+      79.11406707763672,
+      430.6723937988281
+    ],
+    "text": "Design",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.89500427246094,
+      445.6212463378906,
+      289.0121154785156,
+      530.3033447265625
+    ],
+    "text": "A multiple-baseline design was implemented, with cases beginning treatment after baselines of 0, 2, or 3 weeks. This design helps to ensure that the symptoms of participants are not transient, and changes are not associated with the seeking of treatment or with the assessment process. Assessments subsequent to baseline were conducted at pre- and post-treatment.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.89500427246094,
+      545.2432250976562,
+      97.7680435180664,
+      555.205810546875
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      50.89500427246094,
+      570.1547241210938,
+      289.0050964355469,
+      717.1000366210938
+    ],
+    "text": "Participants were an ethnically diverse sample of 6 youth (4 females, 2 males) meeting criteria for a principal diagnosis of SAD, GAD, or SoP (determined via a structured diagnostic interview) and their parents. Participating families sought treatment for their child’s anxiety at the Child and Adolescent Anxiety Disorders Clinic (CAADC). To maximize external validity, youth presenting with other diagnoses (e.g., ODD) of less clinical severity than their principal diagnosis were included. Criteria for exclusion were very few: SAD, GAD, or SoP was not the principal diagnosis, use of an anti-anxiety medication, the child had an IQ below 80, and/or presence of psychotic symptoms. The mean age of partici-",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.00830078125,
+      59.06837463378906,
+      544.13671875,
+      93.94345092773438
+    ],
+    "text": "pating youth in the sample was 9.3 years; participants represented Caucasian, African–American, and Hispanic ethnic backgrounds.",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.00830078125,
+      108.88337707519531,
+      344.1710510253906,
+      118.84597778320312
+    ],
+    "text": "Measures",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.00830078125,
+      133.69395446777344,
+      544.1304931640625,
+      156.10382080078125
+    ],
+    "text": "Anxiety Disorders Interview Schedule for DSM-IV, Child (ADIS-C)",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      352.21185302734375,
+      146.14122009277344,
+      401.125244140625,
+      156.10382080078125
+    ],
+    "text": "and Parent",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      409.1740417480469,
+      146.14122009277344,
+      446.7788391113281,
+      156.10382080078125
+    ],
+    "text": "(ADIS-P)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      454.8106994628906,
+      146.14122009277344,
+      488.4683837890625,
+      156.10382080078125
+    ],
+    "text": "Versions",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      496.5211181640625,
+      146.2421417236328,
+      544.1134033203125,
+      156.20474243164062
+    ],
+    "text": "(ADIS-C/P;",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      306.00732421875,
+      158.69837951660156,
+      544.1383056640625,
+      716.6187744140625
+    ],
+    "text": "Silverman & Albano, 1996 ). The ADIS-C/P is a semistructured diagnostic interview that assesses child psychopathology in accordance with the Diagnostic and Statistical Manual of Mental Disorders DSM-IV criteria (4th-ed., 1994, American Psychiatric Association). Data from the child and parents are integrated to yield a composite diagnosis for each child using the “or rule” (i.e., diagnosis is present if either the child or the parent report meets criteria and the diagnostician assigns a clinician severity rating (CSR) of 4 or greater on an 8-point scale; Albano & Silverman, 1996 ). The psychometric properties of ADIS-IV have been established (Silverman & Eisen, 1992 ; Silverman, Saavedra, & Pina, 2001 ; Wood, Piacentini, Bergen, McCracken, & Barrios, 2002 ). Multidimensional Anxiety Scale for Children (MASC; March, Parker, Sullivan, Stallings, & Conners, 1997 ). The MASC is a 39-item self-report scale that yields an overall anxiety score and four subscale scores: physical symptoms, social anxiety, harm avoidance, and separation anxiety. The scale demonstrates solid psychometric properties (March & Albano, 1998 ; March et al., 1997; March & Sullivan, 1999 ; Wood et al., 2002 ). For the present study, the overall anxiety score was used. As utilized in other studies (e.g., Wood et al., 2002 ), a parallel version for parents to report on their child’s anxiety symptoms was also administered. Kusche Affective Interview—Revised (KAI-R; Greenberg et al., 1995 ). The KAI-R interview assesses emotional development, and consists of a series of open-ended questions that are recorded and subsequently coded for developmental level of response. Several components of emotionally competent functioning are assessed including the ability to discuss emotion-related experiences (e.g., “Tell me about a time when you felt sad.”), recognition of emotions in self and others (e.g., How do you know when other people are feeling jealous?”), and understanding of how emotional experiences can change (e.g., “Suppose you were feeling upset, could your feelings change?” and if so, “Tell me what would happen.”). For the present study, the Feelings Vocabulary and the Understanding Issues in the Regulation of Emotion components (see Greenberg et al., 1995) were used. The KAI has been used extensively in both developmental and clinical research (e.g., Bohnert, Crnic, & Lim, 2003 ; Southam-Gerow & Kendall, 2000 ). The interview’s coding system demonstrates high",
+    "line_count": 45,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      514.9619750976562,
+      733.9918212890625,
+      544.1146240234375,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.617000579833984,
+      59.05751037597656,
+      89.24923706054688,
+      69.02011108398438
+    ],
+    "text": "inter-rater",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      97.88382720947266,
+      59.05751037597656,
+      136.62339782714844,
+      69.02011108398438
+    ],
+    "text": "reliability",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      145.24105834960938,
+      59.05751037597656,
+      182.31385803222656,
+      69.02011108398438
+    ],
+    "text": "estimates",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      190.94842529296875,
+      59.05751037597656,
+      218.340576171875,
+      69.02011108398438
+    ],
+    "text": "(Cook,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      226.99209594726562,
+      59.05751037597656,
+      271.3406066894531,
+      69.02011108398438
+    ],
+    "text": "Greenberg,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.617000579833984,
+      71.51374816894531,
+      287.74005126953125,
+      243.37155151367188
+    ],
+    "text": "Kusche, 1994 ; Greenberg et al., 1995 ), and has demonstrated sensitivity to treatment change (e.g., Greenberg et al., 1995 ). Positive and Negative Affectivity Scale for Children (PANAS-C; Laurent et al., 1999 ). The PANAS-C is a 30- item self-report scale that measures the frequency with which children have experienced various emotions in the past few weeks on a 5-point Likert-type scale (1 = very slightly or not at all, 5 = extremely). Designed for use with school-aged children, the PANAS-C yields two subscales: (a) Negative Affect (NA) that assesses frequency of negatively valenced emotions (e.g., ashamed, tired, miserable) and (b) Positive Affect (PA), which examines frequency of positivelyvalenced",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      92.95333862304688,
+      233.40895080566406,
+      129.47921752929688,
+      243.37155151367188
+    ],
+    "text": "emotions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      137.65452575683594,
+      233.40895080566406,
+      157.84371948242188,
+      243.37155151367188
+    ],
+    "text": "(e.g.,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      166.00906372070312,
+      233.40895080566406,
+      207.2242889404297,
+      243.37155151367188
+    ],
+    "text": "interested,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      215.3986053466797,
+      233.40895080566406,
+      241.1269989013672,
+      243.37155151367188
+    ],
+    "text": "proud,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      249.3013153076172,
+      233.40895080566406,
+      287.7380676269531,
+      243.37155151367188
+    ],
+    "text": "cheerful).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.61701583862305,
+      245.8651885986328,
+      287.7579345703125,
+      280.63037109375
+    ],
+    "text": "Psychometric evaluation of the scale reveals acceptable reliability and validity (Laurent et al., 1999 ). Emotion",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      103.91716766357422,
+      270.66778564453125,
+      152.23675537109375,
+      280.63037109375
+    ],
+    "text": "Expressivity",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      161.43023681640625,
+      270.66778564453125,
+      183.00523376464844,
+      280.63037109375
+    ],
+    "text": "Scale",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      192.21664428710938,
+      270.66778564453125,
+      248.08885192871094,
+      280.63037109375
+    ],
+    "text": "for Children",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      257.284423828125,
+      270.7686767578125,
+      287.7201232910156,
+      280.7312927246094
+    ],
+    "text": "(EESC;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.61701965332031,
+      283.22491455078125,
+      287.75897216796875,
+      442.52557373046875
+    ],
+    "text": "Penza-Clyve & Zeman, 2002 ). The EESC is a 16-item selfreport questionnaire that measures aspects of deﬁcient emotional expression on a 5-point Likert-style scale (1 = not at all true, 5 = extrememly true). The scale is comprised of 2 subscales: (a) Poor Awareness, which measures difﬁculty in labeling internal emotional experience and (b) Expressive Reluctance that measures a lack of motivation or willingness to communicate negative emotional states to others. Evaluation of the scale using school-aged children indicates adequate psychometric properties (Penza-Clyve & Zeman, 2002 ). The Poor Awareness score was used for the present study. Emotion",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      104.77294158935547,
+      432.56298828125,
+      148.08831787109375,
+      442.52557373046875
+    ],
+    "text": "Regulation",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      158.154541015625,
+      432.56298828125,
+      195.0240936279297,
+      442.52557373046875
+    ],
+    "text": "Checklist",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      205.07640075683594,
+      432.66387939453125,
+      230.53285217285156,
+      442.6264953613281
+    ],
+    "text": "(ERC;",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      240.58810424804688,
+      432.66387939453125,
+      269.916015625,
+      442.6264953613281
+    ],
+    "text": "Shields",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      49.618988037109375,
+      445.1201171875,
+      287.75299072265625,
+      716.60986328125
+    ],
+    "text": "Chicchetti, 1997 ). The ERC is a 24-item adult-report measure (4-point Likert scale) of children’s typical methods of managing emotional experiences. The checklist has two subscales: (a) Emotion Regulation, which measures appropriate emotional expression, empathy, and emotional selfawareness (e.g., “Can modulate excitement in emotionally arousing situations”) and (b) Lability/Negativity that assesses inﬂexibility, lability, and dysregulated negative affect (e.g., “Exhibits wide mood swings.”). Psychometrics of the ERC reveal adequate reliability and validity (Shields & Cicchetti, 1997 ). Clinical Global Impression—Severity and Improvement Scales (CGI-S; CGI-I; Guy, 1976 ). The CGI-S and CGI-I assess severity and improvement of child’s anxiety on a 7-point scale, with lower scores indicating less severity and more improvement, respectively. The CGI-S and CGI-I are completed by diagnosticians or therapists. The scales have been used successfully in a number of randomized clinical trials for child psychopathology (March, Franklin, Nelson, & Foa, 2001 ). For the present study, diagnosticians who conducted the pre- and post-treatment ADIS interviews completed these measures.",
+    "line_count": 22,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      59.53499984741211,
+      733.9918212890625,
+      88.68761444091797,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      279.99212646484375,
+      59.05751037597656,
+      287.7430419921875,
+      69.02011108398438
+    ],
+    "text": "&",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.74224853515625,
+      59.07228088378906,
+      345.11468505859375,
+      69.03488159179688
+    ],
+    "text": "Procedure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.74224853515625,
+      83.98377990722656,
+      542.8734130859375,
+      430.1930236816406
+    ],
+    "text": "Participating families were referred to the CAADC for child anxiety problems via media- and school-based outreach efforts. Potential participants were screened by phone prior to the scheduling of a baseline assessment to review their child’s appropriateness for the study. For those treatment-seeking families who met initial criteria, a baseline assessment was scheduled. At the baseline assessment, the child and parent ADIS interviews were conducted by reliable ( κ ≥ .80) doctoral students in clinical psychology (interrater reliability among diagnosticians was established during the training phase of another study; see Comer & Kendall, 2004 for a full description of this training procedure). At pretreatment, the sections of the ADIS-C/P for which the child met diagnostic criteria at the baseline period(s) were readministered. Also, KAI-R interviews were conducted by trained interviewers, children completed the MASC, PANAS-C, and the EESC, and the mothers completed the MASC-P and the ERC. The assessments given at pretreatment were again administered at posttreatment. The diagnostician who conducted the pre- and post-treatment assessment assigned a pre- and post-treatment CGI-S and CGI-I score. Four children were randomized to begin treatment immediately after their initial baseline assessment; for these families all pretreatment measures were administered at the initial baseline assessment. Between pre- and post-treatment assessments, participating children completed the ECBT program for anxious youth (Kendall & Suveg, 2005 ) outlined below. Assessments were conducted by diagnosticians who",
+    "line_count": 28,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      279.9812316894531,
+      432.66387939453125,
+      287.7321472167969,
+      442.6264953613281
+    ],
+    "text": "&",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.74420166015625,
+      432.67767333984375,
+      542.8676147460938,
+      504.9125061035156
+    ],
+    "text": "were blind to treatment-related data (e.g., therapist’s impressions; child’s compliance). Both pre- and post-treatment audio recordings of the KAI-R interviews were coded after all posttreatment evaluations in accordance with Greenberg et al. ( 1995 ) by a doctoral-level student who was blind to assessment point (i.e., pre- or post-treatment).",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.7452087402344,
+      519.7515258789062,
+      353.4314880371094,
+      529.714111328125
+    ],
+    "text": "Intervention",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      304.74517822265625,
+      544.763916015625,
+      542.8630981445312,
+      716.6217041015625
+    ],
+    "text": "Children received an average of 16 individual sessions as speciﬁed in an ECBT manual (Kendall & Suveg, 2005 ). The ECBT manual was modiﬁed from Kendall’s Coping Cat treatment manual (Kendall, 2000 ). All treatment was conducted by either a Ph.D.-level therapist or an advanced doctoral student in clinical psychology. Akin to CBT for anxious youth, ECBT uses role-plays, modeling, relaxation, cognitive restructuring, contingent reinforcement, homework assignments, and imaginal and invivo exposure tasks. The format of ECBT is also commensurate with CBT (ﬁrst half is skills building; the last half is for practicing the skills in emotionally-provoking situations). The fundamental difference between ICBT and ECBT is the systematic integration of emotion-related concepts in",
+    "line_count": 14,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      50.89500045776367,
+      59.05751037597656,
+      289.0270080566406,
+      616.9779052734375
+    ],
+    "text": "ECBT in an effort to facilitate the development of both emotion understanding and emotion regulation skills, beyond the experience of anxiety. Whereas CBT includes one session on emotion understanding, every session in ECBT includes emotion understanding content. For example, to promote emotion understanding, each session in ECBT begins with the therapist and child choosing the emotion that they are currently feeling from a large felt board. During this activity, the therapist discusses how she knows she is feeling a particular emotion and why she is feeling that way. The child is then encouraged to do the same. This activity facilitates children’s understanding of emotional experiences, normalizes the experience of having emotions, and models for the child ways to talk about emotions. Another difference between CBT and ECBT is that the former is primarily focused on the regulation of anxietyrelated experiences whereas the latter includes any emotions that the child has difﬁculty regulating (e.g., guilt, anger, sadness). Several activities are used to encourage the development of emotion regulation skills. For instance, ECBT uses emotionally provocative vignettes, in which the protagonist is in a situation designed to elicit a particular emotion. The child has to consider what emotion the protagonist is most likely to feel (e.g., anger, guilt) in that situation, tell why the protagonist would be likely to feel that way, how the protagonist might know they are feeling that way (emotion understanding), and generate ways that the protagonist might be able to make him/herself feel better (emotion regulation). Through this activity, the child’s repertoire of regulation strategies is broadened through brainstorming and problem solving about the consequences of using different methods. During the ﬁrst eight sessions the child and therapist work as a team to identify particular emotions that the child may have difﬁculty understanding/regulating. During the last 8 sessions, these emotions, in addition to anxiety, are included in the exposure tasks (in CBT, anxiety-related experiences are in the exposure tasks). Similar to CBT, the exposure tasks that are generated in ECBT are targeted to the individual needs of the child (e.g., if a child has difﬁculty with sadness, the exposure tasks would be designed to elicit sadness). The rationale for exposure tasks remains the same as in CBT—to provide the child an opportunity to practice the newly acquired skills in real situations and develop a sense of mastery in coping with various emotions.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      50.89500045776367,
+      632.321044921875,
+      81.88864135742188,
+      642.2836303710938
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      50.89500045776367,
+      657.324462890625,
+      119.2414321899414,
+      667.2870483398438
+    ],
+    "text": "Diagnostic status",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      50.89400100708008,
+      682.2359008789062,
+      289.0110168457031,
+      717.10205078125
+    ],
+    "text": "Table 1 presents the diagnostic status of the six participating youth at pre- and posttreatment. Treatment gains were evident in diagnostic status changes across all participants.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0072937011719,
+      59.07038879394531,
+      544.133544921875,
+      193.56845092773438
+    ],
+    "text": "Clinician severity ratings (indicating the extent of severity and impairment associated with a given disorder) assigned to the principal diagnosis improved for 100% of the children at posttreatment. At posttreatment, four of the children (67%) did not meet criteria for their pretreatment principal diagnosis. Also, CSR’s for ﬁve of the six secondary and tertiary pretreatment diagnoses decreased (83.33%), indicating relief in severity and impairment associated with disorders beyond the principal diagnoses. Three of the secondary and tertiary diagnoses assigned at pretreatment (50%) were completely absent at posttreatment.",
+    "line_count": 11,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0072937011719,
+      208.51734924316406,
+      409.2257995605469,
+      218.47994995117188
+    ],
+    "text": "Anxious symptomatology",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0072937011719,
+      233.4198760986328,
+      544.140625,
+      367.9179382324219
+    ],
+    "text": "Table 1 presents parent- and child-report of anxious symptomatology (MASC). According to parents, 5 of the 6 youth evidenced substantial improvement in anxious symptoms after completing ECBT (mean reduction in MASC score was 18.8). Child-report MASC scores suggest improvement in anxious symptomatology for 4 of the children (67%); mean reduction in MASC score across all children was 22.7. Of note, the 2 children whose self-report MASC scores did not improve after treatment had reported substantially lower symptomatology than their parents at pretreatment assessment, providing less room for improvement.",
+    "line_count": 11,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.00732421875,
+      382.8667907714844,
+      458.8674621582031,
+      392.82940673828125
+    ],
+    "text": "Emotion understanding and regulation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.00732421875,
+      407.7693176269531,
+      544.1436157226562,
+      641.8992919921875
+    ],
+    "text": "Table 2 presents data on emotion awareness, use of emotion language, and understanding of emotion regulation. EESC scores indicate that ﬁve of the participating children evidenced increased awareness of emotional experience. Child-report PANAS scores indicate reduced frequency of positive and negative affect following treatment in four and three of the participants, respectively (see Table 2 ). With respect to parent report of children’s emotion regulation, ERC scores indicate that, although there was modest change in appropriate emotional expression and empathy, all six children evidenced substantial reduction in inﬂexibility and dysregulated negative affect (see Table 2 ). The KAI-R interview showed that 5 of the children (83%) evidenced increases in their use of emotion-related language (mean increase = 6.0). Pre- and post-treatment data regarding understanding of hiding and changing emotions were available for ﬁve of the children; all ﬁve of these children (83% of overall sample) evidenced improvement in understanding of hiding and changing emotions (mean increase = 5.00).",
+    "line_count": 19,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0073547363281,
+      656.8392333984375,
+      410.58282470703125,
+      666.8018188476562
+    ],
+    "text": "Global treatment response",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      306.0073547363281,
+      681.7417602539062,
+      544.1356201171875,
+      716.6168212890625
+    ],
+    "text": "CGI-S scores at pre- and post-treatment indicate that 68% of participants evidenced a decrease in global severity associated with their anxiety (see Table 1 ). Comparison CGI-I",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      514.9619750976562,
+      733.9918212890625,
+      544.1146240234375,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      235.16343688964844,
+      97.54987335205078,
+      253.90695190429688,
+      714.2385864257812
+    ],
+    "text": "ODD = oppositional deﬁant disorder; PTSD = posttraumatic stress disorder; MASC = Multidimensional Anxiety Scale for Children; CGI-S = Clinician Global Impression scale Note . BL = Baseline; CSR = Clinical Severity Rating (see Silverman & Albano, 1996 ); SAD = separation anxiety disorder; GAD = generalized anxiety disorder; SoP = social phobia;",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.905914306640625,
+      97.57296752929688,
+      86.27310943603516,
+      679.3174438476562
+    ],
+    "text": "Diagnostic status, anxious symptomatology, and clinical severity at baseline, pre- and post-treatment, and independent evaluator (IE) ratings of improvement at post-treatment CGI-I (IE-rated) Post",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.79791259765625,
+      183.57632446289062,
+      86.27310943603516,
+      259.9456787109375
+    ],
+    "text": "Post CGI-S (IE-rated) Pre",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      249.1192626953125,
+      86.27310943603516,
+      259.94500732421875
+    ],
+    "text": "BL",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      118.29584503173828,
+      251.48516845703125,
+      148.7873077392578,
+      259.9542236328125
+    ],
+    "text": "— —",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      251.48687744140625,
+      115.757080078125,
+      259.955078125
+    ],
+    "text": "— —",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.79791259765625,
+      276.2386779785156,
+      86.27310943603516,
+      357.5898742675781
+    ],
+    "text": "Post MASC (mother-report) Pre",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      346.7585144042969,
+      86.27310943603516,
+      357.58087158203125
+    ],
+    "text": "BL",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      118.29584503173828,
+      349.115966796875,
+      148.7873077392578,
+      357.58502197265625
+    ],
+    "text": "— —",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      349.11767578125,
+      115.757080078125,
+      357.58587646484375
+    ],
+    "text": "— —",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.79791259765625,
+      373.8745422363281,
+      86.27310943603516,
+      465.18670654296875
+    ],
+    "text": "Post MASC (child-report) Pre",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      454.357177734375,
+      86.27310943603516,
+      465.18292236328125
+    ],
+    "text": "BL",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      140.31910705566406,
+      456.71380615234375,
+      148.7873077392578,
+      465.1820068359375
+    ],
+    "text": "—",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      456.71466064453125,
+      115.757080078125,
+      465.182861328125
+    ],
+    "text": "— —",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      255.089111328125,
+      476.35919189453125,
+      263.8697814941406,
+      714.2394409179688
+    ],
+    "text": "(Severity); CGI-I = Clinician Global Impression scale (Improvement).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      173.34002685546875,
+      486.05615234375,
+      181.8082275390625,
+      535.8975219726562
+    ],
+    "text": "Dx not present",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      129.30282592773438,
+      486.05780029296875,
+      148.7873077392578,
+      535.9076538085938
+    ],
+    "text": "Dx not present Dx not present",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      486.0662841796875,
+      126.76404571533203,
+      535.9076538085938
+    ],
+    "text": "Dx not present Dx not present Dx not present",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      217.37722778320312,
+      486.07733154296875,
+      225.84542846679688,
+      535.91015625
+    ],
+    "text": "Dx not present",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      497.5619201660156,
+      86.27310943603516,
+      535.9160766601562
+    ],
+    "text": "Post (CSR)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      195.36328125,
+      503.2203674316406,
+      203.83148193359375,
+      535.9025268554688
+    ],
+    "text": "PTSD (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      151.32608032226562,
+      505.5711364746094,
+      159.79428100585938,
+      535.899169921875
+    ],
+    "text": "GAD (5)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      162.3330535888672,
+      505.5711364746094,
+      192.81520080566406,
+      535.899169921875
+    ],
+    "text": "GAD (4) SoP (4)",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      206.37025451660156,
+      510.2667541503906,
+      214.8384552001953,
+      535.9017333984375
+    ],
+    "text": "SoP (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      546.6952514648438,
+      86.27310943603516,
+      581.7426147460938
+    ],
+    "text": "Pre (CSR)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      151.32608032226562,
+      549.048583984375,
+      203.83148193359375,
+      581.7307739257812
+    ],
+    "text": "PTSD (6) ODD (5) GAD (6)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      184.3470001220703,
+      551.4036254882812,
+      192.81520080566406,
+      581.7307739257812
+    ],
+    "text": "GAD (6)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      551.4112548828125,
+      126.76404571533203,
+      581.7384033203125
+    ],
+    "text": "GAD (5) GAD (5) GAD (5)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      217.37722778320312,
+      552.8169555664062,
+      225.84542846679688,
+      581.734130859375
+    ],
+    "text": "SAD (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      162.3330535888672,
+      556.0857543945312,
+      170.80125427246094,
+      581.724853515625
+    ],
+    "text": "SoP (5)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      129.30282592773438,
+      556.0933227539062,
+      137.77102661132812,
+      581.730712890625
+    ],
+    "text": "SoP (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      206.37025451660156,
+      556.0950317382812,
+      214.8384552001953,
+      581.7299194335938
+    ],
+    "text": "SoP (5)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      140.31910705566406,
+      556.1009521484375,
+      148.7873077392578,
+      581.7384033203125
+    ],
+    "text": "SoP (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      592.9892578125,
+      86.27310943603516,
+      627.5640258789062
+    ],
+    "text": "BL (CSR)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      151.32608032226562,
+      594.8759765625,
+      203.83148193359375,
+      627.5631713867188
+    ],
+    "text": "PTSD (6) ODD (5) GAD (6)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      184.3470001220703,
+      597.2352294921875,
+      192.81520080566406,
+      627.5631713867188
+    ],
+    "text": "GAD (6)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      217.37722778320312,
+      598.6409301757812,
+      225.84542846679688,
+      627.55810546875
+    ],
+    "text": "SAD (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      162.3330535888672,
+      601.9190063476562,
+      170.80125427246094,
+      627.55810546875
+    ],
+    "text": "SoP (5)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      206.37025451660156,
+      601.9232177734375,
+      214.8384552001953,
+      627.55810546875
+    ],
+    "text": "SoP (4)",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.79791259765625,
+      613.8840942382812,
+      75.26611328125,
+      673.3859252929688
+    ],
+    "text": "Diagnostic Status",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      619.0975341796875,
+      148.7873077392578,
+      627.5657348632812
+    ],
+    "text": "— — — —",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      638.8275756835938,
+      86.27310943603516,
+      673.3922119140625
+    ],
+    "text": "BL period",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      151.32608032226562,
+      645.8875122070312,
+      159.79428100585938,
+      673.3854370117188
+    ],
+    "text": "2 weeks",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      184.3470001220703,
+      645.8875122070312,
+      192.81520080566406,
+      673.3854370117188
+    ],
+    "text": "3 weeks",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      96.28191375732422,
+      645.8892211914062,
+      148.7873077392578,
+      673.3862915039062
+    ],
+    "text": "0 weeks 0 weeks 0 weeks 0 weeks",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.820133209228516,
+      688.3851928710938,
+      57.288333892822266,
+      714.2368774414062
+    ],
+    "text": "Table 1",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      77.8049087524414,
+      690.8375244140625,
+      86.27310943603516,
+      714.2368774414062
+    ],
+    "text": "Patient",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      59.53499984741211,
+      733.9918212890625,
+      88.68761444091797,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      445.304443359375,
+      108.51589965820312,
+      454.0851135253906,
+      714.2369995117188
+    ],
+    "text": "Note . BL = Baseline; PANAS-Pos—positive affectivity scale of PANAS; PANAS-Neg—negative affectivity scale of PANAS; ERC-Reg—emotion regulation subscale of the Emotion",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      332.9189147949219,
+      123.68026733398438,
+      362.4651184082031,
+      253.968017578125
+    ],
+    "text": "Understanding of hiding and changing Post",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      415.1529541015625,
+      135.31065368652344,
+      421.0806579589844,
+      138.39898681640625
+    ],
+    "text": "∗",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      342.73553466796875,
+      152.3462677001953,
+      362.4651184082031,
+      253.9801025390625
+    ],
+    "text": "feelings (emotion regulation) b Pre",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      321.9118957519531,
+      265.2970275878906,
+      362.4651184082031,
+      345.6373291015625
+    ],
+    "text": "Post Use of emotion-related Clinical Interview language b Pre",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      304.0191955566406,
+      353.9839782714844,
+      312.4873962402344,
+      678.0599365234375
+    ],
+    "text": "Child-, parent-, and clinician-ratings of facets of emotion understanding and emotion regulation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      332.9189147949219,
+      356.9542541503906,
+      362.4651184082031,
+      402.4012145996094
+    ],
+    "text": "Post ERC-Neg",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      455.5797424316406,
+      377.8865051269531,
+      464.0479431152344,
+      714.23779296875
+    ],
+    "text": "Regulation Checklist; ERC-Neg—lability/negativity subscale of the Emotion Regulation Checklist.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      353.9969177246094,
+      391.1344299316406,
+      362.4651184082031,
+      402.4191589355469
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      321.9118957519531,
+      412.5126953125,
+      330.3800964355469,
+      459.19451904296875
+    ],
+    "text": "Parent Report",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      332.9189147949219,
+      413.736083984375,
+      362.4651184082031,
+      459.2103271484375
+    ],
+    "text": "Post ERC-Reg Pre",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      332.9189147949219,
+      470.5272521972656,
+      362.4651184082031,
+      515.9791259765625
+    ],
+    "text": "Post PANAS-Neg",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      467.17852783203125,
+      479.7823791503906,
+      489.6441955566406,
+      714.2369995117188
+    ],
+    "text": "a Assessed with the Emotion Expressivity Scale for Children (EESC). b Assessed with the Kusche-Affective Interview-Revised (KAI-R).",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      353.9969177246094,
+      504.7167663574219,
+      362.4651184082031,
+      516.00146484375
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      332.9189147949219,
+      527.3184204101562,
+      362.4651184082031,
+      668.4089965820312
+    ],
+    "text": "Post PANAS-Pos Pre Poor awareness of emotion",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      372.4739074707031,
+      597.8095092773438,
+      435.9861145019531,
+      612.61865234375
+    ],
+    "text": "2.38 1.25 1.00 1.88 3.13",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      353.9969177246094,
+      598.0498657226562,
+      362.4651184082031,
+      612.635498046875
+    ],
+    "text": "Post",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      416.5017395019531,
+      602.0443725585938,
+      424.9699401855469,
+      612.6211547851562
+    ],
+    "text": "2.5",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      321.9118957519531,
+      624.419189453125,
+      352.40338134765625,
+      668.4089965820312
+    ],
+    "text": "Child Report experience a",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      372.4739074707031,
+      653.6005249023438,
+      435.9861145019531,
+      668.40966796875
+    ],
+    "text": "3.25 1.38 2.38 2.13 4.25 2.13",
+    "line_count": 6,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      353.9969177246094,
+      657.1427001953125,
+      362.4651184082031,
+      668.4274291992188
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      492.6158447265625,
+      665.017333984375,
+      502.4421081542969,
+      714.2369995117188
+    ],
+    "text": "∗ Missing data.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      353.9969177246094,
+      677.6831665039062,
+      362.4651184082031,
+      714.2369995117188
+    ],
+    "text": "Participant",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      303.93341064453125,
+      687.96435546875,
+      312.401611328125,
+      714.2394409179688
+    ],
+    "text": "Table 2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      50.89500045776367,
+      59.05751037597656,
+      289.00701904296875,
+      81.47634887695312
+    ],
+    "text": "scores indicate that all participating children improved with respect to global functioning.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      50.89500045776367,
+      96.81944274902344,
+      95.73666381835938,
+      106.78204345703125
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      50.89399719238281,
+      121.82289123535156,
+      289.0260009765625,
+      717.10302734375
+    ],
+    "text": "CBT for child anxiety leaves approximately 1/3 of those treated with unwanted levels of anxiety at posttreatment. ECBT has potential to improve CBT protocols because it builds upon the strength of the CBT framework without diluting its value. The ﬁeld’s current shift from cognition toward emotion parallels the shift from behavior to cognition in the 1960’s and 1970’s. After that time, behavior therapy adapted by attending to cognitive processes (e.g., attributions, schemas, self-talk), which were then integrated into theoretical and treatment paradigms. CBT may beneﬁt from a more focused role for emotion, with the aim of better outcomes. Empirical work has found that children with anxiety disorders are less adept at emotion understanding and emotion regulation than are children without psychopathology (Southam-Gerow & Kendall, 2000 ; Suveg & Zeman, 2004 ; Zeman et al., 2002 ). Along these lines, the present results are promising—not only did participating youth evidence gains in anxious symptomatology and diagnostic status, but the participating youth also evidenced gains in emotion understanding and emotion regulation. Speciﬁcally, following ECBT most children demonstrated improvements in their ability to (a) identify emotional states, (b) discuss emotionrelated experiences, and (c) understand emotion regulation strategies (e.g., changing emotions). The ﬁnding that children were better able to identify their emotional states posttreatment is particularly noteworthy given that correct identiﬁcation of one’s emotional experience is a necessary ﬁrst step in managing emotional experiences. Regarding emotion regulation, some of the children demonstrated decreases in the frequency with which they experienced both positive ( n = 4) and negative ( n = 3) emotions. Although it may seem counterintuitive that a child would experience positive emotions with less frequency following treatment, the ﬁnding makes sense in the context of the research literature. Speciﬁcally, it is desirable for children to regulate emotionality (in general) given that hyperarousal of emotional experiences may interfere with the ability to adaptively respond in a situation (e.g., Eisenberg, Cumberland, & Spinrad, 1998 ). In this way, a decrease in both negative and positive emotional states is consistent with improved emotion regulation. Convergent evidence for improved emotion regulation skills is found in the parental reports—all parents rated their children as less inﬂexible, less labile, and less emotionally negative (i.e., ERC-Neg) following treatment. Few differences were found between pre- and post-treatment scores regarding parents’ report of children’s appropriate emotional expression (see Table 2 ). It could be that children simply did not experience",
+    "line_count": 48,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0072937011719,
+      59.07136535644531,
+      544.1445922851562,
+      592.0882568359375
+    ],
+    "text": "a positive change with respect to appropriate emotional expression in situations with parents, or, given that treatment ended within a relatively short period of time (i.e., several months) it may be that these effects were not yet evident. Over time, after the children have had time to internalize the skills learned and practice them across settings, parents may notice such improvements. A caveat to the pattern of ﬁndings discussed here regards participant 4. Inspection of both the anxiety and emotionrelated data for this youth indicates higher overall scores on all of the self-report measures—higher scores that reﬂect improvement and higher scores that reﬂect increased symptoms. In short, it appears that this child may have reported with global endorsement to questions that were asked. One potential explanation for this could be that at pretreatment, this participant met criteria for oppositional deﬁant disorder (ODD) and was reportedly resistant to answering the questions that were asked of him. At posttreatment, however, this participant was more amenable and less oppositional in the assessment process. The higher scores on the self-report measures of both anxiety and emotion-related variables at posttreatment may reﬂect this participant’s greater willingness to disclose information at posttreatment or alternatively, may reﬂect actual increases on all measures (favorable and unfavorable). Of note, however, both the diagnostician and parent independently reported improvements in anxious symptoms. In general, the ﬁndings provide initial support for an Emotion-focused CBT (ECBT) for anxious youth. However, the present evaluation is not without limitations. First, the data were multi-method (self- and other-report, structured clinical interview) but we did not have behavioral observation measures. Second, a multiple-baseline approach precludes the ability to conduct statistical analyses. Finally, we did not compare ECBT to CBT and to our knowledge, no CBT program for anxious youth has directly assessed emotion understanding and regulation skills at pre- and post-treatment. Thus, it is not yet clear if emotion-related improvements could be found with CBT. It remains to be evaluated, but it is important to study the differential predictors of favorable outcomes associated with CBT and ECBT, and any long-term impact of ECBT on socioemotional functioning. Future work using a randomized clinical trial and a multi-method assessment would be of interest.",
+    "line_count": 43,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0072937011719,
+      609.4208984375,
+      352.2646789550781,
+      619.3834838867188
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      306.0081787109375,
+      635.4551391601562,
+      544.1315307617188,
+      713.7489624023438
+    ],
+    "text": "Albano, A.M., & Silverman, W.K. (1996). Clinician Manual for the Anxiety Disorders Interview Schedule for DSM-IV-Child Version. San Antonio, TX: The Psychological Corporation. American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed., rev.). Washington, DC: Author. APA Task Force on Promotion and Dissemination of Psychological Procedures. (1995). Training in and dissemination of empirically-",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      514.9619750976562,
+      733.9918212890625,
+      544.1146240234375,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      49.616905212402344,
+      60.1978874206543,
+      287.7500915527344,
+      716.2322998046875
+    ],
+    "text": "validated psychological treatments: Report and recommendations. The Clinical Psychologist , 48, 3–24. Barrett, P.M. (1998). Evaluation of cognitive-behavioral group treatments for childhood anxiety disorders. Journal of Clinical Child Psychology , 27, 459–468. Barrett, P., Dadds, M., & Rapee, R. (1996). Family treatment of childhood anxiety: A controlled trial. Journal of Consulting and Clinical Psychology , 64, 333–342. Bohnert, A.M., Crnic, K.A., & Lim, K.G. (2003). Emotional competence and aggressive behavior in school-age children. Journal of Abnormal Child Psychology , 31, 79–91. Cicchetti, D., Ackerman, B.P., & Izard, C.E. (1995). Emotions and emotion regulation in developmental psychopathology. Development and Psychopathology , 7, 1–10. Comer, J.S., & Kendall, P.C. (2004). A symptom-level examination of parent-child agreement in the diagnosis of anxious youths. Journal of the American Academy of Child and Adolescent Psychiatry , 43, 878–886. Cook, E.T., Greenberg, M.T., & Kusche, C.A. (1994). The relations between emotional understanding, intellectual functioning, and disruptive behavior problems in elementary-school-aged children. Journal of Abnormal Child Psychology , 22, 205–219. Costello, E.J., Mustillo, S., Erkanli, A., Keeler, G., & Angold, A. (2003). Prevalence and development of psychiatric disorders in childhood and adolescence. Archives of General Psychiatry , 60, 837– 844. Denham, S.A., & Burton, R. (1996). A socio-emotional intervention program for at risk four-year-olds. Journal of School Psychology , 34, 225–245. Eisenberg, N., Cumberland, A., & Spinrad, T. (1998). Parental Socialization of emotion. Psychological Inquiry , 9, 241–273. Eisenberg, N., & Fabes, R.A. (1992). Emotion regulation and the development of social competence. In: M.S. Clark (Ed.), Review of Personality and Social Psychology: Emotion and social behavior (Vol 14, pp. 119–150). Newbury Park, CA: Sage. Eisenberg, N., Fabes, R.A., & Losoya, S. (1997). Emotional responding: Regulation, social correlates, and socialization. In: P. Salovey & D.J. Sluyter (Eds.), Emotional development and emotional intelligence: Educational implications (pp. 129–163). NY: Basic Books. Flannery-Schroeder, E., & Kendall, P.C. (2000). Group and individual cognitive-behavioral treatments for youth with anxiety disorders: A randomized clinical trial. Cognitive Therapy and Research , 24, 251–278. Gould, R.A., Buckminster, S., Pollack, M.H., Otto, M.W., & Yap, L. (1997). Cognitive-behavioral and pharmacological treatment for social phobia: A meta-analysis. Clinical Psychology: Science and Practice , 4, 291–306. Gould, R.A., Otto, M.W., Pollack, M.P., & Yap, L. (1997). Cognitivebehavioral and pharmacological treatment of generalized anxiety disorder: A preliminary meta-analysis. Behavior Therapy , 28, 285–305. Greenberg, M.T. Kusche, C.A., Cook, E.T., & Quamma, J.P. (1995). Promoting emotional competence in school-aged children. The effects of the PATHS curriculum. Development and Psychopathology , 7, 117–136. Guy, W. (1976). The clinical global impression scale. As published in The ECDEU Assessment Manual for PsychopharmacologyRevised (DHEW Publ No ADM 76-338). Rockville, MD, U.S. Department of Health, Education, and Welfare Public Health Service, Alcohol, Drug Abuse, Mental Health Administration, NIMH Psychopharmacology Research Branch, Division of Extramural Research, pp. 218-222. Hubbard, J., & Coie, J. (1994). Emotional correlates of social competence in children’s peer relationships. Merrill-Palmer Quarterly , 40, 1–20.",
+    "line_count": 66,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      59.53499984741211,
+      733.9918212890625,
+      88.68761444091797,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      304.739990234375,
+      60.19074630737305,
+      542.8599243164062,
+      716.2251586914062
+    ],
+    "text": "Ialongo, N., Edelsohn, G., Werthamer-Larsson, L., Crockett, L., & Kellam, S. (1995). The signiﬁcance of self-reported anxious symptoms in ﬁrst grade children: Prediction to anxious symptoms and adaptive functioning in ﬁfth grade. Journal of Child Psychology and Psychiatry , 36, 427–437. Kazdin, A., & Weisz, J.R. (1998). Identifying and developing empirically supported treatments for children and adolescents. Journal of Consulting and Clinical Psychology , 66, 19–36. Kendall, P.C. (1994). Treating anxiety disorders in youth: Results of a randomized clinical trial. Journal of Consulting and Clinical Psychology , 62, 100–110. Kendall, P.C., Flannery-Schroeder, E., Panichelli-Mindel, S., SouthamGerow, M., Henin, A., & Warman, M. (1997). Therapy for youth with anxiety disorders: A second randomized clinical trial. Journal of Consulting and Clinical Psychology , 65, 366– 380. Kendall, P.C., Safford, S., Flannery-Schroeder, E., & Webb, A. (2004). Child anxiety treatment: Outcomes in adolescence and impact on substance use and depression at 7.4-year followup. Journal of Consulting and Clinical Psychology , 72, 276– 287. Kendall, P.C., & Southam-Gerow, M. (1996). Long-term follow-up of treatment for anxiety disordered youth. Journal of Consulting and Clinical Psychology , 64, 724–730. Kendall, P.C., & Suveg, C. (2005). Emotion-focused cognitivebehavioral therapy for anxious children: Therapist manual. Unpublished manual. Laurent, J., Catanzaro, S., Joiner, T., Rudolph, K., Potter, K., Lambert, S., et al. (1999). A measure of positive and negative affect for children: Scale development and preliminary validation. Psychological Assessment , 11, 326–338. Manassis, K., Mendlowitz, S.L., Scapillato, D., Avery, D., Fiksenbaum, L., Freire, M., et al. (2002). Group and individual cognitivebehavioral therapy for childhood anxiety disorders. A randomized trial. Journal of the American Academy of Child & Adolescent Psychiatry , 41, 1423–1430. March, J.S., & Albano, A.M. (1998). New developments in assessing pediatric anxiety disorders. In: T. Ollendick and R. Prinz (Eds.), Advances in clinical child psychology (Vol. 20). New York: Plenum Press. March, J.S., Franklin, M., Nelson, A., & Foa, E. (2001). Cognitivebehavioral psychotherapy for pediatric obsessive-compulsive disorder. Journal of Clinical Child Psychology , 30, 8–18. March, J.S., Parker, J., Sullivan, K., Stallings, P., & Conners, C. (1997). The Multideminsional Anxiety Scale for Children (MASC): Factor structure, reliability and validity. Journal of the American Academy of Child and Adolescent Psychiatry , 36, 554– 565. March, J.S., & Sullivan, K. (1999). Test-retest reliability of the Multidimensional Anxiety Scale for Children. Journal of Anxiety Disorders , 13, 349–358. National Advisory Mental Health Council’s Behavioral Science Workgroup (2000). Translating behavioral science into action. Bethesda, MD: National Institute of Mental Health. Ollendick, T., & King, N. (1998). Empirically supported treatments for children with phobic and anxiety disorders: Current status. Journal of Clinical Child Psychology , 27, 156–167. Penza-Clyve, S., & Zeman, J. (2002). Initial validation of the emotion expression scale for children (EESC). Journal of Clinical Child and Adolescent Psychology , 31, 540–547. Saarni, C. (1999). The development of emotional competence. New York: The Guilford Press. Shields, A., & Cicchetti, D. (1997). Emotion regulation among school-age children: The development and validation of a new criterion Q-sort scale. Developmental Psychology , 33, 906– 917.",
+    "line_count": 66,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      50.89497375488281,
+      60.11210632324219,
+      289.01318359375,
+      247.9970245361328
+    ],
+    "text": "Silverman, W., & Albano, A.M. (1996). The Anxiety Disorders Interview Schedule for Children (DSM-IV). San Antonio: Psychological Corporation. Silverman, W., & Eisen, A. (1992). Age differences in the reliability of parent and child reports of child anxious symptomatology using a structured interview. Journal of the American Academy of Child and Adolescent Psychiatry , 31, 117–124. Silverman, W., Saavedra, L., & Pina, A. (2001). Test-retest reliability of anxiety symptoms and diagnoses with the Anxiety Disorders Interview Schedule for DSM-IV: Child and Parent Versions. Journal of the American Academy of Child & Adolescent Psychiatry , 40, 937–944. Southam-Gerow, M.A., & Kendall, P.C. (2000). A preliminary study of the emotion understanding of youth referred for treatment of anxiety disorders. Journal of Clinical Child Psychology , 29, 319– 327. Southam-Gerow, M.A., & Kendall, P.C. (2002). Emotion regulation and understanding: Implications for child psychopathology and therapy. Clinical Psychology Review , 22, 189–222.",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      306.0071105957031,
+      60.1960563659668,
+      544.1369018554688,
+      247.9951934814453
+    ],
+    "text": "Strauss, C.C., Frame, C.L., & Forehand, R. (1987). Psychosocial impairment associated with anxiety in children. Journal of Clinical Child Psychology , 16, 235–239. Suveg, C., & Zeman, J. (2004). Emotion regulation in children with anxiety disorders. Journal of Clinical Child and Adolescent Psychology , 33, 750–759. Wood, J.J., Piacentini, J.C., Bergman, R.L., McCracken, J., & Barrios, V. (2002). Concurrent validity of the anxiety disorders section of the Anxiety Disorders Interview Schedule for DSM-IV: Child and parent versions. Journal of Clinical Child & Adolescent Psychology , 31 (3), 335–342. Woodward, L.J., & Fergusson, D.M. (2001). Life course outcomes of young people with anxiety disorders in adolescence. Journal of the American Academy of Child and Adolescent Psychiatry, 40, 1086–1093. Zeman, J., Shipman, K., & Suveg, C. (2002). Anger and sadness regulation: Predictions to internalizing and externalizing symptoms in children. Journal of Clinical Child and Adolescent Psychology , 31, 393–398.",
+    "line_count": 19,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      514.9619750976562,
+      733.9918212890625,
+      544.1146240234375,
+      742.4600219726562
+    ],
+    "text": "Springer",
+    "line_count": 1,
+    "column": 1
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      78.37207794189453,
+      267.5135803222656,
+      136.3716583251953
+    ],
+    "text": "Examination of a Social Problem-Solving Intervention to Treat Selective Mutism",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      60.0,
+      405.4223327636719,
+      336.00750732421875,
+      502.4207458496094
+    ],
+    "text": "The authors examined the use of a social problem-solving intervention to treat selective mutism with 2 sisters in an elementary school setting. Both girls were taught to answer teacher questions in front of their classroom peers during regular classroom instruction. Each girl received individualized instruction from a therapist and was taught to discriminate salient social cues, select an appropriate social response, perform the response, and evaluate her performance. The girls generalized the skills to their respective regular classrooms and maintained the skills for up to 3 months after the removal of the intervention. Experimental control was demonstrated using a multiple",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      524.1896362304688,
+      348.0041809082031,
+      542.2706909179688
+    ],
+    "text": "Authors’ Note: Please address correspondence to Mark O’Reilly, PhD, Department of Special Education, 1 University Station D5300, The University of Texas at Austin, Austin, TX 78712;",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      154.89608764648438,
+      181.06399536132812,
+      378.55792236328125
+    ],
+    "text": "Mark O’Reilly The University of Texas at Austin Deirdre McNally University College Dublin Jeff Sigafoos The University of Tasmania Giulio E. Lancioni University of Bari Vanessa Green The University of Tasmania Chaturi Edrisinha St. Cloud State University Wendy Machalicek Audrey Sorrells Russell Lang The University of Texas at Austin Robert Didden Radbound University Nijmegen",
+    "line_count": 18,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.000003814697266,
+      544.2706909179688,
+      169.55284118652344,
+      552.2706909179688
+    ],
+    "text": "e-mail: markoreilly@mail.utexas.edu.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      279.2945251464844,
+      48.8671760559082,
+      359.9952697753906,
+      100.93746948242188
+    ],
+    "text": "Behavior Modification Volume 32 Number 2 March 2008 182-195 © 2008 Sage Publications 10.1177/0145445507309018 http://bmo.sagepub.com",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      334.738037109375,
+      102.9373779296875,
+      359.9884338378906,
+      109.9373779296875
+    ],
+    "text": "hosted at",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      287.5587463378906,
+      111.93728637695312,
+      359.98712158203125,
+      118.93728637695312
+    ],
+    "text": "http://online.sagepub.com",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      60.0,
+      71.27778625488281,
+      335.9887390136719,
+      91.27760314941406
+    ],
+    "text": "baseline design across participants. Limitations of this study and issues for future research are discussed.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      60.0,
+      104.18604278564453,
+      98.63249969482422,
+      113.18604278564453
+    ],
+    "text": "Keywords:",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      107.62529754638672,
+      104.18604278564453,
+      335.9976501464844,
+      135.18560791015625
+    ],
+    "text": "selective mutism; behavior therapy; social problem-solving strategies; assessment/treatment of challenging behavior; social competence",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.0,
+      154.13067626953125,
+      348.0561218261719,
+      549.5147094726562
+    ],
+    "text": "S elective mutism is diagnosed when a child persistently fails to speak in specific social situations where there is an expectation to speak (e.g., in classroom settings). Additionally, the child consistently speaks in other social situations (e.g., at home with mom). Selective mutism is included under the category of disorders first diagnosed in infancy, childhood, and adolescence of the Diagnostic and Statistical Manual of Mental Disorders (4th ed., DSM–IV ; American Psychiatric Association, 1994). It is a rare condition, occurring in less than 1% of the population (Krysanski, 2003). Some research indicates that the prevalence may be higher but that the condition goes undiagnosed (Kumpulainen, Rasanen, Raaska, & Samppi, 1998). Selective mutism often becomes evident when children attend school, but there tends to be a delay in referring these children for specialist treatment, with the average age of referral being 9 years of age in one study (Kumpulainen et al., 1998). This condition can have negative long-term social effects for the child if untreated (Kolvin & Goodyer, 1982). Negative educational outcomes have also been implicated in several reviews of this disorder, but no clear empirical evidence has been provided to support this proposal (Stone, Kratochwill, Sladezcek, & Serlin, 2002). Several intervention protocols have been reported in the literature and include behavior therapy, family systems therapy, psychodynamic therapy, and medication (Stone et al., 2002). Unfortunately, the majority of studies published to date have not used rigorous experimental methodologies to clearly isolate the effects of treatment variables. Stone et al. (2002) concluded that behavior therapy has the predominance of empirical support over other treatments for this condition. Behavioral interventions have included such strategies as reinforcement for speaking, extinction of nonverbal attempts at communication, shaping, and modeling appropriate behavior (e.g., Amari, Slifer, Gerson, Schenck, & Kane, 1999; Kehle, Owen, & Cressy, 1990). In spite of the potential advantages, the behavior therapy literature itself is difficult to interpret, as much of the published reports involve case studies that do not use rigorous singlecase experimental design methodologies. Stone et al. (2002) concluded that future treatment research with this population should incorporate more rigorous experimental designs to clearly evaluate treatment effects.",
+    "line_count": 34,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01040649414062,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0118713378906,
+      549.1976318359375
+    ],
+    "text": "One form of behavioral intervention that has not been reported in the treatment of selective mutism is the use of social problem-solving strategies. Social problem-solving interventions involve teaching the individual a generic set of verbal rules that are intended to prompt him or her to (a) decode or discriminate salient social stimuli; (b) identify alternative social behaviors and determine the most appropriate among them for the social situation at hand; (c) perform the social behavior; and (d) evaluate the effectiveness of the social behavior once it has been performed (cf. O’Reilly, Cannella, Sigafoos, & Lancioni, 2006). Several authors have argued that problem solving may be an effective method for promoting the generalization and maintenance of social skills because the participant is taught a generic set of social rules that can be adapted to different social interactions (Gumpel, 1994; O’Reilly et al., 2006). Individuals may therefore be able to use the verbal rules to manage their social behavior after training. Social problem-solving interventions have successfully been used to teach social skills to a variety of populations, including individuals with intellectual disabilities and traumatic brain injuries (e.g., Foxx, Martella, & Marchand-Martella, 1989; O’Reilly, Lancioni, Gardiner, Tiernan, & Lacey, 2002; O’Reilly, Lancioni & O’Kane, 2000). These interventions have produced very robust outcomes, with social skills generalizing across regular school settings and vocational settings (e.g., Foxx, Faw, & Weber, 1991; O’Reilly & Chasdey-Rusch, 1992; O’Reilly et al., 2002). Additionally, several studies have demonstrated that such interventions can produce longterm positive changes in social behavior (Foxx & Faw, 1992; O’Reilly, Lancioni, & Kierans, 2000). For example, in a previous study, we examined a social problem-solving intervention with two school children with intellectual disabilities who were described by their teachers as being withdrawn during class (O’Reilly & Glynn, 1995). Both students were successfully taught to initiate and respond with their teachers during regular classroom routines. They also began to generalize social initiations to other contexts within the school (e.g., with peers during recess) and maintained these skills after the removal of intervention. In the present study, we attempted to evaluate the effectiveness of this social problem-solving intervention protocol with two elementary school children (sisters) who had been formally diagnosed with selective mutism. We attempted to use the intervention to teach the students to respond to teacher questions during routine classroom activities. We evaluated the effectiveness of this intervention using a multiple baseline experimental design across participants (Kazdin, 1982). Maintenance of treatment effects after the removal on the intervention was also evaluated.",
+    "line_count": 40,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      178.0063018798828,
+      70.91551208496094,
+      217.9962921142578,
+      82.91551208496094
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.0,
+      96.68877410888672,
+      350.4967956542969,
+      389.56329345703125
+    ],
+    "text": "Participants, Settings, Therapist, and Sessions Saoirse and Siobhan were sisters, aged 5 and 7 years, respectively. They both attended their local elementary school in a designated socially disadvantaged area of a city in Ireland. Approximately 500 students attended the school, with 15 students in each classroom. Saoirse and Siobhan were enrolled in kindergarten and first grade, respectively. Audible speech was measured in the classroom during regular subjects (e.g., English, Irish, mathematics, playtime). Training in social problem-solving skills occurred individually for the sisters in a resource room removed from the classroom. This room contained a table with four chairs, a sofa, and various children’s games and toys. Both sisters were formally diagnosed with selective mutism by a consultant psychiatrist using the diagnostic criteria of the DSM–IV . No assessment of intelligence was available, but both girls were believed to be functioning in the normal range according to their teachers. Neither girl had ever spoken in class, according to teacher reports. The mother reported that the children were vocal at home but were reluctant to speak when in public settings (e.g., grocery store). Deirdre McNally acted as primary therapist and classroom observer. She was a certified teacher who was undergoing postgraduate training in educational psychology. Saoirse and Siobhan’s classroom teachers conducted interobserver reliability checks throughout the study. Sessions normally took place 2 days/week in the mornings. Social problem-solving training sessions and classroom observations lasted approximately 30 minutes each.",
+    "line_count": 24,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.0,
+      408.68878173828125,
+      347.99993896484375,
+      545.5633544921875
+    ],
+    "text": "Training of Therapist and Teachers The therapist was trained by Mark O’Reilly to accurately score the target behavior and implement the training protocol before the study. A series of three 5-minute video vignettes of elementary school classrooms were used to score the target behavior (see target behavior description below). A total of nine student responses (three responses in each video vignette) were scored independently by the therapist and first author (D. M. and M. O., respectively). There were approximately an equal number of audible and inaudible student responses across the vignettes. The therapist and first author observed the video vignettes simultaneously but independently and scored each audible student response. After the observations, the results",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      347.99981689453125,
+      237.19760131835938
+    ],
+    "text": "were compared and discrepancies were discussed. Training continued until there was 100% agreement on all student responses in each of the video vignettes. Mark O’Reilly initially provided the therapist (Deirdre McNally) with a written task analysis of the training procedures. O’Reilly and McNally then role-played the social problem-solving training protocol. The training procedures were modeled by O’Reilly while McNally observed. The therapist then performed the training procedures while O’Reilly acted as a student. Correct therapist responses were followed by verbal praise, and incorrect responses were corrected. This process continued until the therapist performed the training protocol correctly on three consecutive trials. Teachers were given a written description of the target behavior before the study. The therapist then clarified any confusion that the teachers had regarding the target behavior.",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.0,
+      256.3230895996094,
+      347.9949035644531,
+      333.1976013183594
+    ],
+    "text": "Target Behavior Audible vocalizations constituted the target behavior. These were defined as any speech that was recognized by the observer as a word, phrase, or sentence at normal conversational volume in response to a request from the teacher to the student during classroom activities. Correctness of the student response was not evaluated.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.0,
+      352.3230895996094,
+      347.998779296875,
+      525.1976318359375
+    ],
+    "text": "Establishing Verbalizations With the Therapist Before baseline and intervention, it was deemed necessary to establish audible speech with the therapist. Each of the girls met individually with the therapist in a resource room for eight 30-minute sessions over a 5-week period. Highly preferred items such as puzzles, candy, painting materials, and other toys were present in the room. The children’s mother selected these preferred items. For the first two sessions, the girls could gain access to any of these materials by indicating nonverbally to the therapist. At the beginning of the third session, the therapist provided a rationale for speaking in school (e.g., to let people know what you want, to make friends, to answer the teacher properly). The therapist then indicated that they needed to make a verbal request to access the desired items. The girls verbally requested the items during the remainder of the sessions and played comfortably with the therapist.",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.0,
+      71.00594329833984,
+      348.0048828125,
+      183.88046264648438
+    ],
+    "text": "Experimental Design A multiple baseline design across participants was used to demonstrate experimental control (Kazdin, 1982). Participants were randomly assigned to each leg of the design. A baseline condition was implemented until stable performance in the target behavior was observed for both participants. Social problem-solving training was then implemented for Siobhan, and the baseline condition was continued for Saoirse. Once a visible change in the data was evident for Siobhan and baseline data remained stable for Saoirse, the intervention was introduced for Saoirse.",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.0,
+      203.0059814453125,
+      348.0108642578125,
+      543.8804931640625
+    ],
+    "text": "Experimental Procedures At the beginning of each school day, the therapist met with each girl’s teachers. Each teacher identified classroom lessons and five questions that they would ask the student during those lessons for the 30-minute classroom observation later that day. These questions would require Siobhan and Saoirse to perform the target behavior in the presence of the entire class. The therapist then used these lessons and teacher questions to train the social problemsolving procedures to each girl. These training sessions lasted approximately 30 minutes. The lesson plans and the teacher questions used during social problem-solving training varied from day to day. After each social problemsolving training session, the therapist and student returned to the regular classroom. The classroom teacher then implemented the previously agreed-upon lessons and asked the same five questions that were targeted during the previous problem-solving training session. Baseline . Immediately before the baseline condition, the therapist sat at the back of each girl’s class for ten 30-minute periods over 5 weeks. This was done to reduce the reactivity of the students in the classrooms to an outside observer. After this 5-week period, formal baseline observations were conducted. During each baseline probe, the teacher asked five questions related to the curriculum that the student was required to answer in the presence of the entire class. The therapist sat at the back of the classroom for 30 minutes and recorded the target behavior. Social problem-solving training . Each training session began with a rationale for learning to speak audibly in class (to answer your teacher appropriately, to make friends etc.). The therapist then described the classroom lesson that would occur in the student’s classroom immediately after training (e.g., math). The therapist then stated that she and the student",
+    "line_count": 27,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.00091552734375,
+      117.1976089477539
+    ],
+    "text": "would practice five questions about the lesson and that the teacher would ask these questions later in class. The therapist then stated the first question (e.g., “If I had 12 bananas and a monkey ate 7, how many bananas would I have left?”). The therapist modeled the social rules and appropriate",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      131.19760131835938,
+      348.0067443847656,
+      369.1976013183594
+    ],
+    "text": "The therapist and student then role-played the skills, verbalizing the social rules and appropriate response. The therapist delivered verbal praise for each rule and response performed correctly by the student. Student errors or omissions were interrupted and modeled correctly by the therapist. This procedure was repeated for each of the five questions. Immediately after training, the student and therapist returned to the classroom. The protocol in the classroom was identical to baseline conditions. Follow-up probes . The teachers conducted follow-up probes twice per week for 3 months after the removal of the problem-solving intervention. These probes were identical to the classroom probes during baseline. The therapist was not present in the classroom to record the target behavior during follow-up. The teachers reported the results of these probes to the therapist by phone on a weekly basis. No social problem-solving sessions were conducted before these classroom follow-up probes. Reliability checks . Interobserver reliability checks on the target behavior were conducted during all sessions of the baseline and social problem-solving conditions. The therapist and teachers independently recorded the presence or absence of the target behavior in response to each teacher question; [number of agreements/(the number of agreements + disagreements)] × 100%.",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      425.1976013183594,
+      348.0008544921875,
+      543.1976318359375
+    ],
+    "text": "The results of the experiment are presented in Figure 1. The girls were given five opportunities to answer the teacher audibly during each classroom observation session. The data are graphed as the percentage of opportunities performed correctly by the Siobhan and Saoirse during each classroom observation session. Neither of the girls responded to teacher questions during the baseline condition. With the introduction of the intervention for Siobhan, there was an immediate increase in her audible responses to the teacher questions. In fact, Siobhan answered all five questions in the classroom after the first problem-solving session. Her classroom performance was somewhat variable for the next seven sessions.",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      119.1976089477539,
+      149.28900146484375,
+      129.19760131835938
+    ],
+    "text": "response (see Appendix).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.999969482421875,
+      371.1976013183594,
+      192.04794311523438,
+      381.1976013183594
+    ],
+    "text": "Interobserver reliability was 100%.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      179.3394012451172,
+      399.54986572265625,
+      216.6641845703125,
+      411.54986572265625
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      55.71870422363281,
+      84.0963134765625,
+      340.2875671386719,
+      94.0963134765625
+    ],
+    "text": "Percentage of Opportunities Performed Correctly for Siobhan and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      95.20140075683594,
+      96.0963134765625,
+      300.7983703613281,
+      106.0963134765625
+    ],
+    "text": "Saoirse During Classroom Observation Sessions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      152.18319702148438,
+      463.80322265625,
+      257.0711975097656,
+      471.80322265625
+    ],
+    "text": "Classroom Observation Sessions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.0,
+      491.5730895996094,
+      347.9908752441406,
+      501.5730895996094
+    ],
+    "text": "However, from Session 9 onward, she answered all teacher questions",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.0,
+      515.5731201171875,
+      347.99285888671875,
+      549.5731201171875
+    ],
+    "text": "Saoirse showed similar patterns of responding, with no responses during baseline followed by an immediate increase in responding during intervention. A total of 17 classroom observation sessions were conducted with",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.74330139160156,
+      117.24193572998047,
+      109.06028747558594,
+      124.88333129882812
+    ],
+    "text": "Baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      151.51744079589844,
+      117.24193572998047,
+      188.8685760498047,
+      124.88333129882812
+    ],
+    "text": "Intervention",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      57.38219451904297,
+      221.37677001953125,
+      83.96947479248047,
+      380.89599609375
+    ],
+    "text": "Percentage Of Opportunities Performed Correctly -10",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.0,
+      503.5730895996094,
+      173.38299560546875,
+      513.5731201171875
+    ],
+    "text": "during classroom observations.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      180.05270385742188,
+      72.0963134765625,
+      215.9486846923828,
+      82.0963134765625
+    ],
+    "text": "Figure 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      289.06298828125,
+      214.7297821044922,
+      318.1194763183594,
+      223.59388732910156
+    ],
+    "text": "Siobhan",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      294.7170104980469,
+      415.5478210449219,
+      320.81292724609375,
+      424.41192626953125
+    ],
+    "text": "Saoirse",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      201.14846801757812,
+      451.7182922363281,
+      341.4921569824219,
+      458.7182922363281
+    ],
+    "text": "10 11 12 13 14 15 16 17 18 19 20 21",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0058288574219,
+      201.19760131835938
+    ],
+    "text": "Saoirse during the intervention phase. She answered all teacher questions correctly during 12 of these observation sessions. She failed to answer any teacher questions in only 2 of the intervention observation sessions. Follow-up observations by the teachers were equally positive. Teachers reported that Siobhan and Saoirse responded to all questions during classroom sessions. Informal comments from the teachers indicated that the girls were much more responsive and involved in classroom activities. The teachers also indicated that the intervention was very effective, as both of these students had never previously talked in school. Teachers did note, however, that the girls remained withdrawn during unstructured school activities such as recess.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      171.0,
+      219.5498504638672,
+      225.00115966796875,
+      231.5498504638672
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.0,
+      245.19760131835938,
+      348.0028076171875,
+      543.1976318359375
+    ],
+    "text": "The results of this study demonstrate the potential effectiveness of a social problem-solving intervention to successfully treat selective mutism. Both girls had not spoken in class for at least 1 year before treatment. There was an immediate and dramatic change in audible vocalizations once the intervention was implemented, with both children successfully responding to teacher questions in the classroom context. The children continued with high levels of correct responding during the intervention period. Additionally, the girls maintained these skills for up to 3 months after the withdrawal of the intervention according to teacher reports. Our results, although preliminary, are encouraging, as selective mutism is difficult to treat (Kolvin & Fundudis, 1981; Standart & La Couteur, 2003; Stone et al., 2002). These findings add to a growing body of evidence on the effectiveness of social problem-solving interventions to promote acquisition, generalization, and maintenance of appropriate social skills in real-world settings for people with a variety of social deficits (e.g., Foxx & Faw, 1992; O’Reilly, Lancioni, & Kierans, 2000). All previous studies have examined this intervention strategy with either rehabilitation clients or individuals with intellectual disabilities. This is the first known study to utilize a social problem-solving intervention to treat selective mutism. The teachers noted a number of strengths of this problem-solving intervention. First, it was relatively simple to implement and produced quick results. Both girls began verbalizing appropriately in class after the first 30-minute training session. Second, the intervention was relatively unobtrusive. The children were removed from the classroom, and the intervention was conducted individually during brief sessions in a resource room.",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      349.01580810546875,
+      549.1976318359375
+    ],
+    "text": "Some behavioral interventions may include such strategies as the extinction (ignoring) of nonverbal responses and reinforcement of appropriate responses in the classroom. Such public interventions in the presence of the entire class may actually exacerbate these social difficulties, as selective mutism is often associated with social phobia (Black & Uhde, 1992). In fact, we believe that a key component of our intervention was the establishment of a rapport between the therapist and the girls. The play sessions immediately before the intervention were designed not only to elicit vocalizations from the girls but also to establish a comfortable and trusting relationship between the therapist and the girls. In this study, we used a multiple baseline across-participants design to demonstrate a functional relationship between the treatment and change in the target behavior. The intervention was systematically staggered across the two participants. Changes in vocalizations within the classroom occurred only at that point when the intervention was introduced. This relationship between changes in classroom behavior with the introduction of the intervention was replicated across both girls. Such single-case designs are relatively simple yet powerful tools for examining treatment effects (see Kazdin, 1982). These designs are ideal for conducting intervention research with low-incidence populations such as individuals with selective mutism. Although the findings of this research are promising, future research should continue to investigate the effectiveness of social problem-solving strategies in treating selective mutism. For example, it would be instructive to examine whether teachers themselves could adapt this intervention strategy for use in regular classroom contexts. Teachers may be able to meet briefly with children before the beginning of class to role-play questions and answers for the upcoming class period. Such adaptations in treatment protocols may eliminate or at least reduce the level of input from specialist services such as those of school psychologists and resource teachers. Teachers in this study did note that, although the findings were quite positive in the classroom context, there seemed to be little generalization of skills to interactions with peers during unstructured school periods (e.g., recess). Future research may examine strategies to target vocalization across multiple criterion settings. For example, children could practice vocalizations using scenarios from the classroom and from recess. Peer confederates may then be involved to prompt the targeted vocalizations in the recess setting after training. In summary, we examined the use of a social skills problem-solving strategy to teach appropriate vocalizations within classroom settings to two girls with selective mutism. The intervention produced immediate positive",
+    "line_count": 40,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0048828125,
+      141.19760131835938
+    ],
+    "text": "changes in vocalizations with both girls in their respective classrooms. The girls maintained the skills for 3 months after the removal of the intervention. The efficacy of the intervention was systematically evaluated with a multiple baseline across-participants design. These initial findings appear to hold promise for the use of social problem-solving interventions for students with selective mutism.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      173.14599609375,
+      159.5498504638672,
+      222.8548126220703,
+      171.5498504638672
+    ],
+    "text": "Appendix",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      53.26118850708008,
+      176.5502471923828,
+      342.73846435546875,
+      201.5498504638672
+    ],
+    "text": "Examples of Questions and Statements Trained for Decoding, Deciding, Performing, and Evaluating During",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      131.4178924560547,
+      202.5498504638672,
+      264.58544921875,
+      214.5498504638672
+    ],
+    "text": "Problem-Solving Training",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      234.32308959960938,
+      266.29144287109375,
+      446.8695373535156
+    ],
+    "text": "Decoding What’s happening? The teacher has asked me a question. Deciding What should I do? I could ignore and not answer the teacher. I could answer the teacher because I know the right answer. I will answer the teacher. Performing “Five bananas, Miss.” Evaluating What happened when I answered the teacher? She was happy. Did I do the right thing? Yes.",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      170.1313018798828,
+      465.54986572265625,
+      225.86656188964844,
+      477.54986572265625
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.99999237060547,
+      490.72381591796875,
+      347.99951171875,
+      538.7238159179688
+    ],
+    "text": "Amari, A., Slifer, K., Gerson, A., Schenck, E., & Kane, A. (1999). Treating selective mutism in a paediatric rehabilitation patient by altering environmental reinforcement contingencies. Pediatric Rehabilitation, 3 , 59–64. American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      47.99999237060547,
+      71.27704620361328,
+      350.0,
+      549.3580932617188
+    ],
+    "text": "Black, B., & Uhde, T. W. (1992). Elective mutism as a variant of social phobia. Journal of the American Academy of Child and Adolescent Psychiatry, 31 , 1090–1094. Foxx, R. M., & Faw, G. D. (1992). An eight-year follow-up of three social skills training studies. Mental Retardation, 30 , 63–66. Foxx, R. M., Faw, G. D., & Weber, G. (1991). Producing generalization of inpatient adolescents’ social skills with significant adults in a natural environment. Behavior Therapy, 22 , 85–99. Foxx, R. M., Martella, R. C., & Marchand-Martella, N. E. (1989). The acquisition, maintenance, and generalization of problem-solving skills by closed head-injured adults. Behavior Therapy, 20 , 61–76. Gumpel, T. (1994). Social competence and social skills training for persons with mental retardation: An expansion of a behavioral paradigm. Education and Training in Mental Retardation and Developmental Disabilities, 29 , 194–201. Kazdin, A. E. (1982). Single case research designs: Methods for clinical and applied settings. New York: Oxford University Press. Kehle, T., Owen, S., & Cressy, E. (1990). The use of self-modeling as an intervention in school psychology: A case study of an elective mute. School Psychology Review, 19 , 115–121. Kolvin, I., & Fundudis, T. (1981). Electively mute children: Psychological, development and background factors. Journal of Child Psychology and Psychiatry, 22 , 219–233. Kolvin, I., & Goodyer, I. (1982). Child psychiatry. In K. Granville-Grossman (Ed.), Recent advances in clinical psychiatry (pp. 1–24). London: Churchill Livingstone. Krysanski, V. (2003). A brief review of selective mutism literature. The Journal of Psychology, 137 , 29–40. Kumpulainen, K., Rasanen, R., Raaska, H., & Samppi, V. (1998). Selective mutism among second graders in an elementary school. European Child and Adolescent Psychiatry, 7 , 24–29. O’Reilly, M., Cannella, H., Sigafoos, J., & Lancioni, G. (2006). Social and communication skills interventions. In J. Luiselli (Ed.), Antecedent assessment and intervention: Supporting children and adults with developmental disabilities in community settings (pp. 187–206). Baltimore: Paul H. Brookes. O’Reilly, M., & Chadsey-Rusch, J. (1992). Teaching a social skills problem-solving approach to workers with mental retardation: An analysis of generalization. Education and Training in Mental Retardation, 27 , 324–334. O’Reilly, M., & Glynn, D. (1995). Using a process social skills training approach with adolescents with mild intellectual disabilities in a high school setting. Education and Training in Mental Retardation and Developmental Disabilities, 30 , 187–198. O’Reilly, M., Lancioni, G., Gardiner, M., Tiernan, R., & Lacey, C. (2002). Using a problemsolving approach to teach classroom skills to a student with moderate intellectual disabilities within regular classroom settings. International Journal of Disability, Development and Education, 49 , 95–104. O’Reilly, M., Lancioni, G., & Kierans, I. (2000). Teaching leisure social skills to adults with moderate mental retardation: An analysis of acquisition, generalization, and maintenance. Education and Training in Mental Retardation and Developmental Disabilities, 35 , 250-258. O’Reilly, M., Lancioni, G., & O’Kane, N. (2000). Using a problem-solving approach to teach social skills to workers with brain injuries in supported employment settings. Journal of Vocational Rehabilitation, 14 , 187–194. Standart, S., & La Couteur, A. (2003). The quiet child: A literature review of selective mutism. Child and Adolescent Mental Health, 8 , 154–160. Stone, B. P., Kratochwill, T., Sladezcek, I., Serlin, R. C. (2002). Treatment of selective mutism: A best evidence synthesis. School Psychology Quarterly, 17 , 168–190.",
+    "line_count": 48,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      70.03839874267578,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "Behavior Modification",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.0,
+      71.27704620361328,
+      347.9970703125,
+      119.35808563232422
+    ],
+    "text": "Mark O’Reilly is a professor of special education at The University of Texas at Austin. He received his PhD in Special Education from the University of Illinois at Urbana–Champaign in 1992. His research and teaching interests include curriculum and pedagogy for students with autism and developmental disability, assessment and treatment of challenging behavior, and development and evaluation of assistive technology.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.0,
+      133.2770538330078,
+      347.99310302734375,
+      161.35809326171875
+    ],
+    "text": "Deirdre McNally is now an educational psychologist with the Irish Department of Education and Science. She is interested in assessment and intervention strategies to support children with diverse needs in regular classroom settings.",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.0,
+      175.2770538330078,
+      348.00152587890625,
+      223.35809326171875
+    ],
+    "text": "Jeff Sigafoos received his PhD in educational psychology from the University of Minnesota in 1990. His most recent appointment is as professor of education at the University of Tasmania, Tasmania, Australia. He teaches in the area of developmental disabilities and conducts research on communication intervention, use of assistive technology, and assessment and treatment of challenging behaviors in persons with developmental and physical disabilities.",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.99919891357422,
+      237.2770538330078,
+      347.99957275390625,
+      275.35809326171875
+    ],
+    "text": "Giulio E. Lancioni , PhD , is a professor at the Department of Psychology, University of Bari, Bari, Italy. His research interests include the development and evaluation of assistive technologies, social skills training, and strategies for examining and teaching choice and preference with individuals with severe/profound and multiple disabilities.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.99919891357422,
+      289.27703857421875,
+      348.00335693359375,
+      327.35809326171875
+    ],
+    "text": "Vanessa Green received her PhD in 1999 from the Queensland University of Technology, Brisbane, Australia. She is currently a lecturer in education at the University of Tasmania. She teaches in the areas of educational psychology and early childhood education. Her research focuses on developmental and intervention issues in children’s social competence.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.99919891357422,
+      341.27703857421875,
+      348.00103759765625,
+      399.35809326171875
+    ],
+    "text": "Chaturi Edrisinha received her PhD in special education (autism & developmental disabilities) from The University of Texas at Austin in 2006. She is currently on faculty as an assistant professor in the Department of Community Psychology, St. Cloud State University. She teaches classes in principles of behavior analysis and applied behavior analysis. Her area of research is focused on enhancing adaptive and leisure skills for persons with developmental disabilities and addressing challenging behavior.",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.99919891357422,
+      413.27703857421875,
+      347.99713134765625,
+      451.35809326171875
+    ],
+    "text": "Wendy Machalicek is currently pursuing a PhD in special education at The University of Texas at Austin. Her research interests include the assessment and treatment of challenging behavior in persons with intellectual disabilities, the development of social validity measures for treatments, and the use of videoconferencing technology to improve staff development.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      47.99919891357422,
+      465.27703857421875,
+      347.9984130859375,
+      543.3580932617188
+    ],
+    "text": "Audrey Sorrells , PhD, is an associate professor in special education and fellow in the Lee Hage Jamail Regents Chair in Education at The University of Texas at Austin. She has 25 years of experience as a teacher educator and classroom teacher of diverse students with disabilities. She received her PhD in special education and educational leadership at the University of Florida. She is co-editor of Multiple Voices for Ethnically Diverse Exceptional Learners and has published numerous articles, books, and book chapters. Her research includes validating instructional strategies for middle school struggling readers in diverse classrooms, as well as professional development for teachers of diverse students in inclusive settings.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      127.40670013427734,
+      45.35839080810547,
+      325.9613342285156,
+      53.35839080810547
+    ],
+    "text": "O’Reilly et al. / A Social Skills Problem-Solving Intervention",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      48.0,
+      71.27704620361328,
+      348.00115966796875,
+      109.35808563232422
+    ],
+    "text": "Russell Lang is currently a doctoral student at The University of Texas at Austin. He has experience working in the schools as a behavior specialist and is a board-certified behavior analyst. His research interests include the assessment and treatment of challenging behaviors and the use of assistive technology with persons with developmental disabilities.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      48.000003814697266,
+      123.27704620361328,
+      348.0664367675781,
+      171.35809326171875
+    ],
+    "text": "Robert Didden , PhD, is an associate professor at the Department of Special Education at the Radboud University Nijmegen, Nijmegen, the Netherlands. He is also working as a psychologist at Trajectum-Hanzeborg, a center for people with mild intellectual disabilities and severe behavior disorders at Zutphen, the Netherlands. His research interests include challenging behaviors such as developmental disabilities, applied behavior analysis, and sleep disorders.",
+    "line_count": 5,
+    "column": 0
+  }
+]

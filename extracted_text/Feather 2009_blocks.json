@@ -1,0 +1,1582 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      134.77337646484375,
+      491.56549072265625,
+      164.65194702148438
+    ],
+    "text": "Trauma-focused CBT with maltreated children: A clinic-based\nevaluation of a new treatment manual"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      196.05584716796875,
+      335.19293212890625,
+      211.8904571533203
+    ],
+    "text": "JACQUELINE S. FEATHER1 & KEVIN R. RONAN2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.64996337890625,
+      223.9546661376953,
+      543.7969970703125,
+      247.40419006347656
+    ],
+    "text": "1Department of Psychology, AUT University, Auckland, New Zealand and 2Institute of Health and Social Sciences Research,\nDepartment of Behavioural and Social Sciences, CQUniversity Australia, Rockhampton, Queensland, Australia"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      280.1452331542969,
+      543.7929077148438,
+      398.7169494628906
+    ],
+    "text": "Abstract\nThe effectiveness of a locally developed trauma-focused cognitive behavioural therapy (TF-CBT) program for maltreated\nchildren with post-traumatic stress disorder (PTSD) was examined across different therapists in a child protection clinic\nsetting. An earlier phase of the research piloting the program had provided promising results. This second phase involved\ntwo studies evaluating the completed TF-CBT manual delivered by (a) the developer and (b) other therapists. A single-case\nmultiple-baseline design was used to demonstrate the controlling effects of the treatment on PTSD symptoms and child\ncoping. Eight 9–13-year-old abused children with PTSD were treated. Positive outcomes support the effectiveness of the\nTF-CBT program delivered by both the developer and other therapists. The study design and methodology were robust\nenough to conﬁrm empirically the clinically beneﬁcial effects and potential for this new program. It was also apparent,\nhowever, from study limitations, including missing data for some patients, that there are a number of challenges in carrying\nout such research in a busy child protection service setting with multiply-abused patients. This paper considers implications\nand ways forward for engaging in empirically supported practice as well as future development and research."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      409.29608154296875,
+      541.7787475585938,
+      429.7288513183594
+    ],
+    "text": "Key words: Child and adolescent psychopathology, child maltreatment, clinical research, clinical research methods, clinical/\ncounselling psychology, post-traumatic stress disorder."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      461.1972961425781,
+      292.7657470703125,
+      710.2882690429688
+    ],
+    "text": "Recently there has been emerging recognition of the\nneed for evidence-based treatments in the ﬁeld of\nchild maltreatment (Chafﬁn & Friedrich, 2004;\nMacdonald, 2001; Skowron & Reinemann, 2005).\nThis is a relatively new idea for this ﬁeld and is based\non clinical science (Feather, 2004) rather than on\nclinical lore or traditions. The current research takes\nthe view that in order to ensure safe and effective\noutcomes for maltreated children and their families\nin the local clinical setting, local clinical practice is\nbest interwoven with well-supported treatment mod-\nels that have scientiﬁc evidence for proven outcomes.\nThis\narticle\npresents\nstudies\nfrom\na\ntreatment\ndevelopment project designed to develop and eval-\nuate a manualised trauma-focused cognitive beha-\nvioural therapy (TF-CBT) program for maltreated\nchildren diagnosed with post-traumatic stress dis-\norder (PTSD) (Feather & Ronan, 2004). The main\nintention of this project is to develop and evaluate a\nmanualised treatment program that clinicians can\nuse to help maltreated children build skills to manage"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      316.6860046386719,
+      461.19635009765625,
+      543.8382568359375,
+      710.2872924804688
+    ],
+    "text": "their symptoms and process the trauma of abuse,\nwith the support of their parent or caregivers. This\nTF-CBT program builds on efﬁcacious treatments\nfor child anxiety and PTSD as a result of sexual\nabuse.\nInternational child and adolescent treatment out-\ncome research has found CBT to be efﬁcacious for a\nrange of child problems. Efﬁcacy and effectiveness\nstudies support the usefulness of CBT for anxiety\ndisordered children (Barrett, 1998; Barrett, Duffy,\nDadds, & Rapee, 2001; Howard & Kendall, 1996;\nKane & Kendall, 1989; Kendall, 1994; Kendall &\nSoutham-Gerow, 1996), and TF-CBT for children\nwith PTSD as a result of child sexual abuse (Cohen &\nMannarino, 1996, 1997; Deblinger, Lippmann, &\nSteer, 1996; Deblinger, Steer, & Lippmann, 1999;\nKing et al., 2000) and multiple abuse (Cohen,\nDeblinger, Mannarino, & Steer, 2004). CBT ap-\nproaches highlight the importance of a collaborative\ntherapeutic relationship, as well as use of creative\napplications of the model, particularly when working"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      738.5615844726562,
+      543.7706909179688,
+      745.535400390625
+    ],
+    "text": "Correspondence: Dr J. S. Feather, Department of Psychology, AUT University, Private Bag 92006, Auckland, New Zealand. E-mail: jackie.feather@aut.ac.nz"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      310.56494140625,
+      52.43110656738281
+    ],
+    "text": "Australian Psychologist, September 2009; 44(3): 174–194"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      65.650390625,
+      751.6575927734375,
+      345.8716125488281,
+      776.6036376953125
+    ],
+    "text": "ISSN 0005-0067 print/ISSN 1742-9544 online \u0002 The Australian Psychological Society Ltd\nPublished by Taylor & Francis\nDOI: 10.1080/00050060903147083"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.9022521972656,
+      746.1138305664062
+    ],
+    "text": "with children (Kendall et al., 1992). These ideas\nunderpin the aim of the therapist and child (and\nparent/caregivers) working together with a range of\nmodalities to alleviate symptoms and enhance coping\nsuch that the child will think, feel and behave\ndifferently in the present and the future, beyond the\nexperience and effects of abuse (Kendall, 2000).\nDeveloping a treatment for maltreated children\ninvolves special considerations. These include the\nessential need to take a developmental and culturally\ninformed\nperspective,\nand\na\nfamily\nand\nwider\nsystems\napproach\n(Feather,\n2007;\nJackson,\nFrederico, Tanti, & Black, 2009). Child maltreat-\nment almost always affects the relationships that\nchildren have with their family members. In addition,\nmany children who come to the attention of child\nprotection services are placed in care to ensure their\nsafety. Removal from parents may add another layer\nof\ntrauma\nfor\nthese\nchildren,\nand\nnecessitates\nforming new relationships with caregivers as well as\nsocial service professionals. As a consequence, the\nearly part of this treatment program is devoted to\nexploring and strengthening the child’s psychosocial\ncontext as a basis for the later treatment interven-\ntions. Throughout the program, parents and care-\ngivers are included, a choice of child activities is\nprovided to cater for different developmental needs,\nand recommendations are made to ensure that the\napproach is culturally respectful. Abuse-informed\nissues are incorporated in the treatment, as recom-\nmended in practice guidelines (Chadwick Center for\nChildren and Families, 2004; Saunders, Berliner, &\nHanson, 2004). The program is presented in four\nparts, or phases, based on practice wisdom, theory\nand empirically supported treatments.\nThe coping skills phase of the TF-CBT program\nwas based on the ‘‘Coping Cat’’ program for anxiety\ndisordered children developed by a team that included\nthe second author (Kendall et al., 1992; Ronan &\nDeane, 1998; see also Kendall, Kane, Howard, &\nSiqueland, 1990). A key consideration in adapting an\nanxiety-based program to the treatment of PTSD is\nthat many forms of anxiety are about current and\nfuture\nthreat\nwhereas\nPTSD,\nwhile\nan\nanxiety\ndisorder, also has much to do with a past event(s).\nChildren with PTSD are processing trauma and/or its\nsequelae in a way that often involves not only future-\noriented worries but also ongoing and distressing\nreminders (Ehlers & Clark, 2000). Hence, the aim of a\ntreatment program for PTSD needs to be to help\nchildren develop skills to manage their symptoms, and\nto process trauma so that it is seen as a time-limited\npast event(s) that can be managed effectively by the\nchild and their family/caregivers, coupled with a focus\non current and future concerns.\nSupported by the evidence, a CBT approach holds\nthat gradual exposure is an optimal strategy for"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      316.68597412109375,
+      66.66754150390625,
+      543.8272705078125,
+      746.1100463867188
+    ],
+    "text": "reducing PTSD symptoms (Kendall et al., 1992).\nThis can be achieved in a number of ways, including\nusing creative media to create a coherent trauma\nnarrative, and desensitisation to trauma triggers in a\nsafe therapeutic environment (Yule, Smith, & Perrin,\n2005). In particular, sand-play therapy has been\nfound clinically useful for children as a medium for\nprocessing abuse and violence trauma in children\n(Grubbs, 1994; Parson, 1997). In this way, the\ntherapist helps the child to learn that they can\napproach their fears and not experience the feared\nconsequences, leading to an overall reduction in\nanxiety and trauma symptoms in everyday life.\nAs highlighted, a contextual framework is particu-\nlarly important when working with children, adoles-\ncents, and families, particularly where abuse has\noccurred. The CBT model considers a child’s\nthoughts, feelings and behaviours not only in relation\nto speciﬁc situations but also in relation to his or her\nbroader\ncontext\n(Graham,\n2005;\nReinecke,\nDattilio, & Freeman, 2003). That is, the TF-CBT\nprogram is designed to assist the therapist to take\ninto account the ﬁner nuances of antecedents and\nconsequences of the child’s presenting problems, as\nwell as the interactive effects of his or her history and\ndevelopment, family relationships and attachments,\nsocial and cultural context, symptom expression and\nresponse to therapy. The approach assumes that a\ncomprehensive assessment has been carried out prior\nto treatment beginning, and involves an ever-evol-\nving formulation and ongoing consultation with\nparents, caregivers and other professionals.\nIn developing\ntreatments, outcome testing is\nessential. Thus, before dissemination can occur the\nprogram must be evaluated. Being a development\nproject, the current research ﬁrst involved a single-\ncase design, as recommended (Kazdin, 2000; King &\nOllendick, 2006) and used by clinical researchers for\nthe initial testing of a manualised treatment protocol\n(e.g., Girling-Butcher & Ronan, 2009; Kane &\nKendall, 1989; Lees & Ronan, 2008). Single-case\ndesigns have also been recommended as particularly\nuseful for the conduct of research in applied clinical\nsettings in a managed care environment (Morgan &\nMorgan, 2003), and are consistent with a scientist–\npractitioner approach (Feather, 2004).\nThus, a single-case multiple-baseline design across\nparticipants involving both intra- and inter-partici-\npant replications (Hersen & Barlow, 1976) was used\nto demonstrate the effects of the TF-CBT treatment\non\nPTSD\nsymptoms\nand\nchild\ncoping.\nChild\ncomorbid symptoms and parent/caregiver and tea-\ncher views on child functioning were also assessed at\nselected intervals. The research program to date has\nbeen conducted over four studies, designed to build\non each other (Feather, 2007). Each study has\ninvolved four multiply abused children aged 9–15"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      338.9095458984375,
+      42.455631256103516,
+      543.7496337890625,
+      52.42323303222656
+    ],
+    "text": "TF-CBT evaluation with abused children\n175"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.76678466796875,
+      650.473876953125
+    ],
+    "text": "years who met diagnostic criteria for PTSD, and\ntheir\nparent/caregivers.\nThe\nﬁrst\nphase\nof\nthe\nresearch involved the development and piloting of\nthe TF-CBT program. Reported here, the second\nphase of the research was designed to evaluate the\nfully\ndeveloped\nmanualised\nTF-CBT\nprotocol.\nThese evaluations were carried out in a community\nsetting with agency clinicians and typically referred\nchildren.\nTo brieﬂy summarise the ﬁrst phase of the\nresearch, Feather and Ronan (2006) piloted the\nprotocol with four Pakeha/New Zealand European\nchildren, the most commonly referred population\ngroup to the agency. The ﬁndings showed that parti-\ncipants reported an overall reduction in PTSD\nsymptoms and an increase in coping behaviours rela-\nted to speciﬁc abuse and trauma-related concerns,\ncompared to pre-treatment levels. Generally, these\ngains were maintained over follow-up intervals (3\nmonths, 6 months and 12 months). An additional\nstudy by Feather, Ronan, Murupaenga, Berking, and\nCrellin (2009) piloted the protocol across cultures,\nwith two Maori and two Samoan children, represent-\ning the minority cultural groups most often referred\nto this New Zealand agency. The main purpose of\nthat study was to ascertain whether the program could\nbe adapted to be culturally appropriate and meet the\nneeds of these children and families, and result in\neffective outcomes. Participants also showed an overall\nreduction in PTSD symptoms and an increase in\ncoping that was maintained over follow-up intervals\n(Feather et al., 2009). During this initial development\nphase, the senior author delivered the therapy.\nThe purpose of the current phase of the research\nprogram was to evaluate the fully developed TF-\nCBT program across different therapists, all of\nwhom were seeing typically referred patients in a\nspecialist clinic of New Zealand’s statutory child\nprotection agency. Study 1 involved evaluating use of\nthe manualised protocol, with the senior author as\ntherapist. Study 2 involved a replication study,\nevaluating use of the manualised protocol by two\nother agency therapists. In both studies the children\nwere typically referred with multiple abuse histories\nand current PTSD diagnoses, representing a diverse\nrange of cultures. It was expected that participants\nwould show a reduction in PTSD and related\nsymptoms and an increase in coping that would be\nmaintained over follow-up intervals."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.650390625,
+      676.3750610351562,
+      102.56680297851562,
+      686.337646484375
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.650390625,
+      694.3173217773438,
+      113.8404769897461,
+      704.2799072265625
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.650390625,
+      712.2838745117188,
+      292.7089538574219,
+      746.1138305664062
+    ],
+    "text": "Study 1 participants were two boys aged 13 years\n(P1.2, P1.3), and two girls aged 11 (P1.1) and 12\nyears (P1.4). Study 2 participants were two boys"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      316.68597412109375,
+      66.66754150390625,
+      543.8243408203125,
+      578.7543334960938
+    ],
+    "text": "aged 11 (P2.3) and 12 years (P2.2), and two girls\naged 9 (P2.4) and 12 years (P2.1). All children met\nDiagnostic and statistical manual of mental disorders\n(4th ed., DSM-IV) (American Psychiatric Associa-\ntion, 1994) diagnostic criteria for PTSD as the\nprimary diagnosis. All presented with multiple abuse\nhistories, including physical abuse, sexual abuse,\nneglect, emotional abuse, and witnessing domestic\nviolence. Across both studies, the children and\nfamilies involved reﬂected the diverse range of\ncultural backgrounds of children typically referred\nto\nthe\nagency,\nincluding\nPakeha/New\nZealand\nEuropean,\nMaori,\nSamoan,\nEastern\nEuropean,\nNorth African and South American.\nThere were no exclusion criteria speciﬁed expli-\ncitly for the research because all referrals were\nsubject to the agency’s criteria. All children referred\nto the agency were ‘‘open cases’’ with New Zealand’s\nstatutory child protection service. Children typically\npresented with a mixed picture of abuse, trauma,\nchild\nprotection\nand\nchild\nbehaviour\nconcerns.\nChildren who may not have been accepted included\nthose who presented primarily with child mental\nhealth\nconcerns,\nwho\nwere\nmore\nappropriately\nreferred to a child mental health service; or children\nwith primarily a sexual abuse history who may,\naccording to New Zealand statute, be referred for\ncounselling funded by the Accident Compensation\nCorporation. The majority of children and parents/\ncaregivers invited to participate in the research\nagreed. Over all four studies, of the 24 approached,\n22 agreed to take part and 16 ﬁnished the program\n(Feather, 2007). Details on those in Studies 1 and 2\nwho did not ﬁnish are now provided. A 10-year-old\nPakeha girl (Study 1) was withdrawn from the\nsample early in the treatment phase because clinical\njudgement\nindicated\nthat\nshe\nrequired\nanother\ntreatment approach, due to aspects of developmental\ndelay. A 10-year-old Maori girl (Study 2) did not\ncomplete the program due to lack of caregiver\nsupport for therapy. In each study the next child\nreferred to the agency who met research criteria was\nincluded."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      316.68597412109375,
+      598.673583984375,
+      354.08758544921875,
+      608.6361694335938
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      316.68597412109375,
+      616.6400756835938,
+      543.8203125,
+      746.1100463867188
+    ],
+    "text": "A multi-method, multi-informant battery of instru-\nments was used, as recommended by the child\nmaltreatment and child trauma literature (American\nAcademy of Child and Adolescent Psychiatry, 1998;\nMyers et al., 2002). A full battery of self-report\nmeasures, and parent/caregiver and teacher measures\nwas designed to assess the impact and symptomatol-\nogy of child abuse trauma before, after and at 3-\nmonth and 6-month follow-up. All the measures\nselected have known reliability and validity and have\nbeen shown to be sensitive to the effects of treatment."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      65.65037536621094,
+      42.455631256103516,
+      225.92567443847656,
+      52.42323303222656
+    ],
+    "text": "176\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      65.65039825439453,
+      66.67132568359375,
+      292.7319030761719,
+      196.19813537597656
+    ],
+    "text": "The current research was primarily focused on\nanswering questions related to selected instruments\nfrom this battery that tracked ongoing progress. In\nparticular, in keeping with a single-case design and\nscientist–practitioner\nmodel\nof\nservice\ndelivery\n(Feather, 2004; Kazdin & Nock, 2003), the con-\ntinuous\nself-report\nmeasures\ncompleted\nby\nthe\nchildren that tracked changes in PTSD symptoms\n(Children’s Post-Traumatic Stress Reaction Index\n[CPTS-RI]) and self-identiﬁed coping factors (Cop-\ning Questionnaire [CQ]) were of particular interest."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      65.650390625,
+      210.15972900390625,
+      292.7757568359375,
+      363.553955078125
+    ],
+    "text": "Anxiety Disorders Interview Schedule for Children.\nThe\nAnxiety Disorders Interview Schedule for Children\n(ADIS) (Silverman & Albano, 1996) is a structured\nclinical interview administered to children, with a\nparallel version for parents. Revisions have ensured\nthat it is compatible with the DSM-IV and can be\nused for diagnostic purposes (Silverman, 1994). The\nADIS has been used extensively by childhood\nanxiety researchers due to its high reliability and\nuser-friendly structure, which enhances rapport and\nenables in-depth gathering of information on the\nchild’s historical and current functioning (Ronan,\n1996)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      65.650390625,
+      377.5155334472656,
+      292.7757568359375,
+      483.4620361328125
+    ],
+    "text": "Children’s Post-traumatic Stress Reaction Index.\nThe\nCPTS-RI (Frederick, Pynoos, & Nader, 1992) is a\n20-item measure rated on a 5-point Likert scale\n(scored 0–4) that assesses the features and symptoms\nof PTSD in children. Widely used in research, it can\nbe administered in a self-report or interview format.\nScores can range from 0 to 60, with a cut-off of 12þ\nindicating a mild PTSD reaction; 25þ a moderate\nPTSD reaction; and 40þ a severe PTSD reaction."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      65.6513671875,
+      497.0797119140625,
+      292.7497863769531,
+      614.6443481445312
+    ],
+    "text": "State Trait Anxiety Inventory for Children.\nThe State\nTrait\nAnxiety\nInventory\nfor\nChildren\n(STAIC)\n(Spielberger, 1973) measures both acute (state) and\nchronic (trait) anxiety in children aged 9–12 years.\nEach scale has 20 items rated on a 3-point Likert\nscale (scored 1, 2, or 3). The Trait scale is treatment\nsensitive and can be used to measure the effective-\nness of clinical procedures designed to reduce\nanxiety in children. Scores can range from 20 to\n60, with higher scores indicating greater anxiety."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      65.6513671875,
+      628.60595703125,
+      292.76873779296875,
+      746.1138305664062
+    ],
+    "text": "Children’s Depression Inventory.\nThe Children’s De-\npression Inventory (CDI) (Kovacs, 1981) assesses\naffective, behavioural and cognitive signs of depres-\nsion. It has 27 items. Each item has three choices\n(scored 0, 1, or 2), each of which characterises the\nchild over the previous 2 weeks. It is designed to\nmeasure the severity of depressive symptoms in\nchildren and adolescents aged 8–17 years. Scores\ncan range from 0 to 54, with higher scores indicating\ngreater severity."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68695068359375,
+      66.66754150390625,
+      543.8055419921875,
+      172.27516174316406
+    ],
+    "text": "Coping Questionnaire.\nThe CQ-C (Kendall et al.,\n1992) measures the self-perceived coping ability of a\nchild in speciﬁc anxiety-provoking situations. The\nthree situations most distressing for the child are\nidentiﬁed during the assessment interviews and are\nlisted on the CQ-C and rated each week by the child\non a 7-point Likert scale ranging from not at all able to\nhelp myself (1) to completely able to help myself feel\ncomfortable (7)."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68792724609375,
+      186.23175048828125,
+      543.8062744140625,
+      351.6448669433594
+    ],
+    "text": "Child Behaviour Checklist/4-18–Parent Form.\nThe\nChild\nBehaviour\nChecklist/4-18–Parent\nForm\n(CBCL) (Achenbach, 1991a) measures parent/care-\ngiver\nreports\nof\nchild\ncompetencies,\nemotional\nfunctioning and behaviour problems in a standar-\ndised format. Two sections measure (a) social\ncompetencies, assessing the child’s participation in\nareas such as sports, hobbies, and social interactions,\nand (b) problematic behaviours, consisting of 118\nproblem items rated on a 3-point scale (scored 0, 1,\nor 2). The problem item raw scores are recorded on a\nscoring proﬁle, which provides percentile and T\nscores based on norms for each sex in each age\nrange, presented in a series of problem scales."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68792724609375,
+      365.5496520996094,
+      543.79931640625,
+      459.1901550292969
+    ],
+    "text": "Child Behaviour Checklist–Teacher Report Form.\nThe\nChild Behaviour Checklist–Teacher Report Form\n(TRF) (Achenbach, 1991b) is used to assess child\nproblems and competencies in the realm of social/\nemotional functioning at school. It mirrors the\nparent version of the CBCL and provides teacher\nratings of the child’s academic performance, adaptive\nfunctioning, and behavioural/emotional problems."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68792724609375,
+      479.1661682128906,
+      379.5788879394531,
+      489.1287841796875
+    ],
+    "text": "Research design"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      316.68792724609375,
+      497.0758972167969,
+      543.8331909179688,
+      746.1100463867188
+    ],
+    "text": "A single-case multiple-baseline across participants\ninvolving intra- and inter-participant replications\n(Hersen & Barlow, 1976) was used to demonstrate\nthe\ncontrolling\neffects\nof\ntreatment\non\nPTSD\nsymptoms and child coping. Repeated measures\nwere used to assess child comorbid symptoms and\nparent/caregiver and teacher views on child function-\ning. In each study, the four participants were ran-\ndomly assigned to a baseline of 3, 5, 7, or 9 weeks at\nintake. Continuous (weekly) measures were com-\npleted throughout the baseline and treatment phases.\nAs in the ﬁrst two studies (Feather & Ronan, 2006;\nFeather et al., 2009), a non-concurrent design ele-\nment was used (Hayes, 1981; Watson & Workman,\n1981). This adjusts and relaxes the need for parti-\ncipants to begin assessment concurrently. It allows\nfor using data across several participants seen at\ndifferent times. Consistent with a multiple-baseline\ndesign, it is intended to exploit baseline intervals of\nvariable duration. Multiple-baseline designs them-\nselves are intended to provide experimental evidence"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      338.9114990234375,
+      42.455631256103516,
+      543.7515869140625,
+      52.42323303222656
+    ],
+    "text": "TF-CBT evaluation with abused children\n177"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.65039825439453,
+      66.67132568359375,
+      292.88641357421875,
+      244.04652404785156
+    ],
+    "text": "for intervention effects and to reduce the possibility that\nchange occurs as a function of other processes,\nincluding placebo effects linked to both assessment\nand intervention (Blampied, 1999; Kazdin, 2003). The\ncriterion of course is successive replications across the\nvariable of interest (i.e., in these studies, across parti-\ncipants). To be more speciﬁc, one quite speciﬁc aim of\nthe current study was to assess for change in PTSD\nsymptoms and coping ability as a function of the\nintroduction of treatment compared to variable base-\nline conditions. In addition to the evaluation of the\nimpact of phased treatment elements, this design,\nthrough its use of ongoing assessment, can also account\nfor any documented external events (Kazdin & Nock,\n2003)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.65039825439453,
+      263.96575927734375,
+      104.4168701171875,
+      273.9283752441406
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.650390625,
+      281.87548828125,
+      292.768798828125,
+      662.4359130859375
+    ],
+    "text": "Following referral, an assessment interview with a\ntrained independent assessor was scheduled with the\nchild and parent/caregiver. If the child met diagnos-\ntic criteria for PTSD, informed consent from the\nchild and legally responsible adult(s) was sought.\nThe full battery of assessment measures was com-\npleted with the child, parent/caregiver and teacher.\nThe child was randomly assigned to a baseline\nduration of 3, 5, 7 or 9 weeks. The child completed\nthe weekly measures of the short assessment battery\n(CPTS-RI and CQ) during the baseline period and\nduring treatment. The full battery was administered\nagain after treatment and at 3-month and 6-month\nfollow-up points. The ADIS was not re-administered\nafter treatment or at follow-up, due to the length of\ntime\nit\ntook\nto\nadminister\nand\nthe\nextent\nof\nassessment demands that had already been made\non the participants. As per the informed consent\nagreement, if the child did not wish to complete\nmeasures at any time this was respected. If there had\nbeen concerns that the research constraints would\nimpact on safety, clinical concerns would have been\nprioritised.\nFor Study 1, therapy was provided by the senior\nauthor (a developer of the program), then a doctoral\ncandidate, and an experienced child and family\nclinician. For Study 2, therapy was provided by two\nclinic staff who were trained in using the manualised\nTF-CBT program by the senior author. The assess-\nments were administered by a trained and indepen-\ndent assessor, a postgraduate clinical psychology\nstudent, except when she was not available."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.650390625,
+      682.4119873046875,
+      141.2057342529297,
+      692.3745727539062
+    ],
+    "text": "Treatment manual"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.650390625,
+      700.3217163085938,
+      292.7627258300781,
+      746.11376953125
+    ],
+    "text": "The TF-CBT treatment program is set out in a 16-\nsession format, with regular scheduled parent/care-\ngiver sessions (Feather & Ronan, 2004). For a fuller\ndescription, see also the pilot study report (Feather &"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      66.66748046875,
+      543.8123168945312,
+      339.6827087402344
+    ],
+    "text": "Ronan, 2006). The manual is designed to be ﬂexible\nto cater for the range of issues that may present, and\nto be adapted to different cultural contexts and\ndevelopmental stages. To summarise the approach\nhere, the treatment is phased, with each phase\nemphasising important elements identiﬁed in the\nliterature, complemented with aspects from local\nclinical practice. Phase 1 focuses on relationship and\ncontextual\nfactors,\nin\nparticular,\npsychosocial\nstrengthening and social support. Phase 2 is derived\nfrom the CBT program for anxiety disordered\nchildren developed by Kendall et al. (1990), and\nhelps the child develop coping skills based on a four-\nstep coping template, ‘‘The STAR Plan’’. Phase 3 is\nbased on a gradual exposure procedure for proces-\nsing and resolving trauma, derived from behavioural,\ncognitive and expressive therapy models adapted for\nchildren (Macdonald, Lambie, & Simmonds, 1995;\nYule, Smith, & Perrin, 2005). Phase 4 provides a\ntransition to life beyond therapy; any issues that are\nso far unresolved are addressed and relapse preven-\ntion is covered. Booster sessions are offered if\nrequired."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      359.57440185546875,
+      351.4096374511719,
+      369.5369873046875
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      377.51165771484375,
+      543.7824096679688,
+      399.4363708496094
+    ],
+    "text": "The results of Study 1 and Study 2, comprising the\nsecond phase of the research program are presented."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      419.3555908203125,
+      376.3580322265625,
+      429.3182067871094
+    ],
+    "text": "Study 1 results"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      437.3221130371094,
+      543.822265625,
+      566.7920532226562
+    ],
+    "text": "Treatment ﬁdelity.\nA senior clinical psychologist\n(and experienced cognitive behavioural therapist)\nindependent from the current research reviewed\n13% of randomly selected audiotapes of treatment\nsessions with the two children who consented to this\nprocedure, in accordance with recommendations\nthat an acceptable practice is to use three sessions\nper patient (Waltz, Addis, Koerner, & Jacobson,\n1993). Adherence to treatment content and session\ngoals was rated 100% for delivery, and no alternate\ntreatment strategies were identiﬁed."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      316.68597412109375,
+      580.753662109375,
+      543.8212280273438,
+      746.1099243164062
+    ],
+    "text": "Variations from research design.\nThe assessments for\nStudy 1 participants were conducted by a trained\nevaluator not involved in the treatment. Owing to the\nassessor leaving the agency, however, the researcher\n(and\nsenior\nauthor)\ncarried\nout\nthe\nfollow-up\nassessments.\nIt was planned that the baseline data would be\ncollected weekly for 3, 5, 7, and 9 weeks. As found in\nthe previous two studies, participants experienced\nunforeseen delays between the initial assessment and\nplanned treatment commencement for a range of\nreasons, including placement changes, caregiver\nunavailability, and transport difﬁculties (total weeks\non baseline: P1.1, 7; P1.2, 9; P1.3, 14; P1.4, 17). In"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      65.65037536621094,
+      42.455509185791016,
+      225.92567443847656,
+      52.42311096191406
+    ],
+    "text": "178\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      65.65039825439453,
+      66.67132568359375,
+      292.7707214355469,
+      136.4444122314453
+    ],
+    "text": "addition, three children failed to return some base-\nline measures (P1.2, 2; P1.3, 2; P1.4, 4). The\nbaseline data reported here are those of the measures\nreturned over the prescribed baseline period (in\norder of the dates recorded on the coversheets, and\nnot necessarily representing consecutive weeks)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      65.650390625,
+      150.4110107421875,
+      292.7637634277344,
+      435.3265380859375
+    ],
+    "text": "Length of treatment, booster sessions, and follow-up\ndata.\nThe 16-session TF-CBT program was deliv-\nered ﬂexibly, as described in the manual. Number of\ntreatment sessions varied from 11 to 17, and length\nof treatment ranged from 15 to 33 weeks (P1.1, 17\nsessions, 33 weeks; P1.2, 11 sessions, 15 weeks;\nP1.3, 15 sessions, 25 weeks; P1.4, 16 sessions, 18\nweeks). The differential treatment requirements of\nparticipants are explained in following sections.\nDuration of treatment was primarily affected by\nplacement changes and caregiver availability.\nBooster sessions were requested for one child by\nher social worker periodically over the 9 months\nfollowing the completion of the 16-session program\n(P1.1; 16 additional sessions, 33 in total). Coping\nskills were reviewed and reinforced to address issues\nrelated to changes in placement and contact with\nfamily.\nFollow-up data were available for two participants\nat 3 and 6 months (P1.1, P1.3), and one participant\nat 3 months only (P1.4). Following discharge from\nchild protection involvement, P1.4 was not able to be\nlocated at 6 months, and P1.2 did not consent to\ncomplete follow-up measures."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      65.650390625,
+      449.2313232421875,
+      292.7597351074219,
+      614.6443481445312
+    ],
+    "text": "Caregiver involvement.\nCaregiver involvement var-\nied depending on individual circumstances. Due to\nrepeated changes of caregiver, continued caregiver\ninvolvement for one child (P1.1) was not possible. In\nthe case of the two adolescent boys (P1.2, P1.4),\ntheir respective non-offending parents had issues\nof their own related to the abuse. This was resolved\nby referring each parent to an agency therapist to\nenable them to address their own issues concur-\nrently. The parent/caregiver elements of the TF-\nCBT program were covered ﬂexibly by the child\ntherapist and the parent therapist, as appropriate.\nP1.3’s caregiver brought her to each session, and\nparticipated fully in the program as prescribed."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      65.650390625,
+      628.60595703125,
+      292.7568054199219,
+      746.1138305664062
+    ],
+    "text": "Child reports: Continuous measures.\nThe overall mean\nresults of the child self-report measures that tracked\nchanges in PTSD symptoms (CPTS-RI) and self-\nidentiﬁed coping factors (CQ) of particular interest\nto this research are presented in Figures 1, 2.\nFigure 1 shows that the level of PTSD symptoms\nof Study 1 participants decreased with treatment,\nand\nfor\nthree\nparticipants\nwith\ndata\navailable,\ndecreased further over a 6-month follow-up period.\nThe overall average self-reported CPTS-RI score for"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      316.68292236328125,
+      66.66754150390625,
+      543.8114013671875,
+      315.7585754394531
+    ],
+    "text": "the four children was in the upper mild range during\nbaseline (M ¼ 22.6, SD ¼ 12.0), just below clinical\nlevels over the treatment phase (M ¼ 9.4, SD ¼ 9.5),\nand well below clinical levels at follow-up (M ¼ 3.5,\nSD ¼ 3.3). Figure 2 shows that Study 1 participants’\noverall level of coping increased with treatment and\nincreased further over the following 6 months for\nthree participants. The children’s\nmean coping\nscores (averaged across the four participants’ three\nself-identiﬁed target concerns; CQ1, CQ2, CQ3)\nincreased from 4.5 (SD ¼ 1.3) during the baseline\nphase, to 5.7 (SD ¼ 0.8) over treatment; and 6.3\n(SD ¼ 0.8) over follow-up for three participants.\nFigure 3 presents the weekly level of PTSD\nsymptoms on the CPTS-RI for each of the four\nparticipants\nacross\nthe\nbaseline,\ntreatment\nand\nfollow-up phases. Study 1 participants generally\nshowed a downward trend in PTSD symptoms over\nthe three phases, with gains maintained at follow-up.\nThe\nresults\nof\neach\nphase\nare\nanalysed\nmore\nspeciﬁcally\nusing\nvisual\ninspection,\nquantitative,"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      316.6866149902344,
+      501.3697509765625,
+      543.8430786132812,
+      539.2989501953125
+    ],
+    "text": "Figure 1. Study 1: changes in mean level of post-traumatic\nstress disorder (PTSD) symptoms (average of Children’s Post-\nTraumatic Stress Reaction Index [CPTS-RI] scores for all four\nparticipants). {Three children, ﬁve data points."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      316.6866149902344,
+      717.7665405273438,
+      543.8596801757812,
+      745.7177734375
+    ],
+    "text": "Figure 2. Study 2: changes in mean level of child self-reported\ncoping (average of Coping Questionnaire [CQ] scores for all four\nparticipants). {Three children, ﬁve data points."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      338.9101867675781,
+      42.463504791259766,
+      543.750244140625,
+      52.43110656738281
+    ],
+    "text": "TF-CBT evaluation with abused children\n179"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      65.650390625,
+      664.4412841796875,
+      292.747802734375,
+      746.1196899414062
+    ],
+    "text": "and qualitative data, as recommended in the single-\ncase literature (Kazdin, 1982).\nA stable baseline demonstrates little variability and\nan absence of slope. For the CPTS-RI, the individual\nbaseline ranges and variability were 33–53 (25%), 8–\n13 (6.3%), 11–27 (20%), and 2–26 (30%), for P1.1,\nP1.2, P1.3, and P1.4 respectively. Although no"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      316.68597412109375,
+      664.4412841796875,
+      543.7942504882812,
+      746.1196899414062
+    ],
+    "text": "participant exceeded the 50% level recommended\nfor\nsingle-case\nmethodology\nin\napplied\nclinical\nresearch (Kazdin, 2003), three participants (P1.1,\nP1.2, P1.4) showed a downward trend in CPTS-RI\nscores following the initial assessment. While P1.1\nrecorded a reduction in PTSD symptoms following\nthe initial assessment, her baseline scores stabilised at"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      65.65039825439453,
+      619.4610595703125,
+      543.8904418945312,
+      637.4091186523438
+    ],
+    "text": "Figure 3. Study 1: changes in post-traumatic stress disorder (PTSD) symptoms (Children’s Post-Traumatic Stress Reaction Index [CPTS-\nRI] scores)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "180\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.7727966308594,
+      746.1138305664062
+    ],
+    "text": "moderate levels, warranting TF-CBT intervention.\nConversely, the baseline data for P1.2 and P1.4\ndropped below clinical levels, and called into ques-\ntion the need for trauma-focused treatment. These\nresults are discussed with reference to clinical aspects.\nThe baseline results for P1.2 show CPTS-RI\nscores in the mild range, although re-experiencing,\navoidance, and hyper-arousal symptoms at initial\nassessment were reported, and collateral data con-\nﬁrmed sufﬁcient symptoms at levels warranting a\nPTSD diagnosis. Notably, as part of the forensic\ninterviewing process, P1.2 had already given an\naccount of the serious domestic violence he had\nwitnessed.\nThis\nprocess\nappears\nto\nhave\nbeen\ntherapeutic, functioning as exposure. In addition,\nP1.2 underwent preparation for court during the\nbaseline phase. Due to his involvement in these\nactivities, P1.2 expressed an initial reluctance to\nattend therapy, possibly contributing to underre-\nsponding. His mother, however, continued to be\nconcerned about his wellbeing and behaviour. Given\nthese clinical concerns, a decision was made to\ncommence treatment with Phase 1 and 2 of the TF-\nCBT\nprogram,\nand\nreassess\nthe\nneed\nfor\nthe\nexposure phase for treating PTSD.\nP1.4 recorded a moderate CPTS-RI score at initial\nassessment. During the ADIS-C interview he made\nsigniﬁcant new disclosures to the assessor about past\nsexual abuse. A number of factors are likely to have\ncontributed to a subsequent drop in PTSD symp-\ntoms during the baseline phase. As noted, the\nprocess\nof\ndisclosure\ncan\nbe\ntherapeutic.\nThe\ndisclosures necessitated the development of a re-\nlationship with P1.4 by the assessor to ensure his\nsafety, according to agency protocol. Notably, P1.4\nwas\nSamoan.\nThe\nsalience\nof\nthe\ntherapeutic\nrelationship\nfor\nSamoan\nchildren\nand\nensuing\nsymptom reduction was noted in the cultural pilot\nstudy (Feather et al., 2009). Consultation with\ncaregiving adults and overall clinical concerns led\nto a decision to commence treatment with Phase 1\nand 2 of the TF-CBT program, and reassess the\nneed for the exposure phase for treating PTSD.\nVisual inspection of the CPTS-RI scores over the\ntreatment phase indicates a similar pattern of a\ngradual reduction and maintenance of symptoms to\nbelow clinical levels for all but one participant, who\nshowed an initial rise in symptoms, followed by a\nreduction (P1.1).\nClinical observations provide a fuller picture of the\ndata\nas\nfollows.\nP1.1\nexperienced\na\ntraumatic\nplacement breakdown in the early weeks of therapy.\nShe was subsequently placed in a safe, supportive\ncaregiving environment.\nDuring treatment, P1.2’s CPTS-RI scores re-\nmained below clinical levels throughout the psycho-\nsocial strengthening and coping skills phases of the"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      316.68597412109375,
+      66.66754150390625,
+      543.822265625,
+      746.1100463867188
+    ],
+    "text": "program. Given that he was no longer reporting\nPTSD symptoms, and collateral reports indicated\nthat the other clinical concerns had abated, a\ndecision was made to exclude the exposure phase\nand complete treatment after Phase 2 with relapse\nprevention.\nSimilar to P1.2, P1.4’s CPTS-RI scores remained\nbelow clinical levels throughout the treatment phase.\nIt was agreed that P1.4 would work through salient\nincidents of maltreatment he had experienced using\nthe trauma processing modalities available, even\nthough his PTSD symptoms had abated. Follow-up\nCPTS-RI results show that PTSD symptoms re-\nmained below clinical levels for the participants for\nwhom data was available at 3-month (P1.1, P1.3,\nP1.4) and 6-month (P1.1, P1.3) assessment points.\nFigure 4 presents each child’s self-reported coping\nover the baseline, treatment and follow-up phases, as\nmeasured on the CQ. The baseline data for the CQ\nscores is relatively stable in terms of variability and\ntrend. Overall, child coping showed a gradual\nupward trend over the treatment phase and was\nmaintained at overall higher levels at 3- and 6-month\nfollow-up for the participants for whom data were\navailable.\nIndividual baseline ranges and variability on the\nCQ were 4.0–4.0 (0%), 3.8–5.3 (21%), 3.0–4.3\n(19%), and 5.7–7.0 (19%) for P1.1, P1.2, P1.3,\nP1.4, respectively, all within acceptable limits for\nsingle-case research. Two participants had a stable or\nslightly downward trend (P1.1, P1.3), while P1.2 had\nan initial downward trend, spiking upwards prior to\ntreatment commencing, and P1.4 had a gradual\nupward trend over the baseline phase, indicating an\nincrease in coping. These results correspond to\nthose presented for the CPTS-RI. That is, those\nparticipants who recorded a decrease in PTSD\nsymptoms over baseline, showed a related increase\nin coping.\nThe graphed results during the therapy phase\nreﬂect individual patterns of response to treatment.\nThe individual results for P1.1 show an increase in\ncoping linked with the beginning therapy and a slight\nincrease over the psychosocial phase of treatment.\nShe recorded a marked drop just prior to the coping\nskills phase, related to an incident of stealing. Her\ncoping resumed throughout the coping skills train-\ning, and increased markedly during the gradual\nexposure phase, when she worked through early\ntraumatic experiences. P1.1’s coping was maintained\nat high levels, with a slight drop associated with\nending\ntherapy,\nas\ncan\nsometimes\nhappen\nfor\nchildren\nas they anticipate\ncoping\nwithout\nthe\nsupport of therapy.\nFor P1.2, the beginning of treatment coincided\nwith being called to court as a witness. This was, of\ncourse, the focus of therapy at the outset, ﬂexibly"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      338.9095458984375,
+      42.455631256103516,
+      543.7496337890625,
+      52.42323303222656
+    ],
+    "text": "TF-CBT evaluation with abused children\n181"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      65.65039825439453,
+      664.4412841796875,
+      292.76776123046875,
+      746.1196899414062
+    ],
+    "text": "utilising TF-CBT program elements as required to\nassist the young person to cope with this process.\nThe results show that\nP1.2’s coping gradually\nincreased and was maintained at high levels by the\nend of therapy. The exposure component was not\nnecessary, and treatment was concluded with relapse\nprevention."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      316.6860046386719,
+      664.4412841796875,
+      543.7994384765625,
+      746.1196899414062
+    ],
+    "text": "P1.3’s coping increased at the outset of treatment\ncompared with baseline levels. Her coping was\nmaintained at high levels with minor ﬂuctuations\nover the ﬁrst two phases of treatment, and continued\nto gradually increase over the exposure phase.\nP1.4’s coping showed a slight drop at the outset of\ntreatment, but maintained stability at a high level"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      73.36060333251953,
+      633.5209350585938,
+      536.0960693359375,
+      641.7662963867188
+    ],
+    "text": "Figure 4. Study 1: Changes in child reported coping skills (average of scores for three target concerns). CQ ¼ Coping Questionnaire."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "182\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.7667541503906,
+      148.40650939941406
+    ],
+    "text": "throughout Phases 1–3, with an increase in coping to\nmaximum levels by the end of treatment.\nThe follow-up CQ results for three participants\nindicate that self-reported coping was maintained\n(P1.4), or dropped slightly (P1.1, P1.3), at 3 months;\nand for two participants, either continued to increase\n(P1.1) or maintained at a similar level (P1.3)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.64640808105469,
+      162.311279296875,
+      292.7707214355469,
+      411.40228271484375
+    ],
+    "text": "Child reports: Repeated measures.\nChild self-report\nscores related to target concerns and comorbid pro-\nblems are presented in Table 1. These data ﬁll out\nthe symptomatology picture for the participants at\npre- and post-treatment and follow-up assessment\npoints.\nAt pre-treatment assessment the mean CPTS-RI\nscore was in the moderate range (M ¼ 29.5). One\nparticipant recorded a score above clinical cut-off for\nsevere PTSD (P1.1), two for moderate PTSD (P1.3,\nP1.4), and one for mild PTSD (P1.2). At post-\ntreatment assessment all participants scored below\nclinical cut-off (range ¼ 4–8, M ¼ 5.5), with treat-\nment gains maintained at 3-month follow-up for\nthree participants (P1.1, P1.3, P1.4; range ¼ 0–8,\nM ¼ 6.0), and 6 months for two participants (P1.1,\nP1.3; range ¼ 2–7, M ¼ 4.5).\nThe mean CQ score for all four participants\nincreased from before treatment (M ¼ 4.3, on a scale\nof 1–7) to after treatment (M ¼ 6.3). For participants\nfor whom data were available, mean CQ was"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      316.6809997558594,
+      66.66943359375,
+      543.7964477539062,
+      411.40045166015625
+    ],
+    "text": "maintained at 3-month (M ¼ 6.1), and 6-month\n(M ¼ 6.2) follow-up assessment points.\nScores on the STAIC-T show that trait anxiety\nwas within the normal range for all four participants\nat initial assessment, reduced further at post-treat-\nment assessment, and was maintained at similar\nlevels at follow-up for each of the three participants\nfor whom data were available.\nCDI\nscores\nwere\nbelow\nclinical\ncut-offs\nfor\ndepression for all participants at all assessment\npoints. Three participants had a reduction in scores\nat post-treatment assessment compared to pre-\ntreatment assessment (P1.1, P1.2, P1.4), and one\nparticipant maintained scores at a similar low level\n(P1.3). Available follow-up data indicated that CDI\nscores were maintained at similar levels to post-\ntreatment assessment at 3 months (P1.1, P1.3. P1.4)\nand 6 months (P1.1, P1.3).\nThe opportunity for children to provide subjective\nfeedback on their experience of participation in the\nprogram was provided throughout the study. The\nfeedback provided by P1.1 is reported here, as an\nexample. At the outset of treatment, P1.1 noted that\nshe would like help with ‘‘Being less upset, coping\nwith school, coping at home’’. At 3-month follow-\nup, P1.1 reported, ‘‘I’m more calm, less ﬁdgety. I’m\nmore easier to talk with. I lie and steal less. I am able\nto stop myself from lying and stealing and I think of\nthe consequences’’."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.65039825439453,
+      440.2548522949219,
+      395.01019287109375,
+      448.22503662109375
+    ],
+    "text": "Table 1. Study 1: Child report scores on repeated measures of target and comorbid symptoms"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.65039825439453,
+      478.12603759765625,
+      198.00833129882812,
+      486.0962219238281
+    ],
+    "text": "Measure\nParticipant"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      351.9503173828125,
+      459.0772705078125,
+      415.48956298828125,
+      467.0474548339844
+    ],
+    "text": "Assessment points"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      223.88035583496094,
+      478.12603759765625,
+      543.8807983398438,
+      486.0962219238281
+    ],
+    "text": "Before treatment\nAfter treatment\n3-month follow-up\n6-month follow-up"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.6492919921875,
+      497.1748046875,
+      518.712158203125,
+      694.3672485351562
+    ],
+    "text": "CQ (Mean)\nP1.1\n4.0\n6.0\n5.3\n7.0\nP1.2\n4.3\n6.0\n–\n–\nP1.3\n3.3\n6.3\n6.0\n5.3\nP1.4\n5.7\n7.0\n7.0\n–\nMean\n4.3\n6.3\n6.1\n6.2\nCPTS-RI (Total)\nP1.1\n53{\n5\n4\n2\nP1.2\n13\n5\n–\n–\nP1.3\n26{\n8\n8\n7\nP1.4\n26{\n4\n0\n–\nMean\n29.5\n5.5\n6.0\n4.5\nSTAIC-T (T score)\nP1.1\n58\n48\n46\n41\nP1.2\n35\n21\n–\n–\nP1.3\n38\n25\n25\n27\nP1.4\n44\n24\n27\n–\nMean\n43.8\n29.8\n32.7\n34.0\nCDI (T score)\nP1.1\n57\n44\n47\n44\nP1.2\n44\n37\n–\n–\nP1.3\n36\n38\n36\n36\nP1.4\n48\n44\n46\n–\nMean\n46.3\n40.1\n43.0\n40.0"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      65.64907836914062,
+      707.4484252929688,
+      543.857421875,
+      745.5709838867188
+    ],
+    "text": "Notes. CDI ¼ Child Depression Inventory; CPTS-RI ¼ Child Post-traumatic Stress Reaction Index; CQ ¼ Coping Questionnaire; PTSD,\npost-traumatic stress disorder; STAIC-T ¼ State Trait Anxiety Inventory for Children–Trait.\n{Clinical cut-off for moderate PTSD, CPTS-RI \u000225; {Severe PTSD, CPTS-RI \u000240. – ¼ data not returned or incomplete.\nBold ¼ mean scores."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      338.9101867675781,
+      42.463504791259766,
+      543.750244140625,
+      52.43110656738281
+    ],
+    "text": "TF-CBT evaluation with abused children\n183"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65093994140625,
+      66.67132568359375,
+      292.66168212890625,
+      88.59602355957031
+    ],
+    "text": "With regard to program elements, P1.1 reported\nthat the following had been particularly helpful:"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      75.57170104980469,
+      105.32907104492188,
+      292.7445068359375,
+      158.11819458007812
+    ],
+    "text": "The relaxation thingies – the breathing. I use it whenever I’m\nangry. The fact that there’s help. Sand trays – being able to\nexpress my feelings so I don’t have to keep it in me any more,\nso someone else knows. The STAR Plan – helped when it was\nneeded – would probably still use it if I really needed to."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65039825439453,
+      174.27447509765625,
+      292.7369079589844,
+      232.08546447753906
+    ],
+    "text": "The only aspect P1.1 identiﬁed that had not been\nhelpful was the timing of therapy, which meant she\nhad missed out on school. When asked what she\nthought had helped the most, P1.1 stated, ‘‘All of it.\nMy attitude has changed – I’m more calm.’’"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65039825439453,
+      246.04705810546875,
+      292.7707214355469,
+      459.1949768066406
+    ],
+    "text": "Parent, caregiver and teacher reports.\nFor Study 1, the\nparent/caregiver CBCL and teacher CBCL-TRF\ndata were considered too inconsistent to provide\nmeaningful\nresults.\nFactors\nthat\ncontributed\nto\ninconsistency\nincluded\nchanges\nin\ncaregivers\n(P1.1), changes in teachers (P1.1, P1.3, P1.4),\nparent(s) with cultural world view different from test\ndevelopers, and English as a second language (P1.2,\nP1.4). Linked to these issues, some measures were\nnot\ncompleted,\ndespite\nevery\nendeavour\nmade\n(CBCL, P1.2, P1.4; TRF, P1.3). Due to these\ndifﬁculties a decision was made not to pursue follow-\nup parent/caregiver and teacher quantitative mea-\nsures for Study 1, but to gather qualitative data when\npossible. These data reﬂect the individual responses\nof children to the treatment program, and views of\nthe respective adults involved in their lives, and are\navailable from the authors on request."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65040588378906,
+      479.1709899902344,
+      125.21977233886719,
+      489.13360595703125
+    ],
+    "text": "Study 2 results"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65040588378906,
+      497.0807189941406,
+      292.71697998046875,
+      566.7969970703125
+    ],
+    "text": "Treatment\nﬁdelity.\nTreatment\nﬁdelity\nwas\ncon-\nducted on 30% of the audiotapes of treatment\nsessions with the one child in Study 2 who consented\nto this procedure. Adherence to treatment content\nand session goals was rated 100% for delivery, and\nno alternate treatment strategies were identiﬁed."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65040588378906,
+      580.7586059570312,
+      292.77081298828125,
+      746.1148681640625
+    ],
+    "text": "Variations to research design.\nThe participants were\nrandomly assigned to weekly baseline lengths of 3, 5,\n7, and 9 weeks. Three participants experienced\ndelays between the initial assessment and planned\ntreatment commencement (total weeks on baseline:\nP2.1, 13; P2.2, 15; P2.3, 23; P2.4, 9). The reasons\nhere were similar to those of participants in previous\nstudies. In addition, two children failed to return two\nsets of baseline measures each (P2.2, P2.3). The\nbaseline data on the graphs represent the measures\ncollected over the requisite weeks of the baseline\nphase for each participant (data points on Figures 5,6\nare in order of dates on the coversheets, and do not\nnecessarily represent consecutive weeks)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      316.6860046386719,
+      66.6685791015625,
+      543.803466796875,
+      315.7596130371094
+    ],
+    "text": "Length of treatment and assessment data.\nAs with the\nprevious studies, the 16-session TF-CBT program\nwas delivered ﬂexibly, as described in the manual.\nNumber of treatment sessions varied from 9 to 25,\ndelivered over time periods ranging from 18 to 68\nweeks (P2.1, 17 weeks, 41 weeks; P2.2, 17 sessions,\n34 weeks; P2.3, 9 sessions, 18 weeks; P2.4, 25\nsessions, 68 weeks). Extended treatment phases were\nrelated to a range of reasons.\nIn terms of assessment data, one participant\nrequested not to complete measures at six assess-\nment points during treatment (P2.4: T13, T14, T17,\nT18, T19, T20), and at 3-month follow-up. This\nwas\nof\ncourse\nrespected. Follow-up data\nwere\navailable for one participant at 3 months (P2.3)\nand two participants at 6 months (P2.2, P2.4).\nAlthough every endeavour was made, follow-up\nmeasures were not returned by three participants\nwho had moved out of the area (P2.1, P2.2) or had\nbeen discharged from child protection involvement\n(P2.3)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      316.68603515625,
+      329.72119140625,
+      543.8214111328125,
+      399.4375
+    ],
+    "text": "Caregiver involvement.\nThe parent/caregivers of all\nparticipants were involved in the assessment and\ntreatment. There were variations and limitations,\nhowever,\nto\ninvolvement\ndue\nto\na\nrange\nof\nfactors, such as caregiver availability and placement\nchanges."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      316.68603515625,
+      413.3990783691406,
+      543.8203735351562,
+      746.1111450195312
+    ],
+    "text": "Cultural factors.\nIt is of note that all children and\ntheir parent/caregivers involved in Study 2 were of\ncultural minorities (including Maori, Samoan and a\nrecent migrant family). All strongly identiﬁed with\ntheir culture and, with the exception of the Maori\ncaregivers, English was their second language. These\ncultural factors were addressed in a number of ways.\nThe two Samoan children and their families were\nallocated to the Samoan therapist. The therapist of\nthe other two families consulted liberally and as\nrequired with his Maori supervisor with regard to\nP2.2, and with a colleague of relevant cultural\nheritage with regard to P2.3.\nOn the basis of the Feather et al. (2009) study the\nresearcher guided the therapists to prioritise the\nworld view of their clients, and to use the TF-CBT as\na tool-kit ﬂexibly, as intended, taking care to include\nall treatment elements. With regard to the use of\nWestern-based measures, given that the children\nwere acculturated into the New Zealand Western-\nbased education system and English was their ﬁrst\nlanguage, it was considered appropriate to use the\nchild measures. The parent/caregivers, however,\nwere less acculturated, and English was generally\nnot their ﬁrst language. While endeavours were made\nto administer the parent/caregiver measures at the\noutset, if the preference was to give verbal feedback,\nthis was respected."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      65.65043640136719,
+      42.456729888916016,
+      225.9257354736328,
+      52.42433166503906
+    ],
+    "text": "184\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      65.64838409423828,
+      66.67132568359375,
+      292.769775390625,
+      339.6865539550781
+    ],
+    "text": "Child reports: Continuous measures.\nFigure 5 shows\nthat the level of PTSD symptoms of Study 2\nparticipants, as measured on the CPTS-RI, de-\ncreased with treatment, and for three participants\nwith data available, decreased further over a 6-month\nfollow-up period. The overall average self-reported\nCPTS-RI score for the four children was in the upper\nmild range during baseline (M ¼ 23.2, SD ¼ 6.8), in\nthe\nmid-mild\nrange\nover\nthe\ntreatment\nphase\n(M ¼ 19.7, SD ¼ 8.8), and below clinical levels for\nthe participants for whom data were available at\nfollow-up (M ¼ 9, SD ¼ 4.6).\nFigure 6 shows that the overall level of Study 2\nparticipants’ self-reported coping increased with\ntreatment, as measured on the CQ. Coping in-\ncreased further over the following 6 months for three\nparticipants. The children’s mean CQ scores in-\ncreased from 4.8 (SD ¼ 1.3) during the baseline\nphase, to 5.8 (SD ¼ 1.2) over treatment; and 7.0\n(SD ¼ 0.0) over follow-up for three participants.\nFigure 7 presents the graphed weekly level of\nPTSD symptoms for each of the four participants\nacross the baseline, treatment and follow-up phases."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      316.6849670410156,
+      66.66949462890625,
+      543.8232421875,
+      746.1119995117188
+    ],
+    "text": "Study 2 participants had relatively little individual\nvariability in baseline CPTS-RI scores, but some\nevidence of downward slope following initial assess-\nment.\nAvailable\nfollow-up\ndata\nindicated\ngains\nmaintained below pre-treatment levels. The results\nare discussed using visual inspection and relevant\nqualitative data, as recommended in the single-case\nliterature (Kazdin, 1982).\nThe CPTS-RI baselines of all four participants\ndemonstrated variability well within the acceptable\nlimits for single-case methodology in applied clinical\nresearch (Kazdin, 2003). The individual baseline\nranges and variability were 24–33 (11%), 23–25\n(3%), 6–21 (19%), and 23–35 (15%), for P2.1, P2.2,\nP2.3, and P2.4, respectively. Three participants\nshowed a downward trend immediately following\ninitial assessment (P2.1, P2.3, P2.4), although only\none had scores that continued to trend downwards\n(P2.3). Visual inspection of the CPTS-RI scores over\nthe treatment phase indicates idiosyncratic patterns\nof response for Study 2 participants. These are\nreported with reference to qualitative data.\nP2.1 showed a drop in PTSD symptoms asso-\nciated with beginning therapy, apparently linked with\ndeveloping\na\ntherapeutic\nrelationship\nwith\nher\nSamoan therapist. Her symptoms, however, subse-\nquently increased, linked with ongoing family con-\nﬂict and neglect issues. P2.1 was ultimately placed in\nout-of-home care, and began to make treatment\ngains. By post-treatment assessment, P2.1’s CPTS-\nRI score had reduced to below clinical levels.\nP2.2’s CPTS-RI scores were in the moderate\nrange during the early phases of treatment, with the\nexception of a reported reduction in PTSD symp-\ntoms to below clinical levels, coinciding with the end\nof the coping skills phase. His scores, however,\nsubsequently rose and remained elevated in the\nmoderate range throughout the remainder of treat-\nment. P2.2 later disclosed that he had been getting\nphysical abused in his placement. This is likely to\nexplain the rise and ongoing elevation of his PTSD\nsymptoms.\nAt the beginning of treatment, P2.3’s reported\nCPTS-RI scores in the mild range, reducing to\nbelow clinical levels by the end of the coping skills\nphase. At this point clinical concerns had abated and\nit was decided to discontinue treatment. A slight\nspike in PTSD symptoms, back into the mild range,\nwas noted at post-treatment assessment, as can occur\nfor children as they contemplate coping on their own\nwithout the support of therapy.\nP2.4’s CPTS-RI scores showed an initial drop,\ncoinciding\nwith\nengagement\nwith\nher\nSamoan\ntherapist, demonstrating a similar pattern to P2.1.\nHer scores ﬂuctuated in the mild range over the\ninitial phases of treatment, during which time she\nwas living with extended family. An increase in"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      65.65039825439453,
+      512.0847778320312,
+      292.8338317871094,
+      550.013916015625
+    ],
+    "text": "Figure 5. Study 2: changes in mean level of post-traumatic stress\ndisorder (PTSD) symptoms (average of Children’s Post-Trau-\nmatic Stress Reaction Index [CPTS-RI] scores for all four\nparticipants). {Three children, three data points."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      65.65039825439453,
+      717.8799438476562,
+      292.8226318359375,
+      745.8311767578125
+    ],
+    "text": "Figure 6. Study 2: changes in mean level of child self-reported\ncoping (average of Coping Questionnaire [CQ] scores for all four\nparticipants). {Three children, three data points."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      338.9101867675781,
+      42.463504791259766,
+      543.750244140625,
+      52.43110656738281
+    ],
+    "text": "TF-CBT evaluation with abused children\n185"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      65.65039825439453,
+      664.4412841796875,
+      292.7707214355469,
+      746.1196899414062
+    ],
+    "text": "scores to the moderate range during the exposure\nphase (T11) was associated with the outcome of a\nfamily meeting. A clinical decision was made to\nsuspend the planned exposure sessions and address\nboundary and safety issues with individual parent\nand family sessions. Over this period, P2.4’s scores\nremained in the moderate range. Once the family"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      316.6860046386719,
+      664.4412841796875,
+      543.8223876953125,
+      746.1196899414062
+    ],
+    "text": "sessions were completed, it was agreed she would\nresume the TF-CBT program (T15). She was now\nable to process her past abuse trauma via a series of\nsand trays, and her CPTS-RI scores dropped to\nbelow clinical/borderline mild.\nAvailable follow-up data show that for three\nparticipants, PTSD symptoms decreased further, to"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      65.65039825439453,
+      626.7744750976562,
+      543.8904418945312,
+      644.7225341796875
+    ],
+    "text": "Figure 7. Study 2: changes in post-traumatic stress disorder (PTSD) symptoms (Children’s Post-Traumatic Stress Reaction Index [CPTS-\nRI] scores)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "186\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.7558288574219,
+      148.40650939941406
+    ],
+    "text": "below clinical levels (P2.3, 3-month follow-up; P2.4,\n6-month follow-up) or borderline mild (P2.2, 6-\nmonth follow-up).\nFigure\n8\npresents\neach\nchild’s\nself-reported\ncoping over the baseline, treatment, and follow-\nup phases. For three participants, the baseline CQ\ndata were stable in terms of variability and trend."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      316.68597412109375,
+      66.67132568359375,
+      543.8132934570312,
+      148.40650939941406
+    ],
+    "text": "One participant (P2.4) reported an increase in\ncoping after the initial assessment, and subsequent\nstability at a high level. Over the treatment phase,\nchild coping showed an upward trend, or stability\nat a high level. Available follow-up data indicated\nmaintenance of treatment gains at high levels of\ncoping."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.55120086669922,
+      737.3822631835938,
+      534.9052124023438,
+      745.6276245117188
+    ],
+    "text": "Figure 8. Study 2: changes in child reported coping skills (average of scores for three target concerns). CQ ¼ Coping Questionnaire."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      338.9101867675781,
+      42.463504791259766,
+      543.750244140625,
+      52.43110656738281
+    ],
+    "text": "TF-CBT evaluation with abused children\n187"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.65093994140625,
+      66.67132568359375,
+      292.7693176269531,
+      315.7623596191406
+    ],
+    "text": "For the CQ, the individual baseline ranges and\nvariability were within acceptable limits: 3.7–4.0\n(4%), 4.6–5.0 (6%), 4.3–4.7 (1%), and 4.0–7.0\n(43%), for P2.1, P2.2, P2.3, P2.4, respectively.\nThree participants demonstrated a stable baseline\nwith regards to trend, while one participant demon-\nstrated an increase in coping following the initial\nassessment (P2.4). This was the youngest Samoan\nchild and, as discussed, this may reﬂect the salience\nof engagement and instilled hope on her self-\nperceived ability to cope.\nNotably, all four participants in Study 2 con-\ntinued to demonstrate an increase in coping with\ntreatment,\nwith\nthe\nexception\nof\nP2.2,\nwho\nachieved and maintained maximum coping scores\nduring baseline that were maintained across ther-\napy and at 6-month follow-up (Figure 8). For the\nthree participants for whom follow-up CQ data\nwere available, self-reported coping was maintained\nat highest levels at 3 months (P2.3), and 6 months\n(P2.2, P2.4)."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.65093994140625,
+      329.72393798828125,
+      292.7513732910156,
+      399.44024658203125
+    ],
+    "text": "Child reports: Repeated measures.\nChild self-report\nscores related to target concerns and comorbid\nproblems are presented in Table 2. These data ﬁll\nout the symptomatology picture for participants at\npre- and post-treatment, and follow-up assessment\npoints."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      316.6865539550781,
+      66.66949462890625,
+      543.806884765625,
+      399.43841552734375
+    ],
+    "text": "At pre-treatment assessment the mean CPTS-RI\nscore for Study 2 participants was in the moderate\nrange (M ¼ 28.5). Three participants reported scores\nabove clinical cut-off for moderate PTSD (P2.1,\nP2.2, P2.4), and one for mild PTSD (P2.3). At post-\ntreatment assessment P2.2 reported PTSD in the\nlow moderate range and the other three participants\nreported scores in the low mild range (P2.3, P2.4), or\nbelow clinical cut-off (P2.1). At follow-up the three\nparticipants for whom data were available reported a\nfurther reduction in PTSD symptoms to below\nclinical cut-off (P2.3, 3-month follow-up; P2.4, 6-\nmonth follow-up) or low mild (P2.2, 6-month\nfollow-up).\nThe mean CQ score for all participants increased\nfrom before treatment (M ¼ 4.1) to after treatment\n(M ¼ 6.4), and for participants for whom data were\navailable, increased further at follow-up assessment\npoints (M ¼ 7.0) on a scale of 1–7.\nScores on the STAIC-T show that trait anxiety\nwas in the normal range for all participants at pre-\nand post-treatment assessment, and was maintained\nat similar levels at follow-up for each of the three\nparticipants for whom data were available.\nCDI scores were below clinical cut-offs compared\nto age and gender norms for all participants at all\nassessment points. A reduction of scores from pre-\ntreatment levels is noted."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.65039825439453,
+      440.36822509765625,
+      395.01019287109375,
+      448.3384094238281
+    ],
+    "text": "Table 2. Study 2: Child report scores on repeated measures of target and comorbid symptoms"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.65039825439453,
+      478.23944091796875,
+      198.00833129882812,
+      486.2096252441406
+    ],
+    "text": "Measure\nParticipant"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      351.9503173828125,
+      459.190673828125,
+      415.48956298828125,
+      467.1608581542969
+    ],
+    "text": "Assessment points"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      223.88035583496094,
+      478.23944091796875,
+      543.8807983398438,
+      486.2096252441406
+    ],
+    "text": "Before treatment\nAfter treatment\n3-month follow-up\n6-month follow-up"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.64935302734375,
+      497.2882080078125,
+      518.7122192382812,
+      694.537109375
+    ],
+    "text": "CQ (Mean)\nP2.1\n4.0\n4.7\n–\n–\nP2.2\n4.0\n7.0\n–\n7.0\nP2.3\n4.3\n6.8\n7.0\n–\nP2.4\n4.0\n7.0\n–\n7.0\nMean\n4.1\n6.4\n7.0\n7.0\nCPTS-RI (Total)\nP2.1\n33{\n11\n–\n–\nP2.2\n25{\n28{\n–\n13\nP2.3\n21\n15\n4\n–\nP2.4\n35{\n12\n–\n10\nMean\n28.5\n16.5\n4.0\n11.5\nSTAIC-T (T score)\nP2.1\n53\n21\n–\n–\nP2.2\n48\n49\n–\n48\nP2.3\n40\n24\n21\n–\nP2.4\n45\n21\n–\n25\nMean\n46.5\n28.7\n21\n36.5\nCDI (T score)\nP2.1\n49\n36\n–\n–\nP2.2\n60\n38\n–\n46\nP2.3\n42\n–\n37\n–\nP2.4\n40\n37\n–\n39\nMean\n47.7\n37.0\n37.0\n42.5"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.650146484375,
+      707.561767578125,
+      543.8574829101562,
+      745.740966796875
+    ],
+    "text": "Notes. CDI ¼ Child Depression Inventory; CPTS-RI ¼ Child Post-traumatic Stress Reaction Index; CQ ¼ Coping Questionnaire; PTSD,\npost-traumatic stress disorder; STAIC-T ¼ State Trait Anxiety Inventory for Children–Trait.\n{Clinical cut-off for moderate PTSD, CPTS-RI \u000225. – ¼ data not returned or incomplete.\nBold ¼ mean scores."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "188\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      65.65093994140625,
+      66.67132568359375,
+      292.71746826171875,
+      88.59602355957031
+    ],
+    "text": "Child subjective data were collected, and are\navailable from the authors, if required."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      65.65093994140625,
+      102.5576171875,
+      292.7593078613281,
+      196.19813537597656
+    ],
+    "text": "Parent, caregiver and teacher reports.\nFor Study 2,\ndue to incomplete or unreturned measures from\nparents and caregivers, partly due to changes in\ncaregiving arrangements (P2.1, P2.2, P2.4), or lack\nof consent (P2.3), CBCL reports were considered\ntoo\ninconsistent\nto\nbe\nvalid.\nThese\ndata\nand\nsubjective parent and caregiver reports are also\navailable from the authors."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      65.65093994140625,
+      216.08984375,
+      117.59992218017578,
+      226.0524444580078
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      65.65093994140625,
+      234.08392333984375,
+      292.77325439453125,
+      746.1138305664062
+    ],
+    "text": "A manualised TF-CBT program was developed\nbased on relevant theory, empirical research, local\npractice and contextual factors (Feather & Ronan,\n2004). To date, it has been evaluated over two\nseparate\npilot\nstudies\nwith\nmaltreated\nchildren\ndiagnosed with PTSD at referral to a specialist clinic\nof the statutory child protection agency in New\nZealand. The current research was intended to\nevaluate the capacity of the ﬁnal version of the\ntreatment protocol delivered by (a) a developer of the\nprogram and (b) other therapists not involved with\ndevelopment.\nThe ﬁndings support the effectiveness of the TF-\nCBT program delivered by both the developer and\nby different therapists. Given the single-case research\ndesign used in this research, the design itself relies\nupon both intra- and inter-participant replications\n(Morgan & Morgan, 2003). Inter-participant repli-\ncations showed that levels of PTSD symptoms\nreduced and child coping increased across baseline\nand treatment. Intra-participant ﬁndings were also\nsupportive and improvements on most indicators\nwere noted across treatment. That is, ongoing\nassessment across baseline and treatment demon-\nstrated a similar trend of individual reduction in\nsymptoms and increases in coping as a function of\nintervention.\nOver\nfollow-up,\nwhere\ndata\nwere\navailable, this trend continued: change was generally\neither maintained or continued to improve.\nThe fact that the majority of these children\ncontinued to demonstrate relief from symptoms\nand an increase in coping as a result of the treatment\nelements is consistent with previous treatment out-\ncome research, which has shown the long-term\neffectiveness of CBT for anxiety-related problems\nin children (Kendall & Southam-Gerow, 1996), and\nthe usefulness of systematic desensitisation and\nexposure in resolving trauma-related symptomatol-\nogy in children (Farrell, Haines, & Davies, 1998;\nSaigh, 1987) and adults (Foa & Rothbaum, 1998;\nFoa, Rothbaum, Riggs, & Murdock, 1991). These\ncurrent ﬁndings support the effectiveness of a TF-\nCBT for maltreated traumatised children and report"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      316.6865234375,
+      66.66754150390625,
+      543.8208618164062,
+      375.51226806640625
+    ],
+    "text": "outcomes similar to those reported for comparable\nintervention models developed in the United States\n(e.g., Cohen, Mannarino, & Deblinger, 2006) and\nconsistent with a body of research emerging inter-\nnationally showing that TF-CBT is superior to other\ntreatments in improving PTSD and related symp-\ntoms in multiply traumatised school-age children\n(Cohen, Mannarino, Murray, & Igelman, 2006;\nWethington et al., 2008).\nPositive treatment outcomes of the current studies\ndemonstrate\nnot\nonly\nthe\neffectiveness\nof\nthe\nmanualised TF-CBT approach with therapists newly\ntrained in the approach, but also that treatment gains\ncan be clinically signiﬁcant for children and their\nfamilies representing\na range\nof multiple-abuse\nhistories, cultural backgrounds and different caregiv-\ning arrangements. Cultural issues were carefully\naddressed, drawing on the learning from our cultural\npilot study (Feather et al., 2009). In addition,\ntreatment integrity was established. Importantly,\nchildren made and sustained gains based on an\nintervention carried out in a clinic setting within an\nagency specialising in working with serious child\nmaltreatment cases. In contrast, there were a number\nof limitations, with some of these limitations related\nto the difﬁculties of this work in real-life settings."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      316.6865234375,
+      395.48828125,
+      362.7874450683594,
+      405.4508972167969
+    ],
+    "text": "Limitations"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      316.6865234375,
+      413.39801025390625,
+      543.8258056640625,
+      746.1100463867188
+    ],
+    "text": "Limitations of the current research include some\nvariations to the initial design that included unfore-\nseen changes to baseline duration, and missing\nbaseline and follow-up data. Additionally, as with\none of the pilot studies (Feather et al., 2009),\ntreatment length was extended for some participants,\nwhich increases the likelihood of the effect of\nmaturation, history, multiple treatment interference\nor other extraneous variables on the outcome results\n(Kazdin, 2003). In addition, the original plan to\ncollect 12-month follow-up data had to be aban-\ndoned due to restrictions on the data collection\nperiod. For 3- and 6-month follow-up, data were not\nable\nto be\ncollected,\nfor\na\nvariety\nof\nreasons\ndocumented and linked to real-life issues impinging\non a systematic protocol. A notable limitation of the\nﬁndings was that, due to agency constraints, the\ntherapists on occasion administered and collected\nthe assessment measures. This may have inﬂuenced\nresults in a direction more favourable to the research\nhypotheses,\ndue\nto\ndemand\ncharacteristics\nand\nreactivity of experimental arrangements (Kazdin).\nIn addition, in one way, it was a limitation of Study 1\nthat these patients were seen by the developer, a\ntherapist with intimate knowledge and high alle-\ngiance to the protocol. It was for this reason that use\nof the manual by other therapists was carried out\nin Study 2. When generalising from the results,"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      338.91009521484375,
+      42.455631256103516,
+      543.7501831054688,
+      52.42323303222656
+    ],
+    "text": "TF-CBT evaluation with abused children\n189"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.7667541503906,
+      590.7201538085938
+    ],
+    "text": "however, it needs to be kept in mind that this sample\nwas small, with only two therapists having delivered\nthe program to two children each.\nAdditional limitations to the validity of the results\nfrom the quantitative measures were identiﬁed. In\nparticular, participants of cultural backgrounds and\nworld views different to that of the test developers\nexpressed difﬁculties in understanding questions on\nthe measures or reluctance to complete measures,\nwith unknown effects on the results (Andary, Stolk, &\nKlimidid, 2003). Furthermore, there were consider-\nable missing data on adult measures for a range of\nreasons, including frequent changes in caregiving\narrangements\nand\nschooling.\nWhere\ndata\nwere\navailable, it seemed to vary depending on how well\nthe adult knew the child, whether they relied on what\nthe child told them, or even their own agenda, which\nat times seemed to lead to underreporting or over-\nemphasising child symptoms. These problems with\nthe use of adult measures in child outcome studies\nare similar to those noted by previous researchers in\nthis area (Davis & Siegel, 2000; Kendall-Tackett,\nWilliams, & Finkelhor, 1993).\nAs with the pilot studies, the current studies are\nlimited\nby\nmethodological\nproblems\nrelated\nto\ncarrying out research in a day-to-day clinic setting\nwithin a child protection statutory agency. These\ninclude resource capacity, and, importantly, the need\nto prioritise care and protection concerns and patient\nbest interests over the research protocol. In addition,\npsychological treatment at the clinic is concurrent\nwith the social work intervention, with unknown\nmultiple-treatment interference.\nFinally, the fact that ﬁndings for this protocol are\nbased overall on a series of single-case evaluations\n(see also Feather & Ronan, 2006; Feather et al.,\n2009), means that more research is necessary with\nlarger\ngroups\nto\nconﬁrm\nthe\npotential\nof\nthis\nintervention. Having said that, across four different\nevaluations, including the two studies reported here,\nand\ndespite\nlimitations,\npreliminary\nsupport\nis\nprovided, including ﬁndings linked to clinical sig-\nniﬁcance, that do justify continuing development of\nthis approach."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      65.650390625,
+      610.6394653320312,
+      114.4930191040039,
+      620.60205078125
+    ],
+    "text": "Implications"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      65.650390625,
+      628.60595703125,
+      292.7677917480469,
+      746.1138305664062
+    ],
+    "text": "Taken together, the results of all four studies to date\nshow that children varied in the number of treatment\nsessions required to complete the program (9–28\nindividual child sessions) and, relatedly, to demon-\nstrate treatment responses (up to 45 face-to-face\ncontacts, including child and parent/caregiver boos-\nter sessions and case worker support related to\nimplementation of the TF-CBT program). One\nquarter of the participants required booster sessions.\nBroadly, this ﬁnding is convergent with that of other"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      316.68597412109375,
+      66.66754150390625,
+      543.8084106445312,
+      746.1100463867188
+    ],
+    "text": "researchers in the area of child abuse trauma, who\nhave similarly found that some children require as\nmany as 40 or more sessions depending on the needs\nof\nthe\nchild\nand\nthe\ncomplexity\nof\nthe\ncase\n(Deblinger & Heﬂin, 1996). Consistent with other\nstudies on CBT for anxiety and abuse and trauma-\nrelated problems, treatment response appeared to\nvary\nwith\ndevelopmental/age\nlevel\n(Cohen,\nBerliner, & March, 2000; Kane & Kendall, 1989).\nIn the case of the current research, the results across\nthe four studies to date suggest that younger children\n(e.g., P2.4, age 9) may take longer to integrate\nthe coping skills into their everyday lives than\nadolescents.\nLonger length of treatment also appeared to relate\nto contextual factors, particularly safety. Not surpris-\ningly, when children were exposed to situations in\nwhich their safety was at risk, whether physical or\nemotional, trauma symptoms were frequently re-\ntriggered or remained elevated, and treatment gains\nstalled or were compromised. Notably, once these\nchildren were placed in a safe environment and/or\nsafety concerns were resolved, progress in therapy\nthen appeared to resume.\nWith regard to parent/caregiver involvement, the\nchildren who had continuity of support throughout\nthe\nassessment\nand\ntreatment\ndemonstrated\na\nresponse to treatment that was more rapid and\nlasting. This is consistent with previous research in\nthis area, in which parent support has been found to\npredict treatment outcome for children with PTSD\nas a result of abuse (Cohen & Mannarino, 2000).\nAdditionally, in the area of conduct disorder in\nyouth, recent New Zealand research has highlighted\nthe central role of family in facilitating and support-\ning positive treatment outcomes in youth (Curtis,\nRonan, Heiblum & Crellin, 2009; Ronan & Curtis,\n2008; Russell & Ronan, 2009). In this research,\nparent/caregiver involvement varied considerably, as\nwould be expected in a care and protection clinic\nsetting. Every endeavour was made to involve non-\noffending parents and/or caregivers in the treatment.\nThis was achieved by administering this aspect of the\nintervention ﬂexibly when necessary, for example,\nbefore and after child sessions and by telephone.\nOverall, it appeared that the salient factor was a\nsupportive caregiver who was willing to be involved\nin the treatment, whether or not a parent. Again,\nhowever, this more anecdotal ﬁnding requires more\nsystematic data support.\nTreatment response patterns are of interest to\nresearchers and clinicians alike. Although the overall\nresults for all four studies showed similar overall\npatterns, the single-case design enables the idiosyn-\ncratic responses to treatment phases by individual\nparticipants to be discerned. Participants demon-\nstrated a range of responses to the psychosocial"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      65.65037536621094,
+      42.455631256103516,
+      225.92567443847656,
+      52.42323303222656
+    ],
+    "text": "190\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      65.650390625,
+      66.67132568359375,
+      292.77081298828125,
+      746.1138305664062
+    ],
+    "text": "strengthening phase. The coping skills phase was\noften associated with an improvement in PTSD\nsymptoms and an increase in coping. For many\nchildren, the exposure phase appeared to bring about\na temporary increase in symptoms while past trauma\nwas\nprocessed\n(e.g.,\nP1.3,\nP2.1,\nP2.2,\nP2.4).\nUltimately, treatment gains were generally main-\ntained or continued to improve (e.g., P1.1, P1.3,\nP1.4, P2.2, P2.4).\nThe treatment response of a number of partici-\npants suggested that, regardless of the complexity\nand severity of the abuse history, if the child was able\nto\nprocess\nand\nresolve\nunhelpful\nabuse-related\nattributions and perceptions (e.g., transferring blame\nto someone other than the perpetrator; P2.4) as well\nas engage in exposure-based processing, treatment\ngains were made. Once again, this appeared to be\nage-related, because clinical observations suggested\nthat adolescents seemed to be able to process\nunhelpful attributions more readily than younger\nchildren. These ﬁndings suggest that age, current\ncognitions and related affect are particularly salient,\nand support those of other maltreatment researchers,\nwho have found that abuse-related attributions may\npredict treatment response more strongly than abuse-\nrelated factors such as identity of the perpetrator,\nabuse type, or number of abusive episodes (Cohen &\nMannarino, 2000). Mindful of the single-case design\nused, more research would be worthwhile to produce\na more differentiated picture and to assess whether\nthe other factors suggested here do in fact reliably\npredict treatment response in this population.\nWith\nregard\nto\ncultural\nminorities,\nprevious\nresearch has found that culture appears to be less\nsigniﬁcant in predicting response to treatment than\nother factors, such as those described above (Cohen,\nDeblinger, Mannarino, & Arellano, 2001). The\ncurrent research bears this out. Preliminary ﬁndings\nindicated that the TF-CBT program was helpful for\nchildren and families of minority indigenous and\nmigrant cultures in New Zealand, provided that it\nwas delivered in the context of a culturally sensitive\ncollaborative therapeutic relationship and ﬂexibly\nadapted to the clients’ world view. This is consistent\nwith\ncurrent\nunderstanding\nthat\nthe\nimportant\nfactors in engaging cross-culturally are ﬂexibility of\napproach and respect of cultural perspectives (Banks\net al., 2006).\nWith regards to the assessment measures used in\nthe\nresearch,\nalthough\nmultimodal\nmulti-source\nevaluations are recommended in the child abuse\nand child trauma literature in order to obtain\ncorroborating information, response rate and con-\nsistency were problematic in this research due to the\nnature of the clinical population. For example, more\nthan half of the children experienced at least one\nchange of caregivers and three quarters had at least"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      316.68597412109375,
+      66.66754150390625,
+      543.8202514648438,
+      519.0006103515625
+    ],
+    "text": "one change of school during the research period. For\ntwo ﬁfths of parent/caregivers, English was their\nsecond language. The current research highlights the\nneed for researchers and clinicians to be aware of\nmultiple\nfactors,\nincluding\npotential\nbiases,\nin\npursuing multimodal, multi-source assessment when\nevaluating a young person for abuse and trauma and\nmeasuring treatment progress and outcome. More\nrecently developed assessment measures, such as the\nnew Achenbach System of Empirically Based Assess-\nment (ASEBA) (Achenbach & Rescorla, 2007),\nwhich includes cross-informant comparisons and\nmulticultural norms, may address some of these\nproblems. This system is currently being normed\ninternationally. The development of local measures,\nhowever, may ultimately be equally beneﬁcial.\nImportantly, the TF-CBT treatment package was\ngenerally perceived as acceptable and helpful by the\nchildren and families involved, as indicated by\nanecdotal reports of children and parents/caregivers.\nAdditional quantitative child reports showed that the\nmajority\nof\nchildren\nfound\nthat\nthe\nTF-CBT\napproach helped them to feel less upset while they\nwere engaged in treatment, and these gains were\ntypically maintained at follow-up for the children for\nwhom data were available (Feather, 2007). Clearly,\nacceptability and perceived helpfulness are linked\nwith effectiveness in terms of treatment adherence\nand cooperation, as well as being a fundamental\nobligation for clinicians and treatment providers\n(King & Ollendick, 2006).\nFinally, it could be argued that this project was\nperhaps too ambitious given the population and\nclinical setting. The pattern of results, however,\nacross all four studies suggests that useful research\noutcomes can be obtained by local clinicians treating\ncomplex cases in real-life settings using single-case\nresearch designs."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      316.68597412109375,
+      538.9198608398438,
+      383.8389587402344,
+      548.8824462890625
+    ],
+    "text": "Future directions"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      316.68597412109375,
+      556.82958984375,
+      543.818359375,
+      746.1100463867188
+    ],
+    "text": "Given the supportive initial ﬁndings for this TF-CBT\nprogram, a next step is to do evaluation using\ncontrolled and randomised designs (efﬁcacy studies)\nas well as further studies that mirror conditions seen\nin usual practice (effectiveness studies). Suggestions\nfor future research that arise from the current\nresearch include (a) development and evaluation of\nthe TF-CBT protocol for treating related popula-\ntions of children who may present with trauma\nprimarily from sources other than abuse, but where\nabuse may also have occurred (e.g., refugee children\nand families); (b) further development and evalua-\ntion\nof\nTF-CBT\ntreatment\nelements\ntargeting\nparticular developmental/age groups, including chil-\ndren younger than in the current study; (c) further\ndevelopment on the interweaving of cultural models"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      338.9095458984375,
+      42.455631256103516,
+      543.7496337890625,
+      52.42323303222656
+    ],
+    "text": "TF-CBT evaluation with abused children\n191"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.65039825439453,
+      66.67132568359375,
+      292.7607421875,
+      363.553955078125
+    ],
+    "text": "and TF-CBT, and evaluation with cultural mino-\nrities (see also Feather et al., 2009); (d) further\nresearch on development and evaluation of culturally\nsensitive outcome measures for this population, and\nevaluation of the new measurement system with\ncross-informant\ncomparison\nand\nmulticultural\nnorms,\nand\ndevelopment\nof\nlocal\nnorms\n(i.e.,\nASEBA; Achenbach & Rescorla, 2007); and (e)\nrandomised controlled trials in at least two settings,\nwhich would be required in order to determine\nwhether\nthe\nTF-CBT\nprotocol is\n‘‘efﬁcacious’’\n(additionally, effectiveness studies using group com-\nparison designs are similarly necessary). Of course,\nthese future directions rest on current and previous\nresearch (Feather & Ronan, 2006; Feather et al.,\n2009) that itself rests on the philosophy and values of\na ‘‘local scientist’’ tradition. Thus, replication of the\nTF-CBT program using various design strategies,\nincluding pragmatic single-case designs, in practice\nsettings in Australasia where maltreated traumatised\nchildren and families are referred is warranted. This\nwould include child mental health services, non-\ngovernmental agencies and private clinics, particu-\nlarly those that receive referrals from child protection\nservices."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.65039825439453,
+      383.50244140625,
+      157.81044006347656,
+      393.46502685546875
+    ],
+    "text": "Acknowledgements"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.65039825439453,
+      401.439697265625,
+      292.7578125,
+      530.9664916992188
+    ],
+    "text": "The authors wish to acknowledge the children and\nfamilies that participated in this research; the staff of\nSpecialist Services, Child, Youth and Family, Pua-\nwaitahi,\nGrafton,\nAuckland,\nin\nparticular\nTina\nBerking, Jonathan Tolcher and Louise Woolf who\nwere directly involved in the research as therapists\nand assessor; and Marcella Cline, Psychology Hon-\nours student at CQ University, Australia, who\nassisted with the manuscript. This research was\nsupported by a Doctoral Scholarship granted by\nMassey University to the senior author."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.65039825439453,
+      556.8108520507812,
+      118.1214370727539,
+      566.7734375
+    ],
+    "text": "References"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.64958953857422,
+      574.3902587890625,
+      292.8154296875,
+      741.727783203125
+    ],
+    "text": "Achenbach, T. M. (1991a). Manual for the Child Behavior\nChecklist/4-18 and 1991 proﬁle. Burlington: University of\nVermont.\nAchenbach, T. M. (1991b). Manual for the Teacher’s Report Form\nand 1991 proﬁle. Burlington: University of Vermont.\nAchenbach, T. M., & Rescorla, L. A. (2007). Multicultural\nunderstanding of child and adolescent psychopathology: Implications\nfor mental health assessment. New York: Guilford Press.\nAmerican Academy of Child and Adolescent Psychiatry. (1998).\nPractice parameters for the assessment and treatment of\nchildren and adolescents with posttraumatic stress disorder.\nJournal of American Academy of Child and Adolescent Psychiatry,\n37, 4–26.\nAmerican Psychiatric Association. (1994). Diagnostic and statistical\nmanual of mental disorders (4th ed.). Washington, DC: Author.\nAndary, L., Stolk, Y., & Klimidid, S. (2003). Assessing mental health\nacross cultures. Bowen Hills, Qld: Australian Academic Press."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      316.68585205078125,
+      66.24852752685547,
+      543.8870239257812,
+      741.7274780273438
+    ],
+    "text": "Banks, C., Choummanivong, C., Hauraki, J., Kasantsis, N.,\nStewart, M., Taufa, P., et al. (2006). Therapy across cultures.\nNew Zealand Clinical Psychologist Journal, 16(3), 18–23.\nBarrett, P. M. (1998). Evaluation of cognitive-behavioral group\ntreatments for childhood anxiety disorders. Journal of Clinical\nChild Psychology, 27, 459–468.\nBarrett, P. M., Duffy, A. L., Dadds, M. R., & Rapee, R. M.\n(2001). Cognitive-behavioral treatment of anxiety disorders in\nchildren: Long-term (6-year) follow-up. Journal of Consulting\nand Clinical Psychology, 69, 135–141.\nBlampied, N. M. (1999). A legacy neglected: Restating the case\nfor single-case research in cognitive-behavior therapy. Behavior\nChange, 16, 89–104.\nChadwick Center for Children and Families. (2004). Closing the\nquality chasm in child abuse treatment: Identifying and disseminat-\ning best practices.\nRetrieved 21 June 2006, from http://\ntfcbt.musc.edu\nChafﬁn, M., & Friedrich, B. (2004). Evidence-based treatments in\nchild abuse and neglect. Children and Youth Services Review, 26,\n1097–1113.\nCohen, J. A., Berliner, L., & March, J. S. (2000). Treatment\nof children and adolescents. In E. B. Foa, T. M. Keane, &\nM. J. Friedman (Eds.), Effective treatments for PTSD: Practice\nguidelines from the International Society for Traumatic Stress\nStudies (pp. 106–138). New York: Guilford Press.\nCohen, J. A., Deblinger, E., Mannarino, A. P., & Arellano, M. A.\n(2001). The importance of culture in treating abused and\nneglected children: An empirical review. Child Maltreatment, 6,\n148–157.\nCohen, J. A., Deblinger, E., Mannarino, A. P., & Steer, R. A.\n(2004). A multisite, randomised controlled trial for children\nwith\nsexual\nabuse-related\nPTSD\nsymptoms.\nJournal\nof\nAmerican Academy of Child and Adolescent Psychiatry, 43, 393–\n402.\nCohen, J. A., & Mannarino, A. P. (1996). A treatment study for\nsexually abused preschool children: Initial ﬁndings. Journal of\nthe American Academy of Child and Adolescent Psychiatry, 35, 42–\n50.\nCohen, J. A., & Mannarino, A. P. (1997). A treatment study of\nsexually abused preschool children: Outcome during 1-year\nfollow-up. Journal of American Academy of Child and Adolescent\nPsychiatry, 36, 1228–1235.\nCohen, J. A., & Mannarino, A. P. (2000). Predictors of treatment\noutcome in sexually abused children. Child Abuse and Neglect,\n24, 983–994.\nCohen, J. A., Mannarino, A. P., & Deblinger, E. (2006). Treating\ntrauma and traumatic grief in children and adolescents. New York:\nGuilford Press.\nCohen, J. A., Mannarino, A. P., Murray, L. K., & Igelman, R.\n(2006). Psychosocial interventions for maltreated and violence-\nexposed children. Journal of Social Issues, 62, 737–766.\nCurtis, N. M., Ronan, K. R., Heiblum, N., & Crellin, K. (2009).\nDissemination and effectiveness of multisystemic treatment in\nNew Zealand: A benchmarking study. Journal of Family\nPsychology, 23, 119–129.\nDavis, L., & Siegel, L. J. (2000). Posttraumatic stress disorder in\nchildren and adolescents: A review and analysis. Clinical Child\nand Family Psychology Review, 3, 135–154.\nDeblinger, E., & Heﬂin, A. H. (1996). Treating sexually abused\nchildren and their nonoffending parents: A cognitive behavioral\napproach. Thousand Oaks, CA: Sage Publications.\nDeblinger, E., Lippmann, J., & Steer, R. (1996). Sexually abused\nchildren\nsuffering\nposttraumatic\nstress\nsymptoms:\nInitial\ntreatment outcome ﬁndings. Child Maltreatment, 1, 310–321.\nDeblinger, E., Steer, R., & Lippmann, J. (1999). Two-year follow-\nup study of cognitive-behavioural therapy for sexually abused\nchildren suffering posttraumatic stress symptoms. Child Abuse\nand Neglect, 23, 1371–1378."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "192\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      65.65037536621094,
+      66.25170135498047,
+      292.8198547363281,
+      741.723876953125
+    ],
+    "text": "Ehlers, A., & Clark, D. M. (2000). A cognitive model of\nposttraumatic stress disorder. Behaviour Research and Therapy,\n38, 319–345.\nFarrell, S. P., Haines, A. A., & Davies, W. H. (1998). Cognitive\nbehavioural interventions for sexually abused children exhibit-\ning PTSD symptomatology. Behavior Therapy, 29, 241–255.\nFeather, J. S. (2004). Becoming a local scientist-practitioner.\nSocial Work Now, 29, 24–28.\nFeather, J. S. (2007). Trauma-focused cognitive behavioural therapy\nfor abused children with posttraumatic stress disorder: Development\nand evaluation of a manualised treatment programme. Unpub-\nlished PhD thesis, Massey University, Albany, New Zealand.\nFeather, J. S., & Ronan, K. R. (2004). Te Ara Whetu: Trauma-\nfocused cognitive behavioural therapy for abused children: A\ntreatment manual. Unpublished manuscript.\nFeather, J. S., & Ronan, K. R. (2006). Trauma-focused cognitive-\nbehavioural therapy for abused children with post-traumatic\nstress disorder. New Zealand Journal of Psychology, 35, 132–\n145.\nFeather, J. S., Ronan, K. R., Murupaenga, P., Berking, T., &\nCrellin, K. (2009). Trauma-focused cognitive-behavioural\ntherapy for traumatised abused Maori and Samoan children.\nManuscript in preparation.\nFoa, E. B., & Rothbaum, B. O. (1998). Treating the trauma of rape:\nCognitive-behavioral therapy for PTSD. New York: Guilford\nPress.\nFoa, E. B., Rothbaum, B. O., Riggs, D. S., & Murdock, T. B.\n(1991). Treatment of posttraumatic stress disorder in rape\nvictims: A comparison between cognitive behavioural proce-\ndures and counselling. Journal of Consulting and Clinical\nPsychology, 59, 715–723.\nFrederick, C. J., Pynoos, R. S., & Nader, K. (1992). Reaction Index\nto Psychic Trauma Form C (Child). Unpublished manuscript,\nUCLA.\nGirling-Butcher, R., & Ronan, K. R. (2009). Brief cognitive-\nbehavioral therapy for children with anxiety disorders: Initial\nevaluation\nof\na\nprogram\ndesigned\nfor\nclinical\nsettings.\nBehaviour Change, 26, 27–53.\nGraham, P. (Ed.). (2005). Cognitive behavior therapy for children\nand families (2nd ed.). Cambridge, UK: Cambridge University\nPress.\nGrubbs, G. A. (1994). An abused child’s use of sandplay in the\nhealing process. Clinical Social Work Journal, 22, 193–209.\nHayes, S. C. (1981). Single-case research designs and empirical\nclinical practice. Journal of Consulting and Clinical Psychology,\n49, 193–211.\nHersen, M., & Barlow, D. H. (1976). Single case experimental\ndesigns: Strategies for studying behavior change. New York:\nPergamon Press.\nHoward, B. L., & Kendall, P. C. (1996). Cognitive-behavioral\nfamily therapy for anxiety disordered children: A multiple\nbaseline evaluation. Cognitive Therapy and Research, 20, 423–\n443.\nJackson, A., Frederico, M., Tanti, C., & Black, C. (2009).\nExploring outcomes in a therapeutic service response to the\nemotional and mental health needs of children who have\nexperienced abuse and neglect in Victoria, Australia. Child and\nFamily Social Work, 14, 198–212.\nKane, M. T., & Kendall, P. C. (1989). Anxiety disorders in\nchildren: A multiple baseline evaluation of a cognitive-\nbehavioral treatment. Behavior Therapy, 20, 499–508.\nKazdin, A. E. (1982). Single-case experimental designs. In\nP. C. Kendall, & J. N. Butcher (Eds.), Handbook of research\nmethods in clinical psychology (pp. 416–490). New York:\nWiley.\nKazdin, A. E. (2000). Psychotherapy for children and adolescents:\nDirections for research and practice. New York: Oxford University\nPress."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      316.6860656738281,
+      66.24858856201172,
+      543.897216796875,
+      741.7276611328125
+    ],
+    "text": "Kazdin, A. E. (2003). Research design in clinical psychology. Boston:\nAllyn and Bacon.\nKazdin, A. E., & Nock, M. K. (2003). Delineating mechanisms of\nchange in child and adolescent therapy: Methodological issues\nand research recommendations. Journal of Child Psychology and\nPsychiatry, 44, 1116–1129.\nKendall, P. C. (1994). Treating anxiety disorders in children:\nResults of a randomised clinical trial. Journal of Consulting and\nClinical Psychology, 62, 100–110.\nKendall, P. C. (Ed.). (2000). Child and adolescent therapy:\nCognitive-behavioural approaches. New York: Guilford Press.\nKendall, P. C., Chansky, T. E., Kane, M. T., Kim, R. S.,\nKortlander, E., Ronan, K. R., et al. (1992). Anxiety disorders in\nyouth: Cognitive-behavioral interventions. Needham Heights,\nMA: Allyn & Bacon.\nKendall, P. C., Kane, M., Howard, B., & Siqueland, L. (1990).\nCognitive-behavioral treatment of anxious children: Treatment\nmanual. (Available from Phillip C. Kendall, Department of\nPsychology, Temple University, Philadelphia, PA 19122,\nUSA).\nKendall, P. C., & Southam-Gerow, M. A. (1996). Long-term\nfollow-up of a cognitive-behavioral therapy for anxiety-dis-\nordered youth. Journal of Consulting and Clinical Psychology, 64,\n724–730.\nKendall-Tackett, K., Williams, L. M., & Finkelhor, D. (1993).\nImpact of sexual abuse on children: A review and synthesis\nof recent empirical studies. Psychological Bulletin, 113, 164–\n180.\nKing, N. J., & Ollendick, T. H. (2006). A commentary on\npsychosocial interventions and evidence-based practice: Time\nfor reﬂection about what an ‘ideal’ psychosocial intervention\nwould look like in clinical psychology? Behaviour Change, 23,\n157–164.\nKing, N. J., Tonge, B. J., Mullen, P. E., Myerson, N., Heyne, D.,\nRollings, S., et al. (2000). Treating sexually abused children\nwith posttraumatic stress symptoms: A randomized clinical\ntrial. Journal of American Academy of Child and Adolescent\nPsychiatry, 39, 1347–1355.\nKovacs, M. (1981). Rating scales to assess depression in school\naged children. Acta Paedopsychiatria, 46, 305–315.\nLees,\nD.\nG.,\n&\nRonan,\nK.\nR.\n(2008).\nEngagement\nand\neffectiveness of parent management training (Incredible Years)\nfor solo high-risk mothers: A multiple baseline evaluation.\nBehaviour Change, 25, 109–128.\nMacdonald, G. (2001). Effective interventions for child abuse and\nneglect: An evidence-based approach to planning and evaluating\ninterventions. Chichester, UK: John Wiley & Sons.\nMacdonald, K., Lambie, I., & Simmonds, L. (1995). Counselling\nfor sexual abuse: A therapist’s guide to working with adults,\nchildren,\nand\nfamilies.\nAuckland,\nNZ:\nOxford\nUniversity\nPress.\nMorgan, D. L., & Morgan, R. K. (2003). Single-case participant\nresearch design: Bring science to managed care. In A. E. Kazdin\n(Ed.), Methodological issues and strategies in clinical research.\nWashington, DC: American Psychological Association.\nMyers, J. E. B., Berliner, L., Briere, J., Hendrix, C. T., Jenny, C.,\n& Reid, T. (Eds.). (2002). The APSAC handbook of child\nmaltreatment (2nd ed.). Thousand Oaks, California: Sage.\nParson, E. R. (1997). Posttraumatic child therapy (P-TCT):\nAssessment and treatment factors in clinical work with inner-\ncity children exposed to catastrophic community violence.\nJournal of Interpersonal Violence, 12, 172–194.\nReinecke, M. A., Dattilio, F. M., & Freeman, A. (Eds.). (2003).\nCognitive therapy with children and adolescents: A casebook for\nclinical practice (2nd ed.). New York: Guilford Press.\nRonan, K. R. (1996). Building a reasonable bridge in childhood\nanxiety assessment: A practitioner’s resource guide. Cognitive\nand Behavioral Practice, 3, 63–90."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      338.9101867675781,
+      42.463504791259766,
+      543.750244140625,
+      52.43110656738281
+    ],
+    "text": "TF-CBT evaluation with abused children\n193"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      65.64878845214844,
+      66.25170135498047,
+      292.82745361328125,
+      313.35211181640625
+    ],
+    "text": "Ronan, K. R., & Curtis, N. M. (2008). Systems interventions with\nantisocial youth and families: Bringing risk and protective\nfactors into practice. In L. VandeCreek (Ed.), Innovations in\nclinical practice: Focus on group, couples, and family therapy.\nSarasota, FL: Professional Resource Press.\nRonan, K. R., & Deane, F. P. (1998). Anxiety disorders. In\nP. J. Graham (Ed.), Cognitive behaviour therapy for children\nand\nfamilies\n(pp.\n74–94).\nCambridge,\nUK:\nCambridge\nUniversity Press.\nRussell, C., & Ronan, K. R. (2009). Dissemination and effectiveness\nof Multisystemic Treatment in New Zealand: A second benchmark-\ning study. Manuscript in preparation.\nSaigh, P. A. (1987). In vitro ﬂooding of an adolescent’s\nposttraumatic stress disorder. Journal of Child Clinical Psychol-\nogy, 16, 147–150.\nSaunders, B. E., Berliner, L., & Hanson, R. F. (2004). Child\nphysical and sexual abuse: Guidelines for treatment. Retrieved 21\nJune 2006, from http://tfcbt.musc.edu\nSilverman, W. K., & Albano, A. M. (1996). Anxiety Disorders\nInterview Schedule for DSM-IV. New York: Oxford University\nPress.\nSilverman, W. K. (1994). Structured diagnostic interviews. In\nT. H. Ollendick, N. J. King, & W. Yule (Eds.), International\nhandbook of phobic and anxiety disorders in children and adolescents\n(pp. 293–315). New York: Plenum Press."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      316.6861877441406,
+      66.25041961669922,
+      543.8809204101562,
+      313.350830078125
+    ],
+    "text": "Skowron, E., & Reinemann, D. H. S. (2005). Effectiveness of\npsychological interventions for child maltreatment: A meta-\nanalysis. Psychotherapy: Theory, research, practice, training, 42,\n52–71.\nSpielberger, C. D. (1973). Manual for the State-Trait Anxiety\nInventory for Children. Palo Alto, CA: Consulting Psychologists\nPress.\nWaltz, J., Addis, M. E., Koerner, K., & Jacobson, N. S. (1993).\nTesting the integrity of a psychological protocol: Assessment of\nadherence and competence. Journal of Consulting and Clinical\nPsychology, 61, 620–630.\nWatson, P. J., & Workman, E. A. (1981). The non-concurrent\nmultiple-baseline across individuals design: An extension\nof\nthe\ntraditional\nmultiple-baseline\ndesign.\nJournal\nof\nBehavioral Therapy and Experimental Psychiatry, 12, 257–\n259.\nWethington, H. R., Hahn, R. A., Fuqua-Whitley, D. S., Sipe, T.\nA., Crosby, A. E., Johnson, R. L., et al. (2008). The\neffectiveness of interventions to reduce psychological harm\nfrom traumatic events among children and adolescents.\nAmerican Journal of Preventative Medicine, 35, 287–313.\nYule, W., Smith, P., & Perrin, S. (2005). Post-traumatic stress\ndisorders. In P. J. Graham (Ed.), Cognitive Behavior Therapy for\nChildren and Families (2nd ed., pp. 342–358). Cambridge:\nCambridge University Press."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      65.65039825439453,
+      42.463504791259766,
+      225.9257049560547,
+      52.43110656738281
+    ],
+    "text": "194\nJ. S. Feather & K. R. Ronan"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      593.057861328125,
+      15.87109375,
+      599.7144775390625,
+      777.4637451171875
+    ],
+    "text": "17429544, 2009, 3, Downloaded from https://aps.onlinelibrary.wiley.com/doi/10.1080/00050060903147083 by Uva Universiteitsbibliotheek, Wiley Online Library on [08/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+  }
+]

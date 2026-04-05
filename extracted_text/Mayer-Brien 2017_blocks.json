@@ -1,0 +1,1802 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      44.78924560546875,
+      268.4028625488281,
+      62.80272674560547
+    ],
+    "text": "The Cognitive Behaviour Therapist (2017), vol. 10, e12, page 1 of 24\ndoi:10.1017/S1754470X17000198"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      306.7829895019531,
+      45.14033889770508,
+      418.2120361328125,
+      54.10673904418945
+    ],
+    "text": "ORIGINAL RESEARCH REPORT"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      94.63520050048828,
+      402.420166015625,
+      124.53071594238281
+    ],
+    "text": "Effects of a parent training programme for the treatment of\nyoung children with separation anxiety disorder"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      154.011962890625,
+      306.5619201660156,
+      165.46820068359375
+    ],
+    "text": "Sandra Mayer-Brien1, Lyse Turgeon2∗and Marc J. Lanovaz2"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.591552734375,
+      179.30250549316406,
+      403.7915954589844,
+      222.02366638183594
+    ],
+    "text": "1Département de psychologie, Université de Montréal, Case postale 6128, Succursale Centre-Ville,\nMontréal (Québec), Canada, H3C 3J7\n2École de psychoéducation, Université de Montréal, Case postale 6128, Succursale Centre-Ville,\nMontréal (Québec), Canada, H3C 3J7"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.591552734375,
+      232.98329162597656,
+      233.11074829101562,
+      241.94969177246094
+    ],
+    "text": "Received 20 April 2017; Accepted 11 October 2017"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.591552734375,
+      266.66107177734375,
+      358.4539489746094,
+      429.1459655761719
+    ],
+    "text": "Abstract. Cognitive behavioural therapy (CBT) has been shown to be an effective\ntreatment for anxiety disorders in children. However, the majority of studies conducted\nto date have included heterogeneous samples of children combining social anxiety\ndisorder, generalized anxiety disorder and separation anxiety disorder (SAD) together.\nFew studies have examined the efﬁcacy of CBT to speciﬁcally treat SAD. Moreover,\nresearch on the impact of CBT for SAD in children younger than 7 years old has\nbeen very limited. To address these issues, we examined the effects of a CBT parent\ntraining programme with six children with SAD aged between 4 and 7 years using a\nnon-concurrent multiple baseline design. Parents completed semi-structured interviews,\nquestionnaires and daily diaries to assess their child’s anxiety symptoms, parental\npractices and parental stress. Results indicated that ﬁve of six children no longer met\nthe criteria for SAD diagnosis after treatment and at 3-month follow-up. Moreover,\nthe daily diaries showed that four of six children presented a systematic favourable\nchange of the total weekly frequency of SAD symptoms. Finally, four mothers reported\na decrease in overprotection, but we observed no changes in parental stress."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.591552734375,
+      438.0260009765625,
+      358.4396057128906,
+      458.03662109375
+    ],
+    "text": "Key words: anxiety disorders, behavioural family intervention, CBT, single case\nexperimental design, childhood anxiety"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      484.068603515625,
+      101.64408874511719,
+      494.03118896484375
+    ],
+    "text": "Introduction"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      502.1061706542969,
+      418.21673583984375,
+      583.7994995117188
+    ],
+    "text": "The main feature of separation anxiety disorder (SAD) in children is an excessive and\npersistent fear of leaving home or to be separated from attachment ﬁgures, most frequently a\nparent (American Psychiatric Association, 2013). Epidemiological studies indicate that 2–5%\nof children have SAD (Carter et al., 2010; de la Barra et al., 2014; Lavigne et al., 2009). A\nrecent study shows a prevalence as high as 10% among preschool children (2–5 years old)\nrecruited in ﬁrst-line pediatric clinics (Franz et al., 2013). Furthermore, Shear et al. (2006)\nfound that 36% of cases persist until adulthood. Having a SAD may have a negative impact"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.59199905395508,
+      607.8958740234375,
+      418.2242431640625,
+      627.4267578125
+    ],
+    "text": "∗Author for correspondence: Lyse Turgeon, École de psychoéducation, Université de Montréal, Case postale 6128,\nSuccursale Centre-Ville, Montréal (Québec) CANADA H3C 3J7 (E-mail: lyse.turgeon@umontreal.ca)."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.592132568359375,
+      635.0358276367188,
+      287.4115905761719,
+      643.0059204101562
+    ],
+    "text": "© British Association for Behavioural and Cognitive Psychotherapies 2017"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "2\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.2128601074219,
+      622.5548095703125
+    ],
+    "text": "on children and their families. For example, researchers have shown that children with SAD\nare more susceptible to experience sleep problems (Chase and Pincus, 2011) and to exhibit\nschool refusal (Last et al., 1987). By avoiding situations associated with separation, children\nwith SAD may also fail to participate in activities, such as birthday parties, sporting events\nor summer camps, which can in turn interfere with adaptation and lead to social isolation\n(Ehrenreich et al., 2008; Figueroa et al., 2012). In the long term, SAD is associated with\nan increased risk of developing psychological disorders during adolescence and adulthood,\nsuch as other anxiety disorders and depression (Biederman et al., 2007; Lewinsohn et al.,\n2008). Given the high prevalence of SAD, its undesirable side-effects and its persistence,\nearly detection and treatment appear essential.\nChildren who have insecure attachment with their parents are more likely to develop SAD\nduring childhood (Brumariu and Kerns, 2010a,b; Mofrad et al., 2009; Mofrad et al., 2010). In\ncontrast, secure attachment may protect against and prevent the development of SAD (Bögels\nand Brechman-Toussaint, 2006). Other studies have outlined the role of parental stress in the\ndevelopment of internalizing disorders, including SAD (Pahl et al., 2012). In the same vein,\nCosta et al. (2006) have shown that dysfunctional parent–child interactions, a component of\nparental stress, was speciﬁcally related to internalizing symptoms in children. Furthermore,\nresearchers have also found that negative and controlling parental practices are associated\nwith the development of anxiety disorders (Bögels and Brechman-Toussaint, 2006; McLeod\net al., 2011; Wood et al., 2003).\nParental control in the form of overprotection, overinvestment and intrusiveness may be\nparticularly damaging (McLeod et al., 2011). For example, Mofrad et al. (2009) have shown\nthat there is a relationship between SAD and maternal overprotection. Similarly, Wood (2006)\nhas demonstrated that parental intrusiveness may be associated with the development of SAD.\nThe inﬂuence of attachment style and parental practices on the development and maintenance\nof SAD underlines the importance of intervening on the parent–child relationship during\ntreatment. As such, it seems relevant to include treatment components designed to improve\nthe quality of attachment, to increase parental sensitivity, emotional warmth and positive\ninteractions as well as to reduce control and overprotection.\nMany studies have shown the efﬁcacy of cognitive behaviour therapy (CBT) in the\ntreatment of anxiety disorders in children (for reviews, see Reynolds et al., 2012; Silverman\net al., 2008). CBT typically helps the child to recognize anxious feelings and somatic reactions\nto anxiety, to modify anxious self-talk, and to develop a plan to cope with anxiety-evoking\nsituations. Some studies have shown that the participation of parents in treatment increases\nthe efﬁcacy of CBT interventions for children with anxiety disorders (Barrett et al., 1996;\nWood et al., 2006). Moreover, parent-only CBT is an effective treatment modality for child\nanxiety (Smith et al., 2014). Parent-focused intervention was also found to be an optimal\nstrategy at lower economic costs compared with child-focused intervention (Simon et al.,\n2012). In sum, research on the treatment of anxiety disorders in children has shown that CBT\nis a cost-effective treatment option when it is implemented directly by the parent.\nIt should be noted that the previous treatment studies were not developed speciﬁcally\nfor children with SAD, but instead targeted general forms of anxiety. To date, only four\nprogrammes for SAD focusing on parental participation have been developed and assessed\nin randomized clinical trials or single-case studies: (1) the Parent Training Treatment for\nSeparation-Anxious Children (PT-SAD; Raleigh et al., 2002), (2) the Parent–Child Interaction\nTherapy (PCIT; Pincus et al., 2005), (3) the Child Anxiety Multi-Day Program (CAMP;"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.1985168457031,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n3"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      47.59181213378906,
+      74.50535583496094,
+      418.23046875,
+      622.55810546875
+    ],
+    "text": "Santucci et al., 2009), and (4) the Separation Anxiety Family Treatment Program (PFAS;\nBlatter-Meunier and Schneider, 2011). The PT-SAD is a CBT programme targeting parents\nof children aged between 6 and 12 years old diagnosed with SAD (Raleigh et al., 2002).\nThe main objective of the programme is to develop parental skills to cope with the child’s\nanxiety symptoms, such as contingency management, relaxation and exposure. Eisen et al.\n(2008) examined the efﬁcacy of the programme using single-case designs with six parents of\nchildren aged from 7 to 10 years old with SAD. Following the intervention, ﬁve children no\nlonger met the criteria for the diagnosis of SAD.\nPincus and her colleagues (Pincus et al., 2005; Pincus et al., 2008) have adapted a\nprogramme initially developed for oppositional behaviours, the PCIT (Brinkmeyer and\nEyberg, 2003), to treat symptoms of SAD. The main objective of the programme is to\nincrease attachment and emotional warmth between the parent and the child in order to\nimprove the child’s conﬁdence and to reduce distress when separation occurs. To meet these\nobjectives, parents are taught various strategies, such as providing positive attention in the\nform of praise and avoiding criticisms (Choate et al., 2005). The PCIT programme also\nhas the objective of teaching the parent effective strategies to decrease the child’s anxiety.\nFor example, the parent should reinforce the child’s appropriate separation behaviours while\nignoring tantrums and requests for reassurance. Pincus et al. (2005) ﬁrst tested the efﬁcacy\nof PCIT in a pilot study with 10 families of children aged from 4 to 8 years old having\nSAD. Following treatment, parents reported an increase in the use of positive strategies. A\ndecrease in anxiety symptoms among children was also reported; however, these symptoms\nremained within the clinical range. The authors subsequently added another treatment phase,\nthe Bravery-Directed Interaction phase, to speciﬁcally target anxiety. This phase consisted\nmainly of exposure exercises guided by the parents. Pincus et al. (2008) assessed the efﬁcacy\nof the modiﬁed PCIT in a clinical trial with 38 families. Results showed that 73% of the\nchildren who received the modiﬁed PCIT did not meet the SAD diagnostic criteria following\nintervention.\nSantucci et al. (2009) have developed an intensive one-week programme in a group format\nto treat SAD. The CAMP is a CBT-based programne that includes conjoint parent–child\nsessions as well as separate, individual sessions. Santucci et al. ﬁrst assessed the efﬁcacy\nof the CAMP programme in a pilot study with ﬁve girls aged from 8 to 11 years old, which\nshowed promising results. In a subsequent randomized clinical trial, Santucci and Ehrenreich-\nMay (2013) assessed the efﬁcacy of the programme with 29 school-aged girls (7–12 years).\nSix weeks after the intervention, 61% of the girls no longer met the diagnostic criteria\nfor SAD.\nFinally, the PFAS (Blatter-Meunier and Schneider, 2011) was developed in Switzerland\nand Germany. The programme targets children from 5 to 13 years old having SAD as well as\ntheir parents. It includes CBT components such as education on anxiety symptoms, cognitive\nstrategies (i.e. self-instruction for children and cognitive restructuring of dysfunctional\nthoughts concerning the child’s anxiety for the parents) as well as exposure. A parent training\ncomponent is also included, in which the parents learn strategies to help their child cope with\nanxiety. The efﬁcacy of the programme has been assessed with 43 children aged from 5 to\n7 years old and their families, randomly assigned either to the treatment condition or to a\n12-week wait-list control condition (Schneider et al., 2011). The results showed that 76% of\nthe children from the treatment condition no longer met the diagnostic criteria of SAD after\ntreatment, compared with 14% of those from the wait-list condition."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "4\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.2025451660156,
+      275.8568420410156
+    ],
+    "text": "The purpose of our study was to replicate and extend previous research on the treatment\nof SAD in young children. The ﬁrst objective was to examine the effects of a parent training\nprogramme on separation anxiety symptoms among young children aged between 4 and 7\nyears old. This age group has received less attention in the research literature, even though\nSAD typically appears at this stage of development. Given that interfering symptoms may be\nevident as early as age 3 (Kearny et al., 2003), the lack of empirically supported treatments\nfor this age group may result in the use of age-inappropriate and untested treatments\n(Pincus et al., 2008). Early intervention in preschool or in the ﬁrst years of elementary\nschool would also have the advantage of decreasing the risk of negative consequences\nassociated with SAD, such as school refusal and social difﬁculties. The second objective\nwas to examine the effects of the programme on parental practices, such as overprotection\nand control, as well as on parental stress. We chose the PT-SAD (Raleigh et al., 2002)\nbecause our purpose was to test a weekly programme that targeted parents. We also added\na relational component from the PCIT (Pincus et al., 2005) to improve the parent–child\nrelationship and to decrease negative parental practices. Finally, the third objective was to\nexamine if the changes reported by the parents were also observed by the teachers in other\nsettings."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56797790527344,
+      301.65771484375,
+      107.76336669921875,
+      311.62030029296875
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56797790527344,
+      319.5854187011719,
+      123.9874496459961,
+      329.5480041503906
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      74.56793975830078,
+      337.62298583984375,
+      445.2007141113281,
+      622.5562744140625
+    ],
+    "text": "Fifteen families participated in an initial assessment session. From these families, seven were\nexcluded because (a) the child’s SAD symptoms were not clinically signiﬁcant, (b) the child\nhad another primary disorder (other than SAD), or (c) the parent could not complete the daily\nrecords. Two families withdrew their participation during treatment: one moved to another city\nand the other was preoccupied with stressful life events. The ﬁnal sample included six parent–\nchild dyads: four boys and two girls. The children were between 4 and 7 years old (mean:\n5 years and 7 months) and had a primary diagnosis of SAD according to the DSM-IV-TR\ncriteria (American Psychiatric Association, 2000) with at least moderate impairment (received\n4 or more) on the Anxiety Disorders Interview Schedule for DSM-IV-Parent version (ADIS-P;\nSilverman and Albano, 1996). We only invited children who were not taking medication for\nanxiety and whose dosage for other medications was stable 3 months prior to and during the\nstudy. Parent–child dyads were recruited through day care centres, community organizations,\nlocal newspaper advertisements, and parenting websites.\nParticipant 1 (P1) was a boy of both Hispanic and Caucasian origins who was 4 years and\n7 months at the onset of his participation in the study. His symptoms were mainly related to\nbedtime. He slept with his parents every night. Each morning, he refused to go to day care.\nHe asked to stay home, clung to his mother, cried, or had temper tantrums. He worried that\nhis mother would die. He often sought her physical contact. His mother was a 39-year-old\nimmigrant who worked a few hours per week in a community agency. His father was a 40-\nyear-old Caucasian working in the construction industry.\nParticipant 2 (P2) was a Caucasian girl who was 4 years and 8 months old. Her main\nsymptoms also occurred at bedtime. She slept with her mother because she was afraid of\nbeing alone in the dark. She also refused that her mother drop her off at the day care centre\nin the morning. She constantly followed her mother around in their home, and she asked for a"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.1985168457031,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n5"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      47.591827392578125,
+      74.60627746582031,
+      418.2355651855469,
+      419.3181457519531
+    ],
+    "text": "lot of attention. She also had speciﬁc phobias related to darkness, doctors and injections. Her\nmother was a 45-year-old single parent who was unemployed.\nParticipant 3 (P3) was a Caucasian girl who was 7 years and 9 months old. She was in\nsecond grade. Her separation anxiety symptoms were mainly related to her refusal to go to\nevents without her parents (e.g. birthday parties). She worried that bad things would happen\nto her mother, or that her mother would abandon her. She often asked her parents to stay with\nher at bedtime. She also had symptoms of social anxiety, a speciﬁc phobia of vomiting, and\nshe had concerns regarding her health and her family members’ health. Her mother was a\n47-year-old worker in the service industry and her father was a 44-year-old professional.\nParticipant 4 (P4) was a Caucasian boy who was 6 years and 6 months old. He was in\nﬁrst grade. His anxiety symptoms were related to being alone, to leaving for school in the\nmorning, and to uncontrolled fears (e.g. his parents dying in an accident). When he went to\nbed, he always repeated the same ritual: he asked his parents to lie down next to him and tried\nto postpone their departure. P4 had symptoms of generalized anxiety disorder, social anxiety\nand a speciﬁc phobia of thunderstorms. He was diagnosed with attention-deﬁcit disorder for\nwhich he took a stable dosage of Concerta. His mother was a 34-year-old educator and his\nfather was a 35-year-old manager.\nParticipant 5 (P5) was a Caucasian boy who was 4 years and 4 months old. He\nshowed anxiety in all settings where he was separated from his mother, including day\ncare, and followed her excessively around the house for physical contact. He also showed\nsymptoms of social anxiety and speciﬁc phobias (i.e. water and darkness) as well as\noppositional behaviours. His mother was a 30-year-old student and his father was a 35-year-\nold professional.\nParticipant 6 (P6) was a Hispanic boy who was 5 years and 8 months old. His separation\nanxiety occurred when his mother dropped him off at school or when he had to go to events\nwithout his parents (e.g. friend’s house, birthday party). He often complained of stomach pain\nbefore leaving for school; he occasionally vomited. He also displayed speciﬁc phobias related\nto blood, injections and wounds. His mother was a 36-year-old part-time worker in the service\nindustry and his father was a 36-year-old manager."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      47.591827392578125,
+      437.1549072265625,
+      87.42828369140625,
+      447.11749267578125
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      47.591827392578125,
+      457.0721130371094,
+      418.2335510253906,
+      622.55810546875
+    ],
+    "text": "Measures completed by the parents. Each child’s diagnosis of SAD was based on the DSM-\nIV-TR criteria of the ADIS-P (Silverman and Albano, 1996). The ADIS-P is the most\ncommonly used parental interview to assess anxiety disorders among children (Silverman\net al., 2001). Studies on its psychometric properties have shown that it has an excellent test–\nretest reliability and a good convergent validity (Silverman et al., 2001; Wood et al., 2002). In\nthe present study, we administered the French translation (Turgeon and Brousseau, 2001). The\nﬁrst author, a doctoral student in psychology, administered the ADIS-P. The second author,\nan expert clinical researcher on anxiety disorders in children, looked at the videotape of the\ninterviews with the ﬁrst author to conﬁrm the initial diagnosis.\nThe parents completed the Daily Record of Anxiety at Separation or Daily Diary (DD),\ntranslated into French and adapted from the Weekly Record of Anxiety at Separation (Choate\nand Pincus, 2001) (see Appendix). In the current study, observations were collected on a\ndaily basis rather than on a weekly basis. Parents had to record the intensity of each anxiety\nbehaviour on a scale from 0 to 8 (0 = no anxiety, 8 = high anxiety). Examples of items"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "6\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.19976806640625,
+      383.45281982421875
+    ],
+    "text": "included statements such as ‘refused to go to day care and to be separated from his parent’,\nor ‘slept in the parents’ bed’. We added an interference measure in the DD, in which parents\nhad to assess how the child’s symptoms interfered with daily functioning, also on a scale from\n0 to 8. The parents completed the DD every day during baseline and during the course of\ntreatment. At post-treatment and at 3-month follow-up, the parents also completed the DD for\none or two weeks. For ﬁve families, only the mother completed the DD. For the remaining\nfamily (i.e. P4), both parents completed the diary either together or in alternation.\nWe also administered questionnaires to the parents. First, the parents completed the\nPreschool Anxiety Scale (PAS; Spence and Rapee, 1999), which is used to assess anxiety\nsymptoms in children, including SAD. Spence et al. (2001) have shown that the instrument\nhas good construct validity, and Broeren and Muris (2008) reported an internal consistency\nfrom 0.59 to 0.86 for the various subscales. We used the French version as part of the\ncurrent study (Turgeon and Brousseau, 2002). Second, the Parenting Practices Interview\n(PPI; Webster-Stratton, 1998) was used to assess parental practices. Two subscales of the\nPPI were selected: ‘harsh and inconsistent discipline’ and ‘praise and incentives’. The French\ntranslation used in the current study showed a good internal consistency, 0.83 for harsh\nand inconsistent discipline, and 0.69 for praise and incentives (Lessard, 2010). Third, the\nParent Protection Scale (PPS; Thomasgard et al., 1995) was administered in French to assess\nprotection behaviours in our sample of parents. Thomasgard et al. (1995) have shown that\nthe instrument has good internal consistency (0.73), good test–retest reliability (0.86 after\n3–5 weeks) and criterion validity. Finally, the Parenting Stress Index-Brief Form (PSI; Abidin,\n1995) assessed stress related to parent–child relation and to parental role. Three scores were\nused: total score, parental distress, and dysfunctional parent–child relation. The PSI shows\ngood internal consistency (0.91 for the total score) and excellent test–retest reliability (Abidin,\n1995). It has been translated into French by Bigras et al. (1996). The parents completed these\nquestionnaires at pre-test, post-test, and at 3-month follow-up."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56802368164062,
+      397.30255126953125,
+      445.2006530761719,
+      562.779541015625
+    ],
+    "text": "Measures completed by the teachers. The teachers completed the ‘Anxiety problems’\nsubscale of the Teacher Report Form (TRF; Achenbach and Rescorla, 2001). The TRF shows\ngood internal consistency (0.73) and good test–retest reliability (0.73 at 16 days; Achenbach\nand Rescorla, 2001). They also completed the ‘Anxiety separation’ subscale of the Preschool\nAnxiety Scale-Teacher Version (PAS-T; Spence and Rapee, 1999) and the Socio-Affective\nProﬁle (PSA; Dumas et al., 1997). In the current study, we used two general scores (general\nadaptation and internalized problems) and two subscales (anxious-conﬁdent and dependent-\nindependent) of the PSA. The PSA has good psychometric properties, including discriminant\nand convergent validity, internal consistency and test–retest reliability (Venet et al., 2002). The\nteachers were recruited through the parents. The investigators of the study sent questionnaires\nto preschool or school at three time points: during baseline, immediately after treatment, and\nat 3-month follow-up. All teachers accepted to complete the questionnaires, except at post-test\nfor P1 and P4. For P3, P4 and P5, a different person completed the questionnaire at 3-month\nfollow-up, because these children changed academic level between administrations."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56900024414062,
+      582.6048583984375,
+      117.1631088256836,
+      592.5674438476562
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      74.56900024414062,
+      600.6424560546875,
+      445.190673828125,
+      622.55712890625
+    ],
+    "text": "Due to recruitment issues (i.e. the participants were not available at the same time to start\ntreatment because the recruitment took more than a year), we used a non-concurrent multiple"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.1985168457031,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n7"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591827392578125,
+      74.50535583496094,
+      418.2403564453125,
+      204.12619018554688
+    ],
+    "text": "baseline across participants (Barlow et al., 2009). To begin, the ﬁrst author contacted the\nparents who responded to the advertisements in order to validate whether their child met the\ninclusion and exclusion criteria. Then the parents were invited to a ﬁrst session during which\nthe researcher (ﬁrst author) explained the project and sought written, informed consent. In\nthe second half of the session, we administered the ADIS-P to the parents. Questionnaires\nwere then given to the parents to be completed at home and returned at the beginning of\nthe following session. During the second session, the researcher explained how to complete\nthe DD. Parents could either return their DD by mail or by email during baseline. Parents\nwere contacted once per week by telephone or by email during baseline to encourage them to\ncomplete their DD accurately and to respond to any questions. The project was approved by\nthe Ethics Committee of the University where the research was conducted."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591827392578125,
+      223.9514617919922,
+      83.0118637084961,
+      233.9140625
+    ],
+    "text": "Baseline"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591827392578125,
+      241.98008728027344,
+      418.21343994140625,
+      323.67333984375
+    ],
+    "text": "During baseline, the parents recorded the child’s anxiety symptoms on a daily basis by means\nof the DD. Baselines of 2, 3 or 4 weeks were randomly assigned to each dyad. However, we\ndid not begin treatment unless levels of anxiety symptoms were stable or increasing. We used\nvisual inspection of the graphs to determine if symptoms were stable. If it was not the case,\nwe instructed the parents to continue collecting baseline data. Two families started treatment\nafter 3 weeks of baseline, three families after 4 weeks, and one family after 8 weeks due to a\n2-week holiday break."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591827392578125,
+      343.4986267089844,
+      89.82627868652344,
+      353.4612121582031
+    ],
+    "text": "Treatment"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      47.591827392578125,
+      361.53619384765625,
+      418.2343444824219,
+      622.5562744140625
+    ],
+    "text": "The treatment programme was a modiﬁed version of the Parent Training Treatment Manual\nfor Separation-Anxious Children (Raleigh et al., 2002) adapted for parents of children aged\nfrom 4 to 7 years old. To adapt the programme for young children, we removed cognitive\nstrategies such as cognitive restructuring and we modiﬁed relaxation training with shorter\nand playful exercises from the FRIENDS programme (Barrett et al., 1999). We also included\ncomponents of the PCIT (Pincus et al., 2005) focusing on emotional warmth and sensitivity\nin parent–child interactions. Each session involved the same four steps as the original Parent\nTraining Treatment Manual for Separation-Anxious Children. First, the parent and trainer\nreviewed the DD and the exercises practised during the previous week. Second, the trainer\npresented new strategies. Third, the parents practised these new strategies with feedback from\nthe trainer. Finally, the trainer explained the exercises that the parent and child should practise\nduring the following week.\nDuring sessions 1 and 2, the trainer presented the characteristics and aetiology of SAD\nand discussed frequent errors made by parents. Session 3 aimed to teach parents strategies\nto increase emotional warmth in the parent–child relationship (e.g. praising, reﬂections,\navoidance of criticisms). These strategies were ﬁrst practised in role play during sessions,\nand then applied at home with the child during play sessions. Sessions 4 to 6 targeted the\ndevelopment of strategies to cope with their child’s anxiety: in vivo exposure, relaxation\ntraining and contingency management. Sessions 7 and 8 were the practice phase of the\nprogramme, during which the parents guided their children in their exposure exercises at\nhome and applied the other learned strategies. Finally, the purpose of sessions 9 and 10 was\nto maintain acquired skills through the use of problem-solving strategies and to promote"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "8\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.1746826171875,
+      120.43429565429688
+    ],
+    "text": "generalization of the behaviour changes. The therapist (ﬁrst author) was a PhD student in\nclinical psychology, supervised by an experienced clinical psychologist specialized in the\nCBT treatment of childhood anxiety disorders (second author). Mothers and fathers were\nencouraged to participate in the treatment sessions, but only one father was present (P4)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      140.2595672607422,
+      153.63815307617188,
+      150.22216796875
+    ],
+    "text": "Treatment integrity"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      158.29713439941406,
+      445.1908874511719,
+      216.07720947265625
+    ],
+    "text": "The researcher audiotaped the therapy sessions in order to verify treatment integrity. For each\nsession, a coder listened to the tape and noted if each content area was covered. Treatment\nintegrity was calculated for each session by dividing the number of content areas that were\ncovered by the total number of content areas that should have been presented. The mean\npercentage of content presented ranged from 94 to 99% across participants."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      235.90248107910156,
+      168.3200225830078,
+      245.86508178710938
+    ],
+    "text": "Post-test and follow-up"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      253.9311065673828,
+      445.19073486328125,
+      347.58544921875
+    ],
+    "text": "Following the last treatment session, we provided the same questionnaires as baseline to\ncomplete at home, and we instructed the parents to complete the DD for 2 weeks. The mother\nof P2 did not complete the DD because she was not available at this time. Two weeks following\nthe end of treatment, parents met with an independent evaluator (a PhD student in psychology)\nwho administered the ADIS-P for a second time. Three months later, parents were contacted\nand instructed to complete DD for 1 to 2 weeks. We administered the same questionnaires as\nbaseline and post-test. Only the sections of the ADIS-P corresponding to the child’s pre-test\nand post-test symptoms were administered."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      367.4107360839844,
+      130.19317626953125,
+      377.3733215332031
+    ],
+    "text": "Data analysis"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      74.56500244140625,
+      385.4393310546875,
+      445.20477294921875,
+      622.55517578125
+    ],
+    "text": "Given the variability in the manifestation of separation anxiety symptoms and the large\namount of data collected, we used the data from the DD to compute a weekly frequency of\nseparation anxiety symptoms. For each child, we only present the results of anxiety symptoms\nthat had a mean weekly intensity of at least 4 during baseline, a mean weekly frequency of\nat least 3, or both. To assess changes in symptoms from baseline to intervention, we used\nthe conservative dual-criterion method of analysis (CDC; Fisher et al., 2003; Swoboda et al.,\n2010), which is based on changes in slope and mean. Speciﬁcally, the CDC examines the\nnumber of treatment data points that fall below both a mean line and a trend line continued\nfrom baseline, which have been lowered by 0.25 standard deviations. The number of points\nthat need to fall below both lines for the treatment to be considered signiﬁcant is based on the\ntotal number of treatment data points and on the binomial distribution.\nFor the PAS completed by the parents, we considered a change as signiﬁcant when the\nscores at post-test and at 3-month follow-up were larger than one standard deviation from the\nnormative mean of the questionnaire and the functioning level was in the non-clinical range.\nFor parental practices and teacher-reported measures, we considered a change signiﬁcant\nwhen the results met the two following conditions: (a) the score was in the non-clinical\nrange at post-test and at 3-month follow-up as determined by the clinical cut-off point of the\ninstrument, and (b) the change was large enough that it was unlikely to be due to measurement\nerror as determined by the RC reliable change index (Thomas and Truax, 2008). Given that a\nclinical cut-off point was not available for two subscales (distress scale and the dysfunctional"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.1985168457031,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n9"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.59199905395508,
+      479.222900390625,
+      418.2458190917969,
+      499.2424621582031
+    ],
+    "text": "Figure 1. Frequency of separation anxiety symptoms during baseline, intervention, post-test and follow-\nup for P1, P2 and P3. Note that for P1 the mean and trends line are the same."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.59199905395508,
+      512.1685180664062,
+      418.1937255859375,
+      546.0443115234375
+    ],
+    "text": "relation scale) of the PSI a B score was calculated (Jacobson and Truax, 1991), which\ncorresponded to a change greater than two standard deviations from the mean of the non-\nclinical population."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.592010498046875,
+      565.6624145507812,
+      78.58564758300781,
+      575.625
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.592010498046875,
+      583.59912109375,
+      99.8936538696289,
+      593.5617065429688
+    ],
+    "text": "Daily diaries"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.592010498046875,
+      600.6373901367188,
+      418.220703125,
+      622.5521240234375
+    ],
+    "text": "Figures 1 and 2 present the weekly frequency of separation anxiety symptoms for each child\nwith the conservative mean and trend lines from baseline. According to the CDC analysis of"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "10\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      480.22186279296875,
+      445.2189025878906,
+      500.241455078125
+    ],
+    "text": "Figure 2. Frequency of separation anxiety symptoms during baseline, intervention, post-test and follow-\nup for P4, P5 and P6."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      516.6594848632812,
+      445.1916809082031,
+      550.5263671875
+    ],
+    "text": "the DD completed by the parents, we can conclude that there was a systematic change of the\nweekly frequency for symptoms between baseline and intervention for four participants: P1,\nP2, P4 and P6."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      571.6388549804688,
+      135.1834259033203,
+      581.6014404296875
+    ],
+    "text": "SAD diagnosis"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      74.56500244140625,
+      588.6781616210938,
+      445.19482421875,
+      622.553955078125
+    ],
+    "text": "Following treatment, ﬁve of six children no longer met the SAD diagnostic criteria according\nto the parent ratings on the ADIS-P. These changes persisted at 3-month follow-up. At post-\ntest, scores on the ADIS-P changed from 8 to 0 for P1, 6 to 3 for P2, 8 to 0 for P4, 7 to 1 for"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n11"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.590999603271484,
+      74.97889709472656,
+      251.47012329101562,
+      83.94529724121094
+    ],
+    "text": "Table 1. Results of the Parental Preschool Anxiety Scale"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.590999603271484,
+      92.1427230834961,
+      417.22216796875,
+      101.10912322998047
+    ],
+    "text": "Participant\nPre\nPost\nFollow-up\nClinical cut-off\nPre–post change\nPre-follow-up change"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.59063720703125,
+      106.35089874267578,
+      355.18768310546875,
+      171.14781188964844
+    ],
+    "text": "P1\n14\n1ab\n3ab\n5.58\n–4.6\n–3.9\nP2\n9\n8\n6b\n5.58\n−0.4\n–1\nP3\n8\n10\n8\n5.58\n0.7\n0\nP4\n18\n2ab\n2ab\n5.58\n–5.6\n–5.6\nP5\n12\n10\n12\n5.58\n−0.7\n0\nP6\n8\n2ab\n3ab\n5.58\n–2.1\n–1.8"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.590999603271484,
+      183.00672912597656,
+      417.2381591796875,
+      213.8881072998047
+    ],
+    "text": "The last two columns indicate changes as measured in standard deviations (SD). Positive values show\nan increase in symptoms. Changes greater than 1SD are indicated in bold. aScore in non-clinical range;\nbimprovement of at least 1SD from pre-test."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199905395508,
+      232.0165252685547,
+      418.1858215332031,
+      253.93124389648438
+    ],
+    "text": "P5, and 6 to 3 for P6. P3 still met the SAD diagnostic criteria, but the severity score decreased\nfrom 6 to 4."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199905395508,
+      273.2613830566406,
+      210.64784240722656,
+      283.2239685058594
+    ],
+    "text": "Parent-reported child anxiety symptoms"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199523925781,
+      291.28997802734375,
+      418.19573974609375,
+      325.1658020019531
+    ],
+    "text": "Table 1 presents the scores for the separation anxiety symptoms on the parental PAS. Results\nshowed a signiﬁcant change for three children at posttest and at 3-month follow-up: P1, P4,\nand P6. For P2, the improvement was signiﬁcant at 3-month follow-up only."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199523925781,
+      344.48699951171875,
+      216.11134338378906,
+      354.4495849609375
+    ],
+    "text": "Teacher-reported child anxiety symptoms"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199142456055,
+      362.5245666503906,
+      418.22564697265625,
+      396.400390625
+    ],
+    "text": "Table 2 shows scores on the three teacher-reported measures: the TRF, the PAS-T and the\nPSA. Only P6 showed clinical improvement. For the other participants, scores were below the\nclinical range at all times (even prior to the intervention)."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199142456055,
+      415.7215576171875,
+      164.82290649414062,
+      425.68414306640625
+    ],
+    "text": "Parental practices and stress"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199142456055,
+      433.7591247558594,
+      418.2274475097656,
+      563.2698974609375
+    ],
+    "text": "Table 3 presents the mothers’ scores on questionnaires of parental practices and stress. For\npunitive and inconsistent discipline, the results showed a clinically signiﬁcant improvement\nfor P2’s mother at post-test and at follow-up. For the mother of P5, the change was statistically\nsigniﬁcant at post-test and at 3-month follow-up. For praises and rewards, the mothers of P1\nand P2 showed changes from the clinical to non-clinical range from pre-test to post-test, and\nfrom pre-test to follow-up. The improvement was statistically signiﬁcant from pre-test to post-\ntest for mother of P3, and from pre-test to follow-up for P1 and P2. For the overprotection\nscale, four mothers (P1, P2, P5 and P6) showed a statistically signiﬁcant improvement from\npre-test to post-test. For two of these mothers (P1 and P6), the improvement was also\nstatistically signiﬁcant from pre-test to follow-up. Concerning parental stress, few changes\nwere observed following intervention."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199142456055,
+      582.60009765625,
+      92.43365478515625,
+      592.5626831054688
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.59199142456055,
+      600.6376342773438,
+      418.18768310546875,
+      622.5523681640625
+    ],
+    "text": "The main purpose of our study was to examine the impact of a parent training programme\non separation anxiety symptoms in young children. Improvements in SAD symptoms were"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "12\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56400299072266,
+      74.97889709472656,
+      295.823486328125,
+      83.94529724121094
+    ],
+    "text": "Table 2. Results on questionnaires completed by the teachers"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56327819824219,
+      92.1427230834961,
+      444.19091796875,
+      123.03380584716797
+    ],
+    "text": "RC\nRC\nFollow-\nClinical\nindex\nindex\nParticipant\nScale\nPre\nPost\nup\nrange\npre–post\npre-follow-up"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.5631103515625,
+      128.27491760253906,
+      420.1864013671875,
+      521.83251953125
+    ],
+    "text": "P1\nTRF-ANX\n0a\n–\n0a\n5\n0.00\n0.00\nPAS-SAD\n1a\n–\n0a\n3.9\nPSA-ADAPT\n317a\n–\n320a\n208\n–\n0.14\nPSA-INTERN\n82a\n–\n86a\n63\n–\n0.46\nPSA-ANXCON\n44a\n–\n40a\n25\n–\n−0.68\nPSA-DAUTO\n31a\n–\n38a\n23\n–\n1.60\nP2\nTRF-ANX\n2a\n0a\n0a\n6\n−0.97\n−0.97\nPAS-SAD\n1a\n0a\n0a\n3.9\nPSA-ADAPT\n317a\n340a\n336a\n235\n0.23\n0.91\nPSA-INTERN\n85a\n87a\n87a\n65\n−0.11\n0.23\nPSI-DISTR\n39a\n43a\n41a\n28\n0.68\n0.34\nPSA-DAUTO\n34a\n37a\n36a\n24\n0.23\n0.46\nP3\nTRF-ANX\n1a\n0a\n0a\n6\n−0.48\n−0.48\nPAS-SAD\n0a\n0a\n0a\n3.9\nPSA-ADAPT\n362a\n358a\n370a\n235\n−0.19\n0.38\nPSA-INTERN\n95a\n90a\n96a\n65\n−0.57\n0.11\nPSA-ANXCON\n46a\n45a\n49a\n28\n−0.17\n0.51\nPSA-DAUTO\n40a\n44a\n48a\n24\n0.91\n1.82\nP4\nTRF-ANX\n2a\n–\n3a\n5\n–\n0.48\nPAS-SAD\n1a\n–\n0a\n3.9\nPSA-ADAPT\n303a\n–\n234a\n208\n–\n–3.30\nPSA-INTERN\n86a\n–\n66a\n63\n–\n–2.29\nPSA-ANXCON\n40a\n–\n25\n25\n–\n–2.53\nPSA-DAUTO\n32a\n–\n36a\n23\n–\n0.91\nP5\nTRF-ANX\n2a\n1a\n0a\n5\n−0.48\n−0.97\nPAS-SAD\n0a\n0a\n1a\n3.9\nPSA-ADAPT\n267a\n285a\n276a\n208\n0.84\n0.41\nPSA-INTERN\n81a\n81a\n88a\n63\n−0.06\n0.75\nPSA-ANXCON\n45a\n41a\n41a\n25\n−0.68\n−0.68\nPSA-DAUTO\n39a\n39a\n30a\n23\n−0.11\n–2.17\nP6\nTRF-ANX\n8\n3ab\n2ab\n5\n–2.42\n–2.91\nPAS-SAD\n15\n2a\n1a\n3.9\nPSA-ADAPT\n276a\n299a\n286a\n208\n1.10\n0.96\nPSA-INTERN\n56\n75ab\n81ab\n63\n2.18\n2.87\nPSA-ANXCON\n23\n32a\n31a\n25a\n1.52\n1.35\nPSA-DAUTO\n22\n34ab\n34ab\n23\n2.74\n2.74"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      75.56350708007812,
+      533.6917114257812,
+      444.18914794921875,
+      597.4505004882812
+    ],
+    "text": "TRF-ANX, Teacher Report Form – Anxiety Problems Scale; PAS-SAD, Preschool Anxiety Scale\n– Teacher Version – Separation Anxiety Scale; PSA-ADAPT, Socio Affective Proﬁle – General\nAdaptation Scale; PSA-INTERN, Socio Affective Proﬁle – Internalized Problems Scale; PSA-\nANXCON, Socio Affective Proﬁle – Anxious/Conﬁdent Scale; PSA-DAUTO, Socio Affective Proﬁle –\nDependant/Autonomous Scale. aScore in non-clinical range; bstatistically signiﬁcant change according\nto RC reliability index. Signiﬁcant changes (ࣙ1.96) are in bold."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n13"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.590999603271484,
+      74.97889709472656,
+      288.00372314453125,
+      83.94529724121094
+    ],
+    "text": "Table 3. Results on questionnaires of parental practices and stress"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.59071350097656,
+      92.1427230834961,
+      417.21820068359375,
+      123.03380584716797
+    ],
+    "text": "RC\nRC\nFollow-\nClinical\nindex\nindex\nParticipant\nScale\nPre\nPost\nup\nrange\npre–post\npre-follow-up"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.59037780761719,
+      128.97286987304688,
+      404.41448974609375,
+      521.83251953125
+    ],
+    "text": "P1\nPPI-PUNIT\n3.33\n2.67\n2.86\n2.67\n−1.5\n−1.07\nPPI-PRAISE\n3.6\n5.2ab\n5.4ab\n4.27\n3.7\n4.17\nPPS-TOTAL\n27a\n22ab\n20ab\n36\n–2.33\n–3.27\nPSI-TOTAL\n91\n74a\n75a\n90\n−1.54\n−1.45\nPSI-DISTR\n41\n21ab\n23ab\n40.8\n–3.50\n−3.15\nPSI-DYSF\n16a\n20a\n19a\n28.3\n0.95\n0.71\nP2\nPPI-PUNIT\n2.73\n2.47a\n2.33a\n2.67\n−0.59\n−0.91\nPPI-PRAISE\n4\n4.6a\n5.1ab\n4.27\n1.39\n2.55\nPPS-TOTAL\n31a\n24ab\n28a\n36\n–3.27\n−1.40\nPSI-TOTAL\n103\n100\n102\n90\n−0.27\n−0.09\nPSI-DISTR\n43\n42\n39a\n40.8\n−0.17\n−0.70\nPSI-DYSF\n25a\n23a\n27a\n28.3\n−0.48\n0.48\nP3\nPPI-PUNIT\n3\n2.73\n2.8\n2.67\n−0.61\n−0.45\nPPI-PRAISE\n4.3a\n5.6ab\n5.1a\n4.27\n3.01\n1.85\nPPS-TOTAL\n21a\n22a\n21a\n32\n0.47\n0.00\nPSI-TOTAL\n70a\n60a\n88a\n90\n−0.90\n1.63\nPSI-DISTR\n21a\n17a\n24a\n40.8\n−0.70\n0.52\nPSI-DYSF\n22a\n25a\n28a\n28.3\n0.71\n1.43\nP4\nPPI-PUNIT\n3\n2.93\n2.87\n2.67\n−0.16\n−0.29\nPPI-PRAISE\n5.1a\n4.6a\n4.3a\n4.27\n−1.16\n−1.85\nPPS-TOTAL\n21a\n20a\n26a\n35\n−0.47\n2.33\nPSI-TOTAL\n75a\n72a\n100\n90\n−0.27\n2.26\nPSI-DISTR\n25a\n23a\n35a\n40.8\n−0.35\n1.75\nPSI-DYSF\n17a\n22a\n23a\n28.3\n1.19\n1.43\nP5\nPPI-PUNIT\n4\n2.67\n2.8\n2.67\n–3.02\n–2.72\nPPI-PRAISE\n3.6\n3.7\n3.9\n4.27\n0.23\n0.69\nPPS-TOTAL\n25a\n19ab\n25a\n36\n–2.80\n0.00\nPSI-TOTAL\n109\n105\n98\n90\n−0.36\n−1.00\nPSI-DISTR\n33a\n35a\n26a\n40.8\n0.35\n−1.22\nPSI-DYSF\n29\n27a\n28a\n28.3\n−0.48\n−0.24\nP6\nPPI-PUNIT\n2.93\n2.73\n2.73\n2.67\n−0.75\n−0,75\nPPI-PRAISE\n4.5a\n4.9a\n4.6a\n4.27\n0.93\n0.23\nPPS-TOTAL\n29.5a\n25ab\n24ab\n35\n–2.10\n–2.57\nPSI-TOTAL\n76a\n69a\n70a\n90\n−0.63\n−0.54\nPSI-DISTR\n21a\n22a\n23a\n40.8\n0.17\n0.35\nPSI-DYSF\n19a\n21a\n21a\n28.3\n0.48\n0.48"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.589996337890625,
+      533.6917114257812,
+      417.2417907714844,
+      597.4505004882812
+    ],
+    "text": "PPI-PUNIT, Parenting Practices Interview – Punitive and Inconsistent Discipline Scale; PPI-PRAISE,\nParenting Practices Interview – Praises and Rewards Scale; PPS-TOTAL, Parent Protection Scale –\nTotal Score; PSI-TOTAL, Parental Stress Index – Total Score; PSI-DISTR, Parental Stress Index –\nDistress Scale; PSI-DYSF, Parental Stress Index – Dysfunctional Relation Scale. aScore on a non-\nclinical range; bstatistically signiﬁcant change according to RC reliability index. Signiﬁcant changes\n(ࣙ1.96) are in bold."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "14\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.2117614746094,
+      622.55810546875
+    ],
+    "text": "observed for four of six children according to the DD completed by the parents. These results\nwere conﬁrmed by changes in ADIS-P: ﬁve children no longer met the SAD diagnostic criteria\nafter intervention, and these effects persisted at follow-up. Our results are consistent with\nthose of other studies that have examined the impact of the two programmes adapted in the\npresent study: the PT-SAD (Eisen et al., 2008) and the PCIT (Pincus et al., 2008). Overall,\nthese results support the relevance of intervening only with parents in order to reduce SAD in\nyoung children (Cartwright-Hatton et al., 2011; Waters et al., 2009).\nFor two participants, the programme did not systematically produce the intended\neffects. At least three factors may explain this observation. First, the frequency of SAD\nmanifestations during baseline may explain some of the lack of observed effects. For P3, only\n2–13 occurrences per week were reported by the parents compared with 20–40 for the\nother children, which provided fewer opportunities to detect signiﬁcant changes after the\nintroduction of treatment. Second, P3 was the oldest child of the sample. Some of the\ncognitive components removed from the original programme may have been useful to her:\nCBT programmes to treat anxiety disorders in children that have been shown to be effective\nwith children 7 years or older typically include cognitive strategies (e.g. Hudson et al., 2009;\nMarch et al., 2009).\nA third potential explanation for our mixed results is related to the motivation of the parents\nand to the application of the strategies at home. In the case of P3, exposure exercises were\nconducted on an irregular basis, less than once a week, with 4 weeks without any practice.\nP3’s avoidance behaviours were related to activities such as sleeping at a friend’s house,\nwhich were difﬁcult for the parents to organize on a regular basis. Regular and repeated\nexposure exercises in the treatment of anxiety disorders is an important issue (Blatter-Meunier\nand Schneider, 2011; Hirshfeld-Becker et al., 2010; Pincus et al., 2008). In contrast, P5’s\nmother was sometimes reluctant to implement the strategies proposed by the programme.\nFor example, she refused to give rewards to her son after exposure exercises because it was\ninconsistent with her personal values. This explanation would be consistent with Podell and\nKendall (2011) who reported that treatment compliance and commitment of parents towards\nintervention in family CBT treatment for child anxiety was associated to better outcomes.\nThe changes reported by the parents of P1, P2 and P4 were not conﬁrmed by the assessment\nof their teachers. Only the teacher of P6 conﬁrmed the perceptions of the parents and\nreported signiﬁcant decreases in the child’s general anxiety and SAD as well as an increase\nin independence. This result could be explained in part by the fact that for P6, the symptoms\nof SAD occurred mainly when his mother dropped him off at the day care centre. For the\nother children, the symptoms were observed mainly at home. For all children except P6,\nthe scores reported by teachers were below the clinical range at baseline. Once again, these\nresults may be explained by context speciﬁcity in the manifestation of anxiety symptoms. It\nis also possible that teachers tend to underestimate the symptoms of SAD in children. An\nalternative explanation could be that the parents overestimated the anxiety symptoms of their\nchild. Studies have shown that parents with anxiety disorders tend to perceive more anxiety\nin their children (Esbjørn et al., 2014). In the present study, all mothers but one reported past\nor current episodes of anxiety.\nAnother objective of this study was to examine changes in parental practices and on\nparental stress following the parent-training programme. Our results showed some changes\nin parental behaviours. For example, some mothers increased their use of speciﬁc praises and\nrewards, and showed reductions in negative discipline. The most frequent change was that"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n15"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.592803955078125,
+      74.60627746582031,
+      418.25933837890625,
+      622.55810546875
+    ],
+    "text": "four mothers showed a decrease in their overprotection behaviours following treatment. This\nresult is promising as the treatment was relatively short and few sessions were speciﬁcally\nrelated to parental practices. That said, we did not observe changes in parental stress. These\nresults are consistent with previous studies, which showed that the family-oriented CBT may\nimprove some parental practices (e.g. overinvolvement), but its effects on parental stress is\nmore limited (Eisen et al., 2008; Esbjørn et al., 2014; Wood et al., 2009). One potential\nexplanation for these results is that programmes designed to modify speciﬁc behaviours do\nnot target sources of stress unrelated to the child (e.g. marital distress, employment stress).\nFurthermore, the original version of the PCIT included a minimum of nine sessions targeting\nthe parent–child relationship, whereas our adapted programme only included two sessions.\nThis discrepancy may explain why we did not observe signiﬁcant changes in child-related\nstress in our study.\nOur study extends the research literature in several ways. First, the intervention was\nconceived for a developmental period for which few studies were conducted to date in the\ntreatment of SAD. The programme combines both CBT strategies and a relational component.\nAnother strength of the programme is that it was delivered exclusively to parents. Given that\nthe parents play a crucial role in the development, maintenance and treatment of SAD, their\ninvolvement seems essential. Furthermore, the inclusion of measures to assess changes in\nparental practices and stress has allowed the examination of dimensions often neglected in the\nresearch literature. Finally, we also included teacher-reported measures, which extends prior\nresearch.\nAlthough the results of our study were promising, it is important to interpret them with\ncaution. For practical reasons related to recruitment, we used a non-concurrent multiple\nbaseline design. This approach is less rigorous than the standard (concurrent) design because\nthe participants do not take part in the assessment and intervention at the same time. Second,\neven if both parents were encouraged to participate in the assessment and intervention, only\none father was present during sessions. Participation of the fathers is unfortunately still rare\nin family studies for child anxiety disorders. Podell and Kendall (2011) have measured the\nimpact of the implication of mothers and fathers in the treatment of child anxiety. Their\nresults revealed that the implication of both parents predicted a better response to treatment\nfor the child. Similarly, the ﬁndings of studies examining maternal and paternal treatment\noutcome predictors show differential results for mothers and fathers (Liber et al., 2008). The\nchallenge is to ﬁnd original ways to convince fathers to participate. Fabiano (2007) reviewed\nthe literature on father participation in parent training for attention-deﬁcit hyperactivity\ndisorder (ADHD). Even if his review was not directly concerned with anxiety disorders, his\nrecommendations might be helpful. For example, he suggests reducing stigma associated to\nclinical services. Because fathers do not typically report problems with parenting, calling an\nintervention ‘parent training’ may discourage father participation because the title implies a\nskills deﬁcit. He also recommended that treatment be implemented in familiar settings (e.g.\ncontext of sports activities).\nAnother limitation is that all mothers had at least a bachelor degree. Thus it is unclear\nwhether less educated mothers would have responded the same to the parent-training\nprogramme given its complexity and intensity. Our study may also have a self-selection\nbias because the mothers responded to advertisements and were not referred by health\nprofessionals. A ﬁnal limitation concerns the absence of direct assessments of each child.\nWe relied mainly on parental reports, which may be biased by their perceptions. Pincus et al."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "16\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56500244140625,
+      74.60627746582031,
+      445.1908264160156,
+      347.5874938964844
+    ],
+    "text": "(2005) have administered the ADIS and other self-report measures to children as young as\n4 years old using several developmental adaptations such as providing reading assistance and\nusing visual aids when necessary. However, we currently have only limited data on the validity\nof these measures for the assessment of anxiety disorders for children who are as young.\nBecause our small sample size limits the generalizability of our results, randomized\ncontrolled studies are necessary in order to replicate our results and to conﬁrm the efﬁcacy\nof the programme. Moreover, studies with longer follow-ups should be conducted to examine\nlong-term changes. Conducting a component analysis to identify those that are most effective\n(e.g. relational component, relaxation techniques) appears relevant. Additional components\nmay be introduced such as cognitive restructuring, strategies for oppositional behaviours that\nare often related to SAD, or techniques to improve motivation in parents. These strategies may\nbe determined according to speciﬁc needs and characteristics of the parents and of the child\nusing a modular approach (Chorpita, 2007). The use of direct observational measures would\nprovide a more thorough examination of the impact of treatment in the future.\nFuture studies may examine the moderation or mediation effects of factors such as age of\nthe child, comorbid disorders, status of the child in the family (e.g. single child), marital status\n(e.g. single mother, divorced), and the presence of parental anxiety and depression using group\ndesigns. Exploring the impact of the child’s independence, sense of control and competence\nas well as the ability to express emotions as potential mechanisms of change may also further\nextend the research literature. Future research should examine how family processes (e.g.\nparental sense of competency, efﬁcacy beliefs) affect child treatment outcomes. To this end,\nresearchers should consider assessing how parents adjust after their children have undergone\ntreatment and what strategies they adopt to promote independence."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56600952148438,
+      367.41278076171875,
+      122.15934753417969,
+      377.3753662109375
+    ],
+    "text": "Conclusion"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56600952148438,
+      385.4413757324219,
+      445.1997985839844,
+      491.0478820800781
+    ],
+    "text": "Overall, our results indicate that CBT combined with a parent–child component from the\nPCIT may be effective in reducing SAD symptoms in young children even when the\npractitioner does not intervene directly with the child. In our study, having the parent apply the\nintervention under the supervision of a practitioner was sufﬁcient to produce desirable changes\nin behaviour in most participants. This approach may prove particularly useful when ﬁnancial\nand human resources are limited. Furthermore, involving the parents in the entire process may\npromote the generalization of the changes to all environments in which the parents are present.\nThat said, our study should be replicated to determine the generalizability of the results in a\nlarger sample."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56600952148438,
+      510.8731689453125,
+      125.77277374267578,
+      520.8357543945312
+    ],
+    "text": "Main points"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      74.56600952148438,
+      528.9107055664062,
+      445.1927795410156,
+      622.55615234375
+    ],
+    "text": "(1) Separation anxiety disorder (SAD) is a prevalent disorder, with a prevalence as high as\n10% among preschool children.\n(2) Among risk factors associated with the development of SAD, family factors such as\ninsecure attachment, parental stress and controlling parental practices are important.\n(3) Cognitive behaviour therapy (CBT) was found to be the best treatment for childhood\nanxiety disorders. However, few studies have examined the efﬁcacy of CBT to speciﬁcally\ntreat SAD and research on the impact of CBT for SAD in children younger than 7 years\nold has been very limited."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n17"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.592803955078125,
+      74.60627746582031,
+      418.21759033203125,
+      144.34756469726562
+    ],
+    "text": "(4) We examined the effects of a cognitive parent training programme with six children with\nSAD aged between 4 and 7 years. A non-concurrent multiple baseline design was used\nto examine the impact of the treatment. Five of six children no longer met the criteria for\nSAD diagnosis after treatment and at three-month follow-up.\n(5) We also found promising results concerning parental practices. Four mothers reported a\ndecrease in overprotection following their participation in the programme."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      169.96910095214844,
+      129.9077911376953,
+      179.93170166015625
+    ],
+    "text": "Acknowledgements"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      187.9977264404297,
+      418.2206115722656,
+      221.87353515625
+    ],
+    "text": "The ﬁrst author has received a fellowship from The Fonds de recherche du Québec – Santé\n(FRQS), as well as a fellowship from the Department of Psychology of the University of\nMontreal."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      239.8896026611328,
+      122.00944519042969,
+      249.85220336914062
+    ],
+    "text": "Ethical statement"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      257.918212890625,
+      418.19256591796875,
+      303.74615478515625
+    ],
+    "text": "All the authors of the present article have abided by the Ethical principles of research as set\nout by the American Psychiatric Association. Ethical approval was provided by the Ethics\nCommittee of the Department of Psychology (Arts and Science Faculty) at the University of\nMontreal, where the study was conducted."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      321.7622375488281,
+      130.4119110107422,
+      331.7248229980469
+    ],
+    "text": "Conﬂicts of interest"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      339.79083251953125,
+      418.2044982910156,
+      361.71453857421875
+    ],
+    "text": "Sandra Mayer-Brien, Lyse Turgeon and Marc Lanovaz have no conﬂicts of interest with\nrespect to this publication."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      379.7216491699219,
+      123.14019012451172,
+      389.6842346191406
+    ],
+    "text": "Financial support"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      397.75921630859375,
+      418.1934814453125,
+      419.6739501953125
+    ],
+    "text": "This research received no speciﬁc grant from any funding agency, commercial of not-for-proﬁt\nsectors."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59280776977539,
+      439.31890869140625,
+      188.1840362548828,
+      449.281494140625
+    ],
+    "text": "Recommended follow-up reading"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59199905395508,
+      462.5098876953125,
+      418.2137451171875,
+      493.4828186035156
+    ],
+    "text": "Eisen AR, Sussman JM, Schmidt T, Mason L, Hausler LA, Hashim R (2011). Separation anxiety\ndisorder. In Handbook of Child and Adolescent Anxiety disorders (ed. D. McKay and E. A. Storch),\npp. 245–259. doi: 10.1007/978-1-4419-7784-7_17"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59199905395508,
+      513.3636474609375,
+      93.84933471679688,
+      523.3262329101562
+    ],
+    "text": "References"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.59198760986328,
+      536.5438842773438,
+      418.2234191894531,
+      622.3194580078125
+    ],
+    "text": "Abidin RR (1995). Parenting Stress Index: Professional Manual (3rd edition). Odessa, FL:\nPsychological Assessment Resources.\nAchenbach TM, Rescorla LA (2001). Manual for the ASEBA School-Age Forms and Proﬁles.\nBurlington: University of Vermont, Research Center for Children, Youth and Families.\nAmerican Psychiatric Association (2000). Diagnostic and Statistical Manual of Mental Disorders (4th\nedition, text revision). Washington, DC: American Psychiatric Association.\nAmerican Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th\nedition). Arlington, VA: American Psychiatric Association."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "18\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      74.56231689453125,
+      75.27589416503906,
+      445.2096862792969,
+      610.3677978515625
+    ],
+    "text": "Barlow DH, Nock M K, Hersen M (2009). Single Case Experimental Designs: Strategies for Studying\nBehavior Change (3rd edition). Boston: MA, Pearson Education.\nBarrett PM, Lowry-Webster H, Turner CM (1999). FRIENDS for Children Group Leader Manual.\nBrisbane, Australia: Australian Academic Press.\nBarrett PM, Rapee RM, Dadds MM, Ryan SM (1996). Family enhancement of cognitive\nstyle in anxious and aggressive children. Journal of Abnormal Child Psychology 24, 187–\n203.\nBiederman J, Petty CR, Hirshfeld-Becker DR, Henin A, Faraone SV, Fraire M et al. (2007).\nDevelopmental trajectories of anxiety disorders in offspring at high risk for panic disorder and major\ndepression, Psychiatry Research 143, 245–252. doi: 10.1016/j.psychres.2007.02.016\nBigras M, LaFreniere PJ, Abidin RR (1996). Indice de stress parental: Manuel francophone en\ncomplément à l’édition américaine [Parental Stress Index. French manual to complement the\nAmerican edition]. New York, NY: Multi-Health Systems.\nBlatter-Meunier J, Schneider S (2011). Thérapie comportementale-cognitive des troubles émotionnels\nliés à l’anxiété de séparation. Journal de thérapie comportementale et cognitive 21, 84–89. doi:\n10.1016/j.jtcc.2011.07.011\nBögels SM, Brechman-Toussaint ML (2006). Family issues in child anxiety: attachment,\nfamily functioning, parental rearing and beliefs. Clinical Psychology Review 26, 834–856. doi:\n10.1016/j.cpr.2005.08.001\nBroeren S, Muris P (2008). Psychometric evaluation of two new parent-rating scales for measuring\nanxiety symptoms in young Dutch children. Journal of Anxiety Disorders 22, 949–958. doi:\n10.1016/j.janxdis.2007.09.008\nBrinkmeyer MY, Eyberg SM (2003). Parent–child interaction therapy for oppositional children. In\nEvidence-Based Psychotherapies for Children and Adolescents (ed. A. E. Kazdin and J. R. Weisz),\npp. 204–223. New York, NY: Guilford Press.\nBrumariu LE, Kerns KA (2010a). Mother–child attachment patterns and different types of anxiety\nsymptoms: is there speciﬁcity of relations? Child Psychiatry and Human Development 41, 663–674.\ndoi: 10.1007/s10578-010-0195-0\nBrumariu LE, Kerns KA (2010b). Parent–child attachment and internalizing symptoms in\nchildhood and adolescence: a review of empirical ﬁndings and future directions. Development and\nPsychopathology 22, 177–203. doi: 10.1017/S0954579409990344\nCarter AS, Wagmiller RJ, Gray SAO, McCarthy KJ, Horwitz SM, Briggs-Gowan MJ (2010).\nPrevalence of DSM-IV disorders in a representative, healthy birth cohort at school entry: socio-\ndemographic risks and social adaptation. Journal of the American Academy of Child and Adolescent\nPsychiatry 49, 686–698.\nCartwright-Hatton S, McNally D, Field AP, Stewart R, Laskey B, Dixon C et al. (2011). A new\nparenting-based group intervention for young anxious children: results of a randomized control\ntrial. Journal of the American Academy of Child and Adolescent Psychiatry 50, 242–251. e6.\ndoi:10.1016/j.jaac.2010.12.015\nChase RM, Pincus DB (2011). Sleep-related problems in children and adolescent with anxiety\ndisorders. Behavioral Sleep Medicine 9, 224–236. doi: 10.1080/15402002.2011.606768\nChoate ML, Pincus DB (2001). The Weekly Record of Anxiety at Separation: A Home Monitoring\nMeasure for Parents. Unpublished manuscript, Boston University Center for Anxiety and Related\nDisorders.\nChoate ML, Pincus DB, Eyberg SM, Barlow DH (2005). Parent–child interaction therapy for\ntreatment of separation anxiety disorder in young children: a pilot study. Cognitive and Behavioral\nPractice 12, 126–135. doi:10.1016/S1077-7229(05)80047-1\nChorpita BF (2007). Modular Cognitive-Behavioral Therapy for Childhood Anxiety Disorders. New\nYork, NY: Guilford Press."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n19"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      47.590240478515625,
+      75.27589416503906,
+      418.2361755371094,
+      610.3684692382812
+    ],
+    "text": "Costa\nNM,\nWeems\nCF,\nPellerin\nK,\nDalton\nR\n(2006).\nParenting\nstress\nand\nchildhood\npsychopathology: an examination of speciﬁcity to internalizing and externalizing symptoms. Journal\nof Psychopathology and Behavioral Assessment 28, 113–122. doi: 10.1007/s10862-006-7489-3\nde la Barra F, Vicente B, Saldivia S, Melipillan R (2014). Separation anxiety, social phobia and\ngeneralized anxiety disorders in the Chilean epidemiological study of children and adolescents.\nJournal of Child and Adolescent Behavior 2, 1–7. doi: 10.4172/jcalb.1000133\nDumas JE, LaFreniere PJ, Capuano F, Durning P (1997). Proﬁl Socio-Affectif (PSA): Évaluation des\ncompétences sociales et des difﬁcultés d’adaptation des enfants de 2 ans ½ à 6 ans. Paris, France:\nÉditions du Centre de Psychologie Appliquée.\nEhrenreich JT, Santucci LC, Weiner CL (2008). Separation anxiety disorder in youth: phenomenol-\nogy, assessment and treatment. Psichologia Conducta 16, 389–412. doi: 10.1901/jaba.2008.16-389.\nEisen AR, Raleigh H, Neuhoff CC (2008). The unique impact of parent training for separation anxiety\ndisorder in children. Behavior Therapy 39, 195–206. doi: 10.1016/j.beth.2007.07.004\nEsbjørn BH, Sømhovd MJ, Nielsen SK, Normann N, Leth I, Reinholdt-Dunne M (2014). Parental\nchanges after involvement in their anxious child’s cognitive behavior therapy. Journal of Anxiety\nDisorders 28, 664–670. doi: 10.1016/j.janxdis.2014.07.008\nFigueroa A, Soutullo C, Ono Y, Saito K (2012). Separation anxiety. In IACACAP e-\nTextbook of Child and Adolescent Mental Health (ed. J. M. Rey), pp.1–24. Retrieved from:\nhttp://iacapap.org/wp-content/uploads/F.2-SEPARATION-ANXIETY-300812.pdf\nFisher WW, Kelley ME, Lomas JE (2003). Visual aids and structured criteria for improving visual\ninspection and interpretation of single-case designs, Journal of Applied Behavior Analysis 36, 388–\n406. doi: 10.1901/jaba.2003.36-387\nFabiano GA (2007). Father participation in behavioral parent training for ADHD: review and\nrecommendations for increasing inclusion and engagement. Journal of Family Psychology 21, 683–\n693.\nFranz L, Angold A, Copeland W, Costello EJ, Towe-Goodman N, Egger H (2013). Preschool\nanxiety disorders in pediatric primary care: prevalence and comorbidity. Journal of the American\nAcademy of Child and Adolescent Psychiatry 52, 1294–1303. doi: 10.1016/j.jaac.2013.09.008\nHirshfeld-Becker DR, Masek B, Henin A, Blakely LR, Pollock-Wurman RA, McQuade J\net al. (2010). Cognitive behavioral therapy for 4- to 7-year-old children with anxiety disorders:\na randomized clinical trial. Journal of Consulting and Clinical Psychology 78, 498–510. doi:\n10.1037/a0019055\nHudson JL, Doyle AM, Gar N (2009). Child and maternal inﬂuence on parenting behavior in\nclinically anxious children. Journal of Clinical Child and Adolescent Psychology 38, 256–262. doi:\n10.1080/15374410802698438\nJacobson NS, Truax P (1991). Clinical signiﬁcance: a statistical approach to deﬁning meaningful\nchange in psychotherapy research. Journal of Consulting and Clinical Psychology 59, 12–19. doi:\n10.1037/0022-006X.59.1.12\nKearny CA, Sims KE, Pursell CR, Tillotson CA (2003). Separation anxiety disorder in young\nchildren: a longitudinal and family analysis. Journal of Clinical Child and Adolescent Psychology\n32, 593–598.\nLast CG, Francis K, Hersen M, Kazdin AE, Strauss CC (1987). Separation anxiety and school\nphobia: a comparison using DSM-III criteria. American Journal of Psychiatry 144, 653–657.\nLavigne JV, LeBailly SA, Hopkins J, Gouze KR, Binns HJ (2009). The prevalence of ADHD,\nODD, depression and anxiety in a community sample of 4-year-olds. Journal of Clinical Child and\nAdolescent Psychology 38, 315–328. doi: 10.1080/15374410902851382\nLessard J (2010). Les pratiques éducatives parentales: Le point de vue des parents et d’un observateur\n[Parental educative practives. Parents’ and Observers’ point of view]. Doctoral dissertation,\nUniversity of Montreal. Retrieved from: https://papyrus.bib.umontreal.ca"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "20\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      74.56303405761719,
+      75.27589416503906,
+      445.2250671386719,
+      610.3681030273438
+    ],
+    "text": "Lewinsohn PM, Holm-Denoma JM, Small JW, Seeley JR, (2008). Separation anxiety disorder in\nchildhood as a risk factor for future mental illness. Journal of American Academy of Child and\nAdolescent Psychiatry 47, 548–555. doi: 10.1097/CHI.0b013e31816765e7\nLiber JM, van Widenfelt BM, Goedhart AW, Utens EMWJ, van der Leeden AJM, Markus MT,\nTreffers PDA (2008). Parenting and parental anxiety and depression as predictors of treatment\noutcomes for childhood anxiety disorders. Has the role of fathers been underestimated? Journal of\nClinical Child and Adolescent Psychology 37, 747–758. doi: 10.1080/15374410802359692\nMarch S, Spence SH, Donovan CL (2009). The efﬁcacy of an internet-based cognitive-behavioral\ntherapy approach to the treatment of child anxiety disorders. Journal of Pediatric Psychology 34,\n474–487. doi: 10.1093/jpepsy/jsn099\nMcLeod BD, Wood JJ, Avny SB (2011). Parenting and child anxiety disorders. In Handbook of\nChild and Adolescent Anxiety Disorders (ed. D. McKay and E. A. Storch), pp. 213–228. doi:\n10.1007/978-1-4419-7784-7_15\nMofrad S, Abdullah R, Samah BA (2009). Perceived parental overprotection and separation anxiety:\ndoes speciﬁc parental rearing serve as speciﬁc risk factor? Asian Social Science 5, 109–119.\nMofrad S, Abdullah R, Uba I (2010). Attachment patterns and separation anxiety symptom. Asian\nSocial Science 6, 148–153.\nPahl KM, Barrett PM, Gullo MJ (2012). Examining potential risk factors for anxiety in early\nchildhood. Journal of Anxiety Disorders 26, 311–320. doi: 10.1016/j.janxdis.2011.12.013\nPincus DB, Eyberg SM, Choate ML (2005). Adapting Parent–Child Interaction Therapy for\nyoung children with separation anxiety disorder. Education and Treatment of Children 28,\n163–181.\nPincus DB, Santucci LC, Ehrenreich JT, Eyberg SM (2008). The implementation of Modiﬁed\nParent–Child Interaction Therapy for youth with separation anxiety disorder. Cognitive and\nBehavioral Practice 15, 118–125. doi: 10.1016/j.cbpra.2007.08.002\nPodell JL, Kendall PC (2011). Mothers and fathers in family cognitive-behavioral therapy for anxious\nyouth. Journal of Child and Family Studies 20, 182–195. doi: 10.1007/s10826-010-9420-5\nRaleigh H, Brien LK, Eisen AR (2002). Parent Training Treatment Manual for Separation Anxious\nChildren. Unpublished manuscript. Farleigh Dickinson University, Teaneck, NJ.\nReynolds S, Wilson C, Austin J, Hooper L. (2012). Effects of psychotherapy for anxiety in children\nand adolescents: a meta-analytic review. Clinical Psychology Review 32, 251–262.\nSantucci LC, Ehrenreich-May J (2013). A randomized control trial of the Child anxiety multi-day\nprogram (CAMP) for separation anxiety disorder. Child Psychiatry and Human Development 44,\n439–461. doi: 10.1007/s10578-012-0338-6\nSantucci LC, Ehrenreich JT, Trosper SE, Bennett SM, Pincus DB (2009). Development and\npreliminary evaluation of a one-week summer treatment program for separation anxiety disorder.\nCognitive and Behavioral Practice 16, 317–331. doi: 10.1016/j.cbpra.2008.12.005\nSchneider S, Blatter-Meunier J, Herren C, Adornetto C, In-Albon T, Lavallee K (2011).\nDisorder-speciﬁc cognitive-behavioral therapy for separation anxiety disorder in young children:\na randomized waiting-list-controlled trial. Psychotherapy and Psychosomatics 80, 206–215. doi:\n10.1159/000323444\nShear K, Jin R, Ruscio AM, Walters EE, Kessler RC (2006). Prevalence and correlates of estimated\nDSM-IV child and adult separation anxiety disorder in the National Comorbidity Survey Replication.\nAmerican Journal of Psychiatry 163, 1074–1083. doi: 10.1176/appi.ajp.163.6.1074\nSilverman WK, Albano AM (1996). The Anxiety Disorders Interview Schedule for DSM-IV: Child and\nParent versions. San Antonio, TX: Psychological Corporation.\nSilverman WK, Pina AA, Viswesvaran C (2008). Evidence-based psychosocial treatments for\nphobic and anxiety disorders in children and adolescents. Journal of Clinical Child and Adolescent\nPsychology 37, 105–130."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n21"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      47.590087890625,
+      75.27589416503906,
+      418.23150634765625,
+      621.31982421875
+    ],
+    "text": "Silverman WK, Saavedra LM, Pina AA (2001). Test–retest reliability of anxiety symptoms and\ndiagnoses with the Anxiety Disorders Interview Schedule for DSM-IV: Child and Parent versions.\nJournal of the American Academy of Child and Adolescent Psychiatry 40, 937–944. Retrieved from:\nhttp://journals.lww.com/jaacap\nSimon E, Dirksen C, Bögels S, Bodden D (2012). Cost-effectiveness of child-focused and parent-\nfocused interventions in a child anxiety prevention program. Journal of Anxiety Disorders 26, 287–\n296.\nSmith AM, Flannery-Schroeder EC, Gorman KS, Cook N (2014). Parent cognitive-behavioral\nintervention for the treatment of childhood anxiety disorders: a pilot study. Behaviour Research and\nTherapy 61, 156–161.\nSpence SH, Rapee R (1999). Preschool Anxiety Scale (Parent Report and Teacher version). Retrieved\nfrom: http://www.scaswebsite.com/docs/scas-preschool-scale.pdf\nSpence\nSH,\nRapee\nR,\nMcDonald\nC,\nIngram\nM\n(2001).\nThe\nstructure\nof\nanxiety\nsymptoms\namong\npreschoolers.\nBehaviour\nResearch\nand\nTherapy\n39,\n1293–1316.\ndoi:\n10.1016/S0005-7967(00)00098-X\nSwoboda CM, Kratochwill TR, Levin JR (2010). Conservative dual-criterion for single-case\nresearch: a guide for visual analysis of AB, ABAB, and multiple-baselines designs. (WCER Working\nPaper no. 2010–13). Retrieved from University of Wisconsin–Madison, Wisconsin Center for\nEducation Research website: http://www.wcer.wisc.edu/publications/workingPapers/papers.php\nThomas JC, Truax P (2008). Assessment and analysis of clinically signiﬁcant change. In Handbook\nof Research Methods in Abnormal and Clinical Psychology (ed. D. McKay), pp. 317–335. Thousand\nOaks, CA: Sage.\nThomasgard M, Metz WP, Edelbrock C, Shonkoff JP (1995). Parent–child relationship disorders.\nPart I. Parental overprotection and the development of the Parent Protection Scale. Journal of\nDevelopmental and Behavioral Pediatrics 16, 244–250.\nTurgeon L, Brousseau L (2001). Entrevue d’évaluation des troubles anxieux chez les enfants et\nles adolescents pour le DSM-IV (ADIS-C-P). [Anxiety Disorders Interview Schedule for Children\nand Adolescents for DSM-IV]. Unpublished manuscript. Fernand-Seguin Research Center, Louis-H.\nLafontaine Hospital, Montreal, Canada.\nTurgeon L, Brousseau L. (2002). Questionnaire sur l’anxiété à l’âge préscolaire [Preschoool Anxiety\nQuestionnaire]. Unpublished manuscript. Fernand-Seguin Research Center, Louis-H. Lafontaine\nHospital, Montreal, Canada.\nVenet M, Bigras M, Normandeau S (2002). Les qualités psychométriques du PSA-A/The\npsychometric qualities of the PSA-A [French version of the Socio-Affective Proﬁle]. Canadian\nJournal of Behavioural Science/Revue canadienne des sciences du comportement 34, 163–167.\nWaters AM, Ford LA, Wharton TA, Cobham VE (2009). Cognitive-behavioural therapy for young\nchildren with anxiety disorders: comparison of a child + parent condition versus a parent only\ncondition. Behaviour Research and Therapy 47, 654–662. doi: 10.1016/j.brat.2009.04.008\nWebster-Stratton C (1998). Preventing conduct problems in Head Start children: strengthening\nparenting competencies. Journal of Consulting and Clinical Psychology 66, 715–730.\nWood JJ (2006). Parental intrusiveness and children’s separation anxiety in a clinical sample. Child\nPsychiatry of Human Development 37, 73–87.\nWood JJ, McLeod BD, Piacentini JC, Sigman M (2009). One-year follow-up of family versus\nchild CBT for anxiety disorders: exploring the roles of child age and parental intrusiveness. Child\nPsychiatry and Human Development 40, 301–316. doi: 10.1007/s10578-009-0127-z.\nWood JJ, McLeod BD, Sigman M, Hwang WC, Chu BC (2003). Parenting and childhood anxiety:\ntheory, empirical ﬁndings, and future directions. Journal of Child Psychology and Psychiatry 44,\n134–151. doi: 10.1111/1469-7610.00106\nWood JJ, Piacentini JC, Bergman L, McCracken J, Barrios V (2002). Concurrent validity\nof the anxiety disorders section of the Anxiety Disorders Schedule for DSM-IV: Child and"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "22\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      74.5654067993164,
+      75.27589416503906,
+      445.18701171875,
+      128.1735076904297
+    ],
+    "text": "Parent versions. Journal of Clinical Child and Adolescent Psychology 31, 335–342. doi:\n10.1207/S15374424JCCP3103_05\nWood JJ, Piacentini JC, Southam-Gerow M, Chu BC, Sigman M (2006). Family cognitive-\nbehavioral therapy for child anxiety disorders. Journal of the American Academy of Child and\nAdolescent Psychiatry 45, 314–321."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      218.12399291992188,
+      147.6216278076172,
+      301.5976257324219,
+      157.584228515625
+    ],
+    "text": "Learning objectives"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      87.02116394042969,
+      165.65919494628906,
+      299.6579284667969,
+      175.62179565429688
+    ],
+    "text": "By the end of this paper, the reader should be able to:"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      87.02116394042969,
+      181.5983428955078,
+      432.7334289550781,
+      251.3394775390625
+    ],
+    "text": "(1) Describe the role of parents in the development, maintenance and treatment of\nseparation anxiety disorder in children.\n(2) Explain the most recent ﬁndings in parent training programmes for the treatment of\nseparation anxiety disorder in children.\n(3) Explain the relevance of using single-case designs in the clinical study of separation\nanxiety disorder."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      177.53399658203125,
+      44.5986213684082,
+      418.19952392578125,
+      54.66213607788086
+    ],
+    "text": "Separation anxiety disorder\n23"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      85.26290893554688,
+      407.216064453125,
+      94.32013702392578,
+      614.2080078125
+    ],
+    "text": "Appendix. Daily Diary of Separation Anxiety Symptoms"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      99.30366516113281,
+      82.73159790039062,
+      130.18572998046875,
+      614.2080078125
+    ],
+    "text": "Instructions: Please indicate the number of times your child showed the following behaviours on each day of the week. For each behaviour, record\nthe distress showed by your child on a scale ranging from 0 to 8 (0 = no distress, 8 = severe distress) as well as the degree of interference with your\ndaily functioning (0 = no impact on our activities, 8 = we were not able to do our activities)."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      137.23513793945312,
+      117.20496368408203,
+      142.461181640625,
+      595.6356201171875
+    ],
+    "text": "Day"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      576.7276000976562,
+      173.2796173095703,
+      604.0281982421875
+    ],
+    "text": "Behaviours \nrelated to \nseparation \nanxiety"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      501.4557189941406,
+      167.3637237548828,
+      561.928955078125
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      432.3923034667969,
+      167.3637237548828,
+      492.8655700683594
+    ],
+    "text": "#  \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      363.32891845703125,
+      167.3637237548828,
+      423.80218505859375
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      294.2660827636719,
+      167.3637237548828,
+      354.6018981933594
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      225.06475830078125,
+      167.3637237548828,
+      285.5369567871094
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      155.999267578125,
+      167.3637237548828,
+      216.47415161132812
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      150.16683959960938,
+      86.38446807861328,
+      167.3637237548828,
+      147.1339111328125
+    ],
+    "text": "# \nDistress \n(0−8)  \nInter- \nference \n(0−8)"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      174.24293518066406,
+      483.02056884765625,
+      179.46897888183594,
+      610.9071044921875
+    ],
+    "text": "Symptoms of separation anxiety related to day care"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      180.98513793945312,
+      571.4894409179688,
+      203.95834350585938,
+      610.9071044921875
+    ],
+    "text": "Refused to go to \nday care and to \nbe separated \nfrom his parent"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      208.77523803710938,
+      570.3923950195312,
+      231.7489471435547,
+      610.9071044921875
+    ],
+    "text": "Left the day care \nbefore the end of \nthe day to be \nwith his parents"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      236.42904663085938,
+      459.7695617675781,
+      241.65509033203125,
+      610.9071044921875
+    ],
+    "text": "Symptoms of separation anxiety related to the parent leaving"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      243.03204345703125,
+      575.6421508789062,
+      266.00469970703125,
+      610.9071044921875
+    ],
+    "text": "Cried/showed \ndistress before \nthe parent \nleaving"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      276.051025390625,
+      573.5556640625,
+      305.0776062011719,
+      610.9071044921875
+    ],
+    "text": "Complaints of \nphysical \nsickness before \nthe parent \nleaving"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      306.04302978515625,
+      577.8196411132812,
+      323.1008605957031,
+      610.9071044921875
+    ],
+    "text": "Cried/showed \ndistress when \nthe parent left"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      335.072021484375,
+      449.31353759765625,
+      340.2980651855469,
+      610.9071044921875
+    ],
+    "text": "Symptoms of separation anxiety related to play or other activities"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      343.46502685546875,
+      573.2734985351562,
+      360.6598205566406,
+      610.9071044921875
+    ],
+    "text": "Refused to play \nwithout the \nparent near him"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      74.56500244140625,
+      44.5986213684082,
+      301.68341064453125,
+      54.66213607788086
+    ],
+    "text": "24\nS. Mayer-Brien et al."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      129.46180725097656,
+      534.4714965820312,
+      138.51902770996094,
+      614.2169189453125
+    ],
+    "text": "Appendix. Continued"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      144.25010681152344,
+      111.41535186767578,
+      149.46495056152344,
+      592.9385986328125
+    ],
+    "text": "Day"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      156.05621337890625,
+      565.413818359375,
+      173.07748413085938,
+      609.8244018554688
+    ],
+    "text": "Behaviours related \nto separation \nanxiety"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      156.05514526367188,
+      84.47854614257812,
+      173.076416015625,
+      555.5987548828125
+    ],
+    "text": "# \nDistress \n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n(0−8)\n \nInter- \nference"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      156.0546112060547,
+      79.97650909423828,
+      167.17266845703125,
+      486.82049560546875
+    ],
+    "text": "# \nDistress \nInter- \nference \n# \nDistress \nInter- \nference \n# \nDistress \nInter- \nference \n# \nDistress \nInter- \nference \n# \nDistress \nInter- \nference \n# \nDistress \nInter- \nference"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      174.04010009765625,
+      484.545654296875,
+      179.25494384765625,
+      610.9229736328125
+    ],
+    "text": "Symptoms of separation anxiety related to bedtime"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      184.47421264648438,
+      87.93982696533203,
+      195.7289581298828,
+      610.9229736328125
+    ],
+    "text": "Slept in the \nparents’ bed"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      201.6343994140625,
+      567.3328857421875,
+      218.65567016601562,
+      610.9229736328125
+    ],
+    "text": "Refused to sleep \nwithout a parent in \nhis room"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      225.10951232910156,
+      576.53857421875,
+      242.1307830810547,
+      610.9229736328125
+    ],
+    "text": "Woke up his \nparents during \nnight"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      243.230712890625,
+      573.0943603515625,
+      260.2519836425781,
+      610.9229736328125
+    ],
+    "text": "Had nightmares \nconcerning \nseparation"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      261.2146911621094,
+      457.2266845703125,
+      266.4295349121094,
+      610.9229736328125
+    ],
+    "text": "Symptoms of separation anxiety related to staying with parent"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      269.4516906738281,
+      87.93982696533203,
+      280.56976318359375,
+      610.9229736328125
+    ],
+    "text": "Followed the parent \nall day"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      285.6517028808594,
+      573.64794921875,
+      302.6730041503906,
+      610.9229736328125
+    ],
+    "text": "Refused to stay \nalone without a \nparent"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      303.63568115234375,
+      448.440673828125,
+      308.85052490234375,
+      610.9229736328125
+    ],
+    "text": "Symptoms of separation anxiety related to the parent’s well-being"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      312.28369140625,
+      564.4412841796875,
+      335.3464050292969,
+      610.9229736328125
+    ],
+    "text": "Worried that \nsomething bad may \nhappen to his \nparent"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      336.3086853027344,
+      452.1476745605469,
+      341.5235290527344,
+      610.9229736328125
+    ],
+    "text": "Symptoms of separation anxiety related to the child’s well-being"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      342.7616882324219,
+      564.4308471679688,
+      359.78192138671875,
+      610.9229736328125
+    ],
+    "text": "Worried that \nsomething bad may \nhappen to him"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      365.2168884277344,
+      81.19644165039062,
+      385.2364501953125,
+      614.2169189453125
+    ],
+    "text": "Adapted from The Weekly Record of Anxiety Separation (WRAS) developed by Molly L. Choate and Donna B. Pincus, Boston University Center for\nAnxiety and Related Disorders. Reproduced by Eisen, A. R. and Schaeffer, C. E. (2005). Copyright 2001 by Molly L. Choate and Donna B. Pincus."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      7.799999713897705,
+      679.4112548828125,
+      269.8080139160156,
+      687.5821533203125
+    ],
+    "text": "https://doi.org/10.1017/S1754470X17000198 Published online by Cambridge University Press"
+  }
+]

@@ -1,0 +1,2762 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      35.401588439941406,
+      103.78695678710938,
+      45.36418533325195
+    ],
+    "text": "Original Article"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      69.28987884521484,
+      414.4227294921875,
+      146.97836303710938
+    ],
+    "text": "Mindfulness-based Intervention in\nElementary School Students With Anxiety\nand Depression: A Series of n-of-1 Trials on\nEffects and Feasibility"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      180.64517211914062,
+      386.528564453125,
+      223.20083618164062
+    ],
+    "text": "Catherine Malboeuf-Hurtubise, PhD1,2, Eric Lacourse, PhD3,\nCatherine Herba, PhD4,5,6, Genevie`ve Taylor, PhD2,4,\nand Leila Ben Amor, MD, MSc3,5"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      260.5290832519531,
+      563.095703125,
+      378.0937805175781
+    ],
+    "text": "Abstract\nMindfulness-based interventions constitute a promising option to address anxiety and depression in elementary school students.\nThis study evaluated the effect of a mindfulness-based intervention on anxiety and depression in elementary school students with\na diagnosis of anxiety or depression disorder. A single-subject experimental A-B-A design was used. Participants were three\nelementary school students from grades three and four, along with their teacher. Anxiety and depression were measured on\n10 occasions at baseline, during the intervention, and at follow-up. Primary hypotheses were tested using a univariate single case\nmultilevel modeling strategy and visual analysis. Following intervention, 2 participants reported improvements on anxiety and\ndepression, while their teachers reported deteriorating scores on these variables. Results from this n-of-1 trial design is con-\nsistent with other work suggesting caution with regard to the overall impact and efficacy of mindfulness-based interventions as a\nuniversal treatment option for youth. Future research is warranted."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      398.00799560546875,
+      561.97314453125,
+      419.9327087402344
+    ],
+    "text": "Keywords\nmindfulness-based meditation, cognitive-behavioral therapy, abnormal child psychology, clinical psychology, anxiety, depression"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      432.01007080078125,
+      392.8289489746094,
+      440.478271484375
+    ],
+    "text": "Received November 4, 2016. Received revised May 2, 2017. Accepted for publication July 21, 2017."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.98270034790039,
+      466.43402099609375,
+      300.04949951171875,
+      691.686767578125
+    ],
+    "text": "In Canada, approximately 10% to 20% of youth are diagnosed\nwith a mental disorder and report significant psychosocial\nadjustment difficulties at home, in school, and with friends as\na result of their mental illness.1 Only 1 in 5 children in need of\nmental health services actually access such resources.1 Poor\nmental health has been linked to elevated difficulties in school\nperformance and social relations, and represent significant\ncosts for society.2 The economic costs of mental health has\nbeen set at 50 billion dollars in Canada in 2011, representing\napproximately 2.8% of the gross domestic product.3 Empiri-\ncally based psychosocial interventions have been recom-\nmended to address mental health issues in youth, especially\nin school settings, to prevent and reduce economic costs of\npsychological distress of students.4 Faced with such an impor-\ntant proportion of students with mental health issues, it appears\ncrucial to develop skill-based interventions adapted to children\nin regular classroom settings. Mindfulness-based interventions\n(MBIs), initially developed to improve quality of life in\npatients suffering from chronic illnesses,5 are increasingly"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      311.980224609375,
+      466.51904296875,
+      563.052734375,
+      524.273193359375
+    ],
+    "text": "developing in school settings and constitute a promising option\nto address mental health issues in elementary school students.\nThe goal of this single case design study was to evaluate the\nimpact of an MBI on anxiety and depression on 3 elementary\nschool students with a diagnosed generalized anxiety disorder,"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      311.9809875488281,
+      550.4741821289062,
+      563.0343627929688,
+      631.748291015625
+    ],
+    "text": "1 Universite´ du Que´bec en Outaouais, Gatineau, Que´bec, Canada\n2 Research Unit on Mindfulness (GRIPA)\n3 Universite´ de Montre´al, Montre´al, Que´bec, Canada\n4 Universite´ du Que´bec a` Montre´al, Montre´al, Que´bec, Canada\n5 CHU Sainte-Justine, Mother and Child University Hospital Center, Montre´al,\nQue´bec, Canada\n6 Research Unit on Children’s Psychosocial Maladjustment, E´douard-\nMontpetit, Montre´al, Que´bec, Canada"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      311.98095703125,
+      643.6773071289062,
+      562.976806640625,
+      691.5025024414062
+    ],
+    "text": "Corresponding Author:\nCatherine Malboeuf-Hurtubise, Department of Educational Sciences,\nUniversite´ du Que´bec en Outaouais, Case postale 1250, succursale Hull,\nGatineau, Que´bec, J8X 3X7, Canada.\nEmail: catherine.malboeuf-hurtubise@uqo.ca"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      452.0692138671875,
+      56.347862243652344,
+      563.0146484375,
+      122.62244415283203
+    ],
+    "text": "Journal of Evidence-Based\nComplementary & Alternative Medicine\n2017, Vol. 22(4) 856-869\nª The Author(s) 2017\nReprints and permission:\nsagepub.com/journalsPermissions.nav\nDOI: 10.1177/2156587217726682\njournals.sagepub.com/home/cam"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      111.74169158935547,
+      710.8673095703125,
+      563.0407104492188,
+      734.7923583984375
+    ],
+    "text": "Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License\n(http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further\npermission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      70.0643310546875,
+      300.0194091796875,
+      103.89436340332031
+    ],
+    "text": "an anxiety disorder not otherwise specified with moderate\nspeech pathology, and a major depressive disorder with severe\nspeech pathology."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      122.52094268798828,
+      295.7442932128906,
+      148.42288208007812
+    ],
+    "text": "Background for This Study and Mindfulness-\nbased Intervention"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      154.70697021484375,
+      300.08612060546875,
+      236.44252014160156
+    ],
+    "text": "Mindfulness can be defined as the process by which we\n“[ . . . pay] attention in a particular way: on purpose, in the\npresent moment, and nonjudgmentally.”6 MBIs aim to help\npeople bring focus to the present moment and awareness to\nthe different manifestations of stress.7,8 Overall, in adults,\nresearch suggests that MBIs are effective in decreasing anxi-\nety and depressive symptoms, but with moderate effects.9"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      238.38568115234375,
+      299.9753723144531,
+      272.2724914550781
+    ],
+    "text": "Furthermore, MBIs have been proven effective to reduce\nrelapse of major depression in participants with three or more\ndepressive episodes.10,11"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98273849487305,
+      274.2722473144531,
+      300.1598815917969,
+      630.9113159179688
+    ],
+    "text": "MBI research in youth suggests promising results in alle-\nviating psychological symptoms related to both anxiety and\ndepression.12 Moreover, it has been suggested that MBIs may\nbe especially beneficial for children from clinical populations,\npresenting mental health disorders and higher levels of psycho-\nlogical distress.13 Results of randomized controlled trials with\nyouth have suggested that MBIs can be useful in decreasing\nruminative and intrusive thoughts, depressive and anxious\nsymptoms, stress and aggressiveness, and can increase empa-\nthy and optimism while fostering enhanced emotion regulation\nskills.14-16 Quasi-experimental studies have shown similar\neffects of MBIs, namely on conduct problems and opposition\nin teenagers.17 In school settings, MBIs have shown a positive\nimpact on cognitive performance and resilience to stress.18 A\nrecent literature review by Felver and colleagues19 suggested\nthat MBIs are both feasible and acceptable in school settings,\npresenting very few implementation barriers and good general-\nizability of the practices both inside and outside the classroom.\nHowever, despite being arguably the most in need for a psy-\nchosocial intervention, few studies have investigated the effect\nof MBIs for youth with an identified disability, such as mental\nhealth and/or learning disability diagnoses. MBIs could be useful\nfor these children, namely by helping them disengage from\nunpleasant emotions, modifying their behavior due to inadequate\nprocessing of emotions and decreasing avoidance through expo-\nsure to unpleasant emotions.20,21 Skills that are taught in MBIs\nmight also benefit many other children in preventing the onset of\nmental health and stress related symptoms by teaching important\nemotional regulation skills to all students, ultimately leading to\nbetter global functioning, happiness, and well-being.22-24"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      649.5381469726562,
+      299.99078369140625,
+      661.4932861328125
+    ],
+    "text": "Transdiagnostic Treatments and n-of-1 Trials"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      667.7776489257812,
+      300.0191955566406,
+      737.551025390625
+    ],
+    "text": "In an effort to maximize the effectiveness of different forms\nof a therapeutic intervention across different psychological\nconditions, researchers have recently worked on developing\ntransdiagnostic treatments.25 These treatments combine mul-\ntiple evidence-based therapeutic components and strategies\nthat have been proven efficacious for different targeted"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9804382324219,
+      70.06683349609375,
+      563.1276245117188,
+      127.82099914550781
+    ],
+    "text": "mental health populations (eg, children with depression,\nanxiety, or attention deficit and hyperactivity disorders) to\noffer a unified and refined treatment option that can be\napplied and useful with individuals suffering from differing\npsychological conditions.26"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9811096191406,
+      129.81878662109375,
+      563.1731567382812,
+      366.949462890625
+    ],
+    "text": "To offer such transdiagnostic treatments, intraindividual pro-\ncesses of change and their relation to different therapeutic stra-\ntegies must be identified.25 N-of-1 trials, which allow for the\nstudy of intraindividual change over time in one or more indi-\nviduals, can be useful in guiding researchers to build efficacious\ntransdiagnostic treatments.27,28 They are especially useful in the\nearly stages of treatment development and research, such as with\nMBIs for youth in school-based settings.29 As such, n-of-1\ntrials—also called single case designs, person-specific, or idio-\ngraphic approaches—allow a detailed, repeated measures, study\nof change of specific key variables over time, which offer an\ninsight on temporal causal patterns and functional relationships\nbetween variables.30 “[ . . . ] This is the primary goal of intensive\nsingle-case analysis, which is in itself less concerned with gen-\neralizability; rather, single-case studies are primarily concerned\nwith establishing functional relationships that can then be sub-\nject to systematic replication.”25 However, results from multiple\nand similar n-of-1 trials can be aggregated to provide an esti-\nmated global effect of a given treatment option for a specific\nsubset of a given population.29"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9808654785156,
+      368.9493713378906,
+      563.1341552734375,
+      617.9848022460938
+    ],
+    "text": "In recent years, the use of n-of-1 trials has gained in popu-\nlarity, namely in medicine, psychology, and educational\nsciences, in order to provide more precise and personalized\ntreatment options to patients.29 For example, in the United\nStates, a large multimillion initiative, called the Precision Med-\nicine Initiative, was launched in 2015 in order to produce\nexhaustive and comprehensive data on adult and pediatric can-\ncer progression and treatments and to favor the use of single\ncase designs.31 The Patient-Centered Outcomes Research Insti-\ntute, launched in 2010, also places a strong emphasis on\nresearch targeting individual differences and treatment\noptions.32 As such, n-of-1 trials allow both physicians and\npsychologists to gain better insight into individual response\npatterns to a proposed therapy. Furthermore, unlike the usual\nparallel-group randomized controlled trials (RCTs), n-of-1\ntrials can be tailored to the condition and treatment in ques-\ntion, as well as the outcomes most relevant to the patient. As a\nresult, it has been suggested that the n-of-1 trial design has the\npotential to provide the strongest evidence for individual\ntreatment decisions and should therefore occupy the pinnacle\nof the evidence pyramid.33"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9811096191406,
+      619.9855346679688,
+      563.0333862304688,
+      653.872314453125
+    ],
+    "text": "Thus, contrary to RCTs, the individualized approach of\nn-of-1 trials can counteract heterogeneity of treatment effects\nthat can be seen in large scale studies.34"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9809875488281,
+      673.4058227539062,
+      391.0340881347656,
+      685.3609619140625
+    ],
+    "text": "Present Study"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      311.9809875488281,
+      691.7020874023438,
+      563.1380615234375,
+      737.5509033203125
+    ],
+    "text": "The goal of the present study was to evaluate the transdiagnostic\npotential of an MBI for children with various diagnoses such as\ngeneralizedanxietydisorder,anxietydisordernot otherwisespec-\nified and major depressive disorder by using a single case design"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      563.030517578125,
+      47.09794616699219
+    ],
+    "text": "Malboeuf-Hurtubise et al\n857"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      70.0643310546875,
+      300.0831604003906,
+      127.81855773925781
+    ],
+    "text": "with 3 elementary school children to document the effectiveness\nof the intervention over a 3-month follow-up period. Ten assess-\nment time points were used in this project (3 preintervention, 4\nduring the intervention, and 3 postintervention). Both student and\nteacher report forms were collected in this project."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      144.40443420410156,
+      138.44271850585938,
+      156.35952758789062
+    ],
+    "text": "Primary Hypotheses"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      162.70068359375,
+      300.0443115234375,
+      232.4169464111328
+    ],
+    "text": "We hypothesized that our MBI would have a significant effect\non decreasing anxiety and depression symptoms in these chil-\ndren. Specifically, we hypothesized that anxiety and depression\nsymptoms would be lower at the end of the intervention phase\nwhen compared with the baseline phase. Improvements would\nbe maintained at follow-up."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      250.0232696533203,
+      97.1498031616211,
+      261.9783630371094
+    ],
+    "text": "Methods"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.981529235839844,
+      268.0596008300781,
+      300.0398864746094,
+      485.25799560546875
+    ],
+    "text": "An experimental A-B-A n-of-1 trial series design was used. This\ndesign was chosen as a methodologically sound, experimental alter-\nnative to studies with larger sample sizes, in order to help measure the\namplitude of change for each participant by means of regularly sched-\nuled assessments throughout the intervention.35 Furthermore, this\nn-of-1 trial was particularly appropriate since a small pool of children\nwith a diagnosis of anxiety and depression disorders within a regular\nschool context were available,36-38 and since a control condition was\nunavailable at the time of conducting this project.39 N-of-1 trials\ndesigns provide a rigorous means to evaluate the impact of a psycho-\nlogical treatment, while narrowing the gap between research and clin-\nical practice.38 Additionally, n-of-1 trials can be especially useful in\nevaluating the impact of complementary and alternative therapies,\nsuch as MBIs in youth.38 This study design and report was developed\nin accordance with the CONSORT (Consolidated Standards of\nReporting Trials) guidelines for n-of-1 trials.38 This study was con-\nducted in collaboration with a school board and an elementary school\nfrom Montreal, Canada. Ethics approval was obtained from all insti-\ntutions involved. Informed consent was obtained from all individual\nparticipants and their parents."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      502.0799255371094,
+      100.7124252319336,
+      514.0350341796875
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      520.1162109375,
+      300.0362548828125,
+      605.7864990234375
+    ],
+    "text": "Three elementary school students aged 9 to 10 years from grades 3 and\n4 attending regular classrooms participated in this study, along with\ntheir 3 teachers. Participants from this study attended an elementary\nschool in the underprivileged neighborhood of Montreal-North, in\nMontreal, Canada. All participants fulfilled the following criteria:\nThey had previously received a psychological diagnosis for a mental\nhealth disorder based on diagnostic criteria from the Diagnostic and\nStatistical Manual of Mental Disorders, Fifth Edition (DSM-5),40"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      607.763427734375,
+      300.0408020019531,
+      737.3139038085938
+    ],
+    "text": "were experiencing persistent psychosocial adjustment difficulties in\nschool, and were assessed by a psychologist to confirm the presence of\na psychological diagnosis. None of the participants were taking any\nform of medication to treat psychological symptoms at the time of this\nstudy. For the purposes of this study, participants had to be willing to\nparticipate in an 8-week MBI and be available to answer question-\nnaires during all phases of the study. It was also necessary that all\nteachers were available to fill out questionnaires at the same time as\ntheir student for all assessment periods. Teachers were not involved in\nthe group meetings. As this project was conducted in French, partici-\npants were required to speak and understand the language. No attrition\nwas experienced in this study; all students and their respective teacher"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9822082519531,
+      308.3086853027344,
+      563.01513671875,
+      350.1562194824219
+    ],
+    "text": "filled out pre- and postintervention questionnaires. Participants were\nreferred by the school psychology service to take part in this study.\nParticipant characteristics can be found in Table 1. Participant names\nwere changed to protect their confidentiality."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      367.26422119140625,
+      476.3588562011719,
+      379.2193298339844
+    ],
+    "text": "Anna (Generalized Anxiety Disorder)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      385.30047607421875,
+      563.041748046875,
+      525.7916870117188
+    ],
+    "text": "Anna was a fourth-grade, 10-year old elementary school student. She\nwas of Canadian descent and her mother tongue was French. She was\nborn in Canada and had always been educated in French. Anna had\nreceived a psychological diagnosis of generalized anxiety disorder,\nand was experiencing persistent psychosocial adjustment difficulties\nin school. Specifically, absenteeism was a major problem for Anna. At\npreintervention, on average, she would attend school 2 days per week,\nout of 5. As a consequence of her absences, she was missing crucial\nnotions that were taught by her teacher and actively avoiding exam-\ninations. Additionally, Anna also had frequent verbalizations of anxi-\nety pertaining to the fear of her mother becoming ill or injured. She\nalso feared becoming ill herself. She was in frequent conflicts with her\nclassmates and had only a few friends."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      542.8988037109375,
+      522.1217041015625,
+      568.80078125
+    ],
+    "text": "Bob (Anxiety Disorder Not Otherwise Specified\nand Moderate Speech Pathology)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      574.938232421875,
+      563.0490112304688,
+      737.3134155273438
+    ],
+    "text": "Bob was a third-grade, 9-year old elementary school student. He was\nof Haitian descent and his mother tongues were Creole and French. He\nwas born in Canada and had always been educated in French. Bob had\nreceived a psychological diagnosis of anxiety disorder not otherwise\nspecified and was experiencing persistent psychosocial adjustment\ndifficulties in school. Specifically, Bob displayed multiple signs of\nrigid behavior in school. For instance, he refused to eat at school with\nhis classmates. Bob had recently undergone multiple medical exam-\ninations, in order to eliminate any gastrointestinal reasons explaining\nhis fear of eating. As a result of these examinations, Bob’s rigidity had\nincreased and he had recently developed a fear of becoming ill, of the\ndoctor, and of the dentist. When one of his classmates was sick, Bob\ninsisted to go back home or to move his desk away from this person.\nBob also had a diagnosis of moderate speech pathology, which had\nbeen diagnosed by a certified speech language pathologist."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      70.56005096435547,
+      446.2479553222656,
+      79.52635192871094
+    ],
+    "text": "Table 1. Participant Characteristics."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      465.4490966796875,
+      89.15526580810547,
+      493.3558349609375,
+      98.12156677246094
+    ],
+    "text": "Student"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      107.86437225341797,
+      533.3347778320312,
+      116.83067321777344
+    ],
+    "text": "Characteristic\nAnna\nBob\nMike"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      137.06134033203125,
+      546.3932495117188,
+      208.7854461669922
+    ],
+    "text": "Age, years\n10\n9\n9\nGrade\n4\n3\n3\nEthnicity\nCaucasian\nHaitian\nHispanic\nPrimary language\nFrench\nFrench, Creole\nSpanish\nDiagnosis\nGeneralized\nanxiety\ndisorder"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      448.0445861816406,
+      178.89898681640625,
+      509.70233154296875,
+      208.78453063964844
+    ],
+    "text": "Anxiety disorder\nnot otherwise\nspecified"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      178.8980712890625,
+      563.0014038085938,
+      240.19078063964844
+    ],
+    "text": "Major\ndepressive\ndisorder\nComorbidities\n—\nModerate\nspeech\npathologya"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      515.7919921875,
+      210.30810546875,
+      562.997314453125,
+      240.1936492919922
+    ],
+    "text": "Severe\nspeech\npathologya"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      241.6593017578125,
+      386.7187805175781,
+      271.54486083984375
+    ],
+    "text": "Attendance (during\nmindfulness-based\nintervention)"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      395.7728576660156,
+      241.65838623046875,
+      551.6851196289062,
+      250.6246795654297
+    ],
+    "text": "No absences No absences\n1 absence"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      311.9809875488281,
+      279.4726257324219,
+      450.0462646484375,
+      289.2664794921875
+    ],
+    "text": "aDiagnosed by a certified speech therapist."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      562.9932250976562,
+      47.09794616699219
+    ],
+    "text": "858\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98270034790039,
+      70.08002471923828,
+      287.76434326171875,
+      95.98196411132812
+    ],
+    "text": "Mike (Major Depressive Disorder and Severe Speech\nPathology)"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98270034790039,
+      102.0627212524414,
+      300.0804138183594,
+      286.37664794921875
+    ],
+    "text": "Mike was a third-grade, 9-year old elementary school student. He\nwas of Hispanic descent and his mother tongue was Spanish,\nalthough he was fluent in French. He was an immigrant and had\narrived in Canada with his mother when he was a toddler. He has\nalways been educated in French. Mike had received a psychological\ndiagnosis of major depressive disorder, and was experiencing per-\nsistent psychosocial adjustment difficulties in school. He also had a\ndiagnosis of severe speech pathology, which had been diagnosed by\na certified speech therapist. Specifically, his teacher reported that he\ncried frequently in class and withdrew from his classmates. He was\noften sad and tired during the day. He would get easily discouraged\nwhen he had to complete a difficult task and would often fail to\ncomplete the given assignments. This was a cause for alarm from\nthe school personnel, as Mike had always been known as a very\nresilient and perseverant student, in spite of his severe speech pathol-\nogy. At the time of referral, Mike was in danger of repeating his\nschool year because of his overall grades."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98270034790039,
+      303.99493408203125,
+      253.82981872558594,
+      315.9500427246094
+    ],
+    "text": "Mindfulness-based Intervention for This Study"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98196029663086,
+      322.03118896484375,
+      300.1190490722656,
+      626.8741455078125
+    ],
+    "text": "This intervention was adapted from previous work done by the\nfirst author with children and adolescents.41,42 Specifically, this\nintervention was inspired by Mindfulness-based cognitive therapy\nprotocols developed by a team at the Centre de consultation psy-\nchologique specialise´ of the Universite´ Catholique de Louvain\n(Center for specialized psychological consultation, Catholic Uni-\nversity of Leuven, Belgium).43 The intervention manual was\nreviewed and approved by clinical psychology faculty members\nwith expertise of mindfulness. The first author of this article, a\ntrained therapist in MBI with previous experience with groups in\npediatric oncology and school psychology, led the intervention.\nThe MBI lasted 8 weeks. The group met once a week for 60\nminutes. The duration of each session was adapted to (1) fit one\ndaily classroom period, hence facilitating the implantation of this\nproject and (2) offer a developmentally appropriate intervention\nspecifically targeted to match elementary school students’ shorter\nattention span. Weekly sessions included introduction to mindful\neating, body scan, and breathing meditations, along with the obser-\nvation of thoughts, physical sensations, and emotions. Homework\nwas assigned every week, and home practice was required at least\nonce a week. Guided meditations were recorded and a copy was\ngiven to participants for home practice. Group discussions regard-\ning homework and home practice completion were held at the\nbeginning of each session to monitor treatment adherence. The\nintervention did not include a silent retreat. Students were not\nclose friends and did not interact outside sessions. A detailed\nsession-by-session summary of the MBI intervention can be found\nin Table 2."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98270034790039,
+      644.5491333007812,
+      92.52317810058594,
+      656.5042724609375
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98270034790039,
+      662.58544921875,
+      300.0175476074219,
+      737.3141479492188
+    ],
+    "text": "For the purposes of this study, a validated French version of each scale\nwas selected. Given the repeated-measures component of this study,\nspecific items of the following scales were chosen, in order to ensure\nthat questionnaires could be filled out in a reasonable amount of time\n(approximately 5-10 minutes) by both students and teachers. A total of\n8 items were administered to students and 10 items were administered\nto teachers."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      311.4217224121094,
+      401.32861328125,
+      323.3768310546875
+    ],
+    "text": "Symptom Measures"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9803771972656,
+      329.864501953125,
+      563.0913696289062,
+      481.9131774902344
+    ],
+    "text": "Behavior Assessment System for Children, Second Edition (BASC-II).\nThis measure was used to evaluate internalizing symptoms in students.\nItems from the Teacher Report Form and the Self-Report form were\nused for this project. This measure presents good interrater agreement\n(r ¼ 0.53-0.74) and test-retest reliability (r ¼ 0.7-0.8), along with high\ninternal consistency (a ¼ 0.8-0.9) and clinical validity.44 Construct\nvalidity for the Teacher Report Form is also good (a ¼ 0.7-0.8) when\nthe BASC-II is compared with similar behavioral assessment scales\nsuch as the Child Behavior Check List45 and the Conners Scale–\nRevised.46 The anxiety (self-report; 3 items, eg, “I worry about little\nthings”; and teacher report; 3 items, eg, “Worries about things that\ncannot be changed”), and depression (self-report; 5 items, eg,\n“Nothing ever goes right for me”; and teacher report; 5 items, eg,\n“Seems lonely”) subscales of the BASC-II were used in this project."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      499.925537109375,
+      388.6490783691406,
+      511.8806457519531
+    ],
+    "text": "Change Measure"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.97991943359375,
+      518.311767578125,
+      563.0560302734375,
+      659.4190063476562
+    ],
+    "text": "Five-Facet Mindfulness Questionnaire. This measure was used to\nevaluate perceived mindfulness in students.47 It was used to assess\nthe extent to which students become more mindful as they are exposed\nto the intervention. The measure presents good internal consistency\n(a ¼ 0.72-0.92). A total of 6 items from this scale were used in this\nproject, taken from the following 3 subscales (2 items per subscale):\nObserve (eg, “When I take a shower or bath, I stay alert to the sensa-\ntions of water on my body “), Act with Awareness (eg, “I do jobs or\ntasks automatically without being aware of what I’m doing”) and\nNonreact (eg, “I perceive my feelings and emotions without having\nto react to them”). Items from these subscales were selected because\nthey were closest to critical mindfulness concepts that were taught in\nthis MBI."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      677.4310302734375,
+      419.1034851074219,
+      689.3861694335938
+    ],
+    "text": "Assessment Time Points"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      695.46728515625,
+      563.102783203125,
+      737.3148193359375
+    ],
+    "text": "A total of 10 assessment time points were included in this project. Three\nbaseline assessments were completed during phase A (1 assessment per\nweek), 4 assessments were completed during the active treatment phase\nB (1 assessment every 2 weeks in order to allow participants to acquire"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      70.56005096435547,
+      526.38232421875,
+      79.52635192871094
+    ],
+    "text": "Table 2. Mindfulness-based Intervention Session Content."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      89.15526580810547,
+      375.2167053222656,
+      98.12156677246094
+    ],
+    "text": "Session Content"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      311.9809875488281,
+      107.86437225341797,
+      562.9701538085938,
+      284.2413635253906
+    ],
+    "text": "1\nOverview of class rules and participant presentations.\nExpectations with regard to the intervention. Introduction\nto mindful eating.\n2\nBody scan meditation. Introduction to components of emotions\n(thoughts, physical sensations, behavior) and stress\n3\nBreathing meditation. Introduction to sitting meditation.\nMindful movements through yoga-like poses.\n4\nBreathing meditation. Introduction to concepts of\nacceptance of emotions.\n5\nMindful check-in exercises. Mindfulness through the senses.\n6\nBreathing meditation with a special focus on thoughts and\njudgments. Group discussion on thoughts and judgments.\n7\nWalking meditation. Group discussion on self-care and\nacceptance.\n8\nShort sitting meditation. Feedback regarding intervention.\nDistribution of a pebble stone as a reminder of the\nexperience."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.98149108886719,
+      38.128047943115234,
+      563.029296875,
+      47.09434509277344
+    ],
+    "text": "Malboeuf-Hurtubise et al\n859"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      397.65948486328125,
+      300.00946044921875,
+      428.5654296875
+    ],
+    "text": "and practice new skills), and 3 assessments were taken during the\nfollow-up phase A (1 assessment per month). Students and teachers\nfilled out all measures at all assessment time points."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      447.2578125,
+      109.773193359375,
+      459.2129211425781
+    ],
+    "text": "Data Analysis"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98160171508789,
+      465.2940979003906,
+      300.0567626953125,
+      605.9163818359375
+    ],
+    "text": "Methods of assessment in n-of-1 trials have been the subject of\nongoing debates in the past years.48 However, although debates\nregarding the appropriateness and accuracy of different methods\npersist, recent developments in this field of research have sug-\ngested that the use of statistical analyses, when combined with\nvisual analysis, can be useful in analyzing results of n-of-1\ntrials.49,50 Multilevel modeling strategies, when used in single case\ndesign research, can provide evidence of treatment effects, namely\nby providing information related to observed changes at the begin-\nning of a new phase and to differences in slopes of symptom\nratings from one phase to another.51-53 Furthermore, multilevel\nmodeling approaches have been validated with small sample sizes\n(eg, N ¼ 4-8).54,55"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.981258392333984,
+      607.763427734375,
+      300.0794372558594,
+      737.3154296875
+    ],
+    "text": "In this study, primary hypotheses were tested using a single\ncase multilevel modeling strategy enabling the testing of compar-\nisons between A-B-A phases, and their statistical significance.\nThese analyses are based on a modeling strategy suggested by\nMoeyaert and colleagues.56 In our model, b0, b1, and b2 represent\nthe estimated baseline level, the treatment effect and follow-up\neffect for each subject. Autocorrelation was considered through\nAR1. Fixed effect coefficients and their P values are presented\nin Tables 3, 4, and 5. P values were considered according to the\nP ¼ .05 threshold.\nIn their article, Moeyaert and colleagues56 present a modeling\nstrategy for analyzing n-of-1 trial data, with the same sample size"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9810791015625,
+      647.1650390625,
+      563.1082763671875,
+      736.8038330078125
+    ],
+    "text": "as in this study (N ¼ 3).56 In this article, the authors report having\nsufficient statistical power to detect pre-to-post intervention effects\nin their sample, and conclude that a sample of 3 is sufficient to\nensure adequate statistical power. Further work by the same group\nof authors has also stipulated that adequate statistical power is\nreached in small sample sizes that are characteristic of n-of-1\ntrials, specifically when their modeling strategy is employed to\nanalyze the data.57"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      70.56005096435547,
+      299.98358154296875,
+      89.95774841308594
+    ],
+    "text": "Table 3. Results of Empirical Estimations of the Case-Specific Effects\nUsing the Basic 3-Level Model for Anxiety."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      106.41275024414062,
+      99.64403533935547,
+      296.2571105957031,
+      119.04173278808594
+    ],
+    "text": "Time Point\nParameter\nParameter\nEstimate\nStandard\nError\nPa"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      128.78369140625,
+      297.55755615234375,
+      201.37942504882812
+    ],
+    "text": "Case 1\nSelf-report\nBaseline\nb0\n4.33\n1.61\n.22\nTreatment\nb1\n2.31\n1.62\n.21\nFollow-up\nb2\n0.98\n2.03\n.66\nTeacher\nreport\nBaseline\nb0\n3.76\n0.84\n.20\nTreatment\nb1\n1.15\n1.07\n.44\nFollow-up\nb2\n0.87\n1.19\n.61"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.982181549072266,
+      212.51873779296875,
+      298.95733642578125,
+      285.0582275390625
+    ],
+    "text": "Case 2\nSelf-report\nBaseline\nb0\n1.74\n1.16\n.73\nTreatment\nb1\n\u00020.91\n0.69\n.23\nFollow-up\nb2\n\u00020.88\n0.94\n.39\nTeacher\nreport\nBaseline\nb0\n5.24\n1.91\n80\nTreatment\nb1\n\u00020.98\n0.65\n.17\nFollow-up\nb2\n\u00022.94\n0.90\n.01"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.9822883605957,
+      296.1983337402344,
+      298.9572448730469,
+      368.7369384765625
+    ],
+    "text": "Case 3\nSelf-report\nBaseline\nb0\n5.60\n1.15\n.09\nTreatment\nb1\n\u00021.06\n1.40\n.51\nFollow-up\nb2\n1.05\n1.60\n.59\nTeacher\nreport\nBaseline\nb0\n1.73\n0.18\n.00\nTreatment\nb1\n1.51\n0.27\n.02\nFollow-up\nb2\n3.24\n0.26\n.00"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      375.8506164550781,
+      239.30691528320312,
+      385.5876770019531
+    ],
+    "text": "aValues in boldface indicate statistical significance (P < .05)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      70.56005096435547,
+      563.0401000976562,
+      89.95774841308594
+    ],
+    "text": "Table 4. Results of Empirical Estimations of the Case-Specific Effects\nUsing the Basic 3-Level Model for Depression."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      369.4110412597656,
+      99.64403533935547,
+      559.2554931640625,
+      119.04173278808594
+    ],
+    "text": "Time Point\nParameter\nParameter\nEstimate\nStandard\nError\nPa"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      128.78369140625,
+      561.955810546875,
+      201.37942504882812
+    ],
+    "text": "Case 1\nSelf-report\nBaseline\nb0\n\u00020.99\n117.8\n.99\nTreatment\nb1\n4.99\n1.19\n.16\nFollow-up\nb2\n4.99\n1.68\n.22\nTeacher\nreport\nBaseline\nb0\n3.98\n0.19\n.00\nTreatment\nb1\n1.27\n0.26\n.02\nFollow-up\nb2\n0.38\n0.28\n.28"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9808044433594,
+      212.51873779296875,
+      561.955810546875,
+      285.0582275390625
+    ],
+    "text": "Case 2\nSelf-report\nBaseline\nb0\n2.71\n0.46\n.01\nTreatment\nb1\n\u00021.15\n0.62\n.17\nFollow-up\nb2\n\u00021.79\n0.75\n.10\nTeacher\nreport\nBaseline\nb0\n2.00\n0.13\n.00\nTreatment\nb1\n\u00020.06\n0.18\n.73\nFollow-up\nb2\n\u00020.13\n0.19\n.50"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9808044433594,
+      296.1983337402344,
+      560.5570068359375,
+      368.7369384765625
+    ],
+    "text": "Case 3\nSelf-report\nBaseline\nb0\n3.25\n1.74\n.37\nTreatment\nb1\n0.04\n1.74\n.98\nFollow-up\nb2\n0.76\n2.19\n.75\nTeacher\nreport\nBaseline\nb0\n5.49\n77.8\n.99\nTreatment\nb1\n1.99\n2.61\n.65\nFollow-up\nb2\n3.99\n3.69\n.56"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      375.8506164550781,
+      502.3627624511719,
+      385.5876770019531
+    ],
+    "text": "aValues in boldface indicate statistical significance (P < .05)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      402.21356201171875,
+      563.0401000976562,
+      421.6677551269531
+    ],
+    "text": "Table 5. Results of Empirical Estimations of the Case-Specific Effects\nUsing the Basic 3-Level Model for Mindfulness."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      362.89166259765625,
+      431.2975769042969,
+      558.6885986328125,
+      450.7517395019531
+    ],
+    "text": "Time Point\nParameter\nParameter\nEstimate\nStandard\nError\nPa"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      460.4938659667969,
+      561.4453735351562,
+      501.6817321777344
+    ],
+    "text": "Case 1\nSelf-\nreport\nBaseline\nb0\n11.61\n0.29\n.00\nTreatment\nb1\n0.31\n0.39\n.49\nFollow-up\nb2\n0.90\n0.41\n.13"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9805603027344,
+      512.8218383789062,
+      561.4457397460938,
+      553.9526977539062
+    ],
+    "text": "Case 2\nSelf-\nreport\nBaseline\nb0\n15.25\n0.65\n.00\nTreatment\nb1\n\u00021.94\n0.87\n.10\nFollow-up\nb2\n\u00026.76\n1.08\n.01"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9808654785156,
+      565.0927734375,
+      560.0457153320312,
+      606.2801513671875
+    ],
+    "text": "Case 3\nSelf-\nreport\nBaseline\nb0\n7.75\n5.19\n.79\nTreatment\nb1\n3.83\n2.22\n.13\nFollow-up\nb2\n0.73\n3.07\n.82"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      311.9809875488281,
+      613.3938598632812,
+      502.3627624511719,
+      623.1309814453125
+    ],
+    "text": "aValues in boldface indicate statistical significance (P < .05)."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      562.9932250976562,
+      47.09794616699219
+    ],
+    "text": "860\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.98270034790039,
+      622.49560546875,
+      169.3956756591797,
+      634.4507446289062
+    ],
+    "text": "Visual Analysis of the Data"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.982208251953125,
+      640.5319213867188,
+      300.04266357421875,
+      737.20166015625
+    ],
+    "text": "Visual analysis of our data for all participants was also completed.\nOne of the strengths of visual analysis is that it is very conservative in\nthe evaluation of change across phases.58 Stable or deteriorating levels\nof the problematic target behavior needs to be established before the\nonset of an intervention phase. In addition, only robust changes in the\ndirection of treatment at or near the point of treatment can be inter-\npreted as a basic effect. Finally, an experimental effect is based on the\nobservation of 3 basic effects at 3 different phases within 1 single case\nexperimental design for each dependent variable.58"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      311.9809875488281,
+      622.49560546875,
+      394.2200622558594,
+      651.4019165039062
+    ],
+    "text": "Results\nAnxiety Symptoms"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      311.9809875488281,
+      657.7429809570312,
+      563.051513671875,
+      679.6676025390625
+    ],
+    "text": "Graphic presentation of the anxiety symptoms results for all\nparticipants can be found in Figure 1."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      311.9809875488281,
+      702.5866088867188,
+      563.1144409179688,
+      736.4166259765625
+    ],
+    "text": "Participant 1: Anna (Generalized Anxiety Disorder). Visual analysis\nof the data for Anna indicates low levels of anxiety symptoms\nfrom self-reported questionnaires and moderate levels of"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56869506835938,
+      203.1140899658203,
+      152.3876190185547,
+      210.64649963378906
+    ],
+    "text": "0"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56869506835938,
+      180.9914093017578,
+      152.3876190185547,
+      188.52381896972656
+    ],
+    "text": "2"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56869506835938,
+      158.82130432128906,
+      152.3876190185547,
+      166.3537139892578
+    ],
+    "text": "4"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56869506835938,
+      136.65272521972656,
+      152.3876190185547,
+      144.1851348876953
+    ],
+    "text": "6"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56869506835938,
+      114.52852630615234,
+      152.3876190185547,
+      122.06092071533203
+    ],
+    "text": "8"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      163.1785430908203,
+      212.9016876220703,
+      422.5232238769531,
+      220.43409729003906
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      136.7692108154297,
+      134.5596923828125,
+      144.30160522460938,
+      179.7821044921875
+    ],
+    "text": "Anxiety scores"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      281.40020751953125,
+      222.80348205566406,
+      302.4080810546875,
+      230.33587646484375
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      459.1731872558594,
+      85.69352722167969,
+      477.6793518066406,
+      97.736328125
+    ],
+    "text": "Id 1"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      452.21630859375,
+      159.70265197753906,
+      463.4312744140625,
+      167.2350616455078
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      452.21630859375,
+      173.2921905517578,
+      476.764404296875,
+      180.82460021972656
+    ],
+    "text": "Teacher"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      162.80686950683594,
+      89.34468841552734,
+      372.648193359375,
+      106.06055450439453
+    ],
+    "text": "Baseline\nAc\u0002ve treatment   \nFollow-up\n(Phase A)                           (Phase B)                                              (Phase A)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56912231445312,
+      365.49151611328125,
+      152.38804626464844,
+      373.0238952636719
+    ],
+    "text": "0"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56912231445312,
+      344.0166320800781,
+      152.38804626464844,
+      351.54901123046875
+    ],
+    "text": "2"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56912231445312,
+      322.5425109863281,
+      152.38804626464844,
+      330.07489013671875
+    ],
+    "text": "4"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56912231445312,
+      301.0683898925781,
+      152.38804626464844,
+      308.60076904296875
+    ],
+    "text": "6"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56912231445312,
+      279.54833984375,
+      152.38804626464844,
+      287.0807189941406
+    ],
+    "text": "8"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      163.13226318359375,
+      375.27685546875,
+      420.0885314941406,
+      382.8092346191406
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      136.7696990966797,
+      298.4190368652344,
+      144.30209350585938,
+      343.64129638671875
+    ],
+    "text": "Anxiety scores"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      280.148193359375,
+      385.1785888671875,
+      301.15606689453125,
+      392.71099853515625
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      454.6742858886719,
+      248.30088806152344,
+      473.14556884765625,
+      260.34368896484375
+    ],
+    "text": "Id 2"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      449.7113037109375,
+      323.5623779296875,
+      460.924072265625,
+      331.0947570800781
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      449.7113037109375,
+      337.1515808105469,
+      476.7262878417969,
+      344.6839599609375
+    ],
+    "text": "Teachert"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      160.48841857910156,
+      251.95179748535156,
+      372.0140075683594,
+      268.66845703125
+    ],
+    "text": "Baseline\nAc\u0002ve treatment   \nFollow-up\n(Phase A)                           (Phase B)                                              (Phase A)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56764221191406,
+      541.4083251953125,
+      152.38656616210938,
+      548.9407348632812
+    ],
+    "text": "0"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56764221191406,
+      516.9197387695312,
+      152.38656616210938,
+      524.4521484375
+    ],
+    "text": "2"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56764221191406,
+      492.43194580078125,
+      152.38656616210938,
+      499.9643249511719
+    ],
+    "text": "4"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56764221191406,
+      467.9441223144531,
+      152.38656616210938,
+      475.47650146484375
+    ],
+    "text": "6"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      148.56764221191406,
+      443.45477294921875,
+      152.38656616210938,
+      450.9871520996094
+    ],
+    "text": "8"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      163.177490234375,
+      551.1959228515625,
+      422.5221862792969,
+      558.7283325195312
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      136.76870727539062,
+      467.5668640136719,
+      144.3011016845703,
+      512.7883911132812
+    ],
+    "text": "Anxiety scores"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      281.40020751953125,
+      561.0966796875,
+      302.4080810546875,
+      568.6290893554688
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      454.6742858886719,
+      411.8360290527344,
+      473.14556884765625,
+      423.8788146972656
+    ],
+    "text": "Id 3"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      452.21630859375,
+      492.7085876464844,
+      463.4312744140625,
+      500.240966796875
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      452.21630859375,
+      506.2974548339844,
+      476.764404296875,
+      513.829833984375
+    ],
+    "text": "Teacher"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      165.35726928710938,
+      414.51287841796875,
+      359.9327697753906,
+      431.2295227050781
+    ],
+    "text": "Baseline                     Ac\u0002ve Treatment                            Follow-up\n(Phase A)                           (Phase B)                                     (Phase A)"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.98270034790039,
+      596.159912109375,
+      431.2037048339844,
+      605.126220703125
+    ],
+    "text": "Figure 1. Graphical display of baseline level and changes in level between consecutive phases in anxiety."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.98270034790039,
+      38.129634857177734,
+      563.030517578125,
+      47.09593200683594
+    ],
+    "text": "Malboeuf-Hurtubise et al\n861"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.98270034790039,
+      70.0643310546875,
+      300.0452880859375,
+      247.38270568847656
+    ],
+    "text": "anxiety symptoms from teacher-reported questionnaires.\nVisual analysis of self-reported data suggests that the begin-\nning of treatment caused a small increase in anxiety for Anna.\nHowever, once the treatment started, levels of anxiety returned\nto low levels and remained stable during follow-up. Visual\nanalysis of teacher-reported data suggests that treatment was\nsomewhat helpful in decreasing anxiety symptoms in Anna—\nwhich remained stable during the treatment phase. However, at\nfollow-up, an increasing trend can be observed, suggesting the\nshort-term impact of treatment.\nThe results of the weekly assessments showed no significant\nphase differences in scores or rates of change between the\nbaseline, the active treatment phase and the follow-up phase\nfor anxiety symptoms in both self-report and teacher report\nquestionnaires (please refer to Table 3)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.98168182373047,
+      267.4435729980469,
+      300.05023193359375,
+      468.54315185546875
+    ],
+    "text": "Participant 2: Bob (Anxiety Disorder Not Otherwise Specified).\nVisual analysis of the data for Bob indicates moderate to high\nlevels of anxiety symptoms from self-reported and teacher-\nreported questionnaires. Visual analysis of self-reported data\nsuggests that the beginning of treatment caused a clinically\nsignificant increase in anxiety for Bob. However, a trend can\nbe observed during the treatment phase, where Bob’s anxiety\nscores slowly return to baseline levels, and remain stable dur-\ning follow-up. Visual analysis of teacher-reported data\nsuggests a similar pattern than is observed in self-reported data\nfor Bob.\nStatistical analyses show significant phase differences in\nscores between the treatment and follow-up phases for anxiety\nin teacher report questionnaires, b2 ¼ \u00022.94, t(6.47) ¼ \u00023.24,\nP ¼ .01, indicating higher anxiety scores at the end of the\nfollow-up period, when compared with the treatment phase\n(see Table 3)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.98168182373047,
+      488.4573669433594,
+      300.1268005371094,
+      737.5507202148438
+    ],
+    "text": "Participant 3: Mike (Major Depressive Disorder). Visual analysis\nof the data for Mike indicates moderate to high levels of\nanxiety symptoms from self-reported questionnaires at base-\nline. Visual analysis of self-reported data suggests an impor-\ntant drop in anxiety symptoms during treatment. However,\nat follow-up, a return to baseline levels can be observed,\nsuggesting the short-term impact of treatment. Visual anal-\nysis of the data for teacher-reported questionnaires does not\nconcur with self-reported data for Mike. At baseline, visual\nanalysis of the data suggests that the teacher did not observe\nanxiety symptoms in Mike, and that the anxiety mean level\nincreased steadily during the treatment and follow-up\nphases.\nThe results of the weekly assessments showed significant\nphase differences in scores between the baseline, treatment, b1\n¼ 1.51, t(2.39) ¼ 5.56, P ¼ .02, and follow-up, b2 ¼ \u00022.94,\nt(2.26) ¼ 12.2, P ¼ .001, phases for anxiety in teacher report\nmeasures, indicating higher anxiety scores at the end of the\nfollow-up when compared with the treatment phase and higher\nscores at the end of the treatment phase when compared to the\nbaseline phase (see Table 3)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      311.9809875488281,
+      70.08002471923828,
+      411.5681457519531,
+      82.03512573242188
+    ],
+    "text": "Depression Symptoms"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      311.9809875488281,
+      88.319580078125,
+      563.0545654296875,
+      110.24427795410156
+    ],
+    "text": "Graphic presentation of the depression symptoms results for all\nparticipants can be found in Figure 2."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      311.9792785644531,
+      126.07684326171875,
+      563.0595092773438,
+      363.2079772949219
+    ],
+    "text": "Participant 1: Anna (Generalized Anxiety Disorder). Visual analysis\nof the data for Anna indicates low levels of depression symp-\ntoms from self-reported and teacher-reported questionnaires.\nVisual analysis of self-reported data suggests that the begin-\nning of treatment caused a small increase in depressive symp-\ntoms—just as it did for her anxiety levels—for Anna. However,\nonce the treatment started, levels of depressive symptoms\nreturned to low levels and remained stable at follow-up. Visual\nanalysis of teacher-reported data indicates a somewhat stable\ncondition throughout all phases.\nStatistical analyses concur with the visual analysis for Anna.\nThe results of the weekly assessments showed no significant\nphase differences in scores or rates of change between the\nbaseline, the active treatment phase and the follow-up phase\nfor depression symptoms in both self-report and teacher report\nquestionnaires (please refer to Table 4). Additionally, results\nshow significant mean differences in depression scores\nfrom baseline to treatment in teacher report questionnaires,\nb1 ¼ 1.27, t(2.66) ¼ 4.76, P ¼ .02, with an increase in depres-\nsive symptoms during the treatment phase."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      311.9792785644531,
+      379.13037109375,
+      563.0438842773438,
+      520.4725341796875
+    ],
+    "text": "Participant 2: Bob (Anxiety Disorder Not Otherwise Specified).\nVisual analyses of the data for Bob indicates low levels of\ndepression symptoms from self-reported and teacher-reported\nquestionnaires, and indicates a somewhat stable condition\nthroughout all phases. However, high variability during base-\nline makes it difficult to confirm what appears to be a robust\neffect during active treatment and follow-up phases.\nThe results of the weekly assessments showed no significant\nphase differences in scores or rates of change between the\nbaseline, the active treatment phase, and the follow-up phase\nfor depression symptoms in both self-report and teacher report\nquestionnaires (see Table 4)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      311.9792785644531,
+      536.3051147460938,
+      563.1524658203125,
+      737.5476684570312
+    ],
+    "text": "Participant 3: Mike (Major Depressive Disorder). Visual analyses\nof the data for Mike indicates low levels of depression symp-\ntoms from self-reported questionnaires. Visual analysis of self-\nreported data suggests a drop in depression symptoms during\ntreatment. However, the impact of the treatment seems to be\nshort term, as depression scores exceeded baseline levels at\nfollow-up. Visual analysis of the data for teacher-reported\nquestionnaires does not concur with self-reported data for\nMike. At baseline, visual analysis of the data suggests high\nlevels of depressive symptoms, with a clinically significant and\nstable decrease during treatment. At follow-up, depression\nscores for Mike remained stable, which suggests a somewhat\nlasting effect of the intervention.\nStatistical analyses show no significant phase differences in\nscores or rates of change between the baseline, the active treat-\nment phase and the follow-up phase for depression symptoms in\nboth self-report and teacher report questionnaires (see Table 4)."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      562.9932250976562,
+      47.09794616699219
+    ],
+    "text": "862\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.98270034790039,
+      631.8499145507812,
+      134.7366180419922,
+      643.8050537109375
+    ],
+    "text": "Mindfulness Scores"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.98270034790039,
+      650.1461791992188,
+      300.0572204589844,
+      672.07080078125
+    ],
+    "text": "Graphic presentation of the mindfulness scores results for all\nparticipants can be found in Figure 3."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.98270034790039,
+      691.7021484375,
+      300.0880126953125,
+      737.551025390625
+    ],
+    "text": "Participant 1: Anna (Generalized Anxiety Disorder). Visual analysis\nof the data for Anna indicates high and somewhat stable levels\nof mindfulness scores from the self-reported questionnaire.\nVisual analysis of self-reported data suggests that the"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      311.98040771484375,
+      631.8348999023438,
+      563.0797119140625,
+      737.4374389648438
+    ],
+    "text": "beginning of treatment caused a small increase in mindfulness\nfor Anna. Levels of mindfulness scores were stable once the\ntreatment started and remained this way during follow-up.\nStatistical analyses concur with the visual analysis for Anna.\nThe results of the weekly assessments showed no significant\nphase differences in scores or rates of change between the\nbaseline, the active treatment phase, and the follow-up phase\nfor mindfulness scores in the self-reported questionnaire\n(please refer to Table 5)."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      209.34129333496094,
+      154.5423126220703,
+      216.84268188476562
+    ],
+    "text": "0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      195.20640563964844,
+      154.5423126220703,
+      202.70779418945312
+    ],
+    "text": "2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      181.07225036621094,
+      154.5423126220703,
+      188.57363891601562
+    ],
+    "text": "4"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      166.9381561279297,
+      154.5423126220703,
+      174.43954467773438
+    ],
+    "text": "6"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      152.8040008544922,
+      154.5423126220703,
+      160.30538940429688
+    ],
+    "text": "8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      138.6705780029297,
+      154.55055236816406,
+      146.17196655273438
+    ],
+    "text": "10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      124.5372085571289,
+      154.55055236816406,
+      132.03860473632812
+    ],
+    "text": "12"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      110.40384674072266,
+      154.55055236816406,
+      117.9052505493164
+    ],
+    "text": "14"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      165.3353271484375,
+      219.0870819091797,
+      424.2284851074219,
+      226.58847045898438
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      135.2010955810547,
+      132.2329559326172,
+      142.70249938964844,
+      188.2294921875
+    ],
+    "text": "Depression scores"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      283.3945007324219,
+      228.94891357421875,
+      304.2948913574219,
+      236.4503173828125
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      454.1556091308594,
+      85.98222351074219,
+      472.5797119140625,
+      97.97552490234375
+    ],
+    "text": "Id 1"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      162.73570251464844,
+      465.0249328613281,
+      170.23709106445312
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      176.26939392089844,
+      478.2761535644531,
+      183.77078247070312
+    ],
+    "text": "Teacher"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.1372833251953,
+      89.6647720336914,
+      343.2845764160156,
+      106.2653579711914
+    ],
+    "text": "Baseline               Ac\u0002ve Treatment                        Follow-up\n(Phase A)                     (Phase B)                                (Phase A)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      377.7933654785156,
+      154.5423126220703,
+      385.2947692871094
+    ],
+    "text": "0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      363.936767578125,
+      154.5423126220703,
+      371.43817138671875
+    ],
+    "text": "2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      350.1259460449219,
+      154.5423126220703,
+      357.6273498535156
+    ],
+    "text": "4"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      336.2693786621094,
+      154.5423126220703,
+      343.7707824707031
+    ],
+    "text": "6"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      322.4585266113281,
+      154.5423126220703,
+      329.9599304199219
+    ],
+    "text": "8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      308.6019592285156,
+      154.55055236816406,
+      316.1033630371094
+    ],
+    "text": "10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      294.7911376953125,
+      154.55055236816406,
+      302.29254150390625
+    ],
+    "text": "12"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      280.935302734375,
+      154.55055236816406,
+      288.43670654296875
+    ],
+    "text": "14"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      165.3353271484375,
+      387.5384521484375,
+      424.2284851074219,
+      395.03985595703125
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      135.2010955810547,
+      301.7436828613281,
+      142.70249938964844,
+      357.78961181640625
+    ],
+    "text": "Depression scores"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      283.3945007324219,
+      397.4010009765625,
+      304.2948913574219,
+      404.90240478515625
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      456.2806091308594,
+      254.9418182373047,
+      474.7047119140625,
+      266.93511962890625
+    ],
+    "text": "Id 2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      332.29656982421875,
+      465.0249328613281,
+      339.7979736328125
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      345.8285827636719,
+      478.2761535644531,
+      353.3299865722656
+    ],
+    "text": "Teacher"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      167.82940673828125,
+      258.3939514160156,
+      352.3405456542969,
+      275.0411071777344
+    ],
+    "text": "Baseline                        Ac\u0002ve Treatment                     Follow-up\n(Phase A)                           (Phase B)                               (Phase A)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      552.9884033203125,
+      154.5423126220703,
+      560.4898071289062
+    ],
+    "text": "0"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      538.345703125,
+      154.5423126220703,
+      545.8471069335938
+    ],
+    "text": "2"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      523.7044677734375,
+      154.5423126220703,
+      531.2058715820312
+    ],
+    "text": "4"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      509.0624084472656,
+      154.5423126220703,
+      516.5638427734375
+    ],
+    "text": "6"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      150.73910522460938,
+      494.419677734375,
+      154.5423126220703,
+      501.92108154296875
+    ],
+    "text": "8"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      479.8249816894531,
+      154.55055236816406,
+      487.3263854980469
+    ],
+    "text": "10"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      465.1822204589844,
+      154.55055236816406,
+      472.6836242675781
+    ],
+    "text": "12"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      146.952392578125,
+      450.5402526855469,
+      154.55055236816406,
+      458.0416564941406
+    ],
+    "text": "14"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      165.3353271484375,
+      562.689208984375,
+      424.2284851074219,
+      570.1906127929688
+    ],
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      135.2010955810547,
+      473.91693115234375,
+      142.70249938964844,
+      530.0296630859375
+    ],
+    "text": "Depression scores"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      283.3945007324219,
+      572.5969848632812,
+      304.2948913574219,
+      580.098388671875
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      456.2806091308594,
+      423.90191650390625,
+      474.7047119140625,
+      435.89520263671875
+    ],
+    "text": "Id 3"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      504.49066162109375,
+      465.0249328613281,
+      511.9920654296875
+    ],
+    "text": "Self"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      453.8335876464844,
+      518.0235595703125,
+      478.2761535644531,
+      525.5249633789062
+    ],
+    "text": "Teacher"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      166.2119903564453,
+      426.8460693359375,
+      345.6898193359375,
+      443.4931945800781
+    ],
+    "text": "Baseline                   Ac\u0002ve Treatment                      Follow-up\n(Phase A)                        (Phase B)                               (Phase A)"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.98270034790039,
+      607.5552978515625,
+      444.7311706542969,
+      616.5216064453125
+    ],
+    "text": "Figure 2. Graphical display of baseline level and changes in level between consecutive phases in depression."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.98270034790039,
+      38.129756927490234,
+      563.030517578125,
+      47.09605407714844
+    ],
+    "text": "Malboeuf-Hurtubise et al\n863"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.98270034790039,
+      643.9432373046875,
+      300.05023193359375,
+      737.43701171875
+    ],
+    "text": "Participant 2: Bob (Anxiety Disorder Not Otherwise Specified).\nVisual analysis of the data for Bob indicates moderately high\nlevels of mindfulness during baseline and active treatment,\nbut a precipitous drop during follow-up, which then rises by\nthe last data point to the same level as the previous active\ntreatment phase.\nStatistical analyses show significant phase differences in\nscores between the treatment and follow-up phases"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      311.98040771484375,
+      643.6768188476562,
+      563.0638427734375,
+      677.683349609375
+    ],
+    "text": "mindfulness scores, b2 ¼ \u00026.76, t(3.46) ¼ \u00026.28, P ¼ .01,\nindicating lower mindfulness scores at the end of the follow-up\nperiod, when compared with the treatment phase (see Table 5)."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      311.9814147949219,
+      691.7017211914062,
+      563.0589599609375,
+      737.5505981445312
+    ],
+    "text": "Participant 3: Mike (Major Depressive Disorder). Visual analysis of\nthe data for Mike indicates moderate levels of mindfulness\nfrom the self-reported questionnaire at baseline. Visual analy-\nsis of self-reported data suggests a similar pattern in the data"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43052673339844,
+      217.9925537109375,
+      153.84222412109375,
+      224.7217559814453
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43052673339844,
+      203.46282958984375,
+      153.84222412109375,
+      210.19203186035156
+    ],
+    "text": "2"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43052673339844,
+      188.97686767578125,
+      153.84222412109375,
+      195.70606994628906
+    ],
+    "text": "4"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43052673339844,
+      174.44586181640625,
+      153.84222412109375,
+      181.17506408691406
+    ],
+    "text": "6"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43052673339844,
+      159.91485595703125,
+      153.84222412109375,
+      166.64405822753906
+    ],
+    "text": "8"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01681518554688,
+      145.43023681640625,
+      153.8388671875,
+      152.15943908691406
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01681518554688,
+      130.899169921875,
+      153.8388671875,
+      137.6283721923828
+    ],
+    "text": "12"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01681518554688,
+      116.41461181640625,
+      153.8388671875,
+      123.14381408691406
+    ],
+    "text": "14"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01681518554688,
+      101.883544921875,
+      153.8388671875,
+      108.61274719238281
+    ],
+    "text": "16"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      171.60462951660156,
+      226.75732421875,
+      467.5899353027344,
+      233.4865264892578
+    ],
+    "text": "1\n2\n3\n4\n5\n7\n9\n11\n13\n15\n19\n23"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      135.28102111816406,
+      133.59005737304688,
+      142.7728271484375,
+      193.25311279296875
+    ],
+    "text": "Mindfulness scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.2874450683594,
+      235.81288146972656,
+      329.1820373535156,
+      243.3046875
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      179.9998321533203,
+      83.67703247070312,
+      471.92523193359375,
+      101.85039520263672
+    ],
+    "text": "Id 1\nBaseline\nAc\u0002ve Treatment\nFollow-up\n(Phase A)\n(Phase B)\n(Phase A)"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43055725097656,
+      379.21563720703125,
+      153.84225463867188,
+      385.94482421875
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43055725097656,
+      366.76055908203125,
+      153.84225463867188,
+      373.48974609375
+    ],
+    "text": "2"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43055725097656,
+      354.35260009765625,
+      153.84225463867188,
+      361.081787109375
+    ],
+    "text": "4"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43055725097656,
+      341.9446105957031,
+      153.84225463867188,
+      348.6737976074219
+    ],
+    "text": "6"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.43055725097656,
+      329.5359802246094,
+      153.84225463867188,
+      336.2651672363281
+    ],
+    "text": "8"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.016845703125,
+      317.0809020996094,
+      153.83889770507812,
+      323.8100891113281
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.016845703125,
+      304.6722412109375,
+      153.83889770507812,
+      311.40142822265625
+    ],
+    "text": "12"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.016845703125,
+      292.26361083984375,
+      153.83889770507812,
+      298.9927978515625
+    ],
+    "text": "14"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.016845703125,
+      279.80853271484375,
+      153.83889770507812,
+      286.5377197265625
+    ],
+    "text": "16"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      171.6046600341797,
+      387.9366760253906,
+      467.5899658203125,
+      394.6658630371094
+    ],
+    "text": "1\n2\n3\n4\n5\n7\n9\n11\n13\n15\n19\n23"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      135.28155517578125,
+      303.1549377441406,
+      142.7733612060547,
+      362.82708740234375
+    ],
+    "text": "Mindfulness scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.2874755859375,
+      397.0361022949219,
+      329.18206787109375,
+      404.52789306640625
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      176.26356506347656,
+      261.49810791015625,
+      472.5148620605469,
+      272.62353515625
+    ],
+    "text": "Id 2\nBaseline\nAc\u0002ve Treatment\nFollow-up"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.4306182861328,
+      555.2026977539062,
+      153.84231567382812,
+      561.931884765625
+    ],
+    "text": "0"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.4306182861328,
+      540.9939575195312,
+      153.84231567382812,
+      547.72314453125
+    ],
+    "text": "2"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.4306182861328,
+      526.7401733398438,
+      153.84231567382812,
+      533.4693603515625
+    ],
+    "text": "4"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.4306182861328,
+      512.4863891601562,
+      153.84231567382812,
+      519.215576171875
+    ],
+    "text": "6"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      150.4306182861328,
+      498.2776794433594,
+      153.84231567382812,
+      505.0068664550781
+    ],
+    "text": "8"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01690673828125,
+      484.0238952636719,
+      153.83895874023438,
+      490.7530822753906
+    ],
+    "text": "10"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01690673828125,
+      469.815185546875,
+      153.83895874023438,
+      476.54437255859375
+    ],
+    "text": "12"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01690673828125,
+      455.5614013671875,
+      153.83895874023438,
+      462.29058837890625
+    ],
+    "text": "14"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      147.01690673828125,
+      441.3062438964844,
+      153.83895874023438,
+      448.0354309082031
+    ],
+    "text": "16"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      171.60472106933594,
+      563.9654541015625,
+      467.59002685546875,
+      570.6946411132812
+    ],
+    "text": "1\n2\n3\n4\n5\n7\n9\n11\n13\n15\n19\n23"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      135.2816162109375,
+      471.9621887207031,
+      142.77342224121094,
+      531.5691528320312
+    ],
+    "text": "Mindfulness scores"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      308.28753662109375,
+      573.0220947265625,
+      329.18212890625,
+      580.513916015625
+    ],
+    "text": "Weeks"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      177.32415771484375,
+      423.6451110839844,
+      472.5149230957031,
+      444.7804870605469
+    ],
+    "text": "Id 3\nBaseline\nAc\u0002ve Treatment\nFollow-Up\n(Phase A)\n(Phase B)\n(Phase A)"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.98282241821289,
+      608.0087280273438,
+      447.52789306640625,
+      616.9750366210938
+    ],
+    "text": "Figure 3. Graphical display of baseline level and changes in level between consecutive phases in mindfulness."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.98282241821289,
+      38.129512786865234,
+      562.9933471679688,
+      47.09580993652344
+    ],
+    "text": "864\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      70.0643310546875,
+      300.15081787109375,
+      139.78065490722656
+    ],
+    "text": "during the active treatment phase, with a drop in mindfulness\nscores. However, at follow-up, scores rise by the last data point\nto return to baseline levels.\nThe results of the weekly assessments showed no significant\nphase differences in scores between the baseline, active treat-\nment, and follow-up phases for mindfulness scores (see Table 5)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      156.3666534423828,
+      133.3414764404297,
+      168.32174682617188
+    ],
+    "text": "Sensitivity Analyses"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      174.66278076171875,
+      300.0572814941406,
+      316.0948486328125
+    ],
+    "text": "Item analysis was conducted on mindfulness scores. Although\nthese were largely not significantly different pre-to-post treat-\nment at the scale level, item analysis for the Five-Facet Mind-\nfulness Questionnaire indicated that the most sensitive items to\nthe intervention were those linked to observing (eg, “I pay\nattention to how my emotions affect my thoughts and\nbehaviors”; “When I take a shower or bath, I stay alert to the\nsensations of water on my body”) and acting with awareness\n(eg, “I do jobs or tasks automatically without being aware of\nwhat I’m doing”), which indicates that mindfulness could pos-\nsibly explain, at least partially, the improvements observed in\nour participants."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      338.69091796875,
+      107.34750366210938,
+      350.6460266113281
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      356.9871520996094,
+      300.0563049316406,
+      737.5474853515625
+    ],
+    "text": "This article presents results from an MBI study for third and\nfourth grade elementary school students with diagnoses of gen-\neralized anxiety disorder, anxiety disorder not otherwise spec-\nified with a moderate speech pathology, and major depressive\ndisorder with severe speech pathology in the context of regular\nclassroom settings. Contrary to our initial hypothesis, our\nresults do not clearly indicate that the MBI had a clinically\nsignificant impact on anxiety and depression symptoms in\nthese children. Results from visual analyses of the anxiety and\ndepression data, which require robust changes across phases to\nargue for an effect, along with results from statistical analyses,\nyield a conservative interpretation of results. For example, for\nMike, although a change was observed from baseline to active\ntreatment for anxiety and depression, regression back to base-\nline levels occurred for anxiety and regression above baseline\nlevels occurred for depression. This does not suggest that a\nmeaningful, durable basic effect was achieved. Thus, these\nresults indicate that MBIs may have a short-term impact on\nelementary school students with internalized disorders such\nas anxiety and major depressive disorders, although caution\nis warranted in drawing conclusions for children with general-\nized anxiety disorder.\nNo statistically significant differences on any variables were\nfound in self and teacher reports for Anna, which may indicate\nthat the MBI was not useful in alleviating anxiety symptoms of\nthe amplitude that can be found in generalized anxiety disor-\nders. Furthermore, it is possible that pervasive anxiety disor-\nders in youth, such as generalized anxiety disorder, may require\na longer, more intensive psychological treatment to see signif-\nicant improvements in patient functioning. The potential com-\nbination of anxiolytic medication with psychological treatment\nmay also be required in these cases. However, in spite of the"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      311.98040771484375,
+      70.06329345703125,
+      563.1636352539062,
+      737.545654296875
+    ],
+    "text": "absence of significant results in self- and teacher-reported data,\nit should be noted that, over the course of the MBI sessions,\nAnna developed notable introspection skills, allowing her to\nidentify more easily how she felt her anxiety (eg, in her body,\nwhat thoughts and emotions would typically accompany these\nfeelings) and which situations tended to make her more anxious.\nThis highlights namely the importance of including a psychoe-\nducation component in school-based programs for children who\ndeal with anxiety.59 However, in spite of these improvements,\nAnna’s anxiety levels remained high at postintervention.\nBased on teacher report measures, significant differences\nwere found in anxiety symptoms for Bob, in which his teacher\nreported significant deterioration at follow-up. Thus, effects on\nanxiety that were noted in the visual analysis of self-reported\ndata seemed to be short term, as an increase in symptoms was\nfound at follow-up in teacher report questionnaires. As such,\nshort-term improvements noted in anxiety for Bob might sug-\ngest that small daily mindfulness exercises would need to be\nused for a longer period on a consistent basis in order to pre-\nserve this effect. The value and long-term impact of adding\nmaintenance therapy to future research projects of this sort\nwould be interesting to evaluate. However, caution is war-\nranted in interpreting these results given the discrepancy\nbetween self-report and teacher report scores.\nBob’s progression throughout the MBI intervention was\nsomewhat slower than that of his colleagues, as he was most\nresistant to sharing his experiences and to completing weekly\nassignments. During the first sessions, he would become agi-\ntated when he was asked to talk openly about his fear of eating\nin front of others or his fear of becoming ill. However, a sudden\nchange was noted after the fourth week of the intervention,\nwhen Bob completed assignments and became very interested\nin applying mindfulness to reduce his stress and overall anxi-\nety. From that moment on, he stopped insisting to get out of the\nclassroom when a classmate was sick and his overall avoidance\nof anxious situations decreased. However, his fear of eating\nremained until the end of the follow-up period.\nBased on teacher report measures, significant differences\nwere found for anxiety for Mike, although these differences\nindicated a worsening of scores throughout the intervention and\nat follow-up. Visual analysis showed marked improvements in\ndepressive symptoms for Mike pre- to postintervention. This\ncould be explained by a certain insensitivity of statistical anal-\nyses in n-of-1 trials, which mathematically take into account the\nslope of changes in rate without consideration of the direction of\nchange. While a visual analysis reveals a clear change in the\ndirection of treatment from baseline to intervention, our statisti-\ncal analyses were unable to detect this due to the limitations of\nthe mathematical functions used to assess differences in levels\nand trends across phases. Thus, although caution is warranted in\nconcluding on the effect of this MBI on depression, it is possible\nthat it somewhat helped Mike better manage his depressive\nsymptoms. However, our MBI seemed to have the opposite\neffect on anxiety symptoms for Mike.\nAt the beginning of the intervention, an absence of pleasure\nwas evident in Mike. He would seldom smile and have an"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      563.030517578125,
+      47.09794616699219
+    ],
+    "text": "Malboeuf-Hurtubise et al\n865"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.98270034790039,
+      70.0643310546875,
+      300.074951171875,
+      665.8341064453125
+    ],
+    "text": "apathetic expression on his face. Enumerating pleasant activi-\nties was especially difficult for him. However, he could easily\nidentify and describe moments when he felt sad and depressed,\nalong with their corresponding emotions, physical sensations,\nand thoughts. Mike’s involvement in the MBI was significant\nfrom the beginning of the sessions, as he showed a marked\ndesire to improve his condition. He would systematically prac-\ntice meditations between sessions and complete given assign-\nments. In class, his teacher quickly reported improvements in\nterms of his mood. Mike also began to confide to his teacher\nwhen he had challenging days. His withdrawal from his peers\nalso decreased significantly.\nFrom a transdiagnostic standpoint, based on results from\nthis single case design, we cannot conclude on the usefulness\nof MBIs for children with internalized disorders of varying\nintensity. Although some improvements were noted in anxiety\n(Bob) and depression (Mike) from the student’s point of view,\ntheir teachers tended to report iatrogenic effects of the inter-\nvention for anxiety symptoms (Mike) and depression symp-\ntoms (Anna). It is possible that students themselves noted\nimprovements on internalized symptoms that did not impact\noverall school functioning and were hence not observed by\ntheir teachers. It may also be possible that teachers are less\nable to discern internalized symptoms in their students, since\nthese are usually less observable and tend not to disrupt class-\nroom dynamics as much as externalized symptoms.42 Another\npossibility is that the mindfulness training made children more\nsensitive to cues relating to their emotions, and allowed them to\nbe more aware of the moments where they were not mindful,\nwhich may explain why certain participants reported an\nincrease in mindfulness, followed by a decrease back to base-\nline levels. Children themselves might be the best judges of\ntheir anxiety and depression symptoms. It may also be that\nMBIs need to be adapted specifically to each disorder—and\nto the individual themselves—in order to address specificities\nof severe anxiety disorders and major depressive disorders\nalong with individual differences separately.\nFinally, the presence of varying degrees of speech patholo-\ngies in Bob and Mike, which are linked to learning disabilities\nin elementary school children, sheds light on the possible\nimpact of MBIs on children with comorbid internalized disor-\nders and learning disabilities. Children with learning disabil-\nities often present with demoralization, and approximately 10%\nto 25% of these children present comorbid diagnoses such as\nanxious or major depressive disorder.60 Results from this study\nsuggest that MBIs may be especially useful for elementary\nschool children with comorbid internalized disorders and learn-\ning disabilities. Previous MBI research with children with\nlearning disabilities and special education needs and with teen-\nagers with learning disabilities has shown similar results.42,61"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.98270034790039,
+      685.3680419921875,
+      90.6581802368164,
+      697.3231811523438
+    ],
+    "text": "Strengths"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.98270034790039,
+      703.6642456054688,
+      300.0372009277344,
+      737.551025390625
+    ],
+    "text": "This study includes notable strengths. The multiple single\ncase design that was chosen for this study enabled detailed\ninvestigation of intraindividual change of children with"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      311.9794006347656,
+      70.06683349609375,
+      563.1263427734375,
+      163.70729064941406
+    ],
+    "text": "different diagnoses, thus providing insight into the transdiag-\nnostic treatment literature of MBIs for children. The use of\nthis approach has enabled us to document the process of\nchange in our participants, which in turn provides valuable\ninformation to researchers interested in developing and test-\ning MBIs for elementary school students with anxiety and\ndepression disorders. No attrition was experienced in this\nstudy, solidifying our results."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      311.9809875488281,
+      183.2957305908203,
+      359.980712890625,
+      195.25082397460938
+    ],
+    "text": "Limitations"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      311.9809875488281,
+      201.5352783203125,
+      563.0653686523438,
+      450.62628173828125
+    ],
+    "text": "The A-B-A design used in this study presents some minor risks\nwith regard to internal validity.58 Threats to internal validity\nare time-related factors such as history and testing effects. As\nthe intervention was conducted during the winter, spring break\nvacation might have caused variations in mood in our partici-\npants. The follow-up period took place during the months of\nApril, May, and June, near the end of the school year, which\nmay also have affected our results. Report cards were handed\nnear the end of the treatment phase, which could have caused a\nspike in anxiety in some participants. Furthermore, it is possi-\nble that both self and teacher report forms may somewhat over-\nstate the change taking place pre-to-post intervention and at\nfollow-up, as students and teachers were potentially hoping for\npositive changes postintervention. Having a control group and\nblinded reporters to the intervention could improve the research\ndesign. Finally, although participants from this study were not\nclose friends and did not have much contact outside of the MBI\nsessions, we cannot be sure that there was no contamination\nbetween participants, although it is highly unlikely. In future\nstudies, a multiple baseline approach could solve some of these\nminor issues."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      311.9809875488281,
+      470.2184143066406,
+      459.45550537109375,
+      482.17352294921875
+    ],
+    "text": "Suggestions for Further Research"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      311.9809875488281,
+      488.45794677734375,
+      563.120361328125,
+      737.548828125
+    ],
+    "text": "Variables such as absenteeism and grades could be incorpo-\nrated in future projects of this sort. For Anna, although absen-\nteeism from school was not included as a measure in this\nstudy, it should be noted that despite the absence of statistical\nsignificant pre-to-post differences in targeted variables, her\nabsenteeism from school dramatically dropped once the MBI\ngot underway and remained stable throughout the follow-up\nperiod, which seems indicative of a certain improvement in\nstress and anxiety managing skills, and in her overall school\nfunctioning. For Mike, although school performance was not\nincluded as a measure of this study, it should be noted that his\noverall grades improved significantly pre-to-post treatment,\nto a point where he was in danger of repeating his school year\npretreatment and had average grades at posttreatment and\nfollow-up.\nFuture n-of-1 trials would also benefit from the inclusion of\nobservational measures, in order to evaluate functionality (eg,\nat school or at home) instead or on top of symptomatology\nmeasures such as those included in this study. Given the fact\nthat internalized disorders can manifest both in school and at\nhome, it is important to acknowledge caregivers as a possible"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.98270034790039,
+      38.131649017333984,
+      562.9932250976562,
+      47.09794616699219
+    ],
+    "text": "866\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      48.98249816894531,
+      70.0643310546875,
+      300.06201171875,
+      737.5502319335938
+    ],
+    "text": "source of behavior change. Including caregiver reports may\nhelp account for some self-report and teacher bias, and should\nbe included in future studies of this sort. Parent reports would\nalso help in providing a more complete assessment of partici-\npants’ mental health and change pre-to-post intervention. Par-\nental implication in terms of favoring daily practice and\nhomework completion would also be important to consider in\nfuture projects. The use of web- or mobile-based mindfulness\napplications, which could be helpful in sending daily reminders\nof practice to youth, also represents an interesting avenue for\nfuture research. Finally, including other measures, such as phy-\nsiological measures or salivary cortisol, behavioral observation\nmeasures or attention tests, would also improve the description\nof potential causal mechanisms.\nAdditional assessment time points in each phase would\nstrengthen the overall design and allow more robust conclu-\nsions to be drawn. Although a minimum of 3 assessment time\npoints are necessary to conduct n-of-1 trials, a targeted number\nof 5 per phase has been previously recommended.48 If larger\npools of potential participants are available, the use of rando-\nmized controlled trials with a single case approach is recom-\nmended in future studies, in order to draw more robust\nconclusions regarding the effectiveness of MBIs for children\nwith internalized disorders.25 With larger samples, sensitivity\nanalyses could be performed (eg, analyses on different cutoffs\nor definitions, noncompliance to treatment or protocol viola-\ntions).62 A larger scale study would also enable one to deter-\nmine whether there are specific components of anxiety and\ndepression disorders that might be more or less affected by the\nMBI and whether this treatment might work better for some\nprofiles or comorbidities.\nFinally, results from this n-of-1 trial design is consistent\nwith other work suggesting caution with regard to the overall\nimpact and efficacy of MBIs as a universal treatment option for\nyouth. Past studies have shown that MBIs are not universally\nefficacious for children and teenagers, and that caution is war-\nranted before applying this treatment option for all, regardless\nof their psychological health and/or the presence of a mental\nhealth disorder. As an example, a meta-analysis by Zoogman\nand colleagues12 suggests that, although MBIs have a greater\nimpact in youth who have a mental health disorder and affect\npsychological variables more than physical ones, they may\nhave a limited impact when compared with alternative treat-\nment options, such as cognitive-behavioral therapy. Other stud-\nies have found no significant impact of MBIs on psychological\nsymptoms and mental health in elementary and high school\nstudents.63,64 However, some of these studies were underpow-\nered, which can greatly affect their results. Thus, future studies\nwould do well to pursue the documentation of the impact of\nMBIs in different contexts (eg, as a universal prevention inter-\nvention in regular classrooms of children varying in ages and\ngrades, a transdiagnostic clinical intervention for children with\nmental health disorders, a clinical intervention for children\nwith a specific mental health disorder, such as an anxiety dis-\norder, attention deficit/hyperactivity disorder, or major depres-\nsive disorder), to specifically pinpoint when they can be most"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9801940917969,
+      70.06597900390625,
+      563.0507202148438,
+      127.82014465332031
+    ],
+    "text": "useful as a stress and emotional regulation tool for youth.\nFinally, adopting robust research designs, such as multiple\nbaseline n-of-1 trials embedded within a randomized controlled\ntrial, could also contribute to clarifying the optimal conditions\nfor MBI implementation in youth."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      144.74452209472656,
+      373.812744140625,
+      156.69961547851562
+    ],
+    "text": "Conclusion"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      163.040771484375,
+      563.0415649414062,
+      244.71913146972656
+    ],
+    "text": "Results from this study do not allow us to conclude whether\nMBIs can be helpful in decreasing psychosocial adjustment\ndifficulties in elementary school students with anxiety and\ndepression disorders. Further research evaluating the impact\nof maintenance therapy and parental implication via caregiver\nreports and more objective measures is warranted to establish\nthe effect of MBIs for these children in a more robust manner."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      256.1065979003906,
+      398.29107666015625,
+      266.0692138671875
+    ],
+    "text": "Acknowledgments"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      268.9101257324219,
+      563.0266723632812,
+      301.5169372558594
+    ],
+    "text": "The authors wish to thank Jose´e Douaire, PhD, David de L’E´glise\nCollin, Isabelle Pilon, and Samya-Hayette Ait-Kaci-Azzou for their\ninput on the project and assistance in its implementation."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      313.1401062011719,
+      413.6842346191406,
+      323.10272216796875
+    ],
+    "text": "Author Contributions"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      327.70050048828125,
+      563.0748901367188,
+      413.4281921386719
+    ],
+    "text": "CM-H conceptualized and coordinated the study, taught and adapted\nthe mindfulness-based intervention, performed data analysis, and\ndrafted the manuscript. EL contributed to the design of the study,\nrevised the protocol, participated in data analysis, and reviewed exten-\nsively the manuscript. CH contributed to data interpretation and revi-\nsion of the manuscript. GT contributed to data interpretation and\nrevision of the manuscript. LBA contributed to data interpretation and\nrevision of the manuscript."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      424.9952087402344,
+      476.4775390625,
+      434.95782470703125
+    ],
+    "text": "Declaration of Conflicting Interests"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      439.5555725097656,
+      563.0391845703125,
+      459.51995849609375
+    ],
+    "text": "The authors declared no potential conflicts of interest with respect to\nthe research, authorship, and/or publication of this article."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      471.1431884765625,
+      349.3168640136719,
+      481.1058044433594
+    ],
+    "text": "Funding"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      485.7035827636719,
+      563.0220947265625,
+      527.552001953125
+    ],
+    "text": "The authors disclosed receipt of the following financial support for the\nresearch, authorship, and/or publication of this article: This study was\nfunded by scholarships to the first author from the Fonds de Recherche\nen Socie´te´ et Culture du Que´bec."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      539.1747436523438,
+      389.6753234863281,
+      549.1373291015625
+    ],
+    "text": "Ethical Approval"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      553.735107421875,
+      563.128173828125,
+      617.4658203125
+    ],
+    "text": "All procedures performed in studies involving human participants\nwere in accordance with the ethical standards of the institutional\nand/or national research committee and with the 1964 Helsinki\ndeclaration and its later amendments or comparable ethical standards.\nInformed consent was obtained from all individual participants\nincluded in the study."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      311.9809875488281,
+      629.089599609375,
+      363.2376403808594,
+      639.0521850585938
+    ],
+    "text": "References"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      316.4596862792969,
+      644.6705322265625,
+      563.1100463867188,
+      737.3139038085938
+    ],
+    "text": "1. Canadian Mental Health Association. Fast facts about mental\nillness. 2015. http://www.cmha.ca/media/fast-facts-about-men\ntal-illness. Accessed July 13, 2015.\n2. Oberle E, Schonert-Reichl K, eds. Mindfulness in Adolescence:\nNew Directions for Youth Development, Number 142. Hoboken,\nNJ: Wiley; 2014.\n3. Mental Health Commission of Canada. Making the case for\ninvesting in mental health in Canada. 2013. http://www.mental"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      48.98152160644531,
+      38.127376556396484,
+      563.0293579101562,
+      47.09367370605469
+    ],
+    "text": "Malboeuf-Hurtubise et al\n867"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.98160934448242,
+      70.14456939697266,
+      300.072998046875,
+      736.6222534179688
+    ],
+    "text": "healthcommission.ca/English/system/files/private/document/\nInvesting_in_Mental_Health_FINAL_Version_ENG.pdf.\nAccessed July 13, 2015.\n4. Mental Health Commission of Canada. School-based mental\nhealth in Canada: a final report. 2013. https://www.mentalhealth\ncommission.ca/Francais/system/files/private/document/Child\nYouth_School_Based_Mental_Health_Canada_Final_Report_\nENG.pdf. Accessed July 13, 2015.\n5. Kabat-Zinn J. Mindfulness-based interventions in context—past,\npresent, and future. Clin Psychol Sci Pract. 2003;10:144-156.\n6. Kabat-Zinn J. Wherever You Go There You Are: Minfulness Med-\nitation in Everyday Life. New York, NY: Hyperion; 1994.\n7. Borkovec TD. Life in the future versus life in the present. Clin\nPsychol Sci Pract. 2002;9:76-80.\n8. Salmon P, Sephton S, Weissbecker I, Hoover K, Ulmer C, Studts\nJL. Mindfulness-based meditation in clinical practice. Cogn\nBehav Pract. 2004;11:434-446.\n9. Hofmann SG, Sawyer AT, Witt AA, Oh D. The effect of\nmindfulness-based therapy on anxiety and depression: a meta-\nanalytic review. J Consult Clin Psychol. 2010;78:169-183.\n10. Teasdale JD, Segal ZV, Williams JM, Ridgeway VA, Soulsby JM,\nLau MA. Prevention of relapse/recurrence in major depression by\nmindfulness-based cognitive therapy. J Consult Clin Psychol.\n2000;68:615-623.\n11. Ma SH, Teasdale JD. Mindfulness-based cognitive therapy for\ndepression: replication and exploration of differential relapse pre-\nvention effects. J Consult Clin Psychol. 2004;72:31-40.\n12. Zoogman S, Goldberg SB, Hoyt WT, Miller L. Mindfulness inter-\nventions with youth: a meta-analysis. Mindfulness. 2015;6:\n290-302.\n13. Carboni JA, Roach AT, Fredrick LD. Impact of mindfulness train-\ning on the behavior of elementary students with attention-deficit/\nhyperactive disorder. Res Hum Dev. 2013;10:234-251.\n14. Mendelson T, Greenberg MT, Dariotis JK, Gould LF, Rhoades\nBL, Leaf PJ. Feasibility and preliminary outcomes of a school-\nbased mindfulness intervention for urban youth. J Abnorm Child\nPsychol. 2010;38:985-994.\n15. Schonert-Reichl KA, Oberle E, Lawlor MS, et al. Enhancing\ncognitive and social–emotional development through a simple-\nto-administer mindfulness-based school program for elementary\nschool children: a randomized controlled trial. Dev Psychol.\n2015;51:52-66.\n16. Biegel GM, Brown KW, Shapiro SL, Schubert CM. Mindfulness-\nbased stress reduction for the treatment of adolescent psychiatric\noutpatients: a randomized clinical trial. J Consult Clin Psychol.\n2009;77:855-866.\n17. Haydicky J, Wiener J, Badali P, Milligan K, Ducharme JM. Eva-\nluation of a mindfulness-based intervention for adolescents with\nlearning disabilities and co-occurring ADHD and anxiety. Mind-\nfulness. 2012;3:151-164.\n18. Zenner C, Herrnleben-Kurz S, Walach H. Mindfulness-based\ninterventions in schools—a systematic review and meta-analysis.\nFront Psychol. 2014;5:603.\n19. Felver JC, Celis-de Hoyos CE, Tezanos K, Singh NN. A systema-\ntic review of mindfulness-based interventions for youth in school\nsettings. Mindfulness. 2016;7:34-45."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      311.9783020019531,
+      70.1293716430664,
+      563.1136474609375,
+      736.6253051757812
+    ],
+    "text": "20. Moses EB, Barlow DH. A new unified treatment approach for\nemotional disorders based on emotion science. Curr Dir Psychol\nSci. 2006;15:146-150.\n21. Hill CL, Updegraff JA. Mindfulness and its relationship to emo-\ntional regulation. Emotion. 2012;12:81-90.\n22. Chambers R, Gullone E, Allen NB. Mindful emotion regula-\ntion: an integrative review. Clini Psychol Review. 2009;29:\n560-572.\n23. Cicchetti D, Ackerman BP, Izard CE. Emotions and emotion\nregulation in developmental psychopathology. Dev Psychopathol.\n1995;7:1-10.\n24. Kumar S, Feldman G, Hayes A. Changes in mindfulness and\nemotion regulation in an exposure-based cognitive therapy for\ndepression. Cogn Ther Res. 2008;32:734-744.\n25. Boswell JF, Anderson LM, Barlow DH. An idiographic analysis\nof change processes in the unified transdiagnostic treatment of\ndepression. J Consult Clin Psychol. 2014;82:1060-1071.\n26. Norton PJ, Philipp LM. Transdiagnostic approaches to the treat-\nment of anxiety disorders: a quantitative review. Psychotherapy\n(Chic). 2008;45:214-226.\n27. Molenaar PC, Campbell CG. The new person-specific paradigm\nin psychology. Curr Dir Psychol Sci. 2009;18:112-117.\n28. Wood P, Brown D. The study of intraindividual differences by\nmeans of dynamic factor models: rationale, implementation, and\ninterpretation. Psychol Bull. 1994;116:166-186.\n29. Schork NJ. Personalized medicine: time for one-person trials.\nNature. 2015;520:609-611.\n30. Barlow DH, Nock MK. Why can’t we be more idiographic in our\nresearch? Perspect Psychol Sci. 2009;4:19-21.\n31. Collins FS, Varmus H. A new initiative on precision medicine. N\nEngl J Med. 2015;372:793-795.\n32. Clancy C, Collins FS. Patient-Centered Outcomes Research Insti-\ntute: the intersection of science and health care. Sci Transl Med.\n2010;2(37):18-37.\n33. Kravitz R, Duan N. Design and Implementation of N-of-1 Trials:\nA User’s Guide. Rockville, MD: Agency for Healthcare Research\nand Quality, US Department of Health and Human Services.\n2014.\n34. Duan N, Kravitz RL, Schmid CH. Single-patient (n-of-1) trials: a\npragmatic clinical decision methodology for patient-centered\ncomparative effectiveness research. J Clin Epidemiol. 2013;\n66(8 suppl):S21-S28.\n35. Malboeuf-Hurtubise C, Lacourse E´, Joussemet M, Ben Amor L. A\nmindfulness-based intervention for elementary students with\ninternalized disorders: a multiple single case-study design. Paper\npresented at: 7th Annual Conference of Quantitative Methods and\nHumanities; 2015; Montreal, Quebec, Canada.\n36. Gravetter F, Forzano L-A. Research Methods for the Behavioral\nSciences. Boston, MA: Cengage Learning; 2011.\n37. Harris AD, McGregor JC, Perencevich EN, et al. The use and\ninterpretation of quasi-experimental studies in medical infor-\nmatics. J Am Med Inform Assoc. 2006;13:16-23.\n38. Vohra S, Shamseer L, Sampson M, et al; CENT Group. CON-\nSORT extension for reporting N-of-1 trials (CENT) 2015 State-\nment. J Clin Epidemiol. 2016;76:9-17.\n39. Spector PE. Research Designs. Beverly Hills, CA: Sage; 1981."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.97969055175781,
+      38.119319915771484,
+      562.9901733398438,
+      47.08561706542969
+    ],
+    "text": "868\nJournal of Evidence-Based Complementary & Alternative Medicine 22(4)"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      48.980010986328125,
+      70.14456939697266,
+      300.0641174316406,
+      557.30615234375
+    ],
+    "text": "40. American Psychiatric Association. Diagnostic and Statistical\nManual of Mental Disorders (DSM-5). 5th ed. Arlington, VA:\nAmerican Psychiatric Associaton; 2013.\n41. Malboeuf-Hurtubise C, Achille M, Sultan S, Vadnais M.\nMindfulness-based intervention for teenagers with cancer: study\nprotocol for a randomized controlled trial. Trials. 2013;14:135.\n42. Malboeuf-Hurtubise C, Joussemet M, Douaire J, Lacourse E.\nImpact of a mindfulness-based pilot study on elementary students\nwith severe learning difficulties. Paper presented at: Annual Con-\nference of the National Association of School Psychologists; Feb-\nruary 17-20, 2015; Lake Buena Vista, FL.\n43. Deplus S. Les interventions psychologiques base´es sur la pleine\nconscience pour l’enfant et l’adolescent. Paper presented at: Les\ninterventions psychologiques base´es sur la pleine conscience pour\nl’enfant et l’adolescent; 2012; Montreal, Quebec, Canada.\n44. Reynolds CC, Kamphaus RW, eds. The Behavior Assessment\nSystem for Children. 2nd ed. Circle Pines, MN: AGS Publishing;\n2004.\n45. Achenbach TM. Child Behavior Checklist for Ages 4-18. Bur-\nlington, VT: Thomas M. Achenbach; 1991.\n46. Conners CK. Conners’ Rating Scales–Revised. Toronto, Ontario,\nCanada: Multi-Health Systems; 2001.\n47. Baer RA, Smith GT, Lykins E, et al. Construct validity of the\nFive-Facet Mindfulness Questionnaire in meditating and nonme-\nditating samples. Assessment. 2008;15:329-342.\n48. Smith JD. Single-case experimental designs: a systematic review\nof published research and current standards. Psychol Methods.\n2012;17:510-550.\n49. Kratochwill TR, Hitchcock JH, Horner RH, et al. Single-case\nintervention research design standards. Remedial Spec Educ.\n2013;34:26-38.\n50. Shadish WR. Analysis and meta-analysis of single-case designs:\nan introduction. J Sch Psychol. 2014;52:109-122.\n51. Van den Noortgate W, Onghena P. A multilevel meta-analysis of\nsingle-subject experimental design studies. Evid Based Commun\nAssess Intervention. 2008;2:142-151.\n52. Shadish WR, Rindskopf DM, Hedges LV. The state of the science\nin the meta-analysis of single-case experimental designs. Evid\nBased Commun Assess Intervention. 2008;2:188-196.\n53. Smith JD, Eichler WC, Norman KR, Smith SR. The effectiveness\nof collaborative/therapeutic assessment for psychotherapy"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      311.9759521484375,
+      70.1329116821289,
+      563.076904296875,
+      557.3128662109375
+    ],
+    "text": "consultation: a pragmatic replicated single-case study. J Pers\nAssess. 2015;97:261-270.\n54. Ferron JM, Bell BA, Hess MR, Rendina-Gobioff G, Hibbard ST.\nMaking treatment effect inferences from multiple-baseline data:\nthe utility of multilevel modeling approaches. Behav Res Meth-\nods. 2009;41:372-384.\n55. Shadish WR, Kyse EN, Rindskopf DM. Analyzing data from\nsingle-case designs using multilevel models: new applications\nand some agenda items for future research. Psychol Methods.\n2013;18:385-405.\n56. Moeyaert M, Ferron JM, Beretvas SN, Van den Noortgate W.\nFrom a single-level analysis to a multilevel analysis of single-\ncase experimental designs. J Sch Psychol. 2014;52:191-211.\n57. Ferron JM, Moeyaert M, Van den Noortgate W, Beretvas SN.\nEstimating causal effects from multiple-baseline studies: impli-\ncations for design and analysis. Psychol Methods. 2014;19:\n493-510.\n58. Barlow M, Nock M, Hersen M. Single Case Experimental\nDesigns: Strategies for Studying Behavior for Change. Boston,\nMA: Pearson/Allyn & Bacon; 2009.\n59. Werner-Seidler A, Perry Y, Calear AL, Newby JM, Christensen\nH. School-based depression and anxiety prevention programs for\nyoung people: a systematic review and meta-analysis. Clin Psy-\nchol Rev. 2017;51:30-47.\n60. American Psychiatric Association. Diagnostic and Statistical\nManual of Mental Disorders (DSM-IV-TR). 4th ed. Text Revi-\nsion. Arlington, VA: American Psychiatric Association; 2000.\n61. Wisner B. An exploratory study of mindfulness meditation for\nalternative school students: perceived benefits for improving\nschool climate and student functioning. Mindfulness. 2014;5:\n626-638.\n62. Thabane L, Mbuagbaw L, Zhang S, et al. A tutorial on sensitivity\nanalyses in clinical trials: the what, why, when and how. BMC\nMed Res Methodol. 2013;13:92.\n63. Britton WB, Lepp NE, Niles HF, Rocha T, Fisher NE, Gold JS. A\nrandomized controlled pilot trial of classroom-based mindfulness\nmeditation compared to an active control condition in sixth-grade\nchildren. J Sch Psychol. 2014;52:263-278.\n64. Sibinga E, Perry-Parrish C, Thorpe K, Mika M, Ellen JM. A small\nmixed-method RCT of mindfulness instruction for urban youth.\nExplore. 2014;10:180-186."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      48.981910705566406,
+      38.127498626708984,
+      563.0297241210938,
+      47.09379577636719
+    ],
+    "text": "Malboeuf-Hurtubise et al\n869"
+  }
+]

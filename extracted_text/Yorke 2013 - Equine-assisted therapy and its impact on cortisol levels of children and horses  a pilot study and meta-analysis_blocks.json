@@ -1,0 +1,932 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      127.91999816894531,
+      40.571998596191406,
+      373.5,
+      60.52199935913086
+    ],
+    "text": "Early Child Development and Care"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      127.91999816894531,
+      134.2919921875,
+      515.1759643554688,
+      144.93199157714844
+    ],
+    "text": "ISSN: 0300-4430 (Print) 1476-8275 (Online) Journal homepage: www.tandfonline.com/journals/gecd20"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      166.87399291992188,
+      533.365966796875,
+      237.25997924804688
+    ],
+    "text": "Equine-assisted therapy and its impact on cortisol\nlevels of children and horses: a pilot study and\nmeta-analysis"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      257.93798828125,
+      510.5000305175781,
+      287.8979797363281
+    ],
+    "text": "Jan Yorke, William Nugent, Elizabeth Strand, Rebecca Bolen, John New &\nCindy Davis"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      309.0149841308594,
+      518.6900024414062,
+      358.19500732421875
+    ],
+    "text": "To cite this article: Jan Yorke, William Nugent, Elizabeth Strand, Rebecca Bolen, John New &\nCindy Davis (2013) Equine-assisted therapy and its impact on cortisol levels of children and\nhorses: a pilot study and meta-analysis, Early Child Development and Care, 183:7, 874-894,\nDOI: 10.1080/03004430.2012.693486"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      97.0999984741211,
+      365.0149841308594,
+      421.579833984375,
+      378.31500244140625
+    ],
+    "text": "To link to this article:  https://doi.org/10.1080/03004430.2012.693486"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      420.3119812011719,
+      254.3350067138672,
+      432.16497802734375
+    ],
+    "text": "Published online: 10 Jul 2012."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      465.1659851074219,
+      273.98199462890625,
+      477.01898193359375
+    ],
+    "text": "Submit your article to this journal"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      506.1120300292969,
+      208.7410125732422,
+      517.9650268554688
+    ],
+    "text": "Article views: 5520"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      550.9660034179688,
+      217.83999633789062,
+      562.8189697265625
+    ],
+    "text": "View related articles"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      131.8000030517578,
+      593.8660278320312,
+      284.2330017089844,
+      605.718994140625
+    ],
+    "text": "Citing articles: 14 View citing articles"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      154.7729949951172,
+      767.5520629882812,
+      479.54705810546875,
+      790.405029296875
+    ],
+    "text": "Full Terms & Conditions of access and use can be found at\nhttps://www.tandfonline.com/action/journalInformation?journalCode=gecd20"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      121.59258270263672,
+      366.4080505371094,
+      148.0961456298828
+    ],
+    "text": "Equine-assisted therapy and its impact on cortisol levels\nof children and horses: a pilot study and meta-analysis"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      153.5884552001953,
+      407.7183532714844,
+      166.44825744628906
+    ],
+    "text": "Jan Yorkea∗, William Nugentb, Elizabeth Strandb,c, Rebecca Bolenb, John Newc"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      165.60731506347656,
+      142.66494750976562,
+      178.41041564941406
+    ],
+    "text": "and Cindy Davisb"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      188.5970001220703,
+      414.6206359863281,
+      220.18240356445312
+    ],
+    "text": "aSchool of Social Work, Laurentian University, Ontario, Canada; bCollege of Social Work,\nUniversity of Tennessee, Knoxville, TN, USA; cCollege of Veterinary Medicine, University of\nTennessee, Knoxville, TN, USA"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61485290527344,
+      226.66995239257812,
+      325.4718017578125,
+      236.16995239257812
+    ],
+    "text": "(Received 18 September 2011; ﬁnal version received 10 May 2012)"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      90.59573364257812,
+      248.666259765625,
+      402.6326599121094,
+      378.1854248046875
+    ],
+    "text": "Childhood trauma, abuse or neglect impacts the function and structure of the brain of\naffected children. Attunement with other beings as well as an enriched environment\ncan contribute to normal brain development. The enriched environment of a barn\nand attunement with an animal may contribute to reductions in stress for\ntraumatised children. A pilot study, using a multiple base line, single case design\nincluded four children with post-traumatic stress syndrome (aged eight to ten\nyears) and four therapy riding horses. This study hypothesised that cortisol would\ncorrelate between each child–horse pair, using a 12-day intervention that\nincluded six consecutive days of riding and grooming. A meta-analysis was\ncompleted of correlation levels of four child–horse pairs The weighted mean\ncross-correlation,\ncontrolling\nfor\nautocorrelation,\nwas\n0.23,\nZ ¼ 3.03,\napproximate 95% conﬁdence interval 0.23 + (1.96 × 0.076) or 0.08 to 0.38. The\ndata suggest a need for further research."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      90.59573364257812,
+      384.6729736328125,
+      402.59088134765625,
+      404.20782470703125
+    ],
+    "text": "Keywords: animal-assisted therapy; biobehavioural human–animal interaction;\nsocial work intervention"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      448.0640869140625,
+      426.6921081542969,
+      605.47265625
+    ],
+    "text": "Introduction\nRecent research conﬁrms the importance that enriched environments play in the neuro-\nbiological development of human and non-human animals (Afﬁ, Asmundson, Taylor, &\nJang, 2010; Barry, Kochanska, & Philibert, 2008; Knafo & Plomin, 2006; Pragg,\nKempermann, & Gage, 2000). Enriched environments are surroundings that are\ncomplex, facilitate learning and are socially stimulating; not reliant on a single factor\nbut the combination and interaction of several factors that stimulate growth and\nchange. Bio-ecological theory refers to this as ‘proximal processes’; the reciprocal, evol-\nving interaction between the individual and their environment that contributes to their\nincreasingly sophisticated and ongoing development (Brofenbrenner & Evans, 2000).\nSocial work’s ‘person-in-environment’ theory also recognises the importance of ‘good-\nness of ﬁt’ between the individuals and their environment as a contributor to optimum\nhealth (Saleebey, 1992)."
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      668.3898315429688,
+      140.28253173828125,
+      676.9307250976562
+    ],
+    "text": "# 2013 Taylor & Francis"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      645.5714111328125,
+      267.8035888671875,
+      656.6044311523438
+    ],
+    "text": "∗Corresponding author. Email: jyorke@laurentian.ca"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      66.61419677734375,
+      40.19144058227539,
+      344.49761962890625,
+      60.18942642211914
+    ],
+    "text": "Early Child Development and Care, 2013\nVol. 183, No. 7, 874–894, http://dx.doi.org/10.1080/03004430.2012.693486"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      66.6142578125,
+      63.02854919433594,
+      426.7371826171875,
+      253.52247619628906
+    ],
+    "text": "One of the most signiﬁcant contributions to neurological development in the indi-\nvidual’s environment is the afﬁliation and attunement they have with other beings\n(Carter, 1998; Francis & Meaney, 1999; LeDoux, 1996; Panksepp, 1998; Perry,\n2002, 2006; Van der Kolk, 2003). It follows that interventions pairing environmental\nenrichment with afﬁliative or social relationships may have the potential to enhance\nchange and promote resiliency in children affected by stress or trauma. Human–\nanimal interaction (HAI) strategies like animal-assisted therapies combine enriched\nenvironments and afﬁliative relationships that utilise touch, proximity and responsive-\nness. These interventions are non-invasive and they may mimic other signiﬁcant\nrelationships in children’s lives.\nThis article presents the results of a meta-analysis of four child–horse interactions\nthat look at the use of therapeutic riding as an intervention, measuring the emotional\nresponse of both children and horses to each other in six days of therapeutic riding\nand six days of story-telling and picture drawing. The use of single subject design\nprovides clarity, an opportunity to view the interaction being studied in detail and\ncollect pilot data."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      66.6142578125,
+      276.0653381347656,
+      426.6921691894531,
+      649.5084228515625
+    ],
+    "text": "Afﬁliation, attunement and attachment: brain development and emotional\nregulation\nSocial relationships span various degrees of intimacy, from afﬁliation to attunement and\nattachment. Afﬁliation is simply the act of being close to or responsive with other beings\nthroughout the life cycle (Carter, Lederhendler, & Kirkpatrick, 1999; Feldman, Weller,\nZagoory-Sharon, & Levine, 2007; Porges, 2003). It requires social engagement that\noften involves safe touch and proximity seeking behaviour (Ahnert, 2003). Afﬁliation\nwith others can result in attunement. Attunement relies on responsive afﬁliation; a con-\nsequence of ongoing understanding and reciprocal interaction with another, and can\nlead to attachment (Baylis, 2006; Feldman et al., 2007; Leaper, 2000; Schore, 2003;\nSiegel, 2001). Glaser (2000) describes attachment as ‘. . . proximity-seeking behavior\nby a dependent organism (infant or child) when he or she experiences discomfort of\nany sort . . .’. (p. 102). Parental relationships are often one’s ﬁrst experience with\nafﬁliation, attunement and attachment, one of a myriad of complex factors (genetics,\npersonality, other environmental inﬂuences such as trauma or stress) that can inﬂuence\nemotional regulation and cognitive development (Calkins, Smith, Gill, & Johnson,\n1998; Eisenberg, Smith, Sadovsky, & Spinrad, 2004; Kramer, 1993; LeDoux, 1996;\nLiu, Diorio, Tannenbaum, Caldji, Francis, Freedman, Sharma, Pearson, Plotsky &\nMeaney, 1997; Panksepp, 2003; Perry, 2002, 2006; Tamaroff et al., 1986; Van der\nKolk, 2003; Woltering & Lewis, 2009).\nChildren who experience stress and trauma, especially when it is in the context of\nfamily may experience difﬁculties with neurodevelopment related to self-regulation as\na result of disrupted afﬁliation, attunement and attachment processes. The question is\ncan interaction with others, particularly non-human beings, modulate emotional regu-\nlation processes and stress reactions that have been established and speciﬁcally can it\nmodulate cortisol levels in children who have experienced trauma? It is important to\nexplore what is known about how human animal interaction (HAI) might establish a\nsafe relationship that includes safe touch and proximity. Finally what if any impact\ndoes the interaction have on a therapeutic animal? A review of the animal and\nhuman research related to afﬁliative relationships, neurodevelopment and the experi-\nence of stress is warranted."
+  },
+  {
+    "page": 3,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n875"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.7110290527344,
+      316.50518798828125
+    ],
+    "text": "Animal research\nMeaney and colleagues appear to have established a connection between early experi-\nence of stressors in mother–pup rodent interactions and long-term implications for hip-\npocampal synaptic development and function (Liu et al., 1997). The hippocampus is\nimportant to memory as well as spatial thinking, or mapping (using the mind’s eye)\nand plays an important role in cognitive processes and learning. Other studies indicate\nthat variations in maternal care in infancy appear to regulate the development of stress\nreactivity (Caldji, Diorio, & Meaney, 2000). Enhanced sensitivity is known as kindling\nand it plays a role in the neuroplasticity of the brain in that it enhances sensitivity to\nlater forms of enrichment (Glaser, 2000; Kramer, 1993). Bredy and colleagues found\na partial reversal in cognitive function through the use of environmental enrichment,\nspeciﬁcally maternal care (Bredy, Humpartzoomian, Cain, & Meaney, 2003). Maternal\ncare appears to affect hippocampal glucocorticoid receptors and hypothalmic-pituitary-\nadrenal (HPA) responses to stress, and adversity in early life. It appears developing\nbrains can be impacted by both trauma and/or neglect (which can cause kindling) as\nwell as enriched environments (which can contribute to resilience).\nThe notion that environmental enrichment and nurturing practices in rats can con-\ntribute to partial reversal of the effects of stress/trauma is encouraging for human\nhealth. Healthy development in mammals is based on consistency in caregiver\nrelationships that are responsive, and nurturing contributes to resilience in the face\nof adversity."
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.61419677734375,
+      336.0521545410156,
+      426.7362365722656,
+      649.5084228515625
+    ],
+    "text": "Human research\nBowlby (1958) and Ainsworth (1964, 1970, 1989) deﬁned the role attachment plays in\nhealthy developmental processes in children. Research across social science disciplines\n(nursing, social work, psychology) has shown that inﬂuences on early social afﬁliation,\nattunement and attachment are predictors of risk and resilience (Anderson & Seita,\n2006; Antonucci, Akiyama, & Takahashi, 2004; Leichman et al., 2003; Thompson\net al., 2003; Trevarthen, O’Connor, Hennighausen, & Lyons-Ruth, 2003). Combs-\nOrme (in press) has recently identied the importance epigenetics plays in social\nwork’s understanding of the impact of the environment on individual change, citing\nresearch that supports the passing on of some of these changes for generations. Afﬁlia-\ntive interactions in humans contribute to neural processes of cognition utilising those\nsame conduits of emotion, touch and proximity that we see in non-human animals\n(Feldman et al., 2007; Lewis, 1995, 2005a, 2005b, 2007; Putnam, 2007; Schore,\n2003; Thompson, Lewis & Calkins, 2008; Todd & Lewis, 2008). Passive (neglect)\nor active (abuse) experiences during key stages of growth could be disruptive to attach-\nment relationships and impact neuropathways in the developing brain (Curtis &\nCicchetti, 2003; Putnam, 2005). It is expressed as delays in growth, language, poor\nimpulse control (emotional regulation), hyper vigilance and a lack of social ability in\nchildren. Research data show that the introduction of environmental enrichment at\nkey junctures in development may counter the effects of stress and impact self-\nregulation (Lupien, McEwen, Gunnar, & Heim, 2009).\nPleasant touch plays an important role in environmental enrichment. It activates the\nseeking, pleasure and reward centre circuits of the brain, provoking emotion. This also\nactivates the orbital frontal cortex (OFC) and the anterior cingulated cortex (ACC); parts\nof the cerebral cortex that play a role in cognition such as decision making, higher order\ncognitive processes and executive function (Critchley et al., 2003; in Luu & Posner,"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "876\nJ. Yorke et al."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.71307373046875,
+      385.49810791015625
+    ],
+    "text": "2003; Phillips, 2003). Emotion and responsiveness provoke the release of neuropeptides\nsuch as oxytocin and vasopressin which results in feelings of security or warmth and\ncontributing to stability in the development of the brain (Lewis & Stieben, 2004; Pank-\nsepp, 1998; Uvnas-Moberg, 1997). Emotion is important to the overall development of\ncognition and emotional development and regulation are processes related to the func-\ntion of the ACC and the PFC (Lewis 1995, 2005a; Woltering & Lewis, 2011). Respon-\nsive and nurturing touch in infancy assists children as they age in their non-verbal ability\nto monitor future interactions and ﬁlter how external information is interpreted in the\ndevelopment of social bonding behaviour (Hofner, 1985; in Tortora, 2006, 2010).\nBody experiences resulting from touch and proximity to others become signiﬁcant for\ntrauma recovery in children who have not had the ‘neurological safety’ (Tortora,\n2010, 39) required to maintain optimum cognitive and neurobiological development.\nReplicating these body experiences in therapeutic interaction is the rationale for pro-\ngrammes such as Theraplay (Jernberg & Booth, 1999) and Best Start Programs,\nwhere intensive interaction with others is utilised to provide an enriched environment\nand to stimulate early childhood development.\nThis is where animal-assisted therapy may be useful by providing stimulation, touch\nand proximity in ways that may stimulate seeking behaviour or responsiveness in the\nchild. Seigel’s work (2001) iterates that these kinds of body experiences might\nprovide a context within which new synapses in the brain can develop. Social\nbonding behaviour relies on successful development of attachment relationships with\ncaregivers and attachment appears to play a role in mitigating fear or anxiety (Carter,\n2003). Some research challenges the notion that attachment to a primary caregiver\nalone is required to mitigate stress and perhaps attunement or sensitivity from care-\ngivers and others is just as signiﬁcant (Gunnar, 2003). The role these afﬁliative relation-\nships have on brain development is important to understanding how to replicate these\ninteractions in therapeutic encounters."
+  },
+  {
+    "page": 5,
+    "bbox": [
+      66.61419677734375,
+      408.09765625,
+      426.68896484375,
+      649.5084228515625
+    ],
+    "text": "Neurobiology and trauma\nThe Diagnostic and Statistical Manual of Mental Disorders, fourth edition, Text\nRevision (DSM-IV-TR; American Psychiatric Association [APA], 2000) deﬁnes\ntrauma as ‘direct personal experience of an event that involves actual or threatened\ndeath or serious injury, or other threats to one’s physical integrity’ (Criterian A1,\n463). Attachment can create resilience in the face of current and future stress and\ntrauma, but there are events that can impact the trajectory of neurodevelopment in\nchildren (Glaser, 2000; Zeki, 2007; Schore, 2003).\nA host of literature recognise that most children who experience traumatic symptoms\ndo so as a result of maltreatment (abuse, neglect) and this can coincide with disrupted\nattachment with primary caregivers (Aisenberg & Mennen, 2000; Breslau, Wilcox,\nStorr, Lucia, & Anthony, 2004; Cicchetti & Lynch, 1993; Curtis & Cicchetti, 2003;\nGlaser, 2000; Graham-Berman, DeVoe, Mattis, Lynch, & Thomas, 2006; Henry,\nSloan, & Black-Pond, 2007; Kramer, 1993; Perry, 2006; Van der Kolk, 2003). Stress\nis particularly offensive to developing brain systems, causing long-term changes to\nthe HPA circuit and developmental stages of growth impairing the brain’s ability to\nself-organise effectively and interfering with self-regulatory brain processes (Bredy\net al., 2003; Glaser, 2000; Kramer, 1993; Lewis, 2005a; Nelson, 2000; Perry, 2006;\nPutnam, 2005). This implies a complex synaptic relationship between environment,\ncognition and physical response to trauma (Meaney, 2001). Both Nelson (2000) and"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n877"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.6888122558594,
+      193.5438690185547
+    ],
+    "text": "Putnam (2005) underpin the importance of the hypothalamus in the role it plays in trans-\nlation of stress into brain responses. Lewis and Todd (2007) assert that the study of post\ntraumatic stress disorder (PTSD) provides some insight into how these ‘vertical’ devel-\nopmental processes can be compromised and highlight the role this plays in self-\nregulation. The plasticity of the cortical area (ACC and PFC) would make the age at\nwhich children experience maltreatment essential to their eventual capacity to self-\nregulate. The ACC is an important hub for self-regulations (and therefore, resilience),\nand better self-regulation can down-regulate cortisol secretion in the face of stressors.\nBenarroch (2012) describes this process as part of a ‘central autonomic network’ or a\nmultilayered integrated process of ‘moment-to-moment control of viceral function,\nhomeostasis and adaptation to internal and external challenges (p. 9)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.61419677734375,
+      215.5289764404297,
+      426.70477294921875,
+      529.0407104492188
+    ],
+    "text": "The role of cortisol\nOne of the by-products of interrupted attachment is feelings of insecurity and the devel-\nopment of hyper arousal (fear system) which affects the function of the HPA axis,\nresulting in a ﬂood of chemicals in the brain. In particular, children will experience cor-\ntisol (stress hormone) levels that are indicative of a stress response. Normal cortisol\nlevels in children peak in the morning and drop gradually through the day (Gunnar,\nMorison, Chisholm & Schuder, (2001); Larson, White, Cochran, Donzella, &\nGunnar, 1998; Price, Close, & Fielding, 1983; White, Gunnar, Larson, Donzella, &\nBarr, 2000). Researchers have determined that different kinds of stress or trauma, in\naddition to the consequential anxiety and/or depression can result in disrupted patterns\nof cortisol production (Dozier et al., 2006; Ramsay & Lewis, 2003; Willoughby, Van-\ndergrift, Blair, & Granger, 2007; Yehuda, 2006). For example children who have\nexperienced separation from a primary attachment ﬁgure will have different patterns\nof cortisol levels over a 24 hour period than children who have experienced maltreat-\nment or sexual abuse (Cicchetti & Rogosch, 2001). Repeated exposure to trauma\nimpacts basal (minimum level to maintain normal functioning) cortisol levels\n(Bevans, Cerbone, & Overstreet, 2008; Elbert, Heim, & Rockstroh, 2001). Disrupted\nbasal and diurnal (expected highs and lows over 24 hours) cortisol rhythms may\nimpact other self-regulating systems in the brain that controls emotion for example\n(Dozier et al., 2006; Fisher, Gunnar, Dozier, Bruce, & Pears, 2006; Schuengel, Ooster-\nman, & Sterkenburg, 2009).\nOverall the literature appears to support that buffering of stress levels may have a\npositive effect on neurobiological and physiological stress responses in development.\nDeveloping therapeutic interactions that can buffer these responses in traumatized\nchildren is challenging. Therapeutic human animal interactions may be useful in this\nregard."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.61419677734375,
+      552.0938720703125,
+      426.6836242675781,
+      649.510498046875
+    ],
+    "text": "Therapeutic HAIs\nOne of the burgeoning areas of interest in social work is HAI, speciﬁcally animal-\nassisted therapy. A meta-analysis that reviewed the efﬁcacy of HAI interventions\nnoted some promising results; however, it cautions that there is a need for further rigor-\nous study (Nimer & Lundahl, 2007). These kinds of interventions, the concerns they\nseek to address and the short- and long-term outcomes are difﬁcult to measure\n(McCardle, McCune, Grifﬁn, Esposito, & Freund, 2010). Some social work literature\nis far more critical of HAI claiming it is based on pseudoscience and emphasising"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "878\nJ. Yorke et al."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.7078857421875,
+      649.5104370117188
+    ],
+    "text": "the importance of an ‘evidence based’ approach in the use or endorsement of any inter-\nvention (Gambrill, 2001, 2003; Gilgun, 2005; Marino & Lilienfeld, 2007; Saleebey,\n1997; Thyer & Pignotti, 2010; Wakeﬁeld, 1995). Thyer and Pignotti (2010) discuss\nsome of the claims speciﬁcally being made about equine-assisted therapies, in particular\npsychotherapies without the support of rigorous high quality research, the lack of\ncapacity to build on prior knowledge and an over reliance on anecdotal evidence.\nRigorous research is a key to having HAI recognised as efﬁcacious and it requires\nsuccinct and measured approaches. Understanding the neurobiology of interaction\nwith others as aspects of environmental enrichment lends itself to an understanding of\nhow HAI might be useful as a social work strategy.\nHuman–animal interaction research suggests that these relationships can be thera-\npeutic for humans in ways that are similar to traditional therapeutic approaches to\nhealing (Frewin & Gardiner, 2005; Friedmann, Katcher, Lynch, & Thomas, 1980;\nJorgenson, 1997; Katcher, 1980; Katcher, Friedmann, Beck, & Lynch, 1983; Lagoni,\nButler, & Hetts, 1994; McCardle et al., 2010; Yorke, Adams, & Coady, 2008). The\npsycho-physiological evidence indicates that companion animals impact humans by\nlowering blood pressure, quieting the autonomic nervous system, calming cardiovascu-\nlar activity, provoking responses in oxytocin and vasopressin as well as cortisol and\npromoting physiological relaxation (Friedmann, Katcher, Thomas, Lynch, & Messent,\n1983; Odendaal, 1999, 2000; Shiloh, Sorek, & Terkel, 2003; Uvnas-Moberg, 2009;\nVirues-Ortega & Bruela-Casal, 2006; Wilson, 1991).\nResearch with companion animals is also beginning to demonstrate that human–\nanimal relationships share some aspects of attachment to human-to-human relation-\nships as described in Bowlby’s (1958, 1988) attachment theory (Crawford,\nWorsham, & Swinehart, 2006; Prato-Previde, Custance, Spiezio, & Sabatini, 2003;\nTaggart, unpublished). Clinical research indicates that animals respond similarly to\nchildren when exposed to the Ainsworth’s Strange Situation Test (Ainsworth,\n1970). Animals mobilise the attention of children, calm agitated behaviour and\nameliorate emotional crises (Boat, 2006; Hart, 2000; Katcher & Wilkins, 1997;\nStrand, 2004).\nThe use of horses for therapeutic purposes (hippotherapy) has received increasing\nattention in a variety of healthcare disciplines (Bass, Duchowny, & Llabre, 2009;\nBizub, Joy, & Davidson, 2003; Engel, 1997; Haylock & Cantril, 2006; Kaiser,\nSpence, Lavergne, & Vanden Bosch, 2006; Strauss, 1991). Horses are more recently\nbeing used in mental health therapeutically and researchers have studied the effective-\nness as interventions for people with psychological and mental health problems with\nsome results that have indicated it is effective and others concluding it is not (Chris-\ntian, 2005; Ewing, MacDonald, Taylor, & Bowers, 2007; Karol, 2007). Research that\ninvestigates therapeutic riding has explored effectiveness increasing children’s self-\nesteem and self-conﬁdence (Cawley, Cawley, & Retter, 1994; Davis, 2009; Shultz,\nRemick-Barlow, & Robbins, 2007; Taylor, 2001), reducing acting-out behaviour in\nadolescents (Ewing et al., 2007; Trotter, 2006) and anger in boys (Kaiser et al.,\n2006), providing an alternative for trauma recovery for a rider,(Yorke, 2003; Yorke\net al., 2008) and serving as a conduit for other therapies (Brooks, 2006; Taylor,\n2001; Trotter, 2006; Tyler, 1994). Equine–human interaction research has indicated\nthat children with autism improve social functioning (Bass et al., 2009) and self-regu-\nlation (Gabriels et al., 2012). Overall, there is an absence of rigorous biobehavioural\nresearch to support the efﬁcacy of this kind of intervention for improved health in\neither human or animal participants."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n879"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.7131652832031,
+      640.4982299804688
+    ],
+    "text": "The case for HAI as a biobehavioural intervention\nAnimal research has clearly demonstrated the relationships between the structures of the\nbrain and experience, including the effects of nurturing on developmental neurobiology\n(Bredy et al., 2003). Current research conﬁrms that many neural processes in brain\ndevelopment across species are the same, albeit that human cortical activity is more\ncomplex and many aspects of development are, as a consequence, still unknown (Pank-\nsepp, 1998). The research related to the impact of afﬁnity, attunement, attachment,\nspeciﬁcally related to touch, proximity, safety and trust makes a good case for a\nsimilar effect resulting from interspecies interaction (Bredy et al., 2003; Carter, 1998;\nFleming, O’Day, & Kraemer, 1999; Liu et al., 1997; Noriuchi, Kikuchi, & Sino,\n2008). Some speciﬁc research in HAI indicates that it can modulate stress levels (corti-\nsol) and impact neuropeptides (oxytocin and vasopressin) in ways that might be useful\ntherapeutically (Gabriels et al., 2012; Uvnas-Moberg, 2009; Viau, Arsenault-LaPierre,\nFecteau, Champagne, Walker & Lupien, 2010). Finally, research also supports the\nprocess of self-organisation of the brain as a mechanism for creating resilience and it\npromotes the idea that adaptation is ongoing. The extent to which neurobiological\ndevelopment is enhanced by a supportive and enriched environment, and what\nperiods of child development afford an opportunity for intervention is becoming\nclearer (Lewis & Todd, 2007; Putnam, 2005; Van der Kolk, 2003).\nEnriched and challenging environments impact aspects of development in infants\nand young animals as well; exposure to stimulating contexts appears to be prophylactic\n(Johnson, 2000; Nelson, 2000). Children might naturally seek afﬁliative relationships\nthat are rewarding in this way. Phillips (2003) talks about the role of oxytocin and vaso-\npressin in the brain systems focused on liking, and dopamine in the brain system\nfocused on wanting, and their inevitable connection to pleasure. Seeking behaviour\nwould be indicative of the need humans and animals have for tactile interaction with\neach other that appears to be related to pleasure (Phillips, 2003). It follows that this\nrelationship has the strong potential to contribute to positive neurological development\nas a consequence. This opens the door to the use of interspecies interaction as a mech-\nanism to promote healthy neurobiological development through the use of touch, proxi-\nmity and the evocation of emotion, such as pleasure and reward seeking behaviours, at\nparticular times in the developmental processes. Woltering & Lewis (2009) discuss\nemotional regulation as integrated mechanisms of emotional control, indicating that\nstrategies to intervene that are ‘emotionally engaging and contextually realistic’\n(166) could be useful for children, targeting the part of the brain, the anterior cingulate\ncortex (ACC) as an example that mediates regulatory style. Benarroch’s (2012) discus-\nsion of a central autonomic network and its role in self-regulation and consequently\ndown-regulation of cortisol secretion could play a role in some synchrony between\nhuman and animal.\nConversely it is important to be cautious about the research that provides neurobio-\nlogical support for the impact of the interspecies interaction premise as it is sparse.\nLupien and colleagues have participated in one study that measures the relationship\nbetween enriched environments in children and proﬁciency in education (Lupien,\nKing, Meaney, & McEwen, 2000; Lupien, King, Meaney & McEwen, 2001). This\nstudy is important because it attempts to apply a body of literature amassed in\nanimal science to humans. It is apparent however that research focusing directly on\ninterspecies interaction and the neurobiological impact for both human and animal is\nlacking."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "880\nJ. Yorke et al."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.6142578125,
+      63.02854919433594,
+      426.6795349121094,
+      181.5254669189453
+    ],
+    "text": "The studies discussed in this article were designed to measure stress responses in\nfour children identiﬁed as traumatised and the horses they interact with in a therapeutic\nriding programme, over 12 days, which includes six days of riding. These are unique\nstudies in that they measure cortisol rates in both children and horses and it looks for\nsynchronicity in child–horse pairs. The meta-analysis discussed here is part of a\nbroader study that includes individual analysis of eight single system designs. This\narticle discusses the meta-analysis performed on the cross-correlations of the cortisol\nlevels in the four child–horse interactions in that study. The purpose of this meta-\nanalysis is to gauge the overall effect size of in-tandem ﬂuctuations of cortisol in the\nfour child–horse pairs."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.6142578125,
+      196.6282958984375,
+      426.67547607421875,
+      294.0014343261719
+    ],
+    "text": "Hypotheses and variables\nDependent variables were cortisol levels. Independent variables for children were\ndrawing pictures, writing stories, grooming and being groomed and riding and being\nridden. Independent variables for horses were resting and being groomed and ridden.\nHeart rates are not reported in this article.\nIt was hypothesised that HAI generates positive afﬁliation, attunement and/or\nattachment, all of which may have a modulating (response to kindling) or prophylactic\neffect (resilience) on the traumatised child. The hypothesis posed in this study was:"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      81.63780212402344,
+      307.5391845703125,
+      426.70458984375,
+      342.0194091796875
+    ],
+    "text": "(1) After ongoing interaction between traumatised children and therapeutic riding\nhorses, both the children’s and the horses’ heart and cortisol levels will ﬂuctuate\nin tandem."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.6142578125,
+      360.6366271972656,
+      426.7057189941406,
+      593.04736328125
+    ],
+    "text": "Methodology\nParticipants\nChildren who were eight to ten years of age, not using medication, meeting the criteria\nfor PTSD using the Child Post Traumatic Stress Disorder Symptom Scale or CPSS\n(Foa, Johnson, Feeny, & Treadwell, 2001) and not violent were recruited for the\nstudy. They were recruited through child welfare agencies in the same geographical\nregion as the farm, through a women’s shelter, paediatric psychiatrist and family coun-\nselling service as well as the waiting list for the farm where the study took place. A total\nof seven children were screened, two did not meet the criteria, one child dropped out at\nthe last minute. Screening included contacting child welfare organisations, asking them\nto broker contact with parents of children who might meet the criteria, getting consents\nsigned to get access to the families and making contact. This included a presentation to\nthe agencies, organising interview times at the agencies and screening children there,\npreliminary discussion with parents to describe the study and meetings with the clinical\nsupervisors in the agencies to discuss criteria for participation.\nHorses were chosen from the available mounts at the therapeutic riding facility and\nmatched to children by coaches certiﬁed through the Canadian Therapeutic Riding\nAssociation (CanTRA) according to size and personality. The study included eight\nsingle subject designs, and four child–horse pairs."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      66.6142578125,
+      612.0747680664062,
+      426.69427490234375,
+      649.5126953125
+    ],
+    "text": "Study design\nSingle subject design was chosen at this stage to establish dosage (frequency, length of\ninteraction) and observe the subtle effects of HAI that might be missed in a larger group"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n881"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.61419677734375,
+      279.8788146972656,
+      426.7037353515625,
+      398.37445068359375
+    ],
+    "text": "design. An ABCBA single case design, with multiple baseline elements, was used in\nthe study. The phases of this single case design are as follows (Figures 1 and 2). The\nﬁrst baseline (A) phase involved the collection of three samples of cortisol a day,\none day a week, for three weeks. The day of the week (Tuesday, when the principal\ninvestigator was available) the samples were collected was speciﬁcally chosen so the\nhorses and children could be tested on the same day. Baseline samples for children\nwere taken in the child’s home by her or his guardian, with one measure taken in the\nmorning upon awakening, one in the middle of the day, after school, and one late in\nthe evening, before bed. Horse baseline samples were collected at the same times, in\ntheir stalls at the farm, allowing 30 minutes without food. The STAIC-Trait Inventory"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.61419677734375,
+      619.7784423828125,
+      426.58526611328125,
+      649.2911376953125
+    ],
+    "text": "Figure 2.\nPhases of the study, three weeks, one day a week for baseline and follow up, 12 days\nfor the intervention, six days for drawing pictures and writing stories, six days for riding and\ngrooming."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.61419677734375,
+      244.8116455078125,
+      250.99691772460938,
+      254.3116455078125
+    ],
+    "text": "Figure 1.\nMultiple baseline single case design."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "882\nJ. Yorke et al."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.7100830078125,
+      277.5025939941406
+    ],
+    "text": "was administered in this phase, prior to the beginning of the B phase (Spielberger,\n1973; Spielberger, Gorsuch, Lushene, Vagg, & Jacobs, 2008). In the B phase, children\ncame to the farm, the location for the therapeutic riding programme, for one hour a day\nto draw a picture and write a story. The STAIC-State was administered before and after\neach drawing and writing session by the same team member (the principal investigator\nand social work student). During this phase the children’s heart rate was monitored\nwhile they were drawing and writing, and their cortisol levels were measured every\n20–30 minutes.\nThe C phase was the intervention. It involved the children coming to the farm for an\nhour. During this hour, participants groomed a horse for approximately 15 minutes,\nrode the horse for approximately 30 minutes and then groomed the horse for another\n15 minutes. Cortisol was collected during this phase every 20–30 minutes, and the chil-\ndren’s heart rates were continuously monitored. When children were riding the horses,\nthey were video-taped for ﬁve minutes at the beginning and ﬁve minutes at the end of\neach riding session with the child.\nThe second B phase had the child come to the farm for one hour per day for drawing\nand writing. Cortisol levels and heart rates were collected as described above for the\nﬁrst B phase. The concluding A phase of the study was identical to the ﬁrst A phase."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.61314392089844,
+      300.0454406738281,
+      426.69940185546875,
+      457.4972839355469
+    ],
+    "text": "Salivary cortisol assay analysis\nSaliva samples were thawed to a maximum of 4–88C over eight hours before they were\ntested. Saliva samples were analysed using ELISA assay kits by Dia Metra according to\nthe protocol described in the kit. Each kit provides 96 sample readings on a micro plate,\nincluding seven standards. Samples were systematically divided across baseline, study\nand follow-up samples, for both children and horses, and distributed across the 26 plates.\nEach sample was tested twice for accuracy. Missing samples were left blank. Samples\nwere processed according to the Dia Metra kit instructions. Standards were calculated\nand charted for each plate. Raw data were converted to actual cortisol amounts using\na four-parameter logistical equation in the KC junior software in the micro plate\nreader, as indicated in the Dia Metra Elisa kit instructions. Duplicate samples were aver-\naged after completion of the conversion. Cortisol sample results were then charted\naccording to baseline, study and follow-up results for each child and horse."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.61309814453125,
+      480.14019775390625,
+      426.7015380859375,
+      565.4960327148438
+    ],
+    "text": "Reference values, accuracy, speciﬁcity and sensitivity\nThe immunoassay ELISA kit provides preliminary guidelines for cortisol values of 3–\n10 nanogram per millilitre (ng/ml) in the morning and 0.6–2.5 ng/ml in the evening.\nIntra- and inter-assay variations are 7% and 9.3%, respectively. Speciﬁcity of the\ncross-reaction of the antibody calculated at 50% with an average of +6.3%. Sensitivity\nindicates that the lowest detectable concentrations of cortisol that can be distinguished\nfrom the zero standard are 0.05 ng/ml at the 95% conﬁdence limit."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      66.61309814453125,
+      588.1389770507812,
+      426.66046142578125,
+      649.513671875
+    ],
+    "text": "Meta-analysis\nMeta-analyses provide a practical statistical approach to determining the impact of a\nspeciﬁc intervention. Ideally they would provide a relevant accumulative sample size\nfor studying the impact of interventions in similar quantitative studies. With single\nsubject designs, sample sizes are intentionally not the focus – identifying small and"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n883"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.693115234375,
+      121.5456771850586
+    ],
+    "text": "subtle effects of the intervention and, in this case, identifying what effects would be\nmost useful to study in a group design, was the goal. Meta-analysis was a useful\nway to gauge the accumulative effect size of the cross-correlation in equine–human\ninteraction in these studies. It also provides a baseline for future studies with this popu-\nlation using an identical methodology, for comparison."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.61419677734375,
+      140.7999267578125,
+      426.73846435546875,
+      286.2334289550781
+    ],
+    "text": "Time series analysis\nTimeseriesanalysisallowstheresearchertoanalysea collectionof data pointsthatoccur in\na sequence or series, over a speciﬁc period of time (Chatﬁeld, 2004). Analysis of data can\nbe used to describe the data by plotting it, explain the changes in the data from point to\npoint,andtheresultsmay be useful to predict or control futureinterventions.Issuesofauto-\ncorrelation and understanding of the relevance of moving averages can assist in explaining\nhow patterns emerge and relate to other time series data. Autocorrelation is the correlation\nthat may exist between repeated patterns of time series data (in this case data from both a\nchild and a horse). These kinds of results may indicate a lag effect between the two data\nseries although, in this case, data were not tested for lag time correlation. Moving averages\nmeant that samples one through four were averaged, then two through ﬁve, three through\nsix and so on were combined and averaged (see Figures 4–7)."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.61419677734375,
+      306.50823974609375,
+      426.6962890625,
+      487.9402160644531
+    ],
+    "text": "Results\nA meta-analytic technique was used to estimate the mean cross-correlation between\nchild/horse cortisol levels during the riding phase. This meta-analytic technique has\nbeen described by Field (2001). This method is a random effects model for doing a\nmeta-analysis of correlations (Hunter & Schmidt, 1990). It is designed to take into\naccount sampling error associated with the numbers of observations for each child, as\nwell as sampling error associated with the sample of four child/horse pairs. It is a\nmore conservative approach than a ﬁxed effects analysis method, which takes into\naccount only the ﬁrst of these levels of sampling variability. In addition, graphs of\nmoving averages (four point) or ‘smoothing out’ of the data are used to compare both\nhorse and child cortisol levels across the 12 days of the intervention (Figures 4–7).\nA lag-zero cross-correlation was calculated for each child/horse pair. Then, follow-\ning the method described by Field (2001), the weighted mean cross-correlation for the\nfour child/horse pairs was calculated, along with the standard error of this sample mean\ncross-correlation."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.61419677734375,
+      639.7910766601562,
+      345.34417724609375,
+      649.2910766601562
+    ],
+    "text": "Figure 3.\nTable of random effects model correcting for autocorrelation."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "884\nJ. Yorke et al."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.61419677734375,
+      183.41326904296875,
+      426.6128845214844,
+      202.89111328125
+    ],
+    "text": "Figure 4.\nCortisol pattern for both child and horse #1 across both phase B (drawing and\nwriting) and phase C (riding and grooming)."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.61419677734375,
+      333.3092346191406,
+      426.6128845214844,
+      352.7870788574219
+    ],
+    "text": "Figure 5.\nCortisol pattern for both child and horse #3 across both phase B (drawing and\nwriting) and phase C (riding and grooming). This child missed day 6."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.38739776611328,
+      483.88555908203125,
+      426.3290710449219,
+      503.3634033203125
+    ],
+    "text": "Figure 6.\nCortisol pattern for both child and horse #4 across both phase B (drawing and\nwriting) and phase C (riding and grooming). This child missed day 6."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      66.61419677734375,
+      629.75634765625,
+      426.6128845214844,
+      649.2911987304688
+    ],
+    "text": "Figure 7.\nCortisol pattern for both child and horse #5 across both phase B (drawing and\nwriting) and phase C (riding and grooming). This child missed day 6."
+  },
+  {
+    "page": 13,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n885"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.61419677734375,
+      63.075992584228516,
+      426.67950439453125,
+      244.50816345214844
+    ],
+    "text": "Cross-correlation and autocorrelation\nEstimates of cross-correlations can be biased by autocorrelation in time series (Chatﬁeld,\n2004; Nugent, 2010). It has been recommended that time series data have autocorrela-\ntion removed prior to computing estimated cross-correlations, a process referred to as\n‘whitening’ or ‘pre-whitening’ the time series (Chatﬁeld, 2004). Brieﬂy, this is done\nby ﬁrst identifying autocorrelation patterns in the time series using the autocorrelation\nand partial autocorrelation functions. The whitened time series for a child’s cortisol\nlevel can be thought of as the cortisol level with autocorrelation removed. The meta-\nanalytic method described above is then applied to the cross-correlations estimated\nfrom the time series with autocorrelation removed. Figure 3 shows the results using\nthis analytic methodology.\nThe weighted mean cross-correlation, controlling for autocorrelation, was 0.23,\nZ ¼ 3.03, approximately 95% conﬁdence interval 0.23 + (1.96 × 0.076) or 0.08–\n0.38. These autocorrelation corrected results were also consistent with the research\nhypothesis (Figure 3)."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.61422729492188,
+      265.6202087402344,
+      426.6878967285156,
+      471.046630859375
+    ],
+    "text": "Discussion\nThese small studies contribute to the current literature on equine-assisted interventions\nin that they demonstrate some correlation between the child–horse pairs. Overall the\nweighted mean (0.23) and the Z-statistic which calculates effect size (3.03, p ,\n0.05) indicated that there was a mild to moderate symmetry collectively between the\nchild–horse pairs. This could be random, the result of the short period of time the\npairs spent together, or a product of child–horse matching. In the co-relational data\nanalysis, it was determined that only one child’s time series of data (child number\nﬁve) and one of the horses (horse number three) experienced autocorrelation.\nOne would expect to see no reaction in cortisol levels or a minimal reaction between\nchildren experiencing PTSD and the horses they ride for only six days which makes the\nresults of this study compelling. Further investigation of the process rather than\noutcome of these child–horse interactions could shed some light on protocol for pro-\ngramming in therapeutic riding programmes speciﬁc to traumatised children. It may\nalso rely on the history and experience of the horses, how stressful the barn and parti-\ncipating in the programme is, and what impact exercise of any kind has on lowering\ncortisol levels for humans and animals."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.61422729492188,
+      492.0585632324219,
+      426.7120361328125,
+      649.5115966796875
+    ],
+    "text": "Implication of the study for current theory, limitations and future research\nrecommendations\nSuch interventions may be especially useful for traumatised children who are neuro-\nphysiologically dysregulated, providing an attunement with another being that\nsoothes through touch, proximity and the development of trust. Marino and Lilienfeld\n(2007) in particular notes the ﬂeeting nature of the measured impact HAI has in most\nstudies. If, however, HAI can be used strategically at important junctures in neurobio-\nlogical development, the short-term effect may garner long-term consequences.\nChanges in neurobiology as a result of HAI suggest that further investigation is war-\nranted. Research that has measured cortisol levels and plasma levels of neuropeptides\nand neuromodulators, speciﬁcally endorphins, oxytocin, prolactin, phenylethylamine\nand dopamine in dogs and humans interacting suggests that human–animal relation-\nships can mitigate stress responses (Odendaal, 1999, 2000; Odendaal & Meintjes,"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "886\nJ. Yorke et al."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      63.02854919433594,
+      426.6942443847656,
+      289.52099609375
+    ],
+    "text": "2003; Uvnas-Moberg, 2009). A recent study by Viau and colleagues (2010) found that\ncortisol awakening responses (CAR) in autistic children were impacted by the presence\nof a service dog.\nThere are some obvious limitations to this meta-analysis and the single case\ndesigns included in them. It is difﬁcult to measure physiological changes in children\nand just as difﬁcult to interpret the results (Carter, 2003). There was some interfer-\nence from parents, the outcomes could have been affected by season, attitudes\ntowards horses or the fact that interaction with horses was a new experience.\nThere are similar cautions in the literature regarding measuring and interpreting\ncortisol levels in animals (McGreevy, 1995; Pell & McGreevy, 1999). Children\nwho participated in the study were not chosen from a large sample randomly. The\nhorses were not randomly chosen either and the matching of child to horse was\nnot random.\nFuture research should focus on the process as well as the outcome of HAIs. Vari-\nations in age, severity of PTSD as well as dosage (length of time riding), child–horse\nmatching and context (coach, volunteers) can all play a role in the impact of the inter-\naction. Longitudinal studies that follow up on children involved in these programmes\nwould provide some insight regarding the impact HAI may have on developmental\nneurobiology in traumatised children."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      312.78765869140625,
+      426.697265625,
+      422.17919921875
+    ],
+    "text": "Conclusion\nThis is an exploratory investigation, the results of which suggest that a larger study\nlooking at coordination of cortisol secretion patterns between a therapy horse and a\nrider with PTSD is warranted. A longer intervention and larger sample may lead to\nthe discovery of a stronger effect. This study is useful because it focuses on the inter-\naction between humans and animals, speciﬁcally on the synchronicity in the child–\nhorse pairs. Understanding how species respond to each other neurobiologically may\nprovide some insight into how animal-assisted therapy can be useful for children\naffected by trauma and has promise as an animal welfare measure as well."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      445.44586181640625,
+      426.6261901855469,
+      527.6281127929688
+    ],
+    "text": "Acknowledgements\nThe researchers thank the children and families who participated in the therapeutic riding pro-\ngramme and team that assisted in the research, Carla Sommardahl for her advice, and Sherri\nSteele for her laboratory assistance. Thank you also to Gail Hussey and Joy Martin for\nlibrary assistance in Canada and Anne Viera at the University of Tennessee Veterinary\nCollege in Knoxville, Tennessee. Funding for this project was provided by Waltham Centre\nfor Pet Nutrition. Thanks to Steven Woltering for his sage advice. Thank you to Karyl\nHurley and Sandra McCune for their assistance."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      547.1065673828125,
+      426.622314453125,
+      579.3322143554688
+    ],
+    "text": "Notes on contributors\nJan Yorke is an assistant professor of social work, School of Social Work, Laurentian Univer-\nsity, Ontario, Canada."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      589.7879028320312,
+      426.6109619140625,
+      609.32275390625
+    ],
+    "text": "William Nugent is the director of the doctoral program and professor of social work, College of\nSocial Work, University of Tennessee, Knoxville, Tennessee."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      66.61419677734375,
+      619.7784423828125,
+      426.59765625,
+      649.2911376953125
+    ],
+    "text": "Elizabeth Strand is an assistant clinical professor of social work, College of Social Work, Uni-\nversity of Tennessee, and director of veterinary social work services, University of Tennessee\nCollege of Veterinary Medicine, Knoxville, Tennessee."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n887"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.61419677734375,
+      63.11083984375,
+      426.6109924316406,
+      82.64569091796875
+    ],
+    "text": "Rebecca Bolen is an associate professor, of social work, College of Social Work, University of\nTennessee, Knoxville, Tennessee."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.61419677734375,
+      93.10137939453125,
+      426.5634765625,
+      112.63623046875
+    ],
+    "text": "John New is a professor of comparative medicine in the Department of Comparative Medicine,\nCollege of Veterinary Medicine, University of Tennessee, Knoxville."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.61419677734375,
+      123.14892578125,
+      426.62139892578125,
+      142.62677001953125
+    ],
+    "text": "Cindy Davis is an assistant professor and a Fullbright Fellow, College of Social Work, Univer-\nsity of Tennessee, Nashville, Tennessee."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.61143493652344,
+      177.128662109375,
+      426.7108459472656,
+      649.2910766601562
+    ],
+    "text": "References\nAfﬁ, T.O., Asmundson, G.J.G., Taylor, S., & Jang, K.J. (2010). The role of genes and environ-\nment on trauma exposure and posttraumatic stress disorder symptoms: A review of twin\nstudies. Clinical Psychology Review, 30, 101–112.\nAhnert, L. (2003). Parenting and Alloparenting: The impact of Attachment in Humans. C.S.\nCarter, L. Ahnert, K.E. Grossman, S.B. Hrdy, M.E. Lamb, S.W. Porges, & N. Sachser\n(Eds.), Attachment and Bonding: A New Synthesis (pp. 85–100). Cambridge, Mass: MIT\nPress.\nAinsworth, M.D.S. (1964). Patterns of attachment behavior shown by the infant in interaction\nwith mother. Merrill-Palmer Quarterly, 10, 51–58.\nAinsworth, M.D. (1970). Attachment, exploration and separation: Illustrated by the behavior of\none year olds in a strange situation. Child Development, 41(1), 49–67.\nAinsworth, M.D.S. (1989). Attachments beyond infancy. American Psychology, 44, 709–716.\nAisenberg, E., & Mennen, F. (2000). Children exposed to community violence: Issues for\nassessment and treatment. Child and Adolescent Social Work Journal. 17(5), 341–360.\nAmerican Psychiatric Association (2000). Diagnostic and Statistical Manual of Mental\nDisorders (4th ed.). Washington, DC: Author.\nAnderson, G.R., & Seita, J. (2006). Family and social factors affecting youth in the child welfare\nsystem. In N. Webb (Ed.), Working with traumatized youth in child welfare (pp. 67–90).\nNew York: Guilford Press.\nAntonucci, T.C., Akiyama, H., & Takahashi, K. (2004). Attachment and close relationships\nacross the life span. Attachment and Human Development, 6, 353–370.\nBarry, R.A., Kochanska, G., & Philibert, R.A. (2008). G x E interaction in the organization of\nattachment: mothers’ responsiveness as a moderator of children’s genotypes. Journal of\nChild Psychology & Psychiatry, 49(12), 1313–1320.\nBass, M.M., Duchowny, C.A., & Llabre, M. (2009). The effect of therapeutic horseback riding\non social functioning in children with autism. Journal of Autism and Developmental\nDisorders, 39(9), 1261–1267.\nBaylis, P.J. (2006). The neurobiology of affective interventions: A cross theoretical model.\nClinical Social Work Journal, 34(1), 61–81.\nBenarroch, E.E. (2012). Central autonomic network. In D. Roberson, I. Biaggioni, G. Burnstock,\nP. Low, & J. Patton (Eds.), Primer on the autonomic nervous system (3rd ed., pp. 9–12).\nLondon: Academic Press.\nBevans, K., Cerbone, A., & Overstreet, S. (2008). Relations between recurrent trauma exposure\nand\nrecent\nlife\nstress\nand\nsalivary\ncortisol\namong\nchildren.\nDevelopment\nand\nPsychopathology, 20, 257–272.\nBizub, A.L., Joy, A., & Davidson, L. (2003). “It’s like being in another world”: Demonstrating\nthe beneﬁts of therapeutic horseback riding for individuals with psychiatric disability.\nPsychiatric Rehabilitation Journal, 26(4), 377–384.\nBoat, B. (2006). Clinical approaches to assessing and utilizing animal related-experiences in\ntherapeutic interventions with children, adolescents and their caregivers. In A.H. Fine\n(Ed.), Handbook on animal assisted therapy: Theoretical foundations and guidelines for\npractice (pp. 246–252). New York: Elsevier.\nBowlby, J. (1958). The nature of the child’s tie to his mother. International Journal of Psycho-\nAnalysis, 39, 350–373.\nBowlby, J. (1988). A secure base: Parent–child attachment and healthy human development.\nNew York: Basic Books."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "888\nJ. Yorke et al."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      66.60763549804688,
+      63.11083984375,
+      426.6463317871094,
+      642.6012573242188
+    ],
+    "text": "Bredy, T.W., Humpartzoomian, R.A., Cain, D.P., & Meaney, M.J. (2003). Partial reversal of\nthe effect of maternal care on cognitive function through environmental enrichment.\nNeuroscience, 118, 571–576.\nBreslau, N., Wilcox, H.C., Storr, C.L., Lucia, V.C., & Anthony, J.C. (2004). Trauma exposure\nand post traumatic stress disorder: a study of youth in urban america. Journal of Urban\nHealth: Bulletin of the New York Academy of Medicine, 81(4), 530–544.\nBrofenbrenner, U., & Evans, G.W. (2000). Developmental science in the 21st century:\nEmerging questions, theoretical models, research designs and empirical ﬁndings. Social\nDevelopment, 9(1), 115–125.\nBrooks, S.M. (2006). Animal-assisted psychotherapy and equine-assisted psychotherapy. In\nN. Boyd-Webb (Ed.), Working with traumatized youth in child welfare (pp. 196–218).\nNew York: Guilford Press.\nCaldji, C., Diorio, J., & Meaney, M.J. (2000). Variations in maternal care in infancy regulate the\ndevelopment of stress reactivity. Biological Psychiatry, 48, 1164–1174.\nCalkins, S.D., Smith, C.L., Gill, K.L., & Johnson, M.C. (1998). Maternal Interactive Style\nAcross Contexts: Relations to Emotional. Behavioral and Physiological Regulation during\nToddlerhood. Social Development, 7(3), 359–369.\nCarter,\nC.S.\n(1998).\nNeuroendocrine\nperspectives\non\nsocial\nattachment\nand\nlove.\nPsychneuroendocrinology, 23(8), 779–818.\nCarter, C.S. (2003). Biological perspectives on social attachment and bonding. In C.S. Carter,\nL. Ahnert, K.E. Grossman, S.B. Hrdy, M.E. Lamb, S.W. Porges, & N. Sachser (Eds.),\nAttachment and bonding: A new synthesis (pp. 85–100). Cambridge, MA: MIT Press.\nCarter, C.S., Lederhendler, I.I., & Kirkpatrick, B. (1999). The integrative neurobiology of\nafﬁliation. Cambridge, MA: MIT Press.\nCawley, R., Cawley, D., & Retter, K. (1994). Therapeutic horseback riding and self-concept in\nadolescents with special educational needs. Anthrozoo¨s, VII(2), 129–134.\nChatﬁeld, C. (2004). The analysis of time series (6th ed.). New York: Chapman & Hall.\nChristian, J. (2005). All creatures great and small: Utilizing equine-assisted therapy to treat\neating disorders. Journal of Psychology and Christianity, 24(1), 65–67.\nCicchetti,D.,&Lynch,M.(1993).Towardanecological/transactionalmodelofcommunityviolence\nand child maltreatment: Consequences for children’s development. Psychiatry, 56, 96–118.\nCicchetti, D., & Rogosch, F.A. (2001). The impact of child maltreatment and psychopathology\non neuroendocrine functioning. Development and Psychopathology, 13, 783–804.\nCombs-Orme, T. (In press). Epigenesis and the social work imperative. Social Work.\nCrawford, E.K., Worsham, N.L., & Swinehart, E.R. (2006). Beneﬁts derived from companion\nanimals and the use of the term “attachment”. Anthrozoo¨s, 19(2), 98–112.\nCurtis, W.J., & Cicchetti, D. (2003). Moving research on resilience into the 21st century:\nTheoretical and methodological considerations in examining the biological contributors to\nresilience. Development and Psychopathology, 15, 773–810.\nDavis, E., Davies, B., Wolfe, R., Raadsvald, R., Heine, B., Thomason, P., Dobson, F., . . .\nGraham, H.K. (2009). A randomized controlled trial of the impact of therapeutic horse\nriding on the quality of life, health and function of children with cerebral palsy.\nDevelopmental Medicine and Child Neurology, 51, 111–119.\nDozier, M., Manni, M., Gordon, M.K., Peloso, E., Gunnar, M.R., Chase Stovall-McClough, K.,\nEldreth, D., . . . Levine, S. (2006). Foster children’s diurnal production of cortisol: An\nexploratory study. Child Maltreatment, 11(2), 189–197.\nEisenberg, N., Smith, C.L., Sadovsky, A., & Spinrad, T.L. (2004). Effortful control: Relations\nwith emotion regulation, adjustment, and socialization in childhood. In F. Baumeister Roy &\nD. Vohs Kathleen (Eds.), Handbook of self-regulation: Research, theory, and applications\n(pp. 259–282). New York, NY: Guilford Press.\nElbert, T., Heim, S., & Rockstroh, B. (2001). Neural plasticity and development. In C.A. Nelson\n& M. Luciana (Eds.), Handbook of developmental cognitive neuroscience (pp. 191–202).\nCambridge, MA: Bradford/MIT.\nEngel, B. (Ed.). (1997). Rehabilitation with the Aid of a Horse: A Collection of Studies.\nDurango: CO.\nEwing, M., MacDonald, P., Taylor, M., & Bowers, M. (2007). Equine-facilitated learning for\nyouths with severe emotional disorders: A quantitative and qualitative study. Child Youth\nCare Forum, 36, 59–72."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n889"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.61039733886719,
+      63.11083984375,
+      426.6412048339844,
+      632.6235961914062
+    ],
+    "text": "Feldman, R., Weller, A., Zagoory-Sharon, O., & Levine, A. (2007). Evidence for a neuroendo-\ncrinological foundation of human afﬁliation: Plasma oxytocin levels across pregnancy\nand the post-partum period predict mother-infant bonding. Psychological Science, 18(11),\n965–970.\nField, A.P. (2001). Meta-analysis of correlation coefﬁcients: A Monte Carlo comparison of ﬁxed\nand random effects methods. Psychological Methods, 6(2), 161–180.\nFisher, P.A., Gunnar, M.R., Dozier, M., Bruce, J., & Pears, K.C. (2006). Effects of therapeutic\ninterventions for foster children on behavioral problems, caregiver attachment, and stress\nregulatory neural systems. Resilience in Children, 1094, 215–225.\nFleming, A.S., O’Day, D.H., & Kraemer, G.W. (1999). Neurobiology of mother–infant\ninteractions: Experience and central nervous system plasticity across development and\ngenerations. Neuroscience and Biobehavioral Review, 23, 673–685.\nFoa, E.B., Johnson, K.M., Feeny, M.C., & Treadwell, K. (2001). The child PTSD symptom\nscale: A preliminary examination of its psychometric properties. Journal of Child\nClinical Psychology, 30(3), 376–384.\nFrancis, D.D., & Meaney, M.J. (1999). Maternal care and the development of stress responses.\nCurrent Opinion in Neurobiology, 9, 128–134.\nFrewin, K., & Gardiner, B. (2005). New age or old sage? A review of equine assisted psy-\nchotherapy. The Australian Journal of Counselling Psychology, 6, 13–17.\nFriedmann, E., Katcher, A.H., Lynch, J.J., & Thomas, S.A. (1980). Animal companions and\none-year survival of patients after discharge from a coronary care unit. Public Health\nReports, 95(4), 307–312.\nFriedmann, E., Katcher, A.H., Thomas, S.A., Lynch, J.J., & Messent, P.R. (1983). Social inter-\naction and blood pressure: The inﬂuence of animal companions. Journal of Nervous and\nMental Disease, 171, 461–465.\nGabriels, R.L., Agnew, J.A., Holt, K.D., Shoffner, A., Zhaoxing, P., Ruzzano, S., & Mesibov,\nG. (2012). Pilot study measuring the effects of therapeutic horseback riding on school-age\nchildren and adolescents with autism spectrum disorders. Research in Autism Spectrum\nDisorders, 6, 578–588.\nGambrill, E. (2001). Social work: An authority-based profession. Research on Social Work\nPractice, 11(2), 166–175.\nGambrill, E. (2003). A client-focused deﬁnition of social work practice. Research in Social\nWork Practice, 13(3), 310–323.\nGilgun, J. (2005). The four corner stones of evidence-based practice in social work. Research\non Social Work Practice, 15(1), 52–61.\nGlaser, D. (2000). Child abuse and neglect and the brain – A review. Journal of Child\nPsychology and Psychiatry, 41(1), 97–116.\nGraham-Berman, S.A., DeVoe, E.R., Mattis, J.S., Lynch, S., & Thomas, S.A. (2006). Ecological\npredictors of traumatic stress symptoms in caucasian and ethnic minority children exposed\nto intimate partner violence. Violence Against Women, 12(7), 663–692.\nGunnar, M.R. (2003). Attachment and stress in early development: Does attachment add to the\npotency of social regulators of infant stress? In C.S. Carter, L. Ahnert, K.E. Grossman, S.B.\nHrdy, M.E. Lamb, S.W. Porges, & N. Sachser (Eds.), Attachment and bonding: A new syn-\nthesis (pp. 245–256). Cambridge, MA: MIT Press.\nGunnar, M.R., Morison, S.J., Chisholm, K., & Schuder, M. (2001). Salivary cortisol levels in\nchildren adopted from Romanian orphanages. Development and Psychopathology, 13,\n611–628.\nHart, L. (2000). Psychosocial beneﬁts of animal companionship. In Handbook on Animal\nAssisted Therapy: Theoretical Formulations and Guidelines for Practice (pp. 59–78).\nNew York, NY: Academic Press.\nHaylock, P.J., & Cantril, C.A. (2006). Healing with horses: Fostering recovery from cancer with\nhorses as therapists. Explore, 2(3), 264–268.\nHenry, J., Sloan, M., & Black-Pond, C. (2007). Neurobiology and neurodevelopmental impact\nof childhood traumatic stress and prenatal alcohol exposure. Language, Speech & Hearing\nServices in Schools, 38, 99–108.\nHunter, J.E., & Schmidt, F.L. (1990). Methods of meta-analysis: Correcting error and bias in\nresearch ﬁndings. Newbury Park, CA: Sage."
+  },
+  {
+    "page": 18,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "890\nJ. Yorke et al."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      66.61331176757812,
+      63.11083984375,
+      426.6298828125,
+      652.63623046875
+    ],
+    "text": "Jernberg, A.M., & Booth, P.B. (1999). Theraplay: Helping Parents and Children Build Better\nRelationships Through Attachment-Based Play. San Francisco, CA: Jossey-Bass.\nJohnson, M.H. (2000). Functional brain development in infants: Elements of an interactive\nspecialization framework. Child Development, 71, 75–81.\nJorgenson, J. (1997). Therapeutic use of companion animals in health care. Journal of Nursing\nScholarship, 29(12), 248–254.\nKarol, J. (2007). Applying a traditional individual psychotherapy model to equine-facilitated\npsychotherapy (EFP): Theory and method. Clinical Child Psychology and Psychiatry,\n12(1), 77–90.\nKatcher, A.H. (1981). Interactions between people and their pets: Form and function. In B.\nFoyle (Ed.), Interrelationships between people and pets (pp. 41–67). Springﬁeld IL:\nCharles C. Thomas.\nKatcher, A.H., Friedmann, E., Beck, A.M., & Lynch, J.J. (1983). Talking, looking and blood\npressure: physiological consequences of the living environment. In A.H. Katcher & A.M.\nBeck (Eds.), New perspectives on our lives with animals (pp. 351–359). Philadelphia,\nPA: University of Pennsylvania Press.\nKatcher, A.H., & Wilkins, G. (1997). Dialogue with animals: Its nature and culture. In S.R.\nKellert & E.O. Wilson (Eds.), The Biophilia Hypothesis (pp. 173–197). Washington, DC:\nIsland Press.\nKaiser, L., Spence, L.J., Lavergne, A.G., & Vanden Bosch, K.L. (2006). Can a week of thera-\npeutic riding make a difference? – A pilot study. Anthrozoo¨s, 17(1), 62–72.\nKnafo, A., & Plomin, R. (2006). Prosocial behavior in early to middle childhood: Genetic and\nenvironmental inﬂuences on stability and change. Developmental Psychology, 42(5),\n771–786.\nKramer, P.D. (1993). Listening to prozac. New York: Viking.\nLagoni, L., Butler, C., & Hetts, S. (1994). The Human-Animal Bond and Grief. Philadelphia,\nPA: W. B. Saunders & Co.\nLarson, M.C., White, B.P., Cochran, A., Donzella, B., & Gunnar, M.R. (1998). Dampening of\nthe cortisol response to handling at 3 months in human infants and its relationship to sleep,\ncircadian cortisol activity and behavioral distress. Developmental Psychbiology, 33,\n327–337.\nLeaper, C. (2000). Gender, afﬁliation, Assertion and the Interactive Context of Parent-Child\nPlay. Developmental Psychology, 36(3), 381–393.\nLeckman, J.F., Carter, C.S., Hennessy, M.B., Hrdy, S.B., Keverne, E.B., Klann-Delius, C., . . .\nvon Holst, D. (2005). Group Report: Biobehaviioral Processes in Attachment and Bonding.\nIn C.S. Carter, L. Ahnert, K.E. Grossman, S.B. Hrdy, M.E. Lamb, S.W. Porges, & N.\nSachser (Eds.), Attachment and Bonding: A New Synthesis (pp. 85–100). Cambridge,\nMass: MIT Press.\nLeDoux, J. (1996). The emotional brain: The mysterious underpinnings of emotional life.\nNew York: Simon & Schuster.\nLewis, M.D. (1995). Cognitive-emotional feedback and the self-organization of developmental\npaths. Human Development, 38, 71–102.\nLewis, M.D. (2005a). Bridging emotion theory and neurobiology through dynamic systems\nmodeling (target article). Behavioral and Brain Sciences, 28, 169–194.\nLewis,\nM.D.\n(2005b).\nSelf-organizing\nindividual\ndifferences\nin\nbrain\ndevelopment.\nDevelopmental Review, 25, 252–277.\nLewis, M.D., & Stieben, J. (2004). Emotional regulation in the brain: Conceptual issues and\ndirection for developmental research. Child Development, 75(2), 371–376.\nLewis, M.D., & Todd, R. (2007). The self-regulating brain: Cortical-subcortical feedback and\nthe development of intelligent action. Cognitive Development, 22, 406–430.\nLiu, D., Diorio, J., Tannenbaum, B., Caldji, C., Francis, D., Freedman, A., . . . Meaney, M.J.\n(1997). Maternal care, hippocampal glucocorticoid receptors, and hypothalamic-pituitary-\nadrenal responses to stress. Science, 277, 1659–1662.\nLupien, S.J., King, S., Meaney, M.J., & McEwen, B.S. (2000). Children’s hormone levels\ncorrelate with mother’s socio-economic status and depressive state. Society of Biological\nPsychiatry, 48, 976–980.\nLupien, S.J., King, S., Meaney, M.J., & McEwen, B.S. (2001). Can poverty get under your skin?\nBasal cortisol levels and cognitive function in children from high and low socioeconomic\nstatus. Development and Psychopathology, 13, 653–676."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n891"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.61138916015625,
+      63.11083984375,
+      426.71466064453125,
+      642.6015014648438
+    ],
+    "text": "Lupien, McEwen, Gunnar, & Heim. (2009). Effects of stress throughout the lifespan on the\nbrain, behavior and cognition. Nature Reviews/Neuroscience, 10, 434–446.\nLuu, P., & Posner, M. (2003). Anterior cingulated cortex regulation of sympathetic activity.\nBrain, 126, 2119–2120.\nMarino, L., & Lilienfeld, S. (2007). Dolphin-assisted therapy: More ﬂawed data and more\nﬂawed conclusions. Anthrozoo¨s, 20(3), 239–249.\nMcCardle, P., McCune, S., Grifﬁn, J.A., & Maholmes, V. (2011). How Animals Affect\nUs:examining the inﬂuence of Human-Animal Interaction on Child Development and\nHuman Health. Washington DC: American Psychological Association.\nMcEwen, B.S. (2000). The neurobiology of stress: From serendipity to clinical relevance. Brain\nResearch, 886, 172–189.\nMcGreevy, P.D., & Nicol, C.J. (August 1995). Behavioural and physiological consequences\nassociated with prevention of crib-biting. Paper presented at the Proceedings of the 29th\nInternational Congress of the International Society for Applied Ethology, Universities\nFederation for Animal Welfare, Exeter, UK.\nMeaney, M.J. (2001). Maternal care, gene expression, and the transmission of individual differ-\nences in stress reactivity across generations. Annual Review of Neuroscience, 24,\n1161–1192.\nNelson, C.A. (2000). Neural plasticity and human development: The role of early experience in\nsculpting memory systems. Developmental Science, 3, 115–136.\nNimer, J., & Lundahl, B.W. (2007). Animal assisted therapy: A meta-analysis of effects across\nthe life span. Anthrozoo¨s, 20, 225–238.\nNoriuchi, M., Kikuchi, Y., & Sino, A. (2008). The functional neuroanatomy of maternal love:\nMother’s response to infant attachment behaviors. Biological Psychiatry, 63, 415–423.\nNugent, W. (2010). Analyzing single system design data. New York: Oxford University Press.\nOdendaal, J.S.J. (1999). A physiological basis for animal-facilitated psychotherapy. (PhD thesis,\nUniversity of Pretoria, 1994). Dissertation Abstracts International, 56, 11b, 00001.\nOdendaal, J.S.J. (2000). Animal-assisted therapy\n–\nmagic or medicine? Journal of\nPsychosomatic Research, 49, 275–280.\nOdendaal, J.S.J., & Meintjes, R.A. (2003). Neurophysiological correlates of afﬁliative\nbehaviour between humans and dogs. The Veterinary Journal, 165, 296–301.\nPanksepp, J. (1998). Affective neuroscience: The foundations of human and animal emotions.\nNew York: Oxford University Press.\nPanksepp, J. (2003). At the interface of affective, behavioral, and cognitive neurosciences:\nDecoding the emotional feelings of the brain. Braun and Cognition, 52, 4–14.\nPell, S.M., & McGreevy, P.D. (1999). A study of cortisol and beta-endorphin levels in stereo-\ntypic and normal thoroughbreds. Applied Animal Behaviour Science, 64, 81–90.\nPerry, B. (2002). Childhood experience and the expression of genetic potential: What childhood\nneglect tells us about nature and nurture. Brain and Mind, 3, 79–100.\nPerry, B. (2006). Applying principles of neurodevelopment to clinical work with maltreated and\ntraumatized children. In N.B. Webb (Ed.), Working with traumatized youth in child welfare.\nNew York: The Guilford Press.\nPhillips, H. (2003). The pleasure seekers. New Scientist [serial online], October 11, 180(2416),\n36–40. Available from: Academic Search Premier, Ipswich, MA. Retrieved May 21, 2008.\nfrom http://web.ebscohost.com.librweb.laurentian.ca/ehost/results?sid¼f9c4cd8f-d9fc-4ddb-\n9113-03538d75d2e4%40sessionmgr12&vid¼2&hid¼14&bquery¼JN+%22New+Scientist%\n22+AND+DT+20031011&bdata¼JmRiPWE5aCZ0eXBlPTEmc2l0ZT1laG9zdC1saXZl\nPorges, S.W. (2003). The role of social engagement in attachment and bonding: A phylogenetic\nperspective. In C.S. Carter, L. Ahnert, K.E. Grossman, S.B. Hrdy, M.E. Lamb, S.W. Porges,\n& N. Sachser (Eds.), Attachment and bonding: A new synthesis (pp. 85–100). Cambridge,\nMass: MIT Press.\nPragg, H., Kempermann, G., & Gage, F. (2000). Neural consequences of environmental\nenrichment. Neuroscience, 1, 191–198.\nPrato-Previde, E., Custance, D.M., Speigo, C., & Sabatini, F. (2003). Is the dog-human relation-\nship an attachment bond: An observational study using ainsworth’s strange situation.\nBehaviour, 140, 225–254.\nPrice, D.A., Close, G.C., & Fielding, B.A. (1983). Age of appearance of circadian rhythm in\nsalivary cortisol values in infancy. Archives of Disease in Childhood, 58, 454–456."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "892\nJ. Yorke et al."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      66.61228942871094,
+      63.11083984375,
+      426.64141845703125,
+      652.63623046875
+    ],
+    "text": "Putnam, F.W. (2005). The developmental neurobiology of disrupted attachment: Lessons from\nanimal models and child abuse research. In L.J. Berlin, Y. Ziv, L. Amaya-Jackson, & M.T.\nGreenberg (Eds.), Enhancing early attachments: Theory, research, intervention and policy.\nNew York: The Guilford Press.\nRamsay, D., & Lewis, M. (2003). Reactivity and regulation in cortisol and behavioral responses\nto stress. Child Development, 74(2), 456–464.\nSaleebey, D. (1992). Biology’s challenge to social work: Embodying the person-in-environment\nperspective. Social Work, 37(2), 112–118.\nSaleebey, D. (1997). The strengths approach to practice. In D. Saleebey (Ed.), The strengths\nperspective in social work practice (2nd ed., pp. 49–58). New York: Longman.\nSchore, A. (2003). Affect dysregulation and disorders of the self. New York: W.W. Norton.\nShiloh, S., Sorek, G., & Terkel, J. (2003). Reduction of state anxiety by petting animals in a\ncontrolled laboratory environment. Anxiety, Stress and Coping, 16(4), 387–395.\nSchuengel, C., Oosterman, M., & Sterkenburg, P.S. (2009). Children with disrupted attachment\nhistories: Interventions and psychophysiological indices of effects. Child and Adolescent\nPsychiatry and Mental Health, 3, 26.\nSeigel, D.J. (2001). Towards an interpersonal neurobiology of the developing mind: Attachment\nand relationships, ‘mindsight’, and neural integration. Infant Mental Health Journal,\n22(1–2), 67–94.\nShultz, P., Remick-Barlow, A., & Robbins, L. (2007). Equine-assisted psychotherapy: A mental\nhealth promotion/intervention modality for children who have experienced intra-family\nviolence. Health and Social Care in the Community, 15(3), 265–271.\nSpielberger, C.D. (1973). Preliminary test manual for the state-trait anxiety inventory for\nchildren. Palo Alto, CA: Consulting Psychologists Press.\nSpielberger, C.D., Gorsuch, R.L., Lushene, R., Vagg, P.R., & Jacobs, G.A. (2008). State-trait\nanxiety inventory for children. Menlo Park, CA: Mind Garden.\nStrand, E. (2004). Interparental conﬂict and youth maladjustment: The buffering effect of pets.\nStress, Trauma & Crisis, 7, 151–168.\nStrauss, I. (1991). Hippotherapy: Neurophysiological therapy on the horse. Toronto, ON:\nTherapeutic Riding Association.\nTaggart, J. (2010). Dog owner interaction style: The transmission of working models in human/\nnon-human caregiving relationships, Unpublished Doctoral dissertation, University of\nSouthampton, Southampton.\nTamaroff, M.H., Nir, Y., & Straker, N. (1986). Children reared in a reverse isolation environ-\nment: Effects on cognitive and emotional development. Journal of Autism Development\nDisorder, 16(4), 15–424.\nTaylor, S. (2001). Equine facilitated psychotherapy: An emerging ﬁeld. Master’s thesis,\nSt. Michael’s College, Burlington, Vermont, USA.\nThompson, R.A., Lewis, M.D., & Calkins, S. (2008). Reassessing emotional regulation. Child\nDevelopment Perspectives, 2(3), 124–131.\nTodd, R., & Lewis, M.D. (2008). Self-regulation in the developing bra. In J. Reed & J.W.\nRogers (Eds.), Child neuropsychology: Concepts, theory and practice (pp. 285–315).\nLondon: Blackwell.\nTortora, S. (2006). The dancing dialogue: Using the communicative power of movement with\nyoung children. Baltimore, Maryland: Paul H. Brookes Publishers.\nTortora, S. (2010). Ways of seeing: An early childhood integrated therapeutic approach for\nparents and babies. Clinical Social Work Journal, 38(1), 37–50, (March 2010).\nTronick, E. (2007). The neurobehavioral and social-emotional development of infants and\nchildren. New York: W.W. Norton.\nTrotter, K.S. (2006). The effectiveness of equine-assisted group counseling with at-risk children\nand adolescents. Paper presented at the American Counseling Association international\nconference and Hawaii international conference on education.\nTyler, J. (1994). Equine psychotherapy: Worth more than just a horse laugh. Women and\nTherapy, 15, 139–146.\nUvnas-Moberg, K. (1997). Physiological and endocrine effects of social contact. Annals\nNew York Academy of Science, 807, 146–163.\nUvnas-Moberg, K. (2009). Physiological and endocrine effects of social contact with pets,\nWorkshop, The role of pets in the socio-emotional and bio-behavioural development of\nchildren. Waltham Centre for Pet Nutrition 3rd–5th August 2009."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      250.24249267578125,
+      39.37202453613281,
+      426.59130859375,
+      49.37212371826172
+    ],
+    "text": "Early Child Development and Care\n893"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.61323547363281,
+      63.11083984375,
+      426.6746520996094,
+      412.5986328125
+    ],
+    "text": "Van der Kolk, B. (2003). The neurophysiology of childhood trauma and abuse. Child and\nAdolescent Psychiatric Clinics, 12, 293–317.\nViau, R., Arsenault-LaPierre, G., Fecteau, S., Champagne, M., Walker, C., & Lupien, S. (2010).\nEffect of service dogs on salivary cortisol in autistic children. Psychoneuroendrocrinology,\n35, 1187–1193.\nVirues-Ortega, J., & Bruela-Casal, G. (2006). Psycho physiological effects of human–animal\ninteraction: Theoretical issues and long-term interaction effects. Journal of Nervous and\nMental Disease, 194(1), 52–57.\nWakeﬁeld, J. (1995). When an irresistible epistemology meets an immovable ontology. Social\nWork Research, 19(1), 9–17.\nWhite, B.P., Gunnar, M.R., Larson, M.C., Donzella, B., & Barr, R.G. (2000). Behavioral and\nphysiological responsivity, and patterns of sleep and daily salivary cortisol in infants with\nand without colic. Child Development, 71, 862–877.\nWilloughby, M., Vandergrift, N., Blair, C., & Granger, D. (2007). A structural equation\nmodeling approach for the analysis of cortisol data collected using pre-post-post designs.\nStructural Equation Modeling, 14(1), 125–145.\nWilson, C.C. (1991). The pet as an anxiolytic intervention. Journal of Nervous and Mental\nDisorders, 1(79), 482–489.\nWoltering, S., & Lewis, M. (2009). Developmental pathways of emotional regumation in child-\nhood: A neuropsychological perspective. Mind, Brain and Education, 3(3), 160–169.\nYehuda, R. (2006). Advances in understanding neuroendocrine alterations in PTSD and their\ntherapeutic implications. Annals of New York Academy of Science, 1071, 137–166.\nYorke, J. (2003). The therapeutic value of the equine–human relationship in recovery from\ntrauma: A qualitative analysis. Master’s thesis, Wilfrid Laurier University, Waterloo,\nOntario, Canada.\nYorke, J. (2010a). The signiﬁcance of human–animal relationships as modulators of trauma\neffects in children: A developmental neurobiological perspective. Early Child Development\nand Care, 1(12 ), 559–570.\nYorke, J. (2010b). Human–animal relationships as modulators of trauma effects in children: a\ndevelopmental neurobiological perspective, Doctoral dissertation, University of Tennessee,\nKnoxville, Tennessee.\nYorke, J., Adams, C., & Coady, N. (2008). Therapeutic value of equine–human bonding in\nrecovery from trauma. Anthrozoo¨s, 21(1), 17–30.\nZeki, S. (2007). The neurobiology of love. Federation of European Biochemical Societies\nLetters, 581, 2575–2579."
+  },
+  {
+    "page": 22,
+    "bbox": [
+      66.61419677734375,
+      39.37202453613281,
+      155.32809448242188,
+      49.37212371826172
+    ],
+    "text": "894\nJ. Yorke et al."
+  }
+]

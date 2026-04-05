@@ -1,0 +1,3002 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      558.3580932617188,
+      60.0,
+      566.3580932617188
+    ],
+    "text": "372"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      78.37207794189453,
+      240.62339782714844,
+      136.3716583251953
+    ],
+    "text": "Single-Participant\nAssessment of Treatment\nMediators"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      143.4649658203125,
+      282.6064147949219,
+      189.4661865234375
+    ],
+    "text": "Strategy Description and Examples\nFrom a Behavioral Activation\nIntervention for Depressed Adolescents"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      48.0,
+      195.89608764648438,
+      165.07003784179688,
+      231.55789184570312
+    ],
+    "text": "Scott T. Gaynor\nAmanda Harris\nWestern Michigan University"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      60.0,
+      258.42230224609375,
+      336.05340576171875,
+      443.41900634765625
+    ],
+    "text": "Determining the means by which effective psychotherapy works is critical.\nA generally recommended strategy for identifying the potential causal variables\nis to conduct group-level statistical tests of treatment mediators. Herein the\ncase is made for also assessing mediators of treatment outcome at the level\nof the individual participant. Single-participant assessment of mediators\nrequires documenting, for each participant, that treatment was received, that\nchange occurred on the mediator and relevant clinical outcome measures, and\nthat the change on the mediator happened at an expected time in the treat-\nment protocol and prior to substantive change on the dependent variable.\nData from four depressed adolescents who demonstrated remission following\na behavioral activation intervention illustrate the use of the approach in\nassessing whether changes in activation level or negative thinking mediated\nthe changes in depression. For two participants, increased activation appeared\nto be a mediator, whereas decreased dysfunctional thinking never emerged as\na plausible mediator. It is concluded that single-participant assessment of\nmediators of treatment outcome offers a useful additional tool for determining\npossible mechanisms of action in effective psychotherapy."
+  },
+  {
+    "page": 1,
+    "bbox": [
+      60.0,
+      456.3274230957031,
+      311.4132385253906,
+      465.3274230957031
+    ],
+    "text": "Keywords:\nmediators; behavioral activation; adolescent depression"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      47.999908447265625,
+      484.2751770019531,
+      347.9989013671875,
+      543.6592407226562
+    ],
+    "text": "A\nrecommended strategy for determining potential mechanisms of action\nin psychotherapy involves using statistical tests to identify mediators\nof treatment outcome (Holmbeck, 1997; Kazdin, 1999; Kraemer, Wilson,\nFairburn, & Agras, 2002; Weersing & Weisz, 2002).1 The logic and basic\nanalytic strategy was described in a seminal paper by Baron and Kenny"
+  },
+  {
+    "page": 1,
+    "bbox": [
+      279.2945251464844,
+      48.8671760559082,
+      359.9924621582031,
+      118.93728637695312
+    ],
+    "text": "Behavior Modification\nVolume 32 Number 3\nMay 2008  372-402\n© 2008 Sage Publications\n10.1177/0145445507309028\nhttp://bmo.sagepub.com\nhosted at\nhttp://online.sagepub.com"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      47.999996185302734,
+      71.1976089477539,
+      348.1059875488281,
+      549.1976318359375
+    ],
+    "text": "(1986) and involves a set of conditions that need to be met for a variable\nto be considered a mediator. First, significant relationships must exist\nbetween the initial variable and the dependent variable, the initial variable\nand the hypothesized mediator, and the mediator and the dependent vari-\nable. Next, the mediator and initial variable are considered simultaneously\n(e.g., in a multiple regression model). Maintenance of the mediator-dependent\nvariable relationship and elimination (ideally) or reduction of the initial\nvariable-dependent variable relationship suggests the mediator accounts (at\nleast in part) for the relationship between the initial variable and the\ndependent variable. To illustrate, consider recent data consistent with the\nhypothesis that decreased negative thinking may be the mechanism pro-\nducing change in cognitive-behavior therapy (CBT) for youth depression\n(Kaufman, Rohde, Seeley, Clarke, & Stice, 2005). Ninety-three depressed,\nconduct disordered teens were randomized to CBT or a control condition.\nBoth treatment group and change on the Automatic Thoughts Questionnaire\n(ATQ) significantly predicted change on the Beck Depression Inventory–II\n(BDI-II) and were significantly related to each other. However, when treat-\nment group and ATQ change were considered simultaneously, the relation-\nship between treatment group and BDI-II change was no longer significant,\nwhereas the relationship between ATQ change and BDI-II change was\nmaintained.\nAlthough some additional/alternative methodological and statistical pro-\ncedures have been suggested, this general approach has been widely\nendorsed for use in evaluating randomized clinical trial data (Kazdin, 1999;\nKraemer et al., 2002; MacKinnon, Lockwood, Hoffman, West, & Sheets,\n2002). However, like any analytic strategy, the determination of statistical\nmediators has strengths and limitations. One limitation is that the approach\nrequires fairly large sample sizes. For example, Baron and Kenny (1986)\nrecommend, as illustrated by Kaufman et al. (2005), calculating a series of\nregression models to test for significant bivariate relations followed by a\nmultiple regression with the mediator and initial variable entered together.\nA standard rule of thumb for estimating number of cases in a multiple\nregression testing two predictors recommends 106 or more participants\n(Tabachnick & Fidell, 2001). If small relationships are expected or multi-\nple mediators are to be tested, requiring that alpha-levels be adjusted, even\nlarger sample sizes would be needed. \nA related limitation is that the mediator is evaluated at the group level,\nwhich assumes a substantial amount of homogeneity of response to treat-\nment across the sample. However, therapy likely operates through multiple\nmechanisms, such that any proposed mediator may apply to some but not"
+  },
+  {
+    "page": 2,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n373"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      47.999996185302734,
+      71.1976089477539,
+      348.0777282714844,
+      549.1976318359375
+    ],
+    "text": "all clients. For instance, imagine that data from the treatment cell of a\nclinical trial consisted of a combination of subgroups: nonresponders,\nresponders whose change is captured nicely by the mediated pathway, and\nresponders for whom change does not correspond to the proposed mediated\npathway. In such a scenario, having only a modest sample size would result\nin too little statistical power to identify a mediator, missing the subgroup\nwhose data are captured by the mediated pathway and leading to the faulty\nconclusion that the treatment does not work via the proposed mechanism of\naction. This is an important consideration when the generally accepted idea\nthat psychotherapy operates through multiple mechanisms is taken seri-\nously. For instance, response to CBT for depression appears to involve both\nnonspecific and treatment-specific factors (Ilardi & Craighead, 1994). If the\neffects of psychotherapy are multiply determined, both within and across\nparticipants, analytic strategies are needed that are sensitive to and can\nreveal these processes.\nEven when there is enough statistical power to identify a group-level\nmediator, a portion of the sample is still likely mischaracterized (i.e., any\nsubgroup whose data may not be captured by the mediated pathway) or\nincompletely characterized. For instance, the relationships identified by\nKaufman and colleagues (2005) were generally small-to-moderate in size,\ncapturing a statistically significant amount of variance but leaving a majority\nof the variance unaccounted for. An important process was identified, but this\nprocess was not the only one relevant for understanding clinical improvement.\nBased on the above considerations, it would appear useful if there were\na strategy for assessing mediators that did not rely on a large sample size\nand was not tied to group-level statistical analyses. Such an approach would\nnot replace statistical determination of group-level mediators but would\nprovide an additional strategy for determining possible mechanisms of\naction in psychotherapy. In this article it is suggested that rigorously con-\nducted, carefully planned and analyzed, single-participant designs can pro-\nvide such an approach.\nThe term single-participant refers not to the overall number of partici-\npants but rather to the level of analysis, that is, that the results are evaluated\nat the level of the individual rather than the group. A single-participant\ndesign typically involves the participant being exposed to all, or multiple,\nlevels of the independent variable, such that he/she serves as his/her own\ncontrol, and the taking of repeated measures throughout the course of\nbaseline and intervention phases to determine treatment effects (see\nGaynor, Baird, & Nelson-Gray, 1999; Hayes, Barlow, & Nelson-Gray, 1999).\nAlthough single-participant designs have a long history in clinical research,"
+  },
+  {
+    "page": 3,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "374\nBehavior Modification"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n375"
+  },
+  {
+    "page": 4,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0108947753906,
+      537.1976318359375
+    ],
+    "text": "there is currently no detailed rationale or explicitly articulated strategy for\nusing single-participant designs to study potential mechanisms of action in\npsychotherapy. Building on basic single-participant methodology and\nincorporating components standard to clinical outcome research generally,\na logic and initial strategy for assessing mediators of treatment outcome at\nthe single-participant level is presented. In brief, single-participant assess-\nment of treatment mediators requires documenting that the participant: (a)\nreceived treatment; (b) improved during treatment; (c) showed change on\nthe proposed mechanism of action, which occurred at a reasonably\nexpected time given the treatment protocol; and (d) preceded a substantial\nportion of the clinical improvement. These steps are elaborated below.\nThe single-participant analysis of mediators begins with an assessment\nof the relationship between receiving treatment and outcome. A mechanism\nof action accounting for why therapy worked could not be reasonably iden-\ntified in a client who did not get treatment. This obvious necessity requires\ndocumenting that the participant not only attended treatment sessions, but\nwas also an active recipient of the treatment offered. Moreover, it must be\ndetermined that the treatment was provided to the participant as specified\nand with adequate skill. If either client compliance or therapist integrity is\nabsent, treatment was not genuinely implemented, calling into question the\nappropriateness of trying to evaluate mechanisms of action to account for\nwhy the (unimplemented) treatment works.\nPrior to trying to assess why treatment worked, it must also be convinc-\ningly demonstrated that positive change occurred during the time frame in\nwhich treatment was received. First, multi-method, multi-informant data\nfrom psychometrically sound instruments should document change from\npretreatment to posttreatment. Next, the time course of change should be\nexamined to determine when improvement occurred. For instance, in CBT\nfor depression, a great deal of change occurs very early in treatment\n(Ilardi & Craighead, 1994), sometimes beginning before treatment starts\n(Gaynor et al., 2003). Such change could be misattributed if, for example,\ndepression was measured only at intake and posttreatment and the media-\ntor measured at the mid-point (Kazdin & Nock, 2003; Kraemer et al.,\n2002). Because of their use of repeated measurement at baseline and regu-\nlar intervals throughout treatment, single-participant designs are especially\nsuited to documenting the time course of change.\nHaving established that the client received the treatment and showed a\npositive outcome, the next step entails demonstrating that there was a\nchange in the putative mechanism of action (i.e., the mediator). If there"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.03973388671875,
+      549.1976318359375
+    ],
+    "text": "were no change in the proposed mechanism of action, this could not rea-\nsonably be the active agent of change. For example, if during CBT for\ndepression, symptoms improved, but there was no change in negative\nthinking, change in cognition could not be the mechanism of action for that\nindividual. Moreover, the change in the mediator should occur at a gener-\nally expected point in the course of treatment—during or after events in\ntherapy that target the proposed mediator for change.\nThe final step involves documenting that the change on the proposed\nmediator preceded a substantial amount of clinical improvement (Kazdin &\nNock, 2003; Kraemer et al., 2002). If a variable is a mechanism of action\naccounting, at least in part, for why a therapy works, then change on this\nvariable should precipitate symptom change. Demonstrating this temporal\nrelationship is “absolutely vital in order to infer the operation of a mecha-\nnism of change” (Kazdin & Nock, 2003, p. 1121). Furthermore, if there is\na change in the proposed mediator but no change on the outcome variable,\nthe theorized mechanism is called into question. In addition, if the clinical\nimprovement precedes the change on the proposed mediator, the latter\nchange could not account for the clinical improvement. Relatedly, if change\nin the mediator merely coincides with clinical improvement, it may be\nepiphenomenal and not a mechanism. One identified limitation of the\nKaufman et al. (2005) data was that the ATQ and BDI-II were taken simul-\ntaneously and only at intake and posttreatment, such that temporal prece-\ndence could not be determined. The importance of the time course of\nchange on the mediator and dependent variable in drawing conclusions\nemphasizes the need to take repeated measures throughout the course of\ntreatment to document the sequence in which symptom change occurs and\nto link this change to events occurring in treatment.\nThe present investigation illustrates single-participant assessment of\nmediators of treatment outcome with four depressed adolescents treated\nwith a behavioral activation (BA) intervention. BA treatments for depres-\nsion have received a great deal of attention following studies demonstrating\ntheir efficacy (see Dimidjian et al., 2006; Jacobson et al., 1996). The first\nlarge-scale study was Jacobson et al.’s (1996) dismantling trial showing BA\nto be as efficacious as a full CBT package. The data, however, failed to sup-\nport activation as the mechanism of action in BA. Activation increased and\ndysfunctional thinking decreased across groups, indicating that the hypoth-\nesized mechanisms had been engaged. However, contrary to expectations,\nin BA early change in dysfunctional thinking predicted later change in\ndepression, whereas in CBT early change in pleasant events predicted later\nchange in depression. These findings are far from definitive, however,"
+  },
+  {
+    "page": 5,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "376\nBehavior Modification"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n377"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0098876953125,
+      357.1976013183594
+    ],
+    "text": "because the assessment intervals were so broad (i.e., pre- to mid-treatment\nand mid- to posttreatment) as to be insensitive to temporal sequences of\nchange occurring across smaller time frames (e.g., from week-to-week) that\nlikely need to be explored to identify mediators (Kazdin & Nock, 2003;\nKraemer et al., 2002).\nSome have speculated that BA may represent a particularly efficient\nmeans of changing cognitions (Hollon, 2001). Whisman (1999) suggests\nthat “an adequate test of the cognitive theory of change would involve\nrepeated assessments of cognitive change and symptom change, to deter-\nmine if cognitive change precedes symptom change in therapy” (p. 302).\nThe BA parallel requires taking repeated measures to determine if a change\nin activation precedes symptom change. In the present study, these two\ncompeting mediators (activation and dysfunctional thinking) are evaluated\nat the level of the single-participant during BA treatment for depression.\nConducting comparisons of competing mediators has been recommended\nbut rarely occurs (Kazdin & Nock, 2003).\nMediators and moderators of treatment outcome are often discussed\ntogether. For this reason, the latter warrants some mention even though it is\nnot the primary focus of this article. Moderators are pretreatment character-\nistics that influence treatment outcome (Baron & Kenny, 1986; Holmbeck,\n1997; Kraemer et al., 2002). Thus, moderators identify subgroups for whom\na treatment may be more or less effective. In the present study, potential\nmoderators included pretreatment depression severity and duration, comor-\nbidity, gender, age, and family structure (e.g., single- vs. two-parent family)."
+  },
+  {
+    "page": 6,
+    "bbox": [
+      178.0063018798828,
+      375.54986572265625,
+      217.9962921142578,
+      387.54986572265625
+    ],
+    "text": "Method"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.0,
+      401.3230895996094,
+      105.31109619140625,
+      412.3230895996094
+    ],
+    "text": "Participants"
+  },
+  {
+    "page": 6,
+    "bbox": [
+      48.0,
+      420.1976013183594,
+      348.0038757324219,
+      550.1976318359375
+    ],
+    "text": "Ten adolescents, recruited from the community via advertisements and\nfliers distributed to schools and health care professionals, were screened as\npart of the investigation. Four were not eligible for participation because\ntheir depressive symptoms were too mild. Six participants met inclusion\ncriteria and were enrolled in the protocol. Two of these individuals dropped\nout following the first treatment session, the remaining 4 participants com-\npleted treatment. These 4 participants displayed at least moderate symp-\ntoms of depression, as assessed by the Diagnostic Interview for Children\nand the BDI-II. Exclusionary criteria included primary symptoms of obses-\nsive compulsive disorder, psychotic disorders, autism spectrum disorder, or\nreport of acute suicidality. No participants received additional psychotherapy"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0077819824219,
+      105.1976089477539
+    ],
+    "text": "or pharmacotherapy. The therapist was a female doctoral student in clinical\npsychology who had completed graduate coursework and workshops in\nCBT and had 2 years of clinical experience using CBT techniques."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      124.32308197021484,
+      146.9472198486328,
+      135.32308959960938
+    ],
+    "text": "Experimental Design"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      142.82861328125,
+      347.9998474121094,
+      213.19760131835938
+    ],
+    "text": "A single-case A/B/B+C design was used for each participant, where A\nwas baseline; B was psychoeducation, preparation, and generic behavioral\nactivation; and C was values-based behavioral activation. Repeated mea-\nsures were collected during baseline, prior to each treatment session, at\n1-week posttreatment and follow-up. Several lengthier measures were\nadministered only at pretreatment, posttreatment, and follow-up."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      171.5625,
+      231.5498504638672,
+      224.43695068359375,
+      243.5498504638672
+    ],
+    "text": "Procedure"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      257.3230895996094,
+      187.8309326171875,
+      268.3230895996094
+    ],
+    "text": "Baseline Assessment: Phase A"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      276.1976013183594,
+      348.0018615722656,
+      334.1976013183594
+    ],
+    "text": "Each participant attended at least three pretreatment meetings during\nwhich informed consent was obtained, a thorough assessment conducted,\nand baseline data collected. (Some participants completed repeated mea-\nsures between assessment sessions resulting in more than three baseline\ndata points.)"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      352.8636169433594,
+      193.73460388183594,
+      364.3230895996094
+    ],
+    "text": "Treatment: Phases B and B+C"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      372.1976013183594,
+      348.0067443847656,
+      490.1976013183594
+    ],
+    "text": "The treatment was values-based behavioral activation (VBBA). VBBA\nincorporated elements of behaviorally based treatments developed by\nHayes, Strosahl, and Wilson (1999); Martell, Addis, and Jacobson (2001);\nand Lejuez, Hopko, and Hopko (2001). The approach was adapted for use\nwith adolescents and codified into a delivery protocol (manual available\nfrom the authors). The therapy consisted of 12 one-hour meetings, with\ntwice weekly meetings for the first 4 weeks followed by weekly meetings.\nAs in other clinical trials for depressed youth, flexible use of one or two\nparent-child sessions were allowed, as needed, to facilitate implementation\nof the intervention."
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      498.0963134765625,
+      348.0,
+      544.1976318359375
+    ],
+    "text": "Pre-VBBA (psychoeducation, preparation, and generic BA): Phase B.\nVBBA did not begin until after session 6. Sessions 1 through 6 provided an\nimportant lead into VBBA, but the focus and assigned homework involved\nactivation that, for the most part, laid the groundwork for VBBA. For"
+  },
+  {
+    "page": 7,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "378\nBehavior Modification"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n379"
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0271911621094,
+      453.1976013183594
+    ],
+    "text": "instance, participants were assigned to read a psychoeducation pamphlet\nabout BA, self-monitor daily activities and mood, fill out a values assess-\nment form, complete an activities checklist, and develop a list of values-\nbased activities. Generic activation prescriptions (e.g., related to exercise,\nsleep hygiene, and practice of mindful relaxation breathing) were given\nduring this phase but were not explicitly linked to values.\nThe first session involved outlining the therapist’s stance, providing psy-\nchoeducation, and building the therapeutic alliance. The therapist described\nher position as a consultant/coach whose job was to help the adolescent\nchoose and develop a behavioral plan to help him/her pursue life goals and\nbring a sense of pleasure and pride. The objectives of the second session\nwere to begin an idiographic functional analysis of the adolescent’s depres-\nsion. The adolescent was asked about current activities, attempts to allevi-\nate depression, and, for homework, to self-monitor activities and mood. The\nthird session involved psychoeducation about depression from a BA stand-\npoint, stressing the interconnection of thoughts, feelings, and behaviors,\nand that if the participant changed his or her behavior, it would likely affect\nthe others. Values were introduced in the fourth session as a way to enable\nthe adolescent to focus his/her behavior on things that were most important\nto him/her. Part of the introduction involved presenting a values assessment\nform (adapted from Hayes et al., 1999) used to help the adolescent articulate\nand understand his or her values in the areas of family/caregiver relations,\nsocial relations, dating relations, learning/education, health/fitness/\nself-care, recreation/hobbies, citizenship, and spirituality. The fifth session\nbegan with a discussion of the values assessment form and the idea of trans-\nlating values into activities. Once the adolescent had identified important\nvalues, the therapist and teen began formulating a list of values-consistent\nactivities. These activities were then listed on a form, “Things I Can Do to\nBehave Consistently With My Values” (adapted from Lejuez et al., 2001).\nThe adolescent also completed an activities checklist (modified from\nClarke, Lewinsohn, & Hops, 1990), which was used in session 6 to help\ncomplete the “Things I Can Do” chart."
+  },
+  {
+    "page": 8,
+    "bbox": [
+      48.00000762939453,
+      460.82861328125,
+      348.00592041015625,
+      543.1976318359375
+    ],
+    "text": "VBBA: Phase B+C. VBBA began after the sixth session during which\nthe “Things I Can Do” chart was finalized. The adolescent was instructed\nto try and engage in the selected activities every day (if feasible) and to\nrecord this engagement using the “Things I Can Do” chart. The adolescent\nwas encouraged to review this form each morning and evening as a prompt,\nbut also to engage in values-based behaviors that were not on the list, as\nopportunities were spontaneously identified, and to then add them to the"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      347.9918518066406,
+      129.19760131835938
+    ],
+    "text": "list. In the remaining sessions, the therapist and youth reviewed activities\ncompleted since the last session, changing or adding activities as dictated\nby the teen’s circumstances and experiences. If the teen encountered prob-\nlems engaging in an activity, he or she and the therapist worked together to\ntry to devise solutions or to find alternative, relevant activities."
+  },
+  {
+    "page": 9,
+    "bbox": [
+      173.4521026611328,
+      147.5498504638672,
+      222.55128479003906,
+      159.5498504638672
+    ],
+    "text": "Measures"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.0,
+      173.32308959960938,
+      147.38063049316406,
+      184.32308959960938
+    ],
+    "text": "Receipt of Treatment"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      47.99797058105469,
+      192.0963134765625,
+      348.00384521484375,
+      538.1976318359375
+    ],
+    "text": "Attendance was the number of sessions attended. Therapist adherence\nand competence and client compliance were derived from a treatment\nintegrity measure completed at the end of each session by the therapist and,\nfor 25% of sessions, an independent, trained, doctoral student coder. The\ncoded videotapes were selected quasi-randomly to ensure an even distribu-\ntion across participants (three tapes for each participant) and sessions (four\nfrom sessions 1 through 4; four from sessions 5 through 8; and four from\nsessions 9 through 12).\nAdherence refers to whether the therapist implemented the treatment as\nspecified in the protocol, whereas competence involves the skillfulness of\nthe implementation (Waltz, Addis, Koerner, & Jacobson, 1993). Seven\nitems tapped both adherence and competence. All of these items have par-\nallels in or were taken directly from existing CBT/BA integrity measures\n(Gollan, Gortner, Koerner, & Jacobson, 1995) and were scored from 0\n(poor) to 6 (excellent). Five of the items tapped general behavior therapy\nskills, such as collaboratively establishing and following an agenda,\nreviewing and assigning homework, demonstrating understanding of the\nclient, reviewing depressive symptoms, and asking for feedback and ensur-\ning client understanding. These items are referred to collectively as behavior\ntherapy (BT) competence. Two items were specific to behavioral activation:\nemphasis placed on the function of behavior in context and an overall\nrating of the clinician’s skill as a behavioral activation therapist. These\nitems are referred to as behavioral activation (BA) competence.\nAlthough the BT and BA competence subscales captured adherence to\nbehavior therapy and behavioral activation principles in general, they did\nnot address adherence to the VBBA protocol in particular. For that reason,\none to five session-specific therapist items were included. These items\nassessed whether therapist behaviors that should have occurred in a particular\nsession according to the VBBA protocol did indeed occur. These are referred"
+  },
+  {
+    "page": 9,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "380\nBehavior Modification"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n381"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0019226074219,
+      249.19760131835938
+    ],
+    "text": "to as VBBA adherence. For instance, did the therapist present the BA ratio-\nnale using the handout (session 2), explain the use and purpose of the Daily\nActivity Log (session 2), use the information collected to make the BA\nrationale idiographic (session 3), introduce and discuss values (session 4),\nexplain translating values into action (session 5), develop an idiographic\nvalues-based activities list (session 6), review activities from the previous\nweek and formulate an activity plan for the next week, examine likely out-\ncomes of different activities, and encourage engagement in specific activi-\nties (sessions 7 through 12)? All were scored from 1 (not at all) to 6\n(extensively).\nClient compliance was derived from three items focused on the teen’s\nengagement in extra session activities. The items involved ratings of the\namount and thoroughness of homework completed and of the overall pur-\nsuit of treatment goals based on descriptions of activities occurring between\nsessions. These items were scored from 0 (not at all) to 4 (completely)."
+  },
+  {
+    "page": 10,
+    "bbox": [
+      48.0,
+      268.3230895996094,
+      151.42202758789062,
+      279.3230895996094
+    ],
+    "text": "Clinical Improvement"
+  },
+  {
+    "page": 10,
+    "bbox": [
+      47.99798583984375,
+      287.1976013183594,
+      348.0049133300781,
+      525.1976318359375
+    ],
+    "text": "The computerized NIMH Diagnostic Interview Schedule for Children\n(DISC; Shaffer, Fisher, Lucas, Dulcan, & Schwab-Stone, 2000) was used to\nassess psychopathology across the major diagnostic categories of the DSM-\nIV. The modules for major depression, dysthymia, bipolar disorder, gener-\nalized anxiety, social anxiety, conduct disorder, substance use disorder, and\nattention-deficit/hyperactivity disorder (ADHD) were administered at pre-\ntreatment, posttreatment, and follow-up. The widely used 21-item self-report\nBDI-II (Beck, Steer, & Brown, 1996) was administered at pretreatment,\nposttreatment, follow-up, and prior to each session. The BDI-II has been\nused on a session-by-session basis in youth depression trials (see Brent\net al., 1997) and the following interpretive ranges recommended: 0 to 9 =\nnondepressed; 10 to 15 = mild depression; 16 to 23 = moderate depression;\nand > 24 = severe depression (Roberts, Lewinsohn, & Seeley, 1991). The\nChild Behavior Checklist–Parent Rating Form (CBCL; Achenbach,\nHowell, Quay, & Conners, 1991) is composed of 118 items assessing inter-\nnalizing and externalizing behaviors of the child; T scores below 60 are\nconsidered in the normative range. A 15-item CBCL-Depression score was\nalso calculated (as described by Clarke, Lewinsohn, Hops, & Seeley, 1992)\nto provide a measure of depression-specific symptom change from the\nperspective of a parent."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      71.00594329833984,
+      141.21841430664062,
+      82.00594329833984
+    ],
+    "text": "Potential Mediators"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      47.998992919921875,
+      89.8804702758789,
+      348.0129089355469,
+      435.8804626464844
+    ],
+    "text": "The ATQ consists of 30 items measuring dysfunctional thinking and is\nconsidered a useful tool in assessing change in cognitions related to psy-\nchotherapeutic intervention (Hollon & Kendall, 1980). The ATQ was\nadministered at pretreatment, posttreatment, and follow-up. The seven\nitems comprising the Negative Self-Concepts and Negative Expectations\n(NSNE) subscale of the ATQ were completed prior to each session. The\nCOPE (Carver, Scheier, & Weintraub, 1989) is a 60-item scale assessing\nhow individuals respond when confronted with difficult or stressful events.\nTwo subscales, active coping and behavioral disengagement, were the focus\nof the present investigation. The eight items, scored on a 1- to 4-point Likert\nscale assessing behavioral disengagement (e.g., “I just gave up trying to\nreach my goals”) and active coping (e.g., “I took action to try to get rid of\nproblems”), were completed at pretreatment, posttreatment, follow-up, and\nprior to each session. The instructions and item wordings were modified\nslightly to represent current coping responses rather than general reactions\nto stressful events. COPE activation was determined by subtracting the\nbehavioral disengagement total from the active coping total. As such, posi-\ntive scores indicate greater activation than disengagement.\nSelf-monitored activity level was measured using the “Things I Can Do\nto Behave Consistently With My Values” form. This form was adapted from\nseveral forms used by Lejuez et al. (2001) and contained the list of values-\nbased activities generated by the therapist and teen in rows, and the days of\nthe week in columns. The participant was asked to circle a preprinted Y (for\nyes) or N (for no) each day to indicate whether he or she had engaged in\nthat activity and to make a mood rating from 1 (very irritable or sad) to 10\n(very positive). A therapist rating of client compliance was taken from the\nitem on the treatment integrity measure assessing the therapist’s impression\nof how active the client was in pursuit of treatment goals based on the in-\nsession verbal review of activities since the previous session."
+  },
+  {
+    "page": 11,
+    "bbox": [
+      179.3394012451172,
+      454.2327575683594,
+      216.6641845703125,
+      466.2327575683594
+    ],
+    "text": "Results"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      480.0059814453125,
+      203.37611389160156,
+      504.0057678222656
+    ],
+    "text": "Participant PO: Strong Evidence\nfor Activation as Mediator"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      511.8804626464844,
+      348.00390625,
+      545.8804931640625
+    ],
+    "text": "PO was a Euro-American female who resided with her mother, stepfather,\nand three younger siblings. Her mother had a college education and was\nemployed part-time. Her stepfather had a high school education and was"
+  },
+  {
+    "page": 11,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "382\nBehavior Modification"
+  },
+  {
+    "page": 12,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      347.998779296875,
+      105.1976089477539
+    ],
+    "text": "self-employed. PO was assessed at 14 years, 4 months, and met intermedi-\nate criteria for a current major depressive episode. Symptom duration was\n6 months."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      47.99200439453125,
+      113.0963134765625,
+      348.00286865234375,
+      351.1976013183594
+    ],
+    "text": "Receipt of treatment. PO attended 12 individual sessions during 12\nweeks. After 4 sessions, an added mother-child meeting was held to discuss\nexpected behaviors of PO in the home. Also, to facilitate activation, the\ntherapist met individually with PO’s mother to discuss normal expectations\nof adolescent behavior and appropriate freedoms, privileges, and parental\nmonitoring. Follow-up assessment occurred 1 month posttreatment.\nThe correlation between coder and therapist ratings indicated significant\nagreement (n = 37, r = 0.86, p < .000). BT competence (n = 15) averaged\n5.60 (SD = 0.63) for the coder and 5.73 (SD = 0.46) for the therapist; BA\ncompetence (n = 6) averaged 5.33 (SD = 0.52) for the coder and 5.17 (SD =\n0.75) for the therapist; and VBBA adherence (n = 7) averaged 6.0 (SD = 0.0)\nfor the coder and 5.86 (SD = 0.38) for the therapist. These data suggest very\ngood to excellent treatment integrity, which was maintained when averaged\nacross all of PO’s sessions: BT competence (n = 60) averaged 5.63 (SD =\n0.88); BA competence (n = 24) averaged 5.29 (SD = 0.55); and VBBA\nadherence (n = 38) averaged 5.61 (SD = 0.75). Client compliance (n = 9)\naveraged 3.11 (SD = 1.17) and 3.00 (SD = 0.87) according to the coder and\ntherapist, respectively, suggesting she was generally compliant with treat-\nment. The average across all sessions was similar (n = 33, M = 3.06, SD =\n1.14, MODE = 4.0)."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      47.99200439453125,
+      359.0963134765625,
+      348.04803466796875,
+      549.1976318359375
+    ],
+    "text": "Clinical improvement. PO demonstrated a substantial change in depres-\nsive symptoms from pretreatment to posttreatment across measures and\ninformants. PO no longer met DISC criteria for a major depressive episode\nat posttreatment and her BDI-II score fell in the nondepressed range. CBCL\ndepressive symptoms decreased from 11 to 2. In addition, her pretreatment\ninternalizing and externalizing scores were both in the clinical range (Ts =\n69 and 66, respectively), whereas posttreatment scores were below (inter-\nnalizing T = 52) or at normative cutoffs (externalizing T = 60).\nAs is apparent in the top panel of Figure 1, the repeated measures assess-\nment of depression reveals evidence of a pretreatment change of about 10\nBDI-II points. This declining trend on the BDI-II leveled off at the end of\nbaseline and remained relatively high and stable (BDI-II ~ 20) across the\npre-VBBA phase and initial portion of VBBA. As such, it was possible to\nobserve significant clinical improvement during the course of treatment\nthat did not seem to represent a simple continuation of the downward slope\noccurring during baseline."
+  },
+  {
+    "page": 12,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n383"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "384\nBehavior Modification"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      103.09390258789062,
+      72.0963134765625,
+      292.9117736816406,
+      94.0963134765625
+    ],
+    "text": "Figure 1\nRepeated Measures Data for Participant PO"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      97.8134994506836,
+      228.8755340576172,
+      101.47759246826172,
+      235.46612548828125
+    ],
+    "text": "0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      97.8134994506836,
+      212.6540985107422,
+      101.47759246826172,
+      219.24468994140625
+    ],
+    "text": "5"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      196.4326629638672,
+      101.61334991455078,
+      203.02325439453125
+    ],
+    "text": "10"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      180.2112274169922,
+      101.61334991455078,
+      186.80181884765625
+    ],
+    "text": "15"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      164.47618103027344,
+      101.61334991455078,
+      171.0667724609375
+    ],
+    "text": "20"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      148.25474548339844,
+      101.61334991455078,
+      154.8453369140625
+    ],
+    "text": "25"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      132.0326385498047,
+      101.61334991455078,
+      138.62322998046875
+    ],
+    "text": "30"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28516387939453,
+      115.81053161621094,
+      101.61334991455078,
+      122.40113067626953
+    ],
+    "text": "35"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      84.1200180053711,
+      140.30865478515625,
+      90.71037292480469,
+      210.9927978515625
+    ],
+    "text": "Depression symptoms"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      228.8755340576172,
+      298.6886901855469,
+      235.46612548828125
+    ],
+    "text": "0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      214.68202209472656,
+      298.6886901855469,
+      221.27261352539062
+    ],
+    "text": "5"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      200.48851013183594,
+      302.352783203125,
+      207.0791015625
+    ],
+    "text": "10"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      186.2949981689453,
+      302.352783203125,
+      192.88558959960938
+    ],
+    "text": "15"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      172.58851623535156,
+      302.352783203125,
+      179.17910766601562
+    ],
+    "text": "20"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      158.39500427246094,
+      302.352783203125,
+      164.985595703125
+    ],
+    "text": "25"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      144.2014923095703,
+      302.352783203125,
+      150.79208374023438
+    ],
+    "text": "30"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      130.0079803466797,
+      302.352783203125,
+      136.59857177734375
+    ],
+    "text": "35"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      295.02459716796875,
+      115.81446838378906,
+      302.352783203125,
+      122.40506744384766
+    ],
+    "text": "40"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      305.6224365234375,
+      138.99041748046875,
+      312.2127685546875,
+      215.53359985351562
+    ],
+    "text": "Self-monitored activities"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      175.67579650878906,
+      127.65483093261719,
+      226.30218505859375,
+      135.7654266357422
+    ],
+    "text": "Things I Can Do"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      127.01190185546875,
+      194.7299346923828,
+      138.46408081054688,
+      202.8405303955078
+    ],
+    "text": "BDI"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      108.76387023925781,
+      103.48567199707031,
+      287.9513854980469,
+      111.59627532958984
+    ],
+    "text": "FU\nPT\nVBBA\nPre-VBBA\nBL"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28489685058594,
+      368.7843017578125,
+      100.14349365234375,
+      375.3749084472656
+    ],
+    "text": "-6"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28489685058594,
+      352.5635070800781,
+      100.14349365234375,
+      359.15411376953125
+    ],
+    "text": "-4"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      94.28489685058594,
+      336.3420715332031,
+      100.14349365234375,
+      342.93267822265625
+    ],
+    "text": "-2"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.3133316040039,
+      320.1206359863281,
+      99.97742462158203,
+      326.71124267578125
+    ],
+    "text": "0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.3133316040039,
+      304.3855895996094,
+      99.97742462158203,
+      310.9761962890625
+    ],
+    "text": "2"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.3133316040039,
+      288.1641540527344,
+      99.97742462158203,
+      294.7547607421875
+    ],
+    "text": "4"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.3133316040039,
+      271.9427185058594,
+      99.97742462158203,
+      278.5333251953125
+    ],
+    "text": "6"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.3133316040039,
+      255.72193908691406,
+      99.97742462158203,
+      262.3125305175781
+    ],
+    "text": "8"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      84.1200180053711,
+      280.81854248046875,
+      90.71037292480469,
+      354.4295959472656
+    ],
+    "text": "Self-reported activation"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      298.5526123046875,
+      368.7843017578125,
+      302.2167053222656,
+      375.3749084472656
+    ],
+    "text": "0"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      298.5526123046875,
+      340.39727783203125,
+      302.2167053222656,
+      346.9878845214844
+    ],
+    "text": "1"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      298.5526123046875,
+      312.49664306640625,
+      302.2167053222656,
+      319.0872497558594
+    ],
+    "text": "2"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      298.5526123046875,
+      284.1083068847656,
+      302.2167053222656,
+      290.69891357421875
+    ],
+    "text": "3"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      298.5526123046875,
+      255.72129821777344,
+      302.2167053222656,
+      262.3118896484375
+    ],
+    "text": "4"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      305.6224365234375,
+      276.9011535644531,
+      312.2127685546875,
+      357.47119140625
+    ],
+    "text": "Therapist-rated activation"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      128.02560424804688,
+      261.4811096191406,
+      157.96185302734375,
+      269.59173583984375
+    ],
+    "text": "Therapist"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      193.92539978027344,
+      310.3074951171875,
+      212.7744140625,
+      318.4181213378906
+    ],
+    "text": "COPE"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.0282974243164,
+      509.0801086425781,
+      99.4242935180664,
+      515.18798828125
+    ],
+    "text": "7"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      96.0282974243164,
+      492.8593444824219,
+      99.4242935180664,
+      498.9672546386719
+    ],
+    "text": "9"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      476.6373596191406,
+      99.53546142578125,
+      482.7452697753906
+    ],
+    "text": "11"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      460.4153747558594,
+      99.53546142578125,
+      466.5232849121094
+    ],
+    "text": "13"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      444.6808166503906,
+      99.53546142578125,
+      450.7887268066406
+    ],
+    "text": "15"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      428.4588623046875,
+      99.53546142578125,
+      434.5667724609375
+    ],
+    "text": "17"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      412.2369079589844,
+      99.53546142578125,
+      418.3448181152344
+    ],
+    "text": "19"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      92.74346923828125,
+      396.0149230957031,
+      99.53546142578125,
+      402.1228332519531
+    ],
+    "text": "21"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      83.31689453125,
+      425.98876953125,
+      89.42474365234375,
+      491.8247985839844
+    ],
+    "text": "Negative self-thoughts"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      218.25819396972656,
+      404.3906555175781,
+      236.72950744628906,
+      412.5013427734375
+    ],
+    "text": "NSNE"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      169.5941925048828,
+      523.5918579101562,
+      205.2082977294922,
+      531.7025756835938
+    ],
+    "text": "Sessions"
+  },
+  {
+    "page": 13,
+    "bbox": [
+      48.99920654296875,
+      543.5034790039062,
+      347.0041198730469,
+      561.7987060546875
+    ],
+    "text": "Note: BDI-II = Beck Depression Inventory–II; NSNE = Negative Self-Concepts and Negative\nExpectations."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n385"
+  },
+  {
+    "page": 14,
+    "bbox": [
+      47.99896240234375,
+      71.0963134765625,
+      348.0669250488281,
+      489.1976013183594
+    ],
+    "text": "Change on potential mediators and the timing of mediator change. PO\ndemonstrated a decrease in negative thinking from a pretreatment ATQ of\n79 to a posttreatment of 37. Likewise, her COPE activation score\nincreased from a –3 to a 3. More important, as is apparent in the top and\nmiddle panels of Figure 1, PO clearly increased her activation level dur-\ning VBBA. PO self-monitored engaging in 15, 24, 15, 29, and 42 activi-\nties in the five intervals for which she returned her “Things I Can Do”\nforms (top panel, dashed line). This activation was also apparent in the\ntherapist ratings (middle panel, dashed line), which increased and remained\nhigh only during VBBA. Indeed, 5/6 VBBA data points show no overlap\nwith the prior phase. COPE activation, which showed modest improve-\nment prior to VBBA, also rose substantially during VBBA, with the final\nfour data points falling outside the range of the prior phase. With respect\nto the alternative mediator, no changes on the NSNE were observed dur-\ning this time period (lower panel). Instead, NSNE change was apparent\nonly at posttreatment and 1-month follow-up.\nTo further examine the pattern of change, we calculated ipsative z scores\nfor both the COPE and the therapist-rated activation score for each treat-\nment session across the pre-VBBA and VBBA phases. Ipsative z scores are\ncalculated by subtracting each individual session score from the partici-\npant’s average score on that measure and then dividing by the participant’s\nstandard deviation (see Mueser, Yarnold, & Foy, 1991). The sign of the\nresulting ipsative z score indicates whether the score for that session was\nhigher, lower, or equal to the average for that participant and, thus, can pro-\nvide some information about when in treatment change began to occur (i.e.,\nbased on changes in the sign of the ipsative z score). To examine the pattern\nof change, we coded ipsative z scores suggesting change in the therapeutic\ndirection with a 1, and coded those that were not in the therapeutic direc-\ntion with a 0. On the COPE, the results were: pre-VBBA = 000000 and\nVBBA = 001111, whereas the therapist-rated activation results were pre-\nVBBA = x00000 and VBBA = 110111. As with the visual analysis of\nFigure 1, these data show that increased activation was noted only during\nthe VBBA phase. The timing of the increased activation is consistent with\nwhat would be expected if it were due to the introduction of VBBA. That\nis, that VBBA appeared to lead to the change in the proposed mediator."
+  },
+  {
+    "page": 14,
+    "bbox": [
+      47.998992919921875,
+      497.0963134765625,
+      348.0028076171875,
+      543.1976318359375
+    ],
+    "text": "The relationship between mediator change and clinical improvement. As\nis apparent in Figure 1 (top panel, solid line), the observed within-treatment\nimprovement on the BDI-II occurred only during VBBA. Moreover, this\nBDI-II change followed a sustained period during which there was little to"
+  },
+  {
+    "page": 15,
+    "bbox": [
+      47.99896240234375,
+      71.1976089477539,
+      348.0165710449219,
+      537.1976318359375
+    ],
+    "text": "no improvement. Thus, both an increase in activation and a decrease in\ndepressive symptoms were associated with VBBA. Moreover, the data sug-\ngest a temporal link wherein activation preceded changes in depressive\nsymptomatology. Examination of the top panel of Figure 1 (solid line) shows\nthat it was only in session 9 that substantive change appeared on the BDI-II\nand that this BDI-II change was preceded by a significant amount of values\ndriven activation according to client self-monitoring of activities (upper\npanel, dashed line) and therapist ratings of active pursuit of treatment goals\n(middle panel, dashed line). In addition, high levels of activation were main-\ntained or achieved on all three activation measures prior to the continued\nBDI-II decline observed in sessions 11, 12, and posttreatment.\nTo further document the pattern of change, ipsative z scores (Mueser\net al., 1991) were calculated for each BDI-II across the pre-VBBA and\nVBBA phases. As noted earlier, ipsative z scores suggesting change in the\ntherapeutic direction were coded with a 1, those that were not in the thera-\npeutic direction with a 0. These data (pre-VBBA = 000000 and VBBA =\n001111) make clear that the within-treatment decrease in depression was\nnoted only during the VBBA phase. Furthermore, the coded ipsative z\nscores also showed that therapist-rated activation (identified in the first two\nVBBA sessions) preceded the changes in depression.\nThe binary coding of ipsative z scores illustrates when change in a pos-\nitive direction occurred but does not speak to the magnitude of the change.\nHowever, it is possible to calculate an intra-individual critical difference\nvalue that can be used to determine if there is a statistically significant dif-\nference between pairs of ipsative z scores (Mueser et al., 1991). For PO,\nwe assessed whether the first positive ipsative z score on the therapist-rated\nactivation measure and BDI-II were significantly different from the pre-\nceding score at the p < .05 level. The resulting critical values that needed\nto be exceeded were (1.64[2(1 – .87)]1/2) = 0.82 for the BDI-II and\n(1.64[2(1 – .47)]1/2) = 1.69 for therapist-rated activation (see Meuser et al.,\n1991, for a complete discussion of critical value derivation). In both cases,\nthe critical difference criterion for statistical significance was exceeded\n(BDI-II = 1.47, therapist-rated activation = 1.83), indicating that intro-\nduction of VBBA was followed by a statistically significant increase\nin therapist-noted activation, which preceded a statistically significant\ndecrease in depressive symptoms. Thus, both visual/graphical and statis-\ntical analyses support the idea that VBBA produced an increase in PO’s\nactivity level, which preceded and mediated the within-treatment sympto-\nmatic improvements."
+  },
+  {
+    "page": 15,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01040649414062,
+      53.35802459716797
+    ],
+    "text": "386\nBehavior Modification"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      48.0,
+      71.00594329833984,
+      213.38502502441406,
+      95.0057601928711
+    ],
+    "text": "Participant SR: Plausible Evidence\nfor Activation as Mediator"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      48.0,
+      102.88050079345703,
+      348.00677490234375,
+      220.8804931640625
+    ],
+    "text": "SR was an 18-year-old Euro-American male residing with his parents,\nboth of whom had a high school education. His father was retired and\nreceiving disability, whereas his mother worked part-time. SR met inter-\nmediate criteria for a current major depressive episode on the DISC, with a\nsymptom duration of 4 months. He also met for additional diagnoses of\nconduct disorder, ADHD (intermediate), and marijuana dependence. At the\ntime of the assessment, SR had failed grade 12 due to excessive absences\nand was in the process of repeating this grade. In addition, he had been sen-\ntenced to 12 months of probation following an arrest for shoplifting and\npossession of marijuana."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      47.998016357421875,
+      228.77920532226562,
+      348.0019836425781,
+      442.8804931640625
+    ],
+    "text": "Receipt of treatment. SR received 12 individual sessions and one parent-\nchild session during 12 weeks. The family session occurred after the fourth\nindividual session. At this meeting, SR and his parents developed a contract\nthat specified behaviors expected of SR and resulting consequences for\ncompliance and noncompliance. Follow-up was 1 month after treatment.\nThe correlation between coder and therapist ratings indicated significant\nagreement (n = 41, r = 0.87, p < .000). BT competence (n = 15) averaged 5.00\n(SD = 0.93) for the coder and 5.80 (SD = 0.56) for the therapist; BA compe-\ntence (n = 6) averaged 5.00 (SD = 0.89) for the coder and 5.50 (SD = 0.55)\nfor the therapist; and VBBA adherence (n = 11) averaged 5.18 (SD = 1.47)\nfor the coder and 4.91 (SD = 1.76) for the therapist. These data suggest very\ngood treatment integrity, which was maintained when averaged across all of\nSR’s sessions where BT competence (n = 60) averaged 5.55 (SD = 0.70), BA\ncompetence (n = 24) averaged 5.00 (SD = 0.72), and VBBA adherence\n(n = 39) averaged 4.74 (SD = 1.83). Client compliance (n = 9) averaged 1.89\n(SD = 1.83) and 1.44 (SD = 1.74) according to the coder and therapist, respec-\ntively. Client compliance across all sessions similarly suggested modest\ncompliance (n = 33, M = 1.21, SD = 1.49)."
+  },
+  {
+    "page": 16,
+    "bbox": [
+      47.99695587158203,
+      450.7792053222656,
+      348.0037841796875,
+      544.8804931640625
+    ],
+    "text": "Clinical improvement. SR reported marked change in depressive symp-\ntoms, which was modestly corroborated. At posttreatment SR no longer met\nDISC criteria for major depression and his BDI-II score fell in the nonde-\npressed range. A more modest change in depressive symptoms was noted\non the CBCL, which decreased from 14 to 9. SR still met criteria for con-\nduct disorder, ADHD (intermediate), and marijuana dependence (interme-\ndiate). Significantly lower remission rates for comorbid conduct disorder\nthan depression have been reported in a clinical trial of CBT (Rohde,"
+  },
+  {
+    "page": 16,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n387"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.00897216796875,
+      237.19760131835938
+    ],
+    "text": "Clarke, Mace, Jorgensen, & Seeley, 2004). In addition, changes in these\ndisruptive behavior and substance use diagnoses are more difficult to doc-\nument in relatively brief treatment protocols because the DSM criteria for\nthese disorders sample behavior during the past 6 to 12 months. However,\nno significant changes from pretreatment to posttreatment in internalizing\nsymptoms (Ts = 69 to 66) or externalizing symptoms (Ts = 63 to 62) were\nnoted on the CBCL, suggesting the lack of change is not simply an artifact.\nCompared to his initial BDI-II, SR reported a decrease in depressive\nsymptoms at the second baseline assessment point, which slightly increased\nat assessment point 3. Looking at SR’s baseline data in the context of his\npre-VBBA data does not suggest a downward trend, but instead weekly\nvariation in functioning centered around the moderately depressed range\n(see Figure 2, top panel). Thus, according to SR’s report, substantial clini-\ncal improvement occurred during the course of treatment."
+  },
+  {
+    "page": 17,
+    "bbox": [
+      47.999969482421875,
+      245.0963134765625,
+      348.0019836425781,
+      543.1976318359375
+    ],
+    "text": "Change on potential mediator and timing of mediator change. SR reported\na change in COPE activation as his score doubled, going from a pretreat-\nment score of 4 to a posttreatment score of 8. SR did not endorse a great\ndeal of negative thinking at pretreatment (ATQ = 46) and reported a minor\nincrease at posttreatment (ATQ = 59); however, both scores fell within the\nnormative range.\nSR showed no consistent changes in COPE activation or negative think-\ning during the pre-VBBA phase of treatment. He completed few formal\nhomework assignments and demonstrated limited and declining pursuit of\ntreatment goals during this time period. Consistent with his failure to com-\nplete most of the formal homework, SR did not return any “Things I Can\nDo” charts during VBBA. However, he was able to articulate actively pur-\nsuing treatment goals to a degree sufficient to be captured in therapist ses-\nsion ratings, which showed an immediate, marked increase during VBBA\n(see Figure 2, middle panel, dashed line). SR described engaging in activi-\nties related to completing his probation requirements (e.g.,volunteering at\nHabitat for Humanity), regularizing his sleep, improving his appearance,\nspending time with his nieces and brother-in-law, exercising, reconnecting\nwith former friends, and abstaining from alcohol and marijuana. SR’s\nCOPE score also increased during VBBA with 4/6 data points falling out-\nside the range established in the pre-VBBA phase. The pattern of change on\nthe COPE and therapist-rated activation according to the coded ipsative z\nscores further supports the suggestion that consistent increases in activation\noccurred only during VBBA. On the COPE the results were: pre-VBBA =\n0000110 and VBBA = 010111, whereas the therapist-rated activation"
+  },
+  {
+    "page": 17,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "388\nBehavior Modification"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n389"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      103.64810180664062,
+      72.0963134765625,
+      292.35595703125,
+      94.0963134765625
+    ],
+    "text": "Figure 2\nRepeated Measures Data for Participant SR"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      100.10690307617188,
+      231.2957305908203,
+      103.33631896972656,
+      237.7498321533203
+    ],
+    "text": "0"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      100.10690307617188,
+      208.93614196777344,
+      103.33631896972656,
+      215.39024353027344
+    ],
+    "text": "5"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.9692611694336,
+      187.09483337402344,
+      103.33573913574219,
+      193.54893493652344
+    ],
+    "text": "10"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.9692611694336,
+      164.77525329589844,
+      103.33573913574219,
+      171.22935485839844
+    ],
+    "text": "15"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.9692611694336,
+      142.93263244628906,
+      103.33573913574219,
+      149.38673400878906
+    ],
+    "text": "20"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      96.9692611694336,
+      120.57369232177734,
+      103.33573913574219,
+      127.02778625488281
+    ],
+    "text": "25"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      87.78792572021484,
+      144.29933166503906,
+      93.91061401367188,
+      213.78219604492188
+    ],
+    "text": "Depression symptoms"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      113.21309661865234,
+      108.50064086914062,
+      294.649169921875,
+      116.4433364868164
+    ],
+    "text": "BL Pre-VBBA\nVBBA\nPT\nFU"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      214.48350524902344,
+      150.19979858398438,
+      225.67794799804688,
+      158.1425018310547
+    ],
+    "text": "BDI"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.12870025634766,
+      368.30523681640625,
+      100.80441284179688,
+      374.7594299316406
+    ],
+    "text": "0"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.12870025634766,
+      349.9172058105469,
+      100.80441284179688,
+      356.37139892578125
+    ],
+    "text": "2"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.12870025634766,
+      331.5692138671875,
+      100.80441284179688,
+      338.0234069824219
+    ],
+    "text": "4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.12870025634766,
+      313.1811828613281,
+      100.80441284179688,
+      319.6353759765625
+    ],
+    "text": "6"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.12870025634766,
+      294.3175048828125,
+      100.80441284179688,
+      300.7716979980469
+    ],
+    "text": "8"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      93.55413055419922,
+      275.9695129394531,
+      100.80705261230469,
+      282.4237060546875
+    ],
+    "text": "10"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      93.55413055419922,
+      257.5815124511719,
+      100.80705261230469,
+      264.03570556640625
+    ],
+    "text": "12"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      83.42053985595703,
+      283.0255126953125,
+      89.95266723632812,
+      354.24700927734375
+    ],
+    "text": "Self-reported activation"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      298.5181884765625,
+      368.30523681640625,
+      302.19390869140625,
+      374.7594299316406
+    ],
+    "text": "0"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      298.5181884765625,
+      340.5044250488281,
+      302.19390869140625,
+      346.9586181640625
+    ],
+    "text": "1"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      298.5181884765625,
+      313.1818542480469,
+      302.19390869140625,
+      319.63604736328125
+    ],
+    "text": "2"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      298.5181884765625,
+      285.38104248046875,
+      302.19390869140625,
+      291.8352355957031
+    ],
+    "text": "3"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      298.5181884765625,
+      257.5821533203125,
+      302.19390869140625,
+      264.0363464355469
+    ],
+    "text": "4"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      305.6602478027344,
+      273.0109558105469,
+      312.1923522949219,
+      362.7062072753906
+    ],
+    "text": "Therapist-reported activation"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      166.82699584960938,
+      251.30796813964844,
+      196.14349365234375,
+      259.2507629394531
+    ],
+    "text": "Therapist"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      208.52699279785156,
+      334.8663635253906,
+      226.97866821289062,
+      342.8091735839844
+    ],
+    "text": "COPE"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      100.74199676513672,
+      499.36297607421875,
+      104.06765747070312,
+      505.8169860839844
+    ],
+    "text": "7"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      100.74199676513672,
+      486.9325866699219,
+      104.06765747070312,
+      493.3865966796875
+    ],
+    "text": "8"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      100.74199676513672,
+      474.5408935546875,
+      104.06765747070312,
+      480.9949035644531
+    ],
+    "text": "9"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      462.6274719238281,
+      104.06945037841797,
+      469.08148193359375
+    ],
+    "text": "10"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      450.19708251953125,
+      104.06945037841797,
+      456.6510925292969
+    ],
+    "text": "11"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      437.8066711425781,
+      104.06945037841797,
+      444.26068115234375
+    ],
+    "text": "12"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      425.37628173828125,
+      104.06945037841797,
+      431.8302917480469
+    ],
+    "text": "13"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      413.4621887207031,
+      104.06945037841797,
+      419.91619873046875
+    ],
+    "text": "14"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      401.07177734375,
+      104.06945037841797,
+      407.5257873535156
+    ],
+    "text": "15"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      97.52519989013672,
+      388.6413879394531,
+      104.06945037841797,
+      395.09539794921875
+    ],
+    "text": "16"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      88.11430358886719,
+      412.9457092285156,
+      94.32755279541016,
+      482.843017578125
+    ],
+    "text": "Negative self-thoughts"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      214.48379516601562,
+      430.1416320800781,
+      232.5489044189453,
+      438.0843200683594
+    ],
+    "text": "NSNE"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      166.8278045654297,
+      513.951904296875,
+      201.7046661376953,
+      521.8946533203125
+    ],
+    "text": "Sessions"
+  },
+  {
+    "page": 18,
+    "bbox": [
+      48.99920654296875,
+      539.3521728515625,
+      347.0041198730469,
+      557.6473999023438
+    ],
+    "text": "Note: BDI-II = Beck Depression Inventory–II; NSNE = Negative Self-Concepts and Negative\nExpectations."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "390\nBehavior Modification"
+  },
+  {
+    "page": 19,
+    "bbox": [
+      48.0,
+      71.06787109375,
+      348.00897216796875,
+      165.43685913085938
+    ],
+    "text": "results were pre-VBBA = x010000 and VBBA = 111111. SR also demon-\nstrated a substantial decrease in negative thinking that was exclusive to the\nVBBA phase (see Figure 2, bottom panel). The timing of the activity level\nand NSNE changes suggest they were plausibly the result of VBBA.\nMoreover, the fact that SR was often noncompliant with treatment and only\ndemonstrated change following the increase in compliance during VBBA\nfurther suggests that the treatment (and not nonspecific factors, such as sim-\nply spending time with a supportive listener) led to these changes."
+  },
+  {
+    "page": 19,
+    "bbox": [
+      47.99998474121094,
+      173.3355712890625,
+      348.01080322265625,
+      543.4368896484375
+    ],
+    "text": "The relationship between mediator change and clinical improvement. As\nshown in Figure 2 (top panel), depressive symptoms declined to a low level\nonly during VBBA, where 4/6 data points fell outside the range of the prior\nphases. Thus, VBBA resulted in increased activation (across measures),\ndecreased negative thinking (on the NSNE repeated measure), and decreased\ndepressive symptoms. But did activation or negative thinking mediate the\nrelationship between VBBA and symptom change? In the second VBBA\nsession, the BDI-II reached its most improved level up to that point in treat-\nment and, for the first time, was clearly outside the range established by the\npreceding phases. In the previous session, the therapist noted an increase in\nactivation (see Figure 2, middle panel, dashed line), which was sustained,\nproviding evidence of a temporal linkage. There was no temporal prece-\ndence established for the COPE or for the NSNE, and the lack of consis-\ntency between the NSNE and posttreatment ATQ further calls this potential\nmediator into question. Given that the only evidence of temporal prece-\ndence was the therapist rating of activation, it is important to determine the\nreliability of this rating, which we were able to do because this session was\none of the coded sessions for SR. Indeed, the coder rated SR’s active pur-\nsuit of treatment goals in the preceding week even higher (i.e., 4) than the\ntherapist (i.e., 3), further documenting that a substantial increase in activa-\ntion preceded depression change.\nThe coded ipsative z scores further the suggestion that positive change\non the BDI-II occurred primarily during VBBA (pre-VBBA = 0010000 and\nVBBA = 011101) and that therapist-rated activation (which was identified\nin the first VBBA data point) preceded the BDI-II change. Furthermore, the\ndifference between the first therapist-rated activation score during VBBA\nand its predecessor (difference = 2.11) exceeded the critical difference for\nstatistical significance, (1.64[2(1 – .124)]1/2) = 2.03. The first positive BDI-\nII compared to its predecessor (difference = 1.72) was also significantly dif-\nferent at the p = .05 level, critical difference, (1.64[2(1 – 1.05)]1/2) = 1.72.\nThus, both visual/graphical and statistical analyses support the conclusion"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.05682373046875,
+      201.19760131835938
+    ],
+    "text": "that VBBA produced a marked increase in activity level, which predated the\nwithin-treatment symptomatic improvements.\nOverall, the temporal sequence was not as clear, and the change in depres-\nsive symptoms not as consistent for SR as for PO. However, the available\ndata suggest that the clinical improvement appeared attributable to VBBA,\nand that the most plausible mechanism was increased activation. Follow-up\ndata also indirectly support this conclusion. At follow-up, the BDI-II had\nincreased to near baseline levels. During this time, SR had several sig-\nnificant setbacks in areas that were of focus in VBBA—he was once\nagain estranged from his brother-in-law and had pending charges for\ncocaine possession."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      48.0,
+      220.32308959960938,
+      277.25543212890625,
+      257.3226623535156
+    ],
+    "text": "Participant ZA: Treatment Increased Activation,\nbut Activation Did Not Mediate the\nObserved Symptom Change"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      48.0,
+      265.1976013183594,
+      348.0018005371094,
+      335.1976013183594
+    ],
+    "text": "ZA was an African-American female who resided with her mother and\neight siblings and step-siblings. Her mother had a high school education\nand was employed part-time. She was assessed at the age of 12 years, 7\nmonths, with the DISC and met criteria for a current major depressive\nepisode with a symptom duration of 7 months. At the time of the assess-\nment she was attending summer school as a result of failing seventh grade."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      48.0,
+      343.0963134765625,
+      348.0052185058594,
+      521.1976318359375
+    ],
+    "text": "Receipt of treatment. ZA attended 12 sessions during 9 weeks. Follow-up\nassessment occurred 3 months after treatment. The correlation between\ncoder and therapist ratings (n = 49, r = 0.90, p < .000) indicated significant\ncoder-therapist agreement. BT competence (n = 15) averaged 5.47 (SD = 0.52)\nfor the coder and 5.27 (SD = 0.80) for the therapist; BA competence (n = 6)\naveraged 4.33 (SD = 1.37) for the coder and 4.33 (SD= 0.52) for the thera-\npist; and VBBA adherence (n = 8) averaged 5.00 (SD = 1.77) for the coder\nand 4.87 (SD = 1.73) for the therapist. These data suggest the treatment was\ndelivered with good integrity, which was maintained when averaged across\nall of ZA’s sessions where BT competence (n = 60) averaged 5.45 (SD = 0.65),\nBA competence (n = 24) averaged 4.50 (SD = 0.51), and VBBA adherence\n(n = 39) averaged 4.74 (SD = 1.67). Client compliance (n = 6) averaged 2.00\n(SD = 1.55) and 2.67 (SD = 2.07) according to the coder and therapist,\nrespectively. Across treatment (n = 33) average compliance was 2.48 (SD =\n1.27), indicating ZA was some (2.0) to mostly (3.0) compliant with treatment."
+  },
+  {
+    "page": 20,
+    "bbox": [
+      48.001007080078125,
+      529.0963134765625,
+      347.9989318847656,
+      551.1976318359375
+    ],
+    "text": "Clinical improvement. ZA demonstrated a substantial change in depres-\nsive symptoms. At posttreatment she no longer met DISC criteria for a"
+  },
+  {
+    "page": 20,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n391"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      47.998992919921875,
+      71.1976089477539,
+      348.0008850097656,
+      177.19760131835938
+    ],
+    "text": "major depressive episode and her BDI-II score was in the nondepressed\nrange. On the CBCL, her pretreatment internalizing (T = 73) and external-\nizing (T = 66) scores decreased to 33 and 40, respectively. CBCL depres-\nsive symptoms fell from 17 to 1.\nAs Figure 3 (top panel, solid line) makes apparent, ZA reported a\nmarked decline (20 BDI-II points) in depressive symptoms during baseline.\nHer depressive symptoms stabilized at a modestly elevated level across the\nfinal baseline point and first few weeks of treatment, such that the remain-\ning clinical improvement occurred within the course of treatment."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      47.996978759765625,
+      185.0963134765625,
+      348.00286865234375,
+      471.1976013183594
+    ],
+    "text": "Change on potential mediators and timing of mediator change. Despite\nnot showing a great deal of negative thinking at pretreatment (ATQ = 59),\nZA reported a decrease at posttreatment (ATQ = 39). On the NSNE sub-\nscale, ZA demonstrated a declining baseline, which bottomed out prior to\nthe first treatment session, then rose in the second treatment session and\nreturned to its lowest level by session 4 (see Figure 3, bottom panel). Thus,\nthe change on the NSNE clearly preceded VBBA.\nImprovement was noted in COPE activation, which increased from a –2\nat pretreatment to a 6 at posttreatment. In addition, as is apparent in Figure\n3 (middle panel, dashed line), whereas ZA was generally compliant with\nearly treatment goals during pre-VBBA, she did not register this as a\nchange in activation on the COPE (middle panel, solid line). However,\nintroduction of VBBA clearly led to an increase in activation for ZA that\nwas apparent on all measures. ZA completed and returned three “Things I\nCan Do” forms documenting completion of 4, 5, and 32 activities, respec-\ntively, in the domains of recreation, family, and social life. There were also\nimmediate and consistent level changes on the COPE and in therapist-rated\nactivation (see Figure 3), such that all VBBA ipsative z scores on these mea-\nsures were coded 1, compared to none of the pre-VBBA z scores. In addi-\ntion, the NSNE had reached its floor three sessions before the changes in\nactivation; thus, whereas the role of changes in thinking in contributing to\n(or setting the stage for) increased activation cannot be ruled out, the most\nproximal change prior to the increased activation was the introduction of\nVBBA. That is, the greater activation appeared most likely due to VBBA."
+  },
+  {
+    "page": 21,
+    "bbox": [
+      47.99797058105469,
+      479.0963134765625,
+      348.0449523925781,
+      549.1976318359375
+    ],
+    "text": "The relationship between mediator change and clinical improvement.\nExamination of ZA’s session-by-session BDI-II data (see Figure 3, top\npanel, solid line) suggests that the significant within-treatment symptom\nreduction occurred by the third session, well before introduction of VBBA.\nThe therapist ratings of activation (middle panel, dashed line) indicated that\nshe was mostly compliant with early treatment goals, which coincided with"
+  },
+  {
+    "page": 21,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "392\nBehavior Modification"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n393"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      103.09269714355469,
+      72.0963134765625,
+      292.9095764160156,
+      94.0963134765625
+    ],
+    "text": "Figure 3\nRepeated Measures Data for Participant ZA"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.87740325927734,
+      232.0374298095703,
+      101.54144287109375,
+      238.62802124023438
+    ],
+    "text": "0"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.87740325927734,
+      215.81468200683594,
+      101.54144287109375,
+      222.4052734375
+    ],
+    "text": "5"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      199.59388732910156,
+      101.54672241210938,
+      206.18447875976562
+    ],
+    "text": "10"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      183.37245178222656,
+      101.54672241210938,
+      189.96304321289062
+    ],
+    "text": "15"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      167.6374053955078,
+      101.54672241210938,
+      174.22799682617188
+    ],
+    "text": "20"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      151.4159698486328,
+      101.54672241210938,
+      158.00656127929688
+    ],
+    "text": "25"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      135.1945343017578,
+      101.54672241210938,
+      141.78512573242188
+    ],
+    "text": "30"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34912109375,
+      118.97309875488281,
+      101.54672241210938,
+      125.5636978149414
+    ],
+    "text": "35"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      84.18399810791016,
+      143.13624572753906,
+      90.77425384521484,
+      214.08828735351562
+    ],
+    "text": "Depression symptoms"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      232.0374298095703,
+      298.7520446777344,
+      238.62802124023438
+    ],
+    "text": "0"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      215.81468200683594,
+      298.7520446777344,
+      222.4052734375
+    ],
+    "text": "5"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      199.59388732910156,
+      302.2849426269531,
+      206.18447875976562
+    ],
+    "text": "10"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      183.37245178222656,
+      302.2849426269531,
+      189.96304321289062
+    ],
+    "text": "15"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      167.6374053955078,
+      302.2849426269531,
+      174.22799682617188
+    ],
+    "text": "20"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      151.4159698486328,
+      302.2849426269531,
+      158.00656127929688
+    ],
+    "text": "25"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      135.1945343017578,
+      302.2849426269531,
+      141.78512573242188
+    ],
+    "text": "30"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      295.0880126953125,
+      118.97309875488281,
+      302.2849426269531,
+      125.5636978149414
+    ],
+    "text": "35"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      305.6858825683594,
+      142.97303771972656,
+      312.276123046875,
+      218.62991333007812
+    ],
+    "text": "Self-monitored activities"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      206.15440368652344,
+      142.9827117919922,
+      256.81158447265625,
+      151.0933074951172
+    ],
+    "text": "Things I Can Do"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      181.82240295410156,
+      191.80860900878906,
+      193.25511169433594,
+      199.91920471191406
+    ],
+    "text": "BDI"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      108.82777404785156,
+      106.64683532714844,
+      288.0152893066406,
+      114.75743865966797
+    ],
+    "text": "FU\nBL\nPT\nVBBA\nPre-VBBA"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      95.84960174560547,
+      371.9454040527344,
+      101.5433578491211,
+      378.5360107421875
+    ],
+    "text": "-4"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      95.84960174560547,
+      355.7239685058594,
+      101.5433578491211,
+      362.3145751953125
+    ],
+    "text": "-2"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.8773422241211,
+      339.503173828125,
+      101.5413818359375,
+      346.0937805175781
+    ],
+    "text": "0"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.8773422241211,
+      323.2804260253906,
+      101.5413818359375,
+      329.87103271484375
+    ],
+    "text": "2"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.8773422241211,
+      307.5460205078125,
+      101.5413818359375,
+      314.1366271972656
+    ],
+    "text": "4"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.8773422241211,
+      291.3252258300781,
+      101.5413818359375,
+      297.91583251953125
+    ],
+    "text": "6"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      97.8773422241211,
+      275.1037902832031,
+      101.5413818359375,
+      281.69439697265625
+    ],
+    "text": "8"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      94.34906005859375,
+      258.88104248046875,
+      101.54666137695312,
+      265.4716491699219
+    ],
+    "text": "10"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      84.18439483642578,
+      284.7956848144531,
+      90.77465057373047,
+      357.5242919921875
+    ],
+    "text": "Self-reported activation"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      298.6159973144531,
+      371.9454040527344,
+      302.280029296875,
+      378.5360107421875
+    ],
+    "text": "0"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      298.6159973144531,
+      343.5570373535156,
+      302.280029296875,
+      350.14764404296875
+    ],
+    "text": "1"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      298.6159973144531,
+      315.65704345703125,
+      302.280029296875,
+      322.2476501464844
+    ],
+    "text": "2"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      298.6159973144531,
+      287.27001953125,
+      302.280029296875,
+      293.8606262207031
+    ],
+    "text": "3"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      298.6159973144531,
+      258.8816833496094,
+      302.280029296875,
+      265.4722900390625
+    ],
+    "text": "4"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      305.6858825683594,
+      274.5716552734375,
+      312.276123046875,
+      366.1618957519531
+    ],
+    "text": "Therapist-reported activation"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      212.2375946044922,
+      246.39341735839844,
+      242.17384338378906,
+      254.50401306152344
+    ],
+    "text": "Therapist"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      151.40789794921875,
+      313.4678039550781,
+      170.2496337890625,
+      321.57843017578125
+    ],
+    "text": "COPE"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.09339904785156,
+      511.85418701171875,
+      99.48933410644531,
+      518.4447021484375
+    ],
+    "text": "7"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.09339904785156,
+      493.077880859375,
+      99.48933410644531,
+      499.66839599609375
+    ],
+    "text": "8"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      96.09339904785156,
+      474.34173583984375,
+      99.48933410644531,
+      480.9322509765625
+    ],
+    "text": "9"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      92.80862426757812,
+      455.5653991699219,
+      99.49177551269531,
+      462.1558837890625
+    ],
+    "text": "10"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      92.80862426757812,
+      436.30267333984375,
+      99.49177551269531,
+      442.8931884765625
+    ],
+    "text": "11"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      92.80862426757812,
+      417.56719970703125,
+      99.49177551269531,
+      424.15771484375
+    ],
+    "text": "12"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      92.80862426757812,
+      398.7908935546875,
+      99.49177551269531,
+      405.38140869140625
+    ],
+    "text": "13"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      83.13430786132812,
+      423.59881591796875,
+      89.47882080078125,
+      494.985107421875
+    ],
+    "text": "Negative self-thoughts"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      157.4915008544922,
+      447.2942199707031,
+      175.93826293945312,
+      455.40484619140625
+    ],
+    "text": "NSNE"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      157.4915008544922,
+      526.7530517578125,
+      193.1051483154297,
+      534.8636474609375
+    ],
+    "text": "Sessions"
+  },
+  {
+    "page": 22,
+    "bbox": [
+      48.99920654296875,
+      544.0999755859375,
+      347.0041198730469,
+      562.3952026367188
+    ],
+    "text": "Note: BDI-II = Beck Depression Inventory–II; NSNE = Negative Self-Concepts and Negative\nExpectations."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      347.99310302734375,
+      153.19760131835938
+    ],
+    "text": "the decrease in symptoms and negative self-thoughts. However, no clear tem-\nporal sequence was apparent and ZA did not report a change in COPE acti-\nvation during this time. Thus, whereas pre-VBBA may have contributed to\nthe change in symptoms, it is unclear as to whether this was the case and, if\nso, how it contributed. As such, the data appear most consistent with those\nfrom a subgroup of depressed teens who demonstrate large symptom changes\nearly in treatment across intervention modalities (Gaynor et al., 2003)."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      48.0,
+      172.32308959960938,
+      217.1382293701172,
+      196.3228759765625
+    ],
+    "text": "Participant NM: Failure to Reliably\nAlter Activation Mediator"
+  },
+  {
+    "page": 23,
+    "bbox": [
+      48.0,
+      204.19760131835938,
+      348.01385498046875,
+      286.1976013183594
+    ],
+    "text": "NM was a mixed ethnicity (Korean-American and Euro-American) male\nwho initially resided with his father, step-mother, and four step-siblings. By\nthe end of treatment, NM resided solely with his father. His father had a\nhigh school education and initially had seasonal employment, but by the\nend of treatment was unemployed. NM was assessed at 15 years, 2 months,\nand diagnosed with a current major depressive episode (symptom duration\n14 months) and ADHD."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      47.9959716796875,
+      294.0963134765625,
+      348.0098876953125,
+      544.1976318359375
+    ],
+    "text": "Receipt of treatment. NM began treatment after a 4-week baseline\nbecause an extra assessment session was required. He received 12 sessions\nduring 16 weeks and two father-child sessions (between individual sessions\n2 and 3, and 4 and 5). The goal of these meetings was to discuss NM’s\ndesire to spend more time with his father, to encourage NM’s father to\ndevote more time to his son, and to discuss possible barriers. NM com-\npleted follow-up 2 months after treatment completion.\nThe coder and therapist ratings were moderately to strongly correlated\n(n = 36, r = .68, p < .001). BT competence (n = 15) averaged 4.87 (SD =\n1.25) for the coder and 5.73 (SD = 0.46) for the therapist; BA competence\n(n = 6) averaged 4.33 (SD = 0.52) for the coder and 5.17 (SD= 0.75) for the\ntherapist; and VBBA adherence (n = 7) averaged 4.29 (SD = 1.80) for the\ncoder and 4.43 (SD = 2.37) for the therapist. Despite the higher therapist\ncompetence ratings, even the coder ratings suggested quite acceptable com-\npetence and considerable adherence. The therapist ratings were consistent\nwhen averaged across all of NM’s sessions where BT competence (n = 60)\naveraged 5.72 (SD = 0.49), BA competence (n = 24) averaged 5.17 (SD =\n0.48), and VBBA adherence (n = 37) averaged 4.16 (SD = 1.67). Client\ncompliance (n = 9) averaged 1.50 (SD = 1.41) and 1.44 (SD = 1.24) accord-\ning to the coder and therapist, respectively, and across treatment (n = 33)\naveraged 1.06 (SD = 0.93), suggesting little treatment compliance."
+  },
+  {
+    "page": 23,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "394\nBehavior Modification"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n395"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      47.999000549316406,
+      71.0963134765625,
+      348.00482177734375,
+      213.19760131835938
+    ],
+    "text": "Clinical improvement. NM reported marked change in depressive symp-\ntoms, which were somewhat corroborated. At posttreatment he failed to\nmeet criteria for a major depressive episode (and ADHD), and his BDI-II\nfell in the nondepressed range. Moreover, CBCL depressive symptoms\ndecreased from 13 to 7. However, overall internalizing symptoms remained\nelevated at posttreatment (T = 69) whereas externalizing symptoms fell just\nbelow the clinical cutoff (T = 59).\nNM reported considerable pretreatment change as his initial BDI-II fell\nin the severe range, but dropped to below the clinical cutoff by the last base-\nline assessment point. The first treatment session saw a rise to the moder-\nate range, which dropped again by the start of session 2 and remained at a\nlow level thereafter."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      47.998992919921875,
+      220.0963134765625,
+      348.00201416015625,
+      422.1976013183594
+    ],
+    "text": "Change on potential mediators and timing of mediator change. NM\nreported elevated negative thinking at pretreatment (ATQ = 76), which\nmodestly improved at posttreatment (ATQ = 60). However, his COPE acti-\nvation score worsened from  pretreatment to posttreatment, going from a –7\nto a –11. Figure 4 reveals a decreasing baseline on the NSNE (bottom\npanel) and stable low activation on the COPE (middle panel, solid line).\nThe COPE reached its highest point at the first therapy session, which was\nfollowed by a drop to baseline levels that was maintained during pre-\nVBBA. The declining NSNE baseline trend was reversed at treatment ses-\nsion 1; however, a substantial decline occurred by session 2, which was\nmaintained thereafter, well before VBBA began. During VBBA, NM\nreported a modest increase in activation relative to baseline and the major-\nity of the previous phase; however, disengagement was always greater than\nactive coping, and the therapist ratings contradict NM’s self-report, sug-\ngesting a decrease in activation during VBBA. NM failed to return any\n“Things I Can Do” forms, providing no self-monitoring data. Thus, VBBA\ndid not appear to lead to reliably increased activation."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      47.9990234375,
+      429.0963134765625,
+      347.9998779296875,
+      511.1976013183594
+    ],
+    "text": "The relationship between mediator change and clinical improvement.\nThe vast majority of within-treatment depression change occurred in the\ninterval from session 1 to session 2 and seemed to represent a continuation\nof a change process that began during baseline. There was no evidence that\nactivation, and particularly VBBA, or changes in negative thinking accounted\nfor the clinical improvement. Like ZA, NM’s data appear most consistent\nwith a subgroup of rapid early responders."
+  },
+  {
+    "page": 24,
+    "bbox": [
+      48.0,
+      523.3230590820312,
+      103.58412170410156,
+      534.3230590820312
+    ],
+    "text": "Moderators"
+  },
+  {
+    "page": 24,
+    "bbox": [
+      48.0,
+      541.1976318359375,
+      348.00390625,
+      563.1976318359375
+    ],
+    "text": "Because of the small sample size and the fact that depression declined\nsubstantially for all participants, it is not possible to identify pretreatment"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "396\nBehavior Modification"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      101.7083969116211,
+      72.0963134765625,
+      294.2962951660156,
+      94.0963134765625
+    ],
+    "text": "Figure 4\nRepeated Measures Data for Participant NM"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      102.56089782714844,
+      232.66090393066406,
+      105.92725372314453,
+      239.1940155029297
+    ],
+    "text": "0"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      102.56089782714844,
+      216.5809783935547,
+      105.92725372314453,
+      223.1140899658203
+    ],
+    "text": "5"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      200.5010528564453,
+      105.92967224121094,
+      207.03416442871094
+    ],
+    "text": "10"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      184.42112731933594,
+      105.92967224121094,
+      190.95423889160156
+    ],
+    "text": "15"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      168.82334899902344,
+      105.92967224121094,
+      175.35646057128906
+    ],
+    "text": "20"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      152.74342346191406,
+      105.92967224121094,
+      159.2765350341797
+    ],
+    "text": "25"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      136.6634979248047,
+      105.92967224121094,
+      143.1966094970703
+    ],
+    "text": "30"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.30473327636719,
+      120.58358001708984,
+      105.92967224121094,
+      127.1166763305664
+    ],
+    "text": "35"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      89.77799987792969,
+      144.6395721435547,
+      96.06729888916016,
+      214.98410034179688
+    ],
+    "text": "Depression symptoms"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      151.4116973876953,
+      162.6757049560547,
+      164.61032104492188,
+      170.71580505371094
+    ],
+    "text": "BDI"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      115.23097229003906,
+      108.40522766113281,
+      310.95111083984375,
+      116.44532775878906
+    ],
+    "text": "FU\nPT\nVBBA\nPre-VBBA\nBL"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      95.80470275878906,
+      371.3456115722656,
+      105.40185546875,
+      377.8786926269531
+    ],
+    "text": "-12"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      95.80470275878906,
+      355.2657165527344,
+      105.40185546875,
+      361.7987976074219
+    ],
+    "text": "-10"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.46255493164062,
+      339.185791015625,
+      105.40254211425781,
+      345.7188720703125
+    ],
+    "text": "-8"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.46255493164062,
+      323.1058654785156,
+      105.40254211425781,
+      329.6389465332031
+    ],
+    "text": "-6"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.46255493164062,
+      307.5080871582031,
+      105.40254211425781,
+      314.0411682128906
+    ],
+    "text": "-4"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.46255493164062,
+      291.42816162109375,
+      105.40254211425781,
+      297.96124267578125
+    ],
+    "text": "-2"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      101.59327697753906,
+      275.3482360839844,
+      105.40254211425781,
+      281.8813171386719
+    ],
+    "text": "0"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      101.59327697753906,
+      259.268310546875,
+      105.40254211425781,
+      265.8013916015625
+    ],
+    "text": "2"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      85.32417297363281,
+      285.079345703125,
+      92.0144271850586,
+      357.17291259765625
+    ],
+    "text": "Self-reported activation"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      308.1792907714844,
+      371.3456115722656,
+      311.9885559082031,
+      377.8786926269531
+    ],
+    "text": "0"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      308.1792907714844,
+      343.2055969238281,
+      311.9885559082031,
+      349.7386779785156
+    ],
+    "text": "1"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      308.1792907714844,
+      315.54901123046875,
+      311.9885559082031,
+      322.08209228515625
+    ],
+    "text": "2"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      308.1792907714844,
+      287.4083251953125,
+      311.9885559082031,
+      293.94140625
+    ],
+    "text": "3"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      308.1792907714844,
+      259.268310546875,
+      311.9885559082031,
+      265.8013916015625
+    ],
+    "text": "4"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      315.6290588378906,
+      280.49700927734375,
+      322.3193359375,
+      360.189208984375
+    ],
+    "text": "Therapist-rated activation"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      139.30320739746094,
+      361.4602966308594,
+      168.9784698486328,
+      369.50018310546875
+    ],
+    "text": "Therapist"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      211.6623992919922,
+      337.5003967285156,
+      230.3398895263672,
+      345.540283203125
+    ],
+    "text": "COPE"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      103.19380187988281,
+      510.1400146484375,
+      106.64856719970703,
+      516.6732177734375
+    ],
+    "text": "7"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      103.19380187988281,
+      499.085205078125,
+      106.64856719970703,
+      505.618408203125
+    ],
+    "text": "9"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      487.5083923339844,
+      106.64981079101562,
+      494.0415954589844
+    ],
+    "text": "11"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      476.45355224609375,
+      106.64981079101562,
+      482.98675537109375
+    ],
+    "text": "13"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      465.39874267578125,
+      106.64981079101562,
+      471.93194580078125
+    ],
+    "text": "15"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      454.3439025878906,
+      106.64981079101562,
+      460.8771057128906
+    ],
+    "text": "17"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      442.80560302734375,
+      106.64981079101562,
+      449.33880615234375
+    ],
+    "text": "19"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      431.75146484375,
+      106.64981079101562,
+      438.28466796875
+    ],
+    "text": "21"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      420.6966247558594,
+      106.64981079101562,
+      427.2298278808594
+    ],
+    "text": "23"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      409.11981201171875,
+      106.64981079101562,
+      415.65301513671875
+    ],
+    "text": "25"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      99.85771942138672,
+      398.0649719238281,
+      106.64981079101562,
+      404.5981750488281
+    ],
+    "text": "27"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      90.14755249023438,
+      422.5939025878906,
+      96.51890563964844,
+      493.3591003417969
+    ],
+    "text": "Negative self-thoughts"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      151.39259338378906,
+      446.11798095703125,
+      169.6732635498047,
+      454.1579895019531
+    ],
+    "text": "NSNE"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      169.48190307617188,
+      524.8843383789062,
+      204.7842559814453,
+      532.9241943359375
+    ],
+    "text": "Sessions"
+  },
+  {
+    "page": 25,
+    "bbox": [
+      48.99920654296875,
+      542.89990234375,
+      347.0041198730469,
+      561.1951293945312
+    ],
+    "text": "Note: BDI-II = Beck Depression Inventory–II; NSNE = Negative Self-Concepts and Negative\nExpectations."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n397"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      347.9988708496094,
+      153.19760131835938
+    ],
+    "text": "variables that seemed to reliably influence depression outcome. Nonetheless,\nit might be worth noting that change was less robust across informants (i.e.,\nthe parents did not report as much change as the child) for the two males,\nwho also presented with co-morbid disruptive behavior diagnoses. In addi-\ntion, the two adolescents for whom activation appeared to be a mediator of\ntreatment outcome were both from two-parent homes and had the shortest\nsymptom durations on the DISC (4 and 6 months)."
+  },
+  {
+    "page": 26,
+    "bbox": [
+      171.0,
+      171.5498504638672,
+      225.00115966796875,
+      183.5498504638672
+    ],
+    "text": "Discussion"
+  },
+  {
+    "page": 26,
+    "bbox": [
+      47.99896240234375,
+      197.19760131835938,
+      348.0149230957031,
+      555.1976318359375
+    ],
+    "text": "An approach to conducting single-participant assessment of treatment\nmediators was outlined that requires documenting that the participant: (a)\nreceived treatment; (b) improved during treatment; (c) showed change on\nthe mediator, which occurred at a reasonably expected time given the treat-\nment protocol; and (d) preceded a substantial portion of the clinical\nimprovement. Data from 4 depressed teens treated with VBBA were pre-\nsented. Positive pretreatment change was identified for all 4 participants, 2\nof whom went on to report additional symptomatic improvements very\nearly in the course of treatment that were not attributable to VBBA. Onset\nof VBBA was associated with substantial changes in activation for 3 out of\n4 participants, and for 2 this increased activation appeared to plausibly\naccount for their within-treatment clinical gains. In no case did changes in\ndysfunctional thinking appear as a plausible mediator.\nThese data provide preliminary single-case support for the use of BA\nwith depressed adolescents. Moreover, they provide some initial evidence\nthat BA did, in the majority of cases, produce an increase in activation, and\nthat this increased activation, in half of the cases, was followed by substantial\nchanges in depressive symptoms. As such, these data generally coincide with\nthe theoretically proposed mechanism of action in BA. Of course, the data\nfrom all of the participants did not correspond to predictions from the BA\nmodel. However, given the multitude of variables that may produce change\nduring therapy (nonspecific factors, treatment specific factors, nontreatment-\nrelated factors), that 75% showed increased activation that corresponded to\nthe introduction of VBBA, which for 50% preceded the changes in depres-\nsion seems promising. Clearly, given the small sample size, the findings\nneed to be replicated and are probably best treated as simply offering a\nhypothesis for testing in future research: 50% of responders to BA show a\npattern of change consistent with the theorized mechanism.\nThe present findings provide not only some initial promising data for the\nuse of BA with depressed youth but also suggest the potential promise of"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "398\nBehavior Modification"
+  },
+  {
+    "page": 27,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.01580810546875,
+      549.1976318359375
+    ],
+    "text": "the single-participant approach to assessing mediators. As such, we believe\nthis approach warrants further research and development. Toward this end,\nseveral limitations and areas for future consideration are highlighted. To\nbegin, it appears that certain data patterns may present some complications\nfor the single-participant approach. For instance, cases where the effects of\ntreatment are significantly delayed (i.e., sleeper effects) would make it hard\nto identify and make a clear inference about a mediator. For instance, if a\nclient were taught cognitive restructuring but it didn’t have an effect on neg-\native cognitions until months of practice passed, or if the effects of changed\ncognitions on depressive symptoms did not occur for months, the temporal\nlink between receipt of the treatment, change in cognition, and change in\ndepression would be harder to detect. In addition, there would be a risk that\na more proximal event would be seen as the agent that produced these\nchanges. The current protocol provides some protection against misidenti-\nfication because only one general therapeutic intervention was used; how-\never, many protocols involve the use of multiple techniques/components,\nwhich would increase the risk for potential misidentification of the relevant\ntreatment aspects producing change when that change was delayed.\nA second potentially troublesome scenario for assessing mediators of\ntreatment outcome at the single-participant level would be in the case where\ntwo mediators (e.g., ATQ and activity) change simultaneously and are fol-\nlowed by symptom change (e.g., a decrease in the BDI-II). Such a case\nwould not allow for a clear inference to be made favoring one of these\nmediators over the other. Instead, both would have to be considered as plau-\nsible mediators, as would the possibility that a third variable produced the\nchanges in both. The two patterns described, which could complicate the\nability to draw clear inferences, might well need to be addressed in future\nresearch and could represent a significant limitation of the single-participant\napproach. However, before that can be said, it seems important to determine\nhow often these complicating patterns occur. Future research using the\nsingle-participant approach would be useful in documenting the actual\nprevalence of these complicating scenarios. In addition, it should be further\nnoted that it is not clear that single-participant assessment of treatment medi-\nators is more vulnerable than group-level approaches to the complications\nraised by these data patterns; hence, the need for researchers to use multiple\napproaches to identifying mediators and to have results replicated both\nwithin and across methods. \nWhen assessing mediators of treatment outcome at the level of the single-\nparticipant, we recommend adopting sample reporting conventions that\nmirror those used in clinical trials. That is, providing a description of the"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n399"
+  },
+  {
+    "page": 28,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.0400085449219,
+      561.1976318359375
+    ],
+    "text": "number of potential participants, the number excluded from participation,\nthe number who discontinued participation and when they discontinued,\nalong with all relevant demographic and clinical characteristics. Provision\nof such information helps ensure that any data presented were not simply\nhand-picked to support a particular pattern or conclusion.\nOn the topic of sample size, it is useful to note that the approach\ndescribed herein can be used with any sample size. In the present sample,\n50% showed evidence for the activation mediator and 50% did not. Similar\nanalyses could be done with a larger sample and the overall percentages\nreported. Graphs of the single-case data for all participants could not be\npresented in publications, due to space constraints, but the single-participant\nstrategy could be employed and the data reviewed by a number of trained\nevaluators according to the criteria described. Inter-rater agreement could\nthen be calculated to show that the evaluators’ conclusions were similar,\nand then the group percentages reported (e.g., percentage of cases where\nthe data supported a mediator). Given that the effects of therapy appear\nmultiply determined, knowing the percentage of treatment responders\nwhose results appear due, at least in part, to the targeted mechanism of\naction would be very useful. This information could then be used as a vari-\nable in other analyses to determine, for instance, if those whose change was\nplausibly due to the mechanism of action had lower relapse/recurrence\nrates. In addition, percentages could be compared across groups who\nreceived different treatments, such as those from a randomized clinical trial,\nto determine the percentage in each cell whose response was consistent\nwith a proposed mechanism of action and whether this percentage differed\nacross groups. The suggestion that individual-level analyses be applied to a\nlarge dataset has some precedence in, for example, Quitkin’s (1999)\napproach to detecting placebo responders in antidepressant drug studies by\nconducting “pattern analyses” of individual participant data. The pattern\nanalyses are based on session-by-session clinician ratings of either improved\n(1) or not improved (0) with certain patterns considered most likely to\nrepresent “true” responses to antidepressant drugs (e.g., 000111) and others\nplacebo responses (e.g., 111111).\nIdentification of mediators at both the single case and group level\nrequire relatively brief measures of critical variables that can be adminis-\ntered repeatedly and maintain their reliability and validity (Kraemer et al.,\n2002). Recent data suggesting that weekly administrations of the BDI-II\nmay produce greater positive changes than monthly or bimonthly use illus-\ntrates a potential problem (Longwell & Truax, 2005). Until a range of brief\nassessments that can be used repeatedly is fully available, use of the most\nwidely studied measures seems prudent. Likewise, when possible, multiple"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "400\nBehavior Modification"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      48.0,
+      71.1976089477539,
+      348.00592041015625,
+      381.1976013183594
+    ],
+    "text": "measures of a variable could be taken to look for convergence. For instance,\nthe present study used a subscale of the widely studied ATQ as a repeated\nmeasure and, given the importance of activation, employed three measures\nof this variable. Furthermore, use of longer, psychometrically sound mea-\nsures of the same variables at pretreatment and posttreatment can help\ndetermine whether the construct validity of the repeated measure was lost\ndue to frequent administration. If the conclusion from a brief, repeated\nmeasure is inconsistent with the result of a more complete or alternative\nmeasure of the variable then confidence in the repeated measure’s validity\ndecreases. For instance, if a teen continued to meet DISC criteria for major\ndepression at posttreatment but showed a consistent decline in the BDI-II\nacross the course of treatment, there would be reason for concern that the\nBDI-II lost its construct validity. Incorporation of direct observation and/or\nperformance-based measures (e.g., on laboratory tasks) should also occur\nwhenever possible. In addition to these within-study considerations, replica-\ntion of findings across studies is also critical.\nIn conclusion, single-participant assessment of treatment mediators\nappears to be a promising additional tool that can complement group-level\nanalyses. Ideally, the two strategies should facilitate convergence on the\nmechanisms of action that are operative in successful psychotherapy.\nExisting criteria for evaluating the empirical support for a psychological\nintervention consider both between-group and single-participant data in\ndrawing conclusions (Chambless et al., 1998). So too should evaluations of\nthe mechanisms of action operating in those interventions. It is our hope\nthat the present article provides a first approximation and encourages future\nresearch and methodological developments toward this end."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      186.00880432128906,
+      400.54986572265625,
+      209.9896240234375,
+      412.54986572265625
+    ],
+    "text": "Note"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      48.0,
+      421.72381591796875,
+      348.00030517578125,
+      459.72381591796875
+    ],
+    "text": "1. Of note, a mediator may or may not ultimately be a mechanism. A mediator represents\na correlational relationship, one plausible means via which a treatment exerts its effects,\nwhereas a mechanism is considered causal. As such, mechanisms are inevitably mediators, but\nnot vice versa (Kraemer, Wilson, Fairburn, & Agras, 2002)."
+  },
+  {
+    "page": 29,
+    "bbox": [
+      170.1313018798828,
+      473.54986572265625,
+      225.86656188964844,
+      485.54986572265625
+    ],
+    "text": "References"
+  },
+  {
+    "page": 29,
+    "bbox": [
+      48.0,
+      496.72381591796875,
+      348.0097961425781,
+      554.7238159179688
+    ],
+    "text": "Achenbach, T., Howell, C., Quay, H., & Conners, K. (1991). National survey of problems and\ncompetencies among four- to sixteen-year olds: Parents’ reports for normative and clinical\nsamples. Monographs of the Society for Research in Child Development, 56(3), 225-234.\nBaron, R. M., & Kenny, D. A. (1986). The mediator-moderator variable distinction in social\npsychological research: Conceptual, strategic, and statistical considerations. Journal of\nPersonality and Social Psychology, 51, 1173-1182."
+  },
+  {
+    "page": 30,
+    "bbox": [
+      130.82240295410156,
+      45.35839080810547,
+      348.00506591796875,
+      53.35839080810547
+    ],
+    "text": "Gaynor, Harris / Single-Participant Assessment of Mediators\n401"
+  },
+  {
+    "page": 30,
+    "bbox": [
+      48.0,
+      71.27704620361328,
+      348.00830078125,
+      549.3580932617188
+    ],
+    "text": "Beck, A. T., Steer, R., & Brown, G. K. (1996). Beck Depression Inventory—Second edition\nmanual. San Antonio, TX: Psychological Corporation.\nBrent, D., Holder, D., Kolko, D., Birmaher, B., Baugher, M., Roth, C., et al. (1997). A clini-\ncal psychotherapy trial for adolescent depression comparing cognitive, family, and sup-\nportive therapy. Archives of General Psychiatry, 54(9), 877-885.\nCarver, C., Scheier, M., & Weintraub, J. (1989). Assessing coping strategies: A theoretically\nbased approach. Journal of Personality and Social Psychology, 56(2), 267-283.\nChambless, D. L., Baker, M. J., Baucom, D. H., Beutler, L. E., Calhoun, K. S., Crits-\nChristoph, P., et al. (1998). Update on empirically validated therapies, Part 2. Clinical\nPsychologist, 51(1), 3-16.\nClarke, G. N., Lewinsohn, P. M., & Hops, H. (1990). Instructor’s manual for the Adolescent\nCoping with Depression course. Eugene, OR: Castalia Press.\nClarke, G. N., Lewinsohn, P. M., Hops, H., & Seeley, J. R. (1992). A self- and parent-report\nmeasure of adolescent depression: The Child Behavior Checklist Depression Scale\n(CBCL-D). Behavioral Assessment, 14, 243-263.\nDimidjian, S., Hollon, S. D., Dobson, K. S., Schmaling, K. B. Kohlenberg, R. J., Addis, M. E.,\net al. (2006). Randomized trial of behavioral activation, cognitive therapy, and antidepres-\nsant medication in the acute treatment of adults with major depression. Journal of\nConsulting and Clinical Psychology, 74(4), 658-670.\nGaynor, S. T., Baird, S. C., & Nelson-Gray, R. O. (1999). Application of time series (single-\nsubject) methodology in clinical psychology. In P. C. Kendall, J. N. Butcher, & G. N.\nHolmbeck (Eds.), Handbook of research methods in clinical psychology (2nd ed.). New\nYork: John Wiley & Sons.\nGaynor, S., Weersing, R., Kolko, D., Birmaher, B., Heo, J., & Brent, D. (2003). The prevalence\nand impact of large sudden improvements during adolescent therapy for depression: A\ncomparison across cognitive-behavioral, family, and supportive therapy. Journal of\nConsulting and Clinical Psychology, 71(2), 386-393.\nGollan, J., Gortner, J., Koerner, K., & Jacobson, N. (1995). Center for Clinical Research\nAdherence Manual: Treatment of depression. Seattle: University of Washington.\nHayes, S. C., Barlow, D. H., & Nelson-Gray, R. O. (1999). The scientist practitioner research\nand accountability in the age of managed care (2nd ed.). Boston: Allyn & Bacon.\nHayes, S., Strosahl, K., & Wilson, K. (1999). Acceptance and commitment therapy: An expe-\nriential approach to behavior change. New York: Guilford Press.\nHollon, S. (2001). Behavioral activation treatment for depression: A commentary. Clinical\nPsychology: Science and Practice, 8(3), 271-274.\nHollon, S., & Kendall, P. (1980). Cognitive self-statements in depression: Development of an\nautomatic thoughts questionnaire. Cognitive Therapy and Research, 4(4), 383-395.\nHolmbeck, G. N. (1997). Toward terminological, conceptual, and statistical clarity in the study\nof mediators and moderators: Examples from the child-clinical and pediatric psychology\nliteratures. Journal of Consulting and Clinical Psychology, 65, 599-610.\nIlardi, S., & Craighead, E. (1994). The role of nonspecific factors in cognitive-behavioral ther-\napy. Clinical Psychology: Science and Practice, 1(2), 138-156.\nJacobson, N., Dobson, K., Traux, P., Addis, M. E., Koerner, K., Gollan, J., et al. (1996). A\ncomponent analysis of cognitive-behavioral treatment for depression. Journal of Consulting\nand Clinical Psychology, 64(2), 295-304.\nKaufman, N. K., Rohde, P., Seeley, J. R., Clarke, G. N., & Stice, E. (2005). Potential media-\ntors of cognitive-behavioral therapy for adolescents with comorbid major depression and\nconduct disorder. Journal of Consulting and Clinical Psychology, 73(1), 38-46."
+  },
+  {
+    "page": 31,
+    "bbox": [
+      47.99913024902344,
+      71.35808563232422,
+      348.0522766113281,
+      469.35809326171875
+    ],
+    "text": "Kazdin, A. E. (1999). Current (lack of) status of theory in child and adolescent psychotherapy\nresearch. Journal of Clinical Child Psychology, 28, 533-543.\nKazdin, A. E., & Nock, M. K. (2003). Delineating mechanisms of change in child and ado-\nlescent therapy: Methodological issues and research recommendations. Journal of Child\nPsychology and Psychiatry, 44(8), 1116-1129.\nKraemer, H. C., Wilson, G. T., Fairburn, C. G., & Agras, W. S. (2002). Mediators and moderators\nof treatment effects in randomized clinical trials. Archives of General Psychiatry, 59, 877-883.\nLejuez, C. W., Hopko, D. R., & Hopko, S. D. (2001). A brief behavioral activation treatment\nfor depression: Treatment manual. Behavior Modification, 25, 255-286.\nLongwell, T. B., & Truax, P. (2005). The differential effects of weekly, monthly, and\nbimonthly administrations of the Beck Depression Inventory–II: Psychometric properties\nand clinical implications. Behavior Therapy, 36(3), 265-275.\nMacKinnon, D. P., Lockwood, C. M., Hoffman, J. M., West, S. G., & Sheets, V. (2002). A com-\nparison of methods to test mediation and other intervening variable effects. Psychological\nMethods, 7, 83-104.\nMartell, C., Addis, M., & Jacobson, N. (2001). Depression in context. New York: W. W. Norton.\nMeuser, K. T., Yarnold, P. R., & Foy, D. W. (1991). Statistical analysis for single-case designs.\nBehavior Modification, 15, 134-155.\nQuitkin, F. M. (1999). Placebos, drug effects, and study design: A clinician’s guide. American\nJournal of Psychiatry, 156(6), 829-836.\nRoberts, R., Lewinsohn, P., & Seeley, J. (1991). Screening for adolescent depression: A com-\nparison of depression scales. Journal of the American Academy of Child Adolescent\nPsychiatry, 30(1), 58-66.\nRohde, P., Clarke, G. N., Mace, D. E., Jorgensen, J. S., & Seeley, J. R. (2004). An efficacy/\neffectiveness trial of cognitive-behavioral treatment for adolescents with comorbid major\ndepression and conduct disorder. Journal of the American Academy of Child and Adolescent\nPsychiatry, 43, 660-668.\nShaffer, D., Fisher, P., Lucas, C., Dulcan, M., & Schwab-Stone, M. (2000). NIMH Diagnostic\nInterview Schedule for Children, version IV (NIMH DISC-IV): Description, differences\nfrom previous versions, and reliability of some common diagnoses. Journal of the American\nAcademy of Child & Adolescent Psychiatry, 39, 28-38.\nTabachnick, B. G., & Fidell, L. S. (2001). Using multivariate statistics (4th ed.). Needham\nHeights, MA: Allyn & Bacon.\nWaltz, J., Addis, M., Koerner, K., & Jacobson, N. S. (1993). Testing the integrity of a psy-\nchotherapy protocol: Assessment of adherence and competence. Journal of Consulting and\nClinical Psychology, 61, 620-630.\nWeersing, V. R., & Weisz, J. R. (2002). Mechanisms of action in youth psychotherapy. Journal\nof Child Psychology and Psychiatry, 43, 3-29.\nWhisman, M. (1999). The importance of the cognitive theory of change in cognitive therapy\nof depression. Clinical Psychology Science and Practice, 6, 300-304."
+  },
+  {
+    "page": 31,
+    "bbox": [
+      47.99912643432617,
+      483.27703857421875,
+      347.9936828613281,
+      501.35809326171875
+    ],
+    "text": "Scott T. Gaynor is an associate professor in the department of psychology at Western\nMichigan University."
+  },
+  {
+    "page": 31,
+    "bbox": [
+      47.99912643432617,
+      515.2770385742188,
+      347.9930114746094,
+      533.3580932617188
+    ],
+    "text": "Amanda Harris received her master’s degree at Western Michigan University and is currently\nan instructor at Oglethorpe University."
+  },
+  {
+    "page": 31,
+    "bbox": [
+      48.0,
+      45.35802459716797,
+      143.01119995117188,
+      53.35802459716797
+    ],
+    "text": "402\nBehavior Modification"
+  }
+]

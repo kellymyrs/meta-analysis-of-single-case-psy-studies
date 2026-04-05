@@ -1,0 +1,3746 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      80.4000015258789,
+      51.47038269042969,
+      362.1562194824219,
+      60.53712844848633
+    ],
+    "text": "JOURNAL OF CHILD AND ADOLESCENT PSYCHOPHARMACOLOGY",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      247.44000244140625,
+      135.037353515625,
+      342.7184753417969,
+      159.1721649169922
+    ],
+    "text": "Case Report",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      109.91999816894531,
+      173.72145080566406,
+      480.95965576171875,
+      218.94583129882812
+    ],
+    "text": "Sertraline Treatment of 5 Children Diagnosed with Selective Mutism: A Single-Case Research Trial",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      132.24000549316406,
+      243.41307067871094,
+      457.679931640625,
+      257.8193359375
+    ],
+    "text": "JOHN S. CARLSON, Ph.D., THOMAS R. KRATOCHWILL, Ph.D.,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      214.55999755859375,
+      255.77865600585938,
+      374.88031005859375,
+      269.72772216796875
+    ],
+    "text": "and HUGH F. JOHNSTON, M.D.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      80.63999938964844,
+      335.91796875,
+      510.2411193847656,
+      532.3088989257812
+    ],
+    "text": "In this single-case research study, we examined the efficacy and acceptability of sertraline treatment in children diagnosed with selective mutism. We utilized a double-blind, placebocontrolled trial of sertraline within a replicated multiple baseline/across participants research design (n = 2; n = 3). Multiple methods of assessment involving across-setting informants were completed repeatedly throughout the 16-week study. Follow-up data was collected at 4 and 20 weeks poststudy. Assessment measures failed to demonstrate group changes in mutism, anxiousness, and shyness. All individuals realized considerable improvement on some of these variables. Two of the five participants no longer met diagnostic criteria for selective mutism following less than 10 weeks of 100 mg sertraline treatment. A third participant was reported asymptomatic at 20 weeks poststudy. Treatment compliance was high. Parent treatment acceptability ratings were highly favorable. Single-case research methodology has considerable clinical utility in the medication treatment of selective mutism. Frequent and repeated measurement across phases helped to highlight varying levels of participant improvement across situationall> specific settings. Additional investigation of the use of selective serotonin reuptake inhibitors in treating selective mutism is warranted.",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      251.52000427246094,
+      553.3508911132812,
+      338.3972473144531,
+      564.69970703125
+    ],
+    "text": "INTRODUCTION",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      132.72000122070312,
+      575.0701904296875,
+      510.2400817871094,
+      588.7222290039062
+    ],
+    "text": "mutism (SM) is a rare disorder of childhood characterized by a persistent lack of speech within",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      81.12000274658203,
+      586.6616821289062,
+      510.4803466796875,
+      672.6142578125
+    ],
+    "text": "certain settings and/or specific situations, such as in school or when confronted with unfamiliar persons at home. It is not due to a communication disorder or a lack of familiarity with the spoken language. It has been speculated that it is a variant of social phobia (Black and Uhde 1995; Dummit et al. 1997; Steinhausen and Juzi 1996). Deficits in academic performance and social communication are associated with this understudied and rare disorder (Ford et al. 1998; Leonard and Dow 1995). Prevalence within psychiatric referrals have been estimated at less than 1% (Carlson et al. 1994). Information has been obtained on the potential benefits of psychosocial treatments for SM, particularly behavioral treatments such as stimulus fading",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.72000122070312,
+      691.7279663085938,
+      456.9613342285156,
+      703.5563354492188
+    ],
+    "text": "Departments of Psychology and Psychiatry, University of Wisconsin-Madison, Madison, Wisconsin.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      80.63999938964844,
+      61.37382507324219,
+      180.47972106933594,
+      92.3731918334961
+    ],
+    "text": "Volume 9, Number 4, 1999 Mary Ann Liebert, Inc. Pp. 293-306",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      81.12000274658203,
+      581.688720703125,
+      130.0831298828125,
+      599.7652587890625
+    ],
+    "text": "Selective",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      265.20001220703125,
+      311.62322998046875,
+      324.2388610839844,
+      322.6726989746094
+    ],
+    "text": "ABSTRACT",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      250.32000732421875,
+      50.7109260559082,
+      329.75970458984375,
+      60.513710021972656
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      76.55999755859375,
+      76.2444076538086,
+      506.6402282714844,
+      233.9898223876953
+    ],
+    "text": "procedures (Kehle et al. 1997). Yet, significant issues remain, including the cost/time constraints of these treatments, a paucity of documented generalization and maintenance of talking behavior, and improvements in responsive speech but not in spontaneous speech. Selective serotonin reuptake inhibitors (SSRIs) were recently identified as a logical first-choice pharmacotherapeutic intervention for this population of children (Leonard and Dow 1995). Research on the use of medications to treat SM is in its infancy. Golwyn and Weinstock (1990) were the first to report on the potential benefits of medication treatment. Their case involved the dopaminergic agent amantadine and, subsequently, phenelzine in the treatment of a 7-year-old girl who had a 2-year history of SM. Gradual improvement in verbal behavior was reported between the 6th and 16th week of phenelzine treatment. After the 16th week and after school had reopened, the girl reportedly spoke freely to teachers, children, and clinicians. The medication was tapered and withdrawn by week 24, and a 5-month follow-up indicated continued verbal behavior. The case study of Black and Uhde (1992) used fluoxetine in a 12-year-old girl who had never spoken a",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      77.27999877929688,
+      231.9412384033203,
+      507.1207580566406,
+      701.9315795898438
+    ],
+    "text": "word in school. Outpatient psychotherapy (at age 5-6), a program of behavioral therapy (at age 11), a placebo trial of 3 weeks in length, and a medication trial of desipramine of 10 weeks in length had all been tried unsuccessfully. Fluoxetine was then prescribed for a period of 1 month prior to the new school year. Upon return to school, the girl spoke freely with adults and peers. Improvements in both social communication and social interactions were found after 7 months; however, the girl remained uncommunicative with her physician. No information was provided about her status after medication was withdrawn. Later, Black and Uhde (1994) utilized a double-blind placebo-controlled design to investigate the efficacy of fluoxetine treatment of SM. Of 15 placebo nonresponders, six participants were assigned randomly to be treated with fluoxetine at a dose of 0.6 mg/kg daily, and the other nine participants continued placebo treatment for a period of 12 weeks. Two of nine rating scales completed by parents showed statistically significant improvements in children receiving fluoxetine when compared to children treated with placebo. The clinical significance of this was less clear. Wright et al. (1995) examined the benefits of fluoxetine treatment for a 4-year-old girl within the context of a multimodal treatment approach involving family therapy, behavioral therapy, play therapy, and pharmacotherapy. Following 24 weeks of unsuccessful systemic and behavioral treatment, a trial of fluoxetine was introduced into the multimodal approach. After 5 days of treatment, improvements in talking behavior appeared within familiar settings. After 20 days, talking behavior was reported improved in all settings. Side effects reportedly were nonexistent. Dummit et al. (1996) conducted a pilot study treating 21 children diagnosed with SM with fluoxetine for 9 weeks. Multiple measures were completed during baseline and treatment completion periods. End fluoxetine dosages ranged from 10 to 60 mg, with a mean end dose of 28.1 mg. Improvements on rating measures of anxiety and mutism were reported for the majority of children. A reduction in anxiety and increased speech in public settings, including school, were noted at the conclusion of the study. Younger children reportedly showed greater treatment gains compared to the older children. Behavioral disinhibition resulted in discontinuation of fluoxetine in two participants. Two additional case studies have been reported in the literature within the past 2 years. Guna-Dumitrescu and Pelletier (1996) reported on the successful use of fluoxetine within a multimodal treatment of an 8- year-old boy with SM, who also demonstrated substantial oppositional and aggressive behavior to the point that he required psychiatric hospitalization. Lafferty and Constantino (1998) reported on the successful use of fluvoxamine in the treatment of a 6-year-old girl with SM and comorbid obsessive compulsive disorder. The child's speech quickly improved following less than 3 weeks on medication and after 2 days on 100 mg of fluvoxamine. A variety of drugs are being used to treat SM despite a paucity of research in this area (Carlson et al. 1994). Approximately two-thirds (n = 199) of survey respondents (i.e., child and adolescent psychiatrists) reported treating a case of SM, and a third of those reported using treatments involving psychotropic medications (n = 71). Antidepressant medications (e.g., imipramine and fluoxetine) were most frequently endorsed as being potentially beneficial for treatment. Previous researchers indicated rationales for medication treatment of this disorder, involving the relationship between SM and anxiety disorders, the failure of nonmedication treatments to demonstrate signif-",
+    "line_count": 39,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      172.8000030517578,
+      51.40544128417969,
+      410.88031005859375,
+      62.77793884277344
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      78.0,
+      77.12256622314453,
+      507.6010437011719,
+      151.0902862548828
+    ],
+    "text": "icant changes in increasing speech, and the chronicity of a child's mute behavior with its relative impact on academic and social functioning (e.g., Black and Uhde 1994; Dummit et al. 1996). The present study adds to the current body of literature by investigating the effects of medication treatment both within and between individuals via a multiple baseline/across participants design (i.e., double-blind and placebo-controlled). The single-case approach is especially useful for rare and understudied disorders, such as selective mutism, where considerable barriers prevent the completion of a traditional group research design (Kazdin",
+    "line_count": 6,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      78.72000122070312,
+      161.4215850830078,
+      509.04144287109375,
+      392.55682373046875
+    ],
+    "text": "Single-case designs add experimental control to traditional clinical practice activities or case study investigations by including the following: (a) continuous or repeated assessment, (b) baseline assessment, and (c) monitoring stability of performance across baseline and treatment conditions (Kazdin 1998). In addition, multiple baseline designs involve the coordination of simple phase changes at different points in time. Phases are periods of time in which a condition such as placebo (A) or a specific dosage of medication (B) is prescribed. In this design, the strength of a treatment agent is demonstrated by observing that behavior change occurs following the onset or introduction of the intervention at different points in time. In essence, the onset of the treatment phase at different times reduces threats to validity by ruling out the effects of extraneous events on changes in behavior. We further enhanced the design utilized in this project by developing study conditions a priori and by randomizing participants to different phase lengths, specifically length of the placebo phase (A). Thus, persons were subjected to treatment after varying duration of placebo, and data were then compared both between (i.e., across children) and within the series (i.e., for the individual participant). Clinically important is the fact that these designs insure that all children will receive the treatment condition, yet at different points in time. In turn, reversing behavior as part of an ABAB design (i.e., a return to baseline) make it undesirable within clinical situations. Similar to research algorithms (Vitello and Jensen 1997), single-case designs which utilize double-blind, placebo-controlled conditions add objectivity and evaluate methods to clinical practice and they may help to more actively involve parents in making data-based treatment decisions. A multiple baseline design allows for modest interpretations regarding treatment generalization predominantly through visual analysis of interindividual and intraindividual com-",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      80.16000366210938,
+      462.25238037109375,
+      510.9598693847656,
+      705.7281494140625
+    ],
+    "text": "A participant recruitment announcement was sent to approximately 300 school psychologists who were members of the Wisconsin School Psychology Association. This letter provided diagnostic information on SM (American Psychiatric Association 1994) and a parent flier regarding study participation. These recruitment efforts identified 25 children who exhibited behavioral symptoms consistent with a diagnosis of SM. Full prebaseline assessment materials were obtained for 12 children. These materials included a 19- page SM survey (Ford et al. 1998) that thoroughly questioned parents about the diagnostic criteria for SM as outlined in the Diagnostic and Statistical Manual, 4th ed. (DSM-IV; American Psychiatric Association 1994). In addition, parents rated children on the Child Behavior Checklist (CBCL; Achenbach 1991) and on mutism, shyness, and anxiety behavioral rating scales used in previous medication studies with this population of children (Black and Uhde 1994). All 12 children met criteria for SM based on parents' responses. Of the 12 cases in which materials were returned, six parents and their children accepted invitations to participate, and two children were excluded because treatment slots were already taken. A coexisting medical condition excluded one of the six children. Informal discussions with parents or professionals associated with the other 13 nonparticipating children most often indicated parental discomfort with medication treatment, parental perceptions of appropriate academic, social, or family functioning warranting little or no intervention, or problems pertaining to transportation to and from the clinic as prohibitive or leading to disinterest in the project. A description of the five subjects based on information from the initial screening is All assessment and treatment services were provided on an outpatient basis at no charge to participants. The project lasted 16 weeks and required biweekly visits (i.e., once every 14 days) to the clinic. Follow-",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      79.44000244140625,
+      152.88442993164062,
+      102.95916748046875,
+      162.87596130371094
+    ],
+    "text": "1998).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      79.44000244140625,
+      393.2745666503906,
+      175.4391632080078,
+      404.9352722167969
+    ],
+    "text": "parisons (Kazdin 1998).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      79.68000030517578,
+      447.9954528808594,
+      133.1983184814453,
+      459.6990966796875
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      81.5999984741211,
+      668.8993530273438,
+      162.48020935058594,
+      681.7142333984375
+    ],
+    "text": "provided in Table 1.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      266.1600036621094,
+      424.6984558105469,
+      321.3600158691406,
+      436.06329345703125
+    ],
+    "text": "METHODS",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      252.24000549316406,
+      50.60325241088867,
+      331.9197082519531,
+      61.25657272338867
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      255.36000061035156,
+      76.60591125488281,
+      372.7183532714844,
+      86.37171173095703
+    ],
+    "text": "Participant Characteristics",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      79.19999694824219,
+      321.1670837402344,
+      509.2804870605469,
+      371.90380859375
+    ],
+    "text": "up ratings from patients were gathered via mailings a month after completion of the project and 20 weeks poststudy or 2 months into the following school year. Participants and their families traveled to the clinic from distances up to 150 miles. The study, including consent procedures, was approved by the University of Wisconsin Hospital and Clinics' Institutional Review Board.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      79.91999816894531,
+      398.27191162109375,
+      510.23956298828125,
+      556.4602661132812
+    ],
+    "text": "Invitations to participate in the project were contingent upon information obtained from screening measures, including meeting diagnostic criteria for SM. Diagnostic issues pertaining to ethnicity, immigration, or primary spoken language were not a concern with our participants. Adding to the reliability of a diagnosis was the fact that three of the participants had a prior primary diagnosis of SM from another clinician. Moreover, the study psychiatrist ascertained a primary diagnosis of SM for all five participants based on an extensive psychosocial interview conducted with the parents of the participants during the first clinic Inclusion criteria were age of 5-17 years, a 1-year history of failed psychosocial treatment if less than 6 years of age (to insure that mutism was not limited to the first year of formal schooling), and a DSM-IV diagnosis of SM. Exclusion criteria included the presence of a comorbid primary psychiatric disorder other than SM, a history of medication treatment for SM, the current use of psychotropic medications (e.g., imipramine for enuresis), current involvement in psychotherapy, medical contraindications (e.g., high/low blood pressure, seizures, history of head trauma), illicit substance use, pregnancy, and significant psy-",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      80.87999725341797,
+      595.8106689453125,
+      511.4402160644531,
+      657.0382690429688
+    ],
+    "text": "Independent variables included no medication, placebo, and active medication. Five treatment schedules were established for the 16-week study period. All participants underwent a 2-week no medication assessment phase. Subjects were assigned randomly to one of five treatment schedules that varied by length of the placebo phase (2, 3, 4, 5, or 6 weeks). Thus, all participants had a 2-week no-medication phase, at least a 2-week placebo-controlled phase, and a medication phase lasting between 8 and 12 weeks, dependent on",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      81.36000061035156,
+      667.319091796875,
+      510.7198791503906,
+      705.1427001953125
+    ],
+    "text": "1 and 2 were assigned randomly to a placebo phase length (i.e., 2 and 4 weeks of placebo, respectively). Approximately 7 weeks later, consent/assent was obtained for children 3, 4, and 5, who were then each randomly assigned to the three remaining conditions (i.e., 3, 5, and 6 weeks of placebo, respectively). There",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      212.63999938964844,
+      77.5637435913086,
+      245.75991821289062,
+      86.47401428222656
+    ],
+    "text": "Table 1.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      207.60000610351562,
+      104.1878890991211,
+      238.0792694091797,
+      123.35616302490234
+    ],
+    "text": "Mutism duration",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      263.5199890136719,
+      114.90972900390625,
+      295.1993713378906,
+      123.32268524169922
+    ],
+    "text": "Previous",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      168.24000549316406,
+      115.40670776367188,
+      182.4003143310547,
+      124.77688598632812
+    ],
+    "text": "Age",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      124.08000183105469,
+      126.20413970947266,
+      136.56002807617188,
+      134.2893829345703
+    ],
+    "text": "Sex",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      78.4800033569336,
+      126.2339859008789,
+      98.16056060791016,
+      134.89913940429688
+    ],
+    "text": "Child",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      162.9600067138672,
+      126.38274383544922,
+      188.1603546142578,
+      135.8353729248047
+    ],
+    "text": "(years)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      210.47999572753906,
+      126.38274383544922,
+      235.6803436279297,
+      135.8353729248047
+    ],
+    "text": "(years)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.4800109863281,
+      147.0853729248047,
+      296.64031982421875,
+      156.45726013183594
+    ],
+    "text": "Individual,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      117.5999984741211,
+      147.3683319091797,
+      143.2791290283203,
+      155.70582580566406
+    ],
+    "text": "Female",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.7200012207031,
+      179.95579528808594,
+      297.1204528808594,
+      188.36099243164062
+    ],
+    "text": "Behavioral",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      117.5999984741211,
+      180.45814514160156,
+      143.51918029785156,
+      188.8345184326172
+    ],
+    "text": "Female",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.7200012207031,
+      190.9957733154297,
+      297.1204528808594,
+      199.40097045898438
+    ],
+    "text": "Behavioral",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      116.87999725341797,
+      191.32431030273438,
+      134.63943481445312,
+      199.9246063232422
+    ],
+    "text": "Male",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.239990234375,
+      202.35877990722656,
+      296.8793029785156,
+      211.6361083984375
+    ],
+    "text": "Individual,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      117.5999984741211,
+      202.50811767578125,
+      143.7592315673828,
+      210.92320251464844
+    ],
+    "text": "Female",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      258.7200012207031,
+      224.4835662841797,
+      296.88031005859375,
+      233.70321655273438
+    ],
+    "text": "Individual,",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      117.83999633789062,
+      224.7396240234375,
+      143.75917053222656,
+      232.95945739746094
+    ],
+    "text": "Female",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      87.83999633789062,
+      255.17984008789062,
+      229.4402313232422,
+      288.3758850097656
+    ],
+    "text": "*Borderline clinical range. **Clinical range. Int = internalizing; ext = externalizing.",
+    "line_count": 3,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      79.44000244140625,
+      381.859130859375,
+      248.87939453125,
+      395.46636962890625
+    ],
+    "text": "Inclusion/diagnostic/exclusion criteria",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      80.16000366210938,
+      472.80841064453125,
+      98.63999938964844,
+      482.4341125488281
+    ],
+    "text": "visit.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      80.4000015258789,
+      555.1163940429688,
+      305.0400390625,
+      568.4397583007812
+    ],
+    "text": "chosocial stress such as an impending move or divorce.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      80.4000015258789,
+      578.56494140625,
+      178.32083129882812,
+      591.4218139648438
+    ],
+    "text": "Independent variables",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      81.36000061035156,
+      655.732421875,
+      308.8799743652344,
+      669.2466430664062
+    ],
+    "text": "the randomly determined placebo phase length. Children",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      436.32000732421875,
+      95.93175506591797,
+      491.5198669433594,
+      116.59823608398438
+    ],
+    "text": "CBCL T scores (screening)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      340.55999755859375,
+      114.73699188232422,
+      379.6796875,
+      124.35160827636719
+    ],
+    "text": "Diagnostic",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      418.32000732421875,
+      125.07708740234375,
+      437.27996826171875,
+      133.68670654296875
+    ],
+    "text": "Total",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      491.5199890136719,
+      125.36882019042969,
+      504.96044921875,
+      133.60260009765625
+    ],
+    "text": "Ext.",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      461.0400085449219,
+      125.60784912109375,
+      472.31988525390625,
+      133.84286499023438
+    ],
+    "text": "Int.",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      347.5199890136719,
+      126.38204193115234,
+      372.4794616699219,
+      136.19625854492188
+    ],
+    "text": "history",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      266.1600036621094,
+      126.81097412109375,
+      293.04010009765625,
+      136.38177490234375
+    ],
+    "text": "therapy",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      419.0400085449219,
+      145.8782196044922,
+      436.0794982910156,
+      154.89862060546875
+    ],
+    "text": "68**",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      457.20001220703125,
+      146.0090789794922,
+      474.239501953125,
+      154.86090087890625
+    ],
+    "text": "68**",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      324.4800109863281,
+      146.01251220703125,
+      388.5595397949219,
+      156.16908264160156
+    ],
+    "text": "Selective mutism,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      267.1199951171875,
+      157.77806091308594,
+      304.3192443847656,
+      166.30914306640625
+    ],
+    "text": "behavioral",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      324.4800109863281,
+      158.2574920654297,
+      398.6396789550781,
+      190.47421264648438
+    ],
+    "text": "enuresis, learning problems No prior diagnosis",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      457.44000244140625,
+      189.79820251464844,
+      474.4794921875,
+      198.818603515625
+    ],
+    "text": "66**",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      324.239990234375,
+      190.7144775390625,
+      392.1593017578125,
+      212.58547973632812
+    ],
+    "text": "Selective mutism No prior diagnosis",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      457.20001220703125,
+      201.41851806640625,
+      469.9200744628906,
+      210.0005340576172
+    ],
+    "text": "62*",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      267.6000061035156,
+      213.12266540527344,
+      304.56121826171875,
+      221.46746826171875
+    ],
+    "text": "behavioral",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      324.9599914550781,
+      223.40798950195312,
+      388.799560546875,
+      233.41583251953125
+    ],
+    "text": "Selective mutism,",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      267.6000061035156,
+      235.20262145996094,
+      304.56121826171875,
+      243.54742431640625
+    ],
+    "text": "behavioral",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      333.8399963378906,
+      235.8358154296875,
+      371.0385437011719,
+      245.3231201171875
+    ],
+    "text": "encopresis",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      313.67999267578125,
+      655.5420532226562,
+      510.7195129394531,
+      666.1494750976562
+    ],
+    "text": "1 and 2 were the first to consent/assent. Children",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      508.0799865722656,
+      702.7718505859375,
+      510.7200012207031,
+      705.5908813476562
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      173.52000427246094,
+      51.07719802856445,
+      411.6005554199219,
+      61.791893005371094
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.72000122070312,
+      76.13771057128906,
+      508.0812683105469,
+      90.19432067871094
+    ],
+    "text": "fore, a multiple baseline involving two participants was undertaken and a replication of this design involving",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.72000122070312,
+      100.53242492675781,
+      508.7996520996094,
+      210.44517517089844
+    ],
+    "text": "Medication was administered in capsule form. Placebo and active medication were indistinguishable. Parents, teachers, other school personnel, and treating psychiatrists were unaware of the timing of the medication trial, including the type of research design (i.e., AB or ABAB) being used in the study. Supporting the double-blind nature of this investigation was that poststudy interviews indicated parent, clinician, and teacher perceptions of the logistics of the study design to be inaccurate. Dosages were dispensed in 2-week intervals via 7-day pill boxes. Parents were instructed to give the medication in the early a.m. or in the evening if the morning dose was missed. Compliance was carefully assessed at each visit and found to be greater than 95% across the baseline and treatment phases. Unsolicited parent reports indicated that the double-blinded conditions added strongly to the integrity of the treatment condition.",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.95999908447266,
+      237.1873016357422,
+      509.2802429199219,
+      359.1343994140625
+    ],
+    "text": "A lack of standardized scales pertaining to mutism and a paucity of information regarding medication treatment effects with this population led to the use of multiple methods of assessment, some of which lack psychometric support. Dependent variables included behavioral rating scales of mutism, anxiety, and shyness; school and community-based behavioral observations; an analogue assessment procedure completed within the clinic; a parent-completed side effect ratings scale; and a treatment acceptability form completed by parents at the conclusion of the research project. The majority of dependent measures used in this study were similar to previous studies (e.g., Black and Uhde 1994; Dummit et al. 1996), with the exception of the analogue measure, observational recording forms, and treatment acceptability rating form. Multipleblinded informants, including parents, teachers, and psychiatrists, completed these measures. We hypothesized that mutism, anxiousness, and shyness as measured by ratings, observations and the analogue as-",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      157.9199981689453,
+      692.674072265625,
+      465.1197204589844,
+      704.4653930664062
+    ],
+    "text": "Parent Goal Attainment Scale ratings across participants (target behavior: speaking).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.4800033569336,
+      88.36585235595703,
+      307.2003479003906,
+      102.12854766845703
+    ],
+    "text": "three participants was completed 2 months later (Fig. 1).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      78.72000122070312,
+      220.75784301757812,
+      169.4404296875,
+      233.0574188232422
+    ],
+    "text": "Dependent variables",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      106.08000183105469,
+      399.0207214355469,
+      120.48046112060547,
+      406.5692443847656
+    ],
+    "text": "GAS",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      90.0,
+      627.5623779296875,
+      162.0000457763672,
+      682.8707885742188
+    ],
+    "text": "A1 = no medication A2= placebo B1 = 50 mg sertraline B2= 100 mg sertraline R= Random Order",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      121.68000030517578,
+      693.0333862304688,
+      148.7998046875,
+      702.111572265625
+    ],
+    "text": "FIG. 1.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 5,
+    "bbox": [
+      426.7200012207031,
+      389.6443176269531,
+      441.60009765625,
+      397.1624450683594
+    ],
+    "text": "GAS",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      372.7200012207031,
+      399.2107238769531,
+      500.6407470703125,
+      443.8741149902344
+    ],
+    "text": "+2 substantially improved levels of speech +1 baseline levels of speech -1 substantially worse levels of speech -2",
+    "line_count": 6,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      451.44000244140625,
+      668.53125,
+      473.04010009765625,
+      676.0404052734375
+    ],
+    "text": "WEEK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 6,
+    "bbox": [
+      253.9199981689453,
+      50.4709358215332,
+      333.3597106933594,
+      60.273719787597656
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      80.63999938964844,
+      75.54856872558594,
+      509.0397644042969,
+      101.38318634033203
+    ],
+    "text": "sessment measure would improve following onset of the sertraline treatment phase. In addition, we hypothesized that parents would rate sertraline treatment as being an acceptable intervention strategy.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      80.63999938964844,
+      111.58544921875,
+      509.52142333984375,
+      161.64720153808594
+    ],
+    "text": "Treatment efficacy measures. Goal attainment scaling (GAS) is a method for allowing parents or others to quantify the progress made on a specific target behavior to facilitate monitoring effects of interventions. Reliability studies on the GAS ratings have revealed high interrater reliability scores (Kiresuk et al. 1994). GAS ratings were completed weekly by parents. The scale consisted of 5 points, ranging from substantially",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      180.47999572753906,
+      160.27682495117188,
+      509.5199890136719,
+      175.81434631347656
+    ],
+    "text": "— 2) to substantially improved levels of speech (+2). The target behavior for all",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      80.4000015258789,
+      172.43911743164062,
+      510.9602355957031,
+      509.12548828125
+    ],
+    "text": "children was speaking. A score of 0 indicated the baseline level of the child's behavior (i.e., the child fails to speak in a number of situations). During the initial clinic visit, parents indicated that a rating of +1 would be indicative of the effectiveness of medication as all reported observing a lack of improvement or worsening symptoms over the past few years despite psychosocial interventions. Teachers (5 X per week) and parents (2 X per week) collected observational data on speech. Event recording of words spoken (responsive and spontaneous) over a 30-min time period was utilized in the school setting and in a community setting in which the parent identified the child as being mute (e.g., while shopping at the grocery or retail store). Observers completed these recordings via the use of a log book indicating the week, day, setting, and the number of words spoken (spontaneous versus responsive). We developed an analogue measure to assess participant's behavior when faced with the expectation for speech within the clinic setting. The analogue condition was a response cost program involving a loss of money based on the distance the child needed to be away from the clinician before he/she could speak the \"responsive\" phrase of \"my dog has fleas\" to his/her parents in a tone and volume similar to that used when speaking within the home setting. Specifically, children gave up a nickel for every foot they walked away from the clinician. The distance (feet) from the clinician at which the child spoke was recorded during each clinic session. The psychometric characteristics of this analogue assessment method have not been determined. Numerous behavioral ratings scales were completed to gather information on both positive and negative effects of treatment. The 113-item Behavior Problems Scale of the Child Behavior Checklist (CBCL; Achenbach 1991) was administered at pre-, post-, and follow-up phases. The CBCL is a well-researched behavior rating scale for children and has adequate to excellent psychometric characteristics. Adapted Clinical Global Impressions (CGI) ratings (National Institute of Mental Health 1985) were administered across all phases. These measures are similar to the instruments used within an investigation of the efficacy of fluoxetine (Black and Uhde 1994). While the CGI is simple and easy to use, its psychometric characteristics are unknown, and they have been found to vary across clinical populations, physicians, and medications (Aman 1993). Parent, teacher, and resident psychiatrist ratings were gathered in areas of mutism, anxiety, and shyness. Severity and change ratings were obtained. Parent, Teacher, and Resident Psychiatrist CGI severity ratings (mutism, anxiety, shyness) were completed on a 5-point scale = absent; 5 = severe). Parent and Resident Psychiatrist CGI change scales (mutism, anxiety, shyness)",
+    "line_count": 28,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      258.7200012207031,
+      506.613037109375,
+      510.0008850097656,
+      520.8633422851562
+    ],
+    "text": "= markedly improved; 4 = no change; 7 = markedly worse).",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.5999984741211,
+      520.1842041015625,
+      510.7205810546875,
+      653.6417236328125
+    ],
+    "text": "Teacher CGI change scales (mutism, anxiety, shyness) were rated on a 5-point scale (1 proved; 3 = no change; 5 = markedly worse). Parent ratings of anxiety and shyness severity were broken down situationally to include home, school, and community ratings. Abbreviated versions of the modified Parent Questionnaire (PQ; Gittleman 1985a) and the Teacher Rating Scale (TRS; Gittleman 1985b) assessed a number of behaviors related to SM (Black and Uhde 1994), including behaviors associated with anxiety, social anxiety, and mood. Total scale scores and subscale scores were computed. Whereas the modified PQ and TRS has been used in previous psychopharmacological research, the psychometric characteristics of the abbreviated versions are unknown. Finally, side effects were monitored in relation to treatment effects. Parents completed a 34-item rating scale on side effects commonly associated with SSRI treatment (Black and Uhde 1994). These ratings were obtained every 2 weeks during the clinic visit. The psychometric characteristics of this measure are un-",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.83999633789062,
+      675.8783569335938,
+      510.71978759765625,
+      701.6118774414062
+    ],
+    "text": "Treatment acceptability measures. The Treatment Evaluation Questionnaire-Parent Form (TEQ-P; Kelly et al. 1989) was completed at the conclusion of the treatment phase and examined issues of treatment ac-",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      80.63999938964844,
+      160.35971069335938,
+      178.79998779296875,
+      173.5118865966797
+    ],
+    "text": "worse levels of speech (",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      81.83999633789062,
+      498.9998474121094,
+      253.4400634765625,
+      521.8971557617188
+    ],
+    "text": "(1 were rated according to a 7-point scale (1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      82.08000183105469,
+      653.2238159179688,
+      110.6395263671875,
+      662.5719604492188
+    ],
+    "text": "known.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 6,
+    "bbox": [
+      445.9200134277344,
+      518.556396484375,
+      510.2400207519531,
+      533.6397094726562
+    ],
+    "text": "= markedly im-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      169.44000244140625,
+      48.56269073486328,
+      407.5205383300781,
+      59.422515869140625
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      74.4000015258789,
+      74.40461730957031,
+      504.4808654785156,
+      159.94882202148438
+    ],
+    "text": "ceptability, appropriateness, and effectiveness. Parents completed this measure after receiving information about the results of the dependent measures and a review of the research design used in the project. Thus, parents had reviewed the data on their children's mutism, anxiousness, and shyness during the baseline and treatment phases prior to completing this measure. The TEQ-P items were adapted from the Treatment Evaluation Interview and have been found to differentiate acceptable from unacceptable treatments (Kazdin 1980). Examples of items include \"this was an acceptable intervention for my child's problem behavior\" and \"the intervention was a good way to handle my child's behavior problem.\"",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      74.87999725341797,
+      219.83523559570312,
+      505.200439453125,
+      378.1078796386719
+    ],
+    "text": "Results of Parent GAS ratings are illustrated in Fig. 1. Visual analysis indicated replication of improvement in ratings across four of the five participants upon onset of the randomly determined medication treatment phase. The fifth participant (child 3) demonstrated improved parental ratings on this measure five weeks after treatment onset. While we were initially concerned about improved parent ratings for child 5 during the baseline phase, the return to prebaseline levels during weeks 6-8 resulted in our decision to go ahead with the implementation of the treatment phase. It is also noted that, at week 16, all Parent GAS ratings were at or above the predetermined goals of +1. To illustrate the magnitude of changes in GAS ratings (in standard deviation units) from across placebo and treatment phases, effect size (ES) data were calculated for each child (range = -1.12 to -2.05), and then ratings were pooled to calculate a group mean (ES = -1.57). This means that, in standard deviation units, the mean GAS rating during the placebo phase was 1.57 lower than the mean GAS ratings during the treatment phase. Teacher and parent observations of spontaneous speech are provided in Fig. 2. Visual analysis of the collected data indicated an increase in the frequency of spontaneous speech in previously mute situations dur-",
+    "line_count": 13,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      263.2799987792969,
+      449.5533447265625,
+      344.4004821777344,
+      457.80706787109375
+    ],
+    "text": "t—•—•—t—»—t—*",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      112.80000305175781,
+      690.7457885742188,
+      506.1604919433594,
+      702.8880615234375
+    ],
+    "text": "Frequency of spontaneous speech in selectively mute situation according to parent and teacher observations.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      75.5999984741211,
+      202.70594787597656,
+      156.47964477539062,
+      216.0788116455078
+    ],
+    "text": "Treatment efficacy",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      245.27999877929688,
+      409.84075927734375,
+      253.43984985351562,
+      417.0027770996094
+    ],
+    "text": "B2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      176.16000366210938,
+      410.4428405761719,
+      184.31985473632812,
+      417.4475402832031
+    ],
+    "text": "A2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      201.1199951171875,
+      411.2256774902344,
+      208.08009338378906,
+      417.8402404785156
+    ],
+    "text": "B1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      145.44000244140625,
+      412.0980224609375,
+      152.6398162841797,
+      418.82550048828125
+    ],
+    "text": "A1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      124.08000183105469,
+      450.39129638671875,
+      127.44001770019531,
+      456.58636474609375
+    ],
+    "text": "o",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      113.04000091552734,
+      481.9185485839844,
+      128.1596221923828,
+      491.8145751953125
+    ],
+    "text": "-10",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      223.67999267578125,
+      496.6976623535156,
+      243.83978271484375,
+      510.22784423828125
+    ],
+    "text": "*=*",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      143.0399932861328,
+      500.99774169921875,
+      165.1199493408203,
+      510.740234375
+    ],
+    "text": "-t—r",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      171.36000061035156,
+      501.3352355957031,
+      217.4404296875,
+      510.6429443359375
+    ],
+    "text": "t—t—t—t-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      125.27999877929688,
+      501.6861877441406,
+      128.40005493164062,
+      507.65594482421875
+    ],
+    "text": "o",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      105.83999633789062,
+      617.2350463867188,
+      176.87977600097656,
+      680.2921752929688
+    ],
+    "text": "A1 = no medication A2= placebo B1 = 50 mg sertraline B2= 100 mg sertraline R= Random Order Nota: parent - solid Una teacher - dotted line",
+    "line_count": 7,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      76.55999755859375,
+      691.929443359375,
+      103.43998718261719,
+      700.924560546875
+    ],
+    "text": "FIG. 2.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 7,
+    "bbox": [
+      264.4800109863281,
+      182.3331756591797,
+      313.68084716796875,
+      193.3440704345703
+    ],
+    "text": "RESULTS",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      313.67999267578125,
+      496.8324890136719,
+      319.44000244140625,
+      509.7252197265625
+    ],
+    "text": "t",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      328.79998779296875,
+      499.0951232910156,
+      345.1199645996094,
+      509.3128662109375
+    ],
+    "text": "f t",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      353.760009765625,
+      507.6222839355469,
+      374.4000549316406,
+      514.962646484375
+    ],
+    "text": "WEEK",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 7,
+    "bbox": [
+      446.6400146484375,
+      667.7565307617188,
+      479.760498046875,
+      676.655517578125
+    ],
+    "text": "16 W£±Ji",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      256.32000732421875,
+      49.457427978515625,
+      335.7601318359375,
+      59.25812911987305
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.55999755859375,
+      74.9142074584961,
+      511.9200439453125,
+      124.41456604003906
+    ],
+    "text": "ing the treatment phase for four children, three of which exhibited no speech during the baseline phase. Similar speaking behavior within the school setting was observed by only the teachers of children 4 and 5, albeit 4—7 weeks following the onset of the sertraline treatment phase. The emergence of speaking behavior in the school setting for children 4 and 5 was supported by numerous school personnel other than the",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.55999755859375,
+      134.6837921142578,
+      512.1602172851562,
+      160.45318603515625
+    ],
+    "text": "Results on the analogue assessment measure were quite varied. Interpretation of data from this measure are limited. Improvement was observed during the baseline phase for children 1 and 4, whereas children 2",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      186.0,
+      184.95660400390625,
+      427.43994140625,
+      206.70982360839844
+    ],
+    "text": "Group Outcome Data Pertaining to Baseline Versus Treatment Conditions (Mutism and Other Behaviors)",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      263.760009765625,
+      475.9822692871094,
+      334.5599670410156,
+      508.6426086425781
+    ],
+    "text": "1-7 (more difficult) 1-5 (more difficult) 1-7 (more difficult)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      263.760009765625,
+      519.9741821289062,
+      334.5599670410156,
+      552.5625610351562
+    ],
+    "text": "1-7 (more difficult) 1-5 (more difficult) 1-7 (more difficult)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      264.0,
+      564.1341552734375,
+      334.5599670410156,
+      596.5167236328125
+    ],
+    "text": "1-7 (more difficult) 1-5 (more difficult) 1-7 (more difficult)",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.55999755859375,
+      124.04825592041016,
+      155.0408172607422,
+      136.4211883544922
+    ],
+    "text": "observing teacher.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      166.8000030517578,
+      185.18675231933594,
+      199.91998291015625,
+      194.2734375
+    ],
+    "text": "Table 2.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.55999755859375,
+      235.2426300048828,
+      121.43946838378906,
+      243.535888671875
+    ],
+    "text": "Instrument",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      82.55999755859375,
+      255.0846710205078,
+      217.19998168945312,
+      693.8262329101562
+    ],
+    "text": "Goal Attainment Scaling-Parent CGI Mutism Severity Ratings Parent Teacher Resident Psychiatrist CGI Anxiety Severity Ratings Parent Home School Community Teacher Resident psychiatrist CGI Shyness Severity Ratings Parent Home School Community Teacher Resident Psychiatrist CGI Global Mutism Change Ratings Parent Teacher Resident Psychiatrist CGI Global Anxiety Change Ratings Parent Teacher Resident Psychiatrist CGI Global Shyness Change Ratings Parent Teacher Resident Psychiatrist Abbreviated Parent Questionnaire Total Score Anxiety Subscale Social Anxiety Subscale Abbreviated Teacher Rating Scale Total Score Anxiety Subscale Social Anxiety Subscale Mood Subscale",
+    "line_count": 40,
+    "column": 1
+  },
+  {
+    "page": 8,
+    "bbox": [
+      386.8800048828125,
+      215.37416076660156,
+      484.8008728027344,
+      243.29986572265625
+    ],
+    "text": "Group mean (range) Baseline",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      473.5199890136719,
+      235.33123779296875,
+      509.9996643066406,
+      243.51034545898438
+    ],
+    "text": "Treatment",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      281.2799987792969,
+      235.54588317871094,
+      316.3202819824219,
+      264.8337707519531
+    ],
+    "text": "Range -2 to +2",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      380.1600036621094,
+      255.0001983642578,
+      417.5995178222656,
+      265.739501953125
+    ],
+    "text": "0.07 (0-1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.9200134277344,
+      255.0001983642578,
+      507.8395080566406,
+      265.739501953125
+    ],
+    "text": "1.0 (0-2)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.4800109863281,
+      277.0802001953125,
+      417.5995178222656,
+      287.81951904296875
+    ],
+    "text": "4.7 (4-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      474.7200012207031,
+      277.0802001953125,
+      507.8395080566406,
+      287.81951904296875
+    ],
+    "text": "4.0 (2-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      276.9599914550781,
+      277.6150207519531,
+      320.6393127441406,
+      287.6653137207031
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.4800109863281,
+      288.1202087402344,
+      417.5995178222656,
+      298.8595275878906
+    ],
+    "text": "4.8 (4-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      288.1202087402344,
+      507.8395080566406,
+      298.8595275878906
+    ],
+    "text": "3.9 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      276.9599914550781,
+      288.655029296875,
+      320.6393127441406,
+      298.705322265625
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.4800109863281,
+      299.1601867675781,
+      417.5995178222656,
+      309.8995056152344
+    ],
+    "text": "4.2 (4-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      299.27935791015625,
+      507.8395080566406,
+      309.8651428222656
+    ],
+    "text": "3.9 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      276.9599914550781,
+      299.69500732421875,
+      320.6393127441406,
+      309.74530029296875
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.20001220703125,
+      332.8150329589844,
+      320.6393127441406,
+      342.8653259277344
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      476.1600036621094,
+      332.8157043457031,
+      508.08038330078125,
+      342.84423828125
+    ],
+    "text": "1.2(1-3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      385.67999267578125,
+      333.1456604003906,
+      417.84051513671875,
+      343.0583190917969
+    ],
+    "text": "1.4(1-2)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      343.271728515625,
+      508.0803527832031,
+      354.073486328125
+    ],
+    "text": "3.0 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      343.3201904296875,
+      417.8395080566406,
+      354.05950927734375
+    ],
+    "text": "3.1 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.20001220703125,
+      343.8550109863281,
+      320.6393127441406,
+      353.9053039550781
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      354.3601989746094,
+      417.8395080566406,
+      365.0995178222656
+    ],
+    "text": "2.3 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      354.3601989746094,
+      507.8395080566406,
+      365.0995178222656
+    ],
+    "text": "2.3 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.20001220703125,
+      354.89501953125,
+      320.6393127441406,
+      364.9453125
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      365.16754150390625,
+      417.84033203125,
+      376.9665832519531
+    ],
+    "text": "2.7 (2-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      365.40020751953125,
+      507.8395080566406,
+      376.1395263671875
+    ],
+    "text": "2.2 (1-3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      276.0,
+      365.7970275878906,
+      322.3206787109375,
+      376.0251159667969
+    ],
+    "text": "1-5 (wevere)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.9200134277344,
+      376.3917236328125,
+      508.0803527832031,
+      387.1934814453125
+    ],
+    "text": "1.9 (1-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      376.5593566894531,
+      417.8395080566406,
+      387.3851623535156
+    ],
+    "text": "2.8 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.20001220703125,
+      376.94488525390625,
+      320.8805847167969,
+      387.03399658203125
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.9200134277344,
+      409.5117492675781,
+      508.0803527832031,
+      420.073486328125
+    ],
+    "text": "1.1 (1-2)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      385.9200134277344,
+      409.67938232421875,
+      417.8395080566406,
+      420.2651672363281
+    ],
+    "text": "1.3 (1-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.44000244140625,
+      410.09503173828125,
+      320.8793029785156,
+      420.14532470703125
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      420.3601989746094,
+      507.8395080566406,
+      431.0995178222656
+    ],
+    "text": "3.3 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.7200012207031,
+      420.6001892089844,
+      417.8395080566406,
+      431.0995178222656
+    ],
+    "text": "4.2 (3-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.44000244140625,
+      421.2457580566406,
+      320.8793029785156,
+      431.15338134765625
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      474.9599914550781,
+      430.3699951171875,
+      507.8394470214844,
+      442.4365234375
+    ],
+    "text": "2.3 (l^t)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      431.40020751953125,
+      417.8395080566406,
+      442.1395263671875
+    ],
+    "text": "3.5 (2-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.44000244140625,
+      431.9350280761719,
+      320.8793029785156,
+      441.9853210449219
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      442.27386474609375,
+      508.0803527832031,
+      453.2274475097656
+    ],
+    "text": "3.5 (2-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.44000244140625,
+      442.8662109375,
+      320.8793029785156,
+      453.0566711425781
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.7200012207031,
+      442.8843994140625,
+      408.72015380859375,
+      453.0514221191406
+    ],
+    "text": "4.0 (4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      453.4317321777344,
+      508.0803527832031,
+      464.2334899902344
+    ],
+    "text": "3.5 (2-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.7200012207031,
+      453.4801940917969,
+      417.8395080566406,
+      464.2195129394531
+    ],
+    "text": "4.0 (3-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      277.44000244140625,
+      454.1257629394531,
+      320.8793029785156,
+      464.2734069824219
+    ],
+    "text": "1-5 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      475.2137145996094,
+      508.080322265625,
+      487.1593933105469
+    ],
+    "text": "2.8 (1-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      475.3275451660156,
+      417.84033203125,
+      487.1265869140625
+    ],
+    "text": "3.9 (3-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      486.6001892089844,
+      508.0794982910156,
+      497.3395080566406
+    ],
+    "text": "2.5 (1-3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      486.9562072753906,
+      417.8395080566406,
+      508.3795166015625
+    ],
+    "text": "3.0 (3) 3.9 (3-1)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      497.7593688964844,
+      508.0794982910156,
+      508.58514404296875
+    ],
+    "text": "3.0 (1-1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      385.20001220703125,
+      519.72021484375,
+      417.8395080566406,
+      530.4595336914062
+    ],
+    "text": "3.9 (3-1)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      519.8394165039062,
+      508.0794982910156,
+      541.259521484375
+    ],
+    "text": "2.4 (1-1) 2.2 (1-3)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      530.87939453125,
+      424.5600891113281,
+      553.1296997070312
+    ],
+    "text": "2.9 (2-4) 3.9 (3-4.5)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      541.5601806640625,
+      508.0794982910156,
+      552.2994995117188
+    ],
+    "text": "3.7 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      563.3577880859375,
+      508.3201599121094,
+      575.220947265625
+    ],
+    "text": "2.7 (1-4)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      385.20001220703125,
+      563.6401977539062,
+      417.8395080566406,
+      574.3795166015625
+    ],
+    "text": "3.9 (3-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      574.6317138671875,
+      508.3203430175781,
+      585.4334716796875
+    ],
+    "text": "2.5 (1-3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      385.20001220703125,
+      574.68017578125,
+      417.8395080566406,
+      596.4595336914062
+    ],
+    "text": "3.1 (3-1) 3.9 (3-1)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      585.72021484375,
+      508.0794982910156,
+      596.4595336914062
+    ],
+    "text": "3.4 (1-5)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      381.3599853515625,
+      607.8594970703125,
+      422.4002380371094,
+      618.5223999023438
+    ],
+    "text": "17.9 (6-55)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      607.8594970703125,
+      512.6401977539062,
+      618.5223999023438
+    ],
+    "text": "8.2 (0-21)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      274.32000732421875,
+      608.3350219726562,
+      323.2793273925781,
+      618.3853149414062
+    ],
+    "text": "0-93 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      381.3599853515625,
+      618.8994140625,
+      422.4002380371094,
+      629.3224487304688
+    ],
+    "text": "10.8 (3-26)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      618.8994140625,
+      512.6401977539062,
+      629.3224487304688
+    ],
+    "text": "5.4 (0-14)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      274.32000732421875,
+      619.2457885742188,
+      323.2793273925781,
+      639.17578125
+    ],
+    "text": "0-36 (severe) 0-9",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      630.419921875,
+      417.8410339355469,
+      640.4429931640625
+    ],
+    "text": "2.9(0-7)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.9200134277344,
+      630.505615234375,
+      508.0805358886719,
+      640.4183349609375
+    ],
+    "text": "1.2(0-3)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      295.20001220703125,
+      631.5257568359375,
+      323.2793273925781,
+      640.4334106445312
+    ],
+    "text": "(severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      380.6400146484375,
+      651.6633911132812,
+      422.4002380371094,
+      662.2359008789062
+    ],
+    "text": "21.9 (8-36)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      471.6000061035156,
+      651.8977661132812,
+      512.6401977539062,
+      662.4083251953125
+    ],
+    "text": "15.8 (3-35)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      274.32000732421875,
+      652.0150756835938,
+      323.2793273925781,
+      662.0653686523438
+    ],
+    "text": "0-90 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      662.5795288085938,
+      422.4002380371094,
+      673.242431640625
+    ],
+    "text": "6.0 (0-12)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      474.9599914550781,
+      662.7811279296875,
+      512.8792114257812,
+      673.2534790039062
+    ],
+    "text": "4.0 (0-10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      274.55999755859375,
+      663.165771484375,
+      323.2806091308594,
+      684.3448486328125
+    ],
+    "text": "0-18 (severe) 0-12 (severe)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.20001220703125,
+      674.263427734375,
+      512.8798217773438,
+      684.3850708007812
+    ],
+    "text": "4.7(0-10)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      384.9599914550781,
+      674.4326782226562,
+      422.3998718261719,
+      695.3395385742188
+    ],
+    "text": "5.9(1-11) 4.2 (0-7)",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      475.44000244140625,
+      684.6002197265625,
+      508.31951904296875,
+      695.3395385742188
+    ],
+    "text": "2.2 (0-8)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 8,
+    "bbox": [
+      274.55999755859375,
+      685.2457885742188,
+      323.5193176269531,
+      695.393310546875
+    ],
+    "text": "0-24 (severe)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 9,
+    "bbox": [
+      167.52000427246094,
+      54.06884002685547,
+      405.5989990234375,
+      64.87063598632812
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.72000122070312,
+      79.03414154052734,
+      502.5602722167969,
+      224.1922149658203
+    ],
+    "text": "and 5 only earned nickels (i.e., said \"my dog has fleas\" at less than 40 feet from the clinician) at a point that coincided with onset of the sertraline phase. Child 3 failed to speak within the clinic setting throughout the duration of the project. Parent ratings on the CBLC at the end of the study resulted in scores that fell below clinically at-risk levels (by child, T scores = 54, 47, 34, 45, and 32). Pre- and posttest results were not statistically significant, as the majority of subjects failed to demonstrate clinical levels of behavioral problems initially. Group summaries of self-report and ratings (parent, teacher, and clinician) on areas of mood, anxiousness, shyness, and mutism are provided in Table 2. Ratings across all measures demonstrated change in a positive direction, with many measures changing only slightly across phases. Ranges of scores are provided to demonstrate the variability across participants and individual responsivity to the sertraline treatment. Group quantitative analyses, as indicated by the slight group improvements depicted in Table 2, failed to accurately capture the clinical changes reported for individual children. In contrast, Table 3 summarizes par-",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.95999908447266,
+      222.93544006347656,
+      503.0393981933594,
+      369.1956787109375
+    ],
+    "text": "ents' reports of behavioral change or \"firsts\" following onset of the sertraline phase of the project. Individual differences in the situationally specific nature of speaking behavior and behaviors associated with SM (e.g., anxiety, mood lability) were best illustrated by these parental reports. Data from the treatment acceptability rating forms were favorable. To the item \"overall, the intervention was beneficial for my child,\" all parents, except the parent of child 2, \"strongly agreed.\" The parent of child 2 \"slightly agreed\" with the item, as they hoped their daughter would have generalized improvements of speaking behavior to the school setting. Responses to other items on this measure are illustrated in Table 4. Minimal side effects were reported by parents, children, and psychiatrists. No children were dropped from the study or had medication altered due to the appearance of negative effects. The parents of child 5 did indicate problems with insomnia in their ratings occurring 2 weeks after onset of 100 mg of sertraline treatment. However, later ratings did not reflect the existence of this symptom. Notably, another participant of the same age and sex experienced this side effect, to a lesser degree, during the placebo phase.",
+    "line_count": 12,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      149.75999450683594,
+      386.8203125,
+      469.9212951660156,
+      396.50506591796875
+    ],
+    "text": "Examples of Behavioral Changes Following Onset of Sertraline Treatment",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      107.27999877929688,
+      387.67877197265625,
+      140.1599884033203,
+      396.5439147949219
+    ],
+    "text": "Table 3.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      217.44000244140625,
+      405.4293518066406,
+      487.91998291015625,
+      417.0103454589844
+    ],
+    "text": "Parent report of behavioral \"firsts\" during the sertraline treatment phase",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      74.63999938964844,
+      406.5539855957031,
+      94.32054901123047,
+      415.2191467285156
+    ],
+    "text": "Child",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      198.0,
+      424.41595458984375,
+      503.0396423339844,
+      699.99951171875
+    ],
+    "text": "\"Spoke to strangers who came to the family's home\" \"Spoke to other children on the bus\" \"Ordered food at a restaurant\" \"Spoke to extended family, including aunts, uncles, and cousins\" \"Exhibited reduction in mood lability within the home setting\" \"Spoke to pastor at church\" \"Called mother and school friends on the telephone\" \"Talked with family members at school\" \"Ordered food at restaurant\" \"Read books with other children present\" \"Spoke to Ronald McDonald at the store\" \"Spoke to parents outside of the home and in multiple settings\" \"Ate lunch in the presence of other children\" \"Did classroom activities like other children such as cutting and pasting\" \"Talked with strangers within and outside of the home setting\" \"Spoke to others at school\" \"Spoke to brother's friend in the home\" \"Spoke to extended family, including uncle and grandparents\" \"Talked spontaneously and responsively to teacher and peers within the classroom\" \"Spontaneously spoke to project personnel in the clinic\" \"Spoke to parents in the presence of project personnel\" \"Talked with teacher and peers at school\" \"Spoke more freely with family members outside of the home setting\" \"Talked to extended family members\" \"Exhibited reduction in mood lability within the home setting\"",
+    "line_count": 25,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      256.79998779296875,
+      54.85244369506836,
+      336.2401428222656,
+      65.57657623291016
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      165.1199951171875,
+      80.32942962646484,
+      470.4007263183594,
+      90.61415100097656
+    ],
+    "text": "Parent Ratings for the Items from the Treatment Evaluation Inventory",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      95.04000091552734,
+      599.7261352539062,
+      513.3596801757812,
+      612.056640625
+    ],
+    "text": "1, strongly disagree; 2, disagree; 3, slightly disagree; 4, slightly agree; 5, agree; 6, strongly agree; X, not rated; PI,",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      86.87999725341797,
+      669.2826538085938,
+      515.0407104492188,
+      706.8748168945312
+    ],
+    "text": "At 4-week poststudy follow-up, all children were reported as continuing with 100 mg of sertraline treatment. Continued improvements were evident via teacher and parent ratings of mutism, anxiety, and shyness. At the 20-week follow-up, the following GAS ratings were reported (+1, +2, +1, +2, +1). Chil-",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      122.4000015258789,
+      81.7112045288086,
+      155.75999450683594,
+      90.84368896484375
+    ],
+    "text": "Table 4.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      82.08000183105469,
+      120.76937103271484,
+      97.44005584716797,
+      129.05397033691406
+    ],
+    "text": "Item",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      86.63999938964844,
+      140.08087158203125,
+      246.96090698242188,
+      229.3607940673828
+    ],
+    "text": "1. Acceptable intervention for this problem. 2. Treatment is appropriate for other behavior problems 3. Intervention was effective in changing this problem. 4. Would suggest use of intervention to other parents. 5. My child's behavior was severe enough",
+    "line_count": 8,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      84.23999786376953,
+      229.00430297851562,
+      255.12091064453125,
+      591.955810546875
+    ],
+    "text": "to warrant this intervention. 6. Most parents would find the intervention suitable for this problem 7. Treatment did not result in negative side effects. 8. Intervention would be appropriate for a variety of children. 9. Intervention was a fair way to handle my child's problem. 10. Like the procedures used in the intervention. 11. Intervention was a good way to handle my child's behavior problem. 12. Overall, the intervention was beneficial for my child. 13. Intervention quickly improved my child's behavior. 14. Intervention provided a lasting improvement in my child's behavior. 15. Behavior changed to a point that noticeably deviated from other children. 16. Soon after using the intervention I noticed a positive change in the problem. 17. Behavior remained at improved level upon discontinuation of medication. 18. Behavior changed in other settings in addition to within the home. 19. Behavior of child and peer are now more alike. 20. Intervention produced improvement to a level which is no longer a problem. 21. Other behaviors related to the problem also were improved by the intervention.",
+    "line_count": 33,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      85.19999694824219,
+      612.325927734375,
+      158.88034057617188,
+      623.126953125
+    ],
+    "text": "parent of child 1, etc.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      86.87999725341797,
+      654.1771240234375,
+      159.84051513671875,
+      665.8519287109375
+    ],
+    "text": "Follow-up phase",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      374.6400146484375,
+      99.75372314453125,
+      426.9610290527344,
+      110.14069366455078
+    ],
+    "text": "Parent ratings",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      450.0,
+      118.90545654296875,
+      459.8402404785156,
+      127.427001953125
+    ],
+    "text": "P5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      491.5199890136719,
+      119.18722534179688,
+      511.4404296875,
+      127.34577178955078
+    ],
+    "text": "Mean",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      285.1199951171875,
+      119.22538757324219,
+      293.9997863769531,
+      128.26229858398438
+    ],
+    "text": "PI",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      367.67999267578125,
+      119.30901336669922,
+      377.03961181640625,
+      127.61983489990234
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      408.7200012207031,
+      119.34870147705078,
+      418.3203125,
+      127.6083984375
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      326.3999938964844,
+      119.66957092285156,
+      335.7596130371094,
+      127.82506561279297
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.32000732421875,
+      140.02137756347656,
+      507.35968017578125,
+      159.2992401123047
+    ],
+    "text": "5.4 5.0",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.55999755859375,
+      173.21270751953125,
+      507.1200866699219,
+      181.3384246826172
+    ],
+    "text": "5.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.55999755859375,
+      194.9325408935547,
+      507.1200866699219,
+      203.21302795410156
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.55999755859375,
+      217.0613555908203,
+      507.3603210449219,
+      225.2789764404297
+    ],
+    "text": "5.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.55999755859375,
+      239.14137268066406,
+      507.3603210449219,
+      247.35899353027344
+    ],
+    "text": "5.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.55999755859375,
+      261.2926940917969,
+      507.1200866699219,
+      269.41839599609375
+    ],
+    "text": "4.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      496.79998779296875,
+      283.3727111816406,
+      507.3600769042969,
+      291.4984130859375
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.0400085449219,
+      305.45269775390625,
+      507.60009765625,
+      313.5783996582031
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.2799987792969,
+      327.2926940917969,
+      507.840087890625,
+      335.41839599609375
+    ],
+    "text": "5.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.2799987792969,
+      349.2525939941406,
+      507.840087890625,
+      357.5330505371094
+    ],
+    "text": "5.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.5199890136719,
+      371.45269775390625,
+      508.080078125,
+      379.5783996582031
+    ],
+    "text": "5.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.2799987792969,
+      393.51629638671875,
+      508.3196716308594,
+      401.6631774902344
+    ],
+    "text": "4.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.760009765625,
+      415.3727111816406,
+      508.3200988769531,
+      423.4984130859375
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      497.5199890136719,
+      437.3813781738281,
+      508.3203125,
+      445.5989685058594
+    ],
+    "text": "4.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      498.0,
+      459.53271484375,
+      508.5600891113281,
+      467.6584167480469
+    ],
+    "text": "5.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      453.6000061035156,
+      480.5576171875,
+      459.6002197265625,
+      489.7334289550781
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      371.0400085449219,
+      481.296630859375,
+      377.04022216796875,
+      490.13873291015625
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      500.3999938964844,
+      481.325927734375,
+      506.1600646972656,
+      489.82110595703125
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      412.55999755859375,
+      481.43536376953125,
+      418.320068359375,
+      490.0987243652344
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      330.0,
+      481.5366516113281,
+      336.0002136230469,
+      490.3787536621094
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      288.9599914550781,
+      482.0459289550781,
+      294.7200622558594,
+      490.5411071777344
+    ],
+    "text": "X",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      498.0,
+      503.6213684082031,
+      508.8003234863281,
+      511.8389587402344
+    ],
+    "text": "5.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      498.0,
+      525.53271484375,
+      508.5600891113281,
+      533.658447265625
+    ],
+    "text": "5.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      498.0,
+      547.3013305664062,
+      508.8003234863281,
+      555.5189819335938
+    ],
+    "text": "4.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      498.0,
+      569.3110961914062,
+      509.0396728515625,
+      577.6192626953125
+    ],
+    "text": "5.4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      171.1199951171875,
+      51.2426643371582,
+      409.43896484375,
+      61.23434066772461
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      76.08000183105469,
+      76.71472930908203,
+      506.63970947265625,
+      195.36619567871094
+    ],
+    "text": "1 and 3 were maintained on 100 mg of sertraline treatment. Both reportedly increased the number of dren individuals and situations in which they now speak, however speech within the classroom remained nonexistent. A brief discontinuation of medication was reported for child 1. However, parents reinstated treatment following the emergence of \"obstinate and troubling\" behaviors. At 20-week follow-up, children 2 and 4 were being treated with 50 mg of sertraline and reportedly no longer met the criteria for SM, as they spoke normally in all situations and settings. Child 5 was no longer taking sertraline. Upon discontinuation from medication, she reportedly demonstrated increased levels of anxiousness, but maintained the gains she made in speaking. She reportedly exhibits diminished speech (e.g., quiet voice) only during \"show and tell\" and large group discussions within her regular classroom, and her parents no longer report her to meet the criteria for SM.",
+    "line_count": 11,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      257.5199890136719,
+      220.333984375,
+      323.9984436035156,
+      231.18923950195312
+    ],
+    "text": "DISCUSSION",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      76.55999755859375,
+      241.1059112548828,
+      506.8799133300781,
+      704.3743896484375
+    ],
+    "text": "Treatment efficacy Improvements in talking were observed within home and community situations during the sertraline treatment phase. However, the results (i.e., talking) did not consistently correspond to the randomly determined onset of the sertraline phase across all children, which is needed to demonstrate the internal validity of a multiple baseline design. Visual analysis of graphically presented data indicated that changes in parent GAS ratings were replicated across four of the five participants. During the 16-week study, improvements in mutism behavior generalized from previously mute community-based settings to the school setting for two of the five participants as evident from parent and teacher behavioral observations. Poststudy diagnostic interviews failed to yield a diagnosis of SM for these two children. Additionally, a third child was reported by parents to no longer meet criteria for selective mutism when assessed at 20 weeks poststudy (i.e., 50 mg sertraline), as she now spoke within the school and other settings where she was previously mute. Consistent with previous investigations, parent global ratings and general impressions captured emerging treatment effects across participants (Black and Uhde 1994) and, therefore, must be interpreted with considerable caution. Effect size data from global ratings of change (i.e., parent GAS ratings) were calculated and are similar to results from a study examining effect size data (i.e., median = — 1.635) using best-evidence synthesis techniques to evaluate psychosocial intervention studies (Pionek et al. 1996). The average effect size for parent GAS ratings (i.e., a global measure of mutism change) across all participants in this research study was —1.57 (median = —1.73). This finding is indicative of the substantial changes that occurred between the randomly determined baseline and treatment phases. Considering factors pertaining to the time, money, and resource allocation associated with psychosocial techniques, the clinically significant changes associated with the onset of sertraline treatment in our study supports additional research in this area. Improvements in mutism functioning as indicated by parent GAS ratings demonstrated a rapid onset (i.e., within days of beginning treatment) of treatment effects for four of five participants. Such a progression of improvement also was discussed in three case studies, one involving fluoxetine (Wright et al. 1995), fluvoxamine (Lafferty and Constantino 1998), and phenelzine (Golwyn and Weinstock 1990). The role of disinhibitory side effects of SSRIs comes into question given the immediacy of behavioral change as some parents reported their children to be more sociable and outgoing within the home setting after and only after the start of sertraline treatment. Other studies more typically found 6-10 weeks of treatment prior to observed behavioral changes (Black and Uhde 1992, 1994; Dummit et al. 1996). This is the period of time that passed prior to speech emerging within the school setting for two of the five participants in this project. Frequent and repeated measurement across phases helped to highlight varying levels of individual progression or improvement across situations that may have gone unnoticed within group studies. These included individual improvements in anxiousness, mood, and shyness. Previous studies have made reference to possible age-change relationships regarding medication or psychosocial treatment effects (Black and Uhde 1994; Kehle et al. 1997). Interestingly, both participants who became asymptomatic at the conclusion of this project were the youngest (i.e., 5 years of age at the start of treatment).",
+    "line_count": 38,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      251.52000427246094,
+      52.28324508666992,
+      331.19970703125,
+      62.675575256347656
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      77.5199966430664,
+      78.45968627929688,
+      508.5599365234375,
+      193.9088897705078
+    ],
+    "text": "Treatment acceptability Item endorsements on a measure of treatment acceptability were positive across all participants. It should be noted that all parents chose to maintain their children on 100 mg of sertraline treatment at the end of the study for an indefinite period of time. This level of commitment to a specific method of treatment was unprecedented in the treatment histories of our participants, primarily due to the treatment resistant nature of the mutism behavior. Acceptability ratings also provided some information about social validity issues as parents agreed that the behavior of their \"children and peers were more alike\" at the completion of the project. The level of acceptability ratings of sertraline treatment in this study parallels previously published research on the social validity of psychosocial treatments (Elliott and Busse 1993).",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      78.0,
+      204.02601623535156,
+      507.83966064453125,
+      234.62734985351562
+    ],
+    "text": "Study limitations The findings of this study are limited by a number of factors, including a lack of replication of behav-",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      78.4800033569336,
+      232.44496154785156,
+      509.2803955078125,
+      609.6825561523438
+    ],
+    "text": "ioral change immediately following sertraline onset across all participants, the nonconcurrent multiple baseline methodology, a lack of a return to baseline phase to demonstrate the controlling nature of the sertraline treatment, and the inherent limited use of statistical methods with single-case data when studying limited numbers of participants. Additional support for the efficacy of sertraline treatment via statistical testing (i.e., randomization tests) would have been obtainable with a concurrent multiple baseline across participants design. Finally, consistent, well-defined, and repeated observations within similar environments may help to more descriptively explore the medication effects on SM. Clinical implications The multitude of data collected from this study indicated a \"ladder-like\" nature to SM, similar to hierarchical structures developed for anxious conditions such as fear of flying. This paradigm is consistent with behavioral techniques focusing on shaping and stimulus fading procedures to improve mutism behaviors. For example, children with SM may need to go through a series of stages or steps prior to speaking in \"the most uncomfortable\" of situations. In this study, the two children who were asymptomatic at the end of treatment appeared to \"climb their ladder\" more quickly than the other three participants. In addition, they retrospectively appeared to start at different \"rungs,\" which we hypothesize led to a lack of findings demonstrating group change across our participants. For example, both clinically improved participants first demonstrated behavioral changes in \"previously uncomfortable\" social situations (i.e., increased eye contact and other nonverbal behaviors). Next, they began speaking within the home to previously unspoken-to individuals. Third, they spoke in the community or in settings outside the home to individuals with whom they would previously not speak. Fourth, they spoke to family members within the school situation. Fifth, they spoke to a nonthreatening, non-family member within the school (i.e., a teacher and a friend who were previously unspoken to). Finally, this behavior then generalized to others, including classmates within the above situations. Follow-up data indicated continued improvements consistent with a \"ladder-like\" analogy, and one additional participant conversed at the \"uppermost rung.\" Clarifying client's position on this ladder during initial diagnostic sessions may prove helpful in individually monitoring treatment effects and more strongly demonstrating treatment effects for individual clients as well as groups of participants. For example, child 3, who failed to demonstrate change on the majority of dependent measures in this study, would have shown significant strides or change on measures that more thoroughly examined nonverbal communicative behaviors. Thus, the child appeared to start at a lower \"rung\" when compared to other participants in terms of communicative behavior.",
+    "line_count": 30,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      258.0,
+      632.8027954101562,
+      331.19830322265625,
+      644.1362915039062
+    ],
+    "text": "CONCLUSION",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      80.63999938964844,
+      655.687744140625,
+      509.7598571777344,
+      705.3834228515625
+    ],
+    "text": "Additional study of the pharmacological treatment of SM is clearly warranted. Substantial improvements in some children along with limited samples allow for optimistic but guarded impressions of the efficacy of medication treatment. The use of single-case design in this study revealed rather rapid onset of behavioral change (i.e., within days) across four of the five participants. This finding is inconsistent with the ex-",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      169.67999267578125,
+      48.78887176513672,
+      407.51898193359375,
+      59.61611557006836
+    ],
+    "text": "SERTRALINE TREATMENT OF SELECTIVE MUTISM",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      74.87999725341797,
+      74.05509948730469,
+      504.7198181152344,
+      169.66114807128906
+    ],
+    "text": "pected antidepressant effects of SSRIs. In turn, questions arise regarding the actual mechanism of change associated with the SSRI treatment of SM. Further clarity is needed within the psychopharmacological treatment literature with respect to understanding possible dopaminergic effects (i.e., talkativeness or disinhibition) and serotonin effects (i.e., mood lability, decreased anxiety) of sertraline treatment. Additional focus on combined behavioral/pharmacological treatments also is indicated. Consistent with a \"ladder-like\" analogy, it is hypothesized that combined treatments would allow children to more easily progress through their hierarchically defined difficulties. Stimulus fading or shaping procedures are logical adjuncts to medication treatment.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      228.47999572753906,
+      195.76239013671875,
+      349.6842346191406,
+      207.0963592529297
+    ],
+    "text": "ACKNOWLEDGMENTS",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      84.95999908447266,
+      217.83575439453125,
+      504.47998046875,
+      231.93934631347656
+    ],
+    "text": "Our appreciation goes out to Pfizer Pharmaceutical Inc. for providing the medications used within this",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      74.87999725341797,
+      230.51107788085938,
+      504.71929931640625,
+      255.740478515625
+    ],
+    "text": "study. Dr. Peggy Scallon and Dr. Gabriela Hangiandreou are also to be commended for their volunteered time and efforts in meeting with participants.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      252.9600067138672,
+      279.5188293457031,
+      325.6785583496094,
+      290.1875
+    ],
+    "text": "REFERENCES",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.36000061035156,
+      302.5900573730469,
+      505.2001037597656,
+      403.2625732421875
+    ],
+    "text": "Achenbach TM: Manual for the Child Behavior Checklist/4-18 and 1991 profile. Burlington, University of Vermont Department of Psychiatry, 1991 Aman MG: Monitoring and measuring drug effects II. Behavioral, emotional, arid cognitive effects. In: Practitioner's Guide to Psychoactive Drugs for Children and Adolescents. Edited by Werry JS, Aman MG. New York, Plenum, 1993, pp 99-160 American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, 4th ed. Washington, DC, American Psychiatric Press, 1994 Black B, Uhde TW: Elective mutism as a variant of social phobia. I Am Acad Child Adolesc Psychiatry 5:1090-1094,",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      418.0958557128906,
+      505.9202575683594,
+      662.998779296875
+    ],
+    "text": "Black B, Uhde TW: Treatment of elective mutism with fluoxetine: A double-blind, placebo-controlled study. J Am Acad Child Adolesc Psychiatry 33:1000-1006, 1994 Black B, Uhde TW: Psychiatric characteristics of children with selective mutism: A pilot study. J Am Acad Child Adolesc Psychiatry 34:847-856, 1995 Carlson JS, Kratochwill TR, Johnston H: Prevalence and treatment of selective mutism in clinical practice: A survey of child and adolescent psychiatrists. J Child Adolesc Psychopharmacol 4:281-291, 1994 Dummit ES, Klein G, Tancer NK, Asche B, Martin J: Fluoxetine treatment of children with selective mutism: An open trial. J Am Acad Child Adolesc Psychiatry 35:615-621, 1996 Dummit ES, Klein RG, Tancer NK, Asche B, Martin J, Fairbanks J: A systematic assessment of 50 children with selective mutism. J Am Acad Adolesc Psychiatry 36:653-659, 1997 Elliott SN, Busse RT: Effective treatments with behavioral consultation. In: Handbook of Consultation Services for Children. Edited by Zins JE, Kratochwill TR, Elliott SN. San Francisco, Jossey-Bass, pp. 179-203, 1993 Ford MA, Kratochwill TR, Sladeczek I, Carlson JS: Selective mutism: Development, identification, characteristics, etiology, and school experience. School Psychol Q 13:192-227, 1998 Gittleman R: Parent Questionnaire (modified Conners)—anxiety and mood items added. Psychopharmacol Bull 21:939-943, 1985a Gittleman R: Teacher Rating Scale (modified Conners)—anxiety and mood items added. Psychopharmacol Bull 21:945-948, 1985b Golwyn DH, Weinstock RC: Phenelzine treatment of elective mutism: A case report. J Clin Psychiatry 51:384-385,",
+    "line_count": 19,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      76.08000183105469,
+      677.73583984375,
+      505.19921875,
+      699.9025268554688
+    ],
+    "text": "Guna-Dumitrescu L, Pelletier GS: Successful multimodal treatment of a child with selective mutism: A case report. Can J Psychiatry 41:417, 1996",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      254.8800048828125,
+      49.27092361450195,
+      334.5596923828125,
+      59.073707580566406
+    ],
+    "text": "CARLSON ET AL.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.36000061035156,
+      75.11009979248047,
+      510.7199401855469,
+      143.4265594482422
+    ],
+    "text": "Kazdin AE: Acceptability of alternative treatments for deviant behavior. J Appl Behav Anal 13:259-273, 1980 Kazdin AE: Research Design in Clinical Psychology, 3rd ed. Boston, Allyn & Bacon, 1998 Kehle TJ, Hintze JM, DuPaul GJ: Selective mutism. In: Children's Needs. II. Development, Problems, and Alternatives. Edited by Bear GC, Minke KM, Thomas A. Bethesda, National Association of School Psychologists, 1997 Kelley M, Heffer R, Gresham F, Elliott SN: Development of modified treatment evaluation instrument. J Psycho Beh",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.5999984741211,
+      157.3571014404297,
+      510.7203369140625,
+      169.3304901123047
+    ],
+    "text": "Kiresuk TJ, Smith A, Cardillo JE: Goal Attainment Scaling: Applications, Theory, and Measurement. Hillsdale (New",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.5999984741211,
+      183.36839294433594,
+      510.9599914550781,
+      210.36767578125
+    ],
+    "text": "Lafferty JE, Constantino JN: Fluvoxamine in selective mutism. J Am Acad Child Adolesc Psychiatry 37:12-13, 1998 Leonard HL, Dow S: Selective mutism. In: Anxiety Disorders in Children and Adolescents. Edited by March JS. New",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.83999633789062,
+      224.40512084960938,
+      510.9571838378906,
+      236.46116638183594
+    ],
+    "text": "National Institute of Mental Health: Rating scales and assessment instruments for use in pédiatrie psychopharmacol-",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      82.08000183105469,
+      250.9037322998047,
+      511.4398193359375,
+      303.65478515625
+    ],
+    "text": "Pionek BC, Kratochwill TR, Sladeczek IE: Selective mutism: A meta-analysis of intervention outcomes. Presented at the 104th Annual Convention of the American Psychological Association, Toronto, 1996 Steinhausen HC, Juzi C: Elective mutism: An analysis of 100 cases. J Am Acad Adolesc Psychiatry 35:606-614, 1996 Vitello B, Jensen PS: Medication development and testing in children and adolescents. Arch Gen Psychiatry 54:871-876,",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      82.55999755859375,
+      317.9653625488281,
+      511.4402160644531,
+      340.62615966796875
+    ],
+    "text": "Wright HH, Cuccaro ML, Leonhardt TV, Kendall DF, Anderson JH: Case study: Fluoxetine in the multimodal treatment of a preschool child with selective mutism. J Am Acad Child Adolesc Psychiatry 34:857-862, 1995",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.36000061035156,
+      142.8787841796875,
+      167.9997100830078,
+      153.3622283935547
+    ],
+    "text": "Asst 11:247-253, 1989",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.5999984741211,
+      169.44639587402344,
+      244.3199005126953,
+      179.68348693847656
+    ],
+    "text": "Jersey), Lawrence Erlbaum Associates, 1994",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.83999633789062,
+      210.5594940185547,
+      229.91952514648438,
+      221.43917846679688
+    ],
+    "text": "York, Guilford Press, pp. 235-250, 1995",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      9.628999710083008,
+      221.0269775390625,
+      18.966999053955078,
+      555.6199951171875
+    ],
+    "text": "Downloaded by UVA University Library of Amsterdam from www.liebertpub.com at 02/03/26. For personal use only.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      81.83999633789062,
+      235.89161682128906,
+      282.239501953125,
+      247.42630004882812
+    ],
+    "text": "ogy research. Psychopharmacol Bull 21:839-843, 1985",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 14,
+    "bbox": [
+      400.55999755859375,
+      354.8058776855469,
+      511.20025634765625,
+      378.5688171386719
+    ],
+    "text": "Address reprint requests to: John S. Carlson, Ph.D.",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      371.2799987792969,
+      380.0226745605469,
+      512.4000854492188,
+      392.9625244140625
+    ],
+    "text": "Department of Applied Health and",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      404.3999938964844,
+      392.2077941894531,
+      502.0798034667969,
+      403.4703063964844
+    ],
+    "text": "Educational Psychology",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      442.55999755859375,
+      403.30645751953125,
+      512.400390625,
+      414.3726806640625
+    ],
+    "text": "422 Willard Hall",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      403.44000244140625,
+      415.1743469238281,
+      512.161376953125,
+      438.5790710449219
+    ],
+    "text": "Oklahoma State University Stillwater, OK 74078",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      371.760009765625,
+      450.9761657714844,
+      511.92108154296875,
+      464.537109375
+    ],
+    "text": "E-mail: carlsoj@okway.oksate.edu",
+    "line_count": 1,
+    "column": 2
+  }
+]

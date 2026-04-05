@@ -1,0 +1,3122 @@
+[
+  {
+    "page": 1,
+    "bbox": [
+      130.0800018310547,
+      123.92642974853516,
+      339.603515625,
+      141.11138916015625
+    ],
+    "text": "Prescriptive Treatment for Generalized",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      156.47999572753906,
+      137.84640502929688,
+      312.487060546875,
+      155.0313720703125
+    ],
+    "text": "Anxiety Disorder in Children",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      193.1999969482422,
+      166.3548126220703,
+      275.8624267578125,
+      177.56040954589844
+    ],
+    "text": "ANDREW R. EISEN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      124.08000183105469,
+      182.83511352539062,
+      346.0690612792969,
+      193.67759704589844
+    ],
+    "text": "Child Anxiety Disorders Clinic, Fairleigh Dickinson University",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      185.0399932861328,
+      204.777587890625,
+      283.47979736328125,
+      218.07359313964844
+    ],
+    "text": "WENDY K. SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      91.91999816894531,
+      222.43511962890625,
+      378.4690856933594,
+      233.27760314941406
+    ],
+    "text": "Child and Family Psychosocial Research Center, Florida International University",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.0,
+      246.03480529785156,
+      380.2600402832031,
+      347.00042724609375
+    ],
+    "text": "This investigation compared the preliminary efficacy of prescriptive and nonprescriptire cognitive-behavioral interventions (i.e., cognitive therapy/exposure or relaxation training/exposure) for problematic response classes (cognitive or somatic symptoms) of 4 overanxious children (8 to 12 years) using a multiple baseline design across subjects. Participants also met DSM-IVcriteria for generalized anxiety disorder. All children improved on pre-post child and parent self-report measures, independent clinician ratings, and physiologic recordings. Treatment gains were generally maintained at 6-month follow-up. Although both treatments were effective, only prescriptive treatments produced sufficient improvement for participants to meet positive end-state criteria. Implications for the prescriptive treatment of anxiety dis-",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      72.95999908447266,
+      368.19647216796875,
+      398.597412109375,
+      530.957275390625
+    ],
+    "text": "The nature of generalized anxiety in children is continuing to change. In the third edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-III-R; American Psychiatric Association, 1987), overanxious disorder (OAD) was characterized by the presence of excessive worries, somatic complaints, and self-consciousness. In the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV; American Psychiatric Association, 1994), OAD was subsumed under the category of generalized anxiety disorder (GAD). In this system, the frequency and controllability of worry became cardinal features, whereas the experience of physical symptoms was relegated to a lesser role. This conceptual shift has created a new research agenda that requires an examination of individuals with GAD across the lifespan (Kendall, MacDonald, & Treadwell, 1995). Epidemiological data examining children with generalized anxiety are limited to studies employing children with OAD. Data suggest that OAD com-",
+    "line_count": 14,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      73.44000244140625,
+      547.7147827148438,
+      397.9476013183594,
+      569.0004272460938
+    ],
+    "text": "Correspondence concerning this article should be addressed to Andrew R. Eisen, Ph.D., Department of Psychology, Fairleigh Dickinson University, 1000 River Road, Teaneck, NJ 07666.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      196.0800018310547,
+      587.3148193359375,
+      399.0658874511719,
+      598.9425659179688
+    ],
+    "text": "Copyright 1998 by Association for Advancement of Behavior Therapy",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 1,
+    "bbox": [
+      71.04000091552734,
+      67.47480773925781,
+      200.9544219970703,
+      79.10256958007812
+    ],
+    "text": "BEHAVIOR THERAPY 29, 105-121, 1998",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      90.95999908447266,
+      345.87481689453125,
+      206.1333770751953,
+      357.0804138183594
+    ],
+    "text": "orders in children are discussed.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 1,
+    "bbox": [
+      300.96002197265625,
+      579.48095703125,
+      397.4311828613281,
+      590.7825317382812
+    ],
+    "text": "0005-7894/98/0105-0121 $1.00/0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 1,
+    "bbox": [
+      258.4800109863281,
+      595.2348022460938,
+      398.84381103515625,
+      606.4404296875
+    ],
+    "text": "All rights of reproduction in any form reserved.",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 2,
+    "bbox": [
+      196.07998657226562,
+      68.73841094970703,
+      272.5175476074219,
+      78.34320831298828
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 2,
+    "bbox": [
+      72.23999786376953,
+      91.13304138183594,
+      399.40435791015625,
+      610.0999145507812
+    ],
+    "text": "prises 3% to 4% of the general population (Anderson, Williams, McGee, & Silva, 1987; Bowen, Offord, & Boyle, 1990) and 24% to 29% of specialty clinics for childhood anxiety disorders (Last, Hersen, Kazdin, Finkelstein, & Strauss, 1987; Mattison, Bagnato, & Brubaker, 1988). Despite OAD's prevalence in community and clinical settings, treatment research has lagged behind the study of specific fears and phobias (Silverman & Eisen, 1993; Silverman & Rabian, 1993). Recently, however, OAD treatment investigations are beginning to emerge (Eisen & Silverman, 1993; Kane & Kendall, 1989; Kendall, 1994; Kendall et al., 1997). Kane and Kendall (1989) examined the effectiveness of an integrated treatment protocol with 4 overanxious children (aged 9 to 13) using a multiple baseline design across participants. The treatment protocol included cognitive (self-monitoring, self-evaluation, and self-reinforcement) and behavioral (in vivo exposures, relaxation training, modeling, contingency management) strategies. The results indicated that all 4 children experienced improvements on child, parent, and clinician ratings that were generally maintained at 6-month follow-up. In a controlled clinical trials design, Kendall (1994) further examined the effectiveness of the integrated treatment protocol in a sample of 47 children meeting DSM-III-R criteria for anxiety disorders. Sixty-four percent of the sample (n = 30) received a primary diagnosis of OAD. The results indicated that 64% and 5% of the treatment and control groups, respectively, no longer warranted a diagnosis at posttreatment. Treatment gains were generally mainrained at 1-year follow-up. In a second randomized clinical trial, Kendall et al. (1997) administered the integrated treatment protocol to a larger sample of 94 children (aged 9 to 13 years) meeting DSM-III-R criteria for anxiety disorders. Fifty-nine percent of the sample (n = 55) received a primary diagnosis of OAD. The results indicated that 53% and 6% of the treatment and control groups, respectively, no longer warranted a primary diagnosis at posttreatment. Treatment gains were generally maintained at 1-year follow-up. Overall, the findings from these studies are impressive. However, the specific ingredients responsible for behavior change are difficult to determine due to the combination of cognitive and behavioral procedures employed. Although randomizing treatment across participants is an excellent experimental mechanism to evaluate treatment effectiveness, clinical researchers are beginning to recognize the importance of matching or prescribing treatment to specific patient characteristics (e.g., Beutler, 1991; Kazdin, 1993; Kearney & Silverman, 1990; Ost, Jerremalm, & Johansson, 1981; Ost, Johansson, & Jerremalm, 1982). It is generally believed that an idiographic approach to treatment is a more effective strategy in producing positive treatment outcomes than a nomothetic, statistically based approach (e.g., Barlow, Hayes, & Nelson, 1984). Regarding generalized anxiety, Eisen and Silverman (1993) provided preliminary evidence suggesting that such a strategy may be useful.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      183.83999633789062,
+      68.71295166015625,
+      286.98236083984375,
+      78.95806884765625
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.23999786376953,
+      91.61302185058594,
+      398.8250732421875,
+      369.85992431640625
+    ],
+    "text": "Eisen and Silverman (1993) evaluated the effectiveness of cognitive therapy (CT), relaxation training (RT), and their combination with 4 overanxious children, 6 to 15 years of age, using a multiple baseline design across subjects. Each intervention contained an exposure component equalized across treatments. Participants received both RT and CT (counterbalanced), followed by a combined treatment that incorporated elements of the two previous treatments. The results suggested that interventions were most effective when they appeared prescribed to specific child symptoms. For example, children with primary symptoms of worry responded most favorably to CT, whereas children with primary symptoms of somatic complaints responded most favorThe present study extends the Eisen and Silverman (1993) investigation by systematically prescribing specific cognitive-behavioral interventions (CT and RT) to different problematic response classes (cognitive and somatic) in children with generalized anxiety. It was hypothesized that treatments that were administered (CT and RT) irrespective of the child's response class would nonetheless be effective in alleviating generalized anxiety symptoms, but that interventions that were prescribed on the basis of response class (CT for cognitive symptoms; RT for somatic symptoms) would result in enhanced treatment effectiveness. These results were expected because each intervention contained essential ingredients necessary to facilitate behavior change in anxious children. However, the prescribed interventions would lead to improvements substantial enough to satisfy positive end-state functioning criteria (outlined in the method section) as specific response class deficits",
+    "line_count": 23,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      425.2130432128906,
+      398.58917236328125,
+      610.8198852539062
+    ],
+    "text": "Participants were 4 children aged 8 to 12 years (mean age = 10 years, 7 months), who received principal diagnoses of DSM-III-R overanxious disorder with at least moderate impairment (received a 4 or more on a 0-to-8 clinician rating scale) using the Anxiety Disorders Interview Schedule for Children (described below). Diagnoses were assigned based on severity of disorder and the extent to which the disorder led to interference in functioning. In addition, participants had a history of significant overanxious concerns for at least 3 years. Participants were referred to the Child Anxiety and Phobia Program (CAPP) at Florida International University (FIU) in Miami from multiple community agencies throughout the greater Miami area. Exclusionary criteria included receiving an OAD diagnosis secondary to other disorders or undergoing current pharmacological/other treatment for presenting problems. Further descriptive information on each participant is presented Participant 1 (P1) was an 8-year-old Hispanic male (fluent in English, as were his parents) in the second grade. His primary complaints included",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.72000122070312,
+      206.5730438232422,
+      123.39881896972656,
+      220.3399200439453
+    ],
+    "text": "ably to RT.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.95999908447266,
+      367.613037109375,
+      180.84225463867188,
+      381.37994384765625
+    ],
+    "text": "were taken into account.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      411.8421630859375,
+      125.494873046875,
+      423.8568115234375
+    ],
+    "text": "Participants",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      72.4800033569336,
+      574.2530517578125,
+      223.598388671875,
+      588.0198974609375
+    ],
+    "text": "below and can be seen in Table 1.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 3,
+    "bbox": [
+      216.24000549316406,
+      394.95001220703125,
+      255.07635498046875,
+      409.7891845703125
+    ],
+    "text": "Method",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      195.60000610351562,
+      68.73841094970703,
+      272.2775573730469,
+      78.34320831298828
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      104.87999725341797,
+      104.25843048095703,
+      366.5599060058594,
+      113.86322784423828
+    ],
+    "text": "DEMOGRAPHIC AND TREATMENT CHARACTERISTICS FOR EACH PARTICIPANT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      189.36000061035156,
+      147.55845642089844,
+      318.95635986328125,
+      179.88504028320312
+    ],
+    "text": "OAD, SOC, ADHD, ODD, SP, SP OAD, SOC, SP, SP, SP OAD, ADHD, SAD, SP, SP",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      204.67848205566406,
+      400.36749267578125,
+      247.8050537109375
+    ],
+    "text": "b Diagnoses: OAD = Overanxious Disorder; SOC = Social Phobia; ADHD = AttentionDeficit Hyperactivity Disorder; ODD = Oppositional-Defiant Disorder; SAD = Separation c Treatments: CRCT = Cognitive Response Class Treatment; SRCT = Somatic Response",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      287.2384948730469,
+      398.0715637207031,
+      346.2050476074219
+    ],
+    "text": "multiple somatic symptoms (e.g., stomachaches, headaches, tension, nausea) that were associated with taking tests, schoolwork, being alone, noises, and being teased. He also presented with several moderately severe comorbid disorders including social phobia, attention-deficit/hyperactivity disorder, oppositional-defiant disorder, and specific phobias (e.g., being alone, blood,",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      356.3584899902344,
+      398.57611083984375,
+      541.8049926757812
+    ],
+    "text": "Participant 2 (P2) was a 12-year-old Caucasian male in the sixth grade. His primary complaints included multiple worries regarding personal harm, family, being alone, hospitals, noises, and being teased. He also presented with several severe comorbid disorders that included social and specific phoParticipant 3 (P3) was an ll-year-old Hispanic male (fluent in English, as were his parents) in the fifth grade. His primary complaints included multiple worries regarding his health, personal harm, being alone, noises, social concerns, and future events. He also presented with several moderately severe comorbid disorders including attention-deficit/hyperactivity disorder, separation anxiety disorder, and specific phobias (e.g., being alone, dark). Participant 4 (P4) was a 12-year-old Caucasian male in the sixth grade. His primary complaints included multiple somatic symptoms (e.g., stomachaches, headaches, tension, nausea, body pains, and constipation) that were associated with taking tests, schoolwork, waking up at night, and novel situations. He also presented with mildly severe social and specific phobias",
+    "line_count": 15,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      574.7584838867188,
+      397.9342346191406,
+      610.925048828125
+    ],
+    "text": "Structured interviews were used to determine principal diagnoses. Child and parent versions of the Anxiety Disorders Interview Schedule for DSMIII-R (ADIS-C and ADIS-P; Silverman & Nelles, 1988) were used to permit",
+    "line_count": 3,
+    "column": 0
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      119.71849822998047,
+      179.60829162597656,
+      142.44503784179688
+    ],
+    "text": "Participant a Age Response Class",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      132.0,
+      147.55845642089844,
+      174.6936798095703,
+      189.72503662109375
+    ],
+    "text": "Somatic Cognitive Cognitive Somatic",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      189.59999084472656,
+      176.5984649658203,
+      248.39634704589844,
+      189.72503662109375
+    ],
+    "text": "OAD, SOC, SP",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      194.83848571777344,
+      157.42526245117188,
+      207.96505737304688
+    ],
+    "text": "a All children are boys.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      224.83848571777344,
+      218.8480224609375,
+      277.8050537109375
+    ],
+    "text": "Anxiety Disorder; SP = Simple Phobia. Class Treatment. a Prescriptive treatment. e Nonprescriptive treatment.",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.72000122070312,
+      344.8385009765625,
+      99.73786163330078,
+      357.9650573730469
+    ],
+    "text": "dark).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.4800033569336,
+      402.198486328125,
+      201.7460174560547,
+      415.3250427246094
+    ],
+    "text": "bias (e.g., dark, blood, cats).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      72.23999786376953,
+      540.198486328125,
+      133.8272247314453,
+      572.5919799804688
+    ],
+    "text": "(e.g., planes). Measures",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 4,
+    "bbox": [
+      216.72000122070312,
+      91.63848114013672,
+      251.9904022216797,
+      104.7650375366211
+    ],
+    "text": "TABLE 1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      234.0,
+      129.31846618652344,
+      274.7771911621094,
+      142.44503784179688
+    ],
+    "text": "Diagnosis b",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 4,
+    "bbox": [
+      339.5999755859375,
+      129.31846618652344,
+      399.3371887207031,
+      189.72503662109375
+    ],
+    "text": "Treatmenff SRCT d CRCT d SRCT e, CRCT d CRCT e, SRCT d",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 5,
+    "bbox": [
+      182.39999389648438,
+      69.45838165283203,
+      283.2359619140625,
+      79.06317901611328
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 5,
+    "bbox": [
+      71.27999877929688,
+      92.10572814941406,
+      398.8318176269531,
+      610.512451171875
+    ],
+    "text": "differential diagnoses among the DSM-III-R anxiety disorders. Diagnoses were based on a composite from the ADIS-C and ADIS-P (see Silverman, 199I, for deriving composite diagnoses). The ADIS-C and ADIS-P have been shown to possess both adequate interrater (Silverman & Nelles) and testretest (Silverman & Eisen, 1992) reliabilities. Interrater reliability for OAD for the current study was satisfactory (kappa -- .73). Clinician ratings (0 to 8 scale; 0 = none, 8 = very severely disturbing) from the ADIS-C and ADIS-P were used to determine the severity of the composite diagnoses. The reliability of the clinician ratings has been found to be satisfactory (Silverman & Eisen; Silverman & Nelles). Because the current study spanned two diagnostic systems (DSM-III-R and DSM-IV), GAD diagnoses were verified at a later date. Each participant met DSM-IV criteria for GAD using the ADIS-C and ADIS-P for DSM-IV (Silverman & Albano, 1996). This finding further supports the compatibility of DSM-III-R and DSM-IV for diagnosing generalized anxiety (Kendall & Warman, 1996). In addition to interviews, several child-completed measures were administered. Each of the measures is widely used to assess childhood anxiety. The Revised Children's Manifest Anxiety Scale (RCMAS; Reynolds & Richman, 1978) is a child self-report measure of general anxiety with 37 items (e.g., I worry a lot of the time) rated on a yes-no basis. The scale was designed to measure physiological anxiety, worry/oversensitivity, and fear/concentration. The RCMAS possesses established test-tetest reliability, internal consistency (Reynolds & Paget, 1983; Wisniewski, Mulick, Genshaft, & Coury, 1987), and construct validity (Mattison et al., 1988). For purposes of the present study, the worry/oversensitivity index (containing 10 items) was used to assess treatment outcome and to place a participant in the cognitive response class. Criteria for inclusion in the cognitive response class required a cutoff score greater than two standard deviations above the normative mean (M = 4.04, SD = 2.84). The Children's Negative Cognitive Error Questionnaire (CNCEQ; Leitenberg, Yost, & Carroll-Wilson, 1986) is a 24-item self-report measure that evaluates four different types of cognitive errors associated with anxiety and depression (e.g., catastrophizing: I probably won't be able to keep up and people will make fun of me) rated on a 5-point scale: 1 = not at all like I would think; 5 = almost exactly like I iVbuld think. The CNCEQ possesses established test-retest reliability, internal consistency, and construct validity (Leitenberg et al., 1986). For purposes of the present study, the CNCEQ was used to assess treatment outcome and to place a participant in the cognitive response class. Criteria for inclusion in the cognitive response class required a clinical cutoff score of 66.71 (normative M = 57.01, from Leitenberg et al.). The Childhood Anxiety Sensitivity Index (CASI; Silverman, Fleisig, Rabian, & Peterson, 1991) is an 18-item self-report measure that evaluates how aversively children view somatic forms of anxiety (e.g., It scares me when my heart beats fast), rated on a 3-point scale (1 = none; 3 = a lot).",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      195.60000610351562,
+      68.96566772460938,
+      273.2574768066406,
+      78.890625
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 6,
+    "bbox": [
+      72.23999786376953,
+      91.86573791503906,
+      398.3448486328125,
+      609.3124389648438
+    ],
+    "text": "The CASI possesses established test-retest reliability, internal consistency, and construct validity (Silverman et al., 1991). For purposes of the present study, the CASI was used to assess treatment outcome and to place a participant in the somatic response class. Criteria for inclusion in the somatic response class required a cutoff score greater than two SDs above the normative mean (M = 23.9, SD = 4.2). Finally, participants were asked to complete daily diaries (DD), in which they recorded anxiety-provoking situations, degree of anxiety (0 to 4 scale; 0 = none, 4 = very much), avoidance behavior, and accompanying cognitions. Two psychology graduate students, who were uninformed as to both participant characteristics and treatment conditions, coded cognitions from the DD according to Prins's (1986) categories of self-speech (i.e., positive, neutral, negative). Twenty-five percent of the DD were randomly selected (across participants and treatment conditions) and rated for the presence/ absence of negative cognitions. Interrater agreement was found to be satisfactory (kappa = .84). For purposes of the present study, the DD was used as a treatment outcome measure and to place a participant in the cognitive response class. Criteria for inclusion in the cognitive response class required a clinical cutoff score greater than 1 SD from the current sample (M = 2.5, SD = .36). Parents were also administered a series of measures. The Child Behavior Checklist (CBCL; Achenbach, 1991) is a parent measure of children's internalizing (e.g., worrying) and externalizing (e.g., impulsive) behavior problems (118 behavior problem items), rated on a 3-point scale (0 = not true; 2 = very true or often true). The CBCL is well standardized, possesses satisfactory test-retest reliability, internal consistency, and construct validity, and has a national normative base (Achenbach). For purposes of the present study, the somatic complaints subscale was used to assess treatment outcome and to place a participant in the somatic response class. Criteria for inclusion in the somatic response class required a T score of 70 (M = 53.8, SD = 6.2). In addition, parents completed weekly Parent Ratings of Severity (PROS), a measure that required parents to rate the degree of impairment of their child's anxiety (0 to 8 scale; 0 = none, 8 = very severely disturbing). The PROS, designed by the authors, afforded an examination of each participant's generalized anxiety from both clinician and parent perspectives. The final phase of the multimethod-multisource assessment consisted of an in-vivo measurement of heart rate (HR) in a situation that was typically found to be anxiety-provoking for the participant. For purposes of the present study, the HR assessment was used to assess treatment outcome and to place a participant in the somatic response class. Criteria for inclusion in the somatic response class required a HR change score of 15 beats per minute (M = 10.25, SD = 7.8, from the current clinical sample). The use of HR change scores has been previously validated with anxious children (Van Hasselt, Hersen, Bellack, Rosenblum, & Lamparski, 1979).",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      183.60000610351562,
+      68.97840118408203,
+      283.9559631347656,
+      78.58319854736328
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 7,
+    "bbox": [
+      72.0,
+      92.88214874267578,
+      398.5848388671875,
+      609.5524291992188
+    ],
+    "text": "Procedure Parents and children referred to the CAPP were first scheduled for an assessment session. Following consent, the ADIS-C and ADIS-P were administered separately to each relevant party. Interviews were administered by the authors and advanced psychology graduate students. Interviewers were trained to a criterion that consisted of first observing at least five parent-child interviews, and then utlizing an interviewer-observer paradigm. Following the observation period, each interviewer was required to match all of the observer's diagnoses and clinician ratings (0 to 8 scale) within one point on five separate occasions. The posttreatment and 6-month follow-up interviews were administered by an independent clinician who was uninformed as to the participant's treatment condition. The child and parent interviews and questionnaires were administered at pretreatment, posttreatment and at 6-month follow-up. Younger children received assistance in completing questionnaires from graduate and undergraduate psychology students. At a later date (within 1 week), each family was scheduled for a consultation session. Following a discussion of the assessment findings and after obtaining treatment consent, participants received careful training in the DD to ensure accuracy. Although the primary responsibility for self-monitoring rested on the child, parents assisted in thought identification and recording. In addition, each child participated in an in-vivo HR assessment. The HR assessment consisted of four standardized periods: adaptation (5 minutes), resting baseline (5 minutes), in vivo situation (10 minutes), and post-resting baseline (5 minutes). Graduate students uninformed as to the experimental conditions of this investigation conducted the pre-, post-, and follow-up assessments. Training consisted of three observations and three to five supervised administrations. HR was measured continuously in beats per minute (bpm) using a Computer Instruments Corporation Uniq Heart Watch (model 8799) and was scored via a computer program. HR change scores were computed by subtracting the postbaseline phase from the performance phase of the HR assessment. Because of the diffuse nature of each child's anxious apprehension, HR assessments were selected based on significant anxiety elicitors. For example, participants 1 and 4 were administered the block design subtest of the WISC-R at the CAPP as they both experienced excessive test anxiety. The HR assessments were conducted at the homes of P2 and P3 as they were both experiencing anxious apprehension during the evening with respect to being alone. For these scenarios, participants were observed from a hallway in an unobstrusive manner. The results of the self-report measures, DD and in vivo HR assessments determined the treatment condition to which each participant was assigned. Cognitive response class measures included the worry/oversensitivity index of the RCMAS, CNCEQ, and the DD (negative cognitions). Somatic response",
+    "line_count": 44,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      195.36000061035156,
+      68.72567749023438,
+      275.2257385253906,
+      78.650634765625
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 8,
+    "bbox": [
+      71.76000213623047,
+      91.62574768066406,
+      399.14715576171875,
+      611.4724731445312
+    ],
+    "text": "class measures included the CASI, CBCL (somatic complaints subscale), and HR assessment. Cutoff scores for each measure were defined as two SDs above normative means and/or established indices of clinical severity (e.g., CBCL T score of 70). For measures where normative or clinical data were unavailable (i.e., DD), cutoff scores were defined as one SD above the mean for the current clinical sample. To be classified as having a specific response class, participants needed to exceed cutoff scores for at least two of the measures associated with that response class (and not the other response class on at least two). Interventions Both treatment interventions were conducted according to a written treatment manual (Silverman, 1989). The first author served as the therapist for both experimental and control conditions. Cognitive response class treatment (CRCT) involved the identification and modification of worrisome thoughts. To accomplish this task, cognitive therapy and self-control techniques were employed. Cognitive therapy techniques (\"What is the evidence\" and \"What if\" techniques; Beck & Emery, 1986) were used to identify evidence for and against distorted beliefs and to decatastrophize worrisome thoughts. To teach children self-control skills (i.e., self-monitoring, self-evaluation, selfreinforcement), the STOP acronym (Silverman) was employed. The STOP acronym stands for the following: Scared, Thoughts (worrisome in nature), Other thoughts (coping in nature), and Praise (self-evaluation). Cartoons with empty thought bubbles were used to identify anxious and coping selftalk (Kendall, 1990). Somatic response class treatment (SRCT) involved the identification and modification of somatic symptoms. To accomplish this task, an ll-body-part (e.g., hands, arms, shoulders) progressive muscle relaxation script (Ollendick & Cemy, 1981) was administered. Participants were taught to notice the difference between tensing and relaxing each body-part and to practice the skill twice per day with and without an audiotape. Each treatment intervention consisted of 10 individualized sessions (2 per week). Sessions consisted of meeting with the child for 45 minutes, the parents for 30 minutes, and both parties for 15 minutes. Any missed sessions were made up within 1 week. The format for the sessions was as follows: Administration of PROS (parent session), homework (HW) and DD review, didactic lesson, in-session practice, and planning HW. Sessions 1 to 3 focused on skills building (e.g., constructing hierarchy, teaching of cognitive or relaxation exercises), sessions 4 to 9 involved practicing the skills (i.e., imaginal exposures in session, in vivo exposures out of session), sessions 7 to 9 additionally addressed relapse prevention (e.g., emphasizing the need for continued practice), and sessions 9 to 10 examined termination issues. The format for both treatment interventions (CRCT and SRCT) was exactly the same with the exception of the active treatment ingredients (i.e., cognitive or relaxation exercises).",
+    "line_count": 44,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      183.36000061035156,
+      68.95294189453125,
+      286.74237060546875,
+      79.19805908203125
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.76000213623047,
+      106.97306823730469,
+      398.397216796875,
+      191.29991149902344
+    ],
+    "text": "The 4 overanxious children were assigned to a multiple baseline design across participants. Participants were randomly selected to experimental and control conditions. Experimental participants received 5 weeks of prescriptive treatment (i.e., CRCT for cognitive symptoms and SRCT for somatic symptoms). Control participants first received 5 weeks of nonprescriptive treatment (i.e., CRCT for somatic symptoms or SRCT for cognitive symptoms), which was followed by another 5 weeks of prescriptive treatment.",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.23999786376953,
+      215.4530487060547,
+      399.423095703125,
+      311.7799377441406
+    ],
+    "text": "Children were classified as having reached high end-state functioning if they scored within 1 SD of normative means and/or 1 SD below clinical cutoff scores on at least two specific response class measures (above normal limits at pretreatment or following nonprescriptive treatment). Cognitive response class measures included the CNCEQ, RCMAS and DD and somatic response class measures included the CASI, CBCL (somatic complaints subscale), and HR assessment. In addition, participants needed to receive a clinician rating of 0 to 3 (subclinical) from the ADIS at posttreatment (Kendall &",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.4800033569336,
+      347.6930236816406,
+      398.97955322265625,
+      455.7799377441406
+    ],
+    "text": "Following the description of each treatment procedure, participants were asked to rate the credibility of a given treatment (Silverman modification of Borkovec & Nau, 1972). Participants were asked to rate four questions (e.g., How sure are you that this treatment will help you to become less anxious ?) on a 3-point scale (0 = not at all; 2 = very much). Both prescriptive and nonprescriptive treatments were rated as equally credible (2). Regarding treatment integrity, two psychology students independently reviewed 25% of randomly selected treatment session audiotapes. Both students indicated that the experimenter adhered to treatment protocols 100% of the time.",
+    "line_count": 9,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.4800033569336,
+      489.7730407714844,
+      398.1019287109375,
+      515.2999267578125
+    ],
+    "text": "Indices of improvement were examined in three ways: (a) specific problematic response classes, (b) clinician and parent ratings, and (c) daily ratings",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.23999786376953,
+      551.2130737304688,
+      397.9522705078125,
+      611.7799072265625
+    ],
+    "text": "In general, based on self-report, DD, and HR measures, prescriptive treatments produced greater improvements than nonprescriptive treatments (see Tables 2 and 3). Three of 4 participants met high end-state functioning criteria by scoring within normal limits on logically related response class measures following prescriptive treatment (PI: CBCL, HR; P3: RCMAS, DD;",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 9,
+    "bbox": [
+      71.76000213623047,
+      93.36212921142578,
+      103.15292358398438,
+      105.37677001953125
+    ],
+    "text": "Design",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.0,
+      202.08216857910156,
+      204.7233123779297,
+      214.0968017578125
+    ],
+    "text": "Positive End-State Functioning",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.72000122070312,
+      309.7730407714844,
+      133.32237243652344,
+      323.5399475097656
+    ],
+    "text": "Grove, 1988).",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      73.19999694824219,
+      334.0821533203125,
+      224.52578735351562,
+      346.0968017578125
+    ],
+    "text": "Treatment Credibility and Integrity",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.72000122070312,
+      513.2930908203125,
+      225.01565551757812,
+      527.0599365234375
+    ],
+    "text": "of anxiety and negative cognitions.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      72.72000122070312,
+      537.8421630859375,
+      240.66014099121094,
+      549.8568115234375
+    ],
+    "text": "Specific Problematic Response Classes",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 9,
+    "bbox": [
+      216.24000549316406,
+      473.9100341796875,
+      254.89512634277344,
+      488.74920654296875
+    ],
+    "text": "Results",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      196.32000732421875,
+      66.46392822265625,
+      276.9816589355469,
+      78.95016479492188
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      95.5199966430664,
+      101.98394775390625,
+      377.7200927734375,
+      114.47018432617188
+    ],
+    "text": "PRESCRIPTIVE AND NONPRESCRIPTIVE COGNITIVE RESPONSE CLASS TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.23999786376953,
+      312.46392822265625,
+      396.681884765625,
+      324.9501647949219
+    ],
+    "text": "Note. Pre = Pretreatment; Prescriptive = Post-Prescriptive Treatment; N-Prescriptive =",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      98.87999725341797,
+      332.1439208984375,
+      399.18804931640625,
+      354.71014404296875
+    ],
+    "text": "CNCEQ = Children's Negative Cognitive Error Questionnaire; RCMAS = Revised Children's Manifest Anxiety Scale-Worry/Oversensitivity Index.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      379.9039306640625,
+      397.43231201171875,
+      392.3901672363281
+    ],
+    "text": "P4: CASI, HR). Treatment gains were generally maintained at 6-month",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.0,
+      402.70391845703125,
+      397.7831726074219,
+      610.7902221679688
+    ],
+    "text": "Alternatively, nonprescriptive treatments failed to produce sufficient changes for participants to satisfy high end-state functioning criteria. In fact, P3 (cognitive response class) and P4 (somatic response class) worsened on logically related response-class measures following nonprescriptive treatment. For example, following nonprescriptive SRCT, P3 experienced clinically significant levels of distress on the CASI (from 26 to 34) and CBCL (from 63 to 70). P4 worsened on the CNCEQ (from 58 to 64) and RCMAS (from 6 to 8) following nonprescriptive CRCT. Prescriptive and nonprescriptive treatments did not solely affect the 10gically related response classes. Positive and negative changes also occurred in logically unrelated response classes. Regarding prescriptive treatments, P1 and P4 (somatic response class) scored within normal limits on a number of cognitive response class measures following prescriptive SRCT (Pl\" DD; P4: CNCEQ, RCMAS, DD). However, P1 did experience clinically significant levels of distress on the CNCEQ (from 53 to 85) following prescriptive SRCT. Alternatively, P2 and P3 (cognitive response class) experienced clinically significant levels of distress on several somatic response class measures following prescriptive CRCT (P2: CASI, CBCL; P3: CASI, CBCL).",
+    "line_count": 18,
+    "column": 0
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      130.30389404296875,
+      104.97248840332031,
+      142.79013061523438
+    ],
+    "text": "Measure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      160.32000732421875,
+      130.30389404296875,
+      217.34573364257812,
+      142.79013061523438
+    ],
+    "text": "Response Class",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      148.30389404296875,
+      104.12138366699219,
+      170.87014770507812
+    ],
+    "text": "CNCEQ P1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      158.3839111328125,
+      200.8059539794922,
+      170.87014770507812
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      167.98391723632812,
+      91.10990905761719,
+      180.47015380859375
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      167.98391723632812,
+      207.0692901611328,
+      180.47015380859375
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      178.06393432617188,
+      91.10990905761719,
+      190.5501708984375
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      178.06393432617188,
+      207.0692901611328,
+      190.5501708984375
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      80.16000366210938,
+      188.1439208984375,
+      91.50031280517578,
+      200.63015747070312
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.39999389648438,
+      188.1439208984375,
+      200.8485565185547,
+      200.63015747070312
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.72000122070312,
+      201.34393310546875,
+      104.78280639648438,
+      223.91015625
+    ],
+    "text": "RCMAS P1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.39999389648438,
+      211.42391967773438,
+      200.8485565185547,
+      223.91015625
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      221.263916015625,
+      91.10990905761719,
+      233.75015258789062
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      221.263916015625,
+      207.0692901611328,
+      233.75015258789062
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      231.10391235351562,
+      91.10990905761719,
+      243.59014892578125
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      231.10391235351562,
+      207.0692901611328,
+      243.59014892578125
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      241.18392944335938,
+      91.26030731201172,
+      253.670166015625
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.39999389648438,
+      241.18392944335938,
+      200.8485565185547,
+      253.670166015625
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      254.3839111328125,
+      144.9945526123047,
+      276.9501647949219
+    ],
+    "text": "Negative cognitions PI",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.6400146484375,
+      264.46392822265625,
+      201.0885772705078,
+      276.9501647949219
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      80.4000015258789,
+      274.3039245605469,
+      91.58991241455078,
+      286.7901611328125
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.39999389648438,
+      274.3039245605469,
+      207.3092803955078,
+      286.7901611328125
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      80.16000366210938,
+      284.3839111328125,
+      91.34991455078125,
+      296.8701477050781
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.39999389648438,
+      284.3839111328125,
+      207.3092803955078,
+      296.8701477050781
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      79.91999816894531,
+      294.2239074707031,
+      91.26030731201172,
+      306.71014404296875
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      170.16000366210938,
+      294.2239074707031,
+      200.8059539794922,
+      306.71014404296875
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      99.12000274658203,
+      322.5439147949219,
+      215.5206298828125,
+      335.0301513671875
+    ],
+    "text": "Post-Nonprescriptive Treatment.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      98.87999725341797,
+      352.3039245605469,
+      192.92190551757812,
+      364.7901611328125
+    ],
+    "text": "Clinically significant = +",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      72.4800033569336,
+      391.1839294433594,
+      117.31410217285156,
+      403.670166015625
+    ],
+    "text": "follow-up.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 10,
+    "bbox": [
+      216.47999572753906,
+      92.1439208984375,
+      253.5587921142578,
+      104.63015747070312
+    ],
+    "text": "TABLE 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      317.760009765625,
+      119.98394775390625,
+      351.7218322753906,
+      132.47018432617188
+    ],
+    "text": "Prescrip-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      234.9600067138672,
+      130.30389404296875,
+      248.88787841796875,
+      142.79013061523438
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      259.9200134277344,
+      130.30389404296875,
+      313.431884765625,
+      142.79013061523438
+    ],
+    "text": "N-Prescriptive",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      326.8800048828125,
+      130.30389404296875,
+      342.2771911621094,
+      142.79013061523438
+    ],
+    "text": "tive",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      360.239990234375,
+      130.30389404296875,
+      402.7403564453125,
+      142.79013061523438
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      276.9599914550781,
+      158.3839111328125,
+      293.9618835449219,
+      190.5501708984375
+    ],
+    "text": "- - 56 +",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      321.8399658203125,
+      188.1439208984375,
+      338.60186767578125,
+      200.63015747070312
+    ],
+    "text": "53 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      282.239990234375,
+      211.42391967773438,
+      287.60943603515625,
+      233.75015258789062
+    ],
+    "text": "- -",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      325.67999267578125,
+      221.263916015625,
+      338.6018981933594,
+      253.670166015625
+    ],
+    "text": "6 + 4 + 3 +",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      237.36001586914062,
+      264.46392822265625,
+      250.5576171875,
+      276.9501647949219
+    ],
+    "text": "3.0",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      282.72003173828125,
+      264.46392822265625,
+      287.8494873046875,
+      276.9501647949219
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      327.1200256347656,
+      264.46392822265625,
+      346.1822814941406,
+      276.9501647949219
+    ],
+    "text": "1.0+",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      237.1199951171875,
+      274.3039245605469,
+      250.31759643554688,
+      286.7901611328125
+    ],
+    "text": "2.2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      282.7200012207031,
+      274.3039245605469,
+      287.8494567871094,
+      286.7901611328125
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      327.1199951171875,
+      274.3039245605469,
+      339.80999755859375,
+      286.7901611328125
+    ],
+    "text": "1.8",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      237.1199951171875,
+      284.3839111328125,
+      250.31759643554688,
+      296.8701477050781
+    ],
+    "text": "2.6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      281.760009765625,
+      284.3839111328125,
+      294.78839111328125,
+      296.8701477050781
+    ],
+    "text": "2.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      331.20001220703125,
+      284.3839111328125,
+      346.14508056640625,
+      296.8701477050781
+    ],
+    "text": ".9+",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      236.8800048828125,
+      294.2239074707031,
+      249.90841674804688,
+      306.71014404296875
+    ],
+    "text": "2.3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      281.2799987792969,
+      294.2239074707031,
+      294.1391906738281,
+      306.71014404296875
+    ],
+    "text": "2.1",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 10,
+    "bbox": [
+      330.7200012207031,
+      294.2239074707031,
+      339.21759033203125,
+      306.71014404296875
+    ],
+    "text": ".5",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      183.83999633789062,
+      67.19662475585938,
+      288.84478759765625,
+      79.36270904541016
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      100.31999969482422,
+      102.71664428710938,
+      372.9071350097656,
+      114.88272857666016
+    ],
+    "text": "PRESCRIPTIVE AND NONPRESCRIPTIVE SOMATIC RESPONSE CLASS TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      302.1566467285156,
+      396.18402099609375,
+      314.4815979003906
+    ],
+    "text": "Note. Pre = Pretreatment; Prescriptive = Post-Prescriptive Treatment; N-Prescriptive =",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      99.12000274658203,
+      322.316650390625,
+      397.9482727050781,
+      344.3227233886719
+    ],
+    "text": "CASI = Childhood Anxiety Sensitivity Index; CBCL = Child Behavior ChecklistSomatic Complaints Subscale; HR = Heart rate change scores.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.19999694824219,
+      381.11663818359375,
+      397.6788024902344,
+      440.3227233886719
+    ],
+    "text": "With respect to nonprescriptive treatments, P3 (cognitive response class) and P4 (somatic response class) experienced noticeable improvements on logically unrelated response class measures. For example, P3 scored within normal limits on the CNCEQ following nonprescriptive SRCT. P4 experienced modest improvements on each of the somatic response class measures",
+    "line_count": 5,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.44000244140625,
+      480.4766540527344,
+      397.39910888671875,
+      598.0027465820312
+    ],
+    "text": "The specific response class measures were corroborated by favorable posttreatment and follow-up clinician ratings (see Table 4). Each participant failed to meet a DSM-III-R diagnosis of OAD after a prescriptive treatment (P1 and P4) or at follow-up (P2 and P3), which reflected the continued effectiveness of prescriptive treatments. Although P3 and P4 improved with nonprescriptive interventions, both children were still experiencing moderate levels of interference after these treatments. For example, P3 and P4 received clinician ratings of 5 and 4 (0 to 8 scale), respectively, following nonprescriptive interventions. For the most part, PROS and clinician ratings were similar. However, at follow-up, PROS ratings were slightly higher than clinician",
+    "line_count": 10,
+    "column": 0
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      120.71664428710938,
+      104.04254913330078,
+      132.88272094726562
+    ],
+    "text": "Measure",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      120.47999572753906,
+      120.71664428710938,
+      176.50003051757812,
+      132.88272094726562
+    ],
+    "text": "Response Class",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      202.32000732421875,
+      120.71664428710938,
+      215.7463836669922,
+      132.88272094726562
+    ],
+    "text": "Pre",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.4800033569336,
+      138.71664428710938,
+      94.81428527832031,
+      160.72268676757812
+    ],
+    "text": "CASI P1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      148.55661010742188,
+      160.48306274414062,
+      160.72268676757812
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.16000366210938,
+      158.39663696289062,
+      91.23696899414062,
+      170.56271362304688
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      158.39663696289062,
+      166.14028930664062,
+      170.56271362304688
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.4000015258789,
+      168.23663330078125,
+      91.47696685791016,
+      180.4027099609375
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      168.23663330078125,
+      166.14028930664062,
+      180.4027099609375
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.16000366210938,
+      178.316650390625,
+      91.53457641601562,
+      190.48272705078125
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      178.316650390625,
+      160.48306274414062,
+      190.48272705078125
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.72000122070312,
+      191.51663208007812,
+      97.88713073730469,
+      213.522705078125
+    ],
+    "text": "CBCL P1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.8000030517578,
+      201.35662841796875,
+      160.7230682373047,
+      213.522705078125
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.4000015258789,
+      211.4366455078125,
+      91.47696685791016,
+      223.60272216796875
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.8000030517578,
+      211.4366455078125,
+      166.3802947998047,
+      223.60272216796875
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.4000015258789,
+      221.27664184570312,
+      91.47696685791016,
+      233.44271850585938
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      221.27664184570312,
+      166.14028930664062,
+      233.44271850585938
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.4000015258789,
+      231.35662841796875,
+      91.47696685791016,
+      243.522705078125
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.55999755859375,
+      231.35662841796875,
+      160.48306274414062,
+      243.522705078125
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      72.95999908447266,
+      244.316650390625,
+      91.41937255859375,
+      266.5627136230469
+    ],
+    "text": "HR P1",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.8000030517578,
+      254.39663696289062,
+      160.7230682373047,
+      266.5627136230469
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      201.36000061035156,
+      254.39663696289062,
+      218.71559143066406,
+      266.5627136230469
+    ],
+    "text": "+ 18",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.63999938964844,
+      264.23663330078125,
+      91.71696472167969,
+      276.4027099609375
+    ],
+    "text": "P2",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.8000030517578,
+      264.23663330078125,
+      166.3802947998047,
+      276.4027099609375
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      205.67999267578125,
+      264.23663330078125,
+      217.86642456054688,
+      276.4027099609375
+    ],
+    "text": "+3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.63999938964844,
+      274.316650390625,
+      91.71696472167969,
+      286.48272705078125
+    ],
+    "text": "P3",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      130.8000030517578,
+      274.316650390625,
+      166.3802947998047,
+      286.48272705078125
+    ],
+    "text": "Cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      205.67999267578125,
+      274.316650390625,
+      218.2812042236328,
+      286.48272705078125
+    ],
+    "text": "+ 4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      80.63999938964844,
+      284.1566467285156,
+      92.01457214355469,
+      296.3227233886719
+    ],
+    "text": "P4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      131.04000854492188,
+      284.1566467285156,
+      160.96307373046875,
+      296.3227233886719
+    ],
+    "text": "Somatic",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      201.8400115966797,
+      284.1566467285156,
+      219.1044158935547,
+      296.3227233886719
+    ],
+    "text": "+ 16",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      99.12000274658203,
+      312.23663330078125,
+      213.1001434326172,
+      324.4027099609375
+    ],
+    "text": "Post-Nonprescriptive Treatment.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      99.12000274658203,
+      342.23663330078125,
+      192.90403747558594,
+      354.4027099609375
+    ],
+    "text": "Clinically significant = +",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.44000244140625,
+      439.6766357421875,
+      216.59475708007812,
+      451.84271240234375
+    ],
+    "text": "following nonprescriptive CRCT.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.91999816894531,
+      465.3739318847656,
+      200.2112274169922,
+      477.6816101074219
+    ],
+    "text": "Clinician and Parent Ratings",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      73.68000030517578,
+      597.5966796875,
+      105.39730834960938,
+      609.7627563476562
+    ],
+    "text": "ratings.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 11,
+    "bbox": [
+      216.47999572753906,
+      92.63662719726562,
+      254.04119873046875,
+      104.8027114868164
+    ],
+    "text": "TABLE 3",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      234.24000549316406,
+      120.71664428710938,
+      334.95703125,
+      132.88272094726562
+    ],
+    "text": "N-Prescriptive Prescriptive",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      352.32000732421875,
+      120.71664428710938,
+      389.78326416015625,
+      132.88272094726562
+    ],
+    "text": "Follow-up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      260.8800048828125,
+      148.55661010742188,
+      266.06475830078125,
+      170.56271362304688
+    ],
+    "text": "- -",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      307.67999267578125,
+      178.316650390625,
+      323.4640197753906,
+      190.48272705078125
+    ],
+    "text": "18 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      261.3600158691406,
+      201.35662841796875,
+      266.3047790527344,
+      213.522705078125
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      306.96002197265625,
+      201.35662841796875,
+      323.70404052734375,
+      213.522705078125
+    ],
+    "text": "58 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      261.3599853515625,
+      211.4366455078125,
+      266.30474853515625,
+      223.60272216796875
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      365.760009765625,
+      231.35662841796875,
+      382.2640380859375,
+      243.522705078125
+    ],
+    "text": "55 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      261.1199951171875,
+      254.39663696289062,
+      266.06475830078125,
+      266.5627136230469
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      305.03997802734375,
+      254.39663696289062,
+      323.7040100097656,
+      266.5627136230469
+    ],
+    "text": "+7 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      359.7599792480469,
+      254.39663696289062,
+      377.0243835449219,
+      266.5627136230469
+    ],
+    "text": "+ 10",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      261.3599853515625,
+      264.23663330078125,
+      266.30474853515625,
+      276.4027099609375
+    ],
+    "text": "-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      305.27996826171875,
+      264.23663330078125,
+      317.46636962890625,
+      276.4027099609375
+    ],
+    "text": "+6",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      363.8399658203125,
+      264.23663330078125,
+      376.0263671875,
+      276.4027099609375
+    ],
+    "text": "+7",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      305.03997802734375,
+      274.316650390625,
+      317.64117431640625,
+      286.48272705078125
+    ],
+    "text": "+ 2",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      359.7599792480469,
+      274.316650390625,
+      376.8755798339844,
+      286.48272705078125
+    ],
+    "text": "+ 12",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      257.52001953125,
+      284.1566467285156,
+      270.0040283203125,
+      296.3227233886719
+    ],
+    "text": "+9",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      305.0400085449219,
+      284.1566467285156,
+      323.94403076171875,
+      296.3227233886719
+    ],
+    "text": "+2 +",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 11,
+    "bbox": [
+      364.08001708984375,
+      284.1566467285156,
+      376.26641845703125,
+      296.3227233886719
+    ],
+    "text": "+4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      196.0800018310547,
+      68.20750427246094,
+      274.7152404785156,
+      79.09294891357422
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      100.80000305175781,
+      104.97840118408203,
+      370.9632263183594,
+      124.42322540283203
+    ],
+    "text": "PARENT RATINGS OF SEVERITY AND INDEPENDENT CLINICIAN'S RATINGS FOR PRE-, PRESCRIPTIVE, N-PRESCRIPTIVE AND FOLLOW-UP ACROSS PARTICIPANTS",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      223.72752380371094,
+      395.21728515625,
+      234.6129608154297
+    ],
+    "text": "Note. Pre = Pretreatment; N-Prescriptive = Post-Nonprescriptive Treatment; Prescriptive =",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      262.65625,
+      397.8197937011719,
+      361.2009582519531
+    ],
+    "text": "Daily Ratings of Anxiety and Negative Cognitions With respect to daily ratings of anxiety, participants improved to a large degree (i.e., approaching 100%) from baseline to posttreatment following prescriptive treatment (CRCT or SRCT), which was maintained at follow-up (see Figure 1). Alternatively, participants remained the same (P3) or improved slightly (P4) following nonprescriptive treatment. Regarding the second measure, 3 of 4 participants greatly reduced their number of negative cognitions (i.e., approaching 100%) from baseline fol-",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.44000244140625,
+      589.2474975585938,
+      396.14263916015625,
+      609.9729614257812
+    ],
+    "text": "FIG. 1. Daily ratings of anxiety (mean) across baseline, treatment sessions and follow-up. Each data point during baseline represents an average of 3 days.",
+    "line_count": 2,
+    "column": 0
+  },
+  {
+    "page": 12,
+    "bbox": [
+      137.0399932861328,
+      131.8075408935547,
+      211.00518798828125,
+      142.69297790527344
+    ],
+    "text": "Parent Ratings (0-8)",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.95999908447266,
+      147.6475067138672,
+      99.95143127441406,
+      158.53294372558594
+    ],
+    "text": "Partici-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      177.36000061035156,
+      147.6475067138672,
+      210.25189208984375,
+      158.53294372558594
+    ],
+    "text": "Prescrip-",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      72.72000122070312,
+      157.72752380371094,
+      89.47071075439453,
+      168.6129608154297
+    ],
+    "text": "pant",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      108.47999572753906,
+      157.72752380371094,
+      200.9854736328125,
+      196.6929473876953
+    ],
+    "text": "Pre N-Prescriptive tire - -",
+    "line_count": 4,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      73.19999694824219,
+      233.56752014160156,
+      239.796630859375,
+      244.4529571533203
+    ],
+    "text": "Post-Prescriptive Treatment; FU --- Follow-Up.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      92.16000366210938,
+      381.2183837890625,
+      106.7474136352539,
+      392.1057434082031
+    ],
+    "text": "1. 4",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      188.6400146484375,
+      383.531982421875,
+      241.04379272460938,
+      392.1057434082031
+    ],
+    "text": "prescriptive relaxation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.91999816894531,
+      431.77197265625,
+      97.60987854003906,
+      440.3457336425781
+    ],
+    "text": "2.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      190.79998779296875,
+      431.77197265625,
+      242.74459838867188,
+      440.3457336425781
+    ],
+    "text": "prescriptive cognitive",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.91999816894531,
+      479.531982421875,
+      97.60987854003906,
+      488.1057434082031
+    ],
+    "text": "3.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      184.8000030517578,
+      479.531982421875,
+      251.00494384765625,
+      488.1057434082031
+    ],
+    "text": "nenprescriptive reiaxaUon I",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      91.68000030517578,
+      528.33837890625,
+      97.92000579833984,
+      537.9431762695312
+    ],
+    "text": "4.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      125.76000213623047,
+      575.3568115234375,
+      146.49957275390625,
+      583.288330078125
+    ],
+    "text": "Baseline",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      192.48001098632812,
+      575.3568115234375,
+      238.2483673095703,
+      583.288330078125
+    ],
+    "text": "Treatment sessions",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 12,
+    "bbox": [
+      216.47999572753906,
+      93.88749694824219,
+      251.9112091064453,
+      104.77294158935547
+    ],
+    "text": "TABLE 4",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      292.0799865722656,
+      132.0475311279297,
+      371.03118896484375,
+      142.93296813964844
+    ],
+    "text": "Clinical Ratings (0-8)",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      334.32000732421875,
+      147.6475067138672,
+      367.79779052734375,
+      158.53294372558594
+    ],
+    "text": "Prescrip-",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      226.55999755859375,
+      157.72752380371094,
+      239.34608459472656,
+      168.6129608154297
+    ],
+    "text": "FU",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      265.67999267578125,
+      157.72752380371094,
+      358.5513610839844,
+      168.6129608154297
+    ],
+    "text": "Pre N-Prescriptive rive",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      383.52001953125,
+      157.72752380371094,
+      396.30609130859375,
+      168.6129608154297
+    ],
+    "text": "FU",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      308.1600036621094,
+      177.7948760986328,
+      312.5842590332031,
+      196.6929473876953
+    ],
+    "text": "- -",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      286.55999755859375,
+      479.531982421875,
+      338.1278381347656,
+      488.1057434082031
+    ],
+    "text": "prescriptive cognitive",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      316.0799865722656,
+      518.1719970703125,
+      345.7583923339844,
+      526.7457885742188
+    ],
+    "text": "~ ,-~ l",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      372.239990234375,
+      518.1719970703125,
+      376.5074157714844,
+      526.7457885742188
+    ],
+    "text": "£",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      277.67999267578125,
+      519.2880249023438,
+      341.53277587890625,
+      537.9431762695312
+    ],
+    "text": "I I I I pr~l~riptlve relel~tion",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 12,
+    "bbox": [
+      370.08001708984375,
+      575.3568115234375,
+      393.4361877441406,
+      583.288330078125
+    ],
+    "text": "Follow.up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      184.55999755859375,
+      67.71479797363281,
+      288.2946472167969,
+      78.92039489746094
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      115.68000030517578,
+      297.15478515625,
+      397.18316650390625,
+      308.36041259765625
+    ],
+    "text": "Number of negative cognitions (mean) across baseline, treatment sessions and",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.95999908447266,
+      306.75482177734375,
+      337.90545654296875,
+      317.9604187011719
+    ],
+    "text": "follow-up. Each data point during baseline represents an average of 3 days.",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.4800033569336,
+      335.6930236816406,
+      398.771484375,
+      383.7799377441406
+    ],
+    "text": "lowing prescriptive treatment (CRCT or SRCT; see Figure 2). For the most part, P2's number of negative cognitions remained the same throughout treatment. On the other hand, participants worsened slightly (P3) or remained the same (P4) following nonprescriptive treatment.",
+    "line_count": 4,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.4800033569336,
+      404.5730285644531,
+      399.3489074707031,
+      498.49993896484375
+    ],
+    "text": "Clinical observations and reports from each participant's family supported the overall results that prescriptive treatments were generally more effective than nonprescriptive treatments. For example, at pretreatment, P3 was frightened to be left alone in his room during the evening. Observed from the hallway, he paced back and forth and screamed for his parents. Following nonprescriptive SRCT, he displayed similar behaviors. However, following prescriptive CRCT, he failed to display any \"anxious\" behaviors and indicated that he could have easily stayed in his room for a longer period of time.",
+    "line_count": 8,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      72.0,
+      527.4530639648438,
+      398.2443542480469,
+      610.3399047851562
+    ],
+    "text": "This investigation represents the first analysis of prescribing treatment to problematic response classes of 4 overanxious children who also met DSM/V criteria for GAD. The results provide preliminary support for the investigation's hypotheses. First, both prescriptive and nonprescriptive treatments led to an amelioration of the symptoms of generalized anxiety based on self-report, parent report, and physiological measures. This was expected because both CRCT and SRCT are potent, widely used interventions. Sec-",
+    "line_count": 7,
+    "column": 0
+  },
+  {
+    "page": 13,
+    "bbox": [
+      189.60000610351562,
+      95.13357543945312,
+      240.8010711669922,
+      102.734619140625
+    ],
+    "text": "pr(mctiptive relaxation",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      103.19999694824219,
+      115.42202758789062,
+      147.4480438232422,
+      181.70379638671875
+    ],
+    "text": "'I, 4 I",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.83999633789062,
+      132.58200073242188,
+      82.20417022705078,
+      153.36814880371094
+    ],
+    "text": "A = !",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      136.0800018310547,
+      135.22201538085938,
+      137.896728515625,
+      142.14697265625
+    ],
+    "text": "|",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      202.55999755859375,
+      135.22201538085938,
+      208.10240173339844,
+      142.14697265625
+    ],
+    "text": ". .",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      143.30880737304688,
+      81.22463989257812,
+      171.06912231445312
+    ],
+    "text": "|",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      191.52000427246094,
+      149.56082153320312,
+      232.74156188964844,
+      172.36395263671875
+    ],
+    "text": ",..v. ... ....",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      155.27999877929688,
+      158.19647216796875,
+      157.58399963378906,
+      163.31903076171875
+    ],
+    "text": "•",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      163.783203125,
+      84.99150848388672,
+      180.63768005371094
+    ],
+    "text": "$",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      114.0,
+      180.34201049804688,
+      128.83749389648438,
+      187.2669677734375
+    ],
+    "text": ", I",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      165.36000061035156,
+      180.34201049804688,
+      204.91751098632812,
+      187.2669677734375
+    ],
+    "text": "[ I I I I",
+    "line_count": 5,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      182.31838989257812,
+      116.30438995361328,
+      214.35958862304688
+    ],
+    "text": "! 3 !f",
+    "line_count": 2,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      139.21958923339844,
+      182.9639892578125,
+      148.64830017089844,
+      214.35958862304688
+    ],
+    "text": "r",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      75.5999984741211,
+      205.430419921875,
+      80.71038818359375,
+      229.2249755859375
+    ],
+    "text": "|",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      107.27999877929688,
+      225.6719970703125,
+      205.78079223632812,
+      237.54335021972656
+    ],
+    "text": "LI i i i { i i i i i",
+    "line_count": 10,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      102.72000122070312,
+      241.51199340820312,
+      111.34699249267578,
+      253.3833465576172
+    ],
+    "text": ",F",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      155.04000854492188,
+      241.51199340820312,
+      164.99642944335938,
+      253.3833465576172
+    ],
+    "text": "L1",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      193.44000244140625,
+      285.693603515625,
+      238.31134033203125,
+      293.2946472167969
+    ],
+    "text": "Treatment sessions",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      126.4800033569336,
+      286.1820068359375,
+      145.09861755371094,
+      293.1069641113281
+    ],
+    "text": "I:laselino",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      83.04000091552734,
+      297.15478515625,
+      108.85200500488281,
+      308.36041259765625
+    ],
+    "text": "Fla. 2.",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      73.19999694824219,
+      391.2021484375,
+      168.45672607421875,
+      403.216796875
+    ],
+    "text": "Clinical Observations",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      207.60000610351562,
+      514.3919677734375,
+      246.42471313476562,
+      526.2633666992188
+    ],
+    "text": "Discussion",
+    "line_count": 1,
+    "column": 1
+  },
+  {
+    "page": 13,
+    "bbox": [
+      366.7200012207031,
+      89.09397888183594,
+      398.7219543457031,
+      154.05670166015625
+    ],
+    "text": "J",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      211.76730346679688,
+      130.42202758789062,
+      234.36940002441406,
+      142.14697265625
+    ],
+    "text": "L .L .L . .",
+    "line_count": 5,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      239.52000427246094,
+      167.60400390625,
+      254.65911865234375,
+      188.04913330078125
+    ],
+    "text": ",\\",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      212.16000366210938,
+      180.34201049804688,
+      232.99749755859375,
+      187.2669677734375
+    ],
+    "text": "I I I",
+    "line_count": 3,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      289.67999267578125,
+      182.9639892578125,
+      321.79144287109375,
+      214.35958862304688
+    ],
+    "text": ".... ,.o.,.",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      211.9199981689453,
+      225.6719970703125,
+      278.8145446777344,
+      237.54335021972656
+    ],
+    "text": "i ~ f r r i ~%~1",
+    "line_count": 4,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      286.79998779296875,
+      225.6719970703125,
+      323.24822998046875,
+      237.54335021972656
+    ],
+    "text": "T f f'~/~",
+    "line_count": 2,
+    "column": 2
+  },
+  {
+    "page": 13,
+    "bbox": [
+      370.55999755859375,
+      286.9020080566406,
+      390.6042175292969,
+      293.82696533203125
+    ],
+    "text": "Follow*up",
+    "line_count": 1,
+    "column": 2
+  },
+  {
+    "page": 14,
+    "bbox": [
+      194.63999938964844,
+      65.69303894042969,
+      276.3779602050781,
+      79.45991516113281
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 14,
+    "bbox": [
+      71.27999877929688,
+      91.37303161621094,
+      399.8222961425781,
+      610.5798950195312
+    ],
+    "text": "ond, the prescriptive treatments, however, led to sufficient changes to satisfy positive end-state functioning criteria. Specifically, the results suggested improvements on logically related response-class measures, parent and clinician ratings, daily ratings of anxiety and negative cognitions, and clinical observations following prescriptive treatment. Three of 4 participants met the criteria for high end-state functioning. Although P2 failed to satisfy high end-state functioning, he was the only child who experienced several highly severe comorbid disorders. Kane and Kendall (1989) reported similar findings with overanxious children who experienced severe comorbid disorders. Further research is needed to clarify the relationship between the severity of additional disorders and treatment response in children with generalized anxiety. The two treatment interventions exerted differential effects on logically unrelated response classes. For example, both prescriptive and nonprescriptive SRCT produced clinically significant improvements on cognitive response class measures. In fact, prescriptive SRCT reduced the number of negative cognitions on the DD without any specific cognition targeting. Alternatively, nonprescriptive CRCT failed to reduce the number of negative cognitions. These findings further support the therapeutic impact of eliminating negative cognitions in children with anxiety disorders (Treadwell & Kendall, 1996). In general, CRCT showed less promise on somatic response class measures. For example, prescriptive CRCT resulted in greater levels of distress, whereas nonprescriptive CRCT resulted in only modest improvements on somatic response class measures. Overall, these findings suggest that SRCT may have been more successful than CRCT in deactivating anxious apprehension associated with the logically unrelated response class (Barlow, 1988). Given the preliminary and anticipated support for prescribing treatment to assessed response classes in children with generalized anxiety, there are specific clinical and research implications. First, such an approach may help to standardize assessment methods with anxious youth. For example, clinicians could use psychometrically sound measures in the form of semistructured interviews (e.g., ADIS-C and ADIS-P), cognitive/somatic symptom rating scales (e.g., CASI, RCMAS)I and physiological indices (e.g., HR). Such an approach would highlight individual differences among children with generalized anxiety regarding etiology, symptomatology, and treatment response (e.g., Eisen & Kearney, 1995). In addition, dimensionalizing features of generalized anxiety (e.g., worry, somatic complaints) on the basis of frequency/intensity ratings is likely to enhance the ability to prescribe treatments with problematic symptoms effectively. Kendall, Kortlander, Chansky, and Brady (1992) suggest that interventions should be designed to target specific symptoms rather than solely emphasize diagnostic categories. The results of this investigation should be considered preliminary for several reasons. Because this investigation employed only a small number of participants, replication studies are needed to confirm the present findings.",
+    "line_count": 45,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      183.36000061035156,
+      67.70206451416016,
+      288.1448974609375,
+      79.22782897949219
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      71.76000213623047,
+      91.95645904541016,
+      397.985595703125,
+      324.3172912597656
+    ],
+    "text": "Although the treatments were introduced in a staggered fashion, and symptoms reduced with prescriptive treatments, experimental control was not amply demonstrated. Furthermore, multiple treatment interference may have been present for participants receiving more than one treatment condition. That is, some participants did experience symptoms in the logically unrelated response class. Thus, participant classification may not have been as distinct as anticipated. Additional research is necessary to test the utility of a prescriptive treatment approach. For example, future group treatment comparison studies are needed to contrast the efficacy of the current approach (e.g., specific response class assessment) with placebo control conditions (e.g., to rule out expectancy effects) and with treatment packages (e.g., treatment based on diagnosis). In addition, because the treatment interventions were predominantly child focused, the parental role needs to be further examined in light of prescriptive treatment strategies. Finally, research is also necessary to extend this approach to related disorders in which cognitive and somatic symptoms predominate (e.g., panic disorder) to determine under which conditions each approach is most effective. The wave of the future calls for increased clinical research that links assessment with treatment for specific disorders (Beutler, 1991).",
+    "line_count": 20,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      206.63999938964844,
+      338.3471984863281,
+      263.5930480957031,
+      353.5492858886719
+    ],
+    "text": "References",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 15,
+    "bbox": [
+      72.0,
+      355.94207763671875,
+      398.40191650390625,
+      610.587890625
+    ],
+    "text": "Achenbach, T. M. (1991). Manual for the Child Behavior Checklist/4-18 and 1991 Profile. Burlington, VT: Department of Psychiatry. American Psychiatric Association. (1987). Diagnostic and statistical manual of mental disorders (3rd ed., rev.). Washington, DC: Author. American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author. Anderson, J. C., Williams, S., McGee, R., & Silva, P. A. (1987). DSM-III disorders in preadolescent children: Prevalence in a large sample from the general population. Archives of General Psychiatry, 44, 69-76. Barlow, D. H. (1988). Anxiety and its disorders: The nature and treatment of anxiety and panic. New York: Guilford Press. Barlow, 13. H., Hayes, S. C., & Nelson, R. O. (1984). The scientist practitioner: Research and accountability in clinical and educational settings. New York: Pergamon Press. Beck, A. T., & Emery, G. (1986). Anxiety disorders and phobias: A cognitive perspective. New York: Basic Books. Beutler, L. E. (1991). Have all won and must all have prizes? Revisiting Luborsky et al's verdict. Journal of Consulting and Clinical Psychology, 59, 226-232. Borkovec, T. D., & Nau, S. D. (1972). Credibility of analogue therapy rationales. Journal of Behavior Therapy and Experimental Psychiatry, 3, 257-260. Bowen, R. C., Offord, D. R., & Boyle, M. H. (1990). The prevalence of overanxious disorder and separation anxiety disorder: Results from the Ontario Child Health Study. Journal of the American Academy of Child and Adolescent Psychiatry, 29, 753-758. Eisen, A. R., & Kearney, C. A. (1995). Practitioner's guide to treating fear and anxiety in children and adolescents: A cognitive-behavioral approach. Northvale, NJ: Jason Aronson. Eisen, A, R., & Silverman, W. K. (1993). Should I relax or change my thoughts? A preliminary examination of cognitive therapy, relaxation training, and their combination with over-",
+    "line_count": 26,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      196.32000732421875,
+      67.70206451416016,
+      275.7566833496094,
+      79.22782897949219
+    ],
+    "text": "EISEN & SILVERMAN",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 16,
+    "bbox": [
+      72.0,
+      93.6220474243164,
+      399.1014404296875,
+      611.5823974609375
+    ],
+    "text": "anxious children. Journal of Cognitive Psychotherapy: An International Quarterly, 7, 265-279. Kane, M. T., & Kendall, P. C. (1989). Anxiety disorders in children: A multiple baseline evaluation of a cognitive-behavioral treatment. Behavior Therapy, 20, 499-508. Kazdin, A. E. (1993). Adolescent mental health: Prevention and treatment programs. American Psychologist, 48, 127-141. Kearney, C. A., & Silverman, W. K. (1990). A preliminary analysis of a functional model of assessment and treatment of school refusal behavior. Behavior Modification, 14, 340-366. Kendall, P. C. (1990). Coping cat workbook. Ardmore, PA: Workbook Publishing. Kendall, P. C. (1994). Treating anxiety disorders in youth: Results of a randomized clinical trial. Journal of Consulting and Clinical Psychology, 62, 100-110. Kendall, P. C., Flannery-Schroeder, E., Panichelli-Mindel, S. M., Southam-Gerow, M., Henin, A., & Warman, M. J. (1997). Therapy for youths with anxiety disorders: A second randomized clinical trial. Journal of Consulting and Clinical Psychology, 65, 366-380. Kendall, P. C., & Grove, W. M. (1988). Normative comparisons in therapy outcome. Behavioral Assessment, 10, 147-158. Kendall, P. C., Kortlander, E., Chansky, T. E., & Brady, E. U. (1992). Comorbidity of anxiety and depression in youth: Treatment implications. Journal of Consulting and Clinical Psychology, 60, 869-880. Kendall, P. C., MacDonald, J. P., & Treadwell, K. R. H. (1995). The treatment of anxiety disorders in youth. In A. R. Eisen, C. A. Kearney, and C. E. Schaefer (Eds.), Clinical handbook of anxiety disorders in children and adolescents (pp. 573-597). Northvale, NJ: Jason Aronson. Kendall, P. C., & Warman, M. J. (1996). Anxiety disorders in youth: Diagnostic and consistency across DSM-III-R and DSM-IV. Journal of Anxiety Disorders, 10, 453-463. Last, C. G., Hersen, M., Kazdin, A. E., Finkelstein, R., & Strauss, C. C. (1987). Comparison of DSM-III separation anxiety and overanxious disorders: Demographic characteristics and patterns of comorbidity. Journal of the American Academy of Child Psychiatry, 26, 527-531. Leitenberg, H., Yost, L. W., & Carroll-Wilson, M. (1986). Negative cognitive errors in children: Questionnaire development, normative data, and comparisons between children with and without self-reported symptoms of depression, low self-esteem, and evaluation anxiety. Journal of Consulting and Clinical Psychology, 54, 528-536. Mattison, R. E., Bagnatto, S. J., & Brubaker, B. H. (1988). Diagnostic utility of the revised Children's Manifest Anxiety Scale in children with DSM-III anxiety disorders. Journal of Anxiety Disorders, 2, 147-155. Ollendick, T. H., & Cerny, J. A. (1981). Clinical behavior therapy with children. New York: Plenum. Ost, L. G., Jerremalm, A., & Johansson, J. (1981). Individual response patterns and the effects of different behavioral methods in the treatment of social phobia. Behaviour Research and Therapy, 19, 1-16. Ost, L. G., Johansson, J., & Jerremalm, A. (1982). Individual response patterns and the effects of different behavioral methods in the treatment of claustrophobia. Behaviour Research and Therapy, 20, 445-460. Prins, P. J. (1986). Children's self-speech and self-regulation during a fear-provoking behavioral test. Behaviour Research and Therapy, 24, 181-191. Reynolds, C. R., & Paget, K. C. (1983). National normative and reliability data for the revised Children's Manifest Anxiety Scale. School Psychology Review, 12, 324-336. Reynolds, C. R., & Richman, B. O. (1978). What I think and feel?: A revised measure of children's manifest anxiety. Journal of Abnormal Child Psychology, 6, 271-280. Silverman, W. K. (1989). Self-control manual for phobic children. Unpublished Treatment Pro-",
+    "line_count": 51,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      183.60000610351562,
+      67.46207427978516,
+      287.9775695800781,
+      78.98783874511719
+    ],
+    "text": "PRESCRIPTIVE TREATMENT",
+    "line_count": 1,
+    "column": 0
+  },
+  {
+    "page": 17,
+    "bbox": [
+      72.23999786376953,
+      93.1420669555664,
+      398.9666748046875,
+      393.8188781738281
+    ],
+    "text": "tocol. (Available from the author, Department of Psychology, Florida International University, University Park, Miami, FL 33199). Silverman, W. K. (1991). Diagnostic reliability of anxiety disorders in children using structured interviews. Journal of Anxiety Disorders, 5, 105-124. Silverman, W. K., & Albano, A. M. (1996). The anxiety disorders interview schedule for DSMIV.: Child and parent versions. San Antonio, TX: The Psychological Corporation. Silverman, W. K., & Eisen, A. R. (1992). Age differences in the reliability of parent and child reports of child anxious symptomatology using a structured interview. Journal of the American Academy of Child and Adolescent Psychiatry, 31, 117-124. Silverman, W. K., & Eisen, A. R. (1993). Overanxious disorder in children. In R. T. Ammerman and M. Hersen (Eds.), Handbook of behavior therapy with children and adults: A developmental and longitudinal perspective (pp. 189-201). Boston: Allyn & Bacon. Silverman, W. K., Fleisig, W., Rabian, B., & Peterson, R. A, (1991). The childhood anxiety sensitivity index. Journal of Clinical Child Psychology, 20, 162-168. Silverman, W. K., & Nelles, W. B. (1988). The anxiety disorders interview schedule for children. Journal of the American Academy of Child and Adolescent Psychiatry, 27, 772-778. Silverman, W. K., & Rabian, B. (1993). Simple phobias. Psychiatric Clinics of North America, 2, 603-622. Treadwell, K. R. H., & Kendall, P. C. (1996). Self-talk in youth with anxiety disorders: States of mind, content specificity, and treatment outcome. Journal of Consulting and Clinical Psychology, 64, 941-950. Van Hasselt, V. B., Hersen, M., BeUack, A. S., Rosenblum, N. D., & Lamparski, D. (1979). Tripartite assessment of the effects of systematic desensitization in a multiphobic child. Journal of Behavior Therapy and Experimental Psychiatry, 10, 51-55. Wisniewski, J. J., Mulick, J. A., Genshafi, J. L., & Coury, D. L. (1987). Test-retest reliability of the children's manifest anxiety scale. Perceptual and Motor Skills, 65, 67-70. RECEWED: January 16, 1997 ACCEPTED: October 24, 1997",
+    "line_count": 29,
+    "column": 0
+  }
+]

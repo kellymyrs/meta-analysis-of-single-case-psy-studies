@@ -11,12 +11,14 @@ Behavior:
 - Saves per-paper results to extracted_text/<paper>_sced.json and a combined JSONL summary
   at extracted_text/sced_results.jsonl.
 
-LLM model is configured via env (see scripts/sced_extraction.py):
-    MODEL_PATH=/absolute/path/to/model.gguf
+LLM backend is configured via env (see scripts/sced_extraction.py):
+    Proxy mode (preferred): LITELLM_KEY (+ optional LITELLM_MODEL, LITELLM_BASE_URL)
+    Local fallback mode: MODEL_PATH=/absolute/path/to/model.gguf
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import logging
 import os
@@ -30,7 +32,13 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from scripts.pdf_text_blocks import extract_blocks
-from scripts.sced_extraction import run_sced_extraction
+from scripts.evaluate_sced_results import evaluate_jsonl_files
+from scripts.sced_extraction import (
+    get_runtime_backend,
+    run_sced_extraction,
+    run_sced_extraction_from_pdf,
+    run_sced_extraction_full_text,
+)
 
 
 PDF_DIR = ROOT / "input"
@@ -51,37 +59,83 @@ def ensure_blocks(pdf_path: Path) -> List[Dict[str, Any]]:
     return blocks
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Run SCED extraction across PDFs.")
+    parser.add_argument(
+        "--mode",
+        choices=("blocks", "full_text", "full_pdf"),
+        default="blocks",
+        help="Use truncated blocks, full text via chunked chat completions, or attach the full PDF.",
+    )
+    parser.add_argument(
+        "--pdf",
+        help="Optional exact PDF filename in input/ to process instead of the whole folder.",
+    )
+    parser.add_argument(
+        "--gold",
+        help="Optional path to a gold-standard JSONL file. If provided, precision/recall evaluation runs after extraction.",
+    )
+    return parser.parse_args()
+
+
+def resolve_pdf_files(selected_pdf: str | None) -> List[Path]:
+    if selected_pdf:
+        pdf_path = PDF_DIR / selected_pdf
+        if not pdf_path.exists():
+            raise FileNotFoundError(f"PDF not found: {pdf_path}")
+        return [pdf_path]
+    return sorted(PDF_DIR.glob("*.pdf"))
+
+
+def output_paths(mode: str) -> tuple[Path, str]:
+    suffix = "" if mode == "blocks" else f"_{mode}"
+    return TEXT_DIR / f"sced_results{suffix}.jsonl", suffix
+
+
 def main() -> None:
-    model_path = os.getenv("MODEL_PATH", "").strip()
-    if not model_path:
-        logging.error("MODEL_PATH is not set. Example: export MODEL_PATH=/path/to/model.gguf")
+    args = parse_args()
+    try:
+        backend = get_runtime_backend()
+    except RuntimeError as exc:
+        logging.error(str(exc))
         return
-    if model_path == "/absolute/path/to/model.gguf":
-        logging.error(
-            "MODEL_PATH is still the placeholder value. Set it to the real path of your GGUF file."
-        )
-        return
-    if not Path(model_path).expanduser().exists():
-        logging.error("MODEL_PATH does not exist: %s", Path(model_path).expanduser())
+    logging.info("Using LLM backend: %s", backend)
+    logging.info("Extraction mode: %s", args.mode)
+
+    if args.mode == "full_pdf" and backend != "proxy":
+        logging.error("full_pdf mode requires proxy mode with LITELLM_KEY configured.")
         return
 
-    pdf_files = sorted(PDF_DIR.glob("*.pdf"))
+    try:
+        pdf_files = resolve_pdf_files(args.pdf)
+    except FileNotFoundError as exc:
+        logging.error(str(exc))
+        return
+
     if not pdf_files:
         logging.warning("No PDFs found in %s", PDF_DIR)
         return
 
-    results_path = TEXT_DIR / "sced_results.jsonl"
+    results_path, out_suffix = output_paths(args.mode)
+    results_path.parent.mkdir(parents=True, exist_ok=True)
+    results_path.write_text("", encoding="utf-8")
     lines_written = 0
 
     for pdf_path in pdf_files:
         logging.info("Processing %s", pdf_path.name)
         try:
-            blocks = ensure_blocks(pdf_path)
-            result = run_sced_extraction(blocks)
+            if args.mode == "blocks":
+                blocks = ensure_blocks(pdf_path)
+                result = run_sced_extraction(blocks)
+            elif args.mode == "full_text":
+                blocks = ensure_blocks(pdf_path)
+                result = run_sced_extraction_full_text(blocks)
+            else:
+                result = run_sced_extraction_from_pdf(pdf_path)
             if result is None:
                 logging.warning("No result for %s", pdf_path.name)
                 continue
-            out_path = TEXT_DIR / f"{pdf_path.stem}_sced.json"
+            out_path = TEXT_DIR / f"{pdf_path.stem}_sced{out_suffix}.json"
             out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2))
             with results_path.open("a", encoding="utf-8") as f:
                 f.write(json.dumps({"pdf": pdf_path.name, **result}, ensure_ascii=False) + "\n")
@@ -91,6 +145,18 @@ def main() -> None:
             logging.error("Failed on %s: %s", pdf_path.name, exc)
 
     logging.info("Done. Wrote %d result lines to %s", lines_written, results_path.relative_to(ROOT))
+
+    if args.gold:
+        gold_path = Path(args.gold)
+        evaluation = evaluate_jsonl_files(results_path, gold_path)
+        evaluation_path = results_path.with_name(f"{results_path.stem}_evaluation.json")
+        evaluation_path.write_text(json.dumps(evaluation, ensure_ascii=False, indent=2), encoding="utf-8")
+
+        overall = evaluation["overall"]
+        logging.info("Evaluation precision: %.3f", overall["precision"])
+        logging.info("Evaluation recall: %.3f", overall["recall"])
+        logging.info("Evaluation F1: %.3f", overall["f1"])
+        logging.info("Saved evaluation summary to %s", evaluation_path.relative_to(ROOT))
 
 
 if __name__ == "__main__":
