@@ -17,6 +17,7 @@ if str(ROOT) not in sys.path:
 DATA_DIR = ROOT / "data"
 PDF_DIR = ROOT / "input"
 TEXT_DIR = ROOT / "extracted_text"
+EVALUATION_DIR = ROOT / "evaluation_results"
 DEFAULT_INPUT = DATA_DIR / "sced_gold.jsonl"
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
@@ -62,7 +63,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--evaluation-dir",
-        help="Optional directory for evaluation JSON outputs. Defaults next to the predictions JSONL file.",
+        help="Optional directory for evaluation JSON outputs. Defaults to evaluation_results/.",
     )
     parser.add_argument(
         "--no-shuffle",
@@ -118,7 +119,7 @@ def result_suffix(mode: str) -> str:
 
 def evaluation_output_path(predictions_path: Path, evaluation_dir: str | None) -> Path:
     if not evaluation_dir:
-        return predictions_path.with_name(f"{predictions_path.stem}_evaluation.json")
+        return EVALUATION_DIR / f"{predictions_path.stem}_evaluation.json"
     directory = Path(evaluation_dir)
     if not directory.is_absolute():
         directory = ROOT / directory

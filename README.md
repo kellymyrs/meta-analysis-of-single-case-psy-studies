@@ -70,8 +70,7 @@ Run all commands from the project root.
    ```bash
    python -m scripts.evaluate_sced_results \
      --predictions extracted_text/sced_results.jsonl \
-     --gold data/sced_gold.jsonl \
-     --output evaluation_results/sced_results_evaluation.json
+     --gold data/sced_gold.jsonl
    ```
 
 11. Split the SCED gold dataset into train/test JSONL files:
@@ -81,8 +80,7 @@ Run all commands from the project root.
 
 12. Split the SCED gold dataset and run the model on one split:
    ```bash
-   python -m scripts.run_sced_split_experiment --split test --evaluate \
-     --evaluation-dir evaluation_results
+   python -m scripts.run_sced_split_experiment --split test --evaluate
    ```
 
 ## 3. Script Reference
@@ -135,20 +133,20 @@ Run all commands from the project root.
 - `scripts/batch_sced_analysis.py`
   - What it does: runs SCED extraction across all PDFs, either from extracted blocks or by attaching the full PDF to the model. Optionally evaluates predictions against a gold-standard JSONL file.
   - Reads: PDFs in `input/`, optional existing `extracted_text/<paper>_blocks.json`
-  - Writes: `extracted_text/<paper>_sced.json`, `extracted_text/sced_results.jsonl`, plus `_full_pdf` variants when `--mode full_pdf` is used
+  - Writes: `extracted_text/<paper>_sced.json`, `extracted_text/sced_results.jsonl`, plus `_full_pdf` variants when `--mode full_pdf` is used, and evaluation summaries in `evaluation_results/` by default
   - Run: `python -m scripts.batch_sced_analysis`
   - Full-text run: `python -m scripts.batch_sced_analysis --mode full_text`
   - Full-PDF run: `python -m scripts.batch_sced_analysis --mode full_pdf`
   - With evaluation: `python -m scripts.batch_sced_analysis --gold data/sced_gold.jsonl`
-  - With evaluation in a separate folder: `python -m scripts.batch_sced_analysis --gold data/sced_gold.jsonl --evaluation-dir evaluation_results`
+  - Optional custom evaluation folder: `python -m scripts.batch_sced_analysis --gold data/sced_gold.jsonl --evaluation-dir custom_eval_dir`
   - Single paper: `python -m scripts.batch_sced_analysis --mode full_pdf --pdf "Taylor 2011.pdf"`
 
 - `scripts/evaluate_sced_results.py`
   - What it does: compares predicted SCED JSONL records against gold-standard JSONL records and reports micro-averaged precision, recall, F1, per-field metrics, and per-paper details.
   - Reads: a predictions JSONL file and a gold JSONL file with one record per PDF
-  - Writes: `<predictions>_evaluation.json`
+  - Writes: `evaluation_results/<predictions>_evaluation.json` by default
   - Run: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
-  - Custom output path: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl --output evaluation_results/sced_results_evaluation.json`
+  - Custom output path: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl --output custom_eval_dir/sced_results_evaluation.json`
 
 - `scripts/split_sced_dataset.py`
   - What it does: splits `data/sced_gold.jsonl` into deterministic train/test JSONL files for downstream experiments.
@@ -160,10 +158,10 @@ Run all commands from the project root.
 - `scripts/run_sced_split_experiment.py`
   - What it does: creates the train/test split and runs SCED extraction over either the train or test split, with optional evaluation.
   - Reads: `data/sced_gold.jsonl`, PDFs in `input/`
-  - Writes: `data/sced_gold_train.jsonl`, `data/sced_gold_test.jsonl`, `extracted_text/sced_train_results*.jsonl` or `extracted_text/sced_test_results*.jsonl`
+  - Writes: `data/sced_gold_train.jsonl`, `data/sced_gold_test.jsonl`, `extracted_text/sced_train_results*.jsonl` or `extracted_text/sced_test_results*.jsonl`, and evaluation summaries in `evaluation_results/` by default
   - Run: `python -m scripts.run_sced_split_experiment --split test`
   - With evaluation: `python -m scripts.run_sced_split_experiment --split test --evaluate`
-  - With evaluation in a separate folder: `python -m scripts.run_sced_split_experiment --split test --evaluate --evaluation-dir evaluation_results`
+  - Optional custom evaluation folder: `python -m scripts.run_sced_split_experiment --split test --evaluate --evaluation-dir custom_eval_dir`
   - Full-PDF mode: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --evaluate`
 
 ## 4. LLM Model Configuration
@@ -250,7 +248,7 @@ Set `MODEL_PATH` to your actual `.gguf` file and rerun.
   - `extracted_text/sced_results_full_text.jsonl`
 
 - `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
-  - `extracted_text/sced_results_evaluation.json`
+  - `evaluation_results/sced_results_evaluation.json`
 
 - `python -m scripts.split_sced_dataset`
   - `data/sced_gold_train.jsonl`
@@ -260,7 +258,7 @@ Set `MODEL_PATH` to your actual `.gguf` file and rerun.
   - `data/sced_gold_train.jsonl`
   - `data/sced_gold_test.jsonl`
   - `extracted_text/sced_test_results.jsonl`
-  - `extracted_text/sced_test_results_evaluation.json`
+  - `evaluation_results/sced_test_results_evaluation.json`
 
 ## 6. Single-Paper LLM Extraction (Optional)
 

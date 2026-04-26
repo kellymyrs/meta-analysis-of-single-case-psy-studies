@@ -28,6 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+EVALUATION_DIR = ROOT / "evaluation_results"
 
 FIELDS = [
     "Country",
@@ -371,7 +372,7 @@ def evaluate_jsonl_files(
 
 
 def default_output_path(predictions_path: Path) -> Path:
-    return predictions_path.with_name(f"{predictions_path.stem}_evaluation.json")
+    return EVALUATION_DIR / f"{predictions_path.stem}_evaluation.json"
 
 
 def main() -> None:

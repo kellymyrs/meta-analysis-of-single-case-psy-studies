@@ -43,6 +43,7 @@ from scripts.sced_extraction import (
 
 PDF_DIR = ROOT / "input"
 TEXT_DIR = ROOT / "extracted_text"
+EVALUATION_DIR = ROOT / "evaluation_results"
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 
@@ -77,7 +78,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--evaluation-dir",
-        help="Optional directory for evaluation JSON outputs. Defaults next to the predictions JSONL file.",
+        help="Optional directory for evaluation JSON outputs. Defaults to evaluation_results/.",
     )
     return parser.parse_args()
 
@@ -98,7 +99,7 @@ def output_paths(mode: str) -> tuple[Path, str]:
 
 def evaluation_output_path(results_path: Path, evaluation_dir: str | None) -> Path:
     if not evaluation_dir:
-        return results_path.with_name(f"{results_path.stem}_evaluation.json")
+        return EVALUATION_DIR / f"{results_path.stem}_evaluation.json"
     directory = Path(evaluation_dir)
     if not directory.is_absolute():
         directory = ROOT / directory
