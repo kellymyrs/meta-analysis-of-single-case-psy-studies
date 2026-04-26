@@ -132,33 +132,60 @@ def _build_system_prompt() -> str:
         "Extract a structured summary from the provided study PDF or PDF text blocks. "
         "Respond with pure JSON matching this schema:\n"
         "{\n"
-        '  "Participant ID": "<string or list>",\n'
-        '  "Baseline Mean": "<number or null>",\n'
-        '  "Treatment Phase Slope": "<number or null>",\n'
-        '  "Clinical Contradictions": ["<string>", ...]\n'
+        '  "Country": "<string or null>",\n'
+        '  "Number of Cases": "<number or null>",\n'
+        '  "Gender": "<string or list or null>",\n'
+        '  "Age": "<number or list or null>",\n'
+        '  "Ethnicity / Race": "<string or list or null>",\n'
+        '  "Type of treatments": "<string or list or null>",\n'
+        '  "Total Number of Observations": "<number or list or null>"\n'
         "}\n"
         "If information is missing, use null or an empty list. Do NOT add extra keys or prose."
     )
+
+
+def _extract_json_text(raw: Any) -> str:
+    if not isinstance(raw, str):
+        return ""
+    text = raw.strip()
+    if text.startswith("```"):
+        lines = text.splitlines()
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+        text = "\n".join(lines).strip()
+    return text
 
 
 def _parse_json_with_retries(
     *,
     invoke: Any,
     retries: int,
+    debug_label: str | None = None,
 ) -> Optional[Dict[str, Any]]:
     last_error: Optional[Exception] = None
 
-    for _ in range(retries):
+    for attempt in range(1, retries + 1):
         raw = invoke()
         try:
-            parsed = json.loads(raw)
-            parsed.setdefault("Participant ID", None)
-            parsed.setdefault("Baseline Mean", None)
-            parsed.setdefault("Treatment Phase Slope", None)
-            parsed.setdefault("Clinical Contradictions", [])
+            parsed = json.loads(_extract_json_text(raw))
+            parsed.setdefault("Country", None)
+            parsed.setdefault("Number of Cases", None)
+            parsed.setdefault("Gender", None)
+            parsed.setdefault("Age", None)
+            parsed.setdefault("Ethnicity / Race", None)
+            parsed.setdefault("Type of treatments", None)
+            parsed.setdefault("Total Number of Observations", None)
             return parsed
         except Exception as exc:
             last_error = exc
+            label = f" [{debug_label}]" if debug_label else ""
+            preview = raw[:500] if isinstance(raw, str) else repr(raw)[:500]
+            print(
+                f"JSON parse failed{label} attempt {attempt}/{retries}: {exc}\n"
+                f"Raw response preview:\n{preview}\n"
+            )
 
     print(f"LLM extraction failed after {retries} attempts: {last_error}")
     return None
@@ -200,7 +227,7 @@ def run_sced_extraction(
             ]
         )
 
-    return _parse_json_with_retries(invoke=invoke, retries=retries)
+    return _parse_json_with_retries(invoke=invoke, retries=retries, debug_label="blocks")
 
 
 def run_sced_extraction_full_text(
@@ -245,7 +272,7 @@ def run_sced_extraction_full_text(
         "You are given per-chunk JSON extractions from one full study PDF. "
         "Merge them into one final JSON object using the required schema only. "
         "Prefer values supported repeatedly or most specifically. "
-        "Deduplicate Clinical Contradictions. "
+        "Deduplicate list-like fields such as Gender, Age, Type of treatments, or Total Number of Observations. "
         "Only output JSON.\n\n"
         f"CHUNK_JSONS:\n{json.dumps(chunk_summaries, ensure_ascii=False)}"
     )
@@ -258,7 +285,7 @@ def run_sced_extraction_full_text(
             ]
         )
 
-    return _parse_json_with_retries(invoke=invoke, retries=retries)
+    return _parse_json_with_retries(invoke=invoke, retries=retries, debug_label="full_text")
 
 
 def run_sced_extraction_from_pdf(
@@ -280,6 +307,7 @@ def run_sced_extraction_from_pdf(
         "Only output the JSON object, nothing else."
     )
     encoded_pdf = base64.b64encode(pdf_path.read_bytes()).decode("ascii")
+    file_data = f"data:application/pdf;base64,{encoded_pdf}"
 
     def invoke() -> str:
         response = client.responses.create(
@@ -300,7 +328,7 @@ def run_sced_extraction_from_pdf(
                         {
                             "type": "input_file",
                             "filename": pdf_path.name,
-                            "file_data": encoded_pdf,
+                            "file_data": file_data,
                         },
                         {
                             "type": "input_text",
@@ -314,7 +342,11 @@ def run_sced_extraction_from_pdf(
         )
         return getattr(response, "output_text", "") or ""
 
-    return _parse_json_with_retries(invoke=invoke, retries=retries)
+    return _parse_json_with_retries(
+        invoke=invoke,
+        retries=retries,
+        debug_label=f"full_pdf:{pdf_path.name}",
+    )
 
 
 __all__ = [

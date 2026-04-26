@@ -75,6 +75,10 @@ def parse_args() -> argparse.Namespace:
         "--gold",
         help="Optional path to a gold-standard JSONL file. If provided, precision/recall evaluation runs after extraction.",
     )
+    parser.add_argument(
+        "--evaluation-dir",
+        help="Optional directory for evaluation JSON outputs. Defaults next to the predictions JSONL file.",
+    )
     return parser.parse_args()
 
 
@@ -84,12 +88,21 @@ def resolve_pdf_files(selected_pdf: str | None) -> List[Path]:
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF not found: {pdf_path}")
         return [pdf_path]
-    return sorted(PDF_DIR.glob("*.pdf"))
+    return sorted(p for p in PDF_DIR.iterdir() if p.is_file() and p.suffix.lower() == ".pdf")
 
 
 def output_paths(mode: str) -> tuple[Path, str]:
     suffix = "" if mode == "blocks" else f"_{mode}"
     return TEXT_DIR / f"sced_results{suffix}.jsonl", suffix
+
+
+def evaluation_output_path(results_path: Path, evaluation_dir: str | None) -> Path:
+    if not evaluation_dir:
+        return results_path.with_name(f"{results_path.stem}_evaluation.json")
+    directory = Path(evaluation_dir)
+    if not directory.is_absolute():
+        directory = ROOT / directory
+    return directory / f"{results_path.stem}_evaluation.json"
 
 
 def main() -> None:
@@ -149,7 +162,8 @@ def main() -> None:
     if args.gold:
         gold_path = Path(args.gold)
         evaluation = evaluate_jsonl_files(results_path, gold_path)
-        evaluation_path = results_path.with_name(f"{results_path.stem}_evaluation.json")
+        evaluation_path = evaluation_output_path(results_path, args.evaluation_dir)
+        evaluation_path.parent.mkdir(parents=True, exist_ok=True)
         evaluation_path.write_text(json.dumps(evaluation, ensure_ascii=False, indent=2), encoding="utf-8")
 
         overall = evaluation["overall"]

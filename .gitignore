@@ -3,3 +3,7 @@
 data/
 *.pyc
 *.png
+/extracted_text
+/MSc_Information_Studies_DS_IS_Master_Thesis_Template__Copy_
+/extracted_text
+tmp/pdfs/reference.txt

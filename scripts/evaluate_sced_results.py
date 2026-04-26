@@ -1,8 +1,8 @@
 """
-Evaluate SCED extraction results against a gold-standard JSONL file.
+Evaluate extraction results against a gold-standard JSONL file.
 
 Expected JSONL schema for both predictions and gold:
-    {"pdf": "Taylor 2011.pdf", "Participant ID": ..., "Baseline Mean": ..., ...}
+    {"pdf": "Taylor 2011.pdf", "Country": ..., "Number of Cases": ..., ...}
 
 Metrics are computed per field and overall using micro-averaged precision, recall,
 and F1 across normalized value sets. This supports both scalar fields and list fields.
@@ -19,6 +19,7 @@ import argparse
 import json
 import logging
 from pathlib import Path
+import re
 import sys
 from typing import Any, Dict, Iterable, List, Tuple
 
@@ -29,13 +30,155 @@ if str(ROOT) not in sys.path:
 
 
 FIELDS = [
-    "Participant ID",
-    "Baseline Mean",
-    "Treatment Phase Slope",
-    "Clinical Contradictions",
+    "Country",
+    "Number of Cases",
+    "Gender",
+    "Age",
+    "Ethnicity / Race",
+    "Type of treatments",
+    "Total Number of Observations",
 ]
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+
+
+COUNTRY_ALIASES = {
+    "usa": "united states",
+    "u.s.a.": "united states",
+    "u.s.a": "united states",
+    "us": "united states",
+    "u.s.": "united states",
+    "u.s": "united states",
+    "united states of america": "united states",
+    "uk": "united kingdom",
+    "u.k.": "united kingdom",
+    "u.k": "united kingdom",
+    "aus": "australia",
+    "nl": "netherlands",
+    "the netherlands": "netherlands",
+    "can": "canada",
+    "ger": "germany",
+}
+
+VALUE_ALIASES = {
+    "f": "female",
+    "female": "female",
+    "girl": "female",
+    "girls": "female",
+    "m": "male",
+    "male": "male",
+    "boy": "male",
+    "boys": "male",
+    "cbt": "cognitive behavioral therapy",
+    "cognitive behavioural therapy": "cognitive behavioral therapy",
+    "cognitive behavior therapy": "cognitive behavioral therapy",
+    "cognitive behavioural treatment": "cognitive behavioral therapy",
+    "behavior therapy": "behavioral therapy",
+    "behaviour therapy": "behavioral therapy",
+    "behavioral treatment": "behavioral therapy",
+    "behavioural treatment": "behavioral therapy",
+    "tf-cbt": "trauma focused cognitive behavioral therapy",
+    "trauma-focused cbt": "trauma focused cognitive behavioral therapy",
+    "trauma focused cbt": "trauma focused cognitive behavioral therapy",
+    "vr exp": "virtual reality exposure",
+    "virtual reality exposure therapy": "virtual reality exposure",
+    "parent training": "behavioral parent training",
+    "behavioral parent training": "behavioral parent training",
+    "behavioural parent training": "behavioral parent training",
+    "pcit": "parent child interaction therapy",
+    "parent-child interaction therapy": "parent child interaction therapy",
+    "parent child interaction therapy": "parent child interaction therapy",
+}
+
+
+def _normalize_age_text(text: str) -> str:
+    age = text.lower().strip()
+    age = age.replace("years old", "")
+    age = age.replace("year old", "")
+    age = age.replace("years", "")
+    age = age.replace("year", "")
+    age = age.replace("yrs", "")
+    age = age.replace("yr", "")
+    age = age.replace("y/o", "")
+    age = age.replace("yo", "")
+    age = age.replace("to", "-")
+    age = age.replace("–", "-")
+    age = age.replace("—", "-")
+    age = re.sub(r"\s+", " ", age).strip()
+    age = re.sub(r"\s*-\s*", "-", age)
+    if re.fullmatch(r"\d+(?:\.\d+)?", age):
+        return format(float(age), ".12g")
+    if re.fullmatch(r"\d+(?:\.\d+)?-\d+(?:\.\d+)?", age):
+        start, end = age.split("-", 1)
+        return f"{format(float(start), '.12g')}-{format(float(end), '.12g')}"
+    return text
+
+
+def _normalize_gender_counts(text: str) -> str:
+    gender = text.lower().strip()
+    gender = gender.replace("females", "female")
+    gender = gender.replace("males", "male")
+    gender = gender.replace("girls", "female")
+    gender = gender.replace("girl", "female")
+    gender = gender.replace("boys", "male")
+    gender = gender.replace("boy", "male")
+    gender = gender.replace("women", "female")
+    gender = gender.replace("woman", "female")
+    gender = gender.replace("men", "male")
+    gender = gender.replace("man", "male")
+    gender = re.sub(r"(\d+)\s*f\b", r"\1 female", gender)
+    gender = re.sub(r"(\d+)\s*m\b", r"\1 male", gender)
+    gender = re.sub(r"\bf\s*(\d+)", r"\1 female", gender)
+    gender = re.sub(r"\bm\s*(\d+)", r"\1 male", gender)
+    female_before = [int(x) for x in re.findall(r"(\d+)\s*female\b", gender)]
+    male_before = [int(x) for x in re.findall(r"(\d+)\s*male\b", gender)]
+    female_after = [int(x) for x in re.findall(r"\bfemale\s*(\d+)", gender)]
+    male_after = [int(x) for x in re.findall(r"\bmale\s*(\d+)", gender)]
+    if female_after or male_after:
+        female_counts = female_after
+        male_counts = male_after
+    else:
+        female_counts = female_before
+        male_counts = male_before
+    if not female_counts and not male_counts:
+        return text
+    parts = []
+    if female_counts:
+        parts.append(f"female:{sum(female_counts)}")
+    if male_counts:
+        parts.append(f"male:{sum(male_counts)}")
+    return "|".join(parts)
+
+
+def _normalize_treatment_text(text: str) -> list[str] | None:
+    treatment = text.lower().strip()
+    if not treatment:
+        return None
+    if not re.search(r"\+|;|/|\band\b|\(", treatment):
+        return None
+
+    treatment = re.sub(r"\(([^)]*)\)", "", treatment)
+    treatment = treatment.replace("trauma-focused cbt", "trauma focused cognitive behavioral therapy")
+    treatment = treatment.replace("tf-cbt", "trauma focused cognitive behavioral therapy")
+    treatment = treatment.replace("trauma-focused cognitive behavioral therapy", "trauma focused cognitive behavioral therapy")
+    treatment = treatment.replace("cognitive behavioural therapy", "cognitive behavioral therapy")
+    treatment = treatment.replace("compassion-focused therapy", "compassion focused therapy")
+    treatment = treatment.replace("cft", "compassion focused therapy")
+    treatment = re.sub(r"\s+", " ", treatment).strip()
+
+    parts = re.split(r"\s*(?:\+|;|/|\band\b)\s*", treatment)
+    normalized_parts: list[str] = []
+    for part in parts:
+        part = part.strip(" ,")
+        if not part:
+            continue
+        part = VALUE_ALIASES.get(part, part)
+        part = re.sub(r"\s+", " ", part).strip()
+        normalized_parts.append(part)
+
+    if not normalized_parts:
+        return None
+    return normalized_parts
 
 
 def parse_args() -> argparse.Namespace:
@@ -59,15 +202,38 @@ def _normalize_atom(value: Any) -> str | None:
     text = str(value).strip()
     if not text or text.lower() in {"null", "none", "n/a", "na"}:
         return None
-    return " ".join(text.lower().split())
+    normalized = " ".join(text.lower().split())
+    normalized = re.sub(r"\s+", " ", normalized)
+    gender_normalized = _normalize_gender_counts(normalized)
+    if gender_normalized != normalized:
+        normalized = gender_normalized
+    age_normalized = _normalize_age_text(normalized)
+    if age_normalized != normalized:
+        normalized = age_normalized
+    normalized = COUNTRY_ALIASES.get(normalized, normalized)
+    normalized = VALUE_ALIASES.get(normalized, normalized)
+    return normalized
 
 
 def normalize_to_set(value: Any) -> set[str]:
     if value is None:
         return set()
     if isinstance(value, list):
-        normalized = {_normalize_atom(item) for item in value}
-        return {item for item in normalized if item is not None}
+        normalized_items: set[str] = set()
+        for item in value:
+            if isinstance(item, str):
+                treatments = _normalize_treatment_text(item)
+                if treatments:
+                    normalized_items.update(treatments)
+                    continue
+            atom = _normalize_atom(item)
+            if atom is not None:
+                normalized_items.add(atom)
+        return normalized_items
+    if isinstance(value, str):
+        treatments = _normalize_treatment_text(value)
+        if treatments:
+            return set(treatments)
     atom = _normalize_atom(value)
     return {atom} if atom is not None else set()
 
