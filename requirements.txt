@@ -7,3 +7,4 @@ Pillow>=10.0.0
 seaborn>=0.13.0
 openai>=1.0.0
 llama-cpp-python>=0.2.0
+pycountry>=24.6.1

@@ -7,3 +7,5 @@ data/
 /extracted_text
 /evaluation_results
 /tmp
+snellius/run_full_pdf.sbatch
+/snellius

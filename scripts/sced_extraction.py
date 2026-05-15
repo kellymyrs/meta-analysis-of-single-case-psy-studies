@@ -13,7 +13,7 @@ Usage example:
 Environment configuration (proxy mode, preferred):
     LITELLM_KEY       = <proxy token>                        (required for proxy mode)
     LITELLM_BASE_URL  = https://ai-research-proxy.azurewebsites.net (optional)
-    LITELLM_MODEL     = nf-gpt-4o                            (optional)
+    LITELLM_MODEL     = nf-gpt-4o-mini                       (optional)
 
 Environment configuration (local fallback):
     MODEL_PATH        = /absolute/path/to/model.gguf         (required for local fallback)
@@ -32,9 +32,17 @@ from typing import Any, Dict, List, Optional
 from openai import OpenAI
 from llama_cpp import Llama
 
+from scripts.sced_fields import (
+    FIELDS,
+    build_guidance_prompt,
+    build_schema_prompt,
+    normalize_field_keys,
+)
+
 
 _LLM: Optional[Llama] = None
 _CLIENT: Optional[OpenAI] = None
+DEFAULT_MAX_OUTPUT_TOKENS = 1800
 
 
 def get_runtime_backend() -> str:
@@ -44,6 +52,10 @@ def get_runtime_backend() -> str:
     if os.getenv("MODEL_PATH", "").strip():
         return "local"
     raise RuntimeError("Set either LITELLM_KEY (proxy mode) or MODEL_PATH (local GGUF mode).")
+
+
+def _max_output_tokens() -> int:
+    return int(os.getenv("SCED_MAX_OUTPUT_TOKENS", str(DEFAULT_MAX_OUTPUT_TOKENS)))
 
 
 def _get_client() -> OpenAI:
@@ -93,10 +105,10 @@ def _call_llm(messages: List[Dict[str, str]]) -> str:
     if backend == "proxy":
         client = _get_client()
         response = client.chat.completions.create(
-            model=os.getenv("LITELLM_MODEL", "nf-gpt-4o").strip(),
+            model=os.getenv("LITELLM_MODEL", "nf-gpt-4o-mini").strip(),
             messages=messages,
             temperature=0.2,
-            max_completion_tokens=600,
+            max_completion_tokens=_max_output_tokens(),
         )
         content = response.choices[0].message.content
         if content is None:
@@ -118,7 +130,7 @@ def _call_llm(messages: List[Dict[str, str]]) -> str:
     resp = llm(
         prompt,
         temperature=0.2,
-        max_tokens=600,
+        max_tokens=_max_output_tokens(),
         top_p=0.9,
         repeat_penalty=1.05,
         echo=False,
@@ -127,19 +139,14 @@ def _call_llm(messages: List[Dict[str, str]]) -> str:
 
 
 def _build_system_prompt() -> str:
+    guidance = build_guidance_prompt()
+    guidance_section = f"\nImportant field guidance:\n{guidance}\n" if guidance else "\n"
     return (
         "You are an expert psychologist specializing in single-case experimental designs. "
         "Extract a structured summary from the provided study PDF or PDF text blocks. "
         "Respond with pure JSON matching this schema:\n"
-        "{\n"
-        '  "Country": "<string or null>",\n'
-        '  "Number of Cases": "<number or null>",\n'
-        '  "Gender": "<string or list or null>",\n'
-        '  "Age": "<number or list or null>",\n'
-        '  "Ethnicity / Race": "<string or list or null>",\n'
-        '  "Type of treatments": "<string or list or null>",\n'
-        '  "Total Number of Observations": "<number or list or null>"\n'
-        "}\n"
+        f"{build_schema_prompt()}\n"
+        f"{guidance_section}"
         "If information is missing, use null or an empty list. Do NOT add extra keys or prose."
     )
 
@@ -169,14 +176,9 @@ def _parse_json_with_retries(
     for attempt in range(1, retries + 1):
         raw = invoke()
         try:
-            parsed = json.loads(_extract_json_text(raw))
-            parsed.setdefault("Country", None)
-            parsed.setdefault("Number of Cases", None)
-            parsed.setdefault("Gender", None)
-            parsed.setdefault("Age", None)
-            parsed.setdefault("Ethnicity / Race", None)
-            parsed.setdefault("Type of treatments", None)
-            parsed.setdefault("Total Number of Observations", None)
+            parsed = normalize_field_keys(json.loads(_extract_json_text(raw)))
+            for field in FIELDS:
+                parsed.setdefault(field, None)
             return parsed
         except Exception as exc:
             last_error = exc
@@ -272,7 +274,8 @@ def run_sced_extraction_full_text(
         "You are given per-chunk JSON extractions from one full study PDF. "
         "Merge them into one final JSON object using the required schema only. "
         "Prefer values supported repeatedly or most specifically. "
-        "Deduplicate list-like fields such as Gender, Age, Type of treatments, or Total Number of Observations. "
+        "Deduplicate list-like fields such as Gender, Age, Type of treatments, treatment protocol, "
+        "number of sessions, total observations, and frequent assessment symptoms. "
         "Only output JSON.\n\n"
         f"CHUNK_JSONS:\n{json.dumps(chunk_summaries, ensure_ascii=False)}"
     )
@@ -311,7 +314,7 @@ def run_sced_extraction_from_pdf(
 
     def invoke() -> str:
         response = client.responses.create(
-            model=os.getenv("LITELLM_MODEL", "gpt-5.1").strip(),
+            model=os.getenv("LITELLM_MODEL", "nf-gpt-4o-mini").strip(),
             input=[
                 {
                     "role": "system",
@@ -338,7 +341,7 @@ def run_sced_extraction_from_pdf(
                 },
             ],
             temperature=0.2,
-            max_output_tokens=600,
+            max_output_tokens=_max_output_tokens(),
         )
         return getattr(response, "output_text", "") or ""
 

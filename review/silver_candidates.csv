@@ -1,0 +1,169 @@
+pdf,study,field,status,silver_value_json,normalized_value_json,legacy_value_json,llm_a_value_json,llm_b_value_json,decision_reason
+Barterian 2018 - An Examination of Fluoxetine for the Treatment of Selective Mutism Using a Nonconcurrent Multiple-Baseline Single-Case Design Across 5 Cases.pdf,Barterian 2018,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Barterian 2018 - An Examination of Fluoxetine for the Treatment of Selective Mutism Using a Nonconcurrent Multiple-Baseline Single-Case Design Across 5 Cases.pdf,Barterian 2018,Number of Cases,silver_auto,5,"[""5""]",5,5,5,Normalized three-way agreement; accepted as silver.
+Barterian 2018 - An Examination of Fluoxetine for the Treatment of Selective Mutism Using a Nonconcurrent Multiple-Baseline Single-Case Design Across 5 Cases.pdf,Barterian 2018,Age,silver_auto,"[7, 5, 12, 14]","[""5-14""]","[7, 5, 12, 14]","[5, 14]","""5 to 14 years""",Normalized three-way agreement; accepted as silver.
+Bechor 2014.pdf,Bechor 2014,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Bowyer 2014.pdf,Bowyer 2014,Country,silver_auto,"""UK""","[""united kingdom""]","""UK""","""UK""","""UK""",Normalized three-way agreement; accepted as silver.
+Bowyer 2014.pdf,Bowyer 2014,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Bowyer 2014.pdf,Bowyer 2014,Gender,silver_auto,"""F""","[""female""]","""F""","""Female""","""female""",Normalized three-way agreement; accepted as silver.
+Bowyer 2014.pdf,Bowyer 2014,Age,silver_auto,17,"[""17""]",17,17,17,Normalized three-way agreement; accepted as silver.
+Carlson 1999.pdf,Carlson 1999,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Carlson 1999.pdf,Carlson 1999,Number of Cases,silver_auto,5,"[""5""]",5,5,5,Normalized three-way agreement; accepted as silver.
+Carlson 1999.pdf,Carlson 1999,Type of treatments,silver_auto,"""Sertraline""","[""sertraline""]","""Sertraline""","""Sertraline treatment""","""Sertraline medication""",Normalized three-way agreement; accepted as silver.
+Chevalier 2020 - Evaluation_of_a_treatment_of_sleep_relat.pdf,Chevalier 2020,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""USA""",Normalized three-way agreement; accepted as silver.
+Choate 2005.pdf,Choate 2005,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Choate 2005.pdf,Choate 2005,Type of treatments,silver_auto,"""Parent-child interaction therapy""","[""parent child interaction therapy""]","""Parent-child interaction therapy""","""Parent-Child Interaction Therapy (PCIT)""","""Parent-Child Interaction Therapy (PCIT)""",Normalized three-way agreement; accepted as silver.
+Chorpita 1996 - A systematic replication of the prescriptive treatment of school refusal behavior in a single subject.pdf,Chorpita 1996,Country,silver_auto,"""USA""","[""united states""]","""USA""","""U.S.A.""","""U.S.A.""",Normalized three-way agreement; accepted as silver.
+Chorpita 1996 - A systematic replication of the prescriptive treatment of school refusal behavior in a single subject.pdf,Chorpita 1996,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Chorpita 1996 - A systematic replication of the prescriptive treatment of school refusal behavior in a single subject.pdf,Chorpita 1996,Gender,silver_auto,"""F""","[""female""]","""F""","""female""","""female""",Normalized three-way agreement; accepted as silver.
+Cooper-Vince 2016.pdf,Cooper-Vince 2016,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Cooper-Vince 2016.pdf,Cooper-Vince 2016,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Cooper-Vince 2016.pdf,Cooper-Vince 2016,Gender,silver_auto,"""M""","[""male""]","""M""","""male""","""male""",Normalized three-way agreement; accepted as silver.
+Cooper-Vince 2016.pdf,Cooper-Vince 2016,Age,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Cowart 2011.pdf,Cowart 2011,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Cowart 2011.pdf,Cowart 2011,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Cowart 2011.pdf,Cowart 2011,Gender,silver_auto,"""M""","[""male""]","""M""","[""male"", ""male""]","[""male"", ""male""]",Normalized three-way agreement; accepted as silver.
+Cowart 2011.pdf,Cowart 2011,Type of treatments,silver_auto,"""Attention training""","[""attention training""]","""Attention training""","""Attention Training Treatment (ATT)""","""Attention training (ATT)""",Normalized three-way agreement; accepted as silver.
+Cunningham 2009.pdf,Cunningham 2009,Country,silver_auto,"""AUS""","[""australia""]","""AUS""","""Australia""","""Australia""",Normalized three-way agreement; accepted as silver.
+Cunningham 2009.pdf,Cunningham 2009,Number of Cases,silver_auto,5,"[""5""]",5,5,5,Normalized three-way agreement; accepted as silver.
+Cunningham 2009.pdf,Cunningham 2009,Gender,silver_auto,"[""F"", ""M""]","[""female"", ""male""]","[""F"", ""M""]","[""female"", ""male""]","[""female"", ""male""]",Normalized three-way agreement; accepted as silver.
+Cunningham 2009.pdf,Cunningham 2009,Age,silver_auto,"[15, 16, 14]","[""14-16""]","[15, 16, 14]","[14, 15, 16]","[14, 15, 16]",Normalized three-way agreement; accepted as silver.
+Eckshtain 2009 - Assessing Outcome in Cognitive Behavior Therapy for Child Depression  An Illustrative Case Series.pdf,Eckshtain 2009,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Eckshtain 2009 - Assessing Outcome in Cognitive Behavior Therapy for Child Depression  An Illustrative Case Series.pdf,Eckshtain 2009,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Ehrenreich 2009.pdf,Ehrenreich 2009,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Ehrenreich 2009.pdf,Ehrenreich 2009,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Eisen 1998,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Eisen 1998,Age,silver_auto,"[8, 12, 11]","[""8-12""]","[8, 12, 11]","[8, 12]","""8 to 12 years""",Normalized three-way agreement; accepted as silver.
+Eisen 2008.pdf,Eisen 2008,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Eisen 2008.pdf,Eisen 2008,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Esveldt-Dawson 1982.pdf,Esveldt-Dawson 1982,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Esveldt-Dawson 1982.pdf,Esveldt-Dawson 1982,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Esveldt-Dawson 1982.pdf,Esveldt-Dawson 1982,Gender,silver_auto,"""F""","[""female""]","""F""","""female""","""female""",Normalized three-way agreement; accepted as silver.
+Esveldt-Dawson 1982.pdf,Esveldt-Dawson 1982,Ethnicity / Race,silver_auto,"""white""","[""white""]","""white""","""white""","""white""",Normalized three-way agreement; accepted as silver.
+Farrell 1998 - Cognitive behavioral interventions for sexually abused children exhibiting PTSD symptomatology.pdf,Farrell 1998,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Farrell 1998 - Cognitive behavioral interventions for sexually abused children exhibiting PTSD symptomatology.pdf,Farrell 1998,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Farrell 1998 - Cognitive behavioral interventions for sexually abused children exhibiting PTSD symptomatology.pdf,Farrell 1998,Age,silver_auto,"[10, 8, 9]","[""8-10""]","[10, 8, 9]","[8, 9, 10]","[10, 10, 8, 9]",Normalized three-way agreement; accepted as silver.
+Farrell 2018.pdf,Farrell 2018,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Farrell 2021- Virtual reality one-session treatment of child-specific phobia of dogs.pdf,Farrell 2021,Country,silver_auto,"""AUS""","[""australia""]","""AUS""","""Australia""","""Australia""",Normalized three-way agreement; accepted as silver.
+Farrell 2021- Virtual reality one-session treatment of child-specific phobia of dogs.pdf,Farrell 2021,Number of Cases,silver_auto,8,"[""8""]",8,8,8,Normalized three-way agreement; accepted as silver.
+Farrell 2021- Virtual reality one-session treatment of child-specific phobia of dogs.pdf,Farrell 2021,Age,silver_auto,"[8, 9, 12, 10, 11]","[""8-12""]","[8, 9, 12, 10, 11]","[8, 9, 10, 11, 12]","""8-12 years""",Normalized three-way agreement; accepted as silver.
+Feather 2009.pdf,Feather 2009,Number of Cases,silver_auto,8,"[""8""]",8,8,8,Normalized three-way agreement; accepted as silver.
+Feather 2009.pdf,Feather 2009,Age,silver_auto,"[11, 13, 12, 9]","[""9-13""]","[11, 13, 12, 9]","[9, 13]","""9-13""",Normalized three-way agreement; accepted as silver.
+Fernandez 2013.pdf,Fernandez 2013,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Fernandez 2013.pdf,Fernandez 2013,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Frame 1982 - Behavioral treatment of depression in a prepubertal child.pdf,Frame 1982,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Frame 1982 - Behavioral treatment of depression in a prepubertal child.pdf,Frame 1982,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Frame 1982 - Behavioral treatment of depression in a prepubertal child.pdf,Frame 1982,Gender,silver_auto,"""M""","[""male""]","""M""","""male""","""male""",Normalized three-way agreement; accepted as silver.
+Frame 1982 - Behavioral treatment of depression in a prepubertal child.pdf,Frame 1982,Age,silver_auto,10,"[""10""]",10,10,10,Normalized three-way agreement; accepted as silver.
+Francis 2021.pdf,Francis 2021,Country,silver_auto,"""AUS""","[""australia""]","""AUS""","""Australia""","""Australia""",Normalized three-way agreement; accepted as silver.
+Francis 2021.pdf,Francis 2021,Age,silver_auto,"""8to12yo""","[""8-12""]","""8to12yo""","[8, 12]","""8 to 12 years""",Normalized three-way agreement; accepted as silver.
+Garcia 2020 - INTERVENCION_MEDIANTE_EXPOSICION.pdf,Ruiz Garcia 2020,Country,silver_auto,"""Spain""","[""spain""]","""Spain""","""España""","""Spain""",Normalized three-way agreement; accepted as silver.
+Garcia 2020 - INTERVENCION_MEDIANTE_EXPOSICION.pdf,Ruiz Garcia 2020,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Garcia 2020 - INTERVENCION_MEDIANTE_EXPOSICION.pdf,Ruiz Garcia 2020,Age,silver_auto,13,"[""13""]",13,13,13,Normalized three-way agreement; accepted as silver.
+Geuke 2019.pdf,Geuke 2019,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Girling-Butcher 2009.pdf,Girling-Butcher 2009,Country,silver_auto,"""New Zealand""","[""new zealand""]","""New Zealand""","""New Zealand""","""New Zealand""",Normalized three-way agreement; accepted as silver.
+Girling-Butcher 2009.pdf,Girling-Butcher 2009,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Girling-Butcher 2009.pdf,Girling-Butcher 2009,Age,silver_auto,"[8, 10, 11]","[""8-11""]","[8, 10, 11]","[8, 9, 10, 11]","[8, 8, 11, 10]",Normalized three-way agreement; accepted as silver.
+Goodall 2017.pdf,Goodall 2017,Country,silver_auto,"""UK""","[""united kingdom""]","""UK""","""UK""","""United Kingdom""",Normalized three-way agreement; accepted as silver.
+Goodall 2017.pdf,Goodall 2017,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Goodall 2017.pdf,Goodall 2017,Age,silver_auto,8,"[""8""]",8,8,8,Normalized three-way agreement; accepted as silver.
+Goodall 2017.pdf,Goodall 2017,Type of treatments,silver_auto,"""CBT""","[""cognitive behavioral therapy""]","""CBT""","""Cognitive Behavior Therapy (CBT-3M)""","""Cognitive Behavioral Therapy (CBT)""",Normalized three-way agreement; accepted as silver.
+Hagopian 1993.pdf,Hagopian 1993,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Hagopian 1993.pdf,Hagopian 1993,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Hagopian 1993.pdf,Hagopian 1993,Gender,silver_auto,"""F""","[""female""]","""F""","""female""","""female""",Normalized three-way agreement; accepted as silver.
+Hagopian 1993.pdf,Hagopian 1993,Ethnicity / Race,silver_auto,"""white""","[""white""]","""white""","""white""","""white""",Normalized three-way agreement; accepted as silver.
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Hendriks 2017,Country,silver_auto,"""NL""","[""netherlands""]","""NL""","""The Netherlands""","""The Netherlands""",Normalized three-way agreement; accepted as silver.
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Hendriks 2017,Number of Cases,silver_auto,10,"[""10""]",10,10,10,Normalized three-way agreement; accepted as silver.
+Howard-Kendall 1996.pdf,Howard-Kendall 1996,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""USA""",Normalized three-way agreement; accepted as silver.
+Howard-Kendall 1996.pdf,Howard-Kendall 1996,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Howard-Kendall 1996.pdf,Howard-Kendall 1996,Age,silver_auto,"[10, 9, 13, 11]","[""9-13""]","[10, 9, 13, 11]","[9, 13]","""9 to 13""",Normalized three-way agreement; accepted as silver.
+Jacob 2013.pdf,Jacob 2013,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Jacob 2013.pdf,Jacob 2013,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Jacob 2013.pdf,Jacob 2013,Ethnicity / Race,silver_auto,"""african american""","[""african american""]","""african american""","""African American""","""African American""",Normalized three-way agreement; accepted as silver.
+Jarrett 2012.pdf,Jarrett 2012,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Jarrett 2012.pdf,Jarrett 2012,Number of Cases,silver_auto,8,"[""8""]",8,8,8,Normalized three-way agreement; accepted as silver.
+Kane 1989.pdf,Kane 1989,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Kane 1989.pdf,Kane 1989,Gender,silver_auto,"[""M"", ""F""]","[""female"", ""male""]","[""M"", ""F""]","[""male"", ""female"", ""female"", ""female""]","[""male"", ""female""]",Normalized three-way agreement; accepted as silver.
+Kane 1989.pdf,Kane 1989,Age,silver_auto,"[10, 13, 9]","[""9-13""]","[10, 13, 9]","[10, 13, 9, 9]","""9-13 years""",Normalized three-way agreement; accepted as silver.
+Leger 2003.pdf,Leger 2003,Country,silver_auto,"""CAN""","[""canada""]","""CAN""","""Canada""","""Canada""",Normalized three-way agreement; accepted as silver.
+Leger 2003.pdf,Leger 2003,Gender,silver_auto,"[""F"", ""M""]","[""female"", ""male""]","[""F"", ""M""]","[""female"", ""male""]","[""female"", ""male""]",Normalized three-way agreement; accepted as silver.
+Leigh 2016.pdf,Leigh 2016,Country,silver_auto,"""UK""","[""united kingdom""]","""UK""","""UK""","""UK""",Normalized three-way agreement; accepted as silver.
+Leigh 2016.pdf,Leigh 2016,Number of Cases,silver_auto,5,"[""5""]",5,5,5,Normalized three-way agreement; accepted as silver.
+Leigh 2016.pdf,Leigh 2016,Age,silver_auto,"[15, 11, 16, 17]","[""11-17""]","[15, 11, 16, 17]","[11, 17]","[15, 11, 16, 17, 15]",Normalized three-way agreement; accepted as silver.
+Lewis 2015.pdf,Lewis 2015,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Lewis 2015.pdf,Lewis 2015,Number of Cases,silver_auto,9,"[""9""]",9,9,9,Normalized three-way agreement; accepted as silver.
+Lumpkin 2002.pdf,Lumpkin 2002,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""USA""",Normalized three-way agreement; accepted as silver.
+Lumpkin 2002.pdf,Lumpkin 2002,Age,silver_auto,"""6to16yo""","[""6-16""]","""6to16yo""","[6, 16]","""6-16 years""",Normalized three-way agreement; accepted as silver.
+Malboeuf-Hurtubise 2017.pdf,Malboeuf-Hurtubise 2017,Country,silver_auto,"""CAN""","[""canada""]","""CAN""","""Canada""","""Canada""",Normalized three-way agreement; accepted as silver.
+Malboeuf-Hurtubise 2017.pdf,Malboeuf-Hurtubise 2017,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Malboeuf-Hurtubise 2017.pdf,Malboeuf-Hurtubise 2017,Type of treatments,silver_auto,"""Mindfulness""","[""mindfulness""]","""Mindfulness""","""Mindfulness-based intervention""","[""Mindfulness-based intervention""]",Normalized three-way agreement; accepted as silver.
+Maric 2015 - Evaluating statistical and clinical significance of intervention effects in single-case. experimental designs.pdf,Maric 2015,Country,silver_auto,"""NL""","[""netherlands""]","""NL""","""Netherlands""","""Netherlands""",Normalized three-way agreement; accepted as silver.
+Maric 2015 - Evaluating statistical and clinical significance of intervention effects in single-case. experimental designs.pdf,Maric 2015,Number of Cases,silver_auto,1,"[""1""]",1,1,1,Normalized three-way agreement; accepted as silver.
+Mayer-Brien 2017.pdf,Mayer-Brien 2017,Country,silver_auto,"""CAN""","[""canada""]","""CAN""","""Canada""","""Canada""",Normalized three-way agreement; accepted as silver.
+Mayer-Brien 2017.pdf,Mayer-Brien 2017,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Mayer-Brien 2017.pdf,Mayer-Brien 2017,Age,silver_auto,"[4, 7, 6, 5]","[""4-7""]","[4, 7, 6, 5]","[4, 7]","""4 to 7 years""",Normalized three-way agreement; accepted as silver.
+Nakamura 2008 - Differential_Sequencing_of_Cognitive-Behavioral_Te.pdf,Nakamura 2008,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Nakamura 2008 - Differential_Sequencing_of_Cognitive-Behavioral_Te.pdf,Nakamura 2008,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Nelissen 1995.pdf,Nelissen 1995,Country,silver_auto,"""NL""","[""netherlands""]","""NL""","""The Netherlands""","""The Netherlands""",Normalized three-way agreement; accepted as silver.
+Nelissen 1995.pdf,Nelissen 1995,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Nelissen 1995.pdf,Nelissen 1995,Gender,silver_auto,"""F""","[""female""]","""F""","[""female"", ""female""]","[""female"", ""female""]",Normalized three-way agreement; accepted as silver.
+Nelissen 1995.pdf,Nelissen 1995,Age,silver_auto,"[10, 9]","[""9-10""]","[10, 9]","[10, 9]","[10, 9]",Normalized three-way agreement; accepted as silver.
+Neuhoff 2006.pdf,Neuhoff 2006,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Neuhoff 2006.pdf,Neuhoff 2006,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+O'Reilly 2008 -examination-of-a-social-problem-solving-intervention-to-treat-selective-mutism.pdf,O'Reilly 2008,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+O'Reilly 2008 -examination-of-a-social-problem-solving-intervention-to-treat-selective-mutism.pdf,O'Reilly 2008,Gender,silver_auto,"""F""","[""female""]","""F""","[""female"", ""female""]","[""female"", ""female""]",Normalized three-way agreement; accepted as silver.
+Oar 2015 - One session treatment for specific phobias.pdf,Oar 2015,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Olivier 2021.pdf,Olivier 2021,Country,silver_auto,"""NL""","[""netherlands""]","""NL""","""The Netherlands""","""The Netherlands""",Normalized three-way agreement; accepted as silver.
+Olivier 2021.pdf,Olivier 2021,Number of Cases,silver_auto,9,"[""9""]",9,9,9,Normalized three-way agreement; accepted as silver.
+Olivier 2021.pdf,Olivier 2021,Type of treatments,silver_auto,"""EMDR""","[""eye movement desensitization and reprocessing""]","""EMDR""","""Eye Movement Desensitization and Reprocessing (EMDR)""","""Eye Movement Desensitization and Reprocessing (EMDR)""",Normalized three-way agreement; accepted as silver.
+Ollendick 1991.pdf,Ollendick 1991,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Ollendick 1991.pdf,Ollendick 1991,Gender,silver_auto,"""F""","[""female""]","""F""","[""female"", ""female""]","[""female"", ""female""]",Normalized three-way agreement; accepted as silver.
+Ollendick 1995.pdf,Ollendick 1995,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""United States""",Normalized three-way agreement; accepted as silver.
+Ollendick 1995.pdf,Ollendick 1995,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Ollendick 1995.pdf,Ollendick 1995,Type of treatments,silver_auto,"""CBT""","[""cognitive behavioral therapy""]","""CBT""","""cognitive behavioral therapy""","[""Cognitive Behavioral Therapy""]",Normalized three-way agreement; accepted as silver.
+Ollendick 2021 - Adaptation of one-session treatment for specific phobias for children with autism spectrum disorder using a non-concurrent multiple baseline design.pdf,Ollendick 2021,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Ortega 2012.pdf,Ortega 2012,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Ortega 2012.pdf,Ortega 2012,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Pasquinelli 2009 - The Efficacy of Treating Adolescent Depression with Interpersonal.pdf,Pasquinelli 2009,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Pasquinelli 2009 - The Efficacy of Treating Adolescent Depression with Interpersonal.pdf,Pasquinelli 2009,Type of treatments,silver_auto,"""Interpersonal Psychotherapy""","[""interpersonal psychotherapy""]","""Interpersonal Psychotherapy""","""Interpersonal Psychotherapy for Adolescents (IPT-A)""","""Interpersonal Psychotherapy for Adolescents (IPT-A)""",Normalized three-way agreement; accepted as silver.
+Pathak 2005.pdf,Pathak 2005,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Quero 2014 - Lastecnologasdelainformacinylacomunicacineneltratamientodelafobiaaanimalespequeosenlainfancia.pdf,Quero 2014,Country,silver_auto,"""Spain""","[""spain""]","""Spain""","""España""","""España""",Normalized three-way agreement; accepted as silver.
+Radtke 2022.pdf,Radtke 2022,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Radtke 2022.pdf,Radtke 2022,Number of Cases,silver_auto,7,"[""7""]",7,7,7,Normalized three-way agreement; accepted as silver.
+Radtke 2022.pdf,Radtke 2022,Age,silver_auto,"""4to7yo""","[""4-7""]","""4to7yo""","[4, 7]","""4 to 7 years""",Normalized three-way agreement; accepted as silver.
+Ravid 2021.pdf,Ravid 2021,Number of Cases,silver_auto,2,"[""2""]",2,2,2,Normalized three-way agreement; accepted as silver.
+Reuland 2014.pdf,Reuland 2014,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Reuland 2014.pdf,Reuland 2014,Age,silver_auto,"[10, 14, 13, 15, 12, 11]","[""10-15""]","[10, 14, 13, 15, 12, 11]","[10, 15]","""10-15""",Normalized three-way agreement; accepted as silver.
+Saigh 1987.pdf,Saigh 1987,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Saigh 1987.pdf,Saigh 1987,Gender,silver_auto,"[""F"", ""M""]","[""female"", ""male""]","[""F"", ""M""]","[""female"", ""female"", ""male""]","[""female"", ""female"", ""male""]",Normalized three-way agreement; accepted as silver.
+Saigh 1987.pdf,Saigh 1987,Age,silver_auto,"[11, 12]","[""11-12""]","[11, 12]","[11, 11, 12]","[11, 11, 12]",Normalized three-way agreement; accepted as silver.
+Saigh 1987.pdf,Saigh 1987,Ethnicity / Race,silver_auto,"""lebanese""","[""lebanese""]","""lebanese""","[""Lebanese"", ""Lebanese"", ""Lebanese""]","""Lebanese""",Normalized three-way agreement; accepted as silver.
+Salazar 2020 -  Acceptance and commitment therapy focused on repetitive negative thinking for child depression.pdf,Salazar 2020,Country,silver_auto,"""Columbia""","[""colombia""]","""Columbia""","""Colombia""","""Colombia""",Normalized three-way agreement; accepted as silver.
+Salazar 2020 -  Acceptance and commitment therapy focused on repetitive negative thinking for child depression.pdf,Salazar 2020,Number of Cases,silver_auto,9,"[""9""]",9,9,9,Normalized three-way agreement; accepted as silver.
+Salazar 2020 -  Acceptance and commitment therapy focused on repetitive negative thinking for child depression.pdf,Salazar 2020,Age,silver_auto,"[10, 8, 9, 13, 11, 12]","[""8-13""]","[10, 8, 9, 13, 11, 12]","[8, 13]","""8-13""",Normalized three-way agreement; accepted as silver.
+Salazar 2020 -  Acceptance and commitment therapy focused on repetitive negative thinking for child depression.pdf,Salazar 2020,Type of treatments,silver_auto,"""Acceptance and Commitment Therapy""","[""acceptance and commitment therapy""]","""Acceptance and Commitment Therapy""","""Acceptance and Commitment Therapy focused on Repetitive Negative Thinking""","""Acceptance and Commitment Therapy (ACT) focused on repetitive negative thinking (RNT)""",Normalized three-way agreement; accepted as silver.
+Santucci 2009.pdf,Santucci 2009,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Santucci 2009.pdf,Santucci 2009,Gender,silver_auto,"""F""","[""female""]","""F""","[""female""]","""female""",Normalized three-way agreement; accepted as silver.
+Santucci 2009.pdf,Santucci 2009,Age,silver_auto,"[10, 11, 8]","[""8-11""]","[10, 11, 8]","[8, 9, 10, 11]","""8 to 11""",Normalized three-way agreement; accepted as silver.
+Simons 2016.pdf,Simons 2016,Country,silver_auto,"""GER""","[""germany""]","""GER""","""Germany""","""Germany""",Normalized three-way agreement; accepted as silver.
+Simons 2016.pdf,Simons 2016,Number of Cases,silver_auto,3,"[""3""]",3,3,3,Normalized three-way agreement; accepted as silver.
+Simons 2016.pdf,Simons 2016,Gender,silver_auto,"""F""","[""female""]","""F""","""female""","""female""",Normalized three-way agreement; accepted as silver.
+Simons 2016.pdf,Simons 2016,Type of treatments,silver_auto,"""Metacognitive therapy""","[""metacognitive therapy""]","""Metacognitive therapy""","""metacognitive therapy (MCT)""","""Metacognitive therapy (MCT)""",Normalized three-way agreement; accepted as silver.
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Storch 2015,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""USA""",Normalized three-way agreement; accepted as silver.
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Storch 2015,Age,silver_auto,"[12, 13, 14, 15]","[""12-15""]","[12, 13, 14, 15]","[12, 15]","""12-15""",Normalized three-way agreement; accepted as silver.
+Suveg 2006.pdf,Suveg 2006,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Suveg 2006.pdf,Suveg 2006,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Suveg 2006.pdf,Suveg 2006,Age,silver_auto,"""7to13yo""","[""7-13""]","""7to13yo""","[7, 13]","""7-13 years""",Normalized three-way agreement; accepted as silver.
+Taylor 2011.pdf,Taylor 2011,Country,silver_auto,"""USA""","[""united states""]","""USA""","""United States""","""United States""",Normalized three-way agreement; accepted as silver.
+Taylor 2011.pdf,Taylor 2011,Number of Cases,silver_auto,6,"[""6""]",6,6,6,Normalized three-way agreement; accepted as silver.
+Taylor 2011.pdf,Taylor 2011,Age,silver_auto,"[13, 9, 8, 12]","[""8-13""]","[13, 9, 8, 12]","[8, 13]","""8-13""",Normalized three-way agreement; accepted as silver.
+Taylor 2011.pdf,Taylor 2011,Type of treatments,silver_auto,"""CBT""","[""cognitive behavioral therapy""]","""CBT""","""Cognitive-Behavior Therapy (StArT manual)""","""Cognitive Behavioral Therapy (CBT)""",Normalized three-way agreement; accepted as silver.
+Tolin 2009.pdf,Tolin 2009,Country,silver_auto,"""USA""","[""united states""]","""USA""","""USA""","""United States""",Normalized three-way agreement; accepted as silver.
+Tolin 2009.pdf,Tolin 2009,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Tolin 2009.pdf,Tolin 2009,Gender,silver_auto,"""M""","[""male""]","""M""","[""male""]","[""male"", ""male"", ""male"", ""male""]",Normalized three-way agreement; accepted as silver.
+Unterhitzenberger 2015 - Trauma-focused cognitive behavioral therapy with unaccompanied refugee minors.pdf,Unterhitzenberger 2015,Country,silver_auto,"""GER""","[""germany""]","""GER""","""Germany""","""Germany""",Normalized three-way agreement; accepted as silver.
+Waters 2008.pdf,Waters 2008,Country,silver_auto,"""AUS""","[""australia""]","""AUS""","""Australia""","""Australia""",Normalized three-way agreement; accepted as silver.
+Waters 2008.pdf,Waters 2008,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Waters 2008.pdf,Waters 2008,Gender,silver_auto,"""F""","[""female""]","""F""","""female""","""female""",Normalized three-way agreement; accepted as silver.
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Yorke 2013,Number of Cases,silver_auto,4,"[""4""]",4,4,4,Normalized three-way agreement; accepted as silver.
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Yorke 2013,Age,silver_auto,"""8to10yo""","[""8-10""]","""8to10yo""","[8, 10]","""8-10 years""",Normalized three-way agreement; accepted as silver.

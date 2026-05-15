@@ -1,0 +1,147 @@
+{
+  "legacy_records": 71,
+  "llm_a_records": 71,
+  "llm_b_records": 71,
+  "matched_or_union_pdfs": 71,
+  "fields_per_pdf": 23,
+  "skipped_fields": [
+    "Study"
+  ],
+  "silver_rows": 168,
+  "review_rows": 1460,
+  "status_counts": {
+    "all_different": 537,
+    "all_missing": 5,
+    "legacy_llm_a_agree": 11,
+    "legacy_llm_b_agree": 652,
+    "one_source_only": 224,
+    "silver_auto": 168,
+    "two_llms_agree_legacy_diff": 36
+  },
+  "field_status_counts": {
+    "Age": {
+      "all_different": 10,
+      "legacy_llm_a_agree": 3,
+      "legacy_llm_b_agree": 25,
+      "silver_auto": 28,
+      "two_llms_agree_legacy_diff": 5
+    },
+    "Comorbid diagnosis / problems": {
+      "all_different": 59,
+      "one_source_only": 12
+    },
+    "Country": {
+      "all_different": 3,
+      "legacy_llm_a_agree": 3,
+      "legacy_llm_b_agree": 7,
+      "one_source_only": 1,
+      "silver_auto": 53,
+      "two_llms_agree_legacy_diff": 4
+    },
+    "Data availability": {
+      "all_different": 29,
+      "legacy_llm_b_agree": 42
+    },
+    "Diagnosis screening or diagnostic interview?": {
+      "all_different": 12,
+      "legacy_llm_b_agree": 59
+    },
+    "Drop-outs": {
+      "all_different": 26,
+      "legacy_llm_b_agree": 45
+    },
+    "Ethnicity / Race": {
+      "all_different": 17,
+      "all_missing": 1,
+      "legacy_llm_b_agree": 26,
+      "one_source_only": 22,
+      "silver_auto": 4,
+      "two_llms_agree_legacy_diff": 1
+    },
+    "Frequent assessment specific symptom": {
+      "all_different": 31,
+      "legacy_llm_b_agree": 5,
+      "one_source_only": 35
+    },
+    "Frequent assessment variable broad category": {
+      "all_different": 34,
+      "legacy_llm_b_agree": 14,
+      "one_source_only": 23
+    },
+    "Gender": {
+      "all_different": 8,
+      "legacy_llm_b_agree": 43,
+      "one_source_only": 2,
+      "silver_auto": 18
+    },
+    "Number of Cases": {
+      "all_different": 2,
+      "legacy_llm_b_agree": 6,
+      "silver_auto": 54,
+      "two_llms_agree_legacy_diff": 9
+    },
+    "Number of sessions": {
+      "all_different": 35,
+      "legacy_llm_b_agree": 33,
+      "one_source_only": 3
+    },
+    "Primary diagnosis": {
+      "all_different": 24,
+      "legacy_llm_b_agree": 47
+    },
+    "Quality rating RoBiNT scale": {
+      "all_different": 1,
+      "one_source_only": 70
+    },
+    "Sample type": {
+      "all_different": 23,
+      "legacy_llm_b_agree": 48
+    },
+    "Setting": {
+      "all_different": 28,
+      "legacy_llm_b_agree": 43
+    },
+    "Total Number of Observations": {
+      "all_different": 32,
+      "all_missing": 4,
+      "legacy_llm_b_agree": 1,
+      "one_source_only": 31,
+      "two_llms_agree_legacy_diff": 3
+    },
+    "Treatment directed at": {
+      "all_different": 10,
+      "legacy_llm_b_agree": 61
+    },
+    "Treatment length": {
+      "all_different": 46,
+      "legacy_llm_b_agree": 23,
+      "one_source_only": 2
+    },
+    "Treatment protocol": {
+      "all_different": 50,
+      "legacy_llm_b_agree": 1,
+      "one_source_only": 20
+    },
+    "Type of SCED design": {
+      "all_different": 22,
+      "legacy_llm_b_agree": 46,
+      "one_source_only": 3
+    },
+    "Type of publication": {
+      "all_different": 2,
+      "legacy_llm_b_agree": 69
+    },
+    "Type of treatments": {
+      "all_different": 33,
+      "legacy_llm_a_agree": 5,
+      "legacy_llm_b_agree": 8,
+      "silver_auto": 11,
+      "two_llms_agree_legacy_diff": 14
+    }
+  },
+  "input_coverage": {
+    "missing_from_legacy": [],
+    "missing_from_llm_a": [],
+    "missing_from_llm_b": []
+  }
+}

@@ -132,7 +132,8 @@ def main() -> None:
 
     results_path, out_suffix = output_paths(args.mode)
     results_path.parent.mkdir(parents=True, exist_ok=True)
-    results_path.write_text("", encoding="utf-8")
+    temp_results_path = results_path.with_suffix(results_path.suffix + ".tmp")
+    temp_results_path.write_text("", encoding="utf-8")
     lines_written = 0
 
     for pdf_path in pdf_files:
@@ -151,14 +152,19 @@ def main() -> None:
                 continue
             out_path = TEXT_DIR / f"{pdf_path.stem}_sced{out_suffix}.json"
             out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2))
-            with results_path.open("a", encoding="utf-8") as f:
+            with temp_results_path.open("a", encoding="utf-8") as f:
                 f.write(json.dumps({"pdf": pdf_path.name, **result}, ensure_ascii=False) + "\n")
             lines_written += 1
-            logging.info("Saved %s and appended to %s", out_path.relative_to(ROOT), results_path.relative_to(ROOT))
+            logging.info("Saved %s and appended to %s", out_path.relative_to(ROOT), temp_results_path.relative_to(ROOT))
         except Exception as exc:  # noqa: BLE001
             logging.error("Failed on %s: %s", pdf_path.name, exc)
 
-    logging.info("Done. Wrote %d result lines to %s", lines_written, results_path.relative_to(ROOT))
+    if lines_written:
+        temp_results_path.replace(results_path)
+        logging.info("Done. Wrote %d result lines to %s", lines_written, results_path.relative_to(ROOT))
+    else:
+        temp_results_path.unlink(missing_ok=True)
+        logging.warning("No result lines were written. Existing %s was left unchanged.", results_path.relative_to(ROOT))
 
     if args.gold:
         gold_path = Path(args.gold)

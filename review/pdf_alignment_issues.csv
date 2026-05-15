@@ -1,0 +1,7 @@
+issue_type,pdf,study,related_pdf,related_study,pdf_sha256,evidence
+duplicate_pdf_file,Ooi 2012.pdf,Ooi 2012,Unterhitzenberger 2015 - Trauma-focused cognitive behavioral therapy with unaccompanied refugee minors.pdf (Unterhitzenberger 2015),,34b62c33fad257b50411371680ce31e50df9501c905c8ddd04e56cac381bee3a,Same SHA-256 hash as another input PDF filename.
+duplicate_pdf_file,Unterhitzenberger 2015 - Trauma-focused cognitive behavioral therapy with unaccompanied refugee minors.pdf,Unterhitzenberger 2015,Ooi 2012.pdf (Ooi 2012),,34b62c33fad257b50411371680ce31e50df9501c905c8ddd04e56cac381bee3a,Same SHA-256 hash as another input PDF filename.
+duplicate_pdf_file,Eisen 2008.pdf,Eisen 2008,Neuhoff 2006.pdf (Neuhoff 2006),,af0b1d251795b5fba7f181be28cc812bc654524f8e14753e01ee69a5445dc28b,Same SHA-256 hash as another input PDF filename.
+duplicate_pdf_file,Neuhoff 2006.pdf,Neuhoff 2006,Eisen 2008.pdf (Eisen 2008),,af0b1d251795b5fba7f181be28cc812bc654524f8e14753e01ee69a5445dc28b,Same SHA-256 hash as another input PDF filename.
+empty_extracted_blocks,Feather 2006 - Traumafocused_cognitive_behavi.PDF.pdf,Feather 2006,,,da6e5599f826a4724006877d4cf310103fe9a55f8654674e79518fd3bb504ac7,No text found in the first two pages of Feather 2006 - Traumafocused_cognitive_behavi.PDF_blocks.json.
+legacy_author_not_in_first_pages,Heard 1992.pdf,Heard 1992,,,24827e5df50c3acbbfae436f2f6c05437424ea3ff2d48d6061afe8242e697b3f,Legacy study author token 'heard' was not found in the first two pages of Heard 1992_blocks.json.

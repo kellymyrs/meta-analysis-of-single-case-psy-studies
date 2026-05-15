@@ -55,25 +55,37 @@ def _find_pdf_match(study_name: str, pdf_files: list[Path]) -> tuple[bool, str |
         if study_slug == _slugify(pdf_path.stem):
             return True, pdf_path.name
 
-    # 3. New heuristic: Check if author and year are both in the filename
-    # Parse author (first word) and year (4 digits) from study name
-    author_match = re.search(r"[A-Za-z]+", study_name)
+    # 3. Check whether the year and any surname token before the year are in the filename.
     year_match = re.search(r"(19|20)\d{2}", study_name)
-    if author_match and year_match:
-        author = author_match.group(0).lower()
+    if year_match:
+        author_part = study_name[: year_match.start()]
+        author_tokens = [
+            token.lower()
+            for token in re.findall(r"[A-Za-z]+", author_part)
+            if len(token) > 2
+        ]
         year = year_match.group(0)
+        author_year_matches: list[tuple[int, Path]] = []
         for pdf_path in pdf_files:
             stem_lower = pdf_path.stem.lower()
-            # Require author to be a distinct part of the filename (not just substring like 'o')
-            # and year to be present.
-            if len(author) > 2:
-                match = (author in stem_lower) and (year in stem_lower)
-            else:
-                # For very short names like 'O', ensure it matches as a word or at start
-                match = (re.search(rf"\b{author}\b", stem_lower) or stem_lower.startswith(author)) and (year in stem_lower)
-            
-            if match:
-                return True, pdf_path.name
+            if year not in stem_lower:
+                continue
+            matched_tokens = sum(
+                1
+                for token in author_tokens
+                if re.search(rf"\b{re.escape(token)}\b", stem_lower)
+            )
+            if matched_tokens:
+                author_year_matches.append((matched_tokens, pdf_path))
+        if author_year_matches:
+            best_score = max(score for score, _ in author_year_matches)
+            best_matches = [
+                pdf_path
+                for score, pdf_path in author_year_matches
+                if score == best_score
+            ]
+            if len(best_matches) == 1:
+                return True, best_matches[0].name
 
     # 4. Fuzzy similarity fallback
     best_pdf = None
