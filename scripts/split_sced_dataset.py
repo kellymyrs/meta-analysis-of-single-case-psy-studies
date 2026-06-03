@@ -102,7 +102,7 @@ def main() -> None:
     write_jsonl(test_output, test_records)
 
     print(f"Input records: {len(working_records)}")
-    print(f"Train records: {len(train_records)} -> {train_output}")
+    print(f"Training records: {len(train_records)} -> {train_output}")
     print(f"Test records: {len(test_records)} -> {test_output}")
     print(f"Seed: {args.seed}")
     print(f"Shuffled: {not args.no_shuffle}")

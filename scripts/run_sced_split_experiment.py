@@ -19,13 +19,17 @@ PDF_DIR = ROOT / "input"
 TEXT_DIR = ROOT / "extracted_text"
 EVALUATION_DIR = ROOT / "evaluation_results"
 DEFAULT_INPUT = DATA_DIR / "sced_gold.jsonl"
+DEFAULT_FROZEN_TEST_GOLD = DATA_DIR / "sced_gold_test_reviewed_frozen.jsonl"
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Split the SCED gold dataset and run the extraction model on one split."
+        description=(
+            "Split the SCED gold dataset and run zero-shot or few-shot extraction "
+            "on the training or held-out test split."
+        )
     )
     parser.add_argument(
         "--input",
@@ -57,9 +61,64 @@ def parse_args() -> argparse.Namespace:
         help="Extraction mode to use.",
     )
     parser.add_argument(
+        "--full-pdf-context-fallback",
+        choices=("none", "full_text", "blocks"),
+        default="none",
+        help=(
+            "Fallback mode to use when --mode full_pdf exceeds the model context window. "
+            "Use 'full_text' to retry only oversized PDFs with extracted text chunks."
+        ),
+    )
+    parser.add_argument(
         "--evaluate",
         action="store_true",
         help="Evaluate the predictions against the selected split after extraction.",
+    )
+    parser.add_argument(
+        "--model-setup",
+        choices=("zero_shot", "few_shot", "both"),
+        default="zero_shot",
+        help="Prompt setup to run. Few-shot examples are drawn only from the training split.",
+    )
+    parser.add_argument(
+        "--few-shot-count",
+        type=int,
+        default=3,
+        help="Number of training-set examples to include for few-shot extraction.",
+    )
+    parser.add_argument(
+        "--few-shot-pdf",
+        action="append",
+        default=[],
+        help=(
+            "Exact training-set PDF filename to use as a few-shot example. "
+            "Can be passed multiple times. When set, these examples are used instead "
+            "of randomly selected training records."
+        ),
+    )
+    parser.add_argument(
+        "--few-shot-seed",
+        type=int,
+        help=(
+            "Random seed for selecting few-shot examples from the training split. "
+            "Defaults to --seed."
+        ),
+    )
+    parser.add_argument(
+        "--frozen-test-gold",
+        default=str(DEFAULT_FROZEN_TEST_GOLD),
+        help=(
+            "Frozen reviewed test JSONL used for final test evaluation. "
+            "Required when --final-evaluation is set."
+        ),
+    )
+    parser.add_argument(
+        "--final-evaluation",
+        action="store_true",
+        help=(
+            "Require held-out test evaluation against --frozen-test-gold. "
+            "Use after manual review and label freezing."
+        ),
     )
     parser.add_argument(
         "--evaluation-dir",
@@ -113,8 +172,15 @@ def split_records(
     return working_records[:train_count], working_records[train_count:]
 
 
-def result_suffix(mode: str) -> str:
-    return "" if mode == "blocks" else f"_{mode}"
+def result_suffix(mode: str, full_pdf_context_fallback: str = "none") -> str:
+    suffix = "" if mode == "blocks" else f"_{mode}"
+    if mode == "full_pdf" and full_pdf_context_fallback != "none":
+        suffix = f"{suffix}_context_fallback_{full_pdf_context_fallback}"
+    return suffix
+
+
+def model_setup_suffix(model_setup: str) -> str:
+    return f"_{model_setup}"
 
 
 def evaluation_output_path(predictions_path: Path, evaluation_dir: str | None) -> Path:
@@ -139,7 +205,48 @@ def ensure_blocks(pdf_path: Path) -> list[dict[str, Any]]:
     return blocks
 
 
-def run_model_for_pdf(pdf_name: str, mode: str) -> dict[str, Any] | None:
+def resolve_project_path(path_value: str) -> Path:
+    path = Path(path_value)
+    if not path.is_absolute():
+        path = ROOT / path
+    return path
+
+
+def select_few_shot_examples(
+    training_records: list[dict[str, Any]],
+    count: int,
+    selected_pdfs: list[str] | None = None,
+    seed: int | None = None,
+) -> list[dict[str, Any]]:
+    if count < 0:
+        raise ValueError("--few-shot-count must be >= 0.")
+    if selected_pdfs:
+        records_by_pdf = {
+            record["pdf"]: record
+            for record in training_records
+            if isinstance(record.get("pdf"), str) and record.get("pdf")
+        }
+        missing = [pdf_name for pdf_name in selected_pdfs if pdf_name not in records_by_pdf]
+        if missing:
+            preview = ", ".join(missing)
+            raise ValueError(
+                "Requested few-shot PDFs are not in the training split: "
+                f"{preview}"
+            )
+        return [records_by_pdf[pdf_name] for pdf_name in selected_pdfs]
+    if count == 0:
+        return []
+    examples = list(training_records)
+    random.Random(seed).shuffle(examples)
+    return examples[:count]
+
+
+def run_model_for_pdf(
+    pdf_name: str,
+    mode: str,
+    few_shot_examples: list[dict[str, Any]] | None = None,
+    full_pdf_context_fallback: str = "none",
+) -> dict[str, Any] | None:
     from scripts.sced_extraction import (
         run_sced_extraction,
         run_sced_extraction_from_pdf,
@@ -152,55 +259,62 @@ def run_model_for_pdf(pdf_name: str, mode: str) -> dict[str, Any] | None:
 
     if mode == "blocks":
         blocks = ensure_blocks(pdf_path)
-        return run_sced_extraction(blocks)
+        return run_sced_extraction(blocks, few_shot_examples=few_shot_examples)
     if mode == "full_text":
         blocks = ensure_blocks(pdf_path)
-        return run_sced_extraction_full_text(blocks)
-    return run_sced_extraction_from_pdf(pdf_path)
-
-
-def main() -> None:
-    args = parse_args()
-    from scripts.evaluate_sced_results import evaluate_jsonl_files
-    from scripts.sced_extraction import get_runtime_backend
-
+        return run_sced_extraction_full_text(blocks, few_shot_examples=few_shot_examples)
     try:
-        backend = get_runtime_backend()
-    except RuntimeError as exc:
-        logging.error(str(exc))
-        return
+        return run_sced_extraction_from_pdf(pdf_path, few_shot_examples=few_shot_examples)
+    except Exception as exc:
+        if full_pdf_context_fallback == "none" or "context_length_exceeded" not in str(exc):
+            raise
+        logging.warning(
+            "Full-PDF extraction exceeded context for %s; retrying with %s fallback.",
+            pdf_name,
+            full_pdf_context_fallback,
+        )
+        blocks = ensure_blocks(pdf_path)
+        if full_pdf_context_fallback == "full_text":
+            return run_sced_extraction_full_text(blocks, few_shot_examples=few_shot_examples)
+        return run_sced_extraction(blocks, few_shot_examples=few_shot_examples)
 
-    if args.mode == "full_pdf" and backend != "proxy":
-        logging.error("full_pdf mode requires proxy mode with LITELLM_KEY configured.")
-        return
 
-    input_path = Path(args.input)
-    all_records = load_jsonl(input_path)
-    train_records, test_records = split_records(
-        all_records,
-        train_ratio=args.train_ratio,
-        seed=args.seed,
-        shuffle=not args.no_shuffle,
-    )
+def run_selected_model_setup(
+    *,
+    selected_records: list[dict[str, Any]],
+    selected_split_name: str,
+    mode: str,
+    model_setup: str,
+    training_records: list[dict[str, Any]],
+    evaluate: bool,
+    selected_gold_path: Path,
+    evaluation_dir: str | None,
+    few_shot_count: int,
+    few_shot_pdfs: list[str],
+    few_shot_seed: int,
+    full_pdf_context_fallback: str,
+) -> None:
+    from scripts.evaluate_sced_results import evaluate_jsonl_files
 
-    train_path = DATA_DIR / "sced_gold_train.jsonl"
-    test_path = DATA_DIR / "sced_gold_test.jsonl"
-    write_jsonl(train_path, train_records)
-    write_jsonl(test_path, test_records)
+    few_shot_examples: list[dict[str, Any]] | None = None
+    if model_setup == "few_shot":
+        few_shot_examples = select_few_shot_examples(
+            training_records,
+            count=few_shot_count,
+            selected_pdfs=few_shot_pdfs,
+            seed=few_shot_seed,
+        )
+        logging.info("Few-shot examples: %d training records", len(few_shot_examples))
+        for example in few_shot_examples:
+            logging.info("Few-shot example: %s", example.get("pdf"))
 
-    selected_records = train_records if args.split == "train" else test_records
-    selected_gold_path = train_path if args.split == "train" else test_path
-
-    TEXT_DIR.mkdir(parents=True, exist_ok=True)
-    suffix = result_suffix(args.mode)
-    predictions_path = TEXT_DIR / f"sced_{args.split}_results{suffix}.jsonl"
+    suffix = f"{model_setup_suffix(model_setup)}{result_suffix(mode, full_pdf_context_fallback)}"
+    predictions_path = TEXT_DIR / f"sced_{selected_split_name}_results{suffix}.jsonl"
     predictions_path.write_text("", encoding="utf-8")
 
-    logging.info("Using LLM backend: %s", backend)
-    logging.info("Extraction mode: %s", args.mode)
-    logging.info("Train records: %d", len(train_records))
-    logging.info("Test records: %d", len(test_records))
-    logging.info("Running model on %s split (%d PDFs)", args.split, len(selected_records))
+    logging.info("Model setup: %s", model_setup)
+    logging.info("Extraction mode: %s", mode)
+    logging.info("Running model on %s split (%d PDFs)", selected_split_name, len(selected_records))
 
     lines_written = 0
     for record in selected_records:
@@ -210,7 +324,12 @@ def main() -> None:
             continue
         logging.info("Processing %s", pdf_name)
         try:
-            result = run_model_for_pdf(pdf_name, args.mode)
+            result = run_model_for_pdf(
+                pdf_name,
+                mode,
+                few_shot_examples=few_shot_examples,
+                full_pdf_context_fallback=full_pdf_context_fallback,
+            )
             if result is None:
                 logging.warning("No result for %s", pdf_name)
                 continue
@@ -224,18 +343,93 @@ def main() -> None:
 
     logging.info("Saved predictions to %s", predictions_path.relative_to(ROOT))
 
-    if args.evaluate:
+    if evaluate:
         evaluation = evaluate_jsonl_files(predictions_path, selected_gold_path)
-        evaluation_path = evaluation_output_path(predictions_path, args.evaluation_dir)
+        evaluation_path = evaluation_output_path(predictions_path, evaluation_dir)
         evaluation_path.parent.mkdir(parents=True, exist_ok=True)
         evaluation_path.write_text(json.dumps(evaluation, ensure_ascii=False, indent=2), encoding="utf-8")
         overall = evaluation["overall"]
         logging.info("Evaluation precision: %.3f", overall["precision"])
         logging.info("Evaluation recall: %.3f", overall["recall"])
         logging.info("Evaluation F1: %.3f", overall["f1"])
+        logging.info("Gold reference: %s", selected_gold_path.relative_to(ROOT))
         logging.info("Saved evaluation summary to %s", evaluation_path.relative_to(ROOT))
 
-    logging.info("Done. Wrote %d prediction lines.", lines_written)
+    logging.info("Done with %s. Wrote %d prediction lines.", model_setup, lines_written)
+
+
+def main() -> None:
+    args = parse_args()
+
+    if args.final_evaluation and args.split != "test":
+        logging.error("--final-evaluation requires --split test.")
+        return
+
+    input_path = Path(args.input)
+    all_records = load_jsonl(input_path)
+    training_records, test_records = split_records(
+        all_records,
+        train_ratio=args.train_ratio,
+        seed=args.seed,
+        shuffle=not args.no_shuffle,
+    )
+
+    train_path = DATA_DIR / "sced_gold_train.jsonl"
+    test_path = DATA_DIR / "sced_gold_test.jsonl"
+    write_jsonl(train_path, training_records)
+    write_jsonl(test_path, test_records)
+
+    selected_split_name = args.split
+    selected_records = training_records if selected_split_name == "train" else test_records
+    selected_gold_path = train_path if selected_split_name == "train" else test_path
+
+    if args.final_evaluation:
+        frozen_gold_path = resolve_project_path(args.frozen_test_gold)
+        if not frozen_gold_path.exists():
+            logging.error(
+                "Frozen reviewed test gold file not found: %s. "
+                "Create it after manual review before final evaluation.",
+                frozen_gold_path,
+            )
+            return
+        selected_gold_path = frozen_gold_path
+
+    TEXT_DIR.mkdir(parents=True, exist_ok=True)
+
+    logging.info("Training records: %d", len(training_records))
+    logging.info("Test records: %d", len(test_records))
+    logging.info("Evaluation gold: %s", selected_gold_path.relative_to(ROOT))
+
+    from scripts.sced_extraction import get_runtime_backend
+
+    try:
+        backend = get_runtime_backend()
+    except RuntimeError as exc:
+        logging.error(str(exc))
+        return
+
+    if args.mode == "full_pdf" and backend != "proxy":
+        logging.error("full_pdf mode requires proxy mode with LITELLM_KEY configured.")
+        return
+
+    logging.info("Using LLM backend: %s", backend)
+
+    setups = ["zero_shot", "few_shot"] if args.model_setup == "both" else [args.model_setup]
+    for setup in setups:
+        run_selected_model_setup(
+            selected_records=selected_records,
+            selected_split_name=selected_split_name,
+            mode=args.mode,
+            model_setup=setup,
+            training_records=training_records,
+            evaluate=args.evaluate or args.final_evaluation,
+            selected_gold_path=selected_gold_path,
+            evaluation_dir=args.evaluation_dir,
+            few_shot_count=args.few_shot_count,
+            few_shot_pdfs=args.few_shot_pdf,
+            few_shot_seed=args.few_shot_seed if args.few_shot_seed is not None else args.seed,
+            full_pdf_context_fallback=args.full_pdf_context_fallback,
+        )
 
 
 if __name__ == "__main__":
