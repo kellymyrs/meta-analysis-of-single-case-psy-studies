@@ -12,8 +12,8 @@ Usage example:
 
 Environment configuration (proxy mode, preferred):
     LITELLM_KEY       = <proxy token>                        (required for proxy mode)
-    LITELLM_BASE_URL  = https://ai-research-proxy.azurewebsites.net (optional)
-    LITELLM_MODEL     = nf-gpt-4o-mini                       (optional)
+    LITELLM_BASE_URL  = https://llmproxy.uva.nl              (optional)
+    LITELLM_MODEL     = gpt-5.1                              (optional)
 
 Environment configuration (local fallback):
     MODEL_PATH        = /absolute/path/to/model.gguf         (required for local fallback)
@@ -43,6 +43,25 @@ from scripts.sced_fields import (
 _LLM: Optional[Llama] = None
 _CLIENT: Optional[OpenAI] = None
 DEFAULT_MAX_OUTPUT_TOKENS = 1800
+DEFAULT_LITELLM_BASE_URL = "https://llmproxy.uva.nl"
+
+
+def _load_dotenv() -> None:
+    env_path = Path(__file__).resolve().parent.parent / ".env"
+    if not env_path.exists():
+        return
+    for line in env_path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or "=" not in stripped:
+            continue
+        key, value = stripped.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+_load_dotenv()
 
 
 def get_runtime_backend() -> str:
@@ -69,7 +88,7 @@ def _get_client() -> OpenAI:
 
     _CLIENT = OpenAI(
         api_key=api_key,
-        base_url=os.getenv("LITELLM_BASE_URL", "https://ai-research-proxy.azurewebsites.net").strip(),
+        base_url=os.getenv("LITELLM_BASE_URL", DEFAULT_LITELLM_BASE_URL).strip(),
     )
     return _CLIENT
 
@@ -105,7 +124,7 @@ def _call_llm(messages: List[Dict[str, str]]) -> str:
     if backend == "proxy":
         client = _get_client()
         response = client.chat.completions.create(
-            model=os.getenv("LITELLM_MODEL", "nf-gpt-4o-mini").strip(),
+            model=os.getenv("LITELLM_MODEL", "gpt-5.1").strip(),
             messages=messages,
             temperature=0.2,
             max_completion_tokens=_max_output_tokens(),
@@ -138,15 +157,42 @@ def _call_llm(messages: List[Dict[str, str]]) -> str:
     return resp["choices"][0]["text"]
 
 
-def _build_system_prompt() -> str:
+def _few_shot_prompt(few_shot_examples: Optional[List[Dict[str, Any]]]) -> str:
+    if not few_shot_examples:
+        return ""
+
+    normalized_examples: List[Dict[str, Any]] = []
+    for example in few_shot_examples:
+        normalized = normalize_field_keys(dict(example))
+        normalized_examples.append(
+            {
+                key: normalized.get(key)
+                for key in ["pdf", *FIELDS]
+                if key in normalized
+            }
+        )
+
+    return (
+        "\nDevelopment-set examples:\n"
+        "The following labelled examples show how source studies should be mapped "
+        "into the target schema. Use them as formatting and coding examples only. "
+        "Do not copy values from an example unless the attached study explicitly "
+        "supports the same value.\n"
+        f"{json.dumps(normalized_examples, ensure_ascii=False, indent=2)}\n"
+    )
+
+
+def _build_system_prompt(few_shot_examples: Optional[List[Dict[str, Any]]] = None) -> str:
     guidance = build_guidance_prompt()
     guidance_section = f"\nImportant field guidance:\n{guidance}\n" if guidance else "\n"
+    examples_section = _few_shot_prompt(few_shot_examples)
     return (
         "You are an expert psychologist specializing in single-case experimental designs. "
         "Extract a structured summary from the provided study PDF or PDF text blocks. "
         "Respond with pure JSON matching this schema:\n"
         f"{build_schema_prompt()}\n"
         f"{guidance_section}"
+        f"{examples_section}"
         "If information is missing, use null or an empty list. Do NOT add extra keys or prose."
     )
 
@@ -203,6 +249,7 @@ def run_sced_extraction(
     pdf_text_json: List[Dict[str, Any]],
     max_chars: int = 8000,
     retries: int = 3,
+    few_shot_examples: Optional[List[Dict[str, Any]]] = None,
 ) -> Optional[Dict[str, Any]]:
     """
     pdf_text_json: list of {page, bbox, text} entries from pdf_text_blocks.py
@@ -219,7 +266,7 @@ def run_sced_extraction(
         "Only output the JSON object, nothing else.\n\n"
         f"TEXT:\n{joined_text}"
     )
-    system_prompt = _build_system_prompt()
+    system_prompt = _build_system_prompt(few_shot_examples)
 
     def invoke() -> str:
         return _call_llm(
@@ -236,6 +283,7 @@ def run_sced_extraction_full_text(
     pdf_text_json: List[Dict[str, Any]],
     chunk_chars: int = 20000,
     retries: int = 3,
+    few_shot_examples: Optional[List[Dict[str, Any]]] = None,
 ) -> Optional[Dict[str, Any]]:
     """
     Extract from the full text-block corpus by chunking long papers across multiple calls,
@@ -250,7 +298,7 @@ def run_sced_extraction_full_text(
     if not joined_text.strip():
         return None
 
-    system_prompt = _build_system_prompt()
+    system_prompt = _build_system_prompt(few_shot_examples)
     chunks = _chunk_text(joined_text, chunk_chars)
     chunk_summaries: List[str] = []
 
@@ -294,6 +342,7 @@ def run_sced_extraction_full_text(
 def run_sced_extraction_from_pdf(
     pdf_path: Path,
     retries: int = 3,
+    few_shot_examples: Optional[List[Dict[str, Any]]] = None,
 ) -> Optional[Dict[str, Any]]:
     """
     Send the full PDF file to the OpenAI Responses API and return the parsed JSON summary.
@@ -303,7 +352,7 @@ def run_sced_extraction_from_pdf(
         raise RuntimeError("Full-PDF extraction requires proxy mode with LITELLM_KEY configured.")
 
     client = _get_client()
-    system_prompt = _build_system_prompt()
+    system_prompt = _build_system_prompt(few_shot_examples)
     instruction = (
         "Extract the fields from the attached full PDF. "
         "Use the complete document, not a partial excerpt. "
@@ -314,7 +363,7 @@ def run_sced_extraction_from_pdf(
 
     def invoke() -> str:
         response = client.responses.create(
-            model=os.getenv("LITELLM_MODEL", "nf-gpt-4o-mini").strip(),
+            model=os.getenv("LITELLM_MODEL", "gpt-5.1").strip(),
             input=[
                 {
                     "role": "system",

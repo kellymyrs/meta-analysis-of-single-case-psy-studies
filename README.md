@@ -182,7 +182,7 @@ Run all commands from the project root.
   - Custom output path: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl --output custom_eval_dir/sced_results_evaluation.json`
 
 - `scripts/sced_review.py`
-  - What it does: treats `data/sced_gold.jsonl` as legacy human coding, compares it with two independent LLM JSONL outputs field-by-field, accepts non-empty normalized three-way agreement as silver, and writes all disagreements to a human review sheet.
+  - What it does: treats `data/sced_gold.jsonl` as legacy human coding, compares it with two independent LLM JSONL outputs field-by-field, accepts non-empty normalized three-way agreement and legacy plus full-PDF agreement as silver, and writes remaining disagreements to a human review sheet.
   - Normalization: reuses the same `data/normalization_aliases.json` layer as evaluation. `Study` is treated as an identifier and skipped from manual review.
   - Reads: legacy JSONL plus two LLM JSONL files, defaulting to `data/sced_gold.jsonl`, `extracted_text/sced_results.jsonl`, and `extracted_text/sced_results_full_pdf.jsonl`
   - Writes: `review/silver_candidates.csv`, `review/disagreements_for_review.csv`, and `review/review_summary.json`
@@ -193,7 +193,7 @@ Run all commands from the project root.
 
 - `scripts/suggest_review_values.py`
   - What it does: reads `review/disagreements_for_review.csv`, applies an LLM-B-first review workflow, and writes a smaller batch that prioritizes likely legacy errors and hard disagreements.
-  - Auto-confirmation: when legacy coding and full-PDF extraction agree after normalization, and the PDF has no alignment issue, it fills `reviewed_value_json`, sets `decision_status=llm_b_confirmed`, and sets `needs_pdf_check=no`.
+  - Auto-confirmation: legacy plus full-PDF agreement rows are already handled as silver by `scripts.sced_review`; this script now annotates the remaining disagreement rows with suggested review actions.
   - Manual review: when legacy and LLM B disagree, LLM A is used to route the row as LLM consensus against legacy, LLM-B disagreement, all-different, or one-source-only.
   - Reads: `review/disagreements_for_review.csv`
   - Writes: `review/disagreements_with_suggestions.csv` and `review/high_priority_review_batch.csv`
@@ -221,13 +221,16 @@ Run all commands from the project root.
   - Custom split: `python -m scripts.split_sced_dataset --train-ratio 0.75 --seed 7`
 
 - `scripts/run_sced_split_experiment.py`
-  - What it does: creates the train/test split and runs SCED extraction over either the train or test split, with optional evaluation.
+  - What it does: creates the deterministic training/test split, runs SCED extraction for one split, and can evaluate predictions after extraction.
   - Reads: `data/sced_gold.jsonl`, PDFs in `input/`
-  - Writes: `data/sced_gold_train.jsonl`, `data/sced_gold_test.jsonl`, `extracted_text/sced_train_results*.jsonl` or `extracted_text/sced_test_results*.jsonl`, and evaluation summaries in `evaluation_results/` by default
+  - Writes: `data/sced_gold_train.jsonl`, `data/sced_gold_test.jsonl`, `extracted_text/sced_<split>_results*.jsonl`, and evaluation summaries in `evaluation_results/` by default
   - Run: `python -m scripts.run_sced_split_experiment --split test`
   - With evaluation: `python -m scripts.run_sced_split_experiment --split test --evaluate`
   - Optional custom evaluation folder: `python -m scripts.run_sced_split_experiment --split test --evaluate --evaluation-dir custom_eval_dir`
   - Full-PDF mode: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --evaluate`
+  - Full-PDF mode with fallback for oversized PDFs: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --full-pdf-context-fallback full_text --model-setup few_shot --evaluate`
+  - Few-shot examples are randomly selected from the training split with `--seed` by default. Use `--few-shot-seed` to change only the example selection.
+  - Few-shot with selected training examples: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --model-setup few_shot --few-shot-pdf "Ooi 2012.pdf" --few-shot-pdf "Cooper-Vince 2016.pdf" --evaluate`
 
 ## 4. LLM Model Configuration
 
@@ -236,9 +239,9 @@ The SCED extractor supports two modes.
 1. Proxy mode for hosted models and full-PDF input:
    ```bash
    export LITELLM_KEY=your_token_here
-   export LITELLM_MODEL=nf-gpt-4o-mini
+   export LITELLM_MODEL=gpt-5.1
    # optional
-   export LITELLM_BASE_URL=https://ai-research-proxy.azurewebsites.net
+   export LITELLM_BASE_URL=https://llmproxy.uva.nl
    ```
 
 2. Local GGUF mode for block-text extraction only:
