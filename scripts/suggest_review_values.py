@@ -3,8 +3,9 @@ Create a suggested worklist for improving the SCED gold dataset.
 
 This script reads review/disagreements_for_review.csv and writes an LLM-B-first
 review file. Clean rows where legacy coding and the full-PDF extraction agree
-are marked as `llm_b_confirmed`; all other rows remain suggestions for human
-review. Rows with PDF alignment issues are never auto-confirmed.
+are normally moved to silver by scripts.sced_review before this script runs; any
+remaining rows are suggestions for human review. Rows with PDF alignment issues
+are never auto-confirmed.
 """
 
 from __future__ import annotations

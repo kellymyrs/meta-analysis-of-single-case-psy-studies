@@ -7,7 +7,8 @@ The workflow compares three independent sources at the field level:
 3. LLM B, for example extracted_text/sced_results_full_pdf.jsonl
 
 It writes:
-- silver_candidates.csv: non-empty normalized three-way agreements
+- silver_candidates.csv: non-empty normalized three-way agreements, plus
+  legacy/full-PDF agreements where block-text extraction differs
 - disagreements_for_review.csv: field-level rows that need human review
 - review_summary.json: counts by status and field
 
@@ -209,6 +210,15 @@ def preferred_silver_value(legacy: SourceValue, llm_a: SourceValue, llm_b: Sourc
     return llm_b.raw
 
 
+def silver_decision_reason(status: str) -> str:
+    if status == "legacy_llm_b_agree":
+        return (
+            "Normalized legacy/full-PDF agreement; accepted as silver "
+            "despite block-text extraction differing."
+        )
+    return "Normalized three-way agreement; accepted as silver."
+
+
 def classify_agreement(
     legacy: SourceValue,
     llm_a: SourceValue,
@@ -280,7 +290,7 @@ def collect_rows(
             if status == "all_missing":
                 continue
 
-            if status == "silver_auto":
+            if status in {"silver_auto", "legacy_llm_b_agree"}:
                 normalized = legacy.normalized
                 silver_rows.append(
                     {
@@ -293,7 +303,7 @@ def collect_rows(
                         "legacy_value_json": to_json_cell(legacy.raw),
                         "llm_a_value_json": to_json_cell(llm_a.raw),
                         "llm_b_value_json": to_json_cell(llm_b.raw),
-                        "decision_reason": "Normalized three-way agreement; accepted as silver.",
+                        "decision_reason": silver_decision_reason(status),
                     }
                 )
                 continue

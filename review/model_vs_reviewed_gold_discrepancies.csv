@@ -1,0 +1,137 @@
+pdf,field,predicted_normalized,gold_normalized,false_positives,false_negatives
+Bechor 2014.pdf,Sample type,"[""referred""]","[""other""]",1,1
+Bechor 2014.pdf,Comorbid diagnosis / problems,"[""y, adhd""]","[""y, 1 participant has adhd unclear which one""]",1,1
+Bechor 2014.pdf,Treatment protocol,"[""12-14-week cbt protocol similar to silverman et al. 2009"", ""tau-nimh abmt initiative dot-probe protocol""]",[],2,0
+Bechor 2014.pdf,Type of SCED design,"[""open case series (pre-post within-subject design)""]","[""one-phase design""]",1,1
+Bechor 2014.pdf,Quality rating RoBiNT scale,[],"[""9, 2, 7""]",0,1
+Bowyer 2014.pdf,Diagnosis screening or diagnostic interview?,"[""diagnostic interview""]","[""screening""]",1,1
+Bowyer 2014.pdf,Comorbid diagnosis / problems,"[""depression; self-harm""]","[""not reported""]",1,1
+Bowyer 2014.pdf,Type of treatments,"[""cognitive behavioral therapy"", ""compassion focused therapy"", ""compassionate mind training""]","[""cognitive behavioral therapy"", ""compassion focused therapy""]",1,0
+Bowyer 2014.pdf,Treatment protocol,"[""cft based on gilbert (2010) and lee (2012)"", ""tf-cbt based on ehlers et al. (2005) and smith et al. (2007)""]",[],2,0
+Bowyer 2014.pdf,Treatment length,"[""20 sessions over 8 months""]","[""not reported""]",1,1
+Bowyer 2014.pdf,Number of sessions,"[""20""]","[""18""]",1,1
+Bowyer 2014.pdf,Type of SCED design,"[""single-case pre-post case study""]","[""one-phase design""]",1,1
+Bowyer 2014.pdf,Total Number of Observations,[],"[""3""]",0,1
+Bowyer 2014.pdf,Quality rating RoBiNT scale,[],"[""9, 0, 9""]",0,1
+Carlson 1999.pdf,Setting,"[""university clinic""]","[""school""]",1,1
+Carlson 1999.pdf,Diagnosis screening or diagnostic interview?,"[""diagnostic interview""]","[""screening""]",1,1
+Carlson 1999.pdf,Comorbid diagnosis / problems,"[""encopresis"", ""enuresis, learning problems""]","[""not reported""]",2,1
+Carlson 1999.pdf,Type of treatments,"[""sertraline vs placebo""]","[""sertraline""]",1,1
+Carlson 1999.pdf,Treatment protocol,"[""double-blind placebo-controlled sertraline trial with fixed titration from 50 mg to 100 mg within multiple-baseline across participants design""]",[],1,0
+Carlson 1999.pdf,Treatment length,"[""16-week study plus 4- and 20-week follow-up""]","[""10"", ""11"", ""12"", ""9""]",1,4
+Carlson 1999.pdf,Number of sessions,"[""biweekly outpatient visits over 16 weeks""]","[""10"", ""11"", ""12"", ""9""]",1,4
+Carlson 1999.pdf,Type of SCED design,"[""randomized nonconcurrent multiple baseline across participants with double-blind placebo-controlled phases (a1 no medication, a2 placebo, b1 50 mg sertraline, b2 100 mg sertraline)""]","[""multiple baseline design""]",1,1
+Carlson 1999.pdf,Frequent assessment variable broad category,"[""internalizing/anxiety and speech behavior""]","[""anxiety symptoms""]",1,1
+Carlson 1999.pdf,Frequent assessment specific symptom,"[""anxiousness"", ""mutism / frequency of speech (spontaneous and responsive)"", ""shyness""]","[""spontaneous speech""]",3,1
+Carlson 1999.pdf,Total Number of Observations,"[""weekly parent gas ratings over 16 weeks per child; parent (2x/week) and teacher (5x/week) speech observations over 16 weeks; biweekly clinic analogue assessments""]","[""16"", ""17""]",1,2
+Carlson 1999.pdf,Quality rating RoBiNT scale,[],"[""20, 7, 13""]",0,1
+Choate 2005.pdf,Setting,"[""university clinic""]","[""outpatient psychiatric center""]",1,1
+Choate 2005.pdf,Comorbid diagnosis / problems,"[""n"", ""odd"", ""panic disorder""]","[""n"", ""y, ext"", ""y, int""]",2,2
+Choate 2005.pdf,Treatment protocol,"[""standard pcit procedures (cdi and pdi phases)""]","[""parent child interaction therapy""]",1,1
+Choate 2005.pdf,Treatment length,"[""6"", ""7""]","[""6-7""]",2,1
+Choate 2005.pdf,Number of sessions,"[""6"", ""7""]","[""6-7""]",2,1
+Choate 2005.pdf,Type of SCED design,"[""multiple baseline design across families""]","[""multiple baseline design""]",1,1
+Choate 2005.pdf,Frequent assessment specific symptom,"[""separation anxiety behaviors""]","[""separation anxiety incidents""]",1,1
+Choate 2005.pdf,Total Number of Observations,"[""not reported""]","[""21"", ""26"", ""32""]",1,3
+Choate 2005.pdf,Quality rating RoBiNT scale,[],"[""11, 2, 9""]",0,1
+Ehrenreich 2009.pdf,Drop-outs,"[""0""]","[""not reported""]",1,1
+Ehrenreich 2009.pdf,Gender,"[""m,f""]","[""female"", ""male""]",1,2
+Ehrenreich 2009.pdf,Primary diagnosis,"[""anxiety disorder nos"", ""generalized anxiety disorder"", ""major depressive disorder"", ""social anxiety disorder""]","[""anxiety disorder not otherwise specified"", ""generalized anxiety disorder"", ""social anxiety disorder""]",2,1
+Ehrenreich 2009.pdf,Comorbid diagnosis / problems,"[""adhd"", ""major depressive disorder, mild; social phobia""]","[""n"", ""y, adhd"", ""y, int""]",2,3
+Ehrenreich 2009.pdf,Type of treatments,"[""unified protocol for the treatment of emotional disorders in youth""]","[""unified protocol for the treatment of emotional disorders""]",1,1
+Ehrenreich 2009.pdf,Treatment protocol,"[""unified protocol adapted from adult version (barlow et al., 2003/2004) with added parent sessions and minor language modifications""]","[""unified protocol for the treatment of emotional disorders in youth""]",1,1
+Ehrenreich 2009.pdf,Treatment length,"[""13 sessions over approximately 15-17 weeks (with planned 2-week breaks between some late sessions)""]","[""17""]",1,1
+Ehrenreich 2009.pdf,Quality rating RoBiNT scale,[],"[""7, 1, 6""]",0,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Study,"[""eisen & silverman 1998""]","[""eisen 1998""]",1,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Primary diagnosis,"[""oad / gad""]","[""generalized anxiety disorder""]",1,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Comorbid diagnosis / problems,"[""adhd"", ""odd"", ""sad"", ""soc"", ""sp""]","[""y, int"", ""y, int, adhd"", ""y, int, ext, adhd""]",5,3
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Type of treatments,"[""cognitive response class"", ""somatic response class""]","[""cognitive behavioral therapy""]",2,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Treatment protocol,"[""11-body-part progressive muscle relaxation script (ollendick & cerny 1981)"", ""silverman 1989 self-control manual for phobic children""]","[""crct; srct""]",2,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Treatment length,"[""5""]","[""10"", ""5""]",0,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Number of sessions,"[""10""]","[""10"", ""20""]",0,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Type of SCED design,"[""multiple baseline across participants with prescriptive vs nonprescriptive phases""]","[""multiple baseline design""]",1,1
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Frequent assessment specific symptom,"[""daily anxiety ratings (0-4)"", ""daily negative cognitions"", ""weekly parent ratings of severity""]",[],3,0
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Total Number of Observations,"[""not reported""]","[""13"", ""15"", ""26""]",1,3
+Eisen 1998 - Prescriptive treatment for generalized anxiety disorder in children.pdf,Quality rating RoBiNT scale,[],"[""20, 9, 11""]",0,1
+Eisen 2008.pdf,Drop-outs,"[""0""]","[""not reported""]",1,1
+Eisen 2008.pdf,Comorbid diagnosis / problems,"[""adhd"", ""dys"", ""gad"", ""learning disorder"", ""socanx"", ""sp""]","[""y, int"", ""y, int, adhd""]",6,2
+Eisen 2008.pdf,Type of treatments,"[""cognitive-behavioral parent training""]","[""behavioral parent training"", ""cognitive behavioral therapy""]",1,2
+Eisen 2008.pdf,Treatment protocol,"[""integrated cognitive-behavioral parent-training protocol; raleigh, brien, & eisen (2002) manual""]","[""pt""]",1,1
+Eisen 2008.pdf,Frequent assessment variable broad category,"[""anxiety symptoms / functional interference""]","[""anxiety symptoms""]",1,1
+Eisen 2008.pdf,Frequent assessment specific symptom,"[""frequency of separation-anxious days per week; parent-rated interference of separation-anxious events""]","[""separation anxiety incidents""]",1,1
+Eisen 2008.pdf,Total Number of Observations,"[""baseline 3-6 weeks plus 10 weekly treatment sessions plus 6-month follow-up per case (exact total nr)""]","[""13"", ""14"", ""15"", ""16""]",1,4
+Eisen 2008.pdf,Quality rating RoBiNT scale,[],"[""13, 5, 8""]",0,1
+Farrell 2018.pdf,Country,"[""australia""]","[""united states""]",1,1
+Farrell 2018.pdf,Drop-outs,"[""1""]","[""0""]",1,1
+Farrell 2018.pdf,Age,"[""4-5""]","[""4""]",1,1
+Farrell 2018.pdf,Primary diagnosis,"[""sp""]","[""specific phobia""]",1,1
+Farrell 2018.pdf,Comorbid diagnosis / problems,"[""n"", ""y, sp, sp""]","[""n"", ""y, int""]",1,1
+Farrell 2018.pdf,Type of treatments,"[""cognitive behavioral therapy""]","[""behavioral therapy""]",1,1
+Farrell 2018.pdf,Treatment protocol,"[""manualised one-session treatment (ost) augmented with play therapy components""]","[""ost + play""]",1,1
+Farrell 2018.pdf,Treatment length,"[""single intensive 3-h session plus 3 weekly 20-min telephone maintenance calls""]","[""3 hours""]",1,1
+Farrell 2018.pdf,Number of sessions,"[""1 face-to-face ost+play session plus 3 telephone follow-up contacts""]","[""3""]",1,1
+Farrell 2018.pdf,Type of SCED design,"[""non-concurrent multiple baseline single-case (a-b) design across participants""]","[""multiple baseline design""]",1,1
+Farrell 2018.pdf,Frequent assessment variable broad category,"[""anxiety / specific phobia severity""]","[""anxiety symptoms""]",1,1
+Farrell 2018.pdf,Frequent assessment specific symptom,"[""severity of dog phobia (adis-p csr for sp of dogs; parent-rated dog-related target behaviors; preschool anxiety symptoms)""]","[""specific phobia symptoms""]",1,1
+Farrell 2018.pdf,Total Number of Observations,"[""not reported""]","[""2"", ""3"", ""4""]",1,3
+Farrell 2018.pdf,Quality rating RoBiNT scale,[],"[""12, 2, 10""]",0,1
+Goodall 2017.pdf,Comorbid diagnosis / problems,"[""adhd"", ""cd"", ""mdd"", ""odd"", ""sad"", ""specific phobia""]","[""y, int, ext, adhd""]",6,1
+Goodall 2017.pdf,Treatment length,"[""12""]","[""not reported""]",1,1
+Goodall 2017.pdf,Type of SCED design,"[""single-case pre-post with repeated symptom measurement""]","[""one-phase design""]",1,1
+Goodall 2017.pdf,Data availability,"[""diagnosis"", ""frequent assessment""]","[""diagnosis""]",1,0
+Goodall 2017.pdf,Frequent assessment variable broad category,"[""ptsd symptoms""]","[""anxiety symptoms""]",1,1
+Goodall 2017.pdf,Frequent assessment specific symptom,"[""total ptsd severity (child ptsd symptom scale; cpss)""]","[""trait anxiety""]",1,1
+Goodall 2017.pdf,Total Number of Observations,"[""12""]",[],1,0
+Goodall 2017.pdf,Quality rating RoBiNT scale,[],"[""12, 2, 10""]",0,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Gender,"[""female"", ""male""]","[""?f/?m""]",2,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Age,"[""{'mean': 15.9, 'sd': 1.52, 'range': [13, 18]}""]","[""12-18""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Comorbid diagnosis / problems,"[""alcohol dependence"", ""autism spectrum disorder"", ""conversion disorder"", ""eating disorders"", ""major depressive disorder"", ""other anxiety disorders"", ""self-harm or urges"", ""suicidal ideation""]","[""not reported""]",8,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Type of treatments,"[""intensive prolonged exposure therapy with parent psychoeducation and social support training""]","[""behavioral therapy""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Treatment protocol,"[""manualized intensive pe based on foa et al. pe protocol (foa, hembree, & rothbaum, 2007), including imaginal exposure, exposure by drawing, and in vivo exposure plus parent sessions""]","[""pe""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Treatment length,"[""5 consecutive weekdays (15 sessions) plus up to 3 weekly booster sessions starting 1 week after treatment (total treatment period about 1 month)""]","[""5""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Number of sessions,"[""18""]","[""8""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Type of SCED design,"[""randomized multiple baseline single-case time-series design with varying baseline lengths (4-8 weeks) across participants""]","[""multiple baseline design""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Frequent assessment specific symptom,"[""self-reported ptsd symptom severity (ucla ptsd reaction index total score)""]",[],1,0
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Total Number of Observations,"[""210""]","[""21""]",1,1
+Hendriks 2017 - Child Psychology Psychiatry - Intensive prolonged exposure treatment for adolescent complex posttraumatic.pdf,Quality rating RoBiNT scale,[],"[""13, 4, 9""]",0,1
+Kane 1989.pdf,Primary diagnosis,"[""generalized anxiety disorder""]","[""ad""]",1,1
+Kane 1989.pdf,Comorbid diagnosis / problems,"[""y, simple phobia for 2 cases""]","[""n"", ""y, int""]",1,2
+Kane 1989.pdf,Treatment protocol,"[""manualized cognitive-behavioral treatment for anxious children""]",[],1,0
+Kane 1989.pdf,Treatment length,"[""16-20 sessions over approximately 8-10 weeks""]","[""18"", ""19"", ""20""]",1,3
+Kane 1989.pdf,Number of sessions,"[""16-20""]","[""18"", ""19"", ""20""]",1,3
+Kane 1989.pdf,Data availability,"[""diagnosis"", ""frequent assessment""]","[""frequent assessment""]",1,0
+Kane 1989.pdf,Frequent assessment specific symptom,"[""trait anxiety (staic a-trait; parent a-trait-p)""]","[""trait anxiety""]",1,1
+Kane 1989.pdf,Total Number of Observations,"[""not reported""]","[""17"", ""18"", ""19""]",1,3
+Kane 1989.pdf,Quality rating RoBiNT scale,[],"[""10, 2, 8""]",0,1
+Leigh 2016.pdf,Comorbid diagnosis / problems,"[""y, int, depression"", ""y, int, gad, depression"", ""y, int, gad, depression, history of anorexia nervosa - restrictive subtype"", ""y, int, panic attacks, angry outbursts"", ""y, int, selective mutism, depression""]","[""y, int""]",5,1
+Leigh 2016.pdf,Type of treatments,"[""ct-sad""]","[""cognitive therapy for social anxiety disorder adapted for adolescents""]",1,1
+Leigh 2016.pdf,Treatment protocol,"[""ct-sad adapted for adolescents; 14 individual 1.5-hour sessions plus follow-ups at 1, 2, and 3 months""]",[],1,0
+Leigh 2016.pdf,Treatment length,"[""14 sessions + 3 follow-up sessions over approximately 4-6 months""]","[""not reported""]",1,1
+Leigh 2016.pdf,Number of sessions,"[""17""]","[""14""]",1,1
+Leigh 2016.pdf,Treatment directed at,"[""child and parent""]","[""child""]",1,1
+Leigh 2016.pdf,Type of SCED design,"[""multiple-case pre-post case series with repeated (session-by-session) outcome measurement""]","[""ab design""]",1,1
+Leigh 2016.pdf,Frequent assessment variable broad category,"[""social anxiety; mood; classroom concentration; social anxiety-related cognitions, beliefs, and safety behaviors""]","[""anxiety symptoms""]",1,1
+Leigh 2016.pdf,Frequent assessment specific symptom,"[""classroom concentration vas"", ""gad-7"", ""liebowitz social anxiety scale (lsas)"", ""patient health questionnaire-9 (phq-9)"", ""revised child anxiety and depression scale - parent social anxiety subscale (rcads-p-sa)"", ""social attitudes questionnaire (saq)"", ""social behavior questionnaire (sbq)"", ""social cognitions questionnaire (scq; frequency and belief)"", ""social phobia weekly summary scale (spwss)""]","[""social anxiety symptoms""]",9,1
+Leigh 2016.pdf,Total Number of Observations,"[""approximately 15 lsas assessments per patient (assessment, 14 sessions, post, follow-up) plus weekly/fortnightly process and mood measures; exact number nr""]","[""15""]",1,1
+Leigh 2016.pdf,Quality rating RoBiNT scale,[],"[""13, 2, 11""]",0,1
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Sample type,"[""recruited""]","[""referred""]",1,1
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Primary diagnosis,"[""generalized anxiety disorder"", ""ocd"", ""social anxiety disorder""]","[""generalized anxiety disorder"", ""social anxiety disorder""]",1,0
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Comorbid diagnosis / problems,"[""adhd; sp"", ""adhd; sp; gad"", ""gad; adhd"", ""ptsd; odd; sad; gad; dysthymia; adhd"", ""sop; adhd; sp; mdd"", ""sop; gad"", ""sp""]","[""y, int, adhd, asd"", ""y, int, ads"", ""y, int, asd"", ""y, int, ext, adhd, asd""]",7,4
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Treatment protocol,"[""afiya (anxiety-focused interventions for youth with autism)"", ""biaca (behavioral interventions for anxiety in children with autism)""]","[""biaca/afiya""]",2,1
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Treatment length,"[""16 weekly cbt sessions following a 16-week waitlist/tau control period""]","[""16""]",1,1
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Type of SCED design,"[""nonconcurrent multiple-case series with pre-post assessments after prior randomized waitlist/tau control""]","[""pre-post design""]",1,1
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Data availability,"[""diagnosis"", ""frequent assessment""]","[""diagnosis""]",1,0
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Frequent assessment variable broad category,"[""anxiety symptoms""]",[],1,0
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Frequent assessment specific symptom,"[""overall pediatric anxiety severity (pars; adis-iv csr; cgi-severity/improvement)""]",[],1,0
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Total Number of Observations,"[""21 clinician-rated assessment points (7 cases × 3 time points: baseline, pre-treatment, post-treatment)""]",[],1,0
+Storch 2015 - A Case Series of Cognitive-Behavioral Therapy Augmentation of Antidepressant Medication for Anxiety in Children With Autism Spectrum Disorders.pdf,Quality rating RoBiNT scale,[],"[""12, 3, 9""]",0,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Gender,[],"[""not reported""]",0,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Type of treatments,"[""drawing and writing"", ""equine-assisted therapy"", ""therapeutic riding""]","[""equine-assisted therapy""]",2,0
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Treatment protocol,"[""abcba single-case protocol with 6 days of drawing/writing and 6 days of grooming/riding horses""]",[],1,0
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Treatment length,"[""12 consecutive intervention days plus 3-week pre- and post-baselines""]","[""2""]",1,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Type of SCED design,"[""abcba multiple baseline single case design across child-horse pairs""]","[""multiple baseline design""]",1,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Frequent assessment variable broad category,"[""biological stress marker""]","[""physiological symptoms""]",1,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Frequent assessment specific symptom,"[""salivary cortisol levels in children and horses""]","[""cortisol""]",1,1
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Total Number of Observations,"[""not reported""]","[""32"", ""33"", ""36"", ""38""]",1,4
+Yorke 2013 - Equine-assisted therapy and its impact on cortisol levels of children and horses  a pilot study and meta-analysis.pdf,Quality rating RoBiNT scale,[],"[""14, 9, 5""]",0,1
+Girling-Butcher 2009.pdf,__missing_prediction__,[],,0,
