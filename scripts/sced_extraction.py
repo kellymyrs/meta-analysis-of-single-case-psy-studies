@@ -42,8 +42,11 @@ from scripts.sced_fields import (
 
 _LLM: Optional[Llama] = None
 _CLIENT: Optional[OpenAI] = None
-DEFAULT_MAX_OUTPUT_TOKENS = 1800
+DEFAULT_MAX_OUTPUT_TOKENS = 3000
 DEFAULT_LITELLM_BASE_URL = "https://llmproxy.uva.nl"
+DEFAULT_VERIFIER_MODEL = "gpt-4.1"
+DEFAULT_VERIFY_DPI = 150
+VERIFICATION_VERDICTS = ("supported", "contradicted", "not_in_text", "inferred")
 
 
 def _load_dotenv() -> None:
@@ -322,6 +325,8 @@ def run_sced_extraction_full_text(
         "You are given per-chunk JSON extractions from one full study PDF. "
         "Merge them into one final JSON object using the required schema only. "
         "Prefer values supported repeatedly or most specifically. "
+        "Keep each field concise: use canonical labels rather than long excerpts, "
+        "and limit list fields to the distinct values needed for coding. "
         "Deduplicate list-like fields such as Gender, Age, Type of treatments, treatment protocol, "
         "number of sessions, total observations, and frequent assessment symptoms. "
         "Only output JSON.\n\n"
@@ -401,9 +406,262 @@ def run_sced_extraction_from_pdf(
     )
 
 
+def _verifier_model() -> str:
+    return os.getenv("SCED_VERIFIER_MODEL", DEFAULT_VERIFIER_MODEL).strip()
+
+
+def render_pdf_pages_to_data_urls(
+    pdf_path: Path,
+    dpi: int = DEFAULT_VERIFY_DPI,
+    max_pages: Optional[int] = None,
+) -> List[str]:
+    """Render every PDF page to a PNG and return base64 data: URLs (one per page).
+
+    Used to feed a vision verifier model that cannot ingest a PDF directly. Pages
+    are rendered in document order; ``max_pages`` caps how many are sent.
+    """
+    import fitz  # PyMuPDF; already a dependency via pdf_to_images.py
+
+    data_urls: List[str] = []
+    scale = dpi / 72.0
+    with fitz.open(pdf_path) as doc:
+        matrix = fitz.Matrix(scale, scale)
+        for index, page in enumerate(doc):
+            if max_pages is not None and index >= max_pages:
+                break
+            pix = page.get_pixmap(matrix=matrix, alpha=False)
+            encoded = base64.b64encode(pix.tobytes("png")).decode("ascii")
+            data_urls.append(f"data:image/png;base64,{encoded}")
+    return data_urls
+
+
+def _build_verifier_system_prompt() -> str:
+    guidance = build_guidance_prompt()
+    guidance_section = f"\nField coding rules the extractor followed:\n{guidance}\n" if guidance else "\n"
+    field_list = "\n".join(f"- {name}" for name in FIELDS)
+    return (
+        "You are an expert psychologist auditing a single-case experimental design "
+        "(SCED) data extraction. You are shown the page images of the full study PDF "
+        "and a set of field values another system extracted from it. Verify each value "
+        "STRICTLY against the page images. Try to REFUTE each value rather than assume "
+        "it is correct.\n\n"
+        "For every field return one verdict:\n"
+        '- "supported": the pages contain explicit text supporting the value. You MUST '
+        "copy a verbatim supporting quote from the pages into the \"quote\" field.\n"
+        '- "contradicted": the pages state something that conflicts with the value. You '
+        "MUST copy the verbatim conflicting text from the pages into the \"quote\" "
+        "field, so the disagreement can be checked.\n"
+        '- "not_in_text": the value cannot be located in the pages. Use this as the '
+        "default whenever you are uncertain.\n"
+        '- "inferred": the value is a reasonable inference but is not stated explicitly.\n\n'
+        "Fields to verify:\n"
+        f"{field_list}\n"
+        f"{guidance_section}"
+        "Respond with pure JSON of the exact form:\n"
+        '{ "<field name>": {"verdict": "<one verdict>", "quote": "<verbatim quote or empty>"}, ... }\n'
+        "Provide a verbatim quote for both \"supported\" and \"contradicted\" verdicts; "
+        "use an empty string for \"not_in_text\" and \"inferred\". The quote must be a "
+        "SINGLE short span copied from the document: do not concatenate multiple quotes, "
+        "do not add commentary, and do not include double-quote characters inside the "
+        "quote value. Do not add extra keys, commentary, or prose."
+    )
+
+
+def _parse_verification_with_retries(
+    *,
+    invoke: Any,
+    retries: int,
+    debug_label: str | None = None,
+) -> Optional[Dict[str, Dict[str, Any]]]:
+    last_error: Optional[Exception] = None
+
+    for attempt in range(1, retries + 1):
+        raw = invoke()
+        try:
+            parsed = normalize_field_keys(json.loads(_extract_json_text(raw)))
+            verdicts: Dict[str, Dict[str, Any]] = {}
+            for field in FIELDS:
+                entry = parsed.get(field)
+                if not isinstance(entry, dict):
+                    verdicts[field] = {"verdict": "not_in_text", "quote": ""}
+                    continue
+                verdict = str(entry.get("verdict", "")).strip().lower()
+                if verdict not in VERIFICATION_VERDICTS:
+                    verdict = "not_in_text"
+                quote = entry.get("quote") or ""
+                verdicts[field] = {"verdict": verdict, "quote": str(quote)}
+            return verdicts
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            label = f" [{debug_label}]" if debug_label else ""
+            preview = raw[:500] if isinstance(raw, str) else repr(raw)[:500]
+            print(
+                f"Verification JSON parse failed{label} attempt {attempt}/{retries}: {exc}\n"
+                f"Raw response preview:\n{preview}\n"
+            )
+
+    print(f"LLM verification failed after {retries} attempts: {last_error}")
+    return None
+
+
+def run_sced_verification_from_pdf(
+    pdf_path: Path,
+    record: Dict[str, Any],
+    retries: int = 3,
+) -> Optional[Dict[str, Dict[str, Any]]]:
+    """Verify an extracted record by attaching the full PDF to the Responses API.
+
+    This is the preferred verification path: the verifier model (default gpt-4.1,
+    override via SCED_VERIFIER_MODEL) ingests the PDF natively, so there is no page
+    rendering and no context-window blow-up on long documents. Requires proxy mode.
+    Returns a dict mapping each field to {"verdict", "quote"}, or None on failure.
+    """
+    if get_runtime_backend() != "proxy":
+        raise RuntimeError("SCED verification requires proxy mode with LITELLM_KEY configured.")
+
+    client = _get_client()
+    model = _verifier_model()
+    system_prompt = _build_verifier_system_prompt()
+    extracted = {field: record.get(field) for field in FIELDS}
+    instruction = (
+        "Verify the following extracted field values against the attached full study "
+        "PDF. Use the complete document. Only output the JSON object.\n\n"
+        f"EXTRACTED_VALUES:\n{json.dumps(extracted, ensure_ascii=False, indent=2)}"
+    )
+    encoded_pdf = base64.b64encode(pdf_path.read_bytes()).decode("ascii")
+    file_data = f"data:application/pdf;base64,{encoded_pdf}"
+
+    def invoke() -> str:
+        response = client.responses.create(
+            model=model,
+            input=[
+                {
+                    "role": "system",
+                    "content": [{"type": "input_text", "text": system_prompt}],
+                },
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "input_file",
+                            "filename": pdf_path.name,
+                            "file_data": file_data,
+                        },
+                        {"type": "input_text", "text": instruction},
+                    ],
+                },
+            ],
+            temperature=0.0,
+            max_output_tokens=_max_output_tokens(),
+            text={"format": {"type": "json_object"}},
+        )
+        return getattr(response, "output_text", "") or ""
+
+    return _parse_verification_with_retries(
+        invoke=invoke,
+        retries=retries,
+        debug_label=f"verify_pdf:{pdf_path.name}",
+    )
+
+
+def _is_context_length_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return "context length" in text or "context_length" in text or "maximum context" in text
+
+
+def run_sced_verification_from_images(
+    pdf_path: Path,
+    record: Dict[str, Any],
+    dpi: int = DEFAULT_VERIFY_DPI,
+    retries: int = 3,
+    max_pages: Optional[int] = None,
+) -> Optional[Dict[str, Dict[str, Any]]]:
+    """Verify an extracted record against the PDF page images with a vision model.
+
+    Returns a dict mapping each field to {"verdict", "quote"}, or None if all
+    retries fail. Requires proxy mode; the verifier model defaults to Qwen-2.5-VL
+    (override via SCED_VERIFIER_MODEL) and is reached over chat.completions with
+    image content, since it cannot ingest a PDF directly.
+
+    Long documents (e.g. dissertations) can exceed the model's context window. On a
+    context-length error the call is retried with progressively lower DPI, then with
+    a page cap, so very long PDFs degrade to a legible-but-smaller subset rather than
+    failing outright. The page subset used is reported by the caller as a partial run.
+    """
+    if get_runtime_backend() != "proxy":
+        raise RuntimeError("SCED verification requires proxy mode with LITELLM_KEY configured.")
+
+    client = _get_client()
+    model = _verifier_model()
+    system_prompt = _build_verifier_system_prompt()
+    extracted = {field: record.get(field) for field in FIELDS}
+    instruction = (
+        "Verify the following extracted field values against the attached page "
+        "images of the full study PDF. Only output the JSON object.\n\n"
+        f"EXTRACTED_VALUES:\n{json.dumps(extracted, ensure_ascii=False, indent=2)}"
+    )
+
+    # Fallback ladder for documents that overflow the context window: first shrink
+    # the images (lower DPI), then cap the number of pages sent.
+    attempts: List[Dict[str, Optional[int]]] = [{"dpi": dpi, "max_pages": max_pages}]
+    for fallback_dpi in (max(dpi // 2, 72), 72):
+        if fallback_dpi < dpi:
+            attempts.append({"dpi": fallback_dpi, "max_pages": max_pages})
+    attempts.append({"dpi": 72, "max_pages": min(max_pages or 40, 40)})
+
+    last_error: Optional[Exception] = None
+    for attempt in attempts:
+        data_urls = render_pdf_pages_to_data_urls(
+            pdf_path, dpi=attempt["dpi"], max_pages=attempt["max_pages"]
+        )
+        if not data_urls:
+            print(f"No pages rendered for {pdf_path.name}; skipping verification.")
+            return None
+
+        user_content: List[Dict[str, Any]] = [{"type": "text", "text": instruction}]
+        for url in data_urls:
+            user_content.append({"type": "image_url", "image_url": {"url": url}})
+
+        def invoke() -> str:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content},
+                ],
+                temperature=0.0,
+                max_completion_tokens=_max_output_tokens(),
+            )
+            content = response.choices[0].message.content
+            return content or ""
+
+        try:
+            return _parse_verification_with_retries(
+                invoke=invoke,
+                retries=retries,
+                debug_label=f"verify:{pdf_path.name}",
+            )
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            if _is_context_length_error(exc):
+                print(
+                    f"Context overflow for {pdf_path.name} at dpi={attempt['dpi']} "
+                    f"max_pages={attempt['max_pages']}; retrying smaller."
+                )
+                continue
+            raise
+
+    if last_error is not None:
+        raise last_error
+    return None
+
+
 __all__ = [
     "run_sced_extraction",
     "run_sced_extraction_full_text",
     "run_sced_extraction_from_pdf",
+    "run_sced_verification_from_pdf",
+    "run_sced_verification_from_images",
+    "render_pdf_pages_to_data_urls",
     "get_runtime_backend",
 ]

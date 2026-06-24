@@ -7,16 +7,16 @@
   "skipped_fields": [
     "Study"
   ],
-  "silver_rows": 168,
-  "review_rows": 1460,
+  "silver_rows": 824,
+  "review_rows": 804,
   "status_counts": {
-    "all_different": 537,
+    "all_different": 536,
     "all_missing": 5,
     "legacy_llm_a_agree": 11,
-    "legacy_llm_b_agree": 652,
+    "legacy_llm_b_agree": 653,
     "one_source_only": 224,
-    "silver_auto": 168,
-    "two_llms_agree_legacy_diff": 36
+    "silver_auto": 171,
+    "two_llms_agree_legacy_diff": 33
   },
   "field_status_counts": {
     "Age": {
@@ -132,11 +132,11 @@
       "legacy_llm_b_agree": 69
     },
     "Type of treatments": {
-      "all_different": 33,
+      "all_different": 32,
       "legacy_llm_a_agree": 5,
-      "legacy_llm_b_agree": 8,
-      "silver_auto": 11,
-      "two_llms_agree_legacy_diff": 14
+      "legacy_llm_b_agree": 9,
+      "silver_auto": 14,
+      "two_llms_agree_legacy_diff": 11
     }
   },
   "input_coverage": {

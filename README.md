@@ -73,7 +73,18 @@ Run all commands from the project root.
      --gold data/sced_gold.jsonl
    ```
 
-11. Create silver candidates and a field-level review sheet from legacy coding plus two LLM runs:
+11. (Optional) Independently verify the extractions against the source PDFs, then fold the verdicts into evaluation. A separate verifier model (default `gpt-4.1`, which reads the full PDF natively) judges each field as `supported` / `contradicted` / `not_in_text` / `inferred` against the document, never against gold. Passing `--verification` to the evaluator cross-tabs that verdict with model-vs-gold agreement and writes a `*_gold_suspect.csv` of fields the model and gold disagree on but the verifier judged supported (candidate gold-standard errors):
+   ```bash
+   python -m scripts.verify_sced_results \
+     --predictions extracted_text/sced_results_full_pdf.jsonl
+
+   python -m scripts.evaluate_sced_results \
+     --predictions extracted_text/sced_results_full_pdf.jsonl \
+     --gold data/sced_gold.jsonl \
+     --verification extracted_text/sced_verification.jsonl
+   ```
+
+12. Create silver candidates and a field-level review sheet from legacy coding plus two LLM runs:
    ```bash
    python -m scripts.sced_review \
      --legacy data/sced_gold.jsonl \
@@ -81,36 +92,36 @@ Run all commands from the project root.
      --llm-b extracted_text/sced_results_full_pdf.jsonl
    ```
 
-12. Check for likely PDF-to-gold alignment problems before reviewing field values:
+13. Check for likely PDF-to-gold alignment problems before reviewing field values:
    ```bash
    python -m scripts.report_pdf_alignment_issues
    ```
 
-13. Add LLM-B-first suggested values and a smaller high-priority batch for manual checking:
+14. Add LLM-B-first suggested values and a smaller high-priority batch for manual checking:
    ```bash
    python -m scripts.suggest_review_values
    ```
 
-14. After checking PDF evidence and filling any remaining blank `reviewed_value_json` rows in `review/disagreements_with_suggestions.csv`, build a reviewed gold file:
+15. After checking PDF evidence and filling any remaining blank `reviewed_value_json` rows in `review/disagreements_with_suggestions.csv`, build a reviewed gold file:
    ```bash
    python -m scripts.sced_review --build-gold \
      --review-csv review/disagreements_with_suggestions.csv \
      --gold-output data/sced_gold_reviewed_v1.jsonl
    ```
 
-15. Evaluate only reviewed disagreement rows, without any train/test split:
+16. Evaluate only reviewed disagreement rows, without any train/test split:
    ```bash
    python -m scripts.evaluate_review_disagreements \
      --reference reviewed \
      --output review/disagreement_evaluation.json
    ```
 
-16. Split the SCED gold dataset into train/test JSONL files:
+17. Split the SCED gold dataset into train/test JSONL files:
    ```bash
    python -m scripts.split_sced_dataset
    ```
 
-17. Split the SCED gold dataset and run the model on one split:
+18. Split the SCED gold dataset and run the model on one split:
    ```bash
    python -m scripts.run_sced_split_experiment --split test --evaluate
    ```
@@ -173,13 +184,28 @@ Run all commands from the project root.
   - Optional custom evaluation folder: `python -m scripts.batch_sced_analysis --gold data/sced_gold.jsonl --evaluation-dir custom_eval_dir`
   - Single paper: `python -m scripts.batch_sced_analysis --mode full_pdf --pdf "Taylor 2011.pdf"`
 
+- `scripts/sced_extraction.py` (verification)
+  - What it does: beyond extraction, exposes `run_sced_verification_from_pdf()` (preferred: attaches the full PDF to the Responses API so the verifier reads the whole document with no page rendering) and `run_sced_verification_from_images()` (renders pages and sends them to a vision model such as `Qwen-2.5-VL`). Both apply a refute-style prompt and return a per-field verdict (`supported`/`contradicted`/`not_in_text`/`inferred`) with a verbatim quote for `supported` and `contradicted`.
+  - Model config: proxy mode (`LITELLM_KEY`). Verifier model via `SCED_VERIFIER_MODEL` (default `gpt-4.1`); image-mode DPI via the orchestrator's `--dpi`.
+
+- `scripts/verify_sced_results.py`
+  - What it does: an independent, source-grounded check on the extractions. For each predicted record it locates the PDF in `input/`, runs the verifier, optionally string-matches each quote against the PDF text (flagging non-verbatim quotes as `quote_unmatched`), and records per-field verdicts. The verifier never sees the gold standard, so it complements evaluation against gold. `--mode pdf` (default) reads the PDF natively and handles long documents (e.g. dissertations); `--mode images` renders pages for a vision model.
+  - Reads: a predictions JSONL file, PDFs in `input/`
+  - Writes: `extracted_text/sced_verification.jsonl` (per-paper `{verdicts, summary}`)
+  - Run: `python -m scripts.verify_sced_results --predictions extracted_text/sced_results_full_pdf.jsonl`
+  - Single paper: `python -m scripts.verify_sced_results --predictions extracted_text/sced_results_full_pdf.jsonl --pdf "Taylor 2011.pdf"`
+  - Image mode (Qwen): `SCED_VERIFIER_MODEL=Qwen-2.5-VL python -m scripts.verify_sced_results --predictions extracted_text/sced_results_full_pdf.jsonl --mode images --dpi 150`
+
 - `scripts/evaluate_sced_results.py`
   - What it does: compares predicted SCED JSONL records against gold-standard JSONL records and reports micro-averaged precision, recall, F1, per-field metrics, and per-paper details.
-  - Normalization: uses reusable aliases from `data/normalization_aliases.json`, plus field-specific cleanup for countries, diagnosis abbreviations, treatment names, SCED design labels, numeric units, age ranges/lists, and common frequent-assessment typos.
+  - Verification cross-tab: with `--verification extracted_text/sced_verification.jsonl`, it cross-tabs the verifier verdict against per-field model-vs-gold agreement (a field "agrees" when its exact `fp` and `fn` are both zero), adds a `verification_crosstab` section to the JSON, and writes a `<predictions>_evaluation_gold_suspect.csv` listing fields where the model and gold disagree but the verifier judged the model supported (candidate gold-standard errors). The identifier field `Study` is skipped in the cross-tab only.
+  - Normalization: uses reusable aliases from `data/normalization_aliases.json`, plus field-specific cleanup for countries, diagnosis abbreviations, treatment names, SCED design labels, numeric units, age ranges/lists, and common frequent-assessment typos. For the numeric/count fields (`Treatment length`, `Number of sessions`, `Total Number of Observations`, `Drop-outs`), `NR`/`not reported` normalizes to absent so it matches a null gold instead of scoring as a mismatch; categorical fields keep "not reported" as a real value.
+  - Excluded fields: two of the 24 fields are excluded from the headline metric for documented reasons (`FIELD_EXCLUSION_REASONS`). `Quality rating RoBiNT scale` is *reviewer-assigned* (the meta-analysts code it during review; it is not stated in the source paper). `Total Number of Observations` is *figure-dependent* (it equals the number of data points plotted on the per-case time-series graph, which the text/full-PDF-text pipeline cannot read). Both are still emitted by the extractor; they just do not count toward precision/recall/F1. The output JSON records `scored_field_count` and `excluded_fields` with their reasons.
   - Reads: a predictions JSONL file and a gold JSONL file with one record per PDF
   - Writes: `evaluation_results/<predictions>_evaluation.json` by default
   - Run: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
   - Custom output path: `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl --output custom_eval_dir/sced_results_evaluation.json`
+  - Sensitivity analysis (score all 24 fields, including the two exclusions): `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl --include-excluded-fields`
 
 - `scripts/sced_review.py`
   - What it does: treats `data/sced_gold.jsonl` as legacy human coding, compares it with two independent LLM JSONL outputs field-by-field, accepts non-empty normalized three-way agreement and legacy plus full-PDF agreement as silver, and writes remaining disagreements to a human review sheet.
@@ -228,8 +254,8 @@ Run all commands from the project root.
   - With evaluation: `python -m scripts.run_sced_split_experiment --split test --evaluate`
   - Optional custom evaluation folder: `python -m scripts.run_sced_split_experiment --split test --evaluate --evaluation-dir custom_eval_dir`
   - Full-PDF mode: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --evaluate`
-  - Full-PDF mode with fallback for oversized PDFs: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --full-pdf-context-fallback full_text --model-setup few_shot --evaluate`
-  - Few-shot examples are randomly selected from the training split with `--seed` by default. Use `--few-shot-seed` to change only the example selection.
+  - Full-PDF mode with fallback for oversized PDFs: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --full-pdf-context-fallback full_text --full-pdf-fallback-pdf "Girling-Butcher 2009.pdf" --model-setup few_shot --evaluate`
+  - Few-shot examples (default `--few-shot-count 5`) are selected from the training split stratified by `Type of SCED design`: the picker round-robins across design buckets (largest first, seeded tie-break and within-bucket shuffle) so the example set spans distinct designs and value shapes instead of clustering on the most common design. Selection is deterministic for a given seed. Use `--few-shot-seed` to change only the example selection.
   - Few-shot with selected training examples: `python -m scripts.run_sced_split_experiment --split test --mode full_pdf --model-setup few_shot --few-shot-pdf "Ooi 2012.pdf" --few-shot-pdf "Cooper-Vince 2016.pdf" --evaluate`
 
 ## 4. LLM Model Configuration
@@ -315,8 +341,15 @@ Set `MODEL_PATH` to your actual `.gguf` file and rerun.
   - `extracted_text/<paper>_sced_full_text.json`
   - `extracted_text/sced_results_full_text.jsonl`
 
+- `python -m scripts.verify_sced_results --predictions extracted_text/sced_results_full_pdf.jsonl`
+  - `extracted_text/sced_verification.jsonl`
+
 - `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results.jsonl --gold data/sced_gold.jsonl`
   - `evaluation_results/sced_results_evaluation.json`
+
+- `python -m scripts.evaluate_sced_results --predictions extracted_text/sced_results_full_pdf.jsonl --gold data/sced_gold.jsonl --verification extracted_text/sced_verification.jsonl`
+  - `evaluation_results/sced_results_full_pdf_evaluation.json` (includes `verification_crosstab` section)
+  - `evaluation_results/sced_results_full_pdf_evaluation_gold_suspect.csv`
 
 - `python -m scripts.sced_review`
   - `review/silver_candidates.csv`
@@ -380,3 +413,4 @@ Evaluation treats each field as a normalized set of values:
 - scalar fields count as one predicted/gold item
 - list fields are compared item-by-item
 - metrics reported are precision, recall, F1, and exact-match rate
+- by default 22 of the 24 fields are scored; `Quality rating RoBiNT scale` (reviewer-assigned) and `Total Number of Observations` (figure-dependent) are excluded with recorded reasons, unless `--include-excluded-fields` is passed

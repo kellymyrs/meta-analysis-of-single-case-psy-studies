@@ -4,6 +4,7 @@ import argparse
 import json
 import logging
 import random
+import re
 from pathlib import Path
 import sys
 from typing import Any
@@ -70,6 +71,16 @@ def parse_args() -> argparse.Namespace:
         ),
     )
     parser.add_argument(
+        "--full-pdf-fallback-pdf",
+        action="append",
+        default=[],
+        help=(
+            "Exact PDF filename that may use --full-pdf-context-fallback after any "
+            "full-PDF extraction failure. Can be passed multiple times for known "
+            "oversized or proxy-problem PDFs."
+        ),
+    )
+    parser.add_argument(
         "--evaluate",
         action="store_true",
         help="Evaluate the predictions against the selected split after extraction.",
@@ -83,8 +94,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--few-shot-count",
         type=int,
-        default=3,
-        help="Number of training-set examples to include for few-shot extraction.",
+        default=5,
+        help=(
+            "Number of training-set examples to include for few-shot extraction. "
+            "Examples are stratified across SCED designs (round-robin) so the set "
+            "spans distinct designs and value shapes."
+        ),
     )
     parser.add_argument(
         "--few-shot-pdf",
@@ -212,6 +227,18 @@ def resolve_project_path(path_value: str) -> Path:
     return path
 
 
+DIVERSITY_FIELD = "Type of SCED design"
+
+
+def _diversity_key(record: dict[str, Any]) -> str:
+    """Coarse SCED-design label used to stratify few-shot example selection."""
+    value = record.get(DIVERSITY_FIELD)
+    if isinstance(value, list):
+        value = ", ".join(str(item) for item in value)
+    text = re.sub(r"\s+", " ", str(value or "").strip().lower())
+    return text or "unknown"
+
+
 def select_few_shot_examples(
     training_records: list[dict[str, Any]],
     count: int,
@@ -236,9 +263,39 @@ def select_few_shot_examples(
         return [records_by_pdf[pdf_name] for pdf_name in selected_pdfs]
     if count == 0:
         return []
-    examples = list(training_records)
-    random.Random(seed).shuffle(examples)
-    return examples[:count]
+
+    # Stratify by SCED design so the example set spans distinct designs and
+    # value shapes. Plain random selection clusters on whatever design is most
+    # common, and few-shot then anchors the model on those example values
+    # (e.g. session/observation counts), which hurts the numeric fields. A
+    # round-robin over design buckets gives every distinct design a slot before
+    # any design repeats, diluting that anchoring.
+    rng = random.Random(seed)
+    buckets: dict[str, list[dict[str, Any]]] = {}
+    for record in training_records:
+        buckets.setdefault(_diversity_key(record), []).append(record)
+
+    # Seeded shuffle for tie-breaking, then largest design buckets first so
+    # common designs stay represented while rare ones still appear early.
+    bucket_items = list(buckets.items())
+    rng.shuffle(bucket_items)
+    bucket_items.sort(key=lambda item: len(item[1]), reverse=True)
+
+    queues: list[list[dict[str, Any]]] = []
+    for _key, records in bucket_items:
+        shuffled = list(records)
+        rng.shuffle(shuffled)
+        queues.append(shuffled)
+
+    selected: list[dict[str, Any]] = []
+    while len(selected) < count and any(queues):
+        for queue in queues:
+            if not queue:
+                continue
+            selected.append(queue.pop(0))
+            if len(selected) >= count:
+                break
+    return selected
 
 
 def run_model_for_pdf(
@@ -246,6 +303,7 @@ def run_model_for_pdf(
     mode: str,
     few_shot_examples: list[dict[str, Any]] | None = None,
     full_pdf_context_fallback: str = "none",
+    full_pdf_fallback_pdfs: set[str] | None = None,
 ) -> dict[str, Any] | None:
     from scripts.sced_extraction import (
         run_sced_extraction,
@@ -266,17 +324,35 @@ def run_model_for_pdf(
     try:
         return run_sced_extraction_from_pdf(pdf_path, few_shot_examples=few_shot_examples)
     except Exception as exc:
-        if full_pdf_context_fallback == "none" or "context_length_exceeded" not in str(exc):
+        if full_pdf_context_fallback == "none" or not should_use_full_pdf_fallback(
+            exc,
+            pdf_name,
+            full_pdf_fallback_pdfs or set(),
+        ):
             raise
         logging.warning(
-            "Full-PDF extraction exceeded context for %s; retrying with %s fallback.",
+            "Full-PDF extraction failed for %s; retrying with %s fallback. Error: %s",
             pdf_name,
             full_pdf_context_fallback,
+            exc,
         )
         blocks = ensure_blocks(pdf_path)
         if full_pdf_context_fallback == "full_text":
             return run_sced_extraction_full_text(blocks, few_shot_examples=few_shot_examples)
         return run_sced_extraction(blocks, few_shot_examples=few_shot_examples)
+
+
+def should_use_full_pdf_fallback(
+    exc: Exception,
+    pdf_name: str,
+    forced_fallback_pdfs: set[str],
+) -> bool:
+    error_text = str(exc).lower()
+    is_context_error = (
+        "context_length_exceeded" in error_text
+        or "exceeds the context window" in error_text
+    )
+    return is_context_error or pdf_name in forced_fallback_pdfs
 
 
 def run_selected_model_setup(
@@ -293,6 +369,7 @@ def run_selected_model_setup(
     few_shot_pdfs: list[str],
     few_shot_seed: int,
     full_pdf_context_fallback: str,
+    full_pdf_fallback_pdfs: set[str],
 ) -> None:
     from scripts.evaluate_sced_results import evaluate_jsonl_files
 
@@ -329,6 +406,7 @@ def run_selected_model_setup(
                 mode,
                 few_shot_examples=few_shot_examples,
                 full_pdf_context_fallback=full_pdf_context_fallback,
+                full_pdf_fallback_pdfs=full_pdf_fallback_pdfs,
             )
             if result is None:
                 logging.warning("No result for %s", pdf_name)
@@ -429,6 +507,7 @@ def main() -> None:
             few_shot_pdfs=args.few_shot_pdf,
             few_shot_seed=args.few_shot_seed if args.few_shot_seed is not None else args.seed,
             full_pdf_context_fallback=args.full_pdf_context_fallback,
+            full_pdf_fallback_pdfs=set(args.full_pdf_fallback_pdf),
         )
 
 
